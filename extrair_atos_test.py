@@ -12,7 +12,7 @@ class asobject(object):
 if __name__ == "__main__":
     # Verificando argumentos passados para o programa.
     if len(sys.argv) < 4:
-        print("Usage: python extrair_atos.py <caminho para arquivo com resultado de extração> <desc> <path>", file=sys.stderr)
+        print("Usage: python extrair_atos_test.py <caminho para arquivo com resultado de extração> <desc> <path>", file=sys.stderr)
         sys.exit(1)
 
     # Argumentos recebidos.
@@ -28,7 +28,10 @@ if __name__ == "__main__":
 
     # Processando cada resultado.
     for res in resultados:
-        res = json.loads(res, object_hook=asobject)
+        # Transformando a string JSON em dicionário
+        res = json.loads(res)  # Desserializando a string JSON em um dicionário
+        res = asobject(res)  # Convertendo o dicionário para um objeto
+
         diario = diario_municipal.Diario(
             diario_municipal.Municipio(res.municipio),
             res.cabecalho,
@@ -40,7 +43,7 @@ if __name__ == "__main__":
         # Criando a estrutura de atos no formato correto.
         atos_processados = []
         for ato in diario.atos:
-            ato_json = json.loads(ato)  # Transformando o ato em dicionário.
+            ato_json = json.loads(str(ato))  # Transformando o ato em dicionário.
             atos_processados.append({
                 "partes_contratadas": ato_json.get("partes_contratadas", []),
                 "cod": ato_json.get("cod", ""),
@@ -55,10 +58,14 @@ if __name__ == "__main__":
         })
 
     # Criando a saída final.
+    
+    # Ajustando para acessar o primeiro item de resultados corretamente
+    cabecalho = resultados[0]["cabecalho"] if len(resultados) > 0 else "Cabeçalho não encontrado"
+
     saida = {
         "desc": desc,
         "path": path,
-        "cabecalho": resultados[0]["cabecalho"],  # Usando o primeiro cabeçalho.
+        "cabecalho": cabecalho,  # Usando o cabeçalho do primeiro diário.
         "diarios": diarios_processados,
     }
 
