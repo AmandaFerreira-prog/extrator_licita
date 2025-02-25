@@ -16,7 +16,7 @@ class AtoContratual:
     #Todas as regex prontas para valores,partes contratadas e objeto do contrato
     #regexs criadas a partir de documento teste para 24 diarios diversificados de todos o periodo(2014-2023)
     re_valor = r"(?i)(?:Valor:\s*|- |VALOR TOTAL:\s*|valor global de\s*|,?\s*Valor Global do presente Contrato é de\s*|VALOR DO CONTRATO:\s*|Remuneração:\s*|VALOR TOTAL ESTIMADO:\s*|valor de (?:R\$)?\s*| VALOR GLOBAL:?\s*)R\$\s*([0-9]{1,3}(?:\.[0-9]{3})*(?:,\d{2})?)(?!.+valor global)"
-    re_partes = r"(?is)(?:(?<!A\s)CONTRATANTE\s(?!\:)|(?<!ao\s)CONTRATAD[oa]:?(?!\,| objeto:)\s?(?:\(A\):)?\s?|[–-] \d{2}\.\d{2}\.\d{2} [–-]|PB –(?:CONTRATANTE)?\s|PARTES:\s.*?(?:\d{4}-\d{2} |\d{3}.\d{3}.\d{3}-\d{2} )e\s|E A(?:S)? EMPRESA(?:S)?:\s|e Pessoa Física:\s|R\$\s\d{1,3}\.\d{1,3}\,\d{1,2}(?:\;\s|\se\s))(.*?)(?:\d{11}|\,?\sCNPJ|\,?\.?\sCPF| - R\$|\.?\sCONTRATADA|- (?!.*?LTDA)|\.?\sFunção|– CONTRATO| –|Objeto|\s\.\s|\s- Contrato|CLÁUSULA|\-?\sEPP|\,?\s?inscrit[oa])"
+    re_partes = r"(?:(?<!A\s)CONTRATANTE\s(?!\:)|(?<!ao\s)CONTRATAD[oa]:?(?!\,| objeto:|\))\s?(?:\(A\):)?\s?|[–-] \d{2}\.\d{2}\.\d{2} [–-]|PB –(?:CONTRATANTE)?\s|PARTES:\s.*?(?:\d{4}-\d{2} |\d{3}.\d{3}.\d{3}-\d{2} )e\s|E A(?:S)? EMPRESA(?:S)?:\s|e Pessoa Física:\s|R\$\s\d{1,3}\.\d{1,3}\,\d{1,2}(?:\;\s|\se\s)|A EMPRESA\s[–-]\s[–-]?\s?)(.*?)(?:\d{11}|\,?\sCNPJ|\,?\.?\sCPF| - R\$|\.?\sCONTRATADA|- (?!.*?LTDA)|\.?\sFunção|– CONTRATO| –|Objeto|\s\.\s|\s- Contrato|CLÁUSULA|\-?\sEPP|\,?\s?inscrit[oa]|\,?\s?portador)"
     re_objeto = r"(?is)(?:objeto:\s*)(.*?)(?:\.?\s*valor|\,?\s*celebrado|\.?\s*FUNDAMENTO LEGAL|PROCEDIMENTO DE CONTRATAÇÃO DIRETA:|\.\s)"
     re_contrato = r"(?i)(EXTRATO D[EO] CONTRATO|TERMO ADITIVO (?:AO|DE) CONTRATO|EXTRATO DE ADITIVO)[\s\S]*?"
 
@@ -56,8 +56,18 @@ class AtoContratual:
         self.objetos = [match.strip() for match in objeto_matches]
 
     def formatar_valor(self, valor: str) -> float:
-        # Remove espaços e formata o valor para float
-        valor = valor.replace('.', '').replace(',', '.')
+        valor = valor.strip()
+    
+        # Ajusta os separadores de milhar e decimal corretamente
+        if "," in valor and "." in valor:
+            if valor.rfind(",") > valor.rfind("."):
+                valor = valor.replace(".", "").replace(",", ".")  # Milhar: ponto, Decimal: vírgula
+            else:
+                valor = valor.replace(",", "")  # Remove separador de milhar
+        else:
+            valor = valor.replace(".", "").replace(",", ".")  # Converte para float-friendly
+
+        # Converte para float
         return float(valor)
 
     def __str__(self):
