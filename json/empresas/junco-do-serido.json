@@ -1,0 +1,1420 @@
+{
+  "id": "junco-do-serido",
+  "nome": "Junco do Seridó",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 356841.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 69,
+        "num_contratos": 21,
+        "total_gasto": 3192243.4399999995
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 50308.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 45500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico Musical da BANDA FORROZÃO\nGENILDO & GINALDO para festividades alusivas ao SÃO\nPEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2014",
+            "empresa": "Contratante\nAGENALDO SOARES DA SILVA",
+            "valor_total": "R$ 15,500.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico Musical da BANDA FORROZÃO\nGENILDO & GINALDO para festividades alusivas ao SÃO\nPEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2014",
+            "empresa": "CNPJ: 17.142.659/0001-85",
+            "valor_total": "R$ 15,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 660080.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1970084.4400000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 74429.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Construção destinado a Implantação de\nEsgotamento Sanitário no Bairro Santo Antônio na Sede do\nMunicípio de Junco do Seridó-PB",
+            "empresa": "PEDRO HENRICH FERREIRA RODRIGUES",
+            "valor_total": "R$ 74,429.00"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção destinado a Implantação de\nEsgotamento Sanitário no Bairro Santo Antônio na Sede do\nMunicípio de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 74,429.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 35000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 52,
+        "num_contratos": 14,
+        "total_gasto": 442977.8
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 237177.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada de MATERIAL DE CONSUMO (Hidráulico /\nConstrução / Mecânico / Outros) destinado a diversos órgãos\nadministrativos da Prefeitura do Município de Junco do Seridó-PB",
+            "empresa": "CONTRATANTE\n\nATACADÃOS DOS PARAFUSOS",
+            "valor_total": "R$ 237,177.80"
+          },
+          {
+            "objeto": "Aquisição Parcelada de MATERIAL DE CONSUMO (Hidráulico /\nConstrução / Mecânico / Outros) destinado a diversos órgãos\nadministrativos da Prefeitura do Município de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 237,177.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 64300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico Musical da BANDA OS TRÊS DO\nNORDESTE, através de empresário exclusivo, para festividades alusivas ao\nSÃO PEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2015",
+            "empresa": "Contratante\n\nIVANDRO OLIVEIRA DE ARAÚJO",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico Musical da BANDA OS TRÊS DO\nNORDESTE, através de empresário exclusivo, para festividades alusivas ao\nSÃO PEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2015",
+            "empresa": "CNPJ: 08.397.547/0001-84",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico Musical do CANTOR RODOLFO LOPES\npara festividades alusivas ao SÃO PEDRO na Sede do Município de Junco\ndo Seridó-PB, no dia 29 de Junho de 2015",
+            "empresa": "Contratante\n\nRODOLFO LOPES DA SILVA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico Musical do CANTOR RODOLFO LOPES\npara festividades alusivas ao SÃO PEDRO na Sede do Município de Junco\ndo Seridó-PB, no dia 29 de Junho de 2015",
+            "empresa": "CNPJ: 20.659.771/0001-00",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE LOCAÇÃO DE PALCO, SOM E GERADOR DESTINADO\nAS FESTIVIDADES ALUSIVAS AO SÃO PEDRO NA SEDE DO\nMUNICÍPIO DE JUNCO DO SERIDÓ-PB, NO DIA 29 DE JUNHO DE 2015",
+            "empresa": "CONTRATANTE\n\nERIKA MARQUES DE FRANÇA",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE LOCAÇÃO DE PALCO, SOM E GERADOR DESTINADO\nAS FESTIVIDADES ALUSIVAS AO SÃO PEDRO NA SEDE DO\nMUNICÍPIO DE JUNCO DO SERIDÓ-PB, NO DIA 29 DE JUNHO DE 2015",
+            "empresa": "",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE LOCAÇÃO DE BANHEIROS QUÍMICOS\nDESTINADO AS FESTIVIDADES ALUSIVAS AO SÃO PEDRO\nNA SEDE DO MUNICÍPIO DE JUNCO DO SERIDÓ-PB, NO DIA\n29 DE JUNHO DE 2015",
+            "empresa": "CONTRATANTE\n\nAGENALDO SOARES DA SILVA",
+            "valor_total": "R$ 1,800.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE LOCAÇÃO DE BANHEIROS QUÍMICOS\nDESTINADO AS FESTIVIDADES ALUSIVAS AO SÃO PEDRO\nNA SEDE DO MUNICÍPIO DE JUNCO DO SERIDÓ-PB, NO DIA\n29 DE JUNHO DE 2015",
+            "empresa": "",
+            "valor_total": "R$ 1,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 68400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 24100.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 14000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 35000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 65,
+        "num_contratos": 19,
+        "total_gasto": 3182299.26
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 2348961.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 151820.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 206550.99,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico Musical, por intermédio de Empresário\nExclusivo, para festividades alusivas ao SÃO PEDRO fora de época na Sede\ndo Município de Junco do Seridó-PB, nos dias 29 e 30 de Julho de 2016",
+            "empresa": "Contratante\n\nHEMERSON KERLL DE MEDEIROS DANTAS–ME–Contratada",
+            "valor_total": "R$ 57,000.00"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DA COBERTURA DA QUADRA\nPOLIESPORTIVA DA ESCOLA MUNICIPAL DE ENSINO\nFUNDAMENTAL SANTO ONOFRE, NA SEDE DO\nMUNICÍPIO DE JUNCO DO SERIDÓ-PB\nPartes: PREFEITURA MUNICIPAL DE JUNCO DO SERIDÓ-\nPB – Contratante\nJOSÉ IVANILDO DE SOUSA – ME – Contratada\nCNPJ: 20.425.271/0001-04\nFonte de Recursos: CONVÊNIO Nº 0377/2015\nGOVERNO DO ESTADO DA PARAÍBA\nSECRETARIA DE ESTADO DA EDUCAÇÃO\nPeríodo de Vigência: De 27.07.2016 até 31.12.2016",
+            "empresa": "Contratante\nJOSÉ IVANILDO DE SOUSA",
+            "valor_total": "R$ 149,550.99"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DA COBERTURA DA QUADRA\nPOLIESPORTIVA DA ESCOLA MUNICIPAL DE ENSINO\nFUNDAMENTAL SANTO ONOFRE, NA SEDE DO\nMUNICÍPIO DE JUNCO DO SERIDÓ-PB\nPartes: PREFEITURA MUNICIPAL DE JUNCO DO SERIDÓ-\nPB – Contratante\nJOSÉ IVANILDO DE SOUSA – ME – Contratada\nCNPJ: 20.425.271/0001-04\nFonte de Recursos: CONVÊNIO Nº 0377/2015\nGOVERNO DO ESTADO DA PARAÍBA\nSECRETARIA DE ESTADO DA EDUCAÇÃO\nPeríodo de Vigência: De 27.07.2016 até 31.12.2016",
+            "empresa": "",
+            "valor_total": "R$ 149,550.99"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 307368.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 69597.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 38000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 144000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 84,
+        "num_contratos": 46,
+        "total_gasto": 6238852.930000001
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 1425850.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1440384.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 1226157.9000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Medicamentos de A a Z da linha farma, através da\noferta de maior porcentagem de desconto sobre a tabela da ABC\nFarma, com solicitação diária e entrega imediata, nos quantitativos\nsolicitados pelo Fundo Municipal de Saúde deste município,\nvisando atender a população em situação de vulnerabilidade social",
+            "empresa": "NELFARMA COM. DE PRODUTOS QUÍMICOS LTDA",
+            "valor_total": "R$ 163,459.00"
+          },
+          {
+            "objeto": "Aquisição de Medicamentos de A a Z da linha farma, através da\noferta de maior porcentagem de desconto sobre a tabela da ABC\nFarma, com solicitação diária e entrega imediata, nos quantitativos\nsolicitados pelo Fundo Municipal de Saúde deste município,\nvisando atender a população em situação de vulnerabilidade social",
+            "empresa": "",
+            "valor_total": "R$ 163,459.00"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS PSICOTRÓPICOS INJETÁVEIS\ndestinados a Rede Pública de Saúde do Município de Junco do\nSeridó-PB",
+            "empresa": "A COSTA COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA",
+            "valor_total": "R$ 11,530.50"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS PSICOTRÓPICOS INJETÁVEIS\ndestinados a Rede Pública de Saúde do Município de Junco do\nSeridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 11,530.50"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS para atender as necessidades da\nRede Pública de Saúde do Município de Junco do Seridó-PB",
+            "empresa": "A COSTA COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA",
+            "valor_total": "R$ 295,307.87"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS para atender as necessidades da\nRede Pública de Saúde do Município de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 295,307.87"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS para atender as necessidades da\nRede Pública de Saúde do Município de Junco do Seridó-PB",
+            "empresa": "CIRUFARMA COMERCIAL TLDA",
+            "valor_total": "R$ 69,596.80"
+          },
+          {
+            "objeto": "Aquisição de MEDICAMENTOS para atender as necessidades da\nRede Pública de Saúde do Município de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 69,596.80"
+          },
+          {
+            "objeto": "Aquisição de MATERIAL MÉDICO HOSPITALAR para atender\nas necessidades da Rede Pública de Saúde do Município de Junco\ndo Seridó-PB",
+            "empresa": "LG PRODUTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 70,726.74"
+          },
+          {
+            "objeto": "Aquisição de MATERIAL MÉDICO HOSPITALAR para atender\nas necessidades da Rede Pública de Saúde do Município de Junco\ndo Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 70,726.74"
+          },
+          {
+            "objeto": "Aquisição de MATERIAL MÉDICO HOSPITALAR para atender\nas necessidades da Rede Pública de Saúde do Município de Junco\ndo Seridó-PB",
+            "empresa": "JOSÉ NERGINO SOBREIRA (PJS DISTRIBUIDORA)",
+            "valor_total": "R$ 2,458.04"
+          },
+          {
+            "objeto": "Aquisição de MATERIAL MÉDICO HOSPITALAR para atender\nas necessidades da Rede Pública de Saúde do Município de Junco\ndo Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 2,458.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1301366.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 249900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO DE VEÍCULO\n(CARRO-PIPA) PARA TRANSPORTE DE ÁGUA POTÁVEL\nPARA CONSUMO HUMANO E PARA ABASTECIMENTO DA\nPOPULAÇÃO (RURAL E URBANA) DO MUNICÍPIO DE JUNCO\nDO SERIDÓ-PB",
+            "empresa": "CONTRATANTE\nMARINALDO DE MEDEIROS GONÇALVES",
+            "valor_total": "R$ 8,100.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO DE VEÍCULO\n(CARRO-PIPA) PARA TRANSPORTE DE ÁGUA POTÁVEL\nPARA CONSUMO HUMANO E PARA ABASTECIMENTO DA\nPOPULAÇÃO (RURAL E URBANA) DO MUNICÍPIO DE JUNCO\nDO SERIDÓ-PB",
+            "empresa": "",
+            "valor_total": "R$ 8,100.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO DE VEÍCULO\n(CARRO-PIPA) PARA TRANSPORTE DE ÁGUA POTÁVEL\nPARA CONSUMO HUMANO E PARA ABASTECIMENTO DA\nPOPULAÇÃO (RURAL E URBANA) DO MUNICÍPIO DE JUNCO\nDO SERIDÓ-PB",
+            "empresa": "CONTRATANTE\n\nEDINALDO DOS SANTOS",
+            "valor_total": "R$ 8,100.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO DE VEÍCULO\n(CARRO-PIPA) PARA TRANSPORTE DE ÁGUA POTÁVEL\nPARA CONSUMO HUMANO E PARA ABASTECIMENTO DA\nPOPULAÇÃO (RURAL E URBANA) DO MUNICÍPIO DE JUNCO\nDO SERIDÓ-PB",
+            "empresa": "",
+            "valor_total": "R$ 8,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 179698.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução dos Serviços de LOCAÇÃO DE SOFTWARES\ndestinados à Prefeitura Municipal de Junco do Seridó-PB",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "Execução dos Serviços de LOCAÇÃO DE SOFTWARES\ndestinados à Prefeitura Municipal de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado de FARDAMENTO e UNIFORME\ndestinados a Secretaria de Educação e Cultura da Prefeitura do\nMunicípio de Junco do Seridó-PB",
+            "empresa": "NATÁLIA PRISCILA DOS SANTOS SILVA",
+            "valor_total": "R$ 10,368.40"
+          },
+          {
+            "objeto": "Fornecimento parcelado de FARDAMENTO e UNIFORME\ndestinados a Secretaria de Educação e Cultura da Prefeitura do\nMunicípio de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 10,368.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 141762.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 93733.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços com acerto de vínculos empregatícios e\n\nindividualização previdenciária junto ao INSS, informações\n\ncontemporâneas à Receita Federal (DCTF e SEFIP), informações ao\n\nMTE e processos de acertos cadastrais para retroação de Abono\n\nSalarial e acompanhamento de certidões do Município de Junco do\n\nSeridó-PB",
+            "empresa": "STHEPSON MAIERY ALVES DE LIRA",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "Prestação de serviços com acerto de vínculos empregatícios e\n\nindividualização previdenciária junto ao INSS, informações\n\ncontemporâneas à Receita Federal (DCTF e SEFIP), informações ao\n\nMTE e processos de acertos cadastrais para retroação de Abono\n\nSalarial e acompanhamento de certidões do Município de Junco do\n\nSeridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 98,
+        "num_contratos": 33,
+        "total_gasto": 10226094.909999998
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 2402355.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 605535.4199999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 2006589.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 175263.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 136792.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1627700.9200000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico Musical da Banda BOB LÉO\nMERCADORIA, através de empresário exclusivo, para\nfestividades alusivas ao SÃO PEDRO FORA DE ÉPOCA na Sede\ndo Município de Junco do Seridó-PB, na madrugada do dia 04 de\nAgosto de 2018",
+            "empresa": "FORRÓ DA RESENHA SHOWS E EVENTOS LTDA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico Musical da Banda BOB LÉO\nMERCADORIA, através de empresário exclusivo, para\nfestividades alusivas ao SÃO PEDRO FORA DE ÉPOCA na Sede\ndo Município de Junco do Seridó-PB, na madrugada do dia 04 de\nAgosto de 2018",
+            "empresa": "",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 698740.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 16930.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 425913.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 2130274.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 76,
+        "num_contratos": 31,
+        "total_gasto": 4103432.3499999996
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 139920.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 2265932.5999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de PATRULHA MECANIZADA para o Município de Junco do\nSeridó-PB",
+            "empresa": "SERTO EMPREENDIMENTOS (S. TORRES EIRELI)",
+            "valor_total": "R$ 43,000.00"
+          },
+          {
+            "objeto": "Aquisição de PATRULHA MECANIZADA para o Município de Junco do\nSeridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 43,000.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de PRODUTOS ALIMENTÍCIOS destinados a\ndiversos órgãos administrativos da Prefeitura do Município de Junco\ndo Seridó-PB",
+            "empresa": "ARNÓBIO JOAQUIM DOMINGOS DA SILVA",
+            "valor_total": "R$ 296,408.26"
+          },
+          {
+            "objeto": "Aquisição Parcelada de PRODUTOS ALIMENTÍCIOS destinados a\ndiversos órgãos administrativos da Prefeitura do Município de Junco\ndo Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 296,408.26"
+          },
+          {
+            "objeto": "Aquisição Parcelada de MATERIAIS (DESCARTÁVEL, HIGIENE\nE LIMPEZA) destinado a diversos órgãos administrativos da\nPrefeitura do Município de Junco do Seridó-PB",
+            "empresa": "ARNÓBIO JOAQUIM DOMINGOS DA SILVA",
+            "valor_total": "R$ 128,305.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de MATERIAIS (DESCARTÁVEL, HIGIENE\nE LIMPEZA) destinado a diversos órgãos administrativos da\nPrefeitura do Município de Junco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 128,305.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 141500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de TRATOR AGRÍCOLA SOBRE RODAS para o Município de\nJunco do Seridó-PB",
+            "empresa": "TLM COMERCIAL EIRELI",
+            "valor_total": "R$ 141,500.00"
+          },
+          {
+            "objeto": "Aquisição de TRATOR AGRÍCOLA SOBRE RODAS para o Município de\nJunco do Seridó-PB",
+            "empresa": "",
+            "valor_total": "R$ 141,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 382939.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 539044.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 115250.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 444145.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 74700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 741697.37,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada de COMBUSTÍVEIS e LUBRIFICANTES destinados a veículos da Frota Pública da Prefeitura do Município de Junco do Seridó-\nPB",
+            "empresa": "POSTO DIESEL SÃO JOSÉ LTDA",
+            "valor_total": "R$ 565,412.65"
+          },
+          {
+            "objeto": "Aquisição Parcelada de COMBUSTÍVEIS e LUBRIFICANTES destinados a veículos da Frota Pública da Prefeitura do Município de Junco do Seridó-\nPB",
+            "empresa": "",
+            "valor_total": "R$ 565,412.65"
+          },
+          {
+            "objeto": "Aquisição Parcelada de COMBUSTÍVEIS e LUBRIFICANTES destinados a veículos da Frota Pública da Prefeitura do Município de Junco do Seridó-\nPB",
+            "empresa": "COMERCIAL DE COMBUSTÍVEIS ALBUQUERQUE E CANTALICE LTDA (O BILOSÃO)",
+            "valor_total": "R$ 176,284.72"
+          },
+          {
+            "objeto": "Aquisição Parcelada de COMBUSTÍVEIS e LUBRIFICANTES destinados a veículos da Frota Pública da Prefeitura do Município de Junco do Seridó-\nPB",
+            "empresa": "",
+            "valor_total": "R$ 176,284.72"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 62,
+        "num_contratos": 13,
+        "total_gasto": 3072962.5300000003
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 305738.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 432942.57999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 259370.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 1333214.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 464234.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 98,
+        "num_contratos": 102,
+        "total_gasto": 14755052.34
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 395073.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos da tabela ABC Farma pelo\n\nmaior percentual de desconto",
+            "empresa": "A & D\n\nCOMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+            "valor_total": "R$ 216,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 819117.5399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 1472625.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 1880891.52,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços permanentes de manutenção preventiva e corretiva\nde veículos",
+            "empresa": "ALEXANDRE\nCUNHA MENDES",
+            "valor_total": "R$ 404,530.00"
+          },
+          {
+            "objeto": "Serviços permanentes de manutenção preventiva e corretiva\nde veículos",
+            "empresa": "CT Nº\n00043/2021",
+            "valor_total": "R$ 404,530.00"
+          },
+          {
+            "objeto": "Serviços permanentes de manutenção preventiva e corretiva\nde veículos",
+            "empresa": "CT Nº 00044/2021",
+            "valor_total": "R$ 404,530.00"
+          },
+          {
+            "objeto": "Contratação de Empresa para Fornecimento de\nVeículos Tipo MINIVANS para atender às necessidades do\nConselho Municipal de Saúde e Secretaria Municipal de Saúde do\nMunicípio de Patos-PB (PARA O CONSELHO MUNICIPAL DE\nSAÚDE),",
+            "empresa": "NOVA VALE SERVICOS E COMERCIO DE\nVEICULOS LTDA.",
+            "valor_total": "R$ 101,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 661857.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 2758827.0300000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 243879.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 537219.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 142733.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 5378594.9399999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamentos e material permanente",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE MERIDIONAL\n\nLTDA",
+            "valor_total": "R$ 204,490.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente",
+            "empresa": "GM\n\nCOMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 204,490.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA\n\nDANTAS EIRELI",
+            "valor_total": "R$ 204,490.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 2747736.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 112,
+        "num_contratos": 81,
+        "total_gasto": 23812356.430000003
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 2036087.1099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 864890.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 7852491.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 1307772.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 4297771.29,
+        "empresas_mensais": [
+          {
+            "objeto": "Construção de creche escolar",
+            "empresa": "JOSE IVANILDO DE SOUSA",
+            "valor_total": "R$ 903,306.62"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2572607.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 869400.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 291600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 972000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 7293340.46,
+        "empresas_mensais": [
+          {
+            "objeto": "OBRAS REMANESCENTES DE IMPLANTAÇÃO DE\nMELHORIAS SANITÁRIAS DOMICILIARES",
+            "empresa": "ALVES CONSTRUCOES LTDA",
+            "valor_total": "R$ 377,805.31"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 124,
+        "num_contratos": 141,
+        "total_gasto": 38689869.150000006
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 3825959.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de peças automotivas",
+            "empresa": "GRANPECAS - COMERCIO E DISTRIBUICAO DE PECAS,\n\nRETIFICA E SERVICOS LTDA",
+            "valor_total": "R$ 2,296,907.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de peças automotivas",
+            "empresa": "KAMILLOS SERVICOS AUTOMOTIVOS LTDA",
+            "valor_total": "R$ 2,296,907.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de peças automotivas",
+            "empresa": "O CEARENSE\n\nDISTRIBUIDORA DE PECAS LTDA",
+            "valor_total": "R$ 2,296,907.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de peças automotivas",
+            "empresa": "TOP PECAS LTDA",
+            "valor_total": "R$ 2,296,907.00"
+          },
+          {
+            "objeto": "Serviços contínuos e especializados de exames por\n\nimagens",
+            "empresa": "CLINICA\n\nANALISE RADIODIAGNOSTICA LTDA",
+            "valor_total": "R$ 1,010,650.00"
+          },
+          {
+            "objeto": "Serviços contínuos e especializados de exames por\n\nimagens",
+            "empresa": "GAMA SERVICOS DE DIAGNOSTICOS\n\nPOR IMAGENS EIRELI",
+            "valor_total": "R$ 1,010,650.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 1211605.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de material elétrico",
+            "empresa": "CT Nº 00046/2023 - 27.03.23 -\n\nGM COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 240,262.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material elétrico",
+            "empresa": "MEGALUX MATERIAL ELETRICO\n\nLTDA",
+            "valor_total": "R$ 240,262.00"
+          },
+          {
+            "objeto": "ORGANIZAÇÃO E REALIZAÇÃO DE CONCURSO\n\nPÚBLICO",
+            "empresa": "FUNDACAO DE APOIO A EDUCACAO E AO\n\nDESENVOLVIMENTO TECNOLOGICO DO RN",
+            "valor_total": "R$ 170,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 424310.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 456532.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de mobiliário",
+            "empresa": "EMILLY INDUSTRIA E COMERCIO\n\nDE MOVEIS LTDA",
+            "valor_total": "R$ 281,750.00"
+          },
+          {
+            "objeto": "Aquisição de mobiliário",
+            "empresa": "GERALDO VIDAL DA NÓBREGA - ME",
+            "valor_total": "R$ 281,750.00"
+          },
+          {
+            "objeto": "Aquisição de mobiliário",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS\n\nLTDA",
+            "valor_total": "R$ 281,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 81000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 962139.6200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 701550.0,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇOS CONTÍNUOS DE RECARGA DE\n\nOXIGÊNIO MEDICINAL",
+            "empresa": "SOS\n\nSOLUCOES INTEGRADAS LTDA",
+            "valor_total": "R$ 84,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 231000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 4142519.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 1541445.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 37,
+        "total_gasto": 17818467.029999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 4504618.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 115,
+        "num_contratos": 138,
+        "total_gasto": 28661410.11
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1134148.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS DE PESSOA JURÍDICA PARA\n\nACOMPANHAMENTO DA GESTÃO MUNICIPAL E DE TODOS\n\nOS SEUS ÓRGÃOS JUNTO AO TRIBUNAL DE CONTAS DO\n\nESTADO E TRIBUNAL DE CONTAS DA UNIÃO",
+            "empresa": "PAULO ÍTALO\n\nDE OLIVEIRA VILAR SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "SERVIÇOS CONTÍNUOS E ESPECIALIZADOS DE\n\nASSESSORIA E CONSULTORIA JURÍDICA JUNTO A\n\nPREFEITURA MUNICIPAL E AO FUNDO MUNICIPAL DE\n\nSAÚDE",
+            "empresa": "ONOFRE ROBERTO NÓBREGA\n\nFERNANDES SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 96,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 152400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 1486759.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 38,
+        "total_gasto": 14101274.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 482947.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 5566986.06,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 76467.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 540014.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 139915.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 475878.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

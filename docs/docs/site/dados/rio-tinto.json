@@ -11,9 +11,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 37,
-        "num_contratos": 4,
-        "total_gasto": 1779716.73
+        "num_diarios": 36,
+        "num_contratos": 7,
+        "total_gasto": 2077656.73
       },
       "4": {
         "num_diarios": 6,
@@ -41,16 +41,22 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 290000.0,
+        "top_3_empresas": [
+          "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA",
+          "CAVALCANTI\n\nPRIMO VEICULOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Registro de preços para futura e eventual Aquisição de um\n\nveículo tipo VAN (Composta por Dispositivo de Poltrona Móvel),\n\nzero km, ano/modelo 2018, para atender as necessidades da Secretaria\n\nMunicipal de Saúde do Município de São Sebastião do Umbuzeiro -\n\nPB, através do Termo de Compromisso n.º 25000.088629/2018-31 -\n\nFNS",
+          "Aquisição de 02 (dois) veículos tipo SEDAN, zero km,\n\nano/modelo 2018, para atender as necessidades do Fundo Municipal\n\nde Saúde de São Sebastião do Umbuzeiro - PB, conforme\n\nespecificações técnicas constantes no termo de referência"
+        ]
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 7940.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -92,7 +98,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 32,
+        "num_diarios": 31,
         "num_contratos": 7,
         "total_gasto": 188184.27000000002
       },
@@ -125,7 +131,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -326,7 +332,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -345,13 +351,6 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "9": {
         "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
@@ -440,22 +439,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 118,
-    "num_contratos": 23,
-    "total_gasto": 5694436.71,
+    "num_diarios": 115,
+    "num_contratos": 26,
+    "total_gasto": "5.992.376,71",
     "top_5_empresas": {
+      "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA": 2,
       "INTERGRAF GRAFICA E EDITORA\nLTDA": 1,
+      "CAVALCANTI\n\nPRIMO VEICULOS LTDA": 1,
       "CRM COMERCIAL LTDA": 1,
-      "DENTALMED COMÉRCIO E\nREPRESENTAÇÕES LTDA": 1,
-      "CT Nº\n00144/2019 - 03.10.19 - LEISTUNG EQUIPAMENTOS LTDA.": 1,
-      "NATHALIA FARIAS DANTAS DE\nFIGUEIREDO EIRELI": 1
+      "DENTALMED COMÉRCIO E\nREPRESENTAÇÕES LTDA": 1
     },
     "top_5_objetos": {
       "Contratação de uma empresa para aquisição e fornecimento\nde forma parcelada de materiais gráficos diversos, destinado a esta\nPrefeitura": 1,
+      "Registro de preços para futura e eventual Aquisição de um\n\nveículo tipo VAN (Composta por Dispositivo de Poltrona Móvel),\n\nzero km, ano/modelo 2018, para atender as necessidades da Secretaria\n\nMunicipal de Saúde do Município de São Sebastião do Umbuzeiro -\n\nPB, através do Termo de Compromisso n.º 25000.088629/2018-31 -\n\nFNS": 1,
+      "Aquisição de 02 (dois) veículos tipo SEDAN, zero km,\n\nano/modelo 2018, para atender as necessidades do Fundo Municipal\n\nde Saúde de São Sebastião do Umbuzeiro - PB, conforme\n\nespecificações técnicas constantes no termo de referência": 1,
       "Aquisição de Equipamentos diversos, destinado a\nImplementação da Unidade de Pronto Atendimento (UPA), Conforme\nPortaria n.° 1580, Proposta n.° 12457150000113004, Processo\nMinistério da Saúde - MS 25000.112107/2019-49": 1,
-      "Aquisição de forma parcelada de gêneros alimentícios\ndiversos, destinado a merenda escolar, deste município": 1,
-      "Contratação de empresa especializada em construção civil,\npara execução dos serviços de reforma das seguintes unidades\nescolares: Escola Municipal Presidente Rodrigues Alves, Escola\nMunicipal Getúlio Vargas, Escola Municipal João XXIII, Escola\nMunicipal Maria Milta Bernardo Leandro, Escola Municipal Josina\nArruda Câmara, Escola Municipal Terezinha Agripino da Costa e\nEscola Municipal Severino Joaquim da Silva, todas localizadas na\nZona Rural deste município": 1,
-      "Contratação de empresa especializada em construção civil,\npara execução dos serviços de pavimentação das ruas Projetada 01,\nProjetada 02, Projetada 02-A, Projetada 02-B, Projetada 03-A e\nProjetada 03-B, na comunidade Bom Fim, localizada na Zona Urbana\ndesse município, conforme Contrato de Repasse n.°\n878660/2018/MCIDADES/CAIXA": 1
+      "Aquisição de forma parcelada de gêneros alimentícios\ndiversos, destinado a merenda escolar, deste município": 1
     }
   }
 }

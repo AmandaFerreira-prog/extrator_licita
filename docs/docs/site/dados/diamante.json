@@ -5,8 +5,8 @@
     "2020": {
       "7": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 430266.74,
         "top_3_empresas": [
           "SOMOS CONSTRUÇÕES EIRELI",
           ".\n\nDiamante"
@@ -17,8 +17,8 @@
       },
       "resumo": {
         "num_diarios": 16,
-        "num_contratos": 2,
-        "total_gasto": 366081.75
+        "num_contratos": 3,
+        "total_gasto": 796348.49
       },
       "8": {
         "num_diarios": 3,
@@ -70,9 +70,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 55,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 54,
+        "num_contratos": 1,
+        "total_gasto": 150000.0
       },
       "6": {
         "num_diarios": 8,
@@ -97,13 +97,13 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 150000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -127,22 +127,34 @@
     "2022": {
       "1": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 3,
+        "total_gasto": 211200.0,
+        "top_3_empresas": [
+          "MARIA LIANI LEONARDO"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada para prestar serviços de\n\ncorte de terra no Município De Emas–PB"
+        ]
       },
       "resumo": {
-        "num_diarios": 101,
-        "num_contratos": 1,
-        "total_gasto": 5700.0
+        "num_diarios": 95,
+        "num_contratos": 20,
+        "total_gasto": 2276944.9299999997
       },
       "2": {
-        "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 1111442.0,
+        "top_3_empresas": [
+          "POLICLINICA POPULAR PATOENSE LTDA",
+          "UDI PATOS SERVICOS E PRODUTOS\nMEDICOS LTDA",
+          "UZE BRINDES E UNIFORMES\nLTDA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PRESTADORA DE\nSERVIÇOS PARA REALIZAÇÃO DE EXAMES\nLABORATORIAIS, PARA À EXECUÇÃO DOS SERVIÇOS DE\nACORDO COM A DEMANDA DE EXAMES, DESTINADOS A\nSECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICIPIO DE\nEMAS–PB",
+          "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\nDE UNIFORMES DESTINADOS AOS MEREDEIROS LOTADAS\nNAS ESCOLAS DA REDE MUNICIPAL DE ENSINO DO\nMUNICIPIO DE EMAS–PB",
+          "Contratação empresa (FARMÁCIA) para fornecimento de\nmedicamentos que não constam na farmácia básica deste município,\npara doação a pessoas carentes do município de Emas –PB"
+        ]
       },
       "3": {
         "num_diarios": 11,
@@ -152,7 +164,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 10,
+        "num_diarios": 8,
         "num_contratos": 1,
         "total_gasto": 5700.0,
         "top_3_empresas": [],
@@ -166,20 +178,16 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [
-          "e combustível por conta da contratante para\n\ntransporte de alunos da rede pública de acordo com a Lei 8.666/93,\n\nque obedecerá às disposições da lei federal nº 10.520, de 17/01/2002,\n\naplicando-se, subsidiariamente, no couber, a lei 8.666, de 21/06/93,\n\ncom suas alterações posteriores.\n\nFundamento: Lei Federal nº 10.520, de 17/01/2002, aplicando-se,\n\nsubsidiariamente, no couber, a Lei 8.666, de 21/06/93, com suas\n\nalterações posteriores.\n\n\n\nRECURSOS: Próprios e/ou programas.\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE\n\nDIAMANTE/PB\nCONTRATADO: FRANCISCO NOGUEIRA DE FRANÇA,"
-        ],
-        "top_3_objetos": [
-          "Contratação de empresa ou pessoa física para locação de\n\num veículo tipo ônibus/micro-ônibus com condutor e todos os itens de\n\nsegurança em prefeito estado de uso, seguro total e manutenção, por\n\nconta da contratada e combustível por conta da contratante para\n\ntransporte de alunos da rede pública de acordo com a Lei 8.666/93,\n\nque obedecerá às disposições da lei federal nº 10.520, de 17/01/2002,\n\naplicando-se, subsidiariamente, no couber, a lei 8.666, de 21/06/93,\n\ncom suas alterações posteriores"
-        ]
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 64539.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "7": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 55430.4,
         "top_3_empresas": [
           "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
           "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
@@ -191,16 +199,16 @@
         ]
       },
       "8": {
-        "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 311034.53,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 517599.0,
         "top_3_empresas": [
           "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTÃO EMPRESARIAL E PÚBLICA\n\nLTDA"
         ],
@@ -223,7 +231,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
@@ -243,9 +251,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 114,
-        "num_contratos": 15,
-        "total_gasto": 1301475.47
+        "num_diarios": 107,
+        "num_contratos": 24,
+        "total_gasto": 1636026.8399999999
       },
       "2": {
         "num_diarios": 8,
@@ -256,10 +264,10 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 116416.33,
         "top_3_empresas": [
-          "ANTÔNIO NOGUEIRA DE FRANÇA,",
+          "ANTÔNIO NOGUEIRA DE FRANÇA",
           "JOSÉ FELIX DE LIMA"
         ],
         "top_3_objetos": [
@@ -271,7 +279,9 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação de empresa para prestar serviços de locação de\n\nestrutura para realização do 25° JOÃO PEDRO DO MUNICIPIO DE\n\nEMAS -PB.; Pregão presencial: nº 00018/2023"
+        ]
       },
       "5": {
         "num_diarios": 13,
@@ -284,20 +294,20 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 107499.94,
         "top_3_empresas": [
           "CONSTRUTORA BRAÇO FORTE\n\nSERVIÇOS E LOCAÇÕES LTDA, com sede na Rua Possidônio\n\nJosé da Costa, S/N, Centro",
           "B2 RH",
-          "MEDEIROS CLÍNICA MÉDICA LTDA,"
+          "MEDEIROS CLÍNICA MÉDICA LTDA"
         ],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 85342.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -306,7 +316,7 @@
         "num_contratos": 2,
         "total_gasto": 68872.52,
         "top_3_empresas": [
-          "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA,",
+          "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA",
           "GIPAGEL AUTO PECAS LTDA",
           "CICERO RODRIGUES DA SILVA (AUTO\n\nPECAS RODRIGUES)"
         ],
@@ -315,14 +325,14 @@
         ]
       },
       "9": {
-        "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 25293.0,
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 50586.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
@@ -344,7 +354,7 @@
         ]
       },
       "12": {
-        "num_diarios": 15,
+        "num_diarios": 13,
         "num_contratos": 5,
         "total_gasto": 686009.95,
         "top_3_empresas": [
@@ -358,20 +368,22 @@
     "2024": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 691632.2,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação de empresa especializada para fornecimento de\n\ngêneros alimentícios destinados a merenda escolar para atender a rede\n\nmunicipal de ensino do município de emas atendendo a demanda do\n\nexercício de 2024"
+        ]
       },
       "resumo": {
-        "num_diarios": 120,
-        "num_contratos": 12,
-        "total_gasto": 273478.24
+        "num_diarios": 119,
+        "num_contratos": 40,
+        "total_gasto": 3619524.72
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 1152011.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -390,33 +402,37 @@
       },
       "4": {
         "num_diarios": 12,
-        "num_contratos": 3,
-        "total_gasto": 15033.65,
+        "num_contratos": 5,
+        "total_gasto": 637533.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 10195.2,
         "top_3_empresas": [
           "BRASFERMA LTDA",
           "PINHEIRO CIA LTDA",
           "J2R AUTOMAÇÃO LTDA"
         ],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação de empresa (oficina mecânica) para prestação\n\nde serviços de manutenção e reparação mecânica de veículos próprios,\n\nleves e pesados da frota municipal do município de Emas-PB",
+          "Contratação De Serviços De Motorista Para Manutenção\n\nDas Atividades Da Secretaria De Transporte E Trânsito Do Município\n\nDe Emas–PB",
+          "Aquisição de gêneros alimentícios para atender diversas\n\nsecretarias do município de Emas-PB"
+        ]
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 34400.0,
+        "num_contratos": 7,
+        "total_gasto": 584772.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 4,
-        "total_gasto": 88581.85,
+        "num_contratos": 5,
+        "total_gasto": 120362.1,
         "top_3_empresas": [
           "MMATHEUS PAULO DE SOUSA ME\n\n(POSTO SÃO FRANCISCO)"
         ],
@@ -444,18 +460,18 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 1,
         "total_gasto": 3562.74,
         "top_3_empresas": [
-          "YDEA SOLUCOES ENERGETICAS LTDA,"
+          "YDEA SOLUCOES ENERGETICAS LTDA"
         ],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 287555.33,
         "top_3_empresas": [
           "SUELITON LOPES"
         ],
@@ -466,22 +482,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 406,
-    "num_contratos": 30,
-    "total_gasto": 1946735.46,
+    "num_diarios": 391,
+    "num_contratos": 88,
+    "total_gasto": "8.478.844,98",
     "top_5_empresas": {
       ".\n\nDiamante": 2,
       "SOMOS CONSTRUÇÕES EIRELI": 1,
       "OBRAPLAN EMPRESA DE LIMPEZA E\nCONSERVACAO URBANA LTDA": 1,
-      "e combustível por conta da contratante para\n\ntransporte de alunos da rede pública de acordo com a Lei 8.666/93,\n\nque obedecerá às disposições da lei federal nº 10.520, de 17/01/2002,\n\naplicando-se, subsidiariamente, no couber, a lei 8.666, de 21/06/93,\n\ncom suas alterações posteriores.\n\nFundamento: Lei Federal nº 10.520, de 17/01/2002, aplicando-se,\n\nsubsidiariamente, no couber, a Lei 8.666, de 21/06/93, com suas\n\nalterações posteriores.\n\n\n\nRECURSOS: Próprios e/ou programas.\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE\n\nDIAMANTE/PB\nCONTRATADO: FRANCISCO NOGUEIRA DE FRANÇA,": 1,
-      "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA": 1
+      "MARIA LIANI LEONARDO": 1,
+      "POLICLINICA POPULAR PATOENSE LTDA": 1
     },
     "top_5_objetos": {
       "Contratação de empresa para\nexecução dos serviços de engenharia na Construção de um Ginásio de\nEsportes, na Rua Laura da Costa Mangueira, visando atender as\nnecessidades da Rede de Ensino Municipal do Município de Diamante\n- PB, através do Convênio nº 0454/2019/SEECT/PB/PMD/PB,": 1,
       "Contratação de empresa para execução dos serviços de\nengenharia na pavimentação em paralelepípedo, assentado em colchão\nde areia rejuntado com cimento em diversas Ruas da sede do\nmunicípio quais sejam: Rua Professor José Marques, Av": 1,
-      "Contratação de empresa ou pessoa física para locação de\n\num veículo tipo ônibus/micro-ônibus com condutor e todos os itens de\n\nsegurança em prefeito estado de uso, seguro total e manutenção, por\n\nconta da contratada e combustível por conta da contratante para\n\ntransporte de alunos da rede pública de acordo com a Lei 8.666/93,\n\nque obedecerá às disposições da lei federal nº 10.520, de 17/01/2002,\n\naplicando-se, subsidiariamente, no couber, a lei 8.666, de 21/06/93,\n\ncom suas alterações posteriores": 1,
-      "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019": 1,
-      "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019": 1
+      "Contratação de empresa especializada para prestar serviços de\n\ncorte de terra no Município De Emas–PB": 1,
+      "CONTRATAÇÃO DE EMPRESA PRESTADORA DE\nSERVIÇOS PARA REALIZAÇÃO DE EXAMES\nLABORATORIAIS, PARA À EXECUÇÃO DOS SERVIÇOS DE\nACORDO COM A DEMANDA DE EXAMES, DESTINADOS A\nSECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICIPIO DE\nEMAS–PB": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\nDE UNIFORMES DESTINADOS AOS MEREDEIROS LOTADAS\nNAS ESCOLAS DA REDE MUNICIPAL DE ENSINO DO\nMUNICIPIO DE EMAS–PB": 1
     }
   }
 }

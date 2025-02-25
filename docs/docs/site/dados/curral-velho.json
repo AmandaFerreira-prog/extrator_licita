@@ -8,7 +8,7 @@
         "num_contratos": 2,
         "total_gasto": 894500.0,
         "top_3_empresas": [
-          "COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES ITAPORANGUESE LTDA,\n\ninscrita no"
+          "COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES ITAPORANGUESE LTDA"
         ],
         "top_3_objetos": [
           "aquisição de combustíveis, destinados à frota de veículos do\n\nmunicípio de Curral Velho – PB",
@@ -16,9 +16,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 79,
-        "num_contratos": 121,
-        "total_gasto": 10166719.830000002
+        "num_diarios": 78,
+        "num_contratos": 123,
+        "total_gasto": 10341509.83
       },
       "3": {
         "num_diarios": 7,
@@ -57,9 +57,7 @@
         "num_diarios": 9,
         "num_contratos": 18,
         "total_gasto": 946207.35,
-        "top_3_empresas": [
-          ").\n\nCurral Velho"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Prestação de serviços continuada de\nassessoria contábil, técnica, administrativa e financeira na área pública\nde forma genérica, constando ainda os serviços de elaboração de\nbalancetes mensais, sagres diário, prestação de contas anual da\nCâmara Municipal de Curral Velho - PB"
         ]
@@ -77,8 +75,8 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 8,
-        "total_gasto": 776361.64,
+        "num_contratos": 10,
+        "total_gasto": 951151.64,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa especializada para prestar serviços\n\nna reforma da Cadeia Pública do Município de Curral Velho – PB,\n\nconforme planilhas de custo",
@@ -95,7 +93,7 @@
         ]
       },
       "10": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 11,
         "total_gasto": 658749.96,
         "top_3_empresas": [],
@@ -125,24 +123,26 @@
         "num_diarios": 4,
         "num_contratos": 8,
         "total_gasto": 346920.0,
-        "top_3_empresas": [
-          ").\n\n\n\nCurral Velho"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação dos serviços de locação de\n\n01 (um) veículo de pequeno porte, para o atendimento e transporte dos\n\nservidores/técnicos e outros serviços de interesses da Câmara\n\nMunicipal de Curral Velho"
         ]
       },
       "resumo": {
-        "num_diarios": 120,
-        "num_contratos": 145,
-        "total_gasto": 14795065.659999996
+        "num_diarios": 117,
+        "num_contratos": 155,
+        "total_gasto": 17247358.33
       },
       "2": {
         "num_diarios": 7,
-        "num_contratos": 10,
-        "total_gasto": 259470.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 14,
+        "total_gasto": 1862470.0,
+        "top_3_empresas": [
+          "FIORI VEICOLO S.A"
+        ],
+        "top_3_objetos": [
+          "aquisição de uma ambulância 0km de simples remoção para o\n\nfundo municipal de saúde do município de Emas–PB atendendo, o\n\nconvenio estadual n°00096/2021"
+        ]
       },
       "3": {
         "num_diarios": 10,
@@ -152,23 +152,23 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 9,
+        "num_diarios": 7,
         "num_contratos": 4,
-        "total_gasto": 629945.3,
+        "total_gasto": 768230.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 19,
-        "total_gasto": 2544518.95,
+        "num_contratos": 22,
+        "total_gasto": 3229515.8899999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 13,
-        "num_contratos": 16,
-        "total_gasto": 612655.9299999999,
+        "num_contratos": 17,
+        "total_gasto": 644655.9299999999,
         "top_3_empresas": [
           "POSTO DIESEL SAO\n\nJOSE LTDA",
           "POSTO\n\nDIESEL SAO JOSE LTDA"
@@ -202,15 +202,15 @@
       },
       "9": {
         "num_diarios": 13,
-        "num_contratos": 16,
-        "total_gasto": 1629562.77,
+        "num_contratos": 17,
+        "total_gasto": 1647822.77,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 5951.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -218,17 +218,15 @@
         "num_diarios": 12,
         "num_contratos": 14,
         "total_gasto": 823394.14,
-        "top_3_empresas": [
-          ").\n\n\n\nCurral Velho"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de uma Pessoa Jurídica para aquisição de Moveis e\n\nEletrônicos para Câmara Municipal de Curral Velho-PB, conforme\n\ntermo de referência"
         ]
       },
       "12": {
-        "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 608815.75,
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 578615.75,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -245,16 +243,14 @@
       },
       "resumo": {
         "num_diarios": 105,
-        "num_contratos": 234,
-        "total_gasto": 37693766.37
+        "num_contratos": 237,
+        "total_gasto": 38319766.37
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 22,
-        "total_gasto": 1584664.35,
-        "top_3_empresas": [
-          ").\n\n\n\nCurral Velho"
-        ],
+        "num_contratos": 25,
+        "total_gasto": 2210664.35,
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de uma Pessoa\n\nJurídica para prestação de Serviços de divulgação de notas,\n\ncomunicados e atos públicos do interesse da Câmara Municipal de\n\nCurral Velho/PB"
         ]
@@ -271,7 +267,9 @@
         "num_contratos": 9,
         "total_gasto": 215543.16,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação dos serviços de instrutor de Banda Marcial\n\nincluindo aulas práticas e teóricas com finalidade de manter a Banda\n\nMarcial Oficial do Município De EMAS-PB DISPENSA Nº\n\n00017/2023"
+        ]
       },
       "5": {
         "num_diarios": 14,
@@ -286,9 +284,7 @@
         "num_diarios": 6,
         "num_contratos": 19,
         "total_gasto": 2969649.35,
-        "top_3_empresas": [
-          ").\n\nCurral Velho"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de uma pessoa jurídica\npara prestação de serviços de Gestão de Saúde e Segurança do\nTrabalho SST, para Câmara Municipal de Curral Velho-PB.",
           "Contratação de uma empresa especializada para prestação\nde serviços de hospedagem entre as cidades de Itaporanga e Piancó, a\ndisposição de funcionários que estiverem a serviços fora do\nMunicípio, bandas e artistas que irão se apresentar nas diversas\nfestividades dentro do calendário cultural do Município de Curral\nVelho/ PB",
@@ -352,14 +348,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 94,
-        "num_contratos": 168,
-        "total_gasto": 37604251.379999995
+        "num_diarios": 92,
+        "num_contratos": 149,
+        "total_gasto": 36611630.26
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 37,
-        "total_gasto": 6139181.410000001,
+        "num_contratos": 38,
+        "total_gasto": 6391181.410000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -372,8 +368,8 @@
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 11,
-        "total_gasto": 1545973.92,
+        "num_contratos": 12,
+        "total_gasto": 1590973.92,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -387,9 +383,9 @@
         ]
       },
       "6": {
-        "num_diarios": 7,
-        "num_contratos": 23,
-        "total_gasto": 1609996.69,
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 602057.87,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -407,17 +403,11 @@
         ]
       },
       "8": {
-        "num_diarios": 5,
-        "num_contratos": 10,
-        "total_gasto": 429064.3,
-        "top_3_empresas": [
-          "JOSE ERLIS CANDIDO PEREIRA\n\n12712447484"
-        ],
-        "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS NAS LAVAGENS E SERVIÇOS DE\nBORRACHARIA DOS DIVERSOS VEÍCULOS DA FROTA DO\n\nFUNDO MUNICIPAL DE SAÚDE DE CURRAL VELHO /PB",
-          "Contratação de empresa especializada no serviço de\n\ndedetização e controle sanitário, integrado no combate de pragas e\nvetores urbanos e rurais, englobando desinsetização e descupinização,\n\nnas áreas internas e externas da Prefeitura Municipal de Curral velho–\n\nPB",
-          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS NAS LAVAGENS E SERVIÇOS DE\n\nBORRACHARIA DOS DIVERSOS VEÍCULOS DA FROTA DA\n\nPREFEITURA DO MUNICÍPIO DE CURRAL VELHO/PB"
-        ]
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 147382.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "9": {
         "num_diarios": 5,
@@ -455,15 +445,15 @@
     }
   },
   "resumo": {
-    "num_diarios": 398,
-    "num_contratos": 668,
-    "total_gasto": 100259803.24,
+    "num_diarios": 392,
+    "num_contratos": 664,
+    "total_gasto": "102.520.264,79",
     "top_5_empresas": {
-      ").\n\n\n\nCurral Velho": 3,
-      ").\n\nCurral Velho": 2,
-      "COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES ITAPORANGUESE LTDA,\n\ninscrita no": 1,
+      "COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES ITAPORANGUESE LTDA": 1,
       "ORLANDO DE SOUSA LEMOS": 1,
-      "ORLANDO DE\nSOUSA LEMOS": 1
+      "ORLANDO DE\nSOUSA LEMOS": 1,
+      "RONALDO PAIVA\nNUNES": 1,
+      "PABLO RYAN DOMINGOS PEREIRA DE\n\nCARVALHO": 1
     },
     "top_5_objetos": {
       "aquisição de combustíveis, destinados à frota de veículos do\n\nmunicípio de Curral Velho – PB": 1,

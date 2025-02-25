@@ -1,0 +1,2967 @@
+{
+  "id": "aparecida",
+  "nome": "Aparecida",
+  "detalhe": {
+    "2018": {
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 10,
+        "total_gasto": 250795.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 35,
+        "num_contratos": 65,
+        "total_gasto": 2305987.53
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 25,
+        "total_gasto": 968721.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 11,
+        "total_gasto": 519790.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 27900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de cimento, com\nfornecimento parcelado, destinado a manutenção das atividades da\nSecretaria de Infraestrutura do município",
+            "empresa": "FRANCISCO CARLOS LINHARES\nPEREIRA",
+            "valor_total": "R$ 27,900.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de consultas/\nexames médicos na área de cardiologia, destinados a manutenção da\nsaúde pública do Município",
+            "empresa": "I F DA COSTA & CIA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 9,
+        "total_gasto": 322540.23,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "FRANCISCO ADRIANO GARRIDO DE SÁ",
+            "valor_total": "R$ 52,430.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "CT Nº 0091/2018",
+            "valor_total": "R$ 52,430.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "CT Nº 0091/2018",
+            "valor_total": "R$ 52,430.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "CT Nº\n0091/2018",
+            "valor_total": "R$ 52,430.00"
+          },
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\nAssessoria Contábil, junto a Prefeitura Municipal de Aparecida",
+            "empresa": "LRF\nCONTABILIDADE PÚBLICA & ASSESSORIA LTDA",
+            "valor_total": "R$ 84,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços especializados de Consultoria e\nAssessoria Técnica e Financeira, de forma permanente e continuada,\npresencial, eletrônica, verbal e/ou escrita, no acompanhamento da\ngestão pública, incluindo representação junto ao Tribunal de Contas\ndo Estado da Paraíba",
+            "empresa": "RWR CONSULTORIA & ASSESSORIA LTDA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais para\nmanutenção de bens imóveis, com fornecimento parcelado, destinados\nas atividades de diversas secretarias do município",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO\nCOMÉRCIO EIRELI",
+            "valor_total": "R$ 86,595.56"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\nodontológico, com fornecimento parcelado, destinado a manutenção\nda Secretaria de Saúde do Município",
+            "empresa": "JOSE NERGINO SOBREIRA",
+            "valor_total": "R$ 51,514.67"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\nodontológico, com fornecimento parcelado, destinado a manutenção\nda Secretaria de Saúde do Município",
+            "empresa": "ODONTOMED\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\nME",
+            "valor_total": "R$ 51,514.67"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 9200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 153956.97999999998,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de\n\ncalceteiro/empredador por empreitada para manutenção de\n\ncalçamento, mediante ajuste de mão de obra por tarefa para execução\n\nde pequenos trabalhos, sem fornecimento de materiais, nos termos da\n\nalínea “d” do inc",
+            "empresa": "FRANCISCO DE ASSIS BORGES",
+            "valor_total": "R$ 75,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\n\npreventiva e corretiva, com fornecimento de peças, destinados aos\n\nveículos de grande porte/ máquinas pesadas que compõe a frota da\n\nPrefeitura Municipal de Aparecida",
+            "empresa": "VICENTE AUTO PEÇAS COMERCIO E\n\nTRANSPORTES LTDA",
+            "valor_total": "R$ 37,083.33"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 53083.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 37,
+        "num_contratos": 99,
+        "total_gasto": 4613899.050000001
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 698817.5,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de combustíveis e\nlubrificantes, dentro dos limites do município de Aparecida, com\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 5\n\n\nfornecimento parcelado, conforme solicitações das Secretarias\nMunicipais",
+            "empresa": "REJANE CASIMIRO DE\nOLIVEIRA MENDES",
+            "valor_total": "R$ 620,455.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\ncom fornecimento parcelado, destinados à manutenção da farmácia\nbásica do município de Aparecida",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 78,362.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\ncom fornecimento parcelado, destinados à manutenção da farmácia\nbásica do município de Aparecida",
+            "empresa": "FARMAGUEDES COM. DE\nPRODUTOS FARM. MEDICOS E HOSP. LTDA",
+            "valor_total": "R$ 78,362.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\ncom fornecimento parcelado, destinados à manutenção da farmácia\nbásica do município de Aparecida",
+            "empresa": "JOSE NERGINO SOBREIRA",
+            "valor_total": "R$ 78,362.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\ncom fornecimento parcelado, destinados à manutenção da farmácia\nbásica do município de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO\nIMPOR. E EXP. DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 78,362.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 22,
+        "total_gasto": 1216412.21,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais\ndidáticos, expediente, artesanato (artísticos) e jogos pedagógicos, com\nfornecimento parcelado, destinados a manutenção de diversas\nsecretarias do município de Aparecida",
+            "empresa": "PAPIROSSAUROS LIVRARIA E PAPELARIA LTDA",
+            "valor_total": "R$ 150,128.26"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais\ndidáticos, expediente, artesanato (artísticos) e jogos pedagógicos, com\nfornecimento parcelado, destinados a manutenção de diversas\nsecretarias do município de Aparecida",
+            "empresa": "CT Nº 00056/2019",
+            "valor_total": "R$ 150,128.26"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 31,
+        "total_gasto": 1302330.66,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de provimento de\n\nacesso à internet com configuração, instalação e montagem destinada\n\nàs atividades administrativas do município de Aparecida",
+            "empresa": "DDL LINE TELECOM\n\nEIRELI",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços técnicos na área de informática\n\npara gerenciamento, digitação de dados e acompanhamento dos\n\nsistemas dos programas de saúde do município",
+            "empresa": "MARIANA TEODORO DOS SANTOS",
+            "valor_total": "R$ 22,200.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar, com fornecimento parcelado, destinado às atividades da\n\nSecretaria de Saúde do município",
+            "empresa": "BIOMED DISTRIBUIDORA HOSP. E\n\nLAB. N. S. CONCEIÇÃO LTDA",
+            "valor_total": "R$ 50,856.86"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar, com fornecimento parcelado, destinado às atividades da\n\nSecretaria de Saúde do município",
+            "empresa": "DIMEDONT - DISTRIBUIDORA DE\n\nMEDICAMENTOS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 50,856.86"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar, com fornecimento parcelado, destinado às atividades da\n\nSecretaria de Saúde do município",
+            "empresa": "FARMAGUEDES COM. DE\n\nPRODUTOS FARM. MEDICOS E HOSP. LTDA",
+            "valor_total": "R$ 50,856.86"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar, com fornecimento parcelado, destinado às atividades da\n\nSecretaria de Saúde do município",
+            "empresa": "ODONTOMED COMERCIO DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 50,856.86"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados\n\nao Transporte de Estudantes do município de Aparecida",
+            "empresa": "ADELINO COSMO DA SILVA",
+            "valor_total": "R$ 85,410.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados\n\nao Transporte de Estudantes do município de Aparecida",
+            "empresa": "AILSON VENTURA\n\nBADU",
+            "valor_total": "R$ 85,410.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados\n\nao Transporte de Estudantes do município de Aparecida",
+            "empresa": "ANDERSON\n\nGOMES NUNES",
+            "valor_total": "R$ 85,410.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados\n\nao Transporte de Estudantes do município de Aparecida",
+            "empresa": "JOSÉ GOMES DE ANDRADE",
+            "valor_total": "R$ 85,410.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos\n\ndiversos, não padronizados, com fornecimento parcelado, destinados a\n\nmanutenção da Secretaria de Saúde do município",
+            "empresa": "ALCIONE FERREIRA DANTAS - ME",
+            "valor_total": "R$ 140,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos\n\ndiversos, não padronizados, com fornecimento parcelado, destinados a\n\nmanutenção da Secretaria de Saúde do município",
+            "empresa": "NELFARMA COMERCIO DE PRODUTOS\n\nQUIMICOS LTDA",
+            "valor_total": "R$ 140,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material de\n\nlimpeza, com fornecimento parcelado, destinados a diversas\n\nsecretarias do município",
+            "empresa": "JOSE EUDES DE OLIVEIRA -\n\nMERCEARIA",
+            "valor_total": "R$ 110,973.15"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material de\n\nlimpeza, com fornecimento parcelado, destinados a diversas\n\nsecretarias do município",
+            "empresa": "CT Nº 00088/2019",
+            "valor_total": "R$ 110,973.15"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de Aparecida",
+            "empresa": "CIRUFARMA COMERCIAL LTDA",
+            "valor_total": "R$ 91,523.49"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de Aparecida",
+            "empresa": "DIMEDONT -\n\nDISTRIBUIDORA DE MEDICAMENTOS E EQUIPAMENTOS\n\nLTDA",
+            "valor_total": "R$ 91,523.49"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de Aparecida",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 91,523.49"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de Aparecida",
+            "empresa": "CT Nº\n\n00093/2019 - 05.04.19 - NNMED DISTRIBUIÇÃO IMPOR. E EXP.\n\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 91,523.49"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 12,
+        "total_gasto": 285272.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 5,
+        "total_gasto": 97600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 4,
+        "total_gasto": 190000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 5,
+        "total_gasto": 166472.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\n\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "FRANSUELDO DA SILVA",
+            "valor_total": "R$ 30,472.50"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\n\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "IRISMAR GOMES DANTAS",
+            "valor_total": "R$ 30,472.50"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\n\nNacional de Alimentação Escolar - PNAE",
+            "empresa": "TIAGO OLIVEIRA DE\n\nSÁ",
+            "valor_total": "R$ 30,472.50"
+          },
+          {
+            "objeto": "Contratação de serviços especializados de Consultoria e\n\nAssessoria Técnica e Financeira, de forma permanente e continuada,\n\npresencial, eletrônica, verbal e/ou escrita, no acompanhamento da\n\ngestão pública, incluindo representação junto ao Tribunal de Contas\n\ndo Estado da Paraíba, bem como Consultoria e Assessoria Fiscal e\n\nTributária, abrangendo planejamento estratégico, realização de\n\nestudos, revisão da legislação e acompanhamento da administração\n\ntributária e sua evolução",
+            "empresa": "RWR CONSULTORIA\n\n& ASSESSORIA LTDA",
+            "valor_total": "R$ 66,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\n\nmedicamentos diversos, não padronizados, destinados a manutenção\n\nda Secretaria de Saúde do município",
+            "empresa": "JOAQUIM\n\nLEANDRO DA SILVA FARMACIA",
+            "valor_total": "R$ 70,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 12,
+        "total_gasto": 527412.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 15731.25,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material de\n\nlimpeza, com fornecimento parcelado, destinados a diversas\n\nsecretarias do município",
+            "empresa": "THIAGO GOMES BARBOSA COMERCIO",
+            "valor_total": "R$ 15,731.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 113850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 58,
+        "num_contratos": 108,
+        "total_gasto": 6201963.45
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 20,
+        "total_gasto": 1586112.03,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de combustíveis,\ndentro dos limites do município de Aparecida, com fornecimento\nparcelado, conforme solicitações das Secretarias Municipais",
+            "empresa": "REJANE\nCASIMIRO DE OLIVEIRA MENDES",
+            "valor_total": "R$ 105,950.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\npreventiva e corretiva, com fornecimento de peças, destinados aos\nveículos de grande porte/ máquinas pesadas que compõe a frota da\nPrefeitura Municipal de Aparecida",
+            "empresa": "VICENTE AUTO PEÇAS COMERCIO E\nTRANSPORTES LTDA",
+            "valor_total": "R$ 213,583.33"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\npreventiva e corretiva, com fornecimento de peças, junto ao mercado\nparalelo, destinados aos veículos de pequeno porte que compõem a\nfrota da Prefeitura Municipal de Aparecida",
+            "empresa": "ALEICHO\nGOMES DE ALENCAR NETO",
+            "valor_total": "R$ 169,812.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de tintas em geral e\nacessórios, com fornecimento parcelado, para manutenção de bens\nimóveis do município de Aparecida",
+            "empresa": "IMOBAUTO COMERCIO DE TINTAS\nEIRELI",
+            "valor_total": "R$ 214,500.94"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 229105.58000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 14,
+        "total_gasto": 613064.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 992158.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 150631.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 604573.11,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 10,
+        "total_gasto": 423918.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 15,
+        "total_gasto": 587580.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 21,
+        "total_gasto": 925584.03,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de obra de\nrecapeamento asfáltico no município de Aparecida",
+            "empresa": "SIGA CONSTRUTORA EIRELI",
+            "valor_total": "R$ 258,420.75"
+          },
+          {
+            "objeto": "Aquisição de caminhão equipado com caçamba metálica\nbasculante para o Município de Aparecida–PB",
+            "empresa": "GALLOTTI TRUCKS BA COMERCIO DE\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 280,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 89235.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de prestação de serviços de Assessoria\nContábil junto a Prefeitura Municipal de Aparecida",
+            "empresa": "LRF CONTABILIDADE PÚBLICA &\nASSESSORIA LTDA",
+            "valor_total": "R$ 28,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços especializados de Consultoria e\nAssessoria Técnica e Financeira, de forma permanente e continuada,\npresencial, eletrônica, verbal e/ou escrita, no acompanhamento da\ngestão pública, incluindo representação junto ao Tribunal de Contas\ndo Estado da Paraíba, bem como Consultoria e Assessoria Fiscal e\nTributária, abrangendo planejamento estratégico, realização de\nestudos, revisão da legislação e acompanhamento da administração\ntributária, bem como Consultoria e Assessoria Fiscal e Tributária,\nabrangendo planejamento estratégico, realização de estudos, revisão\nda legislação e acompanhamento da administração tributária e sua\nevolução",
+            "empresa": "RWR\nCONSULTORIA & ASSESSORIA LTDA",
+            "valor_total": "R$ 22,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\ngêneros alimentícios, destinados a atender a diversos programas do\nGoverno Municipal",
+            "empresa": "JOSE EUDES DE\nOLIVEIRA",
+            "valor_total": "R$ 39,235.75"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\ngêneros alimentícios, destinados a atender a diversos programas do\nGoverno Municipal",
+            "empresa": "CT Nº 00291/2020 -\n25.11.20",
+            "valor_total": "R$ 39,235.75"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 15,
+        "total_gasto": 296338.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de mão de obra para podação de\nárvores à cargo da Prefeitura de Aparecida\nVencedores: - SEBASTIÂO LEANDRO DA SILVA com o",
+            "empresa": "SEBASTIÂO LEANDRO DA SILVA",
+            "valor_total": "R$ 64,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço de mão de obra para podação de\nárvores à cargo da Prefeitura de Aparecida",
+            "empresa": "SEBASTIÂO LEANDRO DA SILVA",
+            "valor_total": "R$ 64,000.00"
+          },
+          {
+            "objeto": "Aquisição de Um gabinete odontológico completo\ndestinado ao Fundo Municipal de Saúde da Prefeitura de\nAparecida,",
+            "empresa": "EQUIPASAUDE PRODUTOS PARA SAUDE\nLTDA, de",
+            "valor_total": "R$ 15,500.00"
+          },
+          {
+            "objeto": "Aquisição de Toners e periféricos de informática\ndestinado a todas as secretaria da Prefeitura Municipal de\nAparecida, ..",
+            "empresa": "AP TECH INFORMÁTICA COMERCIO LTDA\nME, de",
+            "valor_total": "R$ 10,108.00"
+          },
+          {
+            "objeto": "Serviço de perfuração de poços artesianos à cargo\nMunicípio de Aparecida, ..",
+            "empresa": "JARAMATAIA FLORESTAL",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "Serviços de serigrafia e mídia digital destinado a todas as\nsecretaria da Prefeitura Municipal de Aparecida, ..",
+            "empresa": "MMD SERVIÇOS DE MÌDIA DIGITAL EIRELI",
+            "valor_total": "R$ 17,280.00"
+          },
+          {
+            "objeto": "Serviço de perfuração de poços artesianos à cargo\nMunicípio de Aparecida, ..",
+            "empresa": "JARAMATAIA FLORESTAL",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará PSF IV inerente as\natividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e ERINALDO\nFERREIRA DE LIMA",
+            "valor_total": "R$ 800.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará PSF IV inerente as\natividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e ERINALDO\nFERREIRA DE LIMA",
+            "valor_total": "R$ 800.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará Central de Compras e\nEstoque inerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e\nFRANCISCO JUVÊNCIO",
+            "valor_total": "R$ 1,300.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará Central de Compras e\nEstoque inerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e\nFRANCISCO JUVÊNCIO",
+            "valor_total": "R$ 1,300.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará ARQUIVO MORTO\ninerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e GILVAN\nBOGES DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará ARQUIVO MORTO\ninerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e GILVAN\nBOGES DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará PAÇO MUNICIPAL\ninerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e DAMARES\nDE SÁ RAMALHO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará PAÇO MUNICIPAL\ninerente as atividades da Prefeitura Municipal de Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e DAMARES\nDE SÁ RAMALHO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviço de publicidade institucional em\nmídias digitais blogs, sites do município à cargo da Prefeitura\nMunicipal de Aparecida",
+            "empresa": "SISTEMA DE COMUNICAÇÃO DIÁRIO LTDA",
+            "valor_total": "R$ 17,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\nna área de Contabilidade Pública, para envio do SIOPE e do SIOPES\nda Prefeitura Municipal de Aparecida",
+            "empresa": "J.L CONTABILIDADE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\nna área de Contabilidade Pública, para envio do SIOPE e do SIOPES\nda Prefeitura Municipal do Aparecida",
+            "empresa": "J.L CONTABILIDADE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\nna área de Contabilidade Pública, para envio do SIOPE e do SIOPES\nda Prefeitura Municipal de Aparecida",
+            "empresa": "J.L CONTABILIDADE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\nna área de Contabilidade Pública, para envio do SIOPE e do SIOPES\nda Prefeitura Municipal do Aparecida",
+            "empresa": "J.L CONTABILIDADE LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 73,
+        "num_contratos": 200,
+        "total_gasto": 26088278.060000002
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 41,
+        "total_gasto": 3067223.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material agrícula para subsidiar a agricultura\nfamiliar do município de Aparecida\nVencedores: - IMPERIO DA AGRICULTURA - FRANCISCA\nLEDA TEODORO DA SILVA GONÇALVES ME com o",
+            "empresa": "IMPERIO DA AGRICULTURA",
+            "valor_total": "R$ 371,105.00"
+          },
+          {
+            "objeto": "Aquisição de material agrícula para subsidiar a agricultura\nfamiliar do município de Aparecida\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 9",
+            "empresa": "IMPERIO DA AGRICULTURA",
+            "valor_total": "R$ 371,105.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida\nVencedores: - DENTMED EQUIPAMENTOS ODONTOLOGICOS\nLTDA com o",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDS",
+            "valor_total": "R$ 33,590.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDS",
+            "valor_total": "R$ 33,590.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDS",
+            "valor_total": "R$ 33,590.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida\nVencedores: - DENTMED EQUIPAMENTOS ODONTOLOGICOS\nLTDA com o",
+            "empresa": "DENTMED EQUIPAMENTOS ODONTOLOGICOS\nLTDA",
+            "valor_total": "R$ 33,590.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida",
+            "empresa": "DENTMED EQUIPAMENTOS ODONTOLOGICOS\nLTDA",
+            "valor_total": "R$ 33,590.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos odontológicos destinado a\nSecretaria de Saúde do Município de Aparecida",
+            "empresa": "DENTMED EQUIPAMENTOS ODONTOLOGICOS\nLTDA",
+            "valor_total": "R$ 33,590.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 1643144.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para consultoria, assessoria e\n\ncapacitação na área institucional em Assistência Social á cargo da\n\nSecretaria de Ação Social do município de Aparecida,",
+            "empresa": "MAPE CONSULTORIA E PROJETOS EIRELE",
+            "valor_total": "R$ 14,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 32,
+        "total_gasto": 12001018.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO\n\nPARA DEFESAS JUNTO AO TJPB E DEMAIS TRIBUNAIS A\n\nCARGO DA PREFEITURA DE APARECIDA",
+            "empresa": "LUCAS GOMES DA SILVA SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA , de OAB respectivamente\n\n23.902-PB",
+            "valor_total": "R$ 20,100.00"
+          },
+          {
+            "objeto": "Contratação de serviço serigrafia e mídia digital destinado à\n\ntodas as Secretaria Municipal de Aparecida",
+            "empresa": "IMPRESS MMD SERV. MÍDIA DIGITAL EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 1708001.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1061841.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de soldas gerais e tornearia para\nmanutenção, reparos e conservação de estruturas metálicas\ndestinado a todas as secretaria da Prefeitura Municipal de\nAparecida,",
+            "empresa": "OFICINA EL SHADAY FRANCISCO RONALDO\nDE SOUSA MEI",
+            "valor_total": "R$ 12,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 1764636.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 30,
+        "total_gasto": 2014027.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviço de consultoria, assessoria e elaboração de planos de\n\ntrabalhos e projetos e convênios à cargo da PM de Aparecida\n\nVencedores:\n\n- EPC - EMPRESA PARAIBANA PRESTADORA DE SERVICOS\n\nCOMBINADOS A CONVENIOS LTDA com o",
+            "empresa": "EPC - EMPRESA PARAIBANA PRESTADORA DE\n\nSERVICOS COMBINADOS A CONVENIOS LTDA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "Serviço de consultoria, assessoria e elaboração de planos de\n\ntrabalhos e projetos e convênios à cargo da PM de Aparecida",
+            "empresa": "EPC - EMPRESA PARAIBANA PRESTADORA DE\n\nSERVICOS COMBINADOS A CONVENIOS LTDA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida\n\nVencedores:\n\n- MARIA CILANI DE FARIAS MEI com o",
+            "empresa": "WAGNER GARCIA TRAJANO",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida",
+            "empresa": "WAGNER GARCIA TRAJANO",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida",
+            "empresa": "WAGNER GARCIA TRAJANO",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida\n\nVencedores:\n\n- MARIA CILANI DE FARIAS MEI com o",
+            "empresa": "MARIA CILANI DE FARIAS MEI",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida",
+            "empresa": "MARIA CILANI DE FARIAS MEI",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Serviço de buffet, coffee break e ornamentação de eventos á\n\ncargo da Prefeitura Municipal de Aparecida",
+            "empresa": "MARIA CILANI DE FARIAS MEI",
+            "valor_total": "R$ 254,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa de borracharia destinado a\n\nmanutenção da frota veicular da PM Aparecida\n\nVencedores:\n\n- GERALDO FRANCISCO DE SOUSA com o",
+            "empresa": "GERALDO FRANCISCO DE SOUSA",
+            "valor_total": "R$ 136,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa de borracharia destinado a\n\nmanutenção da frota veicular da PM Aparecida",
+            "empresa": "GERALDO FRANCISCO DE SOUSA",
+            "valor_total": "R$ 136,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 1615868.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO LABORATORIAL\nPARA REALIZAÇÃO DO SERVIÇO DE TESTE RÁPIDO\nCOVID SWAB TIPO IMUNOCROMATOGRÁFICO\nQUALITATIVO, INCLUINDO SERVIÇO COM\nPROFISSIONAL PARA COLETA DO MATERIAL A CARGO\nDA SECRETARIA MUNICIPAL DE SAÚDE DE APARECIDA,",
+            "empresa": "CASIMIRO & SUCUPIRA LABORATORIO DE\nANALISES CLINICAS LTDA",
+            "valor_total": "R$ 17,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 916179.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviço de locação de estrutura montável toldo á cargo da\n\nPrefeitura Municipal de Aparecida\n\nEm presa convocada em segundo lugar",
+            "empresa": "LELEKA PRODUÇÕES E LOCAÇÕES EIRELI",
+            "valor_total": "R$ 29,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 12,
+        "total_gasto": 763491.04,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de caminhão com operacional de compactador de\n\nresíduos sólidos com capacidade 16 m³ destinado a PM de Aparecida\n\nVencedores: - PRESERV AMBIENTAL LTDA com o",
+            "empresa": "PRESERV AMBIENTAL LTDA",
+            "valor_total": "R$ 441,600.00"
+          },
+          {
+            "objeto": "Locação de caminhão com operacional de compactador de\n\nresíduos sólidos com capacidade 16 m³ destinado a PM de Aparecida",
+            "empresa": "PRESERV AMBIENTAL LTDA",
+            "valor_total": "R$ 441,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA COMPLEMENTAÇÃO EM MALHA ASFALTICA\n\nNA RUA MANOEL DAMIÃO DE SOUSA NO MUNICÍPIO DE\n\nAPARECIDA",
+            "empresa": "SIGA CONSTRUTORA",
+            "valor_total": "R$ 106,819.04"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação\n\nVencedores: - GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA com o",
+            "empresa": "PAPIROSSAURO LIVRARIA E PAPELARIA LTDA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "PAPIROSSAURO LIVRARIA E PAPELARIA LTDA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "PAPIROSSAURO LIVRARIA E PAPELARIA LTDA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "PAPIROSSAURO LIVRARIA E PAPELARIA LTDA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação\n\nVencedores: - GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA com o",
+            "empresa": "NORDESTE GRÁFICA & EMPREENDIMENTO",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "NORDESTE GRÁFICA & EMPREENDIMENTO",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "NORDESTE GRÁFICA & EMPREENDIMENTO",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "NORDESTE GRÁFICA & EMPREENDIMENTO",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação\n\nVencedores: - GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA com o",
+            "empresa": "GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA",
+            "valor_total": "R$ 108,336.00"
+          },
+          {
+            "objeto": "Aquisição de KIT ESCOLAR destinado a rede de ensino\n\nmunicipal mediante a Secretaria de Educação",
+            "empresa": "GRAFICA CAMINHA LUCIANO BEZERRA DA\n\nSILVA",
+            "valor_total": "R$ 108,336.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 79,
+        "num_contratos": 249,
+        "total_gasto": 28785766.650000002
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 40,
+        "total_gasto": 5185364.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 44,
+        "total_gasto": 3181501.9,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇO DE ELABORAÇÃO DE\n\nPROJETOS, ASSESSORIA, CONSULTORIA NA ÁREA DE\n\nAGROPECUÁRIA DESTINADO AO MUNICÍPIO DE\nAPARECIDA-PB",
+            "empresa": "ATEC SERVIÇOS AGROPECUARIOS",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "EXECUÇÃO DO OBJETO LICITADO DE CONFECÇÃO\n\nDE MATERIAL GRÁFICO DESTINADO AO MUNICÍPIO DE\n\nAPARECIDA-PB",
+            "empresa": "GRAFICA E EDITORA BENTO FREIRE -\n\nEIRELI ME",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO PARCELADA DE PÃES DESTINADO A\nTODAS AS SECRETARIAS DO MUNICÍPIO DE APARECIDA -\n\nPB",
+            "empresa": "PANIFICADORA NOSSA SENHORA\n\nAPARECIDA",
+            "valor_total": "R$ 49,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO\n\nPARA PRESTAR SERVIÇO DE CONTROLADORIA\n\nINTERNA E PLANEJAMENTO CONTROLES VOLTADOS A\n\nASSEGURAR A OBSERVÂNCIA A LEGISLAÇÃO E ÀS\n\nNORMAS DISCIPLINARES A CARGO DA PREFEITURA DE\n\nAPARECIDA",
+            "empresa": "MARIA EDNA DE ABRANTES FERNANDES , de\n\nOAB respectivamente 11.048-PB",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Locação de imóvel onde funcionará SECRETARIA DE\nINFRA-ESTRUTURA inerente às atividades da Prefeitura Municipal\n\nde Aparecida",
+            "empresa": "S: Prefeitura Municipal de Aparecida e JOSEFA\n\nPEREIRA DE ARAÚJO",
+            "valor_total": "R$ 7,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 2978551.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 49,
+        "total_gasto": 6547782.840000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO PARCELADA DE UTENCÍLIOS\n\nDOMÉSTICOS E DIVERSOS DESTINADO A TODAS AS\n\nSECRETARIAS MUNICÍPIO DE APARECIDA - PB",
+            "empresa": "BIG IMPORTADOS",
+            "valor_total": "R$ 99,998.32"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO PARCELADA DE FOGOS DE ARTIFICIOS\n\nDESTINADO A TODAS AS SECRETARIAS MUNICÍPIO DE\n\nAPARECIDA - PB",
+            "empresa": "RF ANDRADE",
+            "valor_total": "R$ 97,260.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nCAÇAMBA EM REGIME DE DIARIA DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARECIDA - PB",
+            "empresa": "SOARES LIMPEZAS E SERVIÇOS GERAIS -\n\nDANILO SOARES DE LIMA",
+            "valor_total": "R$ 96,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 348459.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 3496983.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição veículos 0km com entrega imediata destinado ao\n\nmunicípio de Aparecida\n\nVencedores: - NOVOS TEMPOS COMERCIO DE VEICULOS\n\nLTDA vencendo no ítem: 1; , perfazendo o",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 276,000.00"
+          },
+          {
+            "objeto": "Aquisição veículos 0km com entrega imediata destinado ao\n\nmunicípio de Aparecida",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 276,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 25,
+        "total_gasto": 2821849.92,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE\n\nMEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NACIONAL STORE JM COMERCIO E\n\nREPRESENTACAO EIRELI",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP. EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida\n\nVencedores:\n\n- BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\n\nNOSSA SENHORA DA CONCEICAO LTDA com o",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          },
+          {
+            "objeto": "Aquisição de material, insumos hospitalar e instrumental\n\nclínicos destinado ao FMS de Aparecida",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,080,595.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 22,
+        "total_gasto": 2351547.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peça automotivas linhas leve, médio e pesada\n\ndestinado a manutenção da frota veicular à vardo da PMA\n\nVencedores:\n\n- VICENTE AUTO PEÇAS COMÉRCIO E TRANSPORTES LTDA\n\nME com o",
+            "empresa": "VICENTE AUTO PEÇAS COMÉRCIO E\n\nTRANSPORTES LTDA ME",
+            "valor_total": "R$ 854,000.00"
+          },
+          {
+            "objeto": "Aquisição de peça automotivas linhas leve, médio e pesada\n\ndestinado a manutenção da frota veicular à vardo da PMA",
+            "empresa": "VICENTE AUTO PEÇAS COMÉRCIO E\n\nTRANSPORTES LTDA ME",
+            "valor_total": "R$ 854,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata\n\nVencedores:\n\n- ALCIONE FERREIRA DANTAS com o",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata\n\nVencedores:\n\n- ALCIONE FERREIRA DANTAS com o",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "Lumiar Health Builders Equipamentos Hospitalares Ltda",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "MIAMIMED PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDS",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "POTIGUAR MEDPRIME SOLUCOES EM SAUDE\n\nLTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "TM SOLUÇOES INTEGRADAS EIRELI",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida\n\nVencedores:\n\n- GQS ELETROS E EQUIPAMENTOS LTDA com o",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e utensílios médicos hospitalares,\n\nmobiliário destinado a PM de Aparecida",
+            "empresa": "ZIB COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 69,332.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 310676.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS ADVOCATÍCIOS\n\nPARA PRESTAR SERVIÇO DE RECUPERAÇÃO CRÉDITOS\n\nTRIBUTÁRIOS TLL, TFF, TLA, ISSQN, FPM, FUNDEF E\n\nFUNDEB, À CARGO DO MUNICÍPIO DE APARECIDA-PB",
+            "empresa": "ROCHAEL CARREIRO DE ALMEIDA NETO\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA , de OAB\n\nrespectivamente 11.029-PB",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 254981.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de patrulha mecanizada tipo implemento agrícola\n\n\"PICADEIRA\" destinado a PM de Aparecida",
+            "empresa": "MARES SERVIÇOS E COMÉRCIO DE\n\nEQUIPAMENTOS EIRELI ME",
+            "valor_total": "R$ 90,798.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 544578.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 20,
+        "total_gasto": 2709577.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUIAIÇÃO PARCELA DE MADEIRAS PARA\nEXECUÇÃO DE SERVIÇO REALIZADO DE FORMA DIRETA\nPELA ADMINISTRAÇÃO PM DE APARECIDA\nVencedores: - MADEREIRA BEZERRA II PRICILA DE SOUSA\nQUEIROGA vencendo nos seguintes itens: 1, 2, 3, 4, 5, 6; perfazendo\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 15\n\n\no",
+            "empresa": "MADEREIRA BEZERRA II PRICILA DE SOUSA\nQUEIROGA",
+            "valor_total": "R$ 233,550.00"
+          },
+          {
+            "objeto": "AQUIAIÇÃO PARCELA DE MADEIRAS PARA\nEXECUÇÃO DE SERVIÇO REALIZADO DE FORMA DIRETA\nPELA ADMINISTRAÇÃO PM DE APARECIDA",
+            "empresa": "MADEREIRA BEZERRA II PRICILA DE SOUSA\nQUEIROGA",
+            "valor_total": "R$ 233,550.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO\nPARA DEFESAS JUNTO AO TJPB E DEMAIS TRIBUNAIS A\nCARGO DA PREFEITURA DE APARECIDA",
+            "empresa": "LUCAS GOMES DA SILVA SOCIEDADE\nINDIVIDUAL DE ADVOCACIA , de OAB respectivamente\n23.902-PB",
+            "valor_total": "R$ 40,200.00"
+          },
+          {
+            "objeto": "Contratação direta de serviço de coleta diária, transporte\ne tratamento térmico por incineração e destinação final das cinzas\ndos resíduos hospitalares à cargo da Secretaria de Saúde da\nPrefeitura Municipal de Aparecida, ..",
+            "empresa": "TRASH COLETA E INCINERAÇÃO DE LIXO\nHOSPITALAR LTDA",
+            "valor_total": "R$ 17,520.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO\nPARA DEFESAS JUNTO AO TJPB E DEMAIS TRIBUNAIS A\nCARGO DA PREFEITURA DE APARECIDA",
+            "empresa": "LUCAS GOMES DA SILVA SOCIEDADE\nINDIVIDUAL DE ADVOCACIA , de OAB respectivamente\n23.902-PB",
+            "valor_total": "R$ 40,200.00"
+          },
+          {
+            "objeto": "Contratação de Serviços Advocatícios para que\npatrocine demanda judicial visando à recuperação dos",
+            "empresa": "MONTEIRO E MONTEIRO ADVOGADOS\nASSOCIADOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Serviços Advocatícios para que patrocine\ndemanda judicial visando à recuperação dos",
+            "empresa": "MONTEIRO E MONTEIRO ADVOGADOS\nASSOCIADOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Serviços técnicos especializados de\nconsultoria para estudo, levantamento e propositura de demandas\njudiciais e/ou administrativas para recuperação e readequação do\nFUNDEB - Fundo de Manutenção e Desenvolvimento da\nEducação Básica e de",
+            "empresa": "MONTEIRO E MONTEIRO ADVOGADOS\nASSOCIADOS , de OAB respectivamente 11.338-PB",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Serviços técnicos especializados de\nconsultoria para estudo, levantamento e propositura de demandas\njudiciais e/ou administrativas para recuperação e readequação do\nFUNDEB - Fundo de Manutenção e Desenvolvimento da\nEducação Básica e de",
+            "empresa": "MONTEIRO E MONTEIRO ADVOGADOS\nASSOCIADOS , de OAB respectivamente 11.338-PB",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 77,
+        "num_contratos": 392,
+        "total_gasto": 65234631.81
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 232258.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE MÃO DE OBRA\n\nPARA PODAÇÃO DE ÁRVORES À CARGO DA PREFEITURA\n\nMUNICIPAL DE APARECIDA\n\nVencedores: - GAMA PODAÇÃO João Leno Gama, vencendo no\nítem: 1; , perfazendo o",
+            "empresa": "GAMA PODAÇÃO João Leno Gama",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE MÃO DE OBRA\nPARA PODAÇÃO DE ÁRVORES À CARGO DA PREFEITURA\n\nMUNICIPAL DE APARECIDA",
+            "empresa": "GAMA PODAÇÃO João Leno Gama",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "Equipamentos tipo mobiliário e eletrodoméstico\n\ndestinado a Casa de Apoio em João Pessoa da Secretaria de Saúde\n\nda Prefeitura Municipal de Aparecida,",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 17,458.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 103,
+        "total_gasto": 23194552.76,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de aquisição de materiais diversos e\n\nrealização de oficinas de formação conforme especificações do plano\n\nde trabalho do Convênio 919740/2021, que tem como tema a\n\nEducação em Saúde Ambiental à cargo do Município de Aparecida–\n\nPB",
+            "empresa": "ATEC -\n\nASSISTENCIA TECNICA ESPECIALIZADA, CONSULTORIA E\n\nPROJETOS LTDA",
+            "valor_total": "R$ 317,558.40"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "DENTALMED PRODUTOS\n\nPARA SAUDE LTDA.",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "DENTALMED PRODUTOS PARA SAUDE LTDA.",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "BIOMED\n\nDISTRIBUIDORA HOSPITALAR E LABORATORIAL NOSSA\n\nSENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "DENTALMED PRODUTOS PARA SAUDE\n\nLTDA.",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "Contratação de serviço fornecimento parcelado de material,\n\ninsumos e instrumentos de uso odontológico destinado ao Fundo\n\nMunicipal de Saúde de Aparecida",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 91.854,75\n\n\n\nAparecida",
+            "valor_total": "R$ 2,397,574.05"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE PRODUTORES DA\n\nAGRICULTURA FAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE PRODUTORES DA\n\nAGRICULTURA FAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "DIOLINDA ROSA DOS SANTOS PEREIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "DIOLINDA ROSA DOS SANTOS PEREIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "EDSON ALVES DE ARAÚJO",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "EDSON ALVES DE ARAÚJO",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCA\n\nDE SOUSA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCA\n\nDE SOUSA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO ADRIANO\n\nGARRIDO DE SÁ",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO ADRIANO\n\nGARRIDO DE SÁ",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO DE ASSIS\n\nLÚCIO",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO DE ASSIS\n\nLÚCIO",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "MARIA ALRIZETE GOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "MARIA ALRIZETE GOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "RAIMUNDO GONÇALVES DE OLIVEIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "RAIMUNDO GONÇALVES DE OLIVEIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ROZANE CARLA LÚCIO NEVES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ROZANE CARLA LÚCIO NEVES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "TIAGO OLIVEIRA DE SÁ",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "TIAGO OLIVEIRA DE SÁ",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE\n\nPRODUTORES DA AGRICULTURA FAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE\n\nPRODUTORES DA AGRICULTURA FAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCA DE SOUSA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCA DE SOUSA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO DE ASSIS LÚCIO -\n\nR$ 8.500,00; MARIA ALRIZETE GOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "FRANCISCO DE ASSIS LÚCIO -\n\nR$ 8.500,00; MARIA ALRIZETE GOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ROZANE CARLA LÚCIO NEVES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ROZANE CARLA LÚCIO NEVES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "TIAGO OLIVEIRA DE SÁ -\n\nR$ 4.900,00.\n\nEXTRATO DE CONTRATOS",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "TIAGO OLIVEIRA DE SÁ -\n\nR$ 4.900,00.\n\nEXTRATO DE CONTRATOS",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE PRODUTORES DA AGRICULTURA\n\nFAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "ASSOCIACAO DE PRODUTORES DA AGRICULTURA\n\nFAMILIAR",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00060/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00060/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00061/2023 -\n\n28.03.23",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00061/2023 -\n\n28.03.23",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº\n\n00062/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº\n\n00062/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00063/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00063/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00064/2024",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00064/2024",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00065/2023 -\n\n28.03.23",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº 00065/2023 -\n\n28.03.23",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº\n\n00066/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "CT Nº\n\n00066/2023",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "SEVERINA VARELO DA\n\nSILVA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "SEVERINA VARELO DA\n\nSILVA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "DIOLINDA\n\nROSA DOS SANTOS PEREIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "DIOLINDA\n\nROSA DOS SANTOS PEREIRA",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "MARIA ALRIZETE\n\nGOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "CHAMADA PÚBLICA PARA AQUISIÇÃO DE\n\nGENEROS ALIMENTICIOS DA AGRICULTURA FAMILIAR E\n\nEMPREENDEDOR FAMILIAR RURAL PARA ATENDER AO\n\nPROGRAMA PNAE DO MUNICIPIO DE APARECIDA",
+            "empresa": "MARIA ALRIZETE\n\nGOMES",
+            "valor_total": "R$ 316,145.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "MARIA LUCIENE LIMA DE SOUSA",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "FLADISON\n\nPEREIRA DE ARAUJO",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "JOSEFA\n\nDORALICE DE SOUSA",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "VICENTE AUTO PECAS COMERCIO\n\nE TRANSPORTES LTDA",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "CLOVIS WANDERLEI\n\nALVES JUNIOR",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "CT Nº 00072/2023 -\n\n28.03.23 - FLADISON PEREIRA DE ARAUJO",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "JOSEFA DORALICE DE\n\nSOUSA",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "Contratação de serviço de elétrica automotiva, mecânica\n\npara manutenção da frota veicular, com serviço realizado na garagem\n\nmunicipal e fornecimento de peças á cargo do município de\n\nAparecida",
+            "empresa": "MARIA\n\nLUCIENE LIMA DE SOUSA",
+            "valor_total": "R$ 3,115,500.00"
+          },
+          {
+            "objeto": "SERVIÇO DE LOCAÇÃO DE DE OPERACIONAL DE\n\nBASCULANTE COM CAPACIDADE DE 12 M³ DESTINADO AO\n\nSERVIÇO DE COLETA DE ENTULHO E SERVIÇOS\n\nCOMPLEMENTARES A CARGO DA SECRETARIA DE\n\nINFRAESTRUTURA DO MUNICIPIO DE APARECIDA–PB",
+            "empresa": "40.770.499 DANILO SOARES DE LIMA -\n\nR$ 66.000,00\n\n\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 28\n\n\n\nAparecida",
+            "valor_total": "R$ 66,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 11,
+        "total_gasto": 639563.48,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇO FUNERÁRIO COM\n\nFORNECIMENTO DE URNAS E TRANSLADO À CARGO DA\n\nSECRETARIA DE AÇÃO SOCIAL DO MUNICÍPIO DE\n\nAPARECIDA–PB",
+            "empresa": "MARIA KELMA DANTAS PINTO",
+            "valor_total": "R$ 53,900.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇO FUNERÁRIO COM\n\nFORNECIMENTO DE URNAS E TRANSLADO À CARGO DA\n\nSECRETARIA DE AÇÃO SOCIAL DO MUNICÍPIO DE\n\nAPARECIDA–PB",
+            "empresa": "MARIA KELMA DANTAS PINTO",
+            "valor_total": "R$ 53,900.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO\n\nGESSO E ACESSÓRIO DESTINADO A PREFEITURA\n\nMUNICIPAL DE APARECIDA–PB",
+            "empresa": "JEFERSON DA SILVA FIRMINO",
+            "valor_total": "R$ 49,990.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO GESSO E ACESSÓRIO DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JEFERSON DA SILVA FIRMINO",
+            "valor_total": "R$ 49,990.00"
+          },
+          {
+            "objeto": "ADESÃO ATA DE REGISTRO DE PREÇO\n\nREFERENTE AO PREGÃO ELETRÔNICO 0032/23 QUE TEM\n\nCOMO OBJETIVO CONTRATAÇÃO DE EMPRESA\n\nESPECIALIZADA PARA ESTRUTURA PARA EVENTO",
+            "empresa": "LELEKA\n\nPRODUCOES E LOCACOES LTDA",
+            "valor_total": "R$ 190,480.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 54,
+        "total_gasto": 3024624.69,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA MANUTENÇÃO\n\nE REPAROS EM MARCENARIA, SOLDAS E TORNEARIA\n\nPARA MANUTENÇÃO DE ESTRUTRAS METALICAS E EM\n\nMADEIRA À CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "MARCELO GARCIA DE\n\nQUEIROGA",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA MANUTENÇÃO\n\nE REPAROS EM MARCENARIA, SOLDAS E TORNEARIA\n\nPARA MANUTENÇÃO DE ESTRUTRAS METALICAS E EM\n\nMADEIRA À CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "MARCELO GARCIA DE QUEIROGA",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA MANUTENÇÃO\n\nE REPAROS EM MARCENARIA, SOLDAS E TORNEARIA\n\nPARA MANUTENÇÃO DE ESTRUTRAS METALICAS E EM\n\nMADEIRA À CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "FRANCISCO RONALDO DE SOUSA",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA MANUTENÇÃO\n\nE REPAROS EM MARCENARIA, SOLDAS E TORNEARIA\n\nPARA MANUTENÇÃO DE ESTRUTRAS METALICAS E EM\n\nMADEIRA À CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "CT Nº 00108/2023",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE LOCAÇÃO DE\n\nVEICULO TIPO UTILITÁRIO E BASCULANTE DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARAECIDA",
+            "empresa": "JOSENILDO FERNANDES\n\nDA SILVA",
+            "valor_total": "R$ 194,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE LOCAÇÃO DE\n\nVEICULO TIPO UTILITÁRIO E BASCULANTE DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARAECIDA",
+            "empresa": "JOSENILDO FERNANDES DA SILVA",
+            "valor_total": "R$ 194,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE LOCAÇÃO DE\n\nVEICULO TIPO UTILITÁRIO E BASCULANTE DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARAECIDA",
+            "empresa": "FRANCISCO FÁBIO\n\nTEOTONIO DA SILVA",
+            "valor_total": "R$ 194,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JOSÉ ARNALDO CALUETA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JOSÉ\n\nMANOEL GONZAGA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "PAULO HENRIQUE MORAIS DO\n\nNASCIMENTO",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JOSÉ ARNALDO CALUETA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JOSÉ MANOEL GONZAGA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "PAULO HENRIQUE MORAIS DO NASCIMENTO",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "EMÍDIO\n\nJOSÉ DE SOUSA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JOSÉ ARNALDO CALUETA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "CT Nº\n\n00112/2023",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "JURANDI APRIGIO DE\n\nSOUSA",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "PAULO\n\nHENRIQUE MORAIS DO NASCIMENTO",
+            "valor_total": "R$ 778,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA–PB",
+            "empresa": "VINICIUS FRANCLIS EMIDIO FARIAS -\n\nR$ 27.600,00\n\n\n\nAparecida",
+            "valor_total": "R$ 778,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 30,
+        "total_gasto": 7456718.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 3593949.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para serviço de\nmanutenção em ar condenado automotivo com reposição e/ou\n\nrecondicionamento de peças destinado a manutenção da frota veicular\n\ndo município de Aparecida",
+            "empresa": "N A\n\nEQUIPADORA LTDA",
+            "valor_total": "R$ 100,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação continua de impressor\n\ncom serviço de manutenção, recarga de tonner e substituição por\n\nconta do contratado destinado a diversas secretais do município de\n\nAparecida–pb",
+            "empresa": "destinado a diversas secretais do município de\n\nAparecida–pb; RATIFICO o correspondente procedimento e\n\nADJUDICO o seu",
+            "valor_total": "R$ 66,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação continua de impressor\n\ncom serviço de manutenção, recarga de tonner e substituição por\n\nconta do contratado destinado a diversas secretais do município de\n\nAparecida–pb",
+            "empresa": "destinado a diversas secretais do município de\n\nAparecida–pb. FUNDAMENTO LEGAL: Dispensa de Licitação nº\n\nDV00027/2023. DOTAÇÃO: Recursos Próprios do Município de\n\nAparecida: UNIDADES ORÇAMENTÁRIAS: 20.100; 20.300;\n\n20.400; 20.500; 20.600; 20.700; 20.800; 20.900; 21.000; 21.100;\n21.200; 21.300; 21.600: 04 122 2001 2002; 04 122 2001 2004; 04 122\n\n2001 2006; 08 122 2001 2011; 12 122 2001 2013; 12 361 1017 2015;\n\n12 361 1017 2016; 12 365 1017 2017; 12 366 1017 2018; 12 361\n\n1017 2022; 12 361 1017 2028; 12 365 1017 2031; 12 361 1017 2041;\n13 122 2001 2044; 10 122 2001 2047; 15 452 2001 2051; 20 122\n\n2001 2062; 10 301 1018 2068; 08 244 1016 2088; 13 392 1003 2101;\n\n26 122 2001 2106. 3390.39 99 OUTROS SERVIÇOS DE\n\nTERCEIROS",
+            "valor_total": "R$ 66,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação continua de impressor\n\ncom serviço de manutenção, recarga de tonner e substituição por\n\nconta do contratado destinado a diversas secretais do município de\n\nAparecida–pb",
+            "empresa": "QUEIROGA & ABRANTES LTDA",
+            "valor_total": "R$ 66,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 41,
+        "total_gasto": 939986.3999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para a\n\nprestação dos serviços continuados de manutenção preventiva e\n\ncorretiva de ar condicionado, bem como refrigeradores, freezers e\n\nbebedouros, incluindo os materiais e equipamentos necessários à\n\nmanutenção, para atender as necessidades da Prefeitura Municipal de\n\nAparecida",
+            "empresa": "MARCOS ANTONIO\n\nFERREIRA DE SOUZA",
+            "valor_total": "R$ 217,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 24,
+        "total_gasto": 3349932.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO MECÂNICO PARA\n\nMANUTENÇÃO VEICULO TIPO MOTOCICLETAS COM\n\nREPOSIÇÃO DE PEÇAS À CARGO DA PREFEITURA\n\nMUNICIPAL DE APARECIDA",
+            "empresa": "MARIA\n\nLEDA GONZAGA",
+            "valor_total": "R$ 234,771.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 17,
+        "total_gasto": 3638223.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 36,
+        "total_gasto": 8999340.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 26,
+        "total_gasto": 7455905.38,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\nCIVIL PARA CONSTRUÇÃO DA QUADRA POLI ESPORTIVA\nCOM BANHEIROS E VESTIÁRIOS, NO ASSENTAMENTO\nACAUÃ DO MUNICÍPIO DE APARECIDAPB,, CONVÊNIO Nº\n259/2023 ESTADO DA PARAÍBA, ATRAVÉS DA SECRETARIA\nDE ESTADO DA EDUCAÇÃO",
+            "empresa": "F J CONSTRUCOES E\nSERVICOS LTDA",
+            "valor_total": "R$ 1,978,425.28"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 15,
+        "total_gasto": 3461132.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\n\nespecializado na área de Contabilidade Pública, para função de\n\nContabilista à cargo da Prefeitura Municipal de Aparecida",
+            "empresa": "MARCOS OLIVEIRA CONTABILIDADE\n\nCONSULTORIA E ASSESSORIA LTDA",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\n\nespecializado na área de Contabilidade Pública, para função de\n\nContabilista à cargo da Prefeitura Municipal de Aparecida",
+            "empresa": "MARCOS OLIVEIRA CONTABILIDADE\n\nCONSULTORIA E ASSESSORIA LTDA",
+            "valor_total": "R$ 168,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços advocatícios para consultoria e assessoria á\n\ncargo da Secretaria de Administração do Município de Aparecida",
+            "empresa": "LUCAS GOMES DA SILVA SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 80,400.00"
+          },
+          {
+            "objeto": "Contratação de serviços advocatícios para consultoria e\n\nassessoria á cargo da Secretaria de Administração do Município de\n\nAparecida",
+            "empresa": "LUCAS GOMES DA SILVA SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 80,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 86,
+        "num_contratos": 296,
+        "total_gasto": 59770762.29000001
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 15,
+        "total_gasto": 851319.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços advocatícios para defesa dos direitos e\ninteresse do Município nas ações perante os Tribunais de Conta do\nEstado da Paraíba, União bem como nas ações 2º grau no TJPB e nas\ninstâncias superiores",
+            "empresa": "JOHNSON\nABRANTES",
+            "valor_total": "R$ 96,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços advocatícios para defesa dos\ndireitos e interesse do Município nas ações perante os Tribunais de\nConta do Estado da Paraíba, União bem como nas ações 2º grau no\nTJPB e nas instâncias superiores",
+            "empresa": "JOHNSON\nABRANTES",
+            "valor_total": "R$ 96,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços advocatícios para consultoria jurídica cargo\ndo Fundo Municipal de Saúde de Aparecida",
+            "empresa": "EVA PIRES GONÇALVES",
+            "valor_total": "R$ 80,400.00"
+          },
+          {
+            "objeto": "Contratação de serviços advocatícios para consultoria\njurídica cargo do Fundo Municipal de Saúde de Aparecida",
+            "empresa": "EVA PIRES GONÇALVES",
+            "valor_total": "R$ 80,400.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica na área de\nContabilidade Pública para envio do SIOPE e do SIOPES da\nPrefeitura Municipal do Aparecida",
+            "empresa": "J.L\nCONTABILIDADE LTDA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\nna área de Contabilidade Pública para envio do SIOPE e do SIOPES\nda Prefeitura Municipal do Aparecida",
+            "empresa": "J.L\nCONTABILIDADE LTDA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços para a elaboração, acompanhamento e\naprovação de projetos técnicos de engenharia civil à cargo do\nmunicípio de Aparecida, visando garantir a qualidade e a\nconformidade das obras públicas, bem como o cumprimento das\nnormativas e padrões técnicos estabelecidos",
+            "empresa": "LCL\nSERVICOS DE ENGENHARIA LTDA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços para a elaboração,\nacompanhamento e aprovação de projetos técnicos de engenharia civil\nà cargo do município de Aparecida, visando garantir a qualidade e a\nconformidade das obras públicas, bem como o cumprimento das\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 16\n\n\nnormativas e padrões técnicos estabelecidos",
+            "empresa": "LCL\nSERVICOS DE ENGENHARIA LTDA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 38,
+        "total_gasto": 1220797.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE\nSERVIÇO DE AQUISIÇÃO DE ARMAÇÕES DE ÓCULOS,\nLENTES DESTINADO PARA DISTRIBUIÇÃO À COMUNIDADE\nCARENTE DO MUNICÍPIO DE APARECIDA",
+            "empresa": "ALANA AGUDELO DE CARVALHO",
+            "valor_total": "R$ 110,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO DE AQUISIÇÃO DE ARMAÇÕES DE ÓCULOS,\nLENTES DESTINADO PARA DISTRIBUIÇÃO À COMUNIDADE\nCARENTE DO MUNICÍPIO DE APARECIDA",
+            "empresa": "ALANA AGUDELO DE CARVALHO",
+            "valor_total": "R$ 110,000.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "EDSON ALVES DE\nARAÚJO",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "EDSON ALVES DE\nARAÚJO",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "FRANCISCA DE SOUSA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "FRANCISCA DE SOUSA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "FRANCISCO ADRIANO GARRIDO DE SÁ",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "FRANCISCO ADRIANO GARRIDO DE SÁ",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "KÊNIA\nFERNANDES DA SILVA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "KÊNIA\nFERNANDES DA SILVA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "MARIA DE FÁTIMA DANTAS COSMO -\nR$ 33.750,00; NADIR ALVES DE SANTANA QUIEIROGA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "MARIA DE FÁTIMA DANTAS COSMO -\nR$ 33.750,00; NADIR ALVES DE SANTANA QUIEIROGA",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "SEBASTIANA LÚCIO NEVES",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "SEBASTIANA LÚCIO NEVES",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "COASPA -\nCOOPERATIVA AGROPECUARIA DOS APICULTORES DO\nSERTAO PARAIBANO",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "COASPA -\nCOOPERATIVA AGROPECUARIA DOS APICULTORES DO\nSERTAO PARAIBANO",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº\n00023/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº\n00023/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00024/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00024/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00025/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00025/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00026/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00026/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT\nNº 00027/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT\nNº 00027/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00028/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00028/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00029/2024 -\n26.03.24",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00029/2024 -\n26.03.24",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00030/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00030/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00031/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00031/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00032/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00032/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº\n00033/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº\n00033/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00034/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "Chamada pública para aquisição de gêneros alimentícios da\nagricultura familiar e empreendedor familiar rural para o atendimento\nao Programa Nacional de Alimentação Escolar– PNAE do municipio\nde Aparecida–PB",
+            "empresa": "CT Nº 00034/2024",
+            "valor_total": "R$ 816,797.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS ADVOCATÍCIOS\nPARA PRESTAR SERVIÇO DE RECUPERAÇÃO CRÉDITOS\nTRIBUTÁRIOS TLL, TFF, TLA, ISSQN,, À CARGO DO\nMUNICÍPIO DE APARECIDA-PB",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Aparecida e: CT Nº 00188/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 19,
+        "total_gasto": 851244.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço advocatício para consultoria e assessoria\n\njurídica, visando o acompanhamento e a orientação jurídica em\n\nquestões que envolvem a consultoria ao Conselho Tutelar e outras\n\ndemandas judiciais relacionadas à Secretaria de Assistência Social do\n\nMunicípio de Aparecida",
+            "empresa": "SOARES\n\nADVOCACIA & CONSULTORIA JURIDICA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço advocatício para consultoria e\n\nassessoria jurídica, visando o acompanhamento e a orientação jurídica\n\nem questões que envolvem a consultoria ao Conselho Tutelar e outras\n\ndemandas judiciais relacionadas à Secretaria de Assistência Social do\n\nMunicípio de Aparecida",
+            "empresa": "SOARES\n\nADVOCACIA & CONSULTORIA JURIDICA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 24,
+        "total_gasto": 3242358.6999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA APOIO\n\nADMINISTRATIVO PARA COMPLETA\n\nOPERACIONALIZAÇÃO DO SISTEMA INFORMATIZADO DA\n\nFROTA VEICULAR E DE MÁQUINAS COM GERAÇÃO DE\n\nENVIO MENSAL DE INFORMAÇÕES PARA TCE–PB",
+            "empresa": "ZERO UM INFORMATICA\n\nCOMERCIO E SERVICOS DE TI LTDA",
+            "valor_total": "R$ 216,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO PARA APOIO\n\nADMINISTRATIVO PARA COMPLETA\n\nOPERACIONALIZAÇÃO DO SISTEMA INFORMATIZADO DA\n\nFROTA VEICULAR E DE MÁQUINAS COM GERAÇÃO DE\n\nENVIO MENSAL DE INFORMAÇÕES PARA TCE–PB",
+            "empresa": "ZERO UM INFORMATICA COMERCIO E\n\nSERVICOS DE TI LTDA",
+            "valor_total": "R$ 216,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA-PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Aparecida e: CT Nº\n\n00109/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE\n\nCOMPLEMENTAÇÃO DE TRANSPORTE ESCOLAR DA REDE\n\nMUNICIPAL DE ENSINO PARA COBRIR A ZONA RURAL À\n\nCARGO DA PREFEITURA MUNICIPAL DE APARECIDA-PB",
+            "empresa": "e prorroga o prazo por mais 12\n\nmeses. CT Nº 00115/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE LOCAÇÃO DE\n\nVEICULO TIPO UTILITÁRIO E BASCULANTE DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARAECIDA",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Aparecida e: CT Nº\n\n00104/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 24,
+        "total_gasto": 6348061.24,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE MAO DE OBRA DE SERVIÇO DE\n\nGESSEIRO A CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "55.239.137 ANTONIA CORREIA DE\n\nARAUJO",
+            "valor_total": "R$ 115,584.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE MAO DE OBRA DE SERVIÇO\n\nDE GESSEIRO A CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
+            "empresa": "55.239.137 ANTONIA CORREIA DE\n\nARAUJO",
+            "valor_total": "R$ 115,584.00"
+          },
+          {
+            "objeto": "DISTRIBUIÇÃO DE SERVIÇO VETERINÁRIO PARA REALIZAR\n\nPROCEDIMENTO CASTRAÇÃO DE ANIMAIS DOMÉSTICOS\n\nPQUENO E MÉDIO PORTE, DESTINADO A PREFEITURA\n\nMUNICIPAL DE APARECIDA/PB",
+            "empresa": "JOAO\n\nSILVESTRE DA SILVA NETO",
+            "valor_total": "R$ 117,750.00"
+          },
+          {
+            "objeto": "DISTRIBUIÇÃO DE SERVIÇO VETERINÁRIO PARA\n\nREALIZAR PROCEDIMENTO CASTRAÇÃO DE ANIMAIS\n\nDOMÉSTICOS PQUENO E MÉDIO PORTE, DESTINADO A\n\nPREFEITURA MUNICIPAL DE APARECIDA/PB",
+            "empresa": "JOAO\n\nSILVESTRE DA SILVA NETO",
+            "valor_total": "R$ 117,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 8782847.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nTRATAMENTO DE SAÚDE COM APLICAÇÃO À DOMICÍLIO E\n\nEM UNIDADES DE SAÚDE PARA COBERTURAS ESPECIAIS\n\nEM TRATAMENTO DE MÉDIA COMPLEXIDADE PARA\nLESÕES CRÔNICAS E COMPLEXAS",
+            "empresa": "MEDICAL SAFE\n\nCONSULTORIA EM SEGURANCA DO TRABALHO LTDA",
+            "valor_total": "R$ 117,500.80"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nTRATAMENTO DE SAÚDE COM APLICAÇÃO À DOMICÍLIO E\n\nEM UNIDADES DE SAÚDE PARA COBERTURAS ESPECIAIS\n\nEM TRATAMENTO DE MÉDIA COMPLEXIDADE PARA\n\nLESÕES CRÔNICAS E COMPLEXAS",
+            "empresa": "MEDICAL SAFE\n\nCONSULTORIA EM SEGURANCA DO TRABALHO LTDA",
+            "valor_total": "R$ 117,500.80"
+          },
+          {
+            "objeto": "Objeto: loc ação de hora má quina tipo retro es cavadeira destinada a\n\nsecretaria de infraestrutura da prefeitura municipal de Aparecida",
+            "empresa": "APRIMORA EMPREENDIMENTOS\n\nIMOBILIARIOS LTDA",
+            "valor_total": "R$ 115,940.00"
+          },
+          {
+            "objeto": "loc ação de hora má quina tipo retro es cavadeira\n\ndestinada a secretaria de infraestrutura da prefeitura municipal de\n\nAparecida; RATIFICO o correspondente procedimento e ADJUDICO\n\no seu objeto a: APRIMORA EMPREENDIMENTOS\nIMOBILIARIOS LTDA - R$ 57.970,00",
+            "empresa": "APRIMORA EMPREENDIMENTOS\n\nIMOBILIARIOS LTDA",
+            "valor_total": "R$ 115,940.00"
+          },
+          {
+            "objeto": "Objeto: loc ação de hora má quina tipo retro es cavadeira\n\ndestinada a secretaria de infraestrutura da prefeitura municipal de\nAparecida",
+            "empresa": "APRIMORA EMPREENDIMENTOS\n\nIMOBILIARIOS LTDA",
+            "valor_total": "R$ 115,940.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 44,
+        "total_gasto": 11866027.82,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇOS PRESTADOS EM ASSESSORIA TÉCNICA NA\n\nGESTÃO DE CONTRATOS ADMINISTRATIVOS, CONVÊNIOS\n\nNAS ESFERAS FEDERAIS E ESTUDAIS, TERMOS DE\n\nCOMPROMISSOS E PROCESSOS DE PRESTAÇÃO DE CONTAS\n\nDOS ÓRGÃOS QUE COMPÕEM O SISTEMA DE ENSINO DO\n\nMUNICÍPIO",
+            "empresa": "WIARAMY DOS\n\nSANTOS LEITAO",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "SERVIÇOS PRESTADOS EM ASSESSORIA TÉCNICA\n\nNA GESTÃO DE CONTRATOS ADMINISTRATIVOS,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\n\nCONVÊNIOS NAS ESFERAS FEDERAIS E ESTUDAIS, TERMOS\n\nDE COMPROMISSOS E PROCESSOS DE PRESTAÇÃO DE\n\nCONTAS DOS ÓRGÃOS QUE COMPÕEM O SISTEMA DE\n\nENSINO DO MUNICÍPIO",
+            "empresa": "WIARAMY DOS\n\nSANTOS LEITAO",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 990530.24,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO MECÂNICO PARA\n\nMANUTENÇÃO VEICULO TIPO MOTOCICLETAS COM\n\nREPOSIÇÃO DE PEÇAS À CARGO DA PREFEITURA\n\nMUNICIPAL DE APARECIDA",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nAparecida e: CT Nº 00180/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 6433018.88,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA TECNICA\n\nESPACIALIZADA PARA SERVIÇO DE GESTÃO EM SAÚDE E\n\nSEGURANÇA NO TRABALHO PARA EMISSÃO, AVALIAÇÃO\n\nMÉDICA E ENVIO DAS INFORMAÇÕES CONSTANTES DOS\n\nEVENTOS PERIÓDICOS S-2210; S-2220 E S-2240 DO LEIAUTE\n\nDO ESOCIAL, DOS EVENTOS RELATIVOS À SAÚDE E\n\nSEGURANÇA DO TRABALHADOR A CARGO DA\n\nPREFEITURA MUNICIPAL DE APARECIDA",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Aparecida e: CT Nº\n\n00175/2023 - Segurity Consultoria Em Saude e Seguranca do\n\nTrabalho Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 43,
+        "total_gasto": 4729563.8100000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 17,
+        "total_gasto": 10993861.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRA, T AÇÃO DE SE, RVIÇO DE ENGE, NHARIA\n\nPARA A DE, QUAÇÃO E MELHOR, A, MENTO ELE, TRICO\n\nDAS ES, COLAS MUNICIPAIS DE APARECIDA",
+            "empresa": "DANIEL ALEXANDRE ALVES",
+            "valor_total": "R$ 574,990.00"
+          },
+          {
+            "objeto": "Contratação de serviço para consulta médica especializada\n\ncardiologista com eletrocardiograma destinado a secretaria municipal\n\nde aparecida",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Aparecida e:\n\nCT Nº 00178/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "MARCELO AUGUSTO MEDEIROS E SILVA LTDA",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "MARCELO AUGUSTO MEDEIROS E SILVA LTDA",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "MARCELO AUGUSTO MEDEIROS E SILVA LTDA",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "MARCELO AUGUSTO MEDEIROS E SILVA LTDA",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "conforme projeto básico anexo do edital.\nkwp 334,4 4.800,00 1.605.120,00\n\nTOTAL  1.605.120,00",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "conforme projeto básico anexo do edital.\nkwp 334,4 4.800,00 1.605.120,00\n\nTOTAL  1.605.120,00",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "ou por\n\nacordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136; e sua extinção, formalmente motivada nos autos do processo,\n\nassegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "ou por\n\nacordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136; e sua extinção, formalmente motivada nos autos do processo,\n\nassegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.",
+            "valor_total": "R$ 6,420,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento e execução de projeto fotovoltaico do município de Aparecida",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.",
+            "valor_total": "R$ 6,420,480.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

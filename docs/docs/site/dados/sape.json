@@ -3,80 +3,17 @@
   "nome": "Sapé",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 16,
-        "num_contratos": 14,
-        "total_gasto": 3921207.0,
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 2395217.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 173,
-        "num_contratos": 220,
-        "total_gasto": 27722726.200000007
-      },
-      "2": {
-        "num_diarios": 17,
-        "num_contratos": 41,
-        "total_gasto": 5643280.2299999995,
-        "top_3_empresas": [
-          "DISTRIBUIDORA BRAZMAC\nLTDA",
-          "JOSE LUCENA DA SILVA-ME",
-          "CICERO LUIZ DOS SANTOS"
-        ],
-        "top_3_objetos": [
-          "AQUISIÇÃO DE CARNE E FRANGO",
-          "TRANSPORTE DO ESCOLAR"
-        ]
-      },
-      "3": {
-        "num_diarios": 13,
-        "num_contratos": 44,
-        "total_gasto": 3205023.88,
-        "top_3_empresas": [
-          "AGNALDO PEREIRA DA SILVA -\nR$ 28.512,00\nCT Nº 00053/2014",
-          "GEORGE CALIXTO DA SILVA -\nR$ 28.512,00\nCT Nº 00055/2014",
-          "GILVAN BANDEIRA DE SOUZA -\nR$ 92.416,50\nCT Nº 00057/2014"
-        ],
-        "top_3_objetos": [
-          "TRANSPORTE ESCOLAR",
-          "TRANSPORTE DO ESCOLAR",
-          "AQUISIÇÃO DE PEÇAS DE REPOSIÇÃO"
-        ]
-      },
-      "4": {
-        "num_diarios": 15,
-        "num_contratos": 41,
-        "total_gasto": 3693647.4200000004,
-        "top_3_empresas": [
-          "CIRÚRGICA NORDESTINA DIST.\nDE MATERIAIS MÉDICO CIRÚRGICO",
-          "DEPOSITO GERAL DE\nSUPRIMENTOS HOSPITALARES",
-          "MEDONTEC VENDA E\nASISTENCIA TECNICA"
-        ],
-        "top_3_objetos": [
-          "SERVIÇOS DE ASSESSORIA E CONSULTORIA\nTÉCNICA EM ELABORAÇÃO DE PROJETOS",
-          "AQUISIÇÃO DE MATERIAL ODONTOLÓGICO"
-        ]
-      },
-      "5": {
-        "num_diarios": 15,
-        "num_contratos": 11,
-        "total_gasto": 3491707.84,
-        "top_3_empresas": [
-          "S E T CONSTRUCOES E\nPROJETOS LTDA",
-          "CONSTRUTORA E SERVIÇOS DE\nLIMPEZA CRC LTDA"
-        ],
-        "top_3_objetos": [
-          "CONSTRUÇÃO DE UNIDADE DE PRONTO\nATENDIMENTO",
-          "CONSTRUÇÃO DE QUADRAS COBERTAS"
-        ]
-      },
-      "6": {
-        "num_diarios": 16,
-        "num_contratos": 27,
-        "total_gasto": 3675204.83,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 170,
+        "num_contratos": 216,
+        "total_gasto": 27597318.200000003
       },
       "7": {
         "num_diarios": 17,
@@ -85,17 +22,68 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "8": {
+      "6": {
         "num_diarios": 16,
-        "num_contratos": 15,
-        "total_gasto": 2395217.8,
+        "num_contratos": 27,
+        "total_gasto": 3675204.83,
+        "top_3_empresas": [
+          "GMF CONSTRUÇÕES E SERVIÇOS E\nLOCAÇOES LTDA"
+        ],
+        "top_3_objetos": [
+          "PAVIMENTAÇÃO DE RUAS"
+        ]
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 3491707.84,
+        "top_3_empresas": [
+          "GILVAN BANDEIRA DE SOUZA -\nR$ 90.000,00\nCT Nº 00048/2014"
+        ],
+        "top_3_objetos": [
+          "LOCAÇÃO DE VEÍCULOS"
+        ]
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 41,
+        "total_gasto": 3693647.4200000004,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 44,
+        "total_gasto": 3205023.88,
+        "top_3_empresas": [
+          "MARIA JOELMA MACIEL\nMARINHO",
+          "CRISTAL COMÉRCIO DE\nPRODUTOS QUÍMICOS LTDA",
+          "MAYER E GUIMARAES LTDA -\nME"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE PEÇAS DE REPOSIÇÃO",
+          "AQUISIÇÃO DE MATERIAIS DE HIGIENE E\nLIMPEZA E DESCARATÁVEIS",
+          "AQUISIÇÃO PARCELADA DE HIGIENE E LIMPEZA"
+        ]
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 41,
+        "total_gasto": 5643280.23,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 3921207.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
-        "num_contratos": 6,
-        "total_gasto": 195018.0,
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 69610.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -114,7 +102,7 @@
         ]
       },
       "11": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 4,
         "total_gasto": 73013.92,
         "top_3_empresas": [],
@@ -143,9 +131,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 197,
-        "num_contratos": 191,
-        "total_gasto": 20908201.84
+        "num_diarios": 192,
+        "num_contratos": 194,
+        "total_gasto": 21419329.969999995
       },
       "2": {
         "num_diarios": 13,
@@ -163,13 +151,13 @@
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 24,
-        "total_gasto": 3031910.3,
+        "num_contratos": 26,
+        "total_gasto": 3543103.4299999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 25,
         "total_gasto": 3657922.9699999997,
         "top_3_empresas": [
@@ -201,23 +189,23 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 15,
-        "num_contratos": 8,
-        "total_gasto": 1131776.32,
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 1311711.32,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 19,
         "total_gasto": 2870929.7800000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 18,
-        "num_contratos": 7,
-        "total_gasto": 650432.8,
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 470432.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -244,7 +232,7 @@
     },
     "2016": {
       "1": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 6,
         "total_gasto": 569940.69,
         "top_3_empresas": [
@@ -259,9 +247,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 188,
-        "num_contratos": 168,
-        "total_gasto": 17881943.349999998
+        "num_diarios": 184,
+        "num_contratos": 174,
+        "total_gasto": 23469085.9
       },
       "2": {
         "num_diarios": 15,
@@ -272,8 +260,8 @@
       },
       "3": {
         "num_diarios": 20,
-        "num_contratos": 54,
-        "total_gasto": 7229021.71,
+        "num_contratos": 56,
+        "total_gasto": 7247215.46,
         "top_3_empresas": [
           "DISTRIBUIDORA BRAZMAC\nLTDA",
           "ALEXANDRE LAURENTINO DA\nSILVA",
@@ -287,15 +275,15 @@
       },
       "4": {
         "num_diarios": 15,
-        "num_contratos": 3,
-        "total_gasto": 111850.0,
+        "num_contratos": 8,
+        "total_gasto": 5226918.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 16,
-        "num_contratos": 10,
-        "total_gasto": 1733554.62,
+        "num_contratos": 11,
+        "total_gasto": 2208434.6199999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -307,7 +295,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 4,
         "total_gasto": 111337.31999999999,
         "top_3_empresas": [],
@@ -347,7 +335,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 14,
         "total_gasto": 415439.35,
         "top_3_empresas": [
@@ -360,9 +348,9 @@
         ]
       },
       "12": {
-        "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 586971.52,
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 565971.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -376,12 +364,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 203,
-        "num_contratos": 244,
-        "total_gasto": 16919646.42
+        "num_diarios": 192,
+        "num_contratos": 239,
+        "total_gasto": 17017112.72
       },
       "2": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 1,
         "total_gasto": 27500.0,
         "top_3_empresas": [],
@@ -404,8 +392,8 @@
       },
       "4": {
         "num_diarios": 13,
-        "num_contratos": 32,
-        "total_gasto": 2007557.6,
+        "num_contratos": 33,
+        "total_gasto": 2221132.9000000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -423,7 +411,7 @@
         ]
       },
       "6": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 30,
         "total_gasto": 2276809.2800000003,
         "top_3_empresas": [
@@ -434,7 +422,7 @@
         ]
       },
       "7": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 9,
         "total_gasto": 417180.0,
         "top_3_empresas": [
@@ -448,9 +436,9 @@
         ]
       },
       "8": {
-        "num_diarios": 21,
-        "num_contratos": 16,
-        "total_gasto": 1242917.9,
+        "num_diarios": 20,
+        "num_contratos": 15,
+        "total_gasto": 1171757.9,
         "top_3_empresas": [
           "ALLMED DISTRIBUIDORA E\n\nCOMERCIO DE PRODUTOS FARMACEUTICOS LT",
           "C2 COMERCIO DE\n\nMERCADORIAS EM GERAL E SERVICOS LTDA.",
@@ -463,23 +451,23 @@
         ]
       },
       "9": {
-        "num_diarios": 16,
-        "num_contratos": 9,
-        "total_gasto": 1203020.0,
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 1194320.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 8,
         "total_gasto": 177160.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 15,
-        "num_contratos": 37,
-        "total_gasto": 1196214.0799999998,
+        "num_diarios": 13,
+        "num_contratos": 31,
+        "total_gasto": 1128534.0799999998,
         "top_3_empresas": [
           "EMILLY INDUSTRIA E\nCOMERCIO DE MÓVEIS LTDA",
           "EQUIPAÇO MÓVEIS E\nELETRODOMÉSTICOS LTDA",
@@ -492,23 +480,23 @@
         ]
       },
       "12": {
-        "num_diarios": 16,
-        "num_contratos": 12,
-        "total_gasto": 214815.0,
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 246246.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2018": {
       "1": {
-        "num_diarios": 16,
+        "num_diarios": 14,
         "num_contratos": 3,
         "total_gasto": 62950.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 202,
+        "num_diarios": 190,
         "num_contratos": 221,
         "total_gasto": 17416540.32
       },
@@ -527,7 +515,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 30,
         "total_gasto": 3295562.17,
         "top_3_empresas": [],
@@ -549,14 +537,14 @@
         ]
       },
       "6": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 18,
         "total_gasto": 1781444.81,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 16,
+        "num_diarios": 14,
         "num_contratos": 29,
         "total_gasto": 864535.63,
         "top_3_empresas": [
@@ -571,7 +559,7 @@
         ]
       },
       "8": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 31,
         "total_gasto": 2864913.3600000003,
         "top_3_empresas": [
@@ -586,14 +574,14 @@
         ]
       },
       "9": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 10,
         "total_gasto": 1095311.78,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 14,
         "total_gasto": 1321898.8,
         "top_3_empresas": [
@@ -612,7 +600,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 5,
         "total_gasto": 180370.0,
         "top_3_empresas": [],
@@ -636,12 +624,12 @@
         ]
       },
       "resumo": {
-        "num_diarios": 210,
+        "num_diarios": 203,
         "num_contratos": 225,
-        "total_gasto": 22424498.420000006
+        "total_gasto": 22430110.320000004
       },
       "2": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 31,
         "total_gasto": 2004694.64,
         "top_3_empresas": [
@@ -656,7 +644,7 @@
         ]
       },
       "3": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 9,
         "total_gasto": 1245305.01,
         "top_3_empresas": [
@@ -667,16 +655,16 @@
         ]
       },
       "4": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 51,
         "total_gasto": 4432371.949999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 19,
-        "num_contratos": 28,
-        "total_gasto": 1608071.2,
+        "num_diarios": 18,
+        "num_contratos": 30,
+        "total_gasto": 1626071.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -758,9 +746,9 @@
         ]
       },
       "12": {
-        "num_diarios": 19,
-        "num_contratos": 12,
-        "total_gasto": 1580801.02,
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 1568412.92,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -774,9 +762,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 191,
-        "num_contratos": 221,
-        "total_gasto": 20180747.639999993
+        "num_diarios": 184,
+        "num_contratos": 209,
+        "total_gasto": 18734773.209999993
       },
       "2": {
         "num_diarios": 12,
@@ -794,16 +782,16 @@
         ]
       },
       "3": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 2,
         "total_gasto": 682169.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 13,
-        "num_contratos": 46,
-        "total_gasto": 4456184.16,
+        "num_diarios": 12,
+        "num_contratos": 36,
+        "total_gasto": 2910388.8600000003,
         "top_3_empresas": [
           "ALEXSANDRO SANTOS\n\nDA SILVA",
           "LUCIANA DO NASCIMENTO MONTEIRO",
@@ -842,16 +830,16 @@
         ]
       },
       "7": {
-        "num_diarios": 20,
-        "num_contratos": 13,
-        "total_gasto": 779053.5,
+        "num_diarios": 17,
+        "num_contratos": 11,
+        "total_gasto": 755829.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 19,
-        "num_contratos": 16,
-        "total_gasto": 912022.5800000001,
+        "num_contratos": 17,
+        "total_gasto": 1120165.95,
         "top_3_empresas": [
           "CONSTRUTORA E\nLOCADORA ALEXANDRE LTDA",
           ". PARTES CONTRATANTES: Fundo Municipal de Saúde\nde Sapé e: CT Nº 00055/2017",
@@ -865,8 +853,8 @@
       },
       "9": {
         "num_diarios": 20,
-        "num_contratos": 16,
-        "total_gasto": 1270207.89,
+        "num_contratos": 17,
+        "total_gasto": 1278207.89,
         "top_3_empresas": [
           "FM SERVICOS LTDA",
           "CT Nº 00066/2020 -\n04.09.20 até 04.09.20",
@@ -908,31 +896,25 @@
         ]
       },
       "12": {
-        "num_diarios": 18,
-        "num_contratos": 22,
-        "total_gasto": 1569630.03,
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 1476532.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2021": {
       "1": {
-        "num_diarios": 14,
-        "num_contratos": 5,
-        "total_gasto": 16080.0,
-        "top_3_empresas": [
-          "EMANUELLE DA COSTA\n\nCHAVES",
-          "UBIRATAN\n\nGALDINO PEREIRA",
-          "UBIRACI GALDINO PEREIRA"
-        ],
-        "top_3_objetos": [
-          "Locação de imóvel destinados ao funcionamento de\n\nequipamentos públicos diversos"
-        ]
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 190,
-        "num_contratos": 152,
-        "total_gasto": 17432161.689999998
+        "num_diarios": 187,
+        "num_contratos": 147,
+        "total_gasto": 17416081.689999998
       },
       "2": {
         "num_diarios": 13,
@@ -976,7 +958,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 27,
         "total_gasto": 4728497.64,
         "top_3_empresas": [],
@@ -1002,7 +984,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 16,
         "total_gasto": 2647334.46,
         "top_3_empresas": [
@@ -1042,9 +1024,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 201,
-        "num_contratos": 162,
-        "total_gasto": 67846221.82999998
+        "num_diarios": 193,
+        "num_contratos": 170,
+        "total_gasto": 70753322.86999999
       },
       "2": {
         "num_diarios": 13,
@@ -1062,7 +1044,7 @@
         ]
       },
       "3": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 3,
         "total_gasto": 129600.0,
         "top_3_empresas": [],
@@ -1076,21 +1058,21 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 2878800.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 18,
         "total_gasto": 1659685.42,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 18,
+        "num_diarios": 16,
         "num_contratos": 47,
         "total_gasto": 6672193.88,
         "top_3_empresas": [
@@ -1105,7 +1087,7 @@
         ]
       },
       "8": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 18,
         "total_gasto": 2738225.24,
         "top_3_empresas": [],
@@ -1113,8 +1095,8 @@
       },
       "9": {
         "num_diarios": 20,
-        "num_contratos": 15,
-        "total_gasto": 2576822.7,
+        "num_contratos": 16,
+        "total_gasto": 2605123.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1133,7 +1115,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 14,
         "total_gasto": 2744421.8600000003,
         "top_3_empresas": [],
@@ -1142,7 +1124,7 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 8,
         "total_gasto": 1962860.8,
         "top_3_empresas": [
@@ -1153,9 +1135,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 228,
-        "num_contratos": 194,
-        "total_gasto": 39162091.039999984
+        "num_diarios": 225,
+        "num_contratos": 196,
+        "total_gasto": 38969844.10999999
       },
       "2": {
         "num_diarios": 12,
@@ -1166,15 +1148,15 @@
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 20,
-        "total_gasto": 3866324.35,
+        "num_contratos": 21,
+        "total_gasto": 4266324.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 18,
-        "num_contratos": 11,
-        "total_gasto": 3854862.22,
+        "num_contratos": 17,
+        "total_gasto": 4151283.4400000004,
         "top_3_empresas": [
           "GIRLEIDE DE SOUSA GOMES"
         ],
@@ -1183,7 +1165,7 @@
         ]
       },
       "5": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 10,
         "total_gasto": 2399353.44,
         "top_3_empresas": [
@@ -1232,9 +1214,9 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 25,
-        "num_contratos": 18,
-        "total_gasto": 2132375.34,
+        "num_diarios": 24,
+        "num_contratos": 13,
+        "total_gasto": 1243707.19,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1268,7 +1250,7 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 15,
         "total_gasto": 1928804.49,
         "top_3_empresas": [
@@ -1279,14 +1261,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 250,
-        "num_contratos": 160,
-        "total_gasto": 40348930.589999996
+        "num_diarios": 243,
+        "num_contratos": 163,
+        "total_gasto": 40763762.59
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 23000.0,
+        "num_contratos": 5,
+        "total_gasto": 129200.0,
         "top_3_empresas": [
           ".\n\nPARTES CONTRATANTES: Fundo Municipal de Saúde de Sapé e:\n\nCT Nº 00002/2023 - Posto de Combustiveis Sobrado Ltda"
         ],
@@ -1295,7 +1277,7 @@
         ]
       },
       "3": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 4,
         "total_gasto": 1502860.59,
         "top_3_empresas": [
@@ -1306,7 +1288,7 @@
         ]
       },
       "4": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 9,
         "total_gasto": 3319768.3099999996,
         "top_3_empresas": [
@@ -1317,7 +1299,7 @@
         ]
       },
       "5": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 13,
         "total_gasto": 9115570.96,
         "top_3_empresas": [
@@ -1332,9 +1314,9 @@
         ]
       },
       "6": {
-        "num_diarios": 25,
-        "num_contratos": 29,
-        "total_gasto": 4087351.35,
+        "num_diarios": 23,
+        "num_contratos": 27,
+        "total_gasto": 3855983.35,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa de engenharia civil destinada a\n\nexecutar serviços de pavimentação nas ruas: Antonio Pererira da\nSilva, Antonio Matias dos Santos, Sâo Pedro, Renascença, Sapucaiá,\n\nJuvino Diniz, Ivone de Paiva Militão, Travessa Pedro Celestino,\n\nMarlindo Almeirda e Eugenio Maranhão, no município de sapé"
@@ -1351,8 +1333,8 @@
       },
       "8": {
         "num_diarios": 21,
-        "num_contratos": 30,
-        "total_gasto": 7314755.91,
+        "num_contratos": 31,
+        "total_gasto": 7854755.91,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1368,7 +1350,7 @@
         ]
       },
       "10": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 7,
         "total_gasto": 213221.5,
         "top_3_empresas": [],
@@ -1407,22 +1389,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 2233,
-    "num_contratos": 2158,
-    "total_gasto": 308243709.34,
+    "num_diarios": 2163,
+    "num_contratos": 2154,
+    "total_gasto": "315.987.281,90",
     "top_5_empresas": {
       "FM SERVICOS LTDA": 3,
-      "DISTRIBUIDORA BRAZMAC\nLTDA": 2,
       "REVENDEDORA DE GÁS DO\nBRASIL LTDA": 2,
       "MARINHO E SILVA ADVOCACIA": 2,
-      "EDSON PEREIRA NECO": 2
+      "EDSON PEREIRA NECO": 2,
+      "REVENDEDORA DE GAS\nDO BRASIL LTDA": 2
     },
     "top_5_objetos": {
-      "TRANSPORTE DO ESCOLAR": 2,
       "Aquisição parcelada de gás de cozinha GPL - botijão de 13\nkg recarga, mediante requisição periódica": 2,
       "Aquisição parcelada de água mineral - botijão 20 litros,\ngarrafa 500 ml e copo 300 ml -, mediante requisição periódica": 2,
       "Aquisição parcelada de medicamentos diversos": 2,
-      "Aquisição parcelada de peças diversas destinadas aos\nveículos pertencentes a frota municipal": 2
+      "Aquisição parcelada de peças diversas destinadas aos\nveículos pertencentes a frota municipal": 2,
+      "Execução de serviços mecânicos diversos destinados a\nmanutenção corretiva dos veículos pertencentes a frota municipal": 2
     }
   }
 }

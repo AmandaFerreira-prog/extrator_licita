@@ -3,17 +3,53 @@
   "nome": "Monte Horebe",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 9,
+      "8": {
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 51,
+        "num_diarios": 50,
         "num_contratos": 3,
         "total_gasto": 49200.0
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 49200.0,
+        "top_3_empresas": [
+          "D & S EMPREENDIMENTOS E\nSERVIÇOS LTDA-ME",
+          "PAULA LAÍS DE OLIVEIRA\nSANTANA",
+          "STHEPSON MAIERY ALVES DE\nLIRA-ME"
+        ],
+        "top_3_objetos": [
+          "Contratação de Profissionais para os serviços de\ncontabilidade, envolvendo estudos técnicos, preparação de orçamentos\npúblicos, avaliações contábeis, financeiras, fiscais tributárias,\nelaboração de balancetes, balanços, prestações de contas e pareceres\ntécnicos contábeis",
+          "Contratação de profissional para prestar serviços a Câmara\nMunicipal de Monte Horebe, na assessoria administrativa com\nacompanhamento de Ações Judiciais em primeiro grau na Comarca de\nBonito de Santa Fé – PB",
+          "Contratação de profissional para prestar serviços na\nassessoria técnica na informação da GFIP, IRRF da Câmara\nMunicipal de Monte Horebe – PB"
+        ]
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "2": {
         "num_diarios": 4,
@@ -29,36 +65,8 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "4": {
-        "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 3,
-        "num_contratos": 3,
-        "total_gasto": 49200.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
-        "num_diarios": 4,
+      "1": {
+        "num_diarios": 9,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -79,7 +87,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -197,12 +205,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 36,
-        "total_gasto": 3199566.32
+        "num_diarios": 95,
+        "num_contratos": 37,
+        "total_gasto": 3168033.36
       },
       "2": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 306332.5,
         "top_3_empresas": [],
@@ -224,8 +232,8 @@
       },
       "5": {
         "num_diarios": 12,
-        "num_contratos": 5,
-        "total_gasto": 873413.4,
+        "num_contratos": 6,
+        "total_gasto": 895913.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -244,21 +252,21 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 7,
-        "num_contratos": 7,
-        "total_gasto": 714622.56,
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 656989.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 6,
-        "total_gasto": 441102.9,
+        "num_contratos": 7,
+        "total_gasto": 444702.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 2,
         "total_gasto": 122250.0,
         "top_3_empresas": [
@@ -270,7 +278,7 @@
         ]
       },
       "11": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 5,
         "total_gasto": 410828.96,
         "top_3_empresas": [],
@@ -293,7 +301,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 111,
+        "num_diarios": 109,
         "num_contratos": 70,
         "total_gasto": 4944997.649999999
       },
@@ -325,14 +333,14 @@
         ]
       },
       "5": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 5,
         "total_gasto": 499824.76,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 10,
         "total_gasto": 940345.29,
         "top_3_empresas": [
@@ -403,12 +411,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 96,
+        "num_diarios": 95,
         "num_contratos": 73,
         "total_gasto": 7294200.46
       },
       "2": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 11,
         "total_gasto": 905738.2,
         "top_3_empresas": [],
@@ -506,7 +514,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 102,
+        "num_diarios": 101,
         "num_contratos": 39,
         "total_gasto": 2724715.29
       },
@@ -549,7 +557,7 @@
         ]
       },
       "6": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -607,9 +615,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 97,
-        "num_contratos": 6,
-        "total_gasto": 94436.0
+        "num_diarios": 96,
+        "num_contratos": 8,
+        "total_gasto": 276986.0
       },
       "2": {
         "num_diarios": 5,
@@ -620,8 +628,8 @@
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 182550.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -633,7 +641,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 1,
         "total_gasto": 14000.0,
         "top_3_empresas": [],
@@ -698,7 +706,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 121,
+        "num_diarios": 118,
         "num_contratos": 2,
         "total_gasto": 84000.0
       },
@@ -738,7 +746,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -766,14 +774,14 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -789,9 +797,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 113,
-        "num_contratos": 19,
-        "total_gasto": 4241288.66
+        "num_diarios": 111,
+        "num_contratos": 20,
+        "total_gasto": 5264913.66
       },
       "2": {
         "num_diarios": 15,
@@ -801,7 +809,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -844,8 +852,8 @@
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 45000.0,
+        "num_contratos": 2,
+        "total_gasto": 1068625.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -857,7 +865,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 1,
         "total_gasto": 106160.51,
         "top_3_empresas": [],
@@ -884,14 +892,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 65,
-        "total_gasto": 13776591.27
+        "num_diarios": 122,
+        "num_contratos": 84,
+        "total_gasto": 18547999.32
       },
       "2": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 63766.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -904,8 +912,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 12,
-        "total_gasto": 990429.2,
+        "num_contratos": 20,
+        "total_gasto": 1213773.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -952,8 +960,8 @@
       },
       "10": {
         "num_diarios": 10,
-        "num_contratos": 6,
-        "total_gasto": 3081536.6,
+        "num_contratos": 13,
+        "total_gasto": 7389787.81,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Registro De Preço para Contratação de empresa de\n\nterceirização de mão de obra por hora, para serviços de manutenção\n\nde forma continua e suporte a Secretaria de Obras e Infraestrutura e\ndemais secretarias do município de Monte Horebe, com fornecimento\n\nde mão de obra e respectivos fardamentos e EPIs (pedreiros, pintores,\n\npintor de letreiro, encanadores, servente, ajudante e auxiliares de\n\noperação em geral, calceteiro, serralheiro, gesseiro, eletricista,\nmotoristas e operadores de maquinas), a sere"
@@ -974,13 +982,16 @@
       },
       "12": {
         "num_diarios": 10,
-        "num_contratos": 3,
-        "total_gasto": 553378.0,
+        "num_contratos": 5,
+        "total_gasto": 729424.84,
         "top_3_empresas": [
-          "ELETROLUZ COMERCIO DE\nMATERIAIS ELETRICOS EIRELI"
+          "ELETROLUZ COMERCIO DE\nMATERIAIS ELETRICOS EIRELI",
+          "ERIC RAMON FERREIRA ALVES"
         ],
         "top_3_objetos": [
-          "Aquisição de 01 Gerador para atender as demandas da\nPoliclínica Municipal, em conformidade solicitação da secretaria\nMunicipal de Saúde do Município de Monte Horebe PB, com as\nespecificações prescritas no Anexo I – Termo de Referência,\nintegrante deste Edital"
+          "SISTEMA DE REGISTRO DE PREÇO PARA\nCONTRATAÇÃO DE EXECUÇÃO INDIRETA DE SERVIÇOS\nDA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DIRETA,\nMEDIANTE TERCEIRIZAÇÃO DE SERVIÇOS PÚBLICOS,",
+          "Aquisição de 01 Gerador para atender as demandas da\nPoliclínica Municipal, em conformidade solicitação da secretaria\nMunicipal de Saúde do Município de Monte Horebe PB, com as\nespecificações prescritas no Anexo I – Termo de Referência,\nintegrante deste Edital",
+          "CONTRATAÇÃO DE PESSOA FÍSICA OU\nJURÍDICA PARA A PRESTAÇÃO DE SERVIÇOS DE\nTRANSPORTE ESCOLAR, PARA ATENDER A DEMANDA\nDA REDE MUNICIPAL E ESTADUAL DE ENSINO, NO\nMUNICÍPIO DE MONTEIRO (PB)"
         ]
       }
     },
@@ -993,7 +1004,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 109,
+        "num_diarios": 107,
         "num_contratos": 45,
         "total_gasto": 7041903.739999999
       },
@@ -1037,7 +1048,7 @@
         ]
       },
       "7": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 7,
         "total_gasto": 1781175.87,
         "top_3_empresas": [],
@@ -1068,7 +1079,7 @@
         ]
       },
       "10": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 5,
         "total_gasto": 266245.0,
         "top_3_empresas": [],
@@ -1091,22 +1102,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 1107,
-    "num_contratos": 361,
-    "total_gasto": 43822899.39,
+    "num_diarios": 1089,
+    "num_contratos": 384,
+    "total_gasto": "49.768.949,48",
     "top_5_empresas": {
+      "D & S EMPREENDIMENTOS E\nSERVIÇOS LTDA-ME": 1,
+      "PAULA LAÍS DE OLIVEIRA\nSANTANA": 1,
+      "STHEPSON MAIERY ALVES DE\nLIRA-ME": 1,
       "LORENA E ADRIA\nCONSTRUÇÕES, COMÉRCIO E LOCAÇÕES LTDA": 1,
-      "FUNDACAO EDUCATIVA E\nCULTURAL MANOEL JOAQUIM DOS SANTOS": 1,
-      "BIOMED DISTRIBUIDORA\nHOSPITALAR E LABORATORIAL NOSSA SENHORA": 1,
-      "DIMEDONT DISTRIBUIDORA DE\nMEDICAMENTOS E EQUIPAMENTOS LTDA": 1,
-      "JOSÉ NERGINO SOBREIRA": 1
+      "FUNDACAO EDUCATIVA E\nCULTURAL MANOEL JOAQUIM DOS SANTOS": 1
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nPARA CONSTRUÇÃO (CONCLUSÃO) DO CENTRO DE\n\nREFERÊNCIA DE ASSISTENCIA SOCIAL – CRAS, NO\n\nMUNICIPIO DE MONTE HOREBE/PB, CONFORME CONTRATO\n\nDE REPASSE Nº 107.1684–13/2020 E RECURSOS PROPRIO DO\n\nMUNICIPIO CONFORME REPROGRAMAÇÃO DO PROJETO\n\nBASICO": 2,
-      "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE LIMPEZA URBANA DESTE MUNICÍPIO,\nCONFORME AS ESPECIFICAÇÕES DO ANEXO": 1,
-      "CONTRATAÇÃO DE PROFISSIONAL PARA\nMINISTRAR CURSOS DE CORTE E ESCOVA, DEPILAÇÃO E\nMAQUIAGEM, DESTINADOS A PROFISSIONALIZAÇÃO DA\nPOPULAÇÃO CARENTE DO MUNICÍPIO DE MONTE HOREBE-\nPB": 1,
-      "CONTRATAÇÃO DE EMPRESA SEM FINS\nLUCRATIVOS PARA REALIZAÇÃO DE CURSO DESTINADOS\nAOS PROFESSORES DA REDE MUNICIPAL DE ENSINO DO\nMUNICÍPIO DE MONTE HOREBE-PB": 1,
-      "Aquisição parcelada de materiais descartáveis para atender\nas necessidades da Secretaria de Saúde de MONTE HOREBE - PB": 1
+      "Contratação de Profissionais para os serviços de\ncontabilidade, envolvendo estudos técnicos, preparação de orçamentos\npúblicos, avaliações contábeis, financeiras, fiscais tributárias,\nelaboração de balancetes, balanços, prestações de contas e pareceres\ntécnicos contábeis": 1,
+      "Contratação de profissional para prestar serviços a Câmara\nMunicipal de Monte Horebe, na assessoria administrativa com\nacompanhamento de Ações Judiciais em primeiro grau na Comarca de\nBonito de Santa Fé – PB": 1,
+      "Contratação de profissional para prestar serviços na\nassessoria técnica na informação da GFIP, IRRF da Câmara\nMunicipal de Monte Horebe – PB": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE LIMPEZA URBANA DESTE MUNICÍPIO,\nCONFORME AS ESPECIFICAÇÕES DO ANEXO": 1
     }
   }
 }

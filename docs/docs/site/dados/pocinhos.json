@@ -4,9 +4,9 @@
   "detalhe": {
     "2019": {
       "5": {
-        "num_diarios": 11,
-        "num_contratos": 15,
-        "total_gasto": 673203.01,
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 977019.01,
         "top_3_empresas": [
           "CARLOS\nANDRE DE ALCANTARA LIMA"
         ],
@@ -15,9 +15,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 56,
-        "num_contratos": 86,
-        "total_gasto": 8902010.17
+        "num_diarios": 54,
+        "num_contratos": 92,
+        "total_gasto": 10825752.169999998
       },
       "6": {
         "num_diarios": 7,
@@ -45,9 +45,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 7,
-        "num_contratos": 10,
-        "total_gasto": 1081035.52,
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 912561.52,
         "top_3_empresas": [
           ".\nPARTES CONTRATANTES: Prefeitura Municipal de Pocinhos e:\nCT Nº 04801/2018",
           "PNEUMAX LTDA"
@@ -81,8 +81,8 @@
       },
       "12": {
         "num_diarios": 9,
-        "num_contratos": 26,
-        "total_gasto": 3832443.9000000004,
+        "num_contratos": 29,
+        "total_gasto": 5620843.9,
         "top_3_empresas": [
           "THALES\nHERMINIO SANTOS",
           "CARLOS ANDRE DE ALCANTARA\nLIMA",
@@ -108,14 +108,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 91,
-        "num_contratos": 97,
-        "total_gasto": 31782658.05
+        "num_diarios": 89,
+        "num_contratos": 100,
+        "total_gasto": 32251998.25
       },
       "2": {
-        "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 1947130.0,
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 2416470.2,
         "top_3_empresas": [
           "GENESIO\nGONCALVES DE ALBUQUERQUE DA COSTA"
         ],
@@ -156,7 +156,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 4,
         "total_gasto": 253225.6,
         "top_3_empresas": [
@@ -248,8 +248,8 @@
     "2023": {
       "12": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 5564322.24,
+        "num_contratos": 9,
+        "total_gasto": 5759377.51,
         "top_3_empresas": [
           "A. B.\nCONSTRUÇÕES EIRELI",
           "PLAAF - SERVICOS FUNERARIOS LTDA"
@@ -261,8 +261,8 @@
       },
       "resumo": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 5564322.24
+        "num_contratos": 9,
+        "total_gasto": 5759377.51
       }
     },
     "2024": {
@@ -274,19 +274,19 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 135,
-        "num_contratos": 168,
-        "total_gasto": 50690218.989999995
+        "num_diarios": 132,
+        "num_contratos": 162,
+        "total_gasto": 49911645.809999995
       },
       "2": {
-        "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 5007213.020000001,
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 4761813.02,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 4,
         "total_gasto": 166736.71,
         "top_3_empresas": [],
@@ -324,9 +324,9 @@
         ]
       },
       "7": {
-        "num_diarios": 16,
-        "num_contratos": 36,
-        "total_gasto": 2927828.5,
+        "num_diarios": 15,
+        "num_contratos": 31,
+        "total_gasto": 2394655.3200000003,
         "top_3_empresas": [
           "CT Nº 00146/2024 - 19.07.24 - CB ELETRO E\n\nINFORMATICA LTDA",
           "CT Nº 00160/2024 - 30.07.24 - LRG COMERCIO LTDA",
@@ -391,9 +391,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 291,
-    "num_contratos": 357,
-    "total_gasto": 96939209.45,
+    "num_diarios": 284,
+    "num_contratos": 363,
+    "total_gasto": "98.748.773,74",
     "top_5_empresas": {
       "MERILUCIA DA SILVA": 2,
       "CARLOS\nANDRE DE ALCANTARA LIMA": 1,

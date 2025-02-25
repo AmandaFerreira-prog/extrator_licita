@@ -11,9 +11,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 56,
-        "num_contratos": 64,
-        "total_gasto": 3429421.0199999996
+        "num_diarios": 55,
+        "num_contratos": 62,
+        "total_gasto": 3397621.0199999996
       },
       "3": {
         "num_diarios": 8,
@@ -31,9 +31,9 @@
         ]
       },
       "4": {
-        "num_diarios": 7,
-        "num_contratos": 8,
-        "total_gasto": 225179.5,
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 193379.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -62,7 +62,7 @@
         "num_contratos": 7,
         "total_gasto": 517033.34,
         "top_3_empresas": [
-          "EMACIANA FABIA DE LIMA\nSOARES 05301382470"
+          "EMACIANA FABIA DE LIMA\nSOARES"
         ],
         "top_3_objetos": [
           "Fornecimento de refeições, para atender as necessidades\nque o município de Caiçara tenha nas diversas secretarias do\nMunicípio de Caiçara."
@@ -446,8 +446,8 @@
       },
       "resumo": {
         "num_diarios": 73,
-        "num_contratos": 86,
-        "total_gasto": 10757855.5
+        "num_contratos": 87,
+        "total_gasto": 10789355.5
       },
       "2": {
         "num_diarios": 6,
@@ -472,8 +472,8 @@
       },
       "4": {
         "num_diarios": 3,
-        "num_contratos": 5,
-        "total_gasto": 287000.0,
+        "num_contratos": 6,
+        "total_gasto": 318500.0,
         "top_3_empresas": [
           "TATIANA CAPITANIO -\n\nVEICULOS"
         ],
@@ -522,9 +522,9 @@
         "num_contratos": 6,
         "total_gasto": 569191.67,
         "top_3_empresas": [
-          "JESSICA CARVALHO DA SILVA\n\n09527600456",
-          "MARIA\n\nDO ROSARIO VICENTE DOS SANTOS 06035407404",
-          "MARIANA KARLA\n\nPINHEIRO DA COSTA 45628016896"
+          "JESSICA CARVALHO DA SILVA",
+          "CT Nº 00070/2021",
+          "MARIANA KARLA\n\nPINHEIRO DA COSTA"
         ],
         "top_3_objetos": [
           "Contratação de empresas para o fornecimento de refeições\n\npara atender as necessidades das secretarias de Saúde, Educação e\n\nAssistência Social do Município de Caiçara, sendo fornecidos na sede\n\ndo Município de Caiçra como tambem em João Pessoa os motoristas\n\nque dirigem os veículos da Secretaria de Saúde, conduzindo os\n\npacientes que vão serem atendidos na Capital do Estado"
@@ -577,7 +577,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 74,
+        "num_diarios": 72,
         "num_contratos": 90,
         "total_gasto": 9165644.01
       },
@@ -587,7 +587,7 @@
         "total_gasto": 1327413.73,
         "top_3_empresas": [
           "PEDRO CORREIA\n\nDOS SANTOS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
-          "MARCIO ROGERIO ALVES DA COSTA\n\n02441656457"
+          "MARCIO ROGERIO ALVES DA COSTA"
         ],
         "top_3_objetos": [
           "Contratação de prestação de serviços de assessoria e\n\nconsultoria técnica especializada na área de contabilidade pública,\n\nplanejando, elaborando e acompanhando a gestão fiscal, até a decisão\n\nfinal dos atos e fatos junto ao tribunal de contas do Estado da Paraíba,\n\nanálise na emissão e geração do sagres, captura e informações diárias,\n\nelaboração do RGF, ficando a parte operacional por conta de técnicos\n\nda própria administração, conforme entendimento do Conselho\n\nFederal de Contabilidade, período compreendido de janeiro a\n\ndezembro de 2022, prestação de Contas Anual e Elaboração da\n\nProposta Orçamentária – exercício subsequente",
@@ -596,7 +596,7 @@
         ]
       },
       "3": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 82846.5,
         "top_3_empresas": [],
@@ -658,7 +658,7 @@
         ]
       },
       "9": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 615450.0,
         "top_3_empresas": [
@@ -702,7 +702,7 @@
         "num_contratos": 13,
         "total_gasto": 2316965.2,
         "top_3_empresas": [
-          "CARLOS\n\nANDRE ALVES 02513628411",
+          "CARLOS\n\nANDRE ALVES",
           "AKIYAMA S.A. -\n\nINDUSTRIA E COMERCIO DE EQUIPAMENTOS\n\nELETRONICOS E SISTEMAS",
           "JOELMA VIEIRA DE\n\nQUEIROZ CARNEIRO SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA"
         ],
@@ -758,7 +758,7 @@
         "total_gasto": 159174.8,
         "top_3_empresas": [
           "obrigada a fazer as consultas e entregas das lentes e armações na sede\n\ndo Município de Caiçara, em local determinado pelo representante da\n\nSecretária de saúde em dias e horários designados pelo mesmo. Toda\n\ndespesa de locomoção é por conta da",
-          "MARCIO ROGERIO ALVES DA COSTA\n\n02441656457"
+          "MARCIO ROGERIO ALVES DA COSTA"
         ],
         "top_3_objetos": [
           "Contratação de prestação de serviços de consulta de vista,\n\ncom fornecimento lentes de correção (par) e armação de Óculos, para\n\natender pessoas carentes do Município"
@@ -780,7 +780,7 @@
         "num_contratos": 1,
         "total_gasto": 49662.28,
         "top_3_empresas": [
-          "NATALIA\n\nALBUQUERQUE DA COSTA 70232293457"
+          "NATALIA\n\nALBUQUERQUE DA COSTA"
         ],
         "top_3_objetos": [
           "Aquisição de equipamentos e materiais de informática\ndiversos"
@@ -847,8 +847,8 @@
       },
       "resumo": {
         "num_diarios": 37,
-        "num_contratos": 34,
-        "total_gasto": 7109471.289999999
+        "num_contratos": 35,
+        "total_gasto": 7263199.289999999
       },
       "2": {
         "num_diarios": 2,
@@ -894,8 +894,8 @@
       },
       "6": {
         "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 241850.0,
+        "num_contratos": 3,
+        "total_gasto": 395578.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -962,15 +962,15 @@
     }
   },
   "resumo": {
-    "num_diarios": 420,
+    "num_diarios": 417,
     "num_contratos": 478,
-    "total_gasto": 56664991.96,
+    "total_gasto": "56.818.419,96",
     "top_5_empresas": {
       "ADENILSON ALVES DA COSTA": 3,
       "LITORAL ALIMENTOS NORDESTE\nLTDA": 2,
       "Gráfica Futura Ltda": 2,
       "FIORI VEICOLO S/A.": 2,
-      "MARCIO ROGERIO ALVES DA COSTA\n\n02441656457": 2
+      "MARCIO ROGERIO ALVES DA COSTA": 2
     },
     "top_5_objetos": {
       "Contratação de prestação de serviços de consulta de vista,\n\ncom fornecimento lentes de correção (par) e armação de Óculos, para\n\natender pessoas carentes do Município": 2,

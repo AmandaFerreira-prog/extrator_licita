@@ -1,0 +1,179 @@
+{
+  "id": "bom-jesus",
+  "nome": "Bom Jesus",
+  "detalhe": {
+    "2024": {
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 131230.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES",
+            "empresa": "MARIA DA CONCEIÇÃO NASCIMENTO BRITO",
+            "valor_total": "R$ 131,230.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES",
+            "empresa": "JOSÉ OLIVEIRA BRAGA",
+            "valor_total": "R$ 131,230.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES",
+            "empresa": "APARECIDA FEITOSA -\n\nR$ 39.990,00; CT Nº 00036/2024",
+            "valor_total": "R$ 131,230.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES",
+            "empresa": "CT Nº 00037/2024",
+            "valor_total": "R$ 131,230.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "CAMILIO EMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nMaria Camila Barbosa da Silva Representante Legal",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "CH3 COMERCIO E NEGOCIOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nGabriel Rua Ferrão Chaves",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "DANTAS ELETROMOVEIS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nLucas Gustavo Lima da Silva– Representante Legal",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "JOSE MURILO DE MEDEIROS SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nJose Murilo De Medeiros Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "SISTERPEL SUPRIMENTOS PARA\n\nINFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nPaulo Emanuel de Andrade",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "UNIMOVEIS INDUSTRIA E COMERCIO DE\n\nMOVEIS HOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": "e\n\nErmano Dias de Andrade",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 11,
+        "total_gasto": 1227842.92
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 7,
+        "total_gasto": 1096612.92,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A REFORMA DA ESCOLA E.M.E.I.F JOSÉ ROQUE DE\n\nSOUZA NO DISTRITO DE SÃO JOSÉ, MUNICÍPIO DE BOM\n\nJESUS–PB",
+            "empresa": "N E CONSTRUCOES E\n\nSERVICOS EIRELI",
+            "valor_total": "R$ 968,132.92"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A PAVIEMNTALÇAO DE ESTRADAS VICINAIS NO\n\nSITIO MATA FRESCA E SITIO MASTRUZ, ZONA RURAL DO\n\nMUNICÍPIO DE BOM JESUS – PB",
+            "empresa": "N E CONSTRUCOES E\n\nSERVICOS EIRELI",
+            "valor_total": "R$ 968,132.92"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A REFORMA DA ESCOLA E.M.E.I.F JOSÉ ROQUE DE\n\nSOUZA NO DISTRITO DE SÃO JOSÉ, MUNICÍPIO DE BOM\n\nJESUS–PB",
+            "empresa": "T A FRANCA\n\nSERVICOS",
+            "valor_total": "R$ 968,132.92"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A PAVIEMNTALÇAO DE ESTRADAS VICINAIS NO\n\nSITIO MATA FRESCA E SITIO MASTRUZ, ZONA RURAL DO\n\nMUNICÍPIO DE BOM JESUS – PB",
+            "empresa": "T A FRANCA\n\nSERVICOS",
+            "valor_total": "R$ 968,132.92"
+          },
+          {
+            "objeto": "Contratação de show a ser realizado por LEO MARIANO E BANDA\n\nno dia 17 de junho de 2024, município Bom Jesus (PB)",
+            "empresa": "LEONARDO MARIANO DA SILVA",
+            "valor_total": "R$ 8,480.00"
+          },
+          {
+            "objeto": "Contratação de show a ser realizado por LEO MARIANO\n\nE BANDA no dia 17 de junho de 2024, município Bom Jesus (PB)",
+            "empresa": "LEONARDO MARIANO DA SILVA",
+            "valor_total": "R$ 8,480.00"
+          },
+          {
+            "objeto": "Contratação direta através de empresário exclusivo dos serviços\n\nartísticos de apresentação musical, dos artistas ZÉ DE FREITAS,\n\nJEFINHO ATUALIZADO, LUAN PAKERÔ E DA BANDA\n\nFARRA DE BAKANA, para exibição nas festividades do\n\n“FORROJÃO 2024” em praça pública na cidade de São João do Rio\n\ndo Peixe/PB",
+            "empresa": "ZÉ DE FREITAS R$ 15.000,00; JEFINHO\n\nATUALIZADO R$ 5.000,00; BANDA FARRA DE BAKANA R$\n\n25.000,00)\n\nSão João Rio do Peixe",
+            "valor_total": "R$ 120,000.00"
+          },
+          {
+            "objeto": "Contratação direta através de empresário exclusivo dos\n\nserviços artísticos de apresentação musical, dos artistas ZÉ DE\n\nFREITAS, JEFINHO ATUALIZADO, LUAN PAKERÔ E DA\n\nBANDA FARRA DE BAKANA, para exibição nas festividades do\n\n“FORROJÃO 2024” em praça pública na cidade de São João do Rio\n\ndo Peixe/PB",
+            "empresa": "ZÉ DE FREITAS R$ 15.000,00; JEFINHO\n\nATUALIZADO R$ 5.000,00; BANDA FARRA DE BAKANA R$\n\n25.000,00)\n\nSão João Rio do Peixe",
+            "valor_total": "R$ 120,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

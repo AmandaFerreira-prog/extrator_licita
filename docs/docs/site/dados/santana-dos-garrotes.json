@@ -12,8 +12,8 @@
       },
       "resumo": {
         "num_diarios": 60,
-        "num_contratos": 32,
-        "total_gasto": 4962685.740000001
+        "num_contratos": 45,
+        "total_gasto": 5505997.82
       },
       "6": {
         "num_diarios": 8,
@@ -43,8 +43,8 @@
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 9,
-        "total_gasto": 1547376.28,
+        "num_contratos": 17,
+        "total_gasto": 1679770.67,
         "top_3_empresas": [
           "FRANCISCO FLORENTINO DE SOUZA -\nME / MIQUEIAS CENTER",
           "EVALDO FERREIRA DE ALBUQUERQUE",
@@ -82,8 +82,8 @@
       },
       "11": {
         "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 299567.75,
+        "num_contratos": 3,
+        "total_gasto": 659475.44,
         "top_3_empresas": [
           "COPAUTO COMERCIO PATOENSE DE\nAUTOMOTORES LTDA"
         ],
@@ -93,8 +93,8 @@
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 9,
-        "total_gasto": 724156.09,
+        "num_contratos": 12,
+        "total_gasto": 775166.09,
         "top_3_empresas": [
           "N & R LOCAÇÃO DE VEÍCULOS\nCONSULTORIA AMBIENTAL E REPRESENTAÇÕES EIRELI\n–"
         ],
@@ -106,11 +106,10 @@
     "2022": {
       "1": {
         "num_diarios": 15,
-        "num_contratos": 17,
-        "total_gasto": 1700478.5,
+        "num_contratos": 10,
+        "total_gasto": 869788.5,
         "top_3_empresas": [
           "FRANCISCO RAIMUNDO FILHO",
-          "), bem como acesso na nossa\n\nsecretaria de Controle Interno, comunicando simultaneamente, com\n\nvista a disponibilizar a entidade pública mecanismos de controle para\n\nprevenção de erros, fraudes e desperdícios, trazendo benefícios e o\n\ncorreto atendimento a população do município de Santana dos\n\nGarrotes",
           "MIKAEL CRISPIM VIEIRA"
         ],
         "top_3_objetos": [
@@ -119,21 +118,21 @@
         ]
       },
       "resumo": {
-        "num_diarios": 134,
-        "num_contratos": 66,
-        "total_gasto": 17271389.79
+        "num_diarios": 133,
+        "num_contratos": 77,
+        "total_gasto": 17917982.45
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 5,
-        "total_gasto": 359089.5,
+        "num_contratos": 8,
+        "total_gasto": 430259.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 3,
-        "total_gasto": 440694.87,
+        "num_contratos": 7,
+        "total_gasto": 1543621.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -146,10 +145,14 @@
       },
       "5": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 8,
+        "total_gasto": 200765.0,
+        "top_3_empresas": [
+          "ALL IN\n\nEMPREENDIMENTOS & CONSTRUCOES EIRELI"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada no fornecimento de\n\ntendas feiras para acomodar os feirantes beneficiários da agricultura\n\nfamiliar rural"
+        ]
       },
       "6": {
         "num_diarios": 12,
@@ -159,7 +162,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 9,
         "total_gasto": 3956928.86,
         "top_3_empresas": [],
@@ -167,8 +170,8 @@
       },
       "8": {
         "num_diarios": 14,
-        "num_contratos": 6,
-        "total_gasto": 2701954.0,
+        "num_contratos": 7,
+        "total_gasto": 2732760.41,
         "top_3_empresas": [
           "COMERCIO DE VEÍCULOS SANTANA\n\nLTDA"
         ],
@@ -178,8 +181,8 @@
       },
       "9": {
         "num_diarios": 12,
-        "num_contratos": 3,
-        "total_gasto": 2264963.18,
+        "num_contratos": 4,
+        "total_gasto": 2309778.18,
         "top_3_empresas": [
           "s - nos limites\n\npermitidos por lei, em",
           ".\n\n\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE SANTANA\n\nDOS GARROTES/PB\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nCONTRATADO: POSTO LOPES LTDA"
@@ -190,8 +193,8 @@
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 4479925.880000001,
+        "num_contratos": 8,
+        "total_gasto": 4506725.880000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -213,27 +216,27 @@
     "2023": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 2,
-        "total_gasto": 1934249.6,
+        "num_contratos": 3,
+        "total_gasto": 1994249.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 115,
-        "num_contratos": 56,
-        "total_gasto": 11083465.520000001
+        "num_diarios": 113,
+        "num_contratos": 77,
+        "total_gasto": 12719191.89
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 16,
-        "total_gasto": 1289180.0,
+        "num_contratos": 17,
+        "total_gasto": 1373180.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 18,
-        "num_contratos": 11,
-        "total_gasto": 3131862.9200000004,
+        "num_contratos": 12,
+        "total_gasto": 3341662.9200000004,
         "top_3_empresas": [
           "COMERCIO DE VEICULOS SANTANA\n\nLTDA"
         ],
@@ -243,8 +246,8 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 6,
-        "total_gasto": 1428590.55,
+        "num_contratos": 7,
+        "total_gasto": 1449403.1500000001,
         "top_3_empresas": [
           "V B SANTOS ENTRETENIMENTOS",
           "SIM SERVICOS DE ORGANIZACAO DE\n\nFESTAS, EVENTOS E FORMATURAS LTDA",
@@ -269,17 +272,25 @@
       },
       "6": {
         "num_diarios": 6,
-        "num_contratos": 5,
-        "total_gasto": 777940.0,
+        "num_contratos": 10,
+        "total_gasto": 903740.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 5,
+        "total_gasto": 652640.63,
+        "top_3_empresas": [
+          "PROJETRAN CONSULTORIA E ASSESSORIA\n\nDE TRANSITO LTDA",
+          "TERRA DO SOL COMERCIO DE VEICULOS\n\nLTDA",
+          "NOVOS TEMPOS COMERCIO DE VEICULOS\n\nLTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada para prestar os\n\nserviços de consultoria, e assessoria na execução dos cronogramas e\n\nprojetos voltados a municipalização do trânsito do Município de SÃO\n\nJOSE DA LAGOA TAPADA–PB",
+          "Aquisição de veículos 0KM destinados a Secretaria de\n\nSaúde do município São José da Lagoa Tapada/PB",
+          "Aquisição de veículos 0KM – Primeiro Licenciamento,\n\npara atendimento a Secretaria de Saúde do município São José da\n\nLagoa Tapada/PB"
+        ]
       },
       "8": {
         "num_diarios": 8,
@@ -296,16 +307,21 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 100625.0,
+        "top_3_empresas": [
+          "RIOLLI & LIMA UNIFORMES\n\nLTDA",
+          "Samir Ribeiro de Lima"
+        ],
+        "top_3_objetos": [
+          "Contratação de\n\nempresa especializada no fornecimento de Fardamentos;"
+        ]
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 2,
-        "total_gasto": 395395.39,
+        "num_contratos": 7,
+        "total_gasto": 682257.25,
         "top_3_empresas": [
           "CONSTRUTORA DAKI LTDA"
         ],
@@ -314,9 +330,9 @@
         ]
       },
       "12": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 95186.28,
         "top_3_empresas": [
           "para o município de Santana dos Garrotes/PB, em\nconformidade com o Artigo 24, inciso II, da Lei 8.666, de 21 de junho\nde 1993 e suas alterações posteriores.\n\nRECURSOS: Próprios e/ou programas.\nCONTRATANTE: PREFEITURA MUNICIPAL DE SANTANA\nDOS GARROTES/PB.\nCONTRATADO: MENDES E FERREIRA CONSTRUÇÕES\nLTDA"
         ],
@@ -328,12 +344,12 @@
     "2024": {
       "1": {
         "num_diarios": 12,
-        "num_contratos": 9,
-        "total_gasto": 4011316.55,
+        "num_contratos": 11,
+        "total_gasto": 4114036.55,
         "top_3_empresas": [
           "52.064.652 MANOEL SOARES DA SILVA -\n\nMN SOARES REFRIGERACAO E CLIMATIZACAO",
           "MSS CAMPOS",
-          "HELIO MONTEIRO CAMPOS 00007014406 -"
+          "HELIO MONTEIRO CAMPOS"
         ],
         "top_3_objetos": [
           "Serviços de manutenção e instalação de ar-condicionado\n\nnos diversos órgãos e secretarias do município de Santana dos\n\nGarrotes/PB, que obedecerá às disposições do art",
@@ -342,14 +358,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 139,
-        "num_contratos": 107,
-        "total_gasto": 13568061.400000002
+        "num_diarios": 137,
+        "num_contratos": 114,
+        "total_gasto": 14340465.560000002
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 75350.0,
         "top_3_empresas": [
           "J ANDRADE LTDA"
         ],
@@ -380,15 +396,15 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 40,
-        "total_gasto": 2603925.1999999993,
+        "num_contratos": 41,
+        "total_gasto": 2634925.1999999993,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 10,
-        "num_contratos": 11,
-        "total_gasto": 968417.42,
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 926761.5800000001,
         "top_3_empresas": [
           "J ANDRADE LTDA",
           "CL CONSTRUÇÕES E SERVIÇOS LTDA -",
@@ -424,8 +440,8 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 13,
-        "total_gasto": 1300344.6199999999,
+        "num_contratos": 16,
+        "total_gasto": 1882334.6199999999,
         "top_3_empresas": [
           "ENDOMED COM E REP DE\n\nMEDICAMENTOS LTDA",
           "MULTFORTE COMERCIO E\n\nSUPRIMENTOS DE INFORMATICA LTDA",
@@ -445,9 +461,9 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 13,
-        "num_contratos": 4,
-        "total_gasto": 352553.66,
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 375553.66,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -465,9 +481,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 448,
-    "num_contratos": 261,
-    "total_gasto": 46885602.45,
+    "num_diarios": 443,
+    "num_contratos": 313,
+    "total_gasto": "50.483.637,72",
     "top_5_empresas": {
       "MENDES E FERREIRA CONSTRUÇÕES\n\nLTDA": 2,
       "CONSTRUTORA DAKI EIRELI": 2,

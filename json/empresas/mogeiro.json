@@ -1,0 +1,239 @@
+{
+  "id": "mogeiro",
+  "nome": "Mogeiro",
+  "detalhe": {
+    "2023": {
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 41,
+        "num_contratos": 11,
+        "total_gasto": 1722254.07
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 282900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nPAVIMENTAÇÃO EM PARALELEPÍPEDO NA COMUNIDADE\n\nMANIÇOBA, ZONA RURAL DE MOGEIRO-PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mogeiro e: CT Nº\n\n00060/2023 - Wjx Construcoes e Servicos de Engenharia Ltda -",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇO DE AMPLIAÇÃO DO CEMITÉRIO SÃO\n\nFRANCISCO DE ASSIS DESTE MUNICIPIO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mogeiro e: CT Nº\n\n00061/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 389316.54000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MÓVEIS ESCOLARES, PARA AS ESCOLAS DE ENSINO\n\nINFANTIL DO MUNICÍPIO DE MOGEIRO",
+            "empresa": "MAX SOLUCOES\n\nEDUCACIONAIS INTEGRADAS LTDA",
+            "valor_total": "R$ 89,715.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA ADEQUAÇÃO\n\nDE ESTRADAS VICINAIS NO MUNICÍPIO DE MOGEIRO– PB,\n\nCONFORME PLANILHA",
+            "empresa": "PR CONSTRUCOES\n\nEIRELI",
+            "valor_total": "R$ 210,276.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 1050037.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 2513362.3200000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 146,
+        "num_contratos": 128,
+        "total_gasto": 28537691.479999997
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 4358588.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 19,
+        "total_gasto": 1373887.21,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE LIMPEZA PARA\nATENDER AS DIVERSAS SECRETARIAS DESDE MUNICIPIO\nPARA O EXERCÍCIO DE 2024",
+            "empresa": "OLIVEIRA\n& EULALIO PRODUTOS DE LIMPEZA LTDA",
+            "valor_total": "R$ 569,969.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE LIMPEZA PARA\nATENDER AS DIVERSAS SECRETARIAS DESDE MUNICIPIO\nPARA O EXERCÍCIO DE 2024",
+            "empresa": "INDUSTRIA E COMERCIO DE\nPRODUTOS DE LIMPEZA CAMPINENSE LTDA",
+            "valor_total": "R$ 569,969.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE LIMPEZA PARA\nATENDER AS DIVERSAS SECRETARIAS DESDE MUNICIPIO\nPARA O EXERCÍCIO DE 2024",
+            "empresa": "BLESS INDUSTRIA BRASILEIRA\nDE COSMETICOS LTDA",
+            "valor_total": "R$ 569,969.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE LIMPEZA PARA\nATENDER AS DIVERSAS SECRETARIAS DESDE MUNICIPIO\nPARA O EXERCÍCIO DE 2024",
+            "empresa": "CT Nº\n00043/2024 - 08.03.24 - FAROMED COMERCIO DE MATERIAIS\nHOSPITALARES LTDA",
+            "valor_total": "R$ 569,969.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE LIMPEZA PARA\nATENDER AS DIVERSAS SECRETARIAS DESDE MUNICIPIO\nPARA O EXERCÍCIO DE 2024",
+            "empresa": "CT Nº 00045/2024 - 08.03.24 - LRF\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 569,969.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "LUMIAR HEALTH BUILDERS\nEQUIPAMENTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 24,314.67"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "CT\nNº 00034/2024 - 06.03.24 - ODONTOMED COMERCIO DE\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 24,314.67"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "ABSOLUTA SAUDE IMP. EXP. E\nCOMERCIO DE PRODUTOS PARA SAUDE EIRELI",
+            "valor_total": "R$ 24,314.67"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "MEDIC MANUTENCAO E\nREPARACAO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 24,314.67"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "M.K.R. COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 24,314.67"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS/MATERIAL PERMANENTE HOSPITALAR\nCOMO TAMBÉM AQUISIÇÃO DE VEÍCULO PARA ATENDER\nA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "DIONAL\nDISTRIBUIDORA DE PRODUTOS LTDA",
+            "valor_total": "R$ 24,314.67"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 5,
+        "total_gasto": 242250.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO E MONTAGEM DE\n\nESTRUTURA DE EVENTOS, PARA A FESTA DO\n\nTRABALHADOR DESTE MUNICÍPIO",
+            "empresa": "DENISE MOURA DO\n\nNASCIMENTO",
+            "valor_total": "R$ 57,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 9564238.22,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nEM PAVIMENTAÇÃO EM PARALELEPÍPEDO EM DIVERSAS\n\nRUAS NO BAIRRO MARIA PEIXOTO, NESTE MUNICIPIO",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Mogeiro e: CT\n\nNº 00029/2024 - Monteiro Engenharia Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 437681.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 1949234.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE LEVANTAMENTO TOPOGRÁFICO;\n\nELABORAÇÃO DE PROJETOS DE ENGENHARIA; ENTRADA E\n\nACOMPANHAMENTO REGISTRO SUDEMA E PLATAFORMA\n\nDA CAIXA ECONÔMICA FEDERAL PARA ESTE MUNICÍPIO,\nCONFORME TERMO DE REFERÊNCIA",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mogeiro e: CT Nº\n00046/2024",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ATUAÇÃO DIRECIONADA NO PLANEJAMENTO,\nEXECUÇÃO E CONTROLE DAS PRESTAÇÕES DE CONTAS\n\nDOS CONVÊNIOS FEDERAIS E ESTADUAIS, JUNTO AOS\n\nSISTEMAS: TRANSFEREGOV (SICONV), SIGPC, SGIPACTO,\n\nSUASWEB, SIMEC, FUNASA, DNOCS E DEMAIS SEGMENTOS\nDE PRESTAÇÕES DE CONTAS",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Mogeiro e: CT Nº 00097/2023 - Prestcontas\n\nAssessoria e Consultoria Em Gestao Empresarial e Publica Ltda -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 1717057.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 2598784.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 1601770.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 632946.9500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 1547890.64,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE UM APARELHO DE RADIOGRAFIA PANORÂMICO PARA\n\nOS SERVIÇOS ODONTOLÓGICOS DE SAÚDE PÚBLICA PARA\n\nESTE MUNICÍPIO (UNIDADES DE SAÚDE E CENTRO DE\n\nESPECIALIDADE ODONTOLÓGICO), CONFORME TERMO DE\n\nREFERÊNCIA",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMogeiro e: CT Nº 00138/2024",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -3,35 +3,52 @@
   "nome": "Matinhas",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 8,
-        "num_contratos": 5,
-        "total_gasto": 802441.5,
-        "top_3_empresas": [
-          "JOELSON ROMERO DOS ANJOS"
-        ],
-        "top_3_objetos": [
-          "contratação de CARRO PIPA para distribuição de Água\nPotável"
-        ]
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 386450.99,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 132,
-        "num_contratos": 71,
-        "total_gasto": 6856665.58
+        "num_contratos": 75,
+        "total_gasto": 7205258.580000001
       },
-      "2": {
-        "num_diarios": 16,
-        "num_contratos": 4,
-        "total_gasto": 278044.5,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
+      "7": {
         "num_diarios": 12,
-        "num_contratos": 2,
-        "total_gasto": 120829.57999999999,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 27,
+        "total_gasto": 518614.80000000005,
+        "top_3_empresas": [
+          "DENTALMED COMERCIO E\nREPRESENTAÇÕES LTDA",
+          "L.M. LADEIRA & CIA LTDA-ME",
+          "MEDONTEC MANUTENÇÃO E\nREPARAÇÃO EM EQUIPAMENTOS MED. HOSP E\nODONTOLOGICO LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO"
+        ]
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 2305795.5900000003,
+        "top_3_empresas": [
+          "KROMME IMPRESSÃO DE MATERIAL PARA\nUSO INDUSTRIAL-LTDA-ME"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DO SERVIÇO DE CONFECÇÃO\nDE PLACAS DE SINALIZAÇÃO, BANNERS, ETIQUETAS DE\nTOMBAMENTO, ADESIVOS E CARTAZES, PARA ATENDER\nA VÁRIAS SECRETARIAS DO MUNICÍPIO"
+        ]
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1489130.0,
+        "top_3_empresas": [
+          "LUCELIA MONTEIRO COSTA RIBEIRO"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE FARDAMENTOS PARA ATENDER\nDIVERSAS SECRETARIAS DO MUNICIPIO"
+        ]
       },
       "4": {
         "num_diarios": 13,
@@ -40,37 +57,36 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "5": {
-        "num_diarios": 18,
-        "num_contratos": 9,
-        "total_gasto": 1489130.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 15,
-        "num_contratos": 12,
-        "total_gasto": 1957202.5899999999,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
+      "3": {
         "num_diarios": 12,
-        "num_contratos": 27,
-        "total_gasto": 518614.8,
+        "num_contratos": 2,
+        "total_gasto": 120829.57999999999,
         "top_3_empresas": [
-          "ANTÔNIO ARLINDO DA SILVA"
+          "MEGA MASTER COMERCIAL DE\nALIMENTOS LTDA"
         ],
         "top_3_objetos": [
-          "AQUISIÇÃO DE PIÇARRA PARA ATENDER A\nSECRETARIA DE OBRAS E URBANISMO DO MUNICIPIO"
+          "AQUISIÇÃO DE GENEROS ALIMENTÍCIOS\n(PETI/PROJOVEM), JUNTO A SECRETARIA DE ASSISTÊNCIA\nSOCIAL DO MUNICÍPIO"
         ]
       },
-      "8": {
-        "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 386450.99,
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 278044.5,
         "top_3_empresas": [],
         "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 802441.5,
+        "top_3_empresas": [
+          "GLAUCIENE PINHEIRO SANTOS -ME",
+          "F&HOLANDA CONSTRUÇÕES EIRELI ME"
+        ],
+        "top_3_objetos": [
+          "SERVIÇO TÉCNICO ESPECIALIZADO EM\nLICITAÇÕES PÚBLICAS, JUNTO A SECRETARIA DE\nFINANÇAS DO MUNICÍPIO",
+          "EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE 01\nUNIDADE ESCOLAR COM 06 SALAS DE AULA COM\nRECURSOS DO CONVENIO Nº 368/2013"
+        ]
       },
       "9": {
         "num_diarios": 8,
@@ -103,16 +119,16 @@
     },
     "2015": {
       "1": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 108,
-        "num_contratos": 31,
-        "total_gasto": 927890.3
+        "num_diarios": 104,
+        "num_contratos": 35,
+        "total_gasto": 1123033.8
       },
       "2": {
         "num_diarios": 7,
@@ -126,7 +142,7 @@
         ]
       },
       "3": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 2,
         "total_gasto": 11602.0,
         "top_3_empresas": [
@@ -137,7 +153,7 @@
         ]
       },
       "4": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -151,9 +167,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 63.0,
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 106146.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -177,8 +193,8 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 2,
-        "total_gasto": 3620.0,
+        "num_contratos": 4,
+        "total_gasto": 92680.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -217,9 +233,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 94,
-        "num_contratos": 59,
-        "total_gasto": 2536675.58
+        "num_diarios": 93,
+        "num_contratos": 58,
+        "total_gasto": 2526497.58
       },
       "2": {
         "num_diarios": 10,
@@ -266,9 +282,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 10,
-        "num_contratos": 13,
-        "total_gasto": 781900.35,
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 771722.35,
         "top_3_empresas": [
           "MAXIMA DISTRIBUIDORA DE ALIMENTOS\nLTDA-ME",
           "VALDEMIR TEOFILO DA SILVA",
@@ -336,9 +352,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 136,
-        "num_contratos": 67,
-        "total_gasto": 4442817.75
+        "num_diarios": 135,
+        "num_contratos": 64,
+        "total_gasto": 4365777.75
       },
       "2": {
         "num_diarios": 13,
@@ -370,9 +386,9 @@
         ]
       },
       "5": {
-        "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 435920.0,
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 358880.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -446,22 +462,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 475,
-    "num_contratos": 228,
-    "total_gasto": 14764049.21,
+    "num_diarios": 469,
+    "num_contratos": 232,
+    "total_gasto": "15.220.567,71",
     "top_5_empresas": {
       "ROSILENE CANDIDO VIEIRA-ME": 2,
-      "JOELSON ROMERO DOS ANJOS": 1,
-      "ANTÔNIO ARLINDO DA SILVA": 1,
-      "PARAÍBA RECONDICIONADORA DE PNEUS": 1,
-      "INSTITUTO DE CIENCIA TECNOLOGIA\nINOVACAO CULTURA INCUBATIC": 1
+      "DENTALMED COMERCIO E\nREPRESENTAÇÕES LTDA": 1,
+      "L.M. LADEIRA & CIA LTDA-ME": 1,
+      "MEDONTEC MANUTENÇÃO E\nREPARAÇÃO EM EQUIPAMENTOS MED. HOSP E\nODONTOLOGICO LTDA": 1,
+      "KROMME IMPRESSÃO DE MATERIAL PARA\nUSO INDUSTRIAL-LTDA-ME": 1
     },
     "top_5_objetos": {
-      "contratação de CARRO PIPA para distribuição de Água\nPotável": 1,
-      "AQUISIÇÃO DE PIÇARRA PARA ATENDER A\nSECRETARIA DE OBRAS E URBANISMO DO MUNICIPIO": 1,
-      "SERVIÇO DE REFORMA DE 06 PNEUS 1400/24": 1,
-      "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\nATENDER A SECRETARIA DE ADMINISTRAÇÃO DO\nMUNICÍPIO": 1,
-      "AQUISIÇÃO DE CAMISAS COM ESTAMPA PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICÍPIO": 1
+      "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO": 1,
+      "CONTRATAÇÃO DO SERVIÇO DE CONFECÇÃO\nDE PLACAS DE SINALIZAÇÃO, BANNERS, ETIQUETAS DE\nTOMBAMENTO, ADESIVOS E CARTAZES, PARA ATENDER\nA VÁRIAS SECRETARIAS DO MUNICÍPIO": 1,
+      "AQUISIÇÃO DE FARDAMENTOS PARA ATENDER\nDIVERSAS SECRETARIAS DO MUNICIPIO": 1,
+      "AQUISIÇÃO DE GENEROS ALIMENTÍCIOS\n(PETI/PROJOVEM), JUNTO A SECRETARIA DE ASSISTÊNCIA\nSOCIAL DO MUNICÍPIO": 1,
+      "SERVIÇO TÉCNICO ESPECIALIZADO EM\nLICITAÇÕES PÚBLICAS, JUNTO A SECRETARIA DE\nFINANÇAS DO MUNICÍPIO": 1
     }
   }
 }

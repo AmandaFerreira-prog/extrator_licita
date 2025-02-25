@@ -11,16 +11,22 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 89,
-        "num_contratos": 110,
-        "total_gasto": 11289442.329999998
+        "num_diarios": 87,
+        "num_contratos": 112,
+        "total_gasto": 11656072.329999998
       },
       "3": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 24,
         "total_gasto": 1738296.9000000001,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "TRASH COLETA E INCINERACAO DE\n\nLIXO HOSPITALAR LTDA",
+          "JOSE PEREIRA DA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS A SEREM PRESTADOS NA COLETA,\n\nTRANSPORTE E INCINERAÇÃO, DESTINO FINAL DO LIXO\n\nHOSPITALAR DAS UNIDADES DE SAÚDE DA REDE\n\nMUNICIPAL DE SANTA CRUZ/PB",
+          "FORNECIMENTO E AQUISIÇÃO DE ÁGUA MINERAL\n\nOU ADICIONADA DE SAIS E GARRAFÕES CAPACIDADE\n\nPARA 20 LITROS, PARA ATENDER A DEMANDA DAS\n\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SANTA\n\nCRUZ/PB"
+        ]
       },
       "4": {
         "num_diarios": 7,
@@ -42,7 +48,7 @@
         "total_gasto": 529046.0,
         "top_3_empresas": [
           "J M DOS SANTOS PROMOÇÕES E\n\nEVENTOS",
-          "CESAR GUIMARAES SARMENTO\n\n03450834401",
+          "CESAR GUIMARAES SARMENTO",
           "LELEKA PRODUÇÕES LTDA"
         ],
         "top_3_objetos": [
@@ -63,7 +69,7 @@
         ]
       },
       "8": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 2,
         "total_gasto": 96850.0,
         "top_3_empresas": [],
@@ -71,8 +77,8 @@
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 9,
-        "total_gasto": 636124.76,
+        "num_contratos": 11,
+        "total_gasto": 1002754.76,
         "top_3_empresas": [
           "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS\n\nHOSPITALARES E MEDICAMEN",
           "BIOMED\n\nDISTRIBUIDORA HOSPITALAR E LABORATORIAL NOSSA\n\nSENHORA",
@@ -121,9 +127,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 84,
-        "num_contratos": 128,
-        "total_gasto": 11010433.06
+        "num_diarios": 83,
+        "num_contratos": 130,
+        "total_gasto": 11032088.9
       },
       "2": {
         "num_diarios": 8,
@@ -178,11 +184,11 @@
       },
       "6": {
         "num_diarios": 4,
-        "num_contratos": 8,
-        "total_gasto": 516195.35,
+        "num_contratos": 11,
+        "total_gasto": 557851.19,
         "top_3_empresas": [
           "FRANCISCO FERRONY CELESTINO NOGUEIRA",
-          "RUAN FERREIRA DOS SANTOS\n\n71204235414"
+          "RUAN FERREIRA DOS SANTOS"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DA ATRAÇÃO MUSICAL \"XODÓ\n\nNORDESTINO\", PARA ANIMAR A FESTA DE SÃO JOÃO DO\nDIA 20 DE JUNHO DO CORRENTE ANO, NO MUNICÍPIO DE\n\nSANTA CRUZ/PB",
@@ -212,9 +218,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 7,
-        "num_contratos": 7,
-        "total_gasto": 169886.31,
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 149886.31,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -246,22 +252,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 173,
-    "num_contratos": 238,
-    "total_gasto": 22299875.39,
+    "num_diarios": 170,
+    "num_contratos": 242,
+    "total_gasto": "22.688.161,23",
     "top_5_empresas": {
       "PHARMAPLUS LTDA": 2,
+      "TRASH COLETA E INCINERACAO DE\n\nLIXO HOSPITALAR LTDA": 1,
+      "JOSE PEREIRA DA SILVA": 1,
       "J M DOS SANTOS PROMOÇÕES E\n\nEVENTOS": 1,
-      "CESAR GUIMARAES SARMENTO\n\n03450834401": 1,
-      "LELEKA PRODUÇÕES LTDA": 1,
-      "NOVA CAMPINA COMERCIO DE\n\nCOMBUSTIVEL LTDA": 1
+      "CESAR GUIMARAES SARMENTO": 1
     },
     "top_5_objetos": {
+      "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS A SEREM PRESTADOS NA COLETA,\n\nTRANSPORTE E INCINERAÇÃO, DESTINO FINAL DO LIXO\n\nHOSPITALAR DAS UNIDADES DE SAÚDE DA REDE\n\nMUNICIPAL DE SANTA CRUZ/PB": 1,
+      "FORNECIMENTO E AQUISIÇÃO DE ÁGUA MINERAL\n\nOU ADICIONADA DE SAIS E GARRAFÕES CAPACIDADE\n\nPARA 20 LITROS, PARA ATENDER A DEMANDA DAS\n\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SANTA\n\nCRUZ/PB": 1,
       "LOCAÇÃO DE ESTRUTURA PARA REALIZAÇÃO\n\nDAS FESTIVIDADES DO TRADICIONAL SÃO JOÃO DE\n\nSANTA CRUZ/PB": 1,
       "CONTRATAÇÃO DA ATRAÇÃO MUSICAL\n\n\"EMILIANO PORDEUS\" , PARA ANIMAR A FESTA DE SÃO\n\nJOÃO DO DIA 23 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB": 1,
-      "CONTRATAÇÃO DA ATRAÇÃO MUSICAL GILSON\n\nMANIA, ATRAVÉS DE EMPRESÁRIO DETENTOR DOS\n\nDIREITOS DE EXCLUSIVIDADE, PARA ANIMAR A FESTA DE\n\nSÃO JOÃO DO DIA 24 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB": 1,
-      "FORNECIMENTO GRADUAL DE COMBUSTÍVEIS\n\nPARA O ABASTECIMENTO DA FROTA (PROPRIA E LOCADA)\n\nDO MUNICÍPIO DE SANTA CRUZ/PB, QUANDO EM\n\nDESLOCAMENTO PARA CAPITAL OU OUTRAS\n\nLOCALIDADES": 1,
-      "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB": 1
+      "CONTRATAÇÃO DA ATRAÇÃO MUSICAL GILSON\n\nMANIA, ATRAVÉS DE EMPRESÁRIO DETENTOR DOS\n\nDIREITOS DE EXCLUSIVIDADE, PARA ANIMAR A FESTA DE\n\nSÃO JOÃO DO DIA 24 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB": 1
     }
   }
 }

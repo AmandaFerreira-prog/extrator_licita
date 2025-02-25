@@ -11,26 +11,32 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 119,
-        "num_contratos": 75,
-        "total_gasto": 8255298.610000001
+        "num_diarios": 107,
+        "num_contratos": 84,
+        "total_gasto": 6968757.700000001
       },
       "4": {
-        "num_diarios": 9,
-        "num_contratos": 7,
-        "total_gasto": 1794554.5,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 93837.5,
+        "top_3_empresas": [
+          "ADRIELLY DE CASTRO SILVA\n\nOLIVEIRA",
+          "AZUS COPY\n\nCENTER COMERCIO E SERVIOS LTDA"
+        ],
+        "top_3_objetos": [
+          "LOCAÇÃO DE SOFTWARE PARA ATENDER AS\n\nNECESSIDADES DO CRAS DESTE MUNICIPIO",
+          "ADESÃO A ATA DE REGISTRO DE PREÇOS Nº\n\n00039/2021 – PREGÃO PRESENCIAL Nº 00039/2021 –\n\nPROCESSO ADMINISTRATIVO Nº 091/2021 – PM GURJÃO –\n\nCONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO E A\n\nREMANUFATURA DE CARTUCHOS E TONNERS"
+        ]
       },
       "5": {
-        "num_diarios": 15,
-        "num_contratos": 10,
-        "total_gasto": 1024943.22,
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 1992408.44,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 14,
         "total_gasto": 518111.91000000003,
         "top_3_empresas": [],
@@ -46,20 +52,20 @@
         ]
       },
       "8": {
-        "num_diarios": 12,
+        "num_diarios": 10,
         "num_contratos": 3,
         "total_gasto": 1357175.83,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 14,
+        "num_diarios": 12,
         "num_contratos": 9,
         "total_gasto": 518072.0,
         "top_3_empresas": [
           "C R COSTA & CIA LTDA",
-          "ARISBEL\n\nCORDEIRO COSTA 35677015415",
-          "LUCIANO SALVIANO\n\nDE SOUZA 71178585409"
+          "ARISBEL\n\nCORDEIRO COSTA",
+          "LUCIANO SALVIANO\n\nDE SOUZA"
         ],
         "top_3_objetos": [
           "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO\n\nE DIGITAÇÃO PARA ATENDER AS DEMANDAS DESTA\n\nPREFEITURA",
@@ -68,9 +74,9 @@
         ]
       },
       "10": {
-        "num_diarios": 9,
-        "num_contratos": 2,
-        "total_gasto": 599489.13,
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 46200.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -91,16 +97,16 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 12,
-        "num_contratos": 14,
-        "total_gasto": 289599.45,
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 236049.45,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 136,
-        "num_contratos": 117,
-        "total_gasto": 18220430.98
+        "num_diarios": 131,
+        "num_contratos": 124,
+        "total_gasto": 18526097.020000003
       },
       "2": {
         "num_diarios": 14,
@@ -118,8 +124,8 @@
       },
       "4": {
         "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 352750.0,
+        "num_contratos": 14,
+        "total_gasto": 1055589.6199999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -137,7 +143,7 @@
         ]
       },
       "6": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 13,
         "total_gasto": 2990758.07,
         "top_3_empresas": [],
@@ -157,7 +163,7 @@
         ]
       },
       "8": {
-        "num_diarios": 11,
+        "num_diarios": 9,
         "num_contratos": 2,
         "total_gasto": 57225.0,
         "top_3_empresas": [],
@@ -185,16 +191,16 @@
         ]
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 2,
-        "total_gasto": 933758.6,
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 574598.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 16,
-        "total_gasto": 1182737.6500000001,
+        "num_contratos": 21,
+        "total_gasto": 1198274.0699999998,
         "top_3_empresas": [
           "AZUS COPY CENTER COMERCIO E\nSERVIÇOS LTDA"
         ],
@@ -210,9 +216,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 121,
-        "total_gasto": 18099919.969999995
+        "num_diarios": 121,
+        "num_contratos": 122,
+        "total_gasto": 18145419.969999995
       },
       "2": {
         "num_diarios": 11,
@@ -223,8 +229,8 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 9,
-        "total_gasto": 913318.8,
+        "num_contratos": 10,
+        "total_gasto": 958818.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -249,7 +255,7 @@
         ]
       },
       "6": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 14,
         "total_gasto": 482997.07,
         "top_3_empresas": [],
@@ -269,7 +275,7 @@
         ]
       },
       "8": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 10,
         "total_gasto": 575451.1799999999,
         "top_3_empresas": [
@@ -323,22 +329,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 378,
-    "num_contratos": 313,
-    "total_gasto": 44575649.56,
+    "num_diarios": 359,
+    "num_contratos": 330,
+    "total_gasto": "43.640.274,69",
     "top_5_empresas": {
       "MPA\n\nCONSTRUCOES E PARTICIPACOES LTDA": 2,
+      "ADRIELLY DE CASTRO SILVA\n\nOLIVEIRA": 1,
+      "AZUS COPY\n\nCENTER COMERCIO E SERVIOS LTDA": 1,
       "C R COSTA & CIA LTDA": 1,
-      "ARISBEL\n\nCORDEIRO COSTA 35677015415": 1,
-      "LUCIANO SALVIANO\n\nDE SOUZA 71178585409": 1,
-      "I2 SERVICOS\n\nSAUDE LTDA": 1
+      "ARISBEL\n\nCORDEIRO COSTA": 1
     },
     "top_5_objetos": {
+      "LOCAÇÃO DE SOFTWARE PARA ATENDER AS\n\nNECESSIDADES DO CRAS DESTE MUNICIPIO": 1,
+      "ADESÃO A ATA DE REGISTRO DE PREÇOS Nº\n\n00039/2021 – PREGÃO PRESENCIAL Nº 00039/2021 –\n\nPROCESSO ADMINISTRATIVO Nº 091/2021 – PM GURJÃO –\n\nCONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO E A\n\nREMANUFATURA DE CARTUCHOS E TONNERS": 1,
       "CONTRATAÇÃO DE PROFFISIONAL DE MUSICA\n\nPARA PRESTAÇÃO DE SERVIÇOS DE MAESTRO DA BANDA\n\nFILARMONICA DESTE MUNICIPIO": 1,
       "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO\n\nE DIGITAÇÃO PARA ATENDER AS DEMANDAS DESTA\n\nPREFEITURA": 1,
-      "LOCAÇÃO DE VEICULOS PARA TRANSPORTE DE\n\nPACIENTES DA DEMNDA DA SECRETARIA DE SAÚDE\n\nDESTE MUNICIPIO": 1,
-      "CONTRATAÇÃO DE SERVIÇOS DE MECANICA EM\n\nGERAL PARA ATENDER AS DEMANDAS DA SECRETARIA\n\nDE INFRA ESTRUTURA DESTE MUNICIPIO": 1,
-      "o CREDENCIAMENTO DE PROFISSIONAIS MÉDICOS\n\nESPECIALISTAS, PARA A PRESTAÇÃO DE CONSULTAS E\n\nEXAMES ESPECIALIZADOS DE ACORDO COM AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICIPIO\n\nDE PEDRA LAVRADA": 1
+      "LOCAÇÃO DE VEICULOS PARA TRANSPORTE DE\n\nPACIENTES DA DEMNDA DA SECRETARIA DE SAÚDE\n\nDESTE MUNICIPIO": 1
     }
   }
 }

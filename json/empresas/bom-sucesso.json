@@ -1,0 +1,322 @@
+{
+  "id": "bom-sucesso",
+  "nome": "Bom Sucesso",
+  "detalhe": {
+    "2022": {
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 15600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 25,
+        "num_contratos": 9,
+        "total_gasto": 1403623.81
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 61457.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 1326566.4300000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 2174152.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 130,
+        "num_contratos": 143,
+        "total_gasto": 19164167.779999997
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 41,
+        "total_gasto": 5296374.6899999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresas Regionais para o fornecimento\n\nparcelado de KITS DE ENXOVAL, visando atender as necessidades\nda Secretaria Municipal de Assistência Social do município de Bom\n\nSucesso/PB, conforme termo de referencia",
+            "empresa": "JOAO PAULO HENRIQUE DE ALMEIDA",
+            "valor_total": "R$ 31,700.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 25,
+        "total_gasto": 3786168.39,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na Construção Civil,\n\npara a executar Obras de complementação dos serviços finais no\n\nprédio da sede administrativa do município de Bom Sucesso/PB,\n\nconforme especificações e demais elementos técnicos constante no\n\nProjeto Básico",
+            "empresa": "RAMON C MONTEIRO LTDA",
+            "valor_total": "R$ 292,862.07"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 2988227.3600000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de especializada para prestação de serviços\n\nespecializados na de digitalização de documentos da prefeitura\n\nmunicipal de Bom Sucesso/PB, formato (A4) do exercício de 2022,\n\nconforme Termo de Referência",
+            "empresa": "HILDERLAN DE SA V\n\nDA SILVA",
+            "valor_total": "R$ 19,600.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada no desenvolvimento\n\ndo PORTAL DO MUNICIPIO DE BOM SUCESSO/PB, nos moldes\n\ndo Tribunal de Contas do Estado da Paraíba, incluindo monitoramento\n\ndiário na captura de dados em tempo real",
+            "empresa": "FRANCISCA\n\nADELIA FORMIGA BARRADO",
+            "valor_total": "R$ 14,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 1107274.12,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços objetivando contratações futuras, para\nAquisição de jogo de mesas com cadeiras plásticas, conforme Termo\nde Referência",
+            "empresa": "CASA TUDO ATACADO DE\nVESTUARIO LTDA",
+            "valor_total": "R$ 169,800.00"
+          },
+          {
+            "objeto": "Contratação de empresa para Executar Pavimentação em\nparalelepípedo de um trecho da Avenida Elpídio Pães da Silva do\nmunicípio de Bom Sucesso/PB, conforme especificações e demais\nelementos técnicos constante no Projeto Básico",
+            "empresa": "TORRES E ANDRADE CONSTRUÇÕES,\nPRÉ-MOLDADOS E SERVIÇOS LTDA",
+            "valor_total": "R$ 467,985.32"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 262650.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa física ou jurídica para prestação de\nserviços de apoio administrativo, conforme condições e exigências\nestabelecidas no termo de referência",
+            "empresa": "Alisson Batista de\nMorais",
+            "valor_total": "R$ 32,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 148260.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 76633.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 15,
+        "total_gasto": 1603477.0899999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 770015.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 302696.29,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE OBRA DE CONSTRUÇÃO DE POÇOS AMAZONAS COM 9\n\nMETROS DE PROFUNDIDADE NO SITIO BAIXAS, ZONA\n\nRURAL DE BOM SUCESSO, CONFORME PROJETO BÁSICO\n\nANEXO DO TERMO DE REFERENCIA",
+            "empresa": "ELABORE\n\nCONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 90,964.39"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAR OS SERVIÇOS DE COLETA DE RESIDUOS\n\nNA ZONA RURAL DO MUNICÍPIO DE BOM SUCESSO PB,\n\nASSIM COMO A PRENSAGEM DE RESIDUOS DA ZONA\n\nURBANA E RURAL EM LOCAL PROPRIO (SETOR DE\n\nTRIAGEM) E TRANSPORTE DE RESIDUOS PRENSADOS ATÉ\n\nO ATERRO SANITÁRIO CONTRATADO PELA PREFEITURA\n\nMUNICIPAL DE BOM SUCESSO PB",
+            "empresa": "PELA PREFEITURA\n\nMUNICIPAL DE BOM SUCESSO PB. FUNDAMENTO LEGAL:\n\nPregão Presencial nº 00016/2021. ADITAMENTO: Dar continuidade\n\na execução do",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAR OS SERVIÇOS DE COLETA DE RESIDUOS\n\nNA ZONA RURAL DO MUNICÍPIO DE BOM SUCESSO PB,\n\nASSIM COMO A PRENSAGEM DE RESIDUOS DA ZONA\n\nURBANA E RURAL EM LOCAL PROPRIO (SETOR DE\n\nTRIAGEM) E TRANSPORTE DE RESIDUOS PRENSADOS ATÉ\n\nO ATERRO SANITÁRIO CONTRATADO PELA PREFEITURA\n\nMUNICIPAL DE BOM SUCESSO PB",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Bom Sucesso e: CT Nº 00080/2021",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 648237.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 5598626.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 154,
+        "num_contratos": 151,
+        "total_gasto": 29630451.749999996
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 2768154.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 5082964.180000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇAÕ DE PESSOA FSICA PARA SERVIÇO\nDE DIGITALIZAÇÃO E ARMAZENAMENTO EM MIDIA\nDIGITAL E NUVEM COMPLETA DE TODAS AS DEPESAS,\nDOCUMENTOS E LICITAÇÕES, DO FUNDO MUNICIPAL DE\nBOM SUCESSO - PB CONTRATAÇAÕ DE PESSOA FSICA\nPARA SERVIÇO DE DIGITALIZAÇÃO E ARMAZENAMENTO\nEM MIDIA DIGITAL E NUVEM COMPLETA DE TODAS AS\nDEPESAS, DOCUMENTOS E LICITAÇÕES, DO FUNDO\nMUNICIPAL DE BOM SUCESSO - PB",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Bom Sucesso e: CT Nº 00053/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Escolha de proposta mais vantajosa para contratação por\ndispensa de licitação de empresa para serviços técnicos especializados\nno acompanhamento da gestão do sistema único de assistência social,\nSUAS e do cadastro único e programa bolsa família, junto a secretaria\nmunicipal de desenvolvimento social e humano e ação social,\nconforme condições e exigências estabelecidas no termo de\nreferência",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Bom Sucesso\ne: CT Nº 00052/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de assessoria técnica para acompanhamento\ndos sistemas e programas de saúde deste município,  prestação de\nserviços de assessoria em saúde na atenção básica e na\noperacionalização de programas e de projetos junto ao conselho\nmunicipal de saúde no que se refere ao monitoramento dos sistemas\nde informatização da saúde, tais como: EGESTOR, SAIPS, DIGISUS,\nSISMOB E FNS",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Bom Sucesso\ne: CT Nº 00050/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de assessoria e consultoria contábil\ndevidamente informatizado, os quais serão prestados a esta Prefeitura,\ncompreendendo Empenhos, Balancetes de Receitas e Despesas,\nacompanhamento dos Quadros exigidos pelas Resoluções do Tribunal\nde Contas do Estado da Paraíba, prestar assessoria técnica, e orientar\nnecessariamente ao pessoal da contabilidade para o bom\nfuncionamento dos trabalhos, conforme Termo de Referência",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Bom Sucesso\ne: CT Nº 00015/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa de notória especialização na área\njurídica, para assessoramento, consultoria e acompanhamento de\nprocessos que envolvam o município de Bom Sucesso/PB, até a sua\nfinalização junto ao TCU e TCE/PB",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Bom Sucesso e: CT Nº 00016/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 3287058.52,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESAS REGIONAIS PARA\n\nO FORNECIMENTO PARCELADO DE KITS DE ENXOVAL,\n\nVISANDO ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE\nBOM SUCESSO/PB, CONFORME TERMO DE REFERENCIA",
+            "empresa": "54.245.671 JOSE MURILO DE ALMEIDA",
+            "valor_total": "R$ 48,545.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 31,
+        "total_gasto": 1754373.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 27,
+        "total_gasto": 5690615.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para executar a construção de um\n\nReservatório de água na Creche Dona Mariquinha do município de\n\nBom Sucesso/PB, Conforme Projeto Básico e Termo de Referência",
+            "empresa": "WJE\nENGENHARIA E CONSTRUCAO LTDA",
+            "valor_total": "R$ 95,495.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 149158.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 43715.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 148781.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 2234064.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nexecutar Obra de Construção de Uma Escola de 12 (Doze) Salas de\n\nAula, com uma Área Society, na sede do município de Bom Sucesso-\n\nPB, através do Convenio nº 198/2021-SEECT/PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Bom Sucesso e: CT Nº\n\n00070/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 2303008.2100000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 569930.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de Conjunto\n\nEscolar Individual (Mesa e Cadeira), Adulto para a Secretaria\nMunicipal de Bom Sucesso/PB, conforme condições, quantidades e\n\nexigências estabelecidas neste Edital e seus anexos",
+            "empresa": "RUBENS CASTILHO NUNES DINIZ JUNIOR",
+            "valor_total": "R$ 76,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

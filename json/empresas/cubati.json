@@ -1,0 +1,460 @@
+{
+  "id": "cubati",
+  "nome": "Cubati",
+  "detalhe": {
+    "2021": {
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 93600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 74,
+        "num_contratos": 86,
+        "total_gasto": 9338163.15
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 3027109.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 2138978.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 25,
+        "total_gasto": 1520785.6700000002,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS A PREFEITURA\n\nMUNICIPAL E FUNDO DE SAÚDE MUNICIPAL ATRAVES DE\n\nBANCA DE CONTADORES COM COMPROVADA\n\nORGANIZAÇÃO, APARELHAMENTO, EQUIPE TÉCNICA COM\n\nNOTÓRIA ESPECIALIZAÇÃO EM CONTABILIDADE PÚBLICA,\n\nDESTINADO A PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E\n\nCONSULTORIA NO ACOMPANHAMENTO DA GESTÃO\n\nORÇAMENTÁRIA, FINANCEIRA E PATRIMONIAL DO\n\nMUNICIPIO E DE ASSESSORIA E CONSULTORIA COM\n\nRESPONSABILIDADE TÉCNICA INTERNA DA\n\nESCRITURAÇÃO CONTÁBIL",
+            "empresa": "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA",
+            "valor_total": "R$ 126,000.00"
+          },
+          {
+            "objeto": "EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE\n\nMELHORIAS SANITÁRIOS DOMICILIARES (MSD), PROJETO\n\nSANITÁRIO DOMICILIAR/CONVÊNIO FUNASA/MUNICIPIO\n\n(CV 0499/2017)",
+            "empresa": "BERCON ENGENHARIA EIRELI.\n\n\n\nCubatí",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 15,
+        "total_gasto": 985769.25,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE ADVOCACIA E\n\nCONSULTORIA JURIDICA DE FORMA SINGULAR E\n\nESPECIALIZADA AO TRIBUNAL DE CONTAS DO ESTADO\n\n(TCE), CONFORME TERMO DE REFERENCIA EM ANEXO",
+            "empresa": "SEVERINO MEDEIROS SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 311159.1,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE\n\nINFRA–ESTRUTURA DE EVENTOS, PARA REALIZAÇÃO DE\n\nEVENTOS DO SUPERCROSS, NO DIA 09 E 10 DE JULHO DE\n\n2022, EM PRAÇA PÚBLICA",
+            "empresa": "HERTZ -\n\nESTRUTURAS E EVENTOS EIRELI",
+            "valor_total": "R$ 51,550.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 756413.0,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nCORRETIVA E PREVENTIVA NOS EQUIPAMENTOS,\n\nODONTOLOGICOS, HOSPITALARES E NOS EQUIPAMENTOS\n\nDAS UBS, MEDIANTE REQUISIÇÃO",
+            "empresa": "GBS COMERCIO ATACADISTA DE\n\nPRODUTOS HOSPITALARES E SERVIÇOS DE MANUTENÇÃO\n\nLTDA",
+            "valor_total": "R$ 49,977.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS DE LABORATORIO\n\nDESTINADO AS UNIDADES BASICAS DE SAÚDE DO FUNDO\n\nMUNICIPAL DE SAÚDE DO MUNICIPIO DE CUBATÍ/PB,\n\nCONFORME TERMO DE REFERENCIA EM ANEXO",
+            "empresa": "B.P.D. SERVIÇOS E COMERCIO DE\n\nMATERIAL MEDICO, HOSPITALAR E LABORATORIAL LTDA",
+            "valor_total": "R$ 49,836.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 39998.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 81700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 76700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 305950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 2581027.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 101,
+        "num_contratos": 99,
+        "total_gasto": 13790922.559999999
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 2281820.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 615045.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 1812545.7899999998,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "EDVAN DE MEDEIROS SANTOS",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "DANIEL VENANCIO DA SILVA",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "JOSINALDO DANTAS",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "CLAUDENILDO\n\nFERREIRA DE OLIVEIRA",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "CT Nº\n\n00033/2023",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "JUAREZ INACIO DA\n\nSILVA",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "JOSEFA\n\nGIRLANDI COSTA DA SILVA",
+            "valor_total": "R$ 208,529.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL PARA DE FORMA COMPLEMENTAR ATENDER AO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE\n\nNO MUNICÍPIO DE CUBATÍ/PB",
+            "empresa": "CT Nº\n\n00037/2023",
+            "valor_total": "R$ 208,529.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 1551035.0399999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 952071.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 1158694.14,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Prestação de Serviço de\nTransporte Escolar da Rede Pública Municipal e Estadual, Residentes\n\nno Município de Cubatí, Conforme Planilhas Anexas, com os Roteiros\n\ne Quilometragens",
+            "empresa": "ACELINO DE ALMEIDA COSTA -\n\nR$ 119.539,20; CT Nº 00059/2023",
+            "valor_total": "R$ 458,867.20"
+          },
+          {
+            "objeto": "Contratação de Empresa para Prestação de Serviço de\nTransporte Escolar da Rede Pública Municipal e Estadual, Residentes\n\nno Município de Cubatí, Conforme Planilhas Anexas, com os Roteiros\n\ne Quilometragens",
+            "empresa": "CT Nº 00060/2023 -\n26.07.23",
+            "valor_total": "R$ 458,867.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE TABLET, PARA UTILIZAÇÃO NOS\n\nSERVIÇOS DOS AGENTES COMUNITÁRIOS DE SAÚDE E\n\nAGENTE DE COMBATE A ENDEMIAS DO MUNICÍPIO DE\nCUBATÍ/PB",
+            "empresa": "EVERTON\n\nWALLACE CORDEIRO BARBOSA",
+            "valor_total": "R$ 46,900.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada no fornecimento de\nassinatura de ferramenta de pesquisa e comparação de preços\n\npraticados pela Administração Pública, para o município de\n\nDiamante-PB, de acordo com o art",
+            "empresa": "NP TECNOLOGIA E GESTAO DE DADOS\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 129960.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 162000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 253175.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 105724.62,
+        "empresas_mensais": [
+          {
+            "objeto": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO E\n\nREFORMA DE 02 (DUAS) SALAS DE ARQUIVOS E GARAGEM,\n\nCONFORME PLANILHA ORÇAMENTARIA ANEXA: Dispensa de\n\nLicitação nº DV00001/2023",
+            "empresa": "BOMSUCESSO CONSTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 29,734.62"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 29,
+        "total_gasto": 2187822.42,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW ARTISTICOS\nDA BANDA FARRA UNIVERSITARIA, CONSAGRADA\nREGIONALMENTE, DURANTE AS FESTIVIDADES DE\nREVEILLON, NO DIA 31 DE DEZEMBRO DE 2023, EM PRAÇA\nPÚBLICA",
+            "empresa": "WP PRODUCOES SERVICOS DE\nEVENTOS E LOCACOES LTDA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 1339800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEIS DO TIPO (Gasolina e\n\nÓleo Diesel comum), DESTINADOS A FROTA MUNICIPAL E\n\nCONTRATADOS DA PREFEITURA DO MUNICÍPIO,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "S DA PREFEITURA DO MUNICÍPIO,\n\nMEDIANTE REQUISIÇÃO. FUNDAMENTO LEGAL: Pregão\n\nEletrônico nº 00001/2024. DOTAÇÃO: 02.002. GABINETE DO\n\nPREFEITO",
+            "valor_total": "R$ 1,339,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEIS DO TIPO (Gasolina e\n\nÓleo Diesel comum), DESTINADOS A FROTA MUNICIPAL E\n\nCONTRATADOS DA PREFEITURA DO MUNICÍPIO,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "B\n\nMACEDO & CIA LTDA",
+            "valor_total": "R$ 1,339,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 98,
+        "num_contratos": 112,
+        "total_gasto": 15602076.909999998
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 638863.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 3920740.6700000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 13,
+        "total_gasto": 771714.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 1711738.5399999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1541582.6400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 612625.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1809289.8800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS PARA FUTURA E\n\nEVENTUAL AQUISIÇÃO DE EQUIPAMENTOS\n\nHOSPITALARES, MÓVEIS, COMPUTADORES, IMPRESSORAS\n\nE ELETRODOMÉSTICOS, PARA ATENDER AS\n\nNECESSIDADES TODA A REDE MUNICIPAL DE SAÚDE DO\n\nMUNICIPIO DE CUBATÍ/PB, CONFORME ESPECIFICAÇÕES E\n\nQUANTITATIVOS ESTABELECIDOS NO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "PHELIPE VASCONCELOS\n\nINFORMATICA LTDA -ME",
+            "valor_total": "R$ 332,587.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 328025.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 2284286.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 643410.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -5,8 +5,8 @@
     "2023": {
       "5": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1003465.7,
         "top_3_empresas": [
           "NIVALDO FERREIRA DOS SANTOS JUNIOR",
           "FRAN INFORMATICA LTDA -",
@@ -19,21 +19,21 @@
         ]
       },
       "resumo": {
-        "num_diarios": 53,
-        "num_contratos": 2,
-        "total_gasto": 30610.0
+        "num_diarios": 52,
+        "num_contratos": 30,
+        "total_gasto": 1975551.7
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 63779.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 255550.0,
         "top_3_empresas": [
           "MED E FARMA DISTRIBUIDORA DE\nMEDICAMENTOS LTDA"
         ],
@@ -43,8 +43,8 @@
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 6000.0,
+        "num_contratos": 6,
+        "total_gasto": 449967.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -57,8 +57,8 @@
       },
       "10": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 138130.0,
         "top_3_empresas": [
           "CITO MAMA SERVIÇOS DE DIAGNOSTICO\n\nPOR IMAGEM LTDA"
         ],
@@ -68,15 +68,15 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 23500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 16550.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -84,20 +84,20 @@
     "2024": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 5,
-        "total_gasto": 1584298.3,
+        "num_contratos": 7,
+        "total_gasto": 2295074.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 103,
-        "num_contratos": 9,
-        "total_gasto": 3278387.3
+        "num_contratos": 151,
+        "total_gasto": 15482590.320000002
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 100405.0,
+        "num_contratos": 10,
+        "total_gasto": 1249006.9,
         "top_3_empresas": [
           "GEINY JOSINO DE ALMEIDA SILVA",
           "OSVALDO ABÍLIO SOARES",
@@ -111,8 +111,8 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 125000.0,
+        "num_contratos": 17,
+        "total_gasto": 3988161.9,
         "top_3_empresas": [
           "NIVALDO FERREIRA DOS SANTOS JUNIOR-\n\nME",
           "JOAQUIM NETO DE MELO-ME",
@@ -125,22 +125,22 @@
       },
       "4": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 1247534.0,
+        "num_contratos": 10,
+        "total_gasto": 2986938.37,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 221150.0,
+        "num_contratos": 45,
+        "total_gasto": 2238019.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 566933.6599999999,
         "top_3_empresas": [
           "MATEUS LEITE MAMEDE",
           "VICTOR RIAN DA COSTA VICENTE",
@@ -154,8 +154,8 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 279173.0,
         "top_3_empresas": [
           "JOÃO LUCAS CALDAS MINERVINO LTDA -"
         ],
@@ -165,32 +165,36 @@
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 395190.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 417116.32999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 254450.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
+        "num_contratos": 5,
+        "total_gasto": 812525.38,
+        "top_3_empresas": [
+          "RUDA PEREIRA BRASIL\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA"
+        ],
         "top_3_objetos": [
-          "Contratação de empresa destinada ao fornecimento\n\nparcelado de combustíveis, óleos e lubrificantes para atender todas as\n\nsecretarias e departamentos do município de São João do Rio do Peixe\n\n– PB"
+          "Contratação de empresa destinada ao fornecimento\n\nparcelado de combustíveis, óleos e lubrificantes para atender todas as\n\nsecretarias e departamentos do município de São João do Rio do Peixe\n\n– PB",
+          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE\n\nSERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA\n\nJURÍDICA, VISANDO ASSESSORAR O MUNICÍPIO NA\n\nGESTÃO, ELABORAÇÃO DE AUDITORIAS E LAUDOS\n\nTÉCNICOS PARA A RECUPERAÇÃO DE CRÉDITOS,\n\nMEDIANTE A CONFERÊNCIA DAS FATURAS DE ENERGIA\n\nELÉTRICA DA ADMINISTRAÇÃO DIRETA E INDIRETA DO\n\nMUNICÍPIO, ELABORAÇÃO DE MEMORIAL DE CÁLCULO DE\n\nCONSUMO E POTÊNCIA DO PARQUE DE ILUMINAÇÃO\n\nPÚBLICA, A APURAÇÃO DO MODELO TARIFÁRIO\n\nAPLICADO EM CADA UNIDADE CONSUMIDORA, ASSIM\n\nCOMO VERIFICAÇÃO DE POSSÍVEIS ISENÇÕES INDEVIDAS\n\nE/OU NÃO REPASSE DA CONTRIBUIÇÃO DE ILUMINAÇÃO\n\nPÚBLICA (CIP) E/OU NÃO RECOLHIMENTO DO ISS DOS\n\nPRESTADORES DE SERVIÇOS DO SETOR ELÉTRICO,\n\nVISANDO A REPETIÇÃO DE INDÉBITOS DECORRENTES DE\n\nCOBRANÇAS INDEVIDAS (A MAIOR) NAS CONTAS DE\n\nENERGIA ELÉTRICA DE TITULARIDADE DO MUNICÍPIO DE\n\nSÃO JOÃO DO RIO DO PEIXE – PB",
+          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA\n\nJURÍDICA, VISANDO ASSESSORAR O MUNICÍPIO NA\n\nGESTÃO, ELABORAÇÃO DE AUDITORIAS E LAUDOS\n\nTÉCNICOS PARA A RECUPERAÇÃO DE CRÉDITOS,\n\nMEDIANTE A CONFERÊNCIA DAS FATURAS DE ENERGIA\n\nELÉTRICA DA ADMINISTRAÇÃO DIRETA E INDIRETA DO\n\nMUNICÍPIO, ELABORAÇÃO DE MEMORIAL DE CÁLCULO DE\n\nCONSUMO E POTÊNCIA DO PARQUE DE ILUMINAÇÃO\n\nPÚBLICA, A APURAÇÃO DO MODELO TARIFÁRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 33\n\n\n\nAPLICADO EM CADA UNIDADE CONSUMIDORA, ASSIM\n\nCOMO VERIFICAÇÃO DE POSSÍVEIS ISENÇÕES INDEVIDAS\n\nE/OU NÃO REPASSE DA CONTRIBUIÇÃO DE ILUMINAÇÃO\n\nPÚBLICA (CIP) E/OU NÃO RECOLHIMENTO DO ISS DOS\n\nPRESTADORES DE SERVIÇOS DO SETOR ELÉTRICO,\n\nVISANDO A REPETIÇÃO DE INDÉBITOS DECORRENTES DE\n\nCOBRANÇAS INDEVIDAS (A MAIOR) NAS CONTAS DE\n\nENERGIA ELÉTRICA DE TITULARIDADE DO MUNICÍPIO DE\n\nSÃO JOÃO DO RIO DO PEIXE – PB"
         ]
       },
       "12": {
@@ -203,9 +207,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 156,
-    "num_contratos": 11,
-    "total_gasto": 3308997.3,
+    "num_diarios": 155,
+    "num_contratos": 181,
+    "total_gasto": "17.458.142,02",
     "top_5_empresas": {
       "NIVALDO FERREIRA DOS SANTOS JUNIOR": 1,
       "FRAN INFORMATICA LTDA -": 1,

@@ -1,0 +1,664 @@
+{
+  "id": "sao-jose-do-brejo-do-cruz",
+  "nome": "São José do Brejo do Cruz",
+  "detalhe": {
+    "2017": {
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 52,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 47,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 61,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 52,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 66,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 76,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 58,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

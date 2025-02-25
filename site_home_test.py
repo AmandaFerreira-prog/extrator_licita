@@ -18,7 +18,14 @@ geral = {
 # Função para arredondar valores para 2 casas decimais
 def arredondar_valor(valor):
     return round(valor, 2)
+
 # Dentro do loop de cada diário, onde você já coleta as informações das empresas e objetos
+def formatar_valor(valor):
+    # Formata manualmente para o padrão brasileiro (milhar com ".", decimal com ",")
+    valor_formatado = f"{valor_float:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+    return valor_formatado
+
 for path in glob.glob("../data/diarios/*-atos.json"):
     with open(path, encoding="utf-8") as json_file:
         diarios = json.load(json_file)

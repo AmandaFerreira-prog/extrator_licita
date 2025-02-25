@@ -1,0 +1,284 @@
+{
+  "id": "brejo-dos-santos",
+  "nome": "Brejo Dos Santos",
+  "detalhe": {
+    "2022": {
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 102563.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 102563.65
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1560557.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 115,
+        "num_contratos": 170,
+        "total_gasto": 11271222.970000003
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2918944.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 18,
+        "total_gasto": 408214.45,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS\n\nPERMANENTES PARA AS UNIDADES BÁSICAS DE SAÚDE\n\nDO MUNICÍPIO DE BREJO DOS SANTOS–PB, CONFORME\n\nPROPOSTA: 18000.776000/1210–02, EMENDA PARLAMENTAR\n\n71160004",
+            "empresa": "VIVA DISTRIBUIDORA DE\n\nPRODUTOS EIRELI",
+            "valor_total": "R$ 11,864.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS\n\nPERMANENTES PARA AS UNIDADES BÁSICAS DE SAÚDE\n\nDO MUNICÍPIO DE BREJO DOS SANTOS–PB, CONFORME\n\nPROPOSTA: 18000.776000/1210–02, EMENDA PARLAMENTAR\n\n71160004",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 11,864.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS\n\nPERMANENTES PARA AS UNIDADES BÁSICAS DE SAÚDE\n\nDO MUNICÍPIO DE BREJO DOS SANTOS–PB, CONFORME\n\nPROPOSTA: 18000.776000/1210–02, EMENDA PARLAMENTAR\n\n71160004",
+            "empresa": "CT Nº 00039/2023 - 24.03.23 - LICITA HB\n\nINFORMATICA LTDA",
+            "valor_total": "R$ 11,864.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 30,
+        "total_gasto": 1818829.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 251338.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 75372.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1164847.1300000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 30,
+        "total_gasto": 1038998.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 753271.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 33,
+        "total_gasto": 884326.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 127160.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 269362.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 2076286.06,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 120,
+        "num_contratos": 160,
+        "total_gasto": 13857800.82
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 18,
+        "total_gasto": 2618515.5300000003,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\nCOMPOR OS ITENS DE PREPARO DA MERENDA ESCOLAR\nDO MUNICÍPIO DE BREJO DOS SANTOS–PB, DURANTE O\nANO DE 2024",
+            "empresa": "BRILHO REAL DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 1,131,082.35"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 768622.8999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em realização de\nexames laboratoriais, visando atender as necessidades da Secretaria\nMunicipal de Saúde deste Município de Brejo dos Santos/PB",
+            "empresa": "PEDRO PAULO DE S\nPEREIRA",
+            "valor_total": "R$ 59,063.70"
+          },
+          {
+            "objeto": "Locação de imóvel para o funcionamento da Unidade Mista\nda\nsecretaria Municipal de Saúde, desde Município de Brejo dos Santos -\nPB",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Brejo dos\nSantos e: CT Nº 00149/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 30,
+        "total_gasto": 818313.95,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ITENS FRACASSADOS DO PREGÃO\n\n00028/2023 DE MATERIAIS DE LIMPEZA E HIGIENE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO DE BREJO DOS SANTOS–PB",
+            "empresa": "LINDOMAR DA SILVA\n\nDINIZ",
+            "valor_total": "R$ 85,493.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA OU PESSOA FÍSICA\n\nPARA SERVIÇOS DE CORTE DE TERRA COM TRATOR\n\nDESTINADO A SECRETARIA DE AGRICULTURA DESTE\nMUNICÍPIO DE BREJO DOS SANTOS–PB",
+            "empresa": "MARIA RITA ALVES\n\nDOS SANTOS",
+            "valor_total": "R$ 24,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE KIT BIOMÉTRICO PARA\n\nADEQUAÇÃO DO NOVO MODELO DO RG COM CENARIO\nFOTOGRAFICO DO MUNICÍPIO DE BREJO DOS SANTOS –PB",
+            "empresa": "RUBENS CASTILHO NUNES DINIZ",
+            "valor_total": "R$ 17,260.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 999726.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 2906758.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 1545529.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 958166.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 409372.25,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA O\n\nFORNECIMENTO DE MOVEIS PROJETADAS DESTINADOS A\n\nSECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE\n\nBREJO DOS SANTOS/PB",
+            "empresa": "54.389.613\n\nFRANCIRENE DA COSTA LIMA",
+            "valor_total": "R$ 16,780.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 305636.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 14044.0,
+        "empresas_mensais": [
+          {
+            "objeto": "IMPLANTAÇÃO DE PAVIMENTAÇÃO NO BAIRRO\nBABILÔNIA (ZONA URBANA) e SITIO TIMBAUBINHA (ZONA\n\nRURAL) DO MUNICÍPIO DE BREJO DOS SANTOS - PB",
+            "empresa": ". PARTES\nCONTRATANTES: Prefeitura Municipal de Brejo dos Santos e: CT\n\nNº 00006/2024 - TEMPLATE SERVICOS DE ENGENHARIA E\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE UMA ESCOLA, com área construída\n\nde 466,00m² e terreno de 1.500 m², localizado no bairro Alto do\nCruzeiro da cidade de Brejo dos Santos-PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Brejo dos Santos e: CT\nNº 00001/2023 - AP CONSTRUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Construção de Creche Tipo A com capacidade para (100\n\nalunos) localizado na Zona URBANA da cidade de Brejo dos Santos-\nPB, Programa Integra Educação Paraíba",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Brejo dos Santos e: CT Nº 00070/2022 -\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\nJANIO IDALINO DE SOUSA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 436828.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços e Assessoria, Treinamento e\n\nCapacitação de Agente de Contratação e Comissão de Contratação,\n\njunto ao Portal Nacional de Contratações Públicas (PNCP),\n\nferramenta sítio eletrônico oficial destinada divulgação centralizada e\n\nobrigatória dos atos exigidos pela Lei n° 14.133, de 2021",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Brejo dos\n\nSantos e: CT Nº 00022/2024",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA ORIENTAÇÃO,\n\nPLANEJAMENTO E ARTICULAÇÃO QUANTO A\n\nELABORAÇÃO DE ESTUDOS TÉCNICOS PRELIMINARES\n\n(ETP), PROJETOS BÁSICOS, TERMOS DE REFERÊNCIAS E\n\nJUSTIFICATIVAS PARA FINS DE VIABILIZAÇÃO DAS\n\nCONTRATAÇÕES PÚBLICAS DE INTERESSE DAS DIVERSAS\n\nSECRETARIAS DESTE MUNICÍPIO DE BREJO DOS SANTOS-\n\nPB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Brejo dos\n\nSantos e: CT Nº 00021/2024",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

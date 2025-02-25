@@ -1,0 +1,1900 @@
+{
+  "id": "picui",
+  "nome": "Picuí",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 12,
+        "total_gasto": 2696332.4200000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 191,
+        "num_contratos": 416,
+        "total_gasto": 18218315.540000003
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 43,
+        "total_gasto": 3046332.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 130,
+        "total_gasto": 1018352.7000000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 50,
+        "total_gasto": 2017623.2500000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 128,
+        "total_gasto": 1894984.6900000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE VEÍCULOS PARA ATENDER AS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nINFRAESTRUTURA, CONFORME DISPOSIÇÕES DO TERMO\nDE REFERÊNCIA",
+            "empresa": "ROBERTO CARLOS\nCAVALCANTE ME",
+            "valor_total": "R$ 341,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE VEÍCULOS PARA ATENDER AS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nINFRAESTRUTURA, CONFORME DISPOSIÇÕES DO TERMO\nDE REFERÊNCIA",
+            "empresa": "ROBERTO DE ARAÚJO LIMA",
+            "valor_total": "R$ 341,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE IMPRESSORA MULTIFUNCIONAL\nCOM SISTEMA DE ABASTECIMENTO CONTÍNUO DE TINTA\nNÃO APARENTE E SENSOR SONORO DE NIVEL DE TINTA,\nPARA SUPRIR AS NECESSIDADES DA ADMINISTRAÇÃO\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\nREFERENCIA",
+            "empresa": "BRUNA LUANA DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 3131377.8099999996,
+        "empresas_mensais": [
+          {
+            "objeto": "IMPLANTAÇÃO DE SISTEMAS COLETIVOS DE\nCAPTAÇÃO, ARMAZENAMENTO E DISTRIBUIÇÃO DE ÁGUA\nPARA O CONSUMO HUMANO, EM COMUNIDADES RURAIS\n\nDO MUNICIPIO DE PICUÍ, EM ATENDIMENTO AO TERMO DE\nCOMPROMISSO Nº 037/2013, QUE ENTRE SI CELEBRAM A\nSUDENE E O MUNICIPIO DE PICUÍ",
+            "empresa": "U. S. MATIC INDÚSTRIA E\nCOMÉRCIO DE EQUIPAMENTOS DE IRRIGAÇÃO S/A",
+            "valor_total": "R$ 389,254.69"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEL, FILTROS E\nLUBRIFICANTES, DE FORMA PARCELADA, PARA ATENDER\nAS NECESSIDADES DOS VEÍCULOS DA FROTA MUNICIPAL E\nVEÍCULOS AGREGADOS, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "MARCOS AURÉLIO DE OLIVEIRA\n- R$ 738.621,00\nCT Nº 00020/2014 - 20.03.14 - REMIR AUTO PEÇAS &\nACESSÓRIOS LTDA ME",
+            "valor_total": "R$ 937,523.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEL, FILTROS E\nLUBRIFICANTES, DE FORMA PARCELADA, PARA ATENDER\nAS NECESSIDADES DOS VEÍCULOS DA FROTA MUNICIPAL E\nVEÍCULOS AGREGADOS, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "W. M. COMERCIO DE\nCOMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 937,523.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, PARA EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE\nUMA BIBLIOTECA NO MUNICÍPIO DE PICUÍ, CONFORME\nPROJETO BÁSICO",
+            "empresa": "CONSTRUTORA E SERVIÇOS\nEXCLUSIVA LTDA",
+            "valor_total": "R$ 446,051.49"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 492209.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 59100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MARCOS AURELIO DE OLIVEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "W. M. COMERCIO DE COMBUSTÍVEIS LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MARCOS AURELIO DE OLIVEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ROSILENE DA SILVA SANTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ERIVALDO EVANGELISTA PORTO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "CLAUDIO MANOEL DANTAS DE AZEVEDO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ANTONIO ALVES DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ANTONIO ACÁCIO DE BARROS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "GRACIMÁRIA DANTAS MORAIS SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MARIA DE FÁTIMA OLIVEIRA DANTAS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MARIA DO SOCORRO RIBEIRO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "EASY LIFE EMERGÊNCIAS MÉDICAS LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MARIA DE LOURDES CUNHA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "FRANCISCO DE ASSIS BEZERRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ROBERTO CARLOS CAVALCANTE ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "ROBERTO DE ARAÚJO LIMA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA",
+            "empresa": "MAURÍCIO DOS SANTOS FERREIRA DE\nVASCONCELOS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 1150825.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 1633281.6300000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 758895.1900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 319000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 25231.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 180,
+        "num_contratos": 233,
+        "total_gasto": 2967325.610000011
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 34142.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 5530.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 24,
+        "total_gasto": 285708.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 796403.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Professor, deste município",
+            "empresa": "Maria Rejane Dantas de Medeiros",
+            "valor_total": "R$ 1,643.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 18,
+        "total_gasto": 436011.81999999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 38,
+        "total_gasto": 638005.8400000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 1580.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 311296.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 34,
+        "total_gasto": 291597.8199999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Médico no PSF\n( Programa de Saúde da Família), deste município",
+            "empresa": "Aislan Henrique Bezerra Pinheiro",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor de deste município",
+            "empresa": "Maria Rejane Dantas de Medeiros",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Odontólogo do Programa de Saúde\nda Família – PSF, deste município",
+            "empresa": "Danilo Gomes Marinho.",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor de deste município",
+            "empresa": "Josenilda dos Santos Lima",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Motorista, deste município",
+            "empresa": "Rubenilson de Araújo Medeiros",
+            "valor_total": "R$ 790.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Operador de Máquinas, deste\nmunicípio",
+            "empresa": "José Antonilzon de Azevedo Gomes",
+            "valor_total": "R$ 790.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Operador de Máquinas, deste\nmunicípio",
+            "empresa": "Cícero Araújo de Medeiros Filho.",
+            "valor_total": "R$ 790.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Técnico de Prótese Dentária deste\nMunicípio",
+            "empresa": "Andrey Araújo Lima.",
+            "valor_total": "R$ 855.98"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no SAMU, deste município",
+            "empresa": "Eduardo Augusto Guedes de Souza.",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "Prestação de Serviços de Professor, deste Município",
+            "empresa": "Izabella Katarine Medeiros Almeida.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor deste município",
+            "empresa": "Ilma Gomes de Araújo",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor na EMEF “João Belo\nAlves”, deste município, com lotação na Secretaria Municipal de\nEducação",
+            "empresa": "Nelzeni da Silva Araújo",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de Serviços de Professor, deste Município",
+            "empresa": "Izabella Katarine Medeiros Almeida.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor deste município",
+            "empresa": "Vera Lúcia Souza Silva",
+            "valor_total": "R$ 1,439.93"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor, deste município",
+            "empresa": "Paula Minelle de Medeiros Gomes",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor, deste município",
+            "empresa": "Paula Minelle de Medeiros Gomes",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de Serviços de Professor, deste município",
+            "empresa": "Antonia de Sousa Silva",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor, deste município",
+            "empresa": "Carlos Alberto Dantas Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de Serviços de Professor deste município",
+            "empresa": "Gicioneide Soares Feliciano.",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor, deste Município",
+            "empresa": "Marcia Débora Silva Araújo",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor deste município",
+            "empresa": "Ekissia Kelli Araújo dos Santos",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico Psiquiatra deste município",
+            "empresa": "Jorge Luiz de Medeiros Nóbrega.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "prestar os serviços de Médico no SAMU, deste município",
+            "empresa": "José Sidney Oliveira de Andrade.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de Serviços de Professor, deste Município",
+            "empresa": "Izabella Katarine Medeiros Almeida.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 24,
+        "total_gasto": 58842.56000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 22,
+        "total_gasto": 82974.19000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços de Odontólogo no CEO - Centro de\nEspecialidades Odontológicas deste município",
+            "empresa": "José Janduhy de Oliveira Filho",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor deste município",
+            "empresa": "Ekissia Kelli Araújo dos Santos",
+            "valor_total": "R$ 1,799.91"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 38068.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 206,
+        "num_contratos": 266,
+        "total_gasto": 11450581.219999999
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 20,
+        "total_gasto": 315770.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "AMSTERDA MARYLAND CUNHA\nDA SILVA",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "ANTONIO ALVES DA SILVA",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "ERIVALDO EVANGELISTA\nPORTO",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "JOAILSON DA COSTA SILVA",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "LEIDIJANE DOS SANTOS\nGUIMARÃES ANGELO",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE SAÚDE, PELO PERÍODO DE 12 MESES,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "SEBASTIÃO MURILO DINIZ DE\nOLIVEIRA",
+            "valor_total": "R$ 44,490.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE PROMOÇÃO E ASSISTÊNCIA SOCIAL, PELO\nPERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "JOSÉ RONALDO DA SILVA\nARAÚJO",
+            "valor_total": "R$ 6,330.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE PROMOÇÃO E ASSISTÊNCIA SOCIAL, PELO\nPERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "FRANCISCO DE ASSIS BEZERRA",
+            "valor_total": "R$ 3,910.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE EDUCAÇÃO, CULTURA E DESPORTO, PELO\nPERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "JOSÉ DANTAS DE MELO",
+            "valor_total": "R$ 32,240.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE EDUCAÇÃO, CULTURA E DESPORTO, PELO\nPERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "JOSÉ MARINALDO DE OLIVEIRA\nFILHO",
+            "valor_total": "R$ 32,240.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE EDUCAÇÃO, CULTURA E DESPORTO, PELO\nPERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "JOSIVALDO ALVES DOS SANTOS",
+            "valor_total": "R$ 32,240.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES E AJUDANTES PARA ATENDER AS\nNECESSIDADES DA SECRETARIA DE INFRAESTRUTURA,\nPELO PERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "ROBERTO CARLOS\nCAVALCANTE ME",
+            "valor_total": "R$ 128,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 213863.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 20,
+        "num_contratos": 16,
+        "total_gasto": 135935.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 54,
+        "total_gasto": 2250136.58,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nSECRETARIA MUNICIPAL DE PROMOÇÃO E ASSISTENCIA\nSOCIAL, PROGRAMAS SOCIAIS, GRUPOS DE IDOSOS, CRAS,\nCREAS, QUANDO DA REALIZAÇÃO DE EVENTOS\nMUNICIPAIS DESENVOLVIDOS NESTA SECRETARIA\nDURANTE O EXERCÍCIO DE 2016, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "BERG INDUSTRIA E COMERCIO\nDE CONFECÇÕES LTDA ME",
+            "valor_total": "R$ 6,915.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nSECRETARIA MUNICIPAL DE PROMOÇÃO E ASSISTENCIA\nSOCIAL, PROGRAMAS SOCIAIS, GRUPOS DE IDOSOS, CRAS,\nCREAS, QUANDO DA REALIZAÇÃO DE EVENTOS\nMUNICIPAIS DESENVOLVIDOS NESTA SECRETARIA\nDURANTE O EXERCÍCIO DE 2016, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "MD DISTRIBUIDORA LTDA - ME -\nR$ 453,75\nCT Nº 00054/2016 - 24.05.16 - SPORT'S MAGAZINE LTDA",
+            "valor_total": "R$ 6,915.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\nBÁSICA, MEDIANTE REQUISIÇÃO, CONFORME\nESPECIFICAÇÕES DO TERMO DE REFERENCIA",
+            "empresa": "CIRUFARMA COMERCIAL LTDA\n- R$ 319.913,80\nCT Nº 00056/2016 - 27.05.16 - NNMED DISTRIBUIÇÃO IMP\nEXPORTAÇÃO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 727,730.70"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DA FARMÁCIA\nESPECIALIZADA, DE FORMA PARCELADA, PARA A\nDISTRIBUIÇÃO COM PESSOAS CARENTES DESTE\nMUNICÍPIO, ATRAVÉS DA SECRETARIA MUNICIPAL DE\nSAÚDE, CONFORME ESPECIFICAÇÕES DO TERMO DE\nREFERENCIA",
+            "empresa": "EXPANSÃO MÉDICA LTDA",
+            "valor_total": "R$ 299,622.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DA FARMÁCIA\nESPECIALIZADA, DE FORMA PARCELADA, PARA A\nDISTRIBUIÇÃO COM PESSOAS CARENTES DESTE\nMUNICÍPIO, ATRAVÉS DA SECRETARIA MUNICIPAL DE\nSAÚDE, CONFORME ESPECIFICAÇÕES DO TERMO DE\nREFERENCIA",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP\nEXPORTAÇÃO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 299,622.60"
+          },
+          {
+            "objeto": "prestar os serviços Inspetor Escolar, na Secretaria de\nEducação, Cultura e Desporto, deste município",
+            "empresa": "Letícia Dantas dos Santos",
+            "valor_total": "R$ 880.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor deste município",
+            "empresa": "Nelzeni da Silva Araújo",
+            "valor_total": "R$ 1,799.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 2339674.6999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 41,
+        "total_gasto": 1243499.3900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 22,
+        "total_gasto": 1343675.04,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE FORMA URGENCIAL,\nDE VEÍCULO TIPO ÔNIBUS, PARA TRANSPORTAR OS\nUSUÁRIOS BENEFICIÁRIOS DO SERVIÇO DE CONVIVÊNCIA\nE FORTALECIMENTO DE VINCULO DA SECRETARIA DE\nPROMOÇÃO E ASSISTÊNCIA SOCIAL",
+            "empresa": "EUFRASIO RAMALHO DE\nOLIVEIRA",
+            "valor_total": "R$ 12,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA PARA\nEXECUTAR SERVIÇOS DE CONFECÇÃO E COSTURA DE\nUNIFORMES PARA AS FANFARRAS DAS ESCOLAS\nMUNICIPAIS DE ENSINO FUNDAMENTAL, JOÃO BELO\nALVES, TERTULIANO PEREIRA DE ARAÚJO E SEVERINO\nRAMOS DA NÓBREGA",
+            "empresa": "VALÉRIA ADNA DE OLIVEIRA\nARAÚJO",
+            "valor_total": "R$ 4,620.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÁS DE COZINHA, DE FORMA\nPARCELADA, PELO PERÍODO DE 12 MESES, PARA ATENDER\nAS NECESSIDADES DA ADMINISTRAÇÃO MUNICIPAL,\nCONFORME DISPOSIÇÕES DO TERMO DE REFERENCIA",
+            "empresa": "REVENDEDORA DE GÁS DO\nBRASIL LTDA.",
+            "valor_total": "R$ 64,075.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES E AJUDANTES PARA ATENDER AS\nNECESSIDADES DA SECRETARIA DE INFRAESTRUTURA,\nPELO PERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "ROBERTO CARLOS\nCAVALCANTE ME",
+            "valor_total": "R$ 504,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA EXECUTAR SERVIÇO DE LOCAÇÃO DE VEÍCULOS\nCOM CONDUTORES E AJUDANTES PARA ATENDER AS\nNECESSIDADES DA SECRETARIA DE INFRAESTRUTURA,\nPELO PERÍODO DE 12 MESES, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+            "empresa": "ROBERTO DE ARAÚJO LIMA",
+            "valor_total": "R$ 504,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 26,
+        "total_gasto": 1121421.38,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MOBÍLIA, ELETRODOMÉSTICOS E\nEQUIPAMENTOS ELETROELETRÔNICOS, PELO PERÍODO DE\n12 MESES, DE FORMA PARCELADA, PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE\nPICUÍ-PB, CONFORME ESPECIFICAÇÕES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "EMILLY INDUSTRIA E\nCOMERCIO DE MOVEIS LTDA",
+            "valor_total": "R$ 39,909.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 24,
+        "total_gasto": 685998.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 114464.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 1648073.18,
+        "empresas_mensais": [
+          {
+            "objeto": "PRORROGAR PRAZO DE VIGÊNCIA CONTRATUAL",
+            "empresa": "CONSTRUTORA AZEVEDO LTDA.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 35,
+        "total_gasto": 1617999.7399999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 229,
+        "num_contratos": 471,
+        "total_gasto": 19253298.17999999
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 50,
+        "total_gasto": 728174.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 52,
+        "total_gasto": 1105138.3300000005,
+        "empresas_mensais": [
+          {
+            "objeto": "PRORROGAR PRAZO DE VIGÊNCIA CONTRATUAL",
+            "empresa": "POLYEFE CONSTRUÇÕES, LIMP. E CONSERV.\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 58,
+        "total_gasto": 1763067.0899999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE EXAMES POR IMAGEM\n(MAMOGRAFIA BILATERAL) DE MÉDIA E ALTA\nCOMPLEXIDADE UTILIZANDO UNIDADE MÓVEL (TRAILER\nADAPTADO COM EQUIPAMENTO) PARA ATENDER A\nUSUÁRIOS",
+            "empresa": "JRM DIAGNOSTICOS POR\nIMAGEM LTDA",
+            "valor_total": "R$ 14,400.00"
+          },
+          {
+            "objeto": "SUBSTITUIR OS VEÍCULOS CONTRATADOS PARA\nVW / 17.210 MOTOR CUMMINS 2004 / 2004, de placa\nLTA0268/PB e VW / 15.190 WORKER 2015/ 2015, de placa\nQFJ9986/PB",
+            "empresa": "ROBERTO CARLOS CAVALCANTE ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico Psiquiatra deste município",
+            "empresa": "Jorge Luiz de Medeiros Nóbrega",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no PSF( Programa de Saúde\nda Família), deste município",
+            "empresa": "Huggo Luan Barros Medeiros",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no PSF( Programa de Saúde\nda Família), deste município",
+            "empresa": "Antonio Henriques de Freitas",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "prestação de serviços de Professor na EMEF",
+            "empresa": "Rossana Vieira Macaúbas",
+            "valor_total": "R$ 2,004.38"
+          },
+          {
+            "objeto": "Prestação de serviços de Enfermeira no SAMU, deste\nmunicípio",
+            "empresa": "Joseane Xavier de Almeida",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE CONFECÇÕES DE\nPRÓTESES DENTÁRIAS TOTAIS E PARCIAIS, SUPERIORES\nE INFERIORES - (PRÓTESE TOTAL MANDICULAR /\nTOTAL MAXILAR / PARCIAL MANDICULAR REMOVIVEL\nE/OU PRÓTESES CORONÁRIAS / INTRARRADICULARES FIXAS / ADESIVAS (POR ELEMENTO)",
+            "empresa": "CARLA REGINA DE ALMEIDA FREIRA",
+            "valor_total": "R$ 237,600.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\nODONTOLOGICO E INSUMOS PARA ATENDER AS UBS,\nCEO, E DEMAIS SETORES A CARGO DA SECRETARIA\nMUNICIPAL DE SAÚDE DO MUNICIPIO DE POMBAL",
+            "empresa": "LAISE DE LIMA E SILVA",
+            "valor_total": "R$ 351,392.76"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\nODONTOLOGICO E INSUMOS PARA ATENDER AS UBS,\nCEO, E DEMAIS SETORES A CARGO DA SECRETARIA\nMUNICIPAL DE SAÚDE DO MUNICIPIO DE POMBAL",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\nMEDICO HOSPITALARES LTDA ME",
+            "valor_total": "R$ 351,392.76"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 21,
+        "num_contratos": 64,
+        "total_gasto": 1828515.5199999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Médica Ginecologista deste\nmunicípio",
+            "empresa": "Maria Verônica Carvalho de Andrade.",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médica Dermatologista, deste\nmunicípio",
+            "empresa": "Helânia Pereira Fagundes de Azevedo.",
+            "valor_total": "R$ 6,500.00"
+          },
+          {
+            "objeto": "prestação de serviços de Professor na EMEF",
+            "empresa": "Edileuda Maria de Lima",
+            "valor_total": "R$ 1,726.01"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 21,
+        "num_contratos": 32,
+        "total_gasto": 2060880.1599999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 61,
+        "total_gasto": 1891794.6399999997,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE AVIAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
+            "empresa": "NELHA NEIDE DE OLIVEIRA\nRODRIGUES",
+            "valor_total": "R$ 47,368.70"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS VISANDO\nEVENTUAL CONTRATAÇÃO DE VEÍCULO COM CONDUTOR\nDESTINADO AO APOIO DAS ESCOLAS REGULARES, SALAS\nDE RECURSO E MULTIFUNCIONAIS, BEM COMO NO APOIO\nAOS SERVIÇOS E AÇÕES DA EDUCAÇÃO DO MUNICÍPIO\nPOR UM PERÍODO DE 12 MESES, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "JOSÉ GILVAN OLIVEIRA DA\nSILVA",
+            "valor_total": "R$ 34,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 23,
+        "num_contratos": 50,
+        "total_gasto": 3575944.589999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Motorista deste município, tendo em\n\nvista o Plano emergencial de Combate a Seca, neste município, de\n\nacordo com o Decreto Estadual nº 36.951 de 05/10/2016",
+            "empresa": "José Erivanildo Souza dos Santos",
+            "valor_total": "R$ 937.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor de 6º ao 9º ano a\n\ndisciplina de Ciências na EMEF “Ana Maria Gomes”, deste\n\nMunicípio Em substituição a titular Vitória Karla Silva Araújo, que\n\nencontra-se na função de Administradora Escolar Adjunta da referida\n\nescola",
+            "empresa": "Izabella Katarine Medeiros Almeida.",
+            "valor_total": "R$ 2,157.51"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 24,
+        "total_gasto": 1978966.2700000003,
+        "empresas_mensais": [
+          {
+            "objeto": "PRORROGAR PRAZO DE VIGÊNCIA E ADITAR",
+            "empresa": "ROBERTO CARLOS CAVALCANTE ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 31,
+        "total_gasto": 2040036.6199999992,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 640922.35,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO VISANDO A\nAQUISIÇÃO DE MATERIAL GRÁFICO, DE FORMA\nPARCELADA, DESTINADA A MANUTENÇÃO DAS\nATIVIDADES ADMINISTRATIVAS DO MUNICIPIO,\nCONFORME DISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "NOADYA DA SILVA ARAUJO",
+            "valor_total": "R$ 23,765.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO VISANDO A\nAQUISIÇÃO DE MATERIAL GRÁFICO, DE FORMA\nPARCELADA, DESTINADA A MANUTENÇÃO DAS\nATIVIDADES ADMINISTRATIVAS DO MUNICIPIO,\nCONFORME DISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "SPORT'S MAGAZINE LTDA",
+            "valor_total": "R$ 23,765.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO VISANDO A\nAQUISIÇÃO DE MATERIAL GRÁFICO, DE FORMA\nPARCELADA, DESTINADA A MANUTENÇÃO DAS\nATIVIDADES ADMINISTRATIVAS DO MUNICIPIO,\nCONFORME DISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "CT Nº 00262/2017",
+            "valor_total": "R$ 23,765.00"
+          },
+          {
+            "objeto": "SUBSTITUIR O VEÍCULO CONTRATADO PARA\nONIBUS M.BENZ BUSSCAR URBANUSS - Placa: KKV6813/PB\nE ALTERAR O MOTORISTA CONDUTOR PARA\nDINAMÉRICO FERNANDES DA SILVA NETO, CNH\n05311939705",
+            "empresa": "DINAMERICO FERNANDES DA SILVA NETO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "SUBSTITUIR O VEÍCULO CONTRATADO PARA\nONIBUS M.BENZ BUSSCAR URBANUSS - Placa: KKV6813/PB\nE ALTERAR O MOTORISTA CONDUTOR PARA\nDINAMÉRICO FERNANDES DA SILVA NETO, CNH\n05311939705",
+            "empresa": "PARA\nONIBUS M.BENZ BUSSCAR URBANUSS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "ALTERAR O VEÍCULO CONTRATADO PARA\nCARGA / CAMINHÃO / TANQUE / M",
+            "empresa": "ALEX MARCIO DANTAS BEZERRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 2,
+        "total_gasto": 21858.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 21,
+        "num_contratos": 52,
+        "total_gasto": 6373703.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 227,
+        "num_contratos": 376,
+        "total_gasto": 21586107.769999996
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 83,
+        "total_gasto": 4328142.95,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE LEITES E FÓRMULAS ESPECIAIS,\nDE FORMA PARCELADA, PARA DISTRIBUIÇÃO COM\nPESSOAS CARENTES DO MUNICÍPIO, CONFORME\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "TECNOCENTER MATERIAIS\nMEDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 34,725.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE LEITES E FÓRMULAS ESPECIAIS,\nDE FORMA PARCELADA, PARA DISTRIBUIÇÃO COM\nPESSOAS CARENTES DO MUNICÍPIO, CONFORME\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "WT DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 34,725.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 55,
+        "total_gasto": 2493511.2399999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 365789.88999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO DE CONSERTO E REFORMA DE MESAS\nESCOLARES DA REDE MUNICIPAL DE ENSINO",
+            "empresa": "WALBER CARLOS VIANA DE\nOLIVEIRA",
+            "valor_total": "R$ 7,680.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 23,
+        "total_gasto": 716447.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 20,
+        "num_contratos": 18,
+        "total_gasto": 1599332.3699999999,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS OBJETIVANDO\nÀ AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "IRENE MACEDO BARROS",
+            "valor_total": "R$ 1,078,745.45"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS OBJETIVANDO\nÀ AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "CT Nº\n00199/2018",
+            "valor_total": "R$ 1,078,745.45"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS OBJETIVANDO\nÀ AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "SUSY SAYONARA\nDE LIMA DANTAS",
+            "valor_total": "R$ 1,078,745.45"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS\nOBJETIVAMENDO A AQUISIÇÃO DE MATERIAL DE HIGIENE\nE LIMPEZA, DE FORMA PARCELADA, PARA ATENDER AS\nNECESSIDADES DA ADMINISTRAÇÃO MUNICIPAL,\nCONFORME DISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "ROSILDO DE LIMA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 33,
+        "total_gasto": 1249547.9500000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 22,
+        "num_contratos": 16,
+        "total_gasto": 1959022.6500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 21,
+        "total_gasto": 554225.1799999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 25,
+        "total_gasto": 1669835.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 18,
+        "total_gasto": 56187.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 220361.81999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 33,
+        "total_gasto": 2365656.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 233,
+        "num_contratos": 472,
+        "total_gasto": 19797168.359999985
+      },
+      "2": {
+        "num_diarios": 21,
+        "num_contratos": 69,
+        "total_gasto": 2989833.6799999997,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO VISANDO\nFUTURA E EVENTUAL CONTRATAÇÃO DE MÃO DE OBRA\nVISANDO O FUNCIONAMENTO DO CENTRO MUNICIPAL DE\nCOMPOSTAGEM - FÁBRICA DE SOLOS DE PICUÍ-PB,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "ALLYSSON TERCIO DE MACEDO\nARAUJO",
+            "valor_total": "R$ 35,000.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE TECIDOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
+            "empresa": "COMERCIO DE TECIDOS O RETALHAO EIRELI",
+            "valor_total": "R$ 93,330.48"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE TECIDOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
+            "empresa": "LAEDSON VIEIRA SOARES",
+            "valor_total": "R$ 93,330.48"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE AVIAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
+            "empresa": "LAEDSON VIEIRA SOARES",
+            "valor_total": "R$ 14,030.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 958748.5599999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA\n\nTÉCNICA PERMANENTE MODALIDADE PRODUTO PARA\n\nGESTÃO SUS - SISTEMA ÚNICO DE SAÚDE",
+            "empresa": "ITYHY CONSULTORIA LTDA",
+            "valor_total": "R$ 31,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 20,
+        "num_contratos": 71,
+        "total_gasto": 4964223.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 21,
+        "total_gasto": 2019089.12,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL PARA EXECUÇÃO DE OBRA DE PAVIMENTAÇÃO DE\nVIAS EM PICUÍ, ATRAVÉS DO PROGRAMA PLANEJAMENTO\nURBANO / APOIO A POLÍTICA NACIONAL DE\nDESENVOLVIMENTO URBANO - CONTRATO Nº 1041182-90 -\nMINISTÉRIO DAS CIDADES, conforme as condições estatuídas no\nProjeto Básico (Anexo I deste Edital)",
+            "empresa": "SENA\nCONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 219,344.08"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 16,
+        "total_gasto": 578200.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 23,
+        "total_gasto": 1386779.1500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 21,
+        "num_contratos": 25,
+        "total_gasto": 1207198.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 42,
+        "total_gasto": 721431.6799999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CARROS PIPA PARA\n\nATENDIMENTO EMERGENCIAL DA DEMANDA DE\n\nFORNECIMENTO D’ÁGUA DAS LOCALIDADES QUE FAZEM\n\nPARTE DA ÁREA DENMINADA CAATINGA II(DOIS) DO\n\nMUNICÍPIO, ATINGIDA PELA ESTIAGEM, ATINGIDA PELA\n\nESTIAGEM, CONFORME DECRETO ESTADUAL Nº 39.080, DE\n\n01/04/2019 E PORTARIA Nº 1.133 DE 03/05/2019 DA\n\nSECRETARIA NACIONAL DE PROTEÇÃO E DEFESA CIVIL",
+            "empresa": "JOSÉ LIMA\n\nDA SILVA",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 21,
+        "num_contratos": 47,
+        "total_gasto": 1358085.6000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 20,
+        "num_contratos": 50,
+        "total_gasto": 984240.51,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ÓCULOS POPULARES, MEDIANTE\n\nREQUISIÇÃO, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "ALMEIDA\n\nBEZERRA & CIA LTDA",
+            "valor_total": "R$ 161,250.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ÓCULOS POPULARES, MEDIANTE\n\nREQUISIÇÃO, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "CT Nº 00227/2019 -\n\n21.11.19 - CREATIVE OPHTALMICA LTDA ME",
+            "valor_total": "R$ 161,250.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 58,
+        "total_gasto": 263681.22000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 20,
+        "total_gasto": 4283097.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 225,
+        "num_contratos": 174,
+        "total_gasto": 15058420.070000002
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 38,
+        "total_gasto": 2104918.08,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA FUTURA E EVENTUAL PRESTAÇÃO DE SERVIÇO DE\nLOCAÇÃO DE INFRAESTRUTURA DE EVENTOS PARA\nATENDER AS DEMANDAS DO MUNICÍPIO, CONFORME\nESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "MATHEUS\nALMEIDA DE OLIVEIRA",
+            "valor_total": "R$ 321,760.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÁS DE COZINHA, DE FORMA\nPARCELADA, PARA MANUTENÇÃO DAS ATIVIDADES DA\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "REVENDEDORA DE GÁS DO BRASIL\nLTDA.",
+            "valor_total": "R$ 92,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 20,
+        "total_gasto": 2435471.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 1955455.4800000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\n\nCIVIL, PARA EXECUÇÃO DE OBRA DE PAVIMENTAÇÃO EM\n\nPEDRA GRANÍTICA (PARALELEPÍPEDO E MEIO FIO) DO\n\nLOTE 07 DE VIAS PÚBLICAS DA CIDADE DE PICUÍ-PB,\n\nCONFORME PROJETO BÁSICO",
+            "empresa": "CAMPO FELIZ\n\nCONSTRUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 71,309.22"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 14,
+        "total_gasto": 989613.1799999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DE FORMA PARCELADA, PARA DISTRIBUIÇÃO\n\nCOM PESSOAS CARENTES DO MUNICÍPIO, CONFORME\n\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA",
+            "empresa": "DROGAFONTE LTDA. Valor:\n\n20.294,00",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 15,
+        "total_gasto": 471594.26000000007,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 13,
+        "total_gasto": 590209.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 3,
+        "total_gasto": 136105.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 4,
+        "total_gasto": 599517.6699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 8,
+        "total_gasto": 280175.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 838915.0199999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 20,
+        "num_contratos": 4,
+        "total_gasto": 373347.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 8,
+        "total_gasto": 794603.1900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 231,
+        "num_contratos": 264,
+        "total_gasto": 19555054.790000014
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 422220.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 23,
+        "total_gasto": 838624.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 33,
+        "total_gasto": 3212523.2899999996,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS VISANDO\n\nFUTURO E EVENTUAL FORNECIMENTO DE REFEIÇÕES\n\nPRONTAS (PADRÃO SELV SERVICE), NA SEDE DO\n\nMUNICÍPIO E NOS DISTRITOS DE SERRA DOS BRANDÕES E\n\nSANTAS LUZIA, PARA SUPRIR AS NECESSIDADES DA\n\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\n\nDO TERMO DE REFERÊNCIA",
+            "empresa": "CARLOS JOMAR DE OLIVEIRA CJO",
+            "valor_total": "R$ 228,600.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS VISANDO\n\nFUTURO E EVENTUAL FORNECIMENTO DE REFEIÇÕES\n\nPRONTAS (PADRÃO SELV SERVICE), NA SEDE DO\n\nMUNICÍPIO E NOS DISTRITOS DE SERRA DOS BRANDÕES E\n\nSANTAS LUZIA, PARA SUPRIR AS NECESSIDADES DA\n\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\n\nDO TERMO DE REFERÊNCIA",
+            "empresa": "JARLIA DE MACEDO MEDEIROS",
+            "valor_total": "R$ 228,600.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS VISANDO\n\nFUTURO E EVENTUAL FORNECIMENTO DE REFEIÇÕES\n\nPRONTAS (PADRÃO SELV SERVICE), NA SEDE DO\n\nMUNICÍPIO E NOS DISTRITOS DE SERRA DOS BRANDÕES E\n\nSANTAS LUZIA, PARA SUPRIR AS NECESSIDADES DA\n\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\n\nDO TERMO DE REFERÊNCIA",
+            "empresa": "CT Nº 00069/2021",
+            "valor_total": "R$ 228,600.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE REAGENTES DE LABORATÓRIO\n\nPARA SUPRIR AS NECESSIDADES DA LABORATÓRIO\n\nMUNICIPAL \"SEVERINO LUIZ FERNANDES",
+            "empresa": "B.P.D SERVICOS E COMERCIO DE\n\nMATERIAL MEDICO, HOSPITALAR E LABORATORIAL LTDA",
+            "valor_total": "R$ 7,363.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 11,
+        "total_gasto": 798751.9400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 14,
+        "total_gasto": 4015040.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 22,
+        "total_gasto": 397420.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 40,
+        "total_gasto": 3139612.09,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE KITs DE ENXOVAL DE BEBÊ DE\nFORMA PARCELADA, DESTINADA À CONCESSÃO DE\nBENEFÍCIOS EVENTUAIS",
+            "empresa": "CARLUCIA ELIZABETE DA SILVA",
+            "valor_total": "R$ 37,837.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 41,
+        "total_gasto": 2103872.8600000003,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE QUATRO CARROS PIPA, PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nRURAL E URBANA DO MUNICÍPIO, DESTINANDO–SE AO\n\nFORNECIMENTO DE ÁGUA NOS CHAFARIZES\n\nCOMUNITÁRIOS E CISTERNAS RURAIS",
+            "empresa": "ALEX SANTOS SOARES",
+            "valor_total": "R$ 86,850.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE QUATRO CARROS PIPA, PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nRURAL E URBANA DO MUNICÍPIO, DESTINANDO–SE AO\n\nFORNECIMENTO DE ÁGUA NOS CHAFARIZES\n\nCOMUNITÁRIOS E CISTERNAS RURAIS",
+            "empresa": "CT Nº\n\n00208/2021",
+            "valor_total": "R$ 86,850.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE QUATRO CARROS PIPA, PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nRURAL E URBANA DO MUNICÍPIO, DESTINANDO–SE AO\n\nFORNECIMENTO DE ÁGUA NOS CHAFARIZES\n\nCOMUNITÁRIOS E CISTERNAS RURAIS",
+            "empresa": "CT Nº 00209/2021",
+            "valor_total": "R$ 86,850.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE QUATRO CARROS PIPA, PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nRURAL E URBANA DO MUNICÍPIO, DESTINANDO–SE AO\n\nFORNECIMENTO DE ÁGUA NOS CHAFARIZES\n\nCOMUNITÁRIOS E CISTERNAS RURAIS",
+            "empresa": "CT\n\nNº 00210/2021",
+            "valor_total": "R$ 86,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 30,
+        "total_gasto": 820311.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 17,
+        "total_gasto": 1514872.11,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO OBJETIVANDO\n\nA AQUISIÇÃO DE 250 (DUZENTOS E CINQUENTA)\n\nNOTEBOOKS PARA OS PROFISSIONAIS DA EDUCAÇÃO DA\n\nREDE MUNICIPAL DE ENSINO E OS TRABALHADORES EM\n\nEDUCAÇÃO QUE, NELA ESTÃO EM EFETIVO EXERCÍCIO, DE\n\nMODO A ATENDER AOS OBJETIVOS DOS DIFERENTES\n\nNÍVEIS E MODALIDADES DE ENSINO (EDUCAÇÃO\n\nINFANTIL, ENSINO FUNDAMENTAL, EJA E AEE)",
+            "empresa": "NILDO FREITAS DANTAS",
+            "valor_total": "R$ 874,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 21,
+        "num_contratos": 17,
+        "total_gasto": 1497202.1800000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 25,
+        "total_gasto": 3008265.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 231,
+        "num_contratos": 365,
+        "total_gasto": 29008444.130000036
+      },
+      "2": {
+        "num_diarios": 20,
+        "num_contratos": 47,
+        "total_gasto": 5556686.61,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "BOREAL SUL\n\nCOMERCIAL LTDA",
+            "valor_total": "R$ 690,496.88"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "DANTAS REPRESENTACOES COMERCIO DE PECAS E\n\nSERVICOS EIRELI",
+            "valor_total": "R$ 690,496.88"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "J A L SILVA COMERCIO VAREJISTA DE PNEUMATICOS\n\nEIRELI",
+            "valor_total": "R$ 690,496.88"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "CT Nº 00068/2022 -\n\nCARNEIRO DO NASCIMENTO COMERCIO DE PECAS PARA\n\nVEICULOS AUTOMOTORES LTDA",
+            "valor_total": "R$ 690,496.88"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "AC CENTRO AUTOMOTIVO LTDA",
+            "valor_total": "R$ 690,496.88"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE PNEUS, CÂMARAS DE AR,\n\nPROTETORES E VÁLVULAS, DE FORMA PARCELADA, PARA\n\nATENDER AS NECESSIDADES DOS VEÍCULOS DA FROTA\n\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "NORCOL NORDESTE\n\nCOMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 690,496.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1838889.4599999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 45,
+        "total_gasto": 3566285.139999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 21,
+        "num_contratos": 31,
+        "total_gasto": 3614548.0399999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de estrutura completa de palco para as\n\nfestividades alusivas ao tradicional São Pedro de Poço Dantas–PB,\n\nque ocorrerá no dia 29 de Junho de 2022",
+            "empresa": "B C M -\n\nPRODUÇÕES ARTISTICAS LTDA",
+            "valor_total": "R$ 17,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 16,
+        "total_gasto": 545880.3899999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 57,
+        "total_gasto": 2323027.88,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nTABLETS DESTINADO AOS AGENTES COMUNITÁRIOS DE\n\nSAÚDE DO MUNICÍPIO DE PICUÍ–PB",
+            "empresa": "ITYHY CONSULTORIA\n\nLTDA",
+            "valor_total": "R$ 24,003.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 22,
+        "num_contratos": 41,
+        "total_gasto": 2942431.9499999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 21,
+        "num_contratos": 34,
+        "total_gasto": 2054363.2000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE REVITALIZAÇÃO DE PLACAS\n\nDE INDICAÇÃO DE DESTINOS, IDENTIFICAÇÃO DE RUAS,\n\nSINALIZAÇÃO DE TRÂNSITO E MANUTENÇÃO DOS POSTES\n\nE CHAPAS DAS PLACAS",
+            "empresa": "RAEDER\n\nWELLINGTON AZEVEDO",
+            "valor_total": "R$ 14,352.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 23,
+        "total_gasto": 1483472.7400000005,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Médico no SAMU, deste município",
+            "empresa": "Eriegly de Sousa Santos",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": "Prestação de serviços de Técnica de Enfermagem ESF,\n\nEstratégia de Saúde da Familia, na Equipe 05, sediada na Unidade\n\nBásica de Saúde no Centro de Saúde, localizada na Rua São Sebastião\n\nnº 10, centro, com lotação na Secretaria Municipal de Saúde deste\n\nmunicípio",
+            "empresa": "Maria de Fátima Reis da Silva.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Técnica de Enfermagem SMS no\n\nCentro Municipal de Especialidades, com lotação na Secretaria\n\nMunicipal de Saúde, deste município",
+            "empresa": "Francimária Oliveira Ferreira.",
+            "valor_total": "R$ 1,286.21"
+          },
+          {
+            "objeto": "Prestação de serviços de Farmacêutico, na Farmácia Central,\n\ncom lotação na Secretaria Municipal\n\nde Saúde, deste município",
+            "empresa": "Cíntia Letícia de Araújo.",
+            "valor_total": "R$ 1.00"
+          },
+          {
+            "objeto": ": Prestação de serviços de Enfermeira SMS no CAPS -\n\nCentro de Atenção Psicossocial, com lotação na Secretaria Municipal\n\nde Saúde, deste município",
+            "empresa": "Valeska Silva Souza santos",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": ": Prestação de serviços de Enfermeira SMS no CAPS -\n\nCentro de Atenção Psicossocial, com lotação na Secretaria Municipal\n\nde Saúde, deste município",
+            "empresa": "(A) fora do município, a serviço\n\nda CONTRATANTE, por mais de 24 (vinte e quatro) horas e que\n\ndiste, no mínimo, 100 (cem) quilômetros; salário-família.\n\nVigência: 29/09/2022 a 31/12/2022",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": "Prestação de serviços de Técnica de Enfermagem SMS na\n\nSecretaria Municipal de Saúde, com lotação na Secretaria Municipal\n\nde Saúde, deste município",
+            "empresa": "Laís Henriques Medeiros.",
+            "valor_total": "R$ 1,286.21"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico da Estratégia de Saúde da\n\nFamília-ESF, nos termos da Portaria do Ministério da Saúde nº 157,\n\nde 19/02/1998, Equipe 03, unidade sediada no Posto de Saúde ―José\n\nElisio da Costa‖, localizado no Sítio Lagedo Grande, deste município,\n\ncom lotação na Secretaria Municipal de Saúde, caracterizado como de\n\nexcepcional interesse público, segundo o art",
+            "empresa": "Girlanne de Oliveira Dantas",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico Ginecologista no Centro de\n\nEspecialidades, com lotação na Secretaria Municipal de Saúde, deste\n\nmunicípio, Em substituição a titular Maria de Fátima Gomes, que\n\npediu exoneração",
+            "empresa": "Mõnica de Paula Farias Andriola.",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico na Estratégia de Saúde da\n\nFamília-ESF, na equipe 01, unidade sediada no posto de saúde ―\n\nJudite Araujo de Oliveira‖, localizado no Distrito de Santa Luzia,\n\ndeste município",
+            "empresa": "Bartira Bezerra Fonseca.",
+            "valor_total": "R$ 1,809.60"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico na Estratégia de Saúde da\n\nFamília-ESF, na equipe 06, unidade sediada no posto de saúde ―\n\nVicência Ferreira Dantas‖ Araujo‖, localizado no Sítio Urubú, zona\n\nrural deste município",
+            "empresa": "Júlia Tavares de Medeiros.",
+            "valor_total": "R$ 1,809.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 19,
+        "total_gasto": 1620307.24,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\n\nCIVIL, PARA EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE\n\nCRECHE PADRÃO TIPO B NESTE MUNICIPIO",
+            "empresa": "BSR CONSTRUTORA E\n\nLOCADORA DE VEICULOS EIRELI",
+            "valor_total": "R$ 720,190.03"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ELABORAÇÃO DE DIAGNÓSTICO TÉCNICO, DE\n\nENGENHARIA E DE MEIO AMBIENTE, REFERENTE AO\n\nPLANO DE RECUPERAÇÃO OU RECOMPOSIÇÃO DE ÁREA\n\nDEGRADADA – PRAD",
+            "empresa": "GAIA ANALISE E CONSULTORIA EM\n\nMEIO AMBIENTE LTDA",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 21,
+        "num_contratos": 7,
+        "total_gasto": 454285.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 34,
+        "total_gasto": 2367811.5500000003,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURIDICA PARA\nEXECUTAR SERVIÇO DE LOCAÇÃO DE CAMINHÃO PIPA\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nAGRICULTURA, CONFORME DISPOSIÇÕES DO TERMO DE\nREFERÊNCIA",
+            "empresa": "VINICIUS\nPABLO VASCONCELOS SILVA EIRELI",
+            "valor_total": "R$ 32,970.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\nFORNECIMENTO DE ASSINATURA DE FERRAMENTA DE\nPESQUISA E COMPARAÇÃO DE PREÇOS PRATICADOS PELA\nADMINISTRAÇÃO PÚBLICA",
+            "empresa": "NP CAPACITAÇÃO E\nSOLUÇÕES TECNOLOGICAS LTDA",
+            "valor_total": "R$ 17,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 231,
+        "num_contratos": 358,
+        "total_gasto": 23005504.57999995
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 57,
+        "total_gasto": 5341903.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 22,
+        "num_contratos": 38,
+        "total_gasto": 5670638.419999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 57,
+        "total_gasto": 2012147.8499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 18,
+        "total_gasto": 4761820.880000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 11,
+        "total_gasto": 433090.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 26,
+        "total_gasto": 1738474.2099999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 22,
+        "num_contratos": 39,
+        "total_gasto": 125135.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 5,
+        "total_gasto": 29181.28,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Professor de Educação Infantil, na\nCreche Professora “Maria Edite de Medeiros Dantas”, zona urbana,\ndeste município",
+            "empresa": "Maria de Jesus de Azevedo Medeiros.",
+            "valor_total": "R$ 3,882.82"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor Polivalente, na Emef",
+            "empresa": "Sueli da Silva Nóbrega.",
+            "valor_total": "R$ 3,882.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 39,
+        "total_gasto": 79262.41000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 19,
+        "num_contratos": 31,
+        "total_gasto": 167150.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 20,
+        "num_contratos": 3,
+        "total_gasto": 278888.01999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 22,
+        "num_contratos": 27,
+        "total_gasto": 911777.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional especializado na prestação de\n\nserviços em defesa dos interesses da Camara Municipal de Picuí\n\nperante o Tribunal de Contas do Estado da Paraíba",
+            "empresa": "FARIAS & VASCONCELOS\n\nADVOGADOS ASSOCIADOS",
+            "valor_total": "R$ 55,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E\n\nCONSULTORIA EM LICITAÇÕES E CONTRATOS\n\nADMINISTRATIVOS PARA ATENDER DEMANDAS DA\n\nCAMARA MUNICIPAL DE PICUI PB",
+            "empresa": "FINANCE CONTABILIDADE\n\nLTDA",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS NA ÁREA DE CONTABILIDADE PÚBLICA,\n\nPLANEJAMENTO E GESTÃO FISCAL PARA ATENDER AS\n\nNECESSIDADES DA CAMARA MUNICIPAL DE PICUÍ",
+            "empresa": ".\n\nPARTES CONTRATANTES: Câmara Municipal de Picuí e: CT Nº\n\n00003/2023 JR Contabilidade Pública ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 235,
+        "num_contratos": 119,
+        "total_gasto": 3470983.909999995
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 1614568.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 35,
+        "total_gasto": 102042.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 21,
+        "num_contratos": 8,
+        "total_gasto": 65192.39,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Médico na Estratégia de Saúde da\n\nFamília-ESF, na equipe 09, unidade sediada na Unidade Básica de\n\nSaúde ―Maria José Dantas‖ localizada no Bairro JK, zona urbana,\ndeste município",
+            "empresa": "Elaine Ramalho de Lima Alexandria.",
+            "valor_total": "R$ 4,158.96"
+          },
+          {
+            "objeto": "Prestação de serviços de Técnico de Enfermagem ESF,\n\nEstratégia de Saúde da Familia, na Equipe 07, Unidade sediada, na\n\nUbs",
+            "empresa": "José Rodrigo dos Santos Silva.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 42",
+            "valor_total": "R$ 1,478.03"
+          },
+          {
+            "objeto": "Prestação de serviços de Odontólogo na Estratégia de Saúde\n\nda Família-ESF",
+            "empresa": "Ashley Hennaly Silva Dantas.",
+            "valor_total": "R$ 4,158.96"
+          },
+          {
+            "objeto": "Prestação de serviços de Enfermeira na ESF (Estratégia de\n\nSaúde da Família), equipe 02, unidade sediada no posto de saúde\n\n―Severina Farias Dantas‖, localizada no Bairro Limeira, zona urbana,\ncom lotação na Secretaria Municipal de Saúde, deste município",
+            "empresa": "Andressa Séfora Queiroga de Sousa",
+            "valor_total": "R$ 4,158.96"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no SAMU, deste município",
+            "empresa": "Francisco Evandro Nogueira de Carvalho.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no SAMU, deste município",
+            "empresa": "Eriegly de Sousa Santos.",
+            "valor_total": "R$ 2,079.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no SAMU, deste município",
+            "empresa": "Rui Araújo Júnior.",
+            "valor_total": "R$ 2,079.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico Ginecologista no Centro de\nEspecialidades, com lotação na Secretaria Municipal de Saúde, deste\n\nmunicípio, Em substituição a titular Maria de Fátima Gomes, que\n\npediu exoneração",
+            "empresa": "Mônica de Paula Farias Andriola.",
+            "valor_total": "R$ 2,079.48"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor Polivalente na Emef",
+            "empresa": "Ekissia Kelly Araújo dos Santos.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 21,
+        "num_contratos": 10,
+        "total_gasto": 22210.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 6,
+        "total_gasto": 10070.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 614291.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 2,
+        "total_gasto": 88396.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 21,
+        "num_contratos": 1,
+        "total_gasto": 6607.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 21,
+        "num_contratos": 1,
+        "total_gasto": 5954.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 4038.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 21,
+        "num_contratos": 4,
+        "total_gasto": 25835.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

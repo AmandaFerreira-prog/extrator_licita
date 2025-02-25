@@ -1,0 +1,34 @@
+{
+  "id": "salgado-de-sao-felix",
+  "nome": "Salgado de São Felix",
+  "detalhe": {
+    "2024": {
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

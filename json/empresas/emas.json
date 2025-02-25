@@ -1,0 +1,229 @@
+{
+  "id": "emas",
+  "nome": "Emas",
+  "detalhe": {
+    "2021": {
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 185950.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de agente de integração de estágio,\ncom a finalidade de concessão de oportunidades de estágios\nsupervisionados a estudantes de Educação superior, ensino médio,\ntécnico, pertencentes ao município de Emas –PB",
+            "empresa": "NUCLEO REGIONAL DO INSTITUTO\nEUVALDO LODI PARAIBA",
+            "valor_total": "R$ 168,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 38,
+        "num_contratos": 88,
+        "total_gasto": 10531772.06
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1614727.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 940221.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\ncriação de mídias sociais e designer de peças gráficos/ visual e artes\n\ndigitais para a prefeitura municipal de EMAS–PB",
+            "empresa": "RODRIGO ALVARENGA\n\nRIBEIRO",
+            "valor_total": "R$ 14,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para coletar notícias gerais e atos\n\ninstitucionais ao município e seus órgãos vinculados em jornais,\n\ndiários oficiais, e afins ( mídia eletrônica, impressa) a serem\n\npublicados em outros veículos de comunicação (redes sociais,\n\nrevistas, mídias áudios, fotos, vídeos)",
+            "empresa": "ALEX VINICIUS SOARES FERNANDES",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para coletar notícias gerais e atos\n\ninstitucionais ao município e seus órgãos vinculados em jornais,\n\ndiários oficiais, e afins ( mídia eletrônica, impressa) a serem\n\npublicados em outros veículos de comunicação (redes sociais,\n\nrevistas, mídias áudios, fotos, vídeos)",
+            "empresa": "ALEX VINICIUS SOARES FERNANDES",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 3220221.76,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de rádio comunitária para divulgação de atos\ninstitucional da Prefeitura Municipal de Emas–PB",
+            "empresa": "FUNDACAO JOAO KENNEDY GOMES BATISTA",
+            "valor_total": "R$ 13,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 2106070.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa especializada para prestação\n\nde serviços gerenciamento e manutenção de prontuário eletrônico do\n\ncidadão E– SUAS AB DEC, E–SUA AB território",
+            "empresa": "FRANCISCO JUNIOR DE ABREU",
+            "valor_total": "R$ 32,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 18,
+        "total_gasto": 917515.4,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB",
+            "empresa": "LUMIART COMERCIO E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 585,315.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB",
+            "empresa": "DELVALLE MATERIAIS ELETRICOS\n\nLTDA",
+            "valor_total": "R$ 585,315.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB",
+            "empresa": "LUMIART\n\nCOMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 585,315.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB",
+            "empresa": "VIEIRA ACO INDUSTRIA & COMERCIO\n\nLTDA",
+            "valor_total": "R$ 585,315.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 18,
+        "total_gasto": 1499626.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 15050.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de manilha em\n\nconcreto armado de 30cm para obras de escoamento e drenagem de\n\nágua no município de EMAS–PB",
+            "empresa": "GIVANILDO ABILIO DOS SANTOS",
+            "valor_total": "R$ 15,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DO ARTISTA ALISSIN VIEIRA E\n\nBANDA PARA SE APRESENTAR DURANTE A FESTA DA\n\nPADROEIRA SANTA TEREZINHA NO MUNICIPIO DE EMAS–\n\nPB",
+            "empresa": "ALISON DE\n\nSOUZA LEITE",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAR\n\nSERVIÇOS DE LOCAÇÃO DE ESTRUTURA PARA\n\nREALIZAÇÃO DA FESTA DA PADROEIRA SANTA\n\nTEREZINHA NO MUNICIPIO DE EMAS–PB",
+            "empresa": "ALISON DE SOUZA LEITE",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 32390.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamentos e material permanente para\n\nunidade de atenção especializada em saúde no município de EMAS–\n\nPB, atendendo a proposta de aquisição de equipamento/ Material\n\nPermanente N° DA PROPOSTA: 11655.026000/1220–04",
+            "empresa": "AMAMEDICAL SOLUCOES EM SAUDE\n\nEIRELI",
+            "valor_total": "R$ 32,390.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente para\n\nunidade de atenção especializada em saúde no município de EMAS–\n\nPB, atendendo a proposta de aquisição de equipamento/ Material\n\nPermanente N° DA PROPOSTA: 11655.026000/1220–04",
+            "empresa": "CT\n\nN°00127/2022- 19.10.2022 - INSTRAMED INDUSTRIAL MÉDICO\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 32,390.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 658594.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 50,
+        "num_contratos": 12,
+        "total_gasto": 1530033.71
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 193800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 677639.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -13,7 +13,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 84,
+        "num_diarios": 82,
         "num_contratos": 60,
         "total_gasto": 6447230.31
       },
@@ -55,11 +55,15 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 4,
         "total_gasto": 383284.56999999995,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "E.\n\nALVES DE FIGUEIREDO COSTA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresas regionais de acordo com Decreto\n\n001/2023 para fornecimento parcelado de materiais de expediente\n\npara suprir as necessidades das diversas secretarias do Município de\n\nMato Grosso–PB"
+        ]
       },
       "10": {
         "num_diarios": 4,
@@ -80,7 +84,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 12,
         "total_gasto": 109109.18,
         "top_3_empresas": [],
@@ -99,7 +103,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 157,
+        "num_diarios": 154,
         "num_contratos": 123,
         "total_gasto": 11207965.540000005
       },
@@ -157,7 +161,7 @@
         ]
       },
       "7": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 7,
         "total_gasto": 960697.14,
         "top_3_empresas": [
@@ -206,7 +210,7 @@
         ]
       },
       "12": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 18,
         "total_gasto": 798965.77,
         "top_3_empresas": [],
@@ -217,22 +221,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 241,
+    "num_diarios": 236,
     "num_contratos": 183,
-    "total_gasto": 17655195.85,
+    "total_gasto": "17.655.195,85",
     "top_5_empresas": {
       "": 2,
       "R DE O LIMA": 1,
       "ANTONIO CIRILO DE LIMA NETO": 1,
-      "FRANCISCO FABIO DA SILVA BARBOSA": 1,
-      "DISTRIBUIDORA DE MEDICAMENTOS BACKES LTDA": 1
+      "E.\n\nALVES DE FIGUEIREDO COSTA": 1,
+      "FRANCISCO FABIO DA SILVA BARBOSA": 1
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DE SERVIÇOS ARTISTICOS DE\n\nAPRESENTAÇÃO MUSICAL DA ATRAÇÃO ANÍZIO JUNIOR ,\n\nPOR OCASIÃO DAS COMEMORAÇOES DO ANIVERSARIO DE\n\n29 ANOS DE EMANCIPAÇÃO POLITICA DO MUNICIPIO DE\n\nMATO GROSSO–PB": 1,
       "AQUISIÇÃO DE ENFEITES JUNINOS PARA\n\nORNAMENTAÇÃO DE RUAS, PRAÇAS, AVENIDAS E PARQUE\n\nDO POVO PARA OS FESTEJOS JUNINOS EM COMEMORAÇÃO\n\nAO TRADICIONAL SÃO PEDRO DO MUNICÍPIO DE MATO\n\nGROSSO–PB": 1,
       "Contratação de empresa para prestação de serviços diversos\n\njunto a equipe de comunicação da Prefeitura Municipal de Mato\n\nGrosso–PB": 1,
       "Contratação de empresa para fornecimento parcelado de\n\nprodutos da linha de panificação para suprir as necessidades das\n\ndiversas secretarias do Município de Mato Grosso–PB": 1,
-      "PRESTAÇÃO DE SERVIÇO DE CONFECÇÕES DE\n\nGALERIA DE FOTOS OFICIAIS E PRISMAS EM MÁRMORE E\n\nVIDRO, VISANDO ATENDER AS NECESSIDADES DESTE\n\nPODER LEGISLATIVO CÂMARA MUNICIPAL DE MATO\n\nGROSSO-PB": 1
+      "Contratação de empresas regionais de acordo com Decreto\n\n001/2023 para fornecimento parcelado de materiais de expediente\n\npara suprir as necessidades das diversas secretarias do Município de\n\nMato Grosso–PB": 1
     }
   }
 }

@@ -5,25 +5,25 @@
     "2020": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 217015.08,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 109,
-        "num_contratos": 45,
-        "total_gasto": 11694269.8
+        "num_diarios": 107,
+        "num_contratos": 47,
+        "total_gasto": 11911284.88
       },
       "2": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -100,27 +100,31 @@
     "2021": {
       "1": {
         "num_diarios": 13,
-        "num_contratos": 2,
-        "total_gasto": 344777.25,
+        "num_contratos": 10,
+        "total_gasto": 1146029.51,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 223,
-        "num_contratos": 641,
-        "total_gasto": 61699341.58000001
+        "num_diarios": 220,
+        "num_contratos": 812,
+        "total_gasto": 84091731.19999975
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 26,
-        "total_gasto": 3783933.81,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 27,
+        "total_gasto": 3790833.81,
+        "top_3_empresas": [
+          "ADRIANO\nGOMES DE BARROS"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE OXIGÊNIO, AR MEDICINAL E LOCAÇÃO\nDE CONCENTRADOR, MEDIANTE REQUISIÇÃO, CONFORME\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA"
+        ]
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 31,
-        "total_gasto": 7060600.520000001,
+        "num_contratos": 33,
+        "total_gasto": 7087148.720000002,
         "top_3_empresas": [
           "A A Z SAÚDE PRODUTOS MÉDICOS E\nHOSPITALARES LTDA",
           "BRUMED COMERCIO ATACADISTA E\nMANUTENÇÃO DE EQUIPAMENTOS HOSPITALARES\nEIRELI.",
@@ -133,8 +137,8 @@
       },
       "4": {
         "num_diarios": 19,
-        "num_contratos": 40,
-        "total_gasto": 4136131.8899999997,
+        "num_contratos": 41,
+        "total_gasto": 4178131.8899999997,
         "top_3_empresas": [
           "ARRIMO ENGENHARIA LTDA"
         ],
@@ -144,19 +148,15 @@
       },
       "5": {
         "num_diarios": 20,
-        "num_contratos": 37,
-        "total_gasto": 4989245.1,
-        "top_3_empresas": [
-          "NOVA VALE SERVICOS E COMERCIO DE\nVEICULOS LTDA."
-        ],
-        "top_3_objetos": [
-          "Contratação de Empresa para Fornecimento de\nVeículos Tipo MINIVANS para atender às necessidades do\nConselho Municipal de Saúde e Secretaria Municipal de Saúde do\nMunicípio de Patos-PB (PARA O CONSELHO MUNICIPAL DE\nSAÚDE),"
-        ]
+        "num_contratos": 186,
+        "total_gasto": 6348487.99000001,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 18,
-        "num_contratos": 42,
-        "total_gasto": 5505030.9399999995,
+        "num_diarios": 17,
+        "num_contratos": 46,
+        "total_gasto": 5303157.059999999,
         "top_3_empresas": [
           "CITY CAR LOCADORA DE VEICULOS\nLTDA."
         ],
@@ -166,8 +166,8 @@
       },
       "7": {
         "num_diarios": 21,
-        "num_contratos": 49,
-        "total_gasto": 4259058.34,
+        "num_contratos": 54,
+        "total_gasto": 25412393.84,
         "top_3_empresas": [
           "G M RANGEL COMBUSTÍVEIS LTDA"
         ],
@@ -186,9 +186,9 @@
         ]
       },
       "9": {
-        "num_diarios": 17,
-        "num_contratos": 56,
-        "total_gasto": 9713006.230000002,
+        "num_diarios": 15,
+        "num_contratos": 45,
+        "total_gasto": 8272729.580000002,
         "top_3_empresas": [
           "M V AZEREDO COSTA CIA LTDA.",
           "J BATISTA RAMOS DE CARVALHO\n\nCOMÉRCIO",
@@ -200,22 +200,23 @@
       },
       "10": {
         "num_diarios": 19,
-        "num_contratos": 24,
-        "total_gasto": 5480387.629999999,
+        "num_contratos": 31,
+        "total_gasto": 5592536.83,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 19,
-        "num_contratos": 32,
-        "total_gasto": 11191016.439999998,
+        "num_contratos": 37,
+        "total_gasto": 11724128.539999997,
         "top_3_empresas": [
-          "SILVA & LEITE CONSTRUÇÕES E SERVIÇOS\n\nLTDA inscrita no",
-          "RDA CONSTRUÇÕES E EMPREENDIMENTOS\n\nEIRELI inscrita no"
+          "SILVA & LEITE CONSTRUÇÕES E SERVIÇOS\n\nLTDA",
+          "RDA CONSTRUÇÕES E EMPREENDIMENTOS\n\nEIRELI"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇOS DE PAVIMENTAÇÃO E ADEQUAÇÃO DE\n\nESTRADAS VICINAIS NO MUNICÍPIO DE PATOS/PB\n\n\nPRAZO DE VALIDADE: 120 (cento e vinte) dias da expedição da\n\nprimeira Ordem de Serviços",
-          "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇÃO DE SERVIÇOS DE CONCLUSÃO DE 01 (UM)\n\nGINÁSIO COBERTO NA ESCOLA DE EMEF ARISTIDES\n\nHAMAD TIMENE, NO MUNICÍPIO DE PATOS – PB\n\n\nPRAZO DE VALIDADE: 180 (cento e oitenta) dias da expedição da\n\nprimeira Ordem de Serviços"
+          "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇÃO DE SERVIÇOS DE CONCLUSÃO DE 01 (UM)\n\nGINÁSIO COBERTO NA ESCOLA DE EMEF ARISTIDES\n\nHAMAD TIMENE, NO MUNICÍPIO DE PATOS – PB\n\n\nPRAZO DE VALIDADE: 180 (cento e oitenta) dias da expedição da\n\nprimeira Ordem de Serviços",
+          "DISPENSA REFERENTE A DESAPROPRIAÇÃO AMIGÁVEL\n\nPARA COM COMPRA DE UM IMÍVEL RURAL SITUADO NA\n\nVILA TIMBAÚBA CONFORME TERMO DE REFERENCIA"
         ]
       },
       "12": {
@@ -223,7 +224,7 @@
         "num_contratos": 246,
         "total_gasto": 2551473.8,
         "top_3_empresas": [
-          "COSTEIRA LOCADORA DE VEICULOS\n\nEIRELI,"
+          "COSTEIRA LOCADORA DE VEICULOS\n\nEIRELI"
         ],
         "top_3_objetos": [
           "LOCAÇÃO DE VEÍCULO AUTOMOTIVO (SEM\n\nMOTORISTA E SEM COMBUSTÍVEL) COM\n\n\n\nParaíba , 31 de Dezembro de 2021   •   Diário Oficial dos Municípios do Estado da Paraíba   •    ANO XIII | Nº 3016\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 5\n\n\n\nQUILOMETRAGEM LIVRE DESTINADO A ATENDER AS\n\nATIVIDADES DA SECRETARIA DE DESENVOLVIMENTO\n\nSOCIAL DO MUNICÍPIO DE PATOS/PB"
@@ -233,8 +234,8 @@
     "2022": {
       "1": {
         "num_diarios": 19,
-        "num_contratos": 559,
-        "total_gasto": 21366210.509999998,
+        "num_contratos": 560,
+        "total_gasto": 21379210.509999994,
         "top_3_empresas": [
           "FRANCISCO DE ASSIS DANTAS",
           "DANILO DE OLIVEIRA SILVA",
@@ -248,20 +249,20 @@
       },
       "resumo": {
         "num_diarios": 234,
-        "num_contratos": 1284,
-        "total_gasto": 134568883.34999993
+        "num_contratos": 1405,
+        "total_gasto": 146310647.74999994
       },
       "2": {
         "num_diarios": 20,
-        "num_contratos": 128,
-        "total_gasto": 14587626.789999995,
+        "num_contratos": 137,
+        "total_gasto": 14870855.539999995,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 255,
-        "total_gasto": 24878766.53,
+        "num_contratos": 259,
+        "total_gasto": 22482389.53,
         "top_3_empresas": [
           "CONSTRUTORA J GALDINO EIRELI",
           "MARIA DEBORA BARROSO LOURETO\n\nREPRESENTAÇOES."
@@ -272,17 +273,17 @@
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 100,
-        "total_gasto": 8734634.809999999,
+        "num_contratos": 103,
+        "total_gasto": 8862413.809999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 21,
-        "num_contratos": 85,
-        "total_gasto": 18523923.080000002,
+        "num_contratos": 94,
+        "total_gasto": 18881670.419999998,
         "top_3_empresas": [
-          "UROFARIAS SERVIÇOS MÉDICOS LTDA,",
+          "UROFARIAS SERVIÇOS MÉDICOS LTDA",
           "REPLASTIL COMERCIO ATACADISTA DE\n\nPLASTICOS LTDA",
           "ESLOVENIA KIEV MONTEIRO MARQUES"
         ],
@@ -294,15 +295,15 @@
       },
       "6": {
         "num_diarios": 19,
-        "num_contratos": 34,
-        "total_gasto": 5018052.72,
+        "num_contratos": 41,
+        "total_gasto": 5423885.72,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 19,
-        "num_contratos": 10,
-        "total_gasto": 743076.6,
+        "num_contratos": 31,
+        "total_gasto": 3735152.9,
         "top_3_empresas": [
           "BRASFLEX INDÚSTRIA E COMÉRCIO\n\nLTDA.",
           "NUTRIMED DISTRIBUIÇÃO DE\n\nPRODUTOS HOSPITALAR E VETERINARIO LTDA.",
@@ -314,8 +315,8 @@
       },
       "8": {
         "num_diarios": 22,
-        "num_contratos": 5,
-        "total_gasto": 3339678.0,
+        "num_contratos": 30,
+        "total_gasto": 12069892.589999998,
         "top_3_empresas": [
           "MARIA NADIA DA NOBREGA MARQUES\n\nLTDA",
           "ORTOMEDICAL BEZERRA LTDA",
@@ -329,8 +330,8 @@
       },
       "9": {
         "num_diarios": 21,
-        "num_contratos": 35,
-        "total_gasto": 15307667.59,
+        "num_contratos": 60,
+        "total_gasto": 14521502.41,
         "top_3_empresas": [
           "E L F\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 4\n\n\n\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
           "LVR CONSTRUÇOES LTDA"
@@ -342,8 +343,8 @@
       },
       "10": {
         "num_diarios": 17,
-        "num_contratos": 11,
-        "total_gasto": 5779297.12,
+        "num_contratos": 14,
+        "total_gasto": 5926697.12,
         "top_3_empresas": [
           "L. BIZERRA LEITE NETO LTDA",
           "DUARTE & DUARTE SERVIÇOS MÉDICOS E\n\nHOSPITALARES LTDA",
@@ -353,8 +354,8 @@
       },
       "11": {
         "num_diarios": 18,
-        "num_contratos": 44,
-        "total_gasto": 2964132.0199999996,
+        "num_contratos": 52,
+        "total_gasto": 4240167.02,
         "top_3_empresas": [
           "REGIS ADMINISTRADORA DE IMÓVEIS\n\nLTDA\n\nCNJP Nº: 21.099.725/0001-59",
           ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de São João do Rio do Peixe e: CT Nº\n\n00235/2021",
@@ -368,17 +369,17 @@
       },
       "12": {
         "num_diarios": 20,
-        "num_contratos": 18,
-        "total_gasto": 13325817.579999998,
+        "num_contratos": 24,
+        "total_gasto": 13916810.18,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 22,
-        "num_contratos": 94,
-        "total_gasto": 14063255.0,
+        "num_diarios": 21,
+        "num_contratos": 117,
+        "total_gasto": 11992352.339999998,
         "top_3_empresas": [
           "JOSÉ SANTOS NETO ME",
           "ABSALAO MEDEIROS DE ARAUJO",
@@ -391,14 +392,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 227,
-        "num_contratos": 1476,
-        "total_gasto": 95633052.00999998
+        "num_diarios": 224,
+        "num_contratos": 1586,
+        "total_gasto": 99024327.37999998
       },
       "2": {
         "num_diarios": 16,
-        "num_contratos": 483,
-        "total_gasto": 22716026.85,
+        "num_contratos": 498,
+        "total_gasto": 23332748.45,
         "top_3_empresas": [
           "HOTEL ZURIQUE LTDA",
           "RICARDO RODRIGUES ALVES",
@@ -412,8 +413,8 @@
       },
       "3": {
         "num_diarios": 23,
-        "num_contratos": 591,
-        "total_gasto": 23614106.869999997,
+        "num_contratos": 603,
+        "total_gasto": 24263362.33,
         "top_3_empresas": [
           "SOLANGE AFONSO DE CARVALHO\n\nPEREIRA"
         ],
@@ -423,8 +424,8 @@
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 98,
-        "total_gasto": 2546624.8000000003,
+        "num_contratos": 105,
+        "total_gasto": 3299244.8,
         "top_3_empresas": [
           "IVONEIDE SOARES DE MEDEIROS"
         ],
@@ -434,8 +435,8 @@
       },
       "5": {
         "num_diarios": 22,
-        "num_contratos": 49,
-        "total_gasto": 3584637.18,
+        "num_contratos": 58,
+        "total_gasto": 3763692.18,
         "top_3_empresas": [
           "BEATRIZ BRUST DE SOUZA.",
           "LPK LTDA.",
@@ -447,8 +448,8 @@
       },
       "6": {
         "num_diarios": 18,
-        "num_contratos": 60,
-        "total_gasto": 6662919.73,
+        "num_contratos": 70,
+        "total_gasto": 6939723.410000001,
         "top_3_empresas": [
           "ARTE MUSICAL DISTRIBUIDORA DE\n\nINSTRUMENTOS MUSICAIS LTDA.",
           "RIVANIA MEDEIROS DA SILVA",
@@ -462,8 +463,8 @@
       },
       "7": {
         "num_diarios": 18,
-        "num_contratos": 16,
-        "total_gasto": 1333068.0,
+        "num_contratos": 25,
+        "total_gasto": 3403376.0,
         "top_3_empresas": [
           "O CEARENSE DISTRIBUIDORA DE PECAS\n\nLTDA."
         ],
@@ -473,8 +474,8 @@
       },
       "8": {
         "num_diarios": 22,
-        "num_contratos": 35,
-        "total_gasto": 4184908.2500000005,
+        "num_contratos": 48,
+        "total_gasto": 5151336.890000001,
         "top_3_empresas": [
           "TENYSTOCLES NORMANDO VITORINO\n\nDA ROCHA"
         ],
@@ -484,27 +485,31 @@
       },
       "9": {
         "num_diarios": 19,
-        "num_contratos": 17,
-        "total_gasto": 7144824.7,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 23,
+        "total_gasto": 7452810.7,
+        "top_3_empresas": [
+          "RUMOS LOCACAO E\nSERVICOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Locação de veículo pesado, do tipo caminhão\ncompactador/capacidade não inferior A 15M³, destinado a atender as\nnecessidades da Secretaria Municipal de Serviços Urbanos na coleta\nde lixo do município de Salgadinho – PB"
+        ]
       },
       "10": {
         "num_diarios": 16,
-        "num_contratos": 10,
-        "total_gasto": 644896.79,
+        "num_contratos": 15,
+        "total_gasto": 772012.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 16,
-        "num_contratos": 11,
-        "total_gasto": 6094941.35,
+        "num_diarios": 15,
+        "num_contratos": 12,
+        "total_gasto": 5610825.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 12,
         "total_gasto": 3042842.49,
         "top_3_empresas": [],
@@ -513,9 +518,9 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 21,
-        "num_contratos": 106,
-        "total_gasto": 22969232.450000003,
+        "num_diarios": 20,
+        "num_contratos": 138,
+        "total_gasto": 27162265.450000003,
         "top_3_empresas": [
           "EUDENILZA DE OLIVEIRA FERNANDES",
           "YONE AUSTRAN COUTINHO DE ARAUJO\n\nTRIGUEIRO",
@@ -528,14 +533,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 231,
-        "num_contratos": 974,
-        "total_gasto": 138083551.78000003
+        "num_diarios": 225,
+        "num_contratos": 1166,
+        "total_gasto": 152683392.91000003
       },
       "2": {
         "num_diarios": 19,
-        "num_contratos": 87,
-        "total_gasto": 22115671.33,
+        "num_contratos": 139,
+        "total_gasto": 25090656.470000003,
         "top_3_empresas": [
           "STAMP LINE LTDA",
           "TECNOCENTER MATERIAIS MEDICOS\n\nHOSPITALARES LTDA.",
@@ -548,23 +553,23 @@
         ]
       },
       "3": {
-        "num_diarios": 20,
-        "num_contratos": 58,
-        "total_gasto": 17350146.49,
+        "num_diarios": 19,
+        "num_contratos": 70,
+        "total_gasto": 16325284.059999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 21,
-        "num_contratos": 510,
-        "total_gasto": 25053822.860000003,
+        "num_contratos": 524,
+        "total_gasto": 25539002.280000005,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 20,
-        "num_contratos": 25,
-        "total_gasto": 12846501.219999999,
+        "num_contratos": 57,
+        "total_gasto": 13762970.459999999,
         "top_3_empresas": [
           "THOMAS JOSE BELTRAO DE ARAUJO\n\nALBUQUERQUE",
           "P.A.S. & SANTANA LTDA",
@@ -577,16 +582,16 @@
         ]
       },
       "6": {
-        "num_diarios": 17,
-        "num_contratos": 46,
-        "total_gasto": 18102335.480000008,
+        "num_diarios": 16,
+        "num_contratos": 47,
+        "total_gasto": 18015668.240000006,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 22,
-        "num_contratos": 39,
-        "total_gasto": 4947597.970000001,
+        "num_contratos": 52,
+        "total_gasto": 8699212.53,
         "top_3_empresas": [
           "ALVES & ALVES LTDA",
           "HRMEDICAL SOLUÇOES LTDA",
@@ -598,9 +603,9 @@
         ]
       },
       "8": {
-        "num_diarios": 19,
-        "num_contratos": 25,
-        "total_gasto": 1359833.27,
+        "num_diarios": 18,
+        "num_contratos": 40,
+        "total_gasto": 3623307.85,
         "top_3_empresas": [
           "JOSIVAN MELQUIADES NOBREGA"
         ],
@@ -608,15 +613,15 @@
       },
       "9": {
         "num_diarios": 16,
-        "num_contratos": 13,
-        "total_gasto": 2758742.9,
+        "num_contratos": 24,
+        "total_gasto": 3637163.96,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 20,
-        "num_contratos": 41,
-        "total_gasto": 4504701.48,
+        "num_contratos": 47,
+        "total_gasto": 4734150.98,
         "top_3_empresas": [
           "NUNESFARMA DISTRIBUIDORA DE\n\nPRODUTOS FARMACEUTICOS LTDA."
         ],
@@ -625,38 +630,38 @@
         ]
       },
       "11": {
-        "num_diarios": 17,
-        "num_contratos": 13,
-        "total_gasto": 2593949.7,
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 2387694.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 19,
-        "num_contratos": 11,
-        "total_gasto": 3481016.63,
+        "num_diarios": 18,
+        "num_contratos": 13,
+        "total_gasto": 3706016.63,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 1024,
-    "num_contratos": 4420,
-    "total_gasto": 441679098.52,
+    "num_diarios": 1010,
+    "num_contratos": 5016,
+    "total_gasto": "494.021.384,12",
     "top_5_empresas": {
       "FIORI VEICOLO S.A.": 1,
+      "ADRIANO\nGOMES DE BARROS": 1,
       "A A Z SAÚDE PRODUTOS MÉDICOS E\nHOSPITALARES LTDA": 1,
       "BRUMED COMERCIO ATACADISTA E\nMANUTENÇÃO DE EQUIPAMENTOS HOSPITALARES\nEIRELI.": 1,
-      "ESFERA MASTER COMERCIAL EIRELI": 1,
-      "ARRIMO ENGENHARIA LTDA": 1
+      "ESFERA MASTER COMERCIAL EIRELI": 1
     },
     "top_5_objetos": {
       "Contratação de empresa para fornecimento de Veículos\nTipo Ambulância de Simples Remoção (Furgão e Furgoneta) para\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 19\n\n\natender às necessidades do Fundo Municipal de Saúde de\nPatos/Secretaria de Saúde de Patos, em especial para\nenfrentamento da emergência de saúde pública de importância\ninternacional decorrente do coronavírus, conforme art": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE OXIGÊNIO, AR MEDICINAL E LOCAÇÃO\nDE CONCENTRADOR, MEDIANTE REQUISIÇÃO, CONFORME\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA": 1,
       "Contratação de Empresa para Fornecimento de\nEquipamentos Médicos/Hospitalares e Material Permanente\ndestinados a Unidade de Pronto Atendimento – UPA Otávio Pires\nde Lacerda a Cargo da Secretária Municipal de Saúde de Patos": 1,
       "Contratação de Empresa para Fornecimento de\nEquipamentos Médicos/Hospitalares e Material Permanente\n\ndestinados a Unidade de Pronto Atendimento – UPA Otávio Pires\nde Lacerda a Cargo da Secretária Municipal de Saúde de Patos": 1,
-      "Contratação de empresa para execução de serviços de\n\nPavimentação e Construção de uma Passagem Molhada na Rua\n\nEvangelista Rodrigues no Município de Patos - PB": 1,
-      "Contratação de Empresa para Fornecimento de\nVeículos Tipo MINIVANS para atender às necessidades do\nConselho Municipal de Saúde e Secretaria Municipal de Saúde do\nMunicípio de Patos-PB (PARA O CONSELHO MUNICIPAL DE\nSAÚDE),": 1
+      "Contratação de empresa para execução de serviços de\n\nPavimentação e Construção de uma Passagem Molhada na Rua\n\nEvangelista Rodrigues no Município de Patos - PB": 1
     }
   }
 }

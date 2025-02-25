@@ -1,0 +1,377 @@
+{
+  "id": "juarez-tavora",
+  "nome": "Juarez Távora",
+  "detalhe": {
+    "2022": {
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 27,
+        "total_gasto": 3366101.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 76,
+        "num_contratos": 81,
+        "total_gasto": 9778410.910000004
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 1056057.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 1773958.5699999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 525790.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\n\nUnidades Básicas de Saúde do Município de Juarez Távora",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 68,007.40"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\n\nUnidades Básicas de Saúde do Município de Juarez Távora",
+            "empresa": "ALLMED DISTRIBUIDORA E COMÉRCIO DE\n\nPRODUTOS FARMACÊUTICOS LTDA",
+            "valor_total": "R$ 17,073.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 920989.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 250761.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Aterro Sanitário licenciado, para\n\nrecebimento e disposição final de resíduos sólidos urbanos produzidos\n\npelo Município de Juarez Távora, num total estimado de 1.200 (mil e\n\nduzentas) toneladas",
+            "empresa": "ECOSOLO GUARABIRA GESTÃO\n\nAMBIENTAL DE RESÍDUOS LTDA",
+            "valor_total": "R$ 66,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 65650.79000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 913719.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 356073.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 549307.22,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Reforma e Ampliação da Escola Luís Ribeiro\n\nCoutinho na cidade de Juarez Távora",
+            "empresa": "HUMBERTO RAMALHO TRIGUEIRO\n\nMENDES-ME",
+            "valor_total": "R$ 321,307.22"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1868678.97,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis e derivados, para abastecimento\n\nda frota de veículos da Prefeitura de Juarez Távora, e veículos\n\nlocados",
+            "empresa": "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI",
+            "valor_total": "R$ 1,538,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 99,
+        "num_contratos": 90,
+        "total_gasto": 16511437.0
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 418314.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 4076523.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 2465589.3200000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 3359745.92,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da Banda Sol Maior, para realização de uma\napresentação artística no dia 23/06/2023, durante as festividades\njuninas na cidade de Juarez Távora",
+            "empresa": "ROSICLÉIA DA SILVA LIMA",
+            "valor_total": "R$ 23,000.00"
+          },
+          {
+            "objeto": "Contratação da cantora Solange Almeida, para realização\nde uma apresentação artística no dia 16/07/2023, durante a Festa de\nEmancipação Política da cidade de Juarez Távora",
+            "empresa": "SOL PRODUCAO E ADMINISTRACAO\nARTISTICA LTDA",
+            "valor_total": "R$ 120,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 331216.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do cantor Vicente Nery, para realização de\n\numa apresentação artística no dia 15/07/2023, durante a Festa de\n\nEmancipação Política da cidade de Juarez Távora",
+            "empresa": "ADRIANO BATISTA DA SILVA SANTOS",
+            "valor_total": "R$ 65,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 543046.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa especializada para prestação\n\nde serviços de Formação Continuada para equipe técnica e\n\nprofissionais de Educação, orientação e elaboração dos PPP’S das\n\nescolas municipais, através de reuniões com equipe técnica e de\ngestão escolar, além de elaboração de materiais para os PPP’S, da\n\nSecretaria de Educação do Município de Juarez Távora",
+            "empresa": "MÔNICA BARROS DA SILVA",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 1105686.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 527636.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 977978.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de horas de serviços de manutenção preventiva\ne corretiva e recuperação de veículos da Prefeitura Municipal de\n\nJuarez Távora",
+            "empresa": "CEARA DIESEL MECÂNICA GERAL LTDA",
+            "valor_total": "R$ 187,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 442749.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 394270.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 2559329.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 95,
+        "num_contratos": 88,
+        "total_gasto": 14865396.249999998
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 21,
+        "total_gasto": 2850240.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 1322200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um veículo tipo Van, marca FORD\n\nTRANSIT 16 LUGARES, ano/modelo 2023/2024, destinado ao\n\natendimento das necessidades da Secretaria de Assistência Social do\n\nMunicípio de Juarez Távora",
+            "empresa": "CAMMINARE MAQUINAS E\n\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 295,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 1102679.2000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 2392916.8100000005,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais de expediente, para\n\natender as necessidades das diversas secretarias do Município de\n\nJuarez Távora",
+            "empresa": "DIONAL DISTRIBUIDORA DE PRODUTOS\n\nLTDA",
+            "valor_total": "R$ 1,284.36"
+          },
+          {
+            "objeto": "Contratação da Banda Seus desejo Yara Tchê e Alessandro,\n\npara realização de uma apresentação artística no dia 16/07/2024,\n\ndurante a Festa de Emancipação Política da cidade de Juarez Távora",
+            "empresa": "YARA TCHÊ E ALESSANDRO EVENTOS\n\nLTDA",
+            "valor_total": "R$ 180,000.00"
+          },
+          {
+            "objeto": "Aquisição de 01 (uma) Patrulha Mecanizada, nova, marca\n\nLIUGONG, modelo CLG 766 A, para o Município de Juarez Távora,\n\npara apoiar a produção agrícola que apresenta bastante escassez sem\n\nequipamentos apropriado",
+            "empresa": "DAMAQ MAQUINAS E EQUIPAMENTOS\n\nLTDA",
+            "valor_total": "R$ 419,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 121850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 1347636.81,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\n\nnecessidades das Unidades Básicas de Saúde do Município de Juarez\nTávora",
+            "empresa": "EXPRESS DISTRIBUIDORA DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 319,188.80"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\n\nnecessidades das Unidades Básicas de Saúde do Município de Juarez\n\nTávora",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 42,328.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\nnecessidades das Unidades Básicas de Saúde do Município de Juarez\n\nTávora",
+            "empresa": "A COSTA COMÉRCIO ATACADISTA DE\n\nPRODUTOS FARMACEUTICOS LTDA",
+            "valor_total": "R$ 104,466.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\n\nnecessidades das Unidades Básicas de Saúde do Município de Juarez\nTávora",
+            "empresa": "DISTRIBUIDORA DE MEDICAMENTOS\n\nBACKES EIRELI",
+            "valor_total": "R$ 10,815.40"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos, para atender as\nnecessidades das Unidades Básicas de Saúde do Município de Juarez\n\nTávora",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 3,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 623638.3400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1220306.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de móveis escolares, destinados ao atendimento\n\ndas necessidades das escolas do Município de Juarez Távora",
+            "empresa": "APFORM INDUSTRIA E COMERCIO DE\n\nMOVEIS LTDA",
+            "valor_total": "R$ 333,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 636640.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 8700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 679258.6699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

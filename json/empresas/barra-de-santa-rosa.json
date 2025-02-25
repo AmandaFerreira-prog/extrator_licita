@@ -1,0 +1,1094 @@
+{
+  "id": "barra-de-santa-rosa",
+  "nome": "Barra de Santa Rosa",
+  "detalhe": {
+    "2017": {
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 102918.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 22,
+        "num_contratos": 11,
+        "total_gasto": 3648137.49
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 3427046.79,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\nDESTINADOS A CONSTRUÇÃO DE UNIDADE ESCOLAR\nPADRÃO FNDE COM 12 (DOZE) SALAS DE AULA NESTE\nMUNICÍPIO",
+            "empresa": "MELF CONSTRUTORA\nEIRELI",
+            "valor_total": "R$ 3,402,896.79"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 118172.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE\nSERVIÇOS DE ASSESSORIA CONTÁBIL PARA A CÂMARA\nMUNICIPAL DE BARRA DE SANTAS ROSA -",
+            "empresa": "JOILTO GONÇALVES DE BRITO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 128,
+        "num_contratos": 92,
+        "total_gasto": 8506463.899999997
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 1262900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 34,
+        "total_gasto": 2116508.56,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\nCOMERCIAL PARA FORNECIMENTO PARCELADO COM\nMAIOR DESCONTO OFERTADO DE MEDICAMENTOS DE A a\nZ DA LINHA FARMA PARA ATENDER AS NECESSIDADES\nDAS SECRETARIAS DE SAÚDE E ASSISTENCIA SOCIAL\nDESTE MUNICIPIO",
+            "empresa": "MARIA APARECIDA BARRETO E\nSILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 120567.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 2867457.1799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1226225.6400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 270715.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 301268.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOSNOVOS 0KM TIPO\nAMBULÂNCIASDE SIMPLES REMOÇÃO PARA ATENDER AS\nNECESSIDADES DA SECRETARIA DE SAÚDE DESTE\nMUNICÍPIO",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 252,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 61000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 141650.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 100557.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 37614.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 115861.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nDE EQUIPAMENTOS ODONTOLÓGICOS COM REPOSIÇÃO DE\n\nPEÇAS PARA ATENDER A SECRETARIA DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "ANDRE AUGUSTO BRITO\n\nSANTOS",
+            "valor_total": "R$ 14,760.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 151,
+        "num_contratos": 106,
+        "total_gasto": 12550467.46
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 50760.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 31,
+        "total_gasto": 4274478.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 39300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 23,
+        "total_gasto": 2139096.12,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\nESPECIALIZADA PARA EXECUÇÃO DA OBRA DE\nAMPLIAÇÃO DA UNIDADE BÁSICA DE SAÚDE JOSÉ\nRIBEIRO DINIZ",
+            "empresa": "CONSTRUTORA F. OLIVEIRA\nEIRELI",
+            "valor_total": "R$ 273,524.59"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\nRURAL EM ATENDIMENTO AO PROGRAMA NACIONAL DE\nALIMENTAÇÃO ESCOLAR, PARA O ANO LETIVO DE 2019",
+            "empresa": "ANTONIO ROSENO\nDE OLIVEIRA",
+            "valor_total": "R$ 316,098.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\nRURAL EM ATENDIMENTO AO PROGRAMA NACIONAL DE\nALIMENTAÇÃO ESCOLAR, PARA O ANO LETIVO DE 2019",
+            "empresa": "COOPERATIVA AGROINDUSTRIAL DO SERIDO E\nCURIMATAU PARAIBANO L",
+            "valor_total": "R$ 316,098.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\nRURAL EM ATENDIMENTO AO PROGRAMA NACIONAL DE\nALIMENTAÇÃO ESCOLAR, PARA O ANO LETIVO DE 2019",
+            "empresa": "CT Nº\n10050/2019",
+            "valor_total": "R$ 316,098.20"
+          },
+          {
+            "objeto": "ADITA 10KM À QUILOMETRAGEM DIÁRIA\nPERCORRIDA AOS INICIALMENTE CONTRATADOS",
+            "empresa": "S.\nFUNDAMENTO LEGAL: ARTIGO 65, INCISO II, PARÁGRAFO\n1º, DA LEI 8.666/93; TERMO ADITIVO AO CONTRATO Nº\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\n10011/2019-CPL",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "ADITA 3KM À QUILOMETRAGEM DIÁRIA\nPERCORRIDA AOS INICIALMENTE CONTRATADOS",
+            "empresa": "S.\nFUNDAMENTO LEGAL: ARTIGO 65, INCISO II, PARÁGRAFO\n1º, DA LEI 8.666/93; TERMO ADITIVO AO CONTRATO Nº\n10019/2019-CPL",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 3552296.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 10,
+        "total_gasto": 519792.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\nESPECIALIZADOS DE NOTÓRIA ESPECIALIZAÇÃO PARA\nDEFESA DOS INTERESSES DESTE MUNICÍPIO NO\nACOMPANHAMENTO DE PROCESSOS DE 1º E 2º GRAUS\nJUNTO À JUSTIÇA ESTADUAL, TRABALHISTA E MINISTÉRIO\nPÚBLICO, BEM COMO EM PARECERES EM LICITAÇÕES E\nCONTRATOS ADMINISTRATIVOS",
+            "empresa": "LUCÉLIA DIAS DE\nMEDEIROS",
+            "valor_total": "R$ 18,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 171052.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 370614.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 60624.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 28000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 1228591.3699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 34800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E\n\nCONSULTORIA TÉCNICA NA PREPARAÇÃO DE\n\nDOCUMENTOS, PRESTAÇÃO DE CONTAS NO SISTEMA\n\nSIGPC (CONTAS ONLINE), SISTEMA INTEGRADO DE\n\nMONITORAMENTO, EXECUÇÃO E CONTROLE (SIMEC),\n\nSISTEMA DE GESTÃO DE INFORMAÇÕES (SGI) E\n\nACOMPANHAMENTO CONTÍNUO DA EXECUÇÃO DOS\n\nPROGRAMAS DO FNDE/MEC",
+            "empresa": "ISRAEL CARLOS DANTAS MOURA",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADO COM PIPA PARA O TRANSPORTE EMERGENCIAL\n\nDE ÁGUA PARA ATENDER AS NECESSIDADES DA\n\nPOPULAÇÃO CARENTE DAS ZONAS URBANA E RURAL\n\nDESTE MUNICÍPIO",
+            "empresa": "JOSÉ ANDERSON\n\nNUNES JÚNIOR",
+            "valor_total": "R$ 9,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADO COM PIPA PARA O TRANSPORTE EMERGENCIAL\n\nDE ÁGUA PARA ATENDER AS NECESSIDADES DA\n\nPOPULAÇÃO CARENTE DAS ZONAS URBANA E RURAL\n\nDESTE MUNICÍPIO",
+            "empresa": "BRUNO ALENCAR\n\nMARTINS",
+            "valor_total": "R$ 9,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 129,
+        "num_contratos": 104,
+        "total_gasto": 8051711.320000002
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 555362.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 2101416.41,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA\nTÉCNICA ESPECIALIZADA EM ASSESSORIA NA EXECUÇÃO\nDAS OBRIGAÇÕES PREVIDENCIÁRIAS (RGPS) E\nCONSULTORIA TRIBUTÁRIA PREVIDENCIÁRIA DO REGIME\nGERAL DE PREVIDÊNCIA SOCIAL JUNTO AO MUNICÍPIO DE\nBARRA DE SANTA ROSA/PB",
+            "empresa": "GESPREV",
+            "valor_total": "R$ 43,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 254487.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 19,
+        "total_gasto": 1725080.6600000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 50776.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 937268.28,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE TESTES RÁPIDOS PARA DETECÇÃO\nDE COVID-19 PARA TESTAGEM DE PACIENTES,\nPROFISSIONAIS DA SAÚDE E POPULAÇÃO NO COMBATE AO\nCOVID-19",
+            "empresa": "COBERMED\nCOMERCIO DE MATERIAIS MÉDICOS EIRELI, (CNPJ Nº\n14.416.886/0001-63)",
+            "valor_total": "R$ 43,520.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 159889.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 809554.0499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 547083.0700000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE SONORIZAÇÃO\nVOLANTE, TENDAS E DISCIPLINADORES DE PÚBLICO PARA\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS",
+            "empresa": "JOSE EDSON\nCORREIA",
+            "valor_total": "R$ 15,920.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 58129.44,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ELABORAÇÃO\nDO PLANO DE RECUPERAÇÃO DE ÁREAS DEGRADADAS\nPELA ATIVIDADE DE LIXÃO",
+            "empresa": "SIMONE GOMES VIANA",
+            "valor_total": "R$ 3,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 817862.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 484230.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS, EM CARÁTER DE\n\nURGÊNCIA, PARA ATENDER AS NECESSIDADES IMEDIATAS\n\nDO SISTEMA DE SAÚDE PARA ENFRENTAMENTO À COVID–\n\n19",
+            "empresa": "ALLMED DISTRIBUIDORA E COMERCIO DE PRODUTOS\n\nFARMACEUTICOS LT",
+            "valor_total": "R$ 17,580.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE OXIGÊNIO MEDICINAL E\n\nLOCAÇÃO DE CONCENTRADOR DE OXIGÊNIO PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE SAÚDE",
+            "empresa": "VENTILAR COMERCIO E\n\nSERVICOS DE ALUGUEL DE APARELHOS MEDICOS",
+            "valor_total": "R$ 16,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE CONFECÇÃO DE PRÓTESES DENTÁRIAS\n\nPARA ATENDER A PESSOAS CARENTES DESTE MUNICÍPIO",
+            "empresa": "ALINE AGUIAR\n\nROCHA",
+            "valor_total": "R$ 94,250.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS DE\n\nA A Z DA LINHA FARMA ATRAVÉS DA OFERTA DE MAIOR\n\nPORCENTAGEM DE DESCONTO SOBRE A TABELA ABC\n\nFARMA PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DE SAÚDE E DE ASSISTÊNCIA SOCIAL DESTE\n\nMUNICÍPIO",
+            "empresa": "CT\n\nNº 10007/2021",
+            "valor_total": "R$ 280,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 145,
+        "num_contratos": 131,
+        "total_gasto": 12330129.289999997
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 2513492.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 13000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 32,
+        "total_gasto": 3273169.5600000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 397094.58,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE\nCONSULTORIA E ASSESSORIA TÉCNICA ESPECIALIZADA\nNA DEFESA DOS INTERESSES E REPRESENTAÇÃO\nADMINISTRATIVA EM MATÉRIA PREVIDENCIÁRIA E\nFAZENDÁRIA JUNTO À RECEITA FEDERAL DO BRASIL,\nPGFN, TCE, MINISTÉRIO PÚBLICO E JUDICIÁRIO; E\nREGULARIDADE PREVIDENCIÁRIA DO MUNICÍPIO DE\nBARRA DE SANTA ROSA",
+            "empresa": "GESPREV",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 713019.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 359099.22,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CARROS PIPA PARA O\n\nTRANSPORTE DE ÁGUA POTÁVEL PARA ATENDIMENTO\n\nEMERGENCIAL DA POPULAÇÃO DAS ZONAS URBANA E\n\nRURAL DESTE MUNICÍPIO",
+            "empresa": "LUCIANO FLÁVIO CHAVES\n\nMARTINS",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE CARROS PIPA PARA O\n\nTRANSPORTE DE ÁGUA POTÁVEL PARA ATENDIMENTO\n\nEMERGENCIAL DA POPULAÇÃO DAS ZONAS URBANA E\n\nRURAL DESTE MUNICÍPIO",
+            "empresa": "JOSÉ\n\nFÁBIO BASÍLIO BATISTA",
+            "valor_total": "R$ 108,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 1131754.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 852323.88,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAR EXAMES DE IMAGEM PARA ATENDER O\n\nSISTEMA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "GAMA SERVICOS DE DIAGNOSTICOS POR IMAGENS EIRELI\n\n- R$ 8.670,00; CT Nº 10115/2021 - 16.08.21 - ECOCLINICA LTDA",
+            "valor_total": "R$ 43,589.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 1351598.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 564266.87,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CARROS PIPA PARA O\n\nTRANSPORTE DE ÁGUA POTÁVEL PARA ATENDIMENTO\n\nEMERGENCIAL DA POPULAÇÃO CONFORME CONVÊNIO\n\n0027/2021 GERÊNCIA EXECUTIVA DA DEFESA\n\nCIVIL/PREFEITURA MUNICIPAL DE BARRA DE SANTA\n\nROSA",
+            "empresa": "JULIO SANTOS SILVA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA E\n\nASSESSORIA NA ÁREA DE LICITAÇÕES E CONTRATOS\n\nJUNTO À CPL E AO PREGOEIRO(A) DESTA PREFEITURA",
+            "empresa": "TATIARA\n\nGOMES DE ALMEIDA",
+            "valor_total": "R$ 40,800.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS COM CONDUTOR PARA\n\nTRANSPORTE DE PROFESSORES",
+            "empresa": "DJALMA SOARES\n\nVIRGINIO",
+            "valor_total": "R$ 46,504.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS COM CONDUTOR PARA\n\nTRANSPORTE DE PROFESSORES",
+            "empresa": "EVERSON\n\nLINS E SILVA FILHO",
+            "valor_total": "R$ 46,504.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS COM CONDUTOR PARA\n\nTRANSPORTE DE PROFESSORES",
+            "empresa": "CT Nº\n\n10137/2021",
+            "valor_total": "R$ 46,504.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS COM CONDUTOR PARA\n\nTRANSPORTE DE PROFESSORES",
+            "empresa": "CT Nº 10138/2021",
+            "valor_total": "R$ 46,504.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS COM CONDUTOR PARA\n\nTRANSPORTE DE PROFESSORES",
+            "empresa": "CT Nº\n\n10139/2021",
+            "valor_total": "R$ 46,504.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA\n\nINFORMATIZAÇÃO DAS UNIDADES BÁSICAS DE SAÚDE\n\nPARA IMPLEMENTAÇÃO DE PRONTUÁRIO ELETRÔNICO",
+            "empresa": "EMMANUEL INACIO DE LIMA\n\nARAUJO",
+            "valor_total": "R$ 124,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 677080.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1870792.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 145,
+        "num_contratos": 189,
+        "total_gasto": 20672115.08
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 2468455.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 395097.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 2718462.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 2872941.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 36,
+        "total_gasto": 3005319.41,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONCLUSÃO\n\nDE 01 (UMA) UNIDADE ESCOLAR PADRÃO FNDE COM 2\n\n(DUAS) SALAS DE AULA NO MUNICÍPIO DE BARRA DE\n\nSANTA ROSA/PB",
+            "empresa": "CONSTRUTORA APODI EIRELI",
+            "valor_total": "R$ 212,190.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 19,
+        "total_gasto": 1238311.24,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MECÂNICOS EM\n\nGERAL PARA MANUTENÇÃO PREVENTIVA E CORRETIVA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nDA FROTA DE VEÍCULOS DESTE MUNICÍPIO",
+            "empresa": "SEMEA COMERCIO DE PECAS E\n\nSERVICOS PARA AUTOS LTDA",
+            "valor_total": "R$ 553,453.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MECÂNICOS EM\n\nGERAL PARA MANUTENÇÃO PREVENTIVA E CORRETIVA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nDA FROTA DE VEÍCULOS DESTE MUNICÍPIO",
+            "empresa": "AUTO CAR COMERCIO DE PECAS E\n\nSERVICOS AUTOMOTIVOS LTDA",
+            "valor_total": "R$ 553,453.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MECÂNICOS EM\n\nGERAL PARA MANUTENÇÃO PREVENTIVA E CORRETIVA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nDA FROTA DE VEÍCULOS DESTE MUNICÍPIO",
+            "empresa": "IDEAL PNEUS PECAS E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 553,453.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MECÂNICOS EM\n\nGERAL PARA MANUTENÇÃO PREVENTIVA E CORRETIVA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nDA FROTA DE VEÍCULOS DESTE MUNICÍPIO",
+            "empresa": "IRENALDO\n\nFREIRE DA SILVA",
+            "valor_total": "R$ 553,453.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 146500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 1789814.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 557548.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 130493.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONCLUSÃO\n\nDE 01 (UMA) UNIDADE ESCOLAR PADRÃO FNDE COM 2\n\n(DUAS) SALAS DE AULA NO MUNICÍPIO DE BARRA DE\n\nSANTA ROSA/PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nBarra de Santa Rosa e: CT Nº 00132/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 18,
+        "total_gasto": 3478377.7600000002,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS E\nMATERIAL PERMANENTE PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00192/2022 - 26.12.22 até 31.12.23 - EMILLY\nINDUSTRIA E COMERCIO DE MOVEIS LTDA",
+            "valor_total": "R$ 233,661.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS E\nMATERIAL PERMANENTE PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00193/2022 - 26.12.22 até 31.12.23 - E C MARTINS\n- ME",
+            "valor_total": "R$ 233,661.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS E\nMATERIAL PERMANENTE PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00195/2022 - 26.12.22 até 31.12.23 - VIVA\nDISTRIBUIDORA DE PRODUTOS EIRELI",
+            "valor_total": "R$ 233,661.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS E\nMATERIAL PERMANENTE PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00197/2022 - 26.12.22 até 31.12.23 - ZIB\nCOMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 233,661.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS ELETRÔNICOS E\nMATERIAL PERMANENTE PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00199/2022 - 26.12.22 até\n\n31.12.23 - WHITE BOARD IMPORT COMERCIO E SERVICOS\nLTDA",
+            "valor_total": "R$ 233,661.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS PARA\nABASTECIMENTO DA FROTA DE VEÍCULOS E\nEQUIPAMENTOS DESTA PREFEITURA",
+            "empresa": ". PARTES\nCONTRATANTES: Prefeitura Municipal de Barra de Santa Rosa e:\nCT Nº 00010/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 119900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 164,
+        "num_contratos": 186,
+        "total_gasto": 24669951.729999997
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 4048099.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 68,
+        "total_gasto": 7869044.7700000005,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DAS SECRETARIAS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº 00037/2023 - 20.03.23 até 31.12.23 -\n\nMACONFAL MATERIAIS DE CONSTRUCAO LTDA",
+            "valor_total": "R$ 94,724.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DAS SECRETARIAS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº 00039/2023 - 20.03.23 até\n\n31.12.23 - EREPROT COMERCIO DE EQUIPAMENTOS DE\n\nPROTECAO INDIVIDUAL LTDA",
+            "valor_total": "R$ 94,724.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DAS SECRETARIAS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº 00041/2023 - 20.03.23 até\n\n31.12.23 - GRAND COMMERCE LTDA",
+            "valor_total": "R$ 94,724.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nEXPEDIENTE PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "WILTON CARLOS\n\nPALMITESTA",
+            "valor_total": "R$ 304,869.76"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nEXPEDIENTE PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00076/2023 -\n\n12.04.23 - POLEZA COMERCIAL LTDA",
+            "valor_total": "R$ 304,869.76"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nEXPEDIENTE PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "LPS DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 304,869.76"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS ORIGINAIS E\n\nGENUÍNAS DESTINADAS AOS SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA E CORRETIVA DA FROTA DE VEÍCULOS\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº 00091/2023 - 12.04.23 -\n\nAUTO CAR COMERCIO DE PECAS E SERVICOS\n\nAUTOMOTIVOS LTDA",
+            "valor_total": "R$ 1,488,233.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTÍCIOS PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "ACM MERCANTIL LTDA",
+            "valor_total": "R$ 40,762.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE FRUTAS, VERDURAS\n\nE LEGUMES PARA ATENDER AS NECESSIDADES DAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "CT Nº\n\n00097/2023",
+            "valor_total": "R$ 63,220.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 23,
+        "total_gasto": 1684500.3599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 5293316.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 24,
+        "total_gasto": 1406979.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ATERRO SANITÁRIO\nLICENCIADO PARA RECEBIMENTO E DESTINAÇÃO FINAL\nDE RESÍDUOS SÓLIDOS URBANOS PRODUZIDOS PELO\nMUNICÍPIO DE BARRA DE SANTA ROSA/PB",
+            "empresa": "ECOSOLO\nGESTAO AMBIENTAL DE RESIDUOS LTDA",
+            "valor_total": "R$ 41,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 1498594.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE LOCAÇÃO DE\n\nVEÍCULO COM CONDUTOR PARA TRANSPORTAR\n\nESTUDANTES DURANTE O PERÍODO LETIVO DE 2023",
+            "empresa": "JOSE MARCOS\n\nPEREIRA BATISTA",
+            "valor_total": "R$ 20,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 776024.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\nASSESSORIA EDUCACIONAL PARA PROMOÇÃO DE\nTREINAMENTO POR PLATAFORMA DE EDUCAÇÃO A\nDISTÂNCIA (EAD) DE PROFESSORES DESTE MUNICÍPIO",
+            "empresa": "F PATRICIO DE SOUZA",
+            "valor_total": "R$ 16,984.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CARNES\nDESTINADOS À MERENDA ESCOLAR E PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "ACM MERCANTIL LTDA",
+            "valor_total": "R$ 45,585.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE\nESTRUTURA PARA ATENDER OS EVENTOS OFICIAIS E\nFESTIVIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00149/2023 -\n05.09.23 até 05.09.24",
+            "valor_total": "R$ 393,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1647113.7000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE CURSO DE FORMAÇÃO E\n\nCAPACITAÇÃO PARA GESTORES APROVADOS NO\n\nPROCESSO SELETIVO",
+            "empresa": "48.553.456\n\nMARIZA RIBEIRO DA SILVA",
+            "valor_total": "R$ 17,500.00"
+          },
+          {
+            "objeto": "ADEQUAÇÃO DE ESTRADAS VICINAIS NO\n\nMUNICÍPIO DE BARRA DE SANTA ROSA – PB CONFORME CT\n\n1072883–42",
+            "empresa": "R F SERVICOS DE CONSTRUCAO\n\nCIVIL EIRELI",
+            "valor_total": "R$ 739,743.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE PORTAL NO MUNICÍPIO DE BARRA DE SANTA ROSA-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Barra de Santa\n\nRosa e: CT Nº 00020/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 125868.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 200509.83000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 3311555.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 158,
+        "num_contratos": 183,
+        "total_gasto": 26474008.009999998
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 862664.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 1671252.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 40,
+        "total_gasto": 5178977.54,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SHOW ARTÍSTICO MUSICAL DE \"SOLANGE ALMEIDA\"\n\nNA FESTA CAPRIFEIRA 2024, NO DIA 03 DE MAIO DE 2024\nNESTE MUNICÍPIO",
+            "empresa": "SOL PRODUCAO E\nADMINISTRACAO ARTISTICA LTDA",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA COM\n\nPROFISSIONAL DE NOTÓRIA ESPECIALIZAÇÃO PARA OS\n\nSERVIÇOS CONTÁBEIS DESTA PREFEITURA",
+            "empresa": "JR CONTABILIDADE PÚBLICA EIRELI",
+            "valor_total": "R$ 60,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA COM\nPROFISSIONAIS DE NOTÓRIA ESPECIALIZAÇÃO PARA OS\n\nSERVIÇOS PERANTE A TRIBUNAIS E ASSESSORIA AO\n\nGABINETE DO PREFEITO DESTE MUNICÍPIO",
+            "empresa": "FARIAS & VASCONCELOS ADVOGADOS ASSOCIADOS",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS DE NOTÓRIA ESPECIALIZAÇÃO PARA\n\nDEFESA DOS INTERESSES DESTE MUNICÍPIO NO\n\nACOMPANHAMENTO DE PROCESSOS DE 1º GRAU JUNTO À\nJUSTIÇA ESTADUAL, TRABALHISTA E MINISTÉRIO\n\nPÚBLICO ESTADUAL E FEDERAL, BEM COMO EM\n\nPARECERES EM LICITAÇÕES E CONTRATOS E PROCESSOS\n\nADMINISTRATIVOS",
+            "empresa": "LUCELIA MEDEIROS -\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SHOW ARTÍSTICO MUSICAL DE \"JEFFERSON\n\nARRETADO\" NA FESTA CAPRIFEIRA 2024, NO DIA 03 DE\n\nMAIO DE 2024 NESTE MUNICÍPIO",
+            "empresa": "EXCLUSIVE ENTRETENIMENTOS MUSICAIS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE CONSULTORIA E\n\nASSESSORIA TÉCNICA ESPECIALIZADA NA DEFESA DOS\n\nINTERESSES E REPRESENTAÇÃO ADMINISTRATIVA EM\n\nMATÉRIA PREVIDENCIÁRIA E FAZENDÁRIA JUNTO À\nRECEITA FEDERAL DO BRASIL, PGFN, TCE, MINISTÉRIO\n\nPÚBLICO E JUDICIÁRIO; E REGULARIDADE\n\nPREVIDENCIÁRIA DO MUNICÍPIO DE BARRA DE SANTA\n\nROSA",
+            "empresa": "GESPREV",
+            "valor_total": "R$ 41,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SHOW ARTÍSTICO MUSICAL DE \"CAVALEIROS DO\n\nFORRÓ\" NA FESTA CAPRIFEIRA 2024, NO DIA 04 DE MAIO\nDE 2024 NESTE MUNICÍPIO",
+            "empresa": "MUSICAL CAVALEIROS DO FORRO LTDA",
+            "valor_total": "R$ 130,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 1015800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 25,
+        "total_gasto": 4196645.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 583128.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 21,
+        "total_gasto": 2903481.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1335053.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 439459.99,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PROJETO DE ENSINO EM 3D PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE EDUCAÇÃO",
+            "empresa": "FEELING COMERCIO\n\nE SERVICOS LTDA",
+            "valor_total": "R$ 110,400.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA E FUNDO MUNICIPAL DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "MAQUIRA INDUSTRIA DE PRODUTOS ODONTOLOGICOS\n\nS.A.",
+            "valor_total": "R$ 283,689.99"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA E FUNDO MUNICIPAL DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "FARMAGUEDES COM. DE PROD. FARMACEUTICOS,\n\nMEDICOS HOSPITALARE",
+            "valor_total": "R$ 283,689.99"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA E FUNDO MUNICIPAL DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "CT Nº 00158/2024 -\n\n17.10.24 - MAXIMA DENTAL IMPORTAÇÃO, EXPORTAÇÃO E\n\nCOMERCIO DE PRODUTOS ODONTOLOGICOS EIRELI",
+            "valor_total": "R$ 283,689.99"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA E FUNDO MUNICIPAL DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "DENTALMED\n\nPRODUTOS PARA SAUDE LTDA",
+            "valor_total": "R$ 283,689.99"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA E FUNDO MUNICIPAL DE SAÚDE DESTE\n\nMUNICÍPIO",
+            "empresa": "M B DE ARAUJO XAVIER - MBX\n\nPRODUTOS MEDICOS HOSPITALARES E ODONTOLOGICOS -\n\nR$ 1.523,90; CT Nº 00181/2024 - 17.10.24 - DENTAL IPO LTDA -\n\nR$ 52.472,52; CT Nº 00182/2024 - 17.10.24 - RPS COMERCIO DE\n\nPRODUTOS COSMETICOS LTDA",
+            "valor_total": "R$ 283,689.99"
+          },
+          {
+            "objeto": "LOCAÇÃO DE TRATOR DE ESTEIRA COM\n\nOPERADOR PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE AGRICULTURA E MEIO AMBIENTE DESTE\n\nMUNICÍPIO",
+            "empresa": "MARIA DA GUIA SANTOS SILVA",
+            "valor_total": "R$ 45,370.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE PORTAL NO MUNICÍPIO DE BARRA DE SANTA ROSA-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Barra de Santa\n\nRosa e: CT Nº 00020/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 2745432.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 15,
+        "total_gasto": 2230554.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

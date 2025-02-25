@@ -1,0 +1,1139 @@
+{
+  "id": "sao-domingos",
+  "nome": "São Domingos",
+  "detalhe": {
+    "2018": {
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 29,
+        "num_contratos": 49,
+        "total_gasto": 1918593.88
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 44650.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 399111.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 18,
+        "total_gasto": 408358.04000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1021044.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 45430.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 43,
+        "total_gasto": 3418245.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 64,
+        "num_contratos": 138,
+        "total_gasto": 6856690.659999998
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 15,
+        "total_gasto": 473418.3,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde medicamentos psicotrópicos, destinados a manutenção da\n\nSecretaria de Saúde do município de São Domingos",
+            "empresa": "NNMED",
+            "valor_total": "R$ 12,581.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 208671.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento parcelado de refeições, destinados aos\nprofissionais de diversas Secretarias do município de São Domingos",
+            "empresa": "LUZINEIDE MARIA DE SOUSA\nABRANTES",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o aquisição de pneus e\nacessórios novos de primeira linha de fabricação, incluindo os\nserviços de instalação, alinhamento e balanceamento, de forma\nparcelada, destinados a manutenção dos veículos pertencentes a\nPrefeitura Municipal de São Domingos",
+            "empresa": "FRANCISCO XAVIER DO REGO",
+            "valor_total": "R$ 62,810.00"
+          },
+          {
+            "objeto": "Contratação de profissionais técnicos especializados para\nexecução de serviços de Oficinas de Esporte no Município de São\nDomingos/PB",
+            "empresa": "CT Nº\n00109/2019",
+            "valor_total": "R$ 16,200.00"
+          },
+          {
+            "objeto": "Contratação de profissionais técnicos especializados para\nexecução de serviços de Oficinas de Esporte no Município de São\nDomingos/PB",
+            "empresa": "CT Nº 00110/2019",
+            "valor_total": "R$ 16,200.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de um veículo,\ntipo caminhonete, destinado a manutenção das atividades da\nSecretaria de Educação e Cultura do município de São Domingos/PB",
+            "empresa": "SEBASTIÃO FRANCISCO DE\nALMEIDA",
+            "valor_total": "R$ 22,500.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para prestação de serviço de\nprovimento de acesso à internet com configuração, instalação e\n\nmontagem destinado as atividades administrativas do município de\nSão Domingos /PB",
+            "empresa": "CT\nNº 00113/2019 - 25.03.19 - DDL LINE TELECOM LTDA",
+            "valor_total": "R$ 61,161.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 12,
+        "total_gasto": 888772.1199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de locação de programa de\ninformática para processamento e gerenciamento de certames e\ncontratos administrativos no município de São Domingos/PB",
+            "empresa": "JACKSON FABIANO\nOLIVEIRA FLOR",
+            "valor_total": "R$ 33,600.00"
+          },
+          {
+            "objeto": "Contratação dos\nserviços de conexão à internet; VIGÊNCIA: 02 de maio de 2019 a 02\nde maio de 2020; DOTAÇÃO ORÇAMENTÁRIA: 02 03 04 122\n0003 2005 0000 – SECRETARIA DE ADMINISTRAÇÃO;\nELEMENTO DE DESPESA: 3.3.90.39.00 - Outros Serviços de\nTerceiros – PJ; FONTES: 01 001/001 001;",
+            "empresa": "ALSOL PROVEDOR DE INTERNET\nLTDA-ME",
+            "valor_total": "R$ 31,435.20"
+          },
+          {
+            "objeto": "Contratação dos\nserviços de conexão à internet; VIGÊNCIA: 02 de maio de 2019 a 02\nde maio de 2020; DOTAÇÃO ORÇAMENTÁRIA: 02 03 04 122\n0003 2005 0000 – SECRETARIA DE ADMINISTRAÇÃO;\nELEMENTO DE DESPESA: 3.3.90.39.00 - Outros Serviços de\nTerceiros – PJ; FONTES: 01 001/001 001;",
+            "empresa": "e\nAntônio Ricardo Gomes de Lemos",
+            "valor_total": "R$ 31,435.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 583368.9500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 14,
+        "total_gasto": 424442.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 30816.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 64184.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 14,
+        "total_gasto": 328708.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 11,
+        "total_gasto": 436062.81999999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 712219.35,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para o fornecimento parcelado de\n\nfrutas, verduras, legumes e hortaliças, destinados a manutenção das\n\natividades de diversas secretarias do município de São Jose da Lagoa\n\nTapada",
+            "empresa": "DECA FRUTAS",
+            "valor_total": "R$ 75,022.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 68,
+        "num_contratos": 131,
+        "total_gasto": 9910338.639999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 43,
+        "total_gasto": 3799704.5999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 41346.87,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição gradativa de material de copa, cozinha, mesa\ne banho; VIGÊNCIA: 27 de março a 31 de dezembro de 2020;",
+            "empresa": "FRANCISCA FRANSUELITA\nSARAIVA RESENDES",
+            "valor_total": "R$ 16,146.87"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 1545795.2999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 22,
+        "total_gasto": 2162952.8000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 229803.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 190954.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 233760.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 80834.33,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na prorrogação do prazo\ndo contrato nº 00166/2018 para o dia 12/09/2021",
+            "empresa": "Prefeitura Municipal de São Domingos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "Prefeitura Municipal de São Domingos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "Prefeitura Municipal de São Domingos",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 211644.68,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição\ngradativa de pneus, câmaras de ar e protetores certificados pelo IN\nMETRO;",
+            "empresa": "LUANA DANTAS COMERCIO\nVAREJISTA DE PECAS PARA VEÍCULOS AUTOMOTORES\nEIRELI",
+            "valor_total": "R$ 24,068.00"
+          },
+          {
+            "objeto": "aquisição\ngradativa de pneus, câmaras de ar e protetores certificados pelo IN\nMETRO;",
+            "empresa": "e Edilson Bispo de Jesus",
+            "valor_total": "R$ 24,068.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 19,
+        "total_gasto": 623822.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de serviço de\nmanutenção preventiva e corretiva de equipamentos médicos\nhospitalares e odontológicos pertencentes ao município de São\n\nDomingos/PB",
+            "empresa": "JACINTA GOMES DE FARIAS",
+            "valor_total": "R$ 3,520.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\ninsumos, materiais e equipamentos de proteção individual, destinados\na paramentação de servidores e profissionais da Secretaria de\nAssistência Social, como medida de prevenção ao contágio da\n\nCOVID–19 no município de São Domingos/PB",
+            "empresa": "PAULO JOSÉ MAIA ESMERALDO SOBREIRA ME",
+            "valor_total": "R$ 5,300.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de seringas, de\n\nforma parcelada, destinados a manutenção das atividades de\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\nNOSSA SENHORA",
+            "valor_total": "R$ 29,090.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de seringas, de\n\nforma parcelada, destinados a manutenção das atividades de\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "PAULO JOSÉ MAIA ESMERALDO SOBREIRA ME",
+            "valor_total": "R$ 29,090.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de seringas, de\nforma parcelada, destinados a manutenção das atividades de\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E LABORATORIAL\nNOSSA SENHORA",
+            "valor_total": "R$ 29,090.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de seringas, de\nforma parcelada, destinados a manutenção das atividades de\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "PAULO JOSÉ MAIA ESMERALDO SOBREIRA ME",
+            "valor_total": "R$ 29,090.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\nplantas ornamentais, destinadas ao paisagismo de jardins do Centro\nAdministrativo do Município de São Domingos/PB",
+            "empresa": "DAVID WILKER DE\nSOUSA MOREIRA",
+            "valor_total": "R$ 16,303.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 77500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais de\n\nlimpeza, de forma parcelada, destinados a manutenção das atividades\n\nde diversas Secretarias do Município de São Domingos/PB",
+            "empresa": "SUPERMERCADOS MAIA LTDA",
+            "valor_total": "R$ 5,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 699006.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 85,
+        "num_contratos": 110,
+        "total_gasto": 8506351.3
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 20,
+        "total_gasto": 2527850.79,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de frutas, verduras,\nlegumes e hortaliças, de forma parcelada, destinados a manutenção\ndas atividades de diversas secretarias do município de São Domingos",
+            "empresa": "RUBENS SOUSA LOPES",
+            "valor_total": "R$ 166,313.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de carnes, frangos\ne derivados, de forma parcelada, destinados a manutenção das\natividades de diversas secretarias do município de São Domingos",
+            "empresa": "MARCONELDO DANTAS GOMES",
+            "valor_total": "R$ 272,483.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de carnes, frangos\ne derivados, de forma parcelada, destinados a manutenção das\natividades de diversas secretarias do município de São Domingos",
+            "empresa": "RUBENS SOUSA LOPES",
+            "valor_total": "R$ 272,483.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de carnes, frangos\ne derivados, de forma parcelada, destinados a manutenção das\natividades de diversas secretarias do município de São Domingos",
+            "empresa": "SUPERMERCADOS MAIA LTDA -\nME",
+            "valor_total": "R$ 272,483.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de leites especiais,\nde forma parcelada, destinados ao atendimento de prescrições médicas\npara distribuição gratuita a pessoas carentes do município de São\nDomingos",
+            "empresa": "G & G COMERCIO DE\nPRODUTOS FARMACEUTICOS LTDA",
+            "valor_total": "R$ 82,435.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de leites especiais,\nde forma parcelada, destinados ao atendimento de prescrições médicas\npara distribuição gratuita a pessoas carentes do município de São\nDomingos",
+            "empresa": "TECNOCENTER MATERIAIS MÉDICOS\nHOSPITALARES LTDA",
+            "valor_total": "R$ 82,435.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de gêneros\nalimentícios, de forma parcelada, destinados a pequenas doações a\nfamílias carentes do município de São Domingos/PB",
+            "empresa": "PAULO SUELIO PEREIRA NICACIO",
+            "valor_total": "R$ 84,185.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução de serviço de\nmanutenção preventiva e corretiva de equipamentos médicos\nhospitalares e odontológicos pertencentes ao município de São\nDomingos/PB",
+            "empresa": "JACINTA GOMES DE FARIAS",
+            "valor_total": "R$ 24,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 17527.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\nde mobiliário e equipamentos, destinados a diversas secretarias do\nMunicípio de São Domingos",
+            "empresa": "PROJECTO, MÓVEIS\nE EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 17,527.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 873810.1799999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 1474171.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 14,
+        "total_gasto": 545983.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 1167332.5,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na prorrogação do prazo\n\nde vigência do contrato n° 00136/2020, fica prorrogado para até 28 de\n\njaneiro de 2022",
+            "empresa": "Prefeitura Municipal de São Domingos.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 114270.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural para alimentação escolar,\ndestinado ao atendimento ao Programa Nacional de Alimentação\nEscolar no Município de São Domingos",
+            "empresa": "ADEÍLTON DA SILVA SOUSA",
+            "valor_total": "R$ 38,070.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural para alimentação escolar,\ndestinado ao atendimento ao Programa Nacional de Alimentação\nEscolar no Município de São Domingos",
+            "empresa": "CT Nº\n00085/2021",
+            "valor_total": "R$ 38,070.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural para alimentação escolar,\ndestinado ao atendimento ao Programa Nacional de Alimentação\nEscolar no Município de São Domingos",
+            "empresa": "CT Nº 00086/2021",
+            "valor_total": "R$ 38,070.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 94840.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual prestação\n\nde serviços de manutenção preventiva e corretiva, assim como a\n\nreposição de peças e componentes de sistemas de ar condicionado dos\n\nveículos e máquinas pesadas pertencentes a Prefeitura Municipal de\n\nSão Domingos/PB",
+            "empresa": "N A\n\nEQUIPADORA LTDA",
+            "valor_total": "R$ 30,800.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual prestação\n\nde serviços de pintura e funilaria, assim como a reposição de peças e\n\nacessórios dos veículos pertencentes a Prefeitura Municipal de São\n\nDomingos/PB",
+            "empresa": "N A\n\nEQUIPADORA LTDA",
+            "valor_total": "R$ 28,040.00"
+          },
+          {
+            "objeto": "Contratação de pessoa física ou jurídica para prestação de\n\nserviço de locação mensal de um veículo, tipo caminhão basculante,\n\ndestinado às atividades diárias de coleta de lixo domiciliar e outros\n\nserviços de competência da Secretaria de Transporte, Obras e Serviços\n\nPúblicos do município de São Domingos/PB",
+            "empresa": "WASHINGTON\n\nNÓBREGA FERNANDES",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 581163.48,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "Prefeitura Municipal de São Domingos.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais limpeza e saneantes, de forma parcelada, destinados ao\n\natendimento das atividades de diversas Secretarias do Município de\n\nSão Domingos/PB",
+            "empresa": "ADEMILTON NOGUEIRA",
+            "valor_total": "R$ 78,226.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais limpeza e saneantes, de forma parcelada, destinados ao\n\natendimento das atividades de diversas Secretarias do Município de\n\nSão Domingos/PB",
+            "empresa": "SUPERMERCADOS\n\nMAIA LTDA",
+            "valor_total": "R$ 78,226.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nCapacitação e consultoria Dirigidas ao Público definido pelo\n\nMunicípio de São José da Lagoa Tapada/PB:\n\nFundamentAÇÃO: Art",
+            "empresa": "SEV. DE APOIO AS MICRO E PEQ EMP DA\n\nPARAÍBA SEBRAE/PB",
+            "valor_total": "R$ 28,772.00"
+          },
+          {
+            "objeto": "Aquisição e instalação dos equipamentos destinado ao\n\nmatadouro do município de São Jose da Lagoa Tapada/PB QUE\n\nFICOU DESERTA NO PREGÃO PRESENCIAL 16-2021",
+            "empresa": "MACROTEC EQUIPAMENTOS LTDA-EPP\n\n(MACROTEC)",
+            "valor_total": "R$ 28,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 385395.83999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\n\nserviço de reforma e ampliação da Escola Miguel Rodrigues de\n\nAlmeida, localizada no Sítio Carnaúba no Município de São\n\nDomingos/PB",
+            "empresa": "MAURILIO FERREIRA DA SILVA\n\nEIRELI",
+            "valor_total": "R$ 158,255.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 25000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1957292.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 148,
+        "total_gasto": 11649653.220000003
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 2101469.56,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde máquina pesada, do tipo trator agrícola, destinado ao município de\n\nSão Domingos",
+            "empresa": "SILVA ARAUJO\n\nCOMERCIO E SERVICOS DE MAQUINAS E EQUIPAMENTOS\n\nAGRICOLAS LTDA",
+            "valor_total": "R$ 210,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 26,
+        "total_gasto": 2234500.49,
+        "empresas_mensais": [
+          {
+            "objeto": "execução\n\ndos serviços técnicos especializados na manutenção e reparação de\n\ncomputadores e impressoras; VIGÊNCIA: 25 de março a 31 de\n\ndezembro de 2022; DOTAÇÃO ORÇAMENTÁRIA:02 02 04 124\n\n0043 2179 0000 MANUTENÇÃO DO CONTROLE INTERNO;\n\nELEMENTO DE DESPESAS:3.3.90.39.00OUTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA JURÍDICA; FONTE:1.500.0000/001",
+            "empresa": "ESTER ALENCAR DOS SANTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "execução\n\ndos serviços técnicos especializados na manutenção e reparação de\n\ncomputadores e impressoras; VIGÊNCIA: 25 de março a 31 de\n\ndezembro de 2022; DOTAÇÃO ORÇAMENTÁRIA:02 02 04 124\n\n0043 2179 0000 MANUTENÇÃO DO CONTROLE INTERNO;\n\nELEMENTO DE DESPESAS:3.3.90.39.00OUTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA JURÍDICA; FONTE:1.500.0000/001",
+            "empresa": "e Ester Alencar dos Santos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "execução dos\n\nserviços de engenharia; VIGÊNCIA: 01 de abril a 31 de dezembro de\n\n2022;",
+            "empresa": "E H DE OLIVEIRA ASSESORIA E\n\nPROJETOS (CNPJ nº 45.578.924/0001-08);",
+            "valor_total": "R$ 21,600.00"
+          },
+          {
+            "objeto": "execução dos\n\nserviços de engenharia; VIGÊNCIA: 01 de abril a 31 de dezembro de\n\n2022;",
+            "empresa": "e Eduardo Henrique de Oliveira",
+            "valor_total": "R$ 21,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 851749.96,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\n\nveículos novos, destinados a manutenção das atividades da Secretaria\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 48\n\n\n\nde Saúde do Município de São Domingos/PB",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 148,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 517679.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 672037.9,
+        "empresas_mensais": [
+          {
+            "objeto": "execução\n\ndos serviços técnicos em sistemas operacionais Windows, pacote\n\noffice, proteção, prevenção e Backup; VIGÊNCIA: 01 de julho a 31\n\nde dezembro de 2022; DOTAÇÃO ORÇAMENTÁRIA:02 02 04 124\n\n0043 2179 0000 MANUTENÇÃO DO CONTROLE INTERNO;\n\nELEMENTO DE DESPESAS:3.3.90.39.00OUTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA JURÍDICA; FONTE:1.500.0000/001",
+            "empresa": "AIVONEIDE OLIVEIRA LIMA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "execução\n\ndos serviços técnicos em sistemas operacionais Windows, pacote\n\noffice, proteção, prevenção e Backup; VIGÊNCIA: 01 de julho a 31\n\nde dezembro de 2022; DOTAÇÃO ORÇAMENTÁRIA:02 02 04 124\n\n0043 2179 0000 MANUTENÇÃO DO CONTROLE INTERNO;\n\nELEMENTO DE DESPESAS:3.3.90.39.00OUTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA JURÍDICA; FONTE:1.500.0000/001",
+            "empresa": "e Aivoneide Oliveira de Lima",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 342864.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 362630.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de locação mensal de um veículo,\n\ntipo caminhonete, destinado a manutenção das atividades da\n\nSecretaria de Educação e Cultura do município de São Domingos/PB",
+            "empresa": "DIÊGO NOBRE ALMEIDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 146279.64,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de locação mensal de um veículo,\n\ndestinado ao transporte de estudantes do Município de São\n\nDomingos/PB",
+            "empresa": "GINALDO BEZERRA DA SILVA",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 28,
+        "total_gasto": 1394681.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 14,
+        "total_gasto": 623349.4,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde medicamentos diversos, não padronizados, mediante solicitação\nperiódica para atender as necessidades da Secretaria de Saúde do\nmunicípio de São Domingos",
+            "empresa": "MARIA\nAUXILIADORA FERREIRA VIEIRA DE OLIVEIRA",
+            "valor_total": "R$ 38,000.00"
+          },
+          {
+            "objeto": "Contratação de pessoa física ou jurídica para prestação de\nserviço de locação mensal de um veículo, tipo caminhão basculante,\ndestinado às atividades diárias de coleta de lixo domiciliar e outros\nserviços de competência da Secretaria de Transporte, Obras e Serviços\nPúblicos do município de São Domingos/PB",
+            "empresa": "WASHINGTON\nNÓBREGA FERNANDES",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para locação\nde maquina perfuratriz para Perfuração de Poços Artesianos com\nprofundidade de até 50 (cinqüenta) metros, em diversas localidades,\ndestinado ao abastecimento de água do consumo humano e animal\npara atender aos pequenos agricultores do Município de São\nDomingos/PB",
+            "empresa": "MILOR PERFURAÇÕES EIRELI",
+            "valor_total": "R$ 45,990.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde combustíveis, de forma parcelada, destinados ao abastecimento da\nfrota de veículos e máquinas do município de São Domingos",
+            "empresa": "MARINGÁ POSTO DE\nCOMBUSTÍVEIS E SERVIÇOS LTDA ME",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos, de forma parcelada, destinados a manutenção das\natividades da Farmácia Básica do Município de São Domingos/PB",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos, de forma parcelada, destinados a manutenção das\natividades da Farmácia Básica do Município de São Domingos/PB",
+            "empresa": "CT Nº 00203/2022",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "ALLFAMED COMÉRCIO ATACADISTA\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 387,359.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "CT Nº\n00206/2022 - 21.11.22 - HOSPHARMA COMÉRCIO\nATACADISTA DE MEDICAMENTOS, MAT. MÉDICO HOSP. E\nLABOR. LTDA",
+            "valor_total": "R$ 387,359.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "JM\nCOMÉRCIO E REPRESENTAÇÃO EIRELI",
+            "valor_total": "R$ 387,359.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 387,359.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "NNMED - DISTRIBUICAO,\nIMPORTACAO E EXPORTACAO DE MEDICAMENTO",
+            "valor_total": "R$ 387,359.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual aquisição\nde medicamentos e materiais hospitalares, de forma parcelada,\ndestinados a manutenção das atividades de Secretaria de Saúde do\nMunicípio de São Domingos",
+            "empresa": "ODONTOMED\nCOMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES LTDA\nME",
+            "valor_total": "R$ 387,359.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 445118.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde gêneros alimentícios e materiais de limpeza, de forma parcelada,\n\ndestinados a pequenas doações a famílias carentes do Município de\n\nSão Domingos/PB",
+            "empresa": "PAULO SUELIO\n\nPEREIRA NICACIO",
+            "valor_total": "R$ 135,525.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde combustíveis, de forma parcelada, destinados ao abastecimento da\n\nfrota de veículos do Município de São Domingos, que circulam a\n\nlocalidade de João Pessoa ou BR 230 até aproximadamente Km 100",
+            "empresa": "COMERCIAL DE COMBUSTIVEIS CAJA\n\nLTDA",
+            "valor_total": "R$ 93,900.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual realização\n\nde exames de imagem, destinados a manutenção das atividades da\n\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "CEMOAN\n\nCENTRO MEDICO DR. OZIAS ARRUDA NETO LTDA",
+            "valor_total": "R$ 215,693.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual realização\n\nde exames de imagem, destinados a manutenção das atividades da\n\nSecretaria de Saúde do Município de São Domingos",
+            "empresa": "CENTRO DE\n\nDIAGNÓTICO POR IMAGEM SANTA CECÍLIA LTDA.",
+            "valor_total": "R$ 215,693.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 34,
+        "total_gasto": 3356236.8600000003,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e suprimentos de informática, de forma parcelada,\n\ndestinados ao atendimento das atividades de diversas Secretarias do\n\nMunicípio de São Domingos",
+            "empresa": "CT Nº 00042/2023",
+            "valor_total": "R$ 52,943.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 126,
+        "total_gasto": 10042024.500000002
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 956066.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 910119.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica para execução de serviço de\n\nlocação de estrutura para evento de festividades comemorativas da\n\nEmancipação Política do município de São Domingos",
+            "empresa": "WYLLENDER ALMEIDA DE SOUSA GALDINO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 320009.5,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para manutenção preventiva e\ncorretiva, bem como a reposição de peças e componentes elétricos dos\nveículos e máquinas pesadas pertencentes à Prefeitura Municipal de\nSão Domingos",
+            "empresa": "CT N° 00113/2023",
+            "valor_total": "R$ 125,240.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 927654.7000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação dos serviços especializados de assessoria e consultoria\n\ntécnica-administrativa em licitações e contratos e planejamento de\n\ncontratação pública - Leis nº 8.666/1993, 10.520/2002 e 14.133/2021;\n\nVIGÊNCIA: 01 de julho de 2023 a 01 de julho de 2024;",
+            "empresa": "ALICON LICITAÇÕES E\n\nCONTRATOS LTDA ME, (CNPJ nº 21.738.421/0001-94);",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação dos serviços especializados de assessoria e consultoria\n\ntécnica-administrativa em licitações e contratos e planejamento de\n\ncontratação pública - Leis nº 8.666/1993, 10.520/2002 e 14.133/2021;\n\nVIGÊNCIA: 01 de julho de 2023 a 01 de julho de 2024;",
+            "empresa": "e Hélyda Wanderley da Costa",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 86940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 1404802.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 833555.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 210714.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 819425.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada em Locação\n\nmensal de Equipamentos Médicos Hospitalares incluindo Manutenção\n\nPreventiva e Corretiva com Fornecimento de Peças Para a\n\nimplantação do centro cirúrgico do Município de São Jose da Lagoa\n\nTapada-PB",
+            "empresa": "CEDIC",
+            "valor_total": "R$ 215,292.00"
+          },
+          {
+            "objeto": "Aquisição de Unidade Móvel de Saúde Tipo VAN (0km –\n\nPrimeiro Licenciamento, para atender a secretaria Saúde, (Proposta\n\n11420422000123001) do Município de São José da Lagoa Tapada–\n\nPB",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 340,000.00"
+          },
+          {
+            "objeto": "aquisição de veículo\n\nautomotivo;",
+            "empresa": "RIO VALE AUTOMOTORES\n\nLTDA",
+            "valor_total": "R$ 129,550.00"
+          },
+          {
+            "objeto": "aquisição de veículo\n\nautomotivo;",
+            "empresa": "Francisco Tertuliano Martins Neto",
+            "valor_total": "R$ 129,550.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\narmário de cozinha;",
+            "empresa": "K J DE M ANDRADE LTDA",
+            "valor_total": "R$ 2,646.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\narmário de cozinha;",
+            "empresa": "e Katia Jeane de Medeiros Andrade",
+            "valor_total": "R$ 2,646.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 216500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA LOCAÇÃO DE VEÍCULOS, TIPO, PASSEIO, UTILITÁRIO\nE DE GRANDE PORTE",
+            "empresa": "BOMSUCESSO CONSTRUÇÕES E SERVIÇOS LTDA-ME",
+            "valor_total": "R$ 192,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 16800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 171,
+        "num_contratos": 143,
+        "total_gasto": 11490187.760000002
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 238329.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 184940.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 34,
+        "total_gasto": 3001630.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde um veículo, novo, tipo ambulância de simples remoção, destinados\na manutenção das atividades da Secretaria de Saúde do Município de\n\nSão Domingos/PB",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 125,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 332230.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 147855.41999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 23,
+        "total_gasto": 2038269.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 1444353.45,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais para manutenção de bens e imóveis, de forma parcelada,\n\ndestinados a manutenção das atividades de diversas Secretarias do\n\nMunicípio de São Domingos",
+            "empresa": "CENTRAL DO CONSTRUTOR\n\nCOMERCIO VAREJISTA DE MATERIAIS DE CONSTRU????O\n\nLTDA",
+            "valor_total": "R$ 479,850.57"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 1614316.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 246021.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 1062977.76,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde carnes, frangos e derivados, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas secretarias do Município de\n\nSão Domingos/PB",
+            "empresa": "HELENICE WANDERLEY FORMIGA -\n\nR$ 175.334,00; CT Nº 00140/2024",
+            "valor_total": "R$ 130,330.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde carnes, frangos e derivados, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas secretarias do Município de\n\nSão Domingos/PB",
+            "empresa": "CT Nº 00141/2024",
+            "valor_total": "R$ 130,330.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1162463.21,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de pães, bolos e biscoitos, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "49.523.382 ALLANA PEREIRA\n\nDE ALMEIDA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Aquisição de material gráfico, material didático, material\n\nde expediente e suprimentos de informática, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "49.523.382 ALLANA PEREIRA\n\nDE ALMEIDA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Contratação de empresa para a prestação de serviços de\n\ntombamento de bens patrimoniais da Câmara Municipal de São\n\nDomingos - PB",
+            "empresa": "49.523.382 ALLANA PEREIRA\n\nDE ALMEIDA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Aquisição de pães, bolos e biscoitos, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "ELRY ANTONIO DE\n\nSANTANA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Aquisição de material gráfico, material didático, material\n\nde expediente e suprimentos de informática, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "ELRY ANTONIO DE\n\nSANTANA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Contratação de empresa para a prestação de serviços de\n\ntombamento de bens patrimoniais da Câmara Municipal de São\n\nDomingos - PB",
+            "empresa": "ELRY ANTONIO DE\n\nSANTANA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Aquisição de pães, bolos e biscoitos, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO\n\nPÚBLICA LTDA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Aquisição de material gráfico, material didático, material\n\nde expediente e suprimentos de informática, com fornecimento\n\nparcelado, destinado a manutenção das atividades da Câmara\n\nMunicipal de São Domingos",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO\n\nPÚBLICA LTDA",
+            "valor_total": "R$ 36,917.00"
+          },
+          {
+            "objeto": "Contratação de empresa para a prestação de serviços de\n\ntombamento de bens patrimoniais da Câmara Municipal de São\n\nDomingos - PB",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO\n\nPÚBLICA LTDA",
+            "valor_total": "R$ 36,917.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

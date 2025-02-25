@@ -5,34 +5,41 @@
     "2023": {
       "12": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 70000.0,
+        "top_3_empresas": [
+          "HOTEL TERRA DO SAL\nLTDA",
+          "MIO TELECOM LTDA",
+          "e\nMaércio José Diniz"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW MUSICAL\nEM PRAÇA PÚBLICA DA BANDA INALA, DURANTE O\nEVENTO DE REVEILLON 2023/2024 NO MUNICÍPIO DE SÃO\nJOÃO DO RIO DO PEIXE/PB",
+          "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW\nMUSICAL EM PRAÇA PÚBLICA DA BANDA INALA,\nDURANTE O EVENTO DE REVEILLON 2023/2024 NO\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE/PB"
+        ]
       },
       "resumo": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 2,
+        "total_gasto": 70000.0
       }
     },
     "2024": {
       "4": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 2298179.63,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 100025.0
+        "num_contratos": 14,
+        "total_gasto": 2773204.63
       },
       "11": {
         "num_diarios": 1,
-        "num_contratos": 1,
-        "total_gasto": 100025.0,
+        "num_contratos": 2,
+        "total_gasto": 475025.0,
         "top_3_empresas": [
           "TAYANNE KELLY BATISTA FESTAS E\n\nDECORÇAÕES (TAYANNE FESTAS)",
           "Tayanne Kelly Carlos Batista"
@@ -46,13 +53,18 @@
   },
   "resumo": {
     "num_diarios": 4,
-    "num_contratos": 1,
-    "total_gasto": 100025.0,
+    "num_contratos": 16,
+    "total_gasto": "2.843.204,63",
     "top_5_empresas": {
+      "HOTEL TERRA DO SAL\nLTDA": 1,
+      "MIO TELECOM LTDA": 1,
+      "e\nMaércio José Diniz": 1,
       "TAYANNE KELLY BATISTA FESTAS E\n\nDECORÇAÕES (TAYANNE FESTAS)": 1,
       "Tayanne Kelly Carlos Batista": 1
     },
     "top_5_objetos": {
+      "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW MUSICAL\nEM PRAÇA PÚBLICA DA BANDA INALA, DURANTE O\nEVENTO DE REVEILLON 2023/2024 NO MUNICÍPIO DE SÃO\nJOÃO DO RIO DO PEIXE/PB": 1,
+      "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW\nMUSICAL EM PRAÇA PÚBLICA DA BANDA INALA,\nDURANTE O EVENTO DE REVEILLON 2023/2024 NO\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE/PB": 1,
       "Contratação de Serviços de Manutenção e Reposição de\n\nLâmpadas da Rede de Iluminação Pública": 1,
       "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE ORNAMENTAÇÃO, MANUTENÇÃO E DE\n\nAPRESENTAÇÕES CULTURAS PARA O NATAL MÁGICO DO\n\nMUNICIPÍO DE SÃO JOSÉ DE PRINCESA-PB": 1
     }

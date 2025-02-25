@@ -26,8 +26,8 @@
       },
       "resumo": {
         "num_diarios": 37,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 1,
+        "total_gasto": 197000.0
       },
       "2": {
         "num_diarios": 3,
@@ -52,8 +52,8 @@
       },
       "5": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 197000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -117,8 +117,8 @@
       },
       "resumo": {
         "num_diarios": 43,
-        "num_contratos": 2,
-        "total_gasto": 557200.0
+        "num_contratos": 7,
+        "total_gasto": 1477994.76
       },
       "2": {
         "num_diarios": 5,
@@ -176,8 +176,8 @@
       },
       "9": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Apresentação de um Show Artístico: Cantor Jonas\nEsticado, no dia 28 de setembro de 2016, em praça pública, durante a\nTradicional, Cultural, histórica e Turística festividade da padroeira de\nSão Miguel do Município de Tavares - PB"
@@ -185,8 +185,8 @@
       },
       "10": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 307677.71,
         "top_3_empresas": [
           "do orçamento do Município de Tavares"
         ],
@@ -203,8 +203,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 577117.05,
         "top_3_empresas": [
           "FS\nEMPREENDIMENTOS LTDA",
           "Obras e Instalações.\nVALOR GLOBAL: R$ 342.479,50 (Trezentos e Quarenta e Dois\nMil Quatrocentos e Setenta e Nove Reais e Cinquenta Centavos).\nVIGÊNCIA : 16/12/2016 à 16/12/2017\nDATA E ASSINATURA: Tavares",
@@ -218,9 +218,9 @@
     },
     "2017": {
       "1": {
-        "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 1681767.0,
         "top_3_empresas": [
           "CGM VITAL\nDERIVADOS DE COMBUSTÍVEIS LTDA",
           "s, locados, à disposição ou\nvinculados a atividade pública do Município de Tavares",
@@ -233,14 +233,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 39,
-        "num_contratos": 3,
-        "total_gasto": 527791.83
+        "num_diarios": 38,
+        "num_contratos": 52,
+        "total_gasto": 8302539.49
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 3086723.53,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de Material de Consumo e de Expediente para\ntodas as Secretarias Municipais da Prefeitura de Tavares – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
@@ -257,15 +257,15 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 3,
-        "total_gasto": 527791.83,
+        "num_contratos": 8,
+        "total_gasto": 1112337.63,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1534676.5,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Locação de Carro de Som para divulgação volante dos\natos institucionais do Município, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº"
@@ -273,10 +273,10 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 347211.23,
         "top_3_empresas": [
-          "JOSÉ MAX\nRODRIGUES SOARES, inscrita no",
+          "JOSÉ MAX\nRODRIGUES SOARES",
           "JOSÉ GOMES"
         ],
         "top_3_objetos": [
@@ -293,15 +293,15 @@
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 76863.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 293760.0,
         "top_3_empresas": [
           "CÉLIO ROBERTO\nDE LIMA OFICINA"
         ],
@@ -311,8 +311,8 @@
       },
       "10": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 97200.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -325,8 +325,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 72000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -334,20 +334,20 @@
     "2018": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 27,
+        "total_gasto": 3686213.56,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 79,
-        "num_contratos": 3,
-        "total_gasto": 70800.0
+        "num_contratos": 113,
+        "total_gasto": 14219250.3
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 1513315.1,
         "top_3_empresas": [
           "G.R.E AUTO PEÇAS\nLTDA"
         ],
@@ -357,8 +357,8 @@
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 3146455.4999999995,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Tavares – PB, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº"
@@ -366,8 +366,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 16,
+        "total_gasto": 2234008.9000000004,
         "top_3_empresas": [
           "A EMPRESA IDEA PRODUÇÕES E\n\nLOCAÇÕES DE ESTRUTURAS E ILUMINAÇÃO LTDA"
         ],
@@ -377,8 +377,8 @@
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 451467.38,
         "top_3_empresas": [
           "DENILTON MANDU DE\nOLIVEIRA"
         ],
@@ -388,36 +388,36 @@
       },
       "6": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 138269.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 831683.15,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 52800.0,
+        "num_contratos": 8,
+        "total_gasto": 568999.34,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 275146.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 466983.0,
         "top_3_empresas": [
           "JOSÉ NERGINO SOBREIRA/PJS\nDISTRIBUIDORA",
           "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
@@ -430,8 +430,8 @@
       },
       "11": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 888708.5700000001,
         "top_3_empresas": [
           "CONSTRUTORA\n\nJMSA LTDA"
         ],
@@ -452,8 +452,8 @@
     "2019": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 1328600.0,
         "top_3_empresas": [
           "s, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares",
           "CGM VITAL\n\nDERIVADOS DE COMBUSTÍVEIS LTDA",
@@ -465,48 +465,56 @@
       },
       "resumo": {
         "num_diarios": 107,
-        "num_contratos": 1,
-        "total_gasto": 516007.56
+        "num_contratos": 132,
+        "total_gasto": 12743349.379999999
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 3889552.2600000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 20,
+        "total_gasto": 1831512.69,
+        "top_3_empresas": [
+          "CONSTRUTORA DOIS IRMÃOS",
+          "JAQUELINE\n\nFERREIRA AQUINO",
+          "JAQUELINE FERREIRA AQUINO"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para execução de serviço de\n\nGrades Metálicas nas janelas da UBS Centro e Garrafão com\n\nconstrução da base do muro da UBS do Garrafão no Município de\n\nUiraúna",
+          "Fornecimento parcelado e diário de Material de Expediente,\n\ndestinados às atividades das secretarias deste município/PB",
+          "Aquisição de Material Escolar, destinado a Secretaria de\n\nEducação do Município de Uiraúna - PB"
+        ]
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 28,
+        "total_gasto": 427384.30000000005,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 516007.56,
+        "num_contratos": 9,
+        "total_gasto": 978745.8300000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 945159.01,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 523120.0,
         "top_3_empresas": [
           "MVC EDITORA LTDA"
         ],
@@ -516,8 +524,8 @@
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 354746.11,
         "top_3_empresas": [
           "A EMPRESA RONALDO CEZAR\nSANTOS SILVA"
         ],
@@ -527,31 +535,31 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 1320397.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 109000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 212553.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 822578.4400000001,
         "top_3_empresas": [
-          "ARRIMO\nENGENHEIRA LTDA, inscrita no"
+          "ARRIMO\nENGENHEIRA LTDA"
         ],
         "top_3_objetos": [
           "Contratação de Empresa para Execução de Serviços de\nEngenharia para Pavimentação em Paralelepípedo em Diversas Ruas\ndo Município de Tavares – PB, nos termos do Convênio n.º\n864021/2017"
@@ -561,27 +569,27 @@
     "2020": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 2567978.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 108,
-        "num_contratos": 6,
-        "total_gasto": 438995.0
+        "num_diarios": 107,
+        "num_contratos": 157,
+        "total_gasto": 19158679.750000004
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 293560.0,
+        "num_contratos": 50,
+        "total_gasto": 5040861.500000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 2446740.01,
         "top_3_empresas": [
           "MAN LATIN\nAMERICA INDUSTRIA E COMERCIO DE VEÍCULOS LTDA"
         ],
@@ -591,25 +599,25 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 2,
-        "total_gasto": 19435.0,
+        "num_contratos": 7,
+        "total_gasto": 184120.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 717834.1599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1037097.3200000001,
         "top_3_empresas": [
           "JANAINA LEITE BATISTA",
-          "Outros\n\nServiços de Terceiro Pessoa Física.\n\n\n\nVALOR MENSAL R$ 5.500,00 (Cinco Mil e Quinhentos Reais)\n\n\n\nVALOR GLOBAL R$ 33.000,00 (Trinta e Três Mil Reais)\n\n\n\nVIGÊNCIA: 26/06/2020 À 26/12/2020\n\n\n\nDATA E ASSINATURA: Tavares"
+          "Outros\n\nServiços de Terceiro"
         ],
         "top_3_objetos": [
           "Contratação Direta de profissional para Elaboração de\n\nProjetos Básicos e Executivos de Engenharia e Prestação de Serviços\n\nde Assessoria Técnica na Fiscalização e Supervisão de obras e\n\nserviços"
@@ -617,29 +625,29 @@
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 126000.0,
+        "num_contratos": 10,
+        "total_gasto": 2003639.8900000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 543173.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 306600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 1667067.83,
         "top_3_empresas": [
           "OLIVEIRA\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA"
         ],
@@ -649,9 +657,9 @@
         ]
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 2643567.64,
         "top_3_empresas": [
           "CARAJAS MATERIAL DE\nCONSTRUCAO LTDA"
         ],
@@ -670,8 +678,8 @@
     "2021": {
       "1": {
         "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 88000.0,
+        "num_contratos": 3,
+        "total_gasto": 272060.0,
         "top_3_empresas": [
           "R1 COMÉRCIO DE DERIVADOS\nDE PETROLEO LTDA",
           "s, locados, à\ndisposição ou vinculados a atividade pública do Município de\nTAVARES"
@@ -682,16 +690,16 @@
       },
       "resumo": {
         "num_diarios": 116,
-        "num_contratos": 21,
-        "total_gasto": 536055.0
+        "num_contratos": 222,
+        "total_gasto": 20679127.639999997
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 84000.0,
+        "num_contratos": 64,
+        "total_gasto": 3836955.0199999996,
         "top_3_empresas": [
           "MARIA DA GLORIA CABRAL\n\nCOSTA VIEIRA",
-          "THALES DE LAESSES HENRIQUES\n\nCHAVES 09233171477"
+          "THALES DE LAESSES HENRIQUES\n\nCHAVES"
         ],
         "top_3_objetos": [
           "Aquisição de Material de Consumo e de Expediente para\n\ntodas as Secretarias Municipais da Prefeitura de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº"
@@ -699,8 +707,8 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 1,
-        "total_gasto": 54000.0,
+        "num_contratos": 65,
+        "total_gasto": 10628439.310000002,
         "top_3_empresas": [
           "J P COMÉRCIO DE\nCOMBUSTÍVEL LTDA",
           "s, locados, à\ndisposição ou vinculados a atividade pública do Município de Tavares\n– PB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº. 02/2021.\n\nFundamento LEGAL: Leis n.ºs 10.520/2002 e 8.666/93 e do\nDecreto Federal n° 3.555/2000.\n\nFONTE DE RECURSO E DOTAÇÃO ORÇAMENTÁRIA: As\ndespesas decorrentes da execução dos serviços, correrão à conta dos\nrecursos orçamentários do Município de Tavares",
@@ -714,8 +722,8 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 15,
-        "total_gasto": 226515.0,
+        "num_contratos": 17,
+        "total_gasto": 463265.0,
         "top_3_empresas": [
           "IVALDO FLORENCIO DE\n\nAZEVEDO",
           "JOSIMARIO\n\nCORDEIRO FLORENTINO"
@@ -727,29 +735,29 @@
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 378610.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 551642.15,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 143400.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 54000.0,
+        "num_contratos": 5,
+        "total_gasto": 538306.63,
         "top_3_empresas": [
           "STHEPSON MAIERY\nALVES DE LIRA"
         ],
@@ -759,29 +767,29 @@
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 2,
-        "total_gasto": 29540.0,
+        "num_contratos": 21,
+        "total_gasto": 735088.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 187500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 1213980.8800000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1729880.65,
         "top_3_empresas": [
           "A EMPRESA: SIDNEY NICÁCIO\n\nDE OLIVEIRA"
         ],
@@ -793,8 +801,8 @@
     "2022": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 21,
+        "total_gasto": 3681634.8000000007,
         "top_3_empresas": [
           "JOÃO MARTINHO DA\n\nSILVA/MASTER",
           "MARIA DA GLORIA CABRAL\n\nCOSTA VIEIRA",
@@ -807,14 +815,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 102,
-        "num_contratos": 29,
-        "total_gasto": 1349000.7799999998
+        "num_diarios": 101,
+        "num_contratos": 243,
+        "total_gasto": 26160319.0
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 66,
+        "total_gasto": 8904253.14,
         "top_3_empresas": [
           "JAP COMERCIO VAREJISTA DE\n\nGENEROS ALIMENTICIOS LTDA",
           "J.T.A. COMERCIO DE ARTIGOS\n\nDESCARTAVEIS LTDA",
@@ -827,8 +835,8 @@
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 17,
-        "total_gasto": 804744.1,
+        "num_contratos": 42,
+        "total_gasto": 3454092.63,
         "top_3_empresas": [
           "APOGEU CENTER COMERCIAL\n\nDE PRODUTOS HOSPITALARES E MEDICAMEN",
           "BHDENTAL COMERCIAL EIRELI -\n\nTipo:",
@@ -842,36 +850,35 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 26,
+        "total_gasto": 867711.1,
         "top_3_empresas": [
           "SIDNEY NICÁCIO DE\n\nOLIVEIRA/SN LOCADORA E SERVIÇOS",
-          "Outros Serviços de Terceiro Pessoa\n\nJurídica.\n\nVALOR CARRADA: R$ 180,00 (Cento e Oitenta Reais)\n\n\nVALOR GLOBAL: R$ 72.000,00 (Setenta e Dois Mil Reais)\n\n\nVIGÊNCIA: 27/04/2022 À 27/08/2022\n\n\n\nDATA E ASSINATURA: Tavares"
+          "Outros Serviços de Terceiro"
         ],
         "top_3_objetos": [
           "Locação do Veiculo Car/Caminhão Tanque, Marca\n\nVW/15.160, Ano de Fabricação 2009, Cor Branca, Placa KZF-\n\n2200/PB, para realizar o abastecimento de Água na Zona Rural do\n\nMunicípio de Tavares – PB"
         ]
       },
       "5": {
-        "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 544256.68,
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 2222607.3099999996,
         "top_3_empresas": [
-          "E L X TEIXEIRA CONSTRUÇÕES\n\nE SERVIÇOS EIRELI",
-          "SEVERINO PEREIRA BARBOSA\n\nFILHO 10644117893",
-          "a empresa TORRE CONSTRUÇÃO E\n\nCONSULTORIA EM ENGENHARIA EIRELI"
+          "enquanto houver pendência de liquidação da\n\nobrigação financeira em virtude de penalidade ou inadimplência\n\ncontratual.\n\n\n\nDA VIGÊNCIA DO CONTRATO",
+          "que\n\nensejar o retardamento da execução do",
+          "por dia de atraso ou entrega do"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE PAVIMENTAÇÃO DO ACESSO A UBS SÃO\n\nSEBASTIÃO",
-          "Contratação de Empresa para prestação de serviços de\n\nserralharia e marcenaria para ornamentação da Tradicional Festa\n\nEsquenta São João, nos dias 29 e 30 de maio, realizado pela Prefeitura\n\nde Tavares – PB"
+          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE PINTURA DE MEIO – FIO E PODA DE\n\nARVORES NA CIDADE DE TAVARES - PB"
         ]
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 35,
+        "total_gasto": 3420422.6599999997,
         "top_3_empresas": [
-          "DAMIÃO VITURINO DA SILVA,",
+          "DAMIÃO VITURINO DA SILVA",
           "ABIMAEL PEREIRA DE\n\nOLIVEIRA"
         ],
         "top_3_objetos": [
@@ -881,8 +888,8 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 179086.0,
         "top_3_empresas": [
           "AUDECY BELARMINO DE\n\nOLIVEIRA ME."
         ],
@@ -892,8 +899,8 @@
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1535021.79,
         "top_3_empresas": [
           "BERNARDINO DE CARVALHO\n\nCAMARA NETO",
           "OLIVEIRA LOCACAO,\n\nSERVICOS E CONSTRUCOES LTDA"
@@ -904,10 +911,10 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1271941.41,
         "top_3_empresas": [
-          "MARIA DAS DORES FERREIRA\n\nDA SILVA 06873009407"
+          "MARIA DAS DORES FERREIRA\n\nDA SILVA"
         ],
         "top_3_objetos": [
           "Credenciamento para Contratação de Pessoas Físicas e/ou\n\njurídica para prestação de serviço de coleta, de transporte e\n\ndistribuição de água potável, para consumo humano, através de carros\n\ntanques pipas, para atender ao município de Tavares – PB"
@@ -915,8 +922,8 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 285460.95,
         "top_3_empresas": [
           "JOÃO LOPES DE SOUSA NETO"
         ],
@@ -926,8 +933,8 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 147009.5,
         "top_3_empresas": [
           "PAULO ÍTALO DE OLIVEIRA\n\nVILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA"
         ],
@@ -937,8 +944,8 @@
       },
       "12": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 191077.71,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -946,22 +953,22 @@
     "2023": {
       "1": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 90,
+        "total_gasto": 12352327.359999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 94,
-        "num_contratos": 17,
-        "total_gasto": 2606529.7
+        "num_diarios": 93,
+        "num_contratos": 174,
+        "total_gasto": 30826042.940000005
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 3393747.04,
         "top_3_empresas": [
-          "A EMPRESA DAMIÃO PORFIRIO\n\nCARNEIRO 06880221467, inscrita no"
+          "A EMPRESA DAMIÃO PORFIRIO\n\nCARNEIRO"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE MANUTENÇÃO PREVENTIVA E\nCORRETIVA DE COMPUTADORES, IMPRESSORAS E DEMAIS\n\nEQUIPAMENTOS DE INFORMÁTICA E TELECOMUNICAÇÃO,\n\nPARA ATENDER AS NECESSIDADES DE TODAS\n\nSECRETARIAS DA ´PREFEITURA DE TAVARES - PB"
@@ -969,8 +976,8 @@
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 11,
-        "total_gasto": 362070.0,
+        "num_contratos": 20,
+        "total_gasto": 1333970.0,
         "top_3_empresas": [
           "PATRICIA FONTES DE OLIVEIRA\n\n– ME/BISTRO FLOR DO ROSÁRIO"
         ],
@@ -980,24 +987,24 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 16,
+        "total_gasto": 1973598.47,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 35200.0,
+        "num_contratos": 4,
+        "total_gasto": 293900.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 432358.98,
         "top_3_empresas": [
-          "A EMPRESA JOSÉ NILDO DE PAIVA,\n\ninscrita no"
+          "A EMPRESA JOSÉ NILDO DE PAIVA"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO PARCELADA DE UTENSÍLIOS DE\n\nCOZINHA, MATERIAIS DE COSTURA, MIUDEZAS,\n\nARTESANAIS E SIMILARES, PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DA\n\nPREFEITURA DE TAVARES - PB"
@@ -1005,15 +1012,15 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 592649.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 216000.0,
         "top_3_empresas": [
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
           "TESTEMUNHAS:\n\n\n\n1ª: ___________________",
@@ -1023,29 +1030,29 @@
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 5667641.49,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 775342.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 9,
-        "num_contratos": 5,
-        "total_gasto": 2209259.7,
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 3605608.5999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 188900.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -1053,24 +1060,24 @@
     "2024": {
       "1": {
         "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 36000.0,
+        "num_contratos": 56,
+        "total_gasto": 10817086.25,
         "top_3_empresas": [
-          "JOSÉ MARQUES DE SOUSA\n\n62552376487"
+          "JOSÉ MARQUES DE SOUSA"
         ],
         "top_3_objetos": [
           "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades das Secretarias da\n\nPrefeitura Municipal de Tavares – PB para o exercício financeiro\n\nde 2024"
         ]
       },
       "resumo": {
-        "num_diarios": 130,
-        "num_contratos": 85,
-        "total_gasto": 13311584.13
+        "num_diarios": 127,
+        "num_contratos": 290,
+        "total_gasto": 37884806.93
       },
       "2": {
-        "num_diarios": 10,
-        "num_contratos": 4,
-        "total_gasto": 1083225.42,
+        "num_diarios": 9,
+        "num_contratos": 39,
+        "total_gasto": 5995905.77,
         "top_3_empresas": [
           "A EMPRESA COMERCIAL\n\nSANMAR LTDA",
           "A EMPRESA THALLITA EWLIN\n\nMEDEIROS DE ARAUJO",
@@ -1084,10 +1091,10 @@
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 26,
-        "total_gasto": 746953.54,
+        "num_contratos": 53,
+        "total_gasto": 2473502.400000001,
         "top_3_empresas": [
-          "RIVALDO ROBERTO DOS SANTOS,",
+          "RIVALDO ROBERTO DOS SANTOS",
           "A EMPRESA BATISTA CONSTRUÇÕES\n\nE SERVIÇOS LTDA",
           "LUIS FERNANDO FERNANDES DA SILVA\n\n–"
         ],
@@ -1099,8 +1106,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 1457826.7,
         "top_3_empresas": [
           "Tayanne Kelly Carlos Batista-ME"
         ],
@@ -1108,8 +1115,8 @@
       },
       "5": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 3922578.45,
         "top_3_empresas": [
           "WK PRODUÇÓES E EVENTOS",
           "A EMPRESA JAIRO GUSTAVO CAETANO\n\nNUNES-ME",
@@ -1123,26 +1130,26 @@
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 484900.0,
         "top_3_empresas": [
           "e Pela\n\nempresa",
           "ELMAR PROCESSAMENTO DE DADOS\nLTDA-EPP",
-          "PUBLIC SOFTWARE INFORMÁTICA\n\nLTDA, inscrita no"
+          "PUBLIC SOFTWARE INFORMÁTICA\n\nLTDA"
         ],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 14,
-        "num_contratos": 8,
-        "total_gasto": 3032435.67,
+        "num_contratos": 14,
+        "total_gasto": 3786907.4899999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 14,
-        "num_contratos": 14,
-        "total_gasto": 2324531.36,
+        "num_contratos": 15,
+        "total_gasto": 2410901.21,
         "top_3_empresas": [
           "TORRE CONSTRUÇÃO E\n\nCONSULTORIA EM ENGENHARIA EIRELI",
           ".\n\nSIGNATÁRIOS: Pelo contratante: Genildo José Da Silva",
@@ -1153,19 +1160,19 @@
         ]
       },
       "9": {
-        "num_diarios": 12,
-        "num_contratos": 6,
-        "total_gasto": 2156112.62,
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 2295873.14,
         "top_3_empresas": [
-          "GABRIEL FERNANDES PAIVA\n\n12643282493, inscrita no",
+          "GABRIEL FERNANDES PAIVA",
           "e\n\nGABRIEL FERNANDES PAIVA"
         ],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 11,
-        "total_gasto": 2481616.0,
+        "num_contratos": 14,
+        "total_gasto": 2638816.0,
         "top_3_empresas": [
           "A EMPRESA: JOSÉ MARQUES DE\nSOUSA",
           "José Marques De Sousa"
@@ -1177,8 +1184,8 @@
       },
       "11": {
         "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 199165.0,
+        "num_contratos": 5,
+        "total_gasto": 249265.0,
         "top_3_empresas": [
           "pela prestação dos serviços, Os honorários competitivos e\n\nalinhados com as práticas de mercado, sendo R$ 150,00 para cada R$\n\n1.000,00 de proveito econômico obtido.\n\n\n\nTavares"
         ],
@@ -1187,12 +1194,12 @@
         ]
       },
       "12": {
-        "num_diarios": 12,
-        "num_contratos": 11,
-        "total_gasto": 1251544.52,
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 1351244.52,
         "top_3_empresas": [
-          "ANTÔNIO FERNANDES VIEIRA-ME,\n\ninscrita no",
-          "ANTÔNIO JUSTINO SOBRINHO\n\n33920982487, inscrita no",
+          "ANTÔNIO FERNANDES VIEIRA-ME",
+          "ANTÔNIO JUSTINO SOBRINHO",
           "e Pelo Contratado: Antônio Justino Sobrinho"
         ],
         "top_3_objetos": [
@@ -1202,9 +1209,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 860,
-    "num_contratos": 167,
-    "total_gasto": 19913964.0,
+    "num_diarios": 853,
+    "num_contratos": 1391,
+    "total_gasto": "171.649.110,19",
     "top_5_empresas": {
       "OLIVEIRA\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA": 2,
       "MARIA DA GLORIA CABRAL\n\nCOSTA VIEIRA": 2,

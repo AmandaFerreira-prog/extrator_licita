@@ -1,0 +1,2124 @@
+{
+  "id": "santa-cecilia",
+  "nome": "Santa Cecília",
+  "detalhe": {
+    "2015": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 92,
+        "total_gasto": 6067668.909999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 1035658.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 16,
+        "total_gasto": 1491048.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 1313779.7999999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Medicamentos diversos para uso nas\nUnidades de Saúde do Município",
+            "empresa": "FARMAGUEDES COM. DE PROD.\nFARM. MÉDICOS E HOSPITALAR LTDA",
+            "valor_total": "R$ 358,200.00"
+          },
+          {
+            "objeto": "Aquisição de Medicamentos diversos para uso nas\nUnidades de Saúde do Município",
+            "empresa": "Cirúrgica Montebello LTDA",
+            "valor_total": "R$ 358,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 1192367.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 281904.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 614410.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 31500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 21000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de água potável por meio de caminhões pipas",
+            "empresa": "JOSÉ ANTONIO DE SOUZA",
+            "valor_total": "R$ 21,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 50000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do Artista LUAN ESTILIZADO para\napresentação em praça pública no dia 24 de dezembro de 2015",
+            "empresa": "JOSE LUAN BARBOSA SILVA -\nME",
+            "valor_total": "R$ 35,000.00"
+          },
+          {
+            "objeto": "Contratação do Show da Banda \"FORRÓ NA FAMA\" para\napresentação em praça do Município no dia 24/12/2015, por ocasião\nda t",
+            "empresa": "TORINAYT PRODUÇÕES E\nEVENTOS LTDA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1700264.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 85,643.63"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 85,643.63"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 85,643.63"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 80,
+        "num_contratos": 78,
+        "total_gasto": 6757802.369999999
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 810639.27,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\nassessoria e consultoria em contabilidade pública.",
+            "empresa": "Antonio de Farias Brito -\nContabilidade e Auditoria S/S",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 620301.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 722221.35,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para realização de exames\nlaboratoriais para a Secretaria Municipal de Saúde do Município",
+            "empresa": "LABORATÓRIO DE ANÁLISES\nCLINICAS CARLOS CHAGAS LTDA",
+            "valor_total": "R$ 154,798.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1394171.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 109491.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa com o objetivo de fornecer peças\ndo vestuário destinados a fardamento dos alunos e servidores do\nmunicípio de Santa Cecília.",
+            "empresa": "JOSEFA DANIELA ANDRADE\nCAMPOS",
+            "valor_total": "R$ 57,091.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 658583.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura e Fundo Municipal de Promoção Social do\nMunicípio de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 56,023.80"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura e Fundo Municipal de Promoção Social do\nMunicípio de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 56,023.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 112240.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 32975.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 190511.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 342622.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 63780.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 270000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 90,
+        "num_contratos": 123,
+        "total_gasto": 9629998.709999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 1825908.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material Elétrico, Hidráulico e Material de\nConstrução para as diversas Secretarias do Município de Santa Cecília\n-PB.",
+            "empresa": "REJANE DALVA DA SILVA\nJAPIASSU",
+            "valor_total": "R$ 16,591.50"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico, Hidráulico e Material de\nConstrução para as diversas Secretarias do Município de Santa Cecília\n-PB.",
+            "empresa": "JOAO BATISTA DA SILVA",
+            "valor_total": "R$ 16,591.50"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico, Hidráulico e Material de\nConstrução para as diversas Secretarias do Município de Santa Cecília\n-PB.",
+            "empresa": "JOAO BATISTA DA SILVA",
+            "valor_total": "R$ 16,591.50"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico, Hidráulico e Material de\nConstrução para as diversas Secretarias do Município de Santa Cecília\n-PB.",
+            "empresa": "JOAO BATISTA DA SILVA",
+            "valor_total": "R$ 16,591.50"
+          },
+          {
+            "objeto": "Contratação de Empresa para realização de exames\nlaboratoriais para a Secretaria Municipal de Saúde do Município de\nSanta Cecília.",
+            "empresa": "LABORATÓRIO DE ANÁLISES\nCLINICAS CARLOS CHAGAS LTDA",
+            "valor_total": "R$ 160,009.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 29,
+        "total_gasto": 2206751.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 1524485.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 1256812.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de confecções de próteses dentária\ntotal superior e/ou inferior, de acordo com a necessidade do Fundo\nMunicipal de Saúde de Santa Cecília.",
+            "empresa": "RAIMUNDA CONCEIÇÃO DE\nOLIVEIRA ME(WR SORRISO)",
+            "valor_total": "R$ 106,560.00"
+          },
+          {
+            "objeto": "Aquisição de 02 (dois) veículo tipo passeio em atendimento\nas demandas operacionais deste Município.",
+            "empresa": "COMERCIAL SANT'ANA\nVEICULOS E PECAS LTDA",
+            "valor_total": "R$ 41,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 455120.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa de Consultoria, para Assessoria e\nPlanejamento junto aos Ministérios do Governo Federal",
+            "empresa": "EPC - EMPRESA PARAIBANA\nPREST. DE SERV. COMB. A CONV. LTDA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "Fornecimento de refeições, mediante solicitação diária, em\natendimento as demandas operacionais das Secretarias deste\nmunicípio",
+            "empresa": "NOEL ALVES DA COSTA NETO -\nR$ 59.200,00\nCT Nº 00106/2017",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de veículos diversos para o atendimento das\nnecessidades das secretarias do município de Santa Cecília-PB",
+            "empresa": "ALEXSANDRO BARBOSA\nBATISTA",
+            "valor_total": "R$ 37,920.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços de acesso à internet banda larga através de links dedicados\npara atender as necessidades dos Departamentos e Secretarias deste\nMunicípio, conforme especificações anexo I do edital.",
+            "empresa": "LENILSON FRANCISCO DA\nSILVA",
+            "valor_total": "R$ 33,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 50000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\nTRATAMENTO DE RESIDUOS SÓLIDOS PARA O DEPÓSITO,\nDESTINAÇÃO E TRATAMENTO DOS RESÍDUOS DO\nMUNCÍPIO DE SANTA CECÍLIA - PB.",
+            "empresa": "ECOSOLO GESTAO AMBIENTAL\nDE RESIDUOS LTDA",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 404737.83999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 596062.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, mediante solicitação de peças e\nacessórios destinados a frota de tratores e maquinas pesadas deste\nMunicípio",
+            "empresa": "TERRAMAQ PECAS E SERVICOS LTDA",
+            "valor_total": "R$ 225,310.00"
+          },
+          {
+            "objeto": "serviços de assessoria e consultoria\nadministrativa para Secretaria Municipal de Educação; VIGÊNCIA:\ntermo inicial a data de sua subscrição e termo final em um (01) ano;",
+            "empresa": "MAGNO HEBREUS BELCHIOR\nPIRES ME;",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "serviços de assessoria e consultoria\nadministrativa para Secretaria Municipal de Educação; VIGÊNCIA:\ntermo inicial a data de sua subscrição e termo final em um (01) ano;",
+            "empresa": "e\nJoão de Sousa Leite Filho",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 376589.5,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO A ATA DE REGISTRO DE PREÇOS Nº\n023/2017, REFERENTE AO PREGÃO 023/2017 PARA\nPRESTAÇÃO DOS SERVIÇOS DE MANUTENÇÃO EM\nEQUIPAMENTROS MÉDICOS DESTE MUNICÍPIO.",
+            "empresa": "ACS SERVICOS E COMERCIO DE\nMAQUINAS E PRODUTOS HOSPITALARES",
+            "valor_total": "R$ 68,661.00"
+          },
+          {
+            "objeto": "ADESÃO A ATA DE REGISTRO DE PREÇOS Nº\n024/2017, REFERENTE AO PREGÃO 024/2017 PARA\nAQUISIÇÃO DE INSUMOS LABORATORIAIS DESTE\nMUNICÍPIO.",
+            "empresa": "ACS SERVICOS E COMERCIO\nDE MAQUINAS E PRODUTOS HOSPITALARES",
+            "valor_total": "R$ 233,116.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 56600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico do ramo musical através de\nempresário exclusivo da banda Feitiço de Menina, para apresentação\nem praça pública do Município de Santa Cecília, por ocasião dos\nFestejos Natalinos no dia 24/12/2017.",
+            "empresa": "ROGERIO FERREIRA TERTO",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 606930.6699999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de forma parcelada de móveis projetados\nmediante solicitação, conforme especificações anexas ao edital.",
+            "empresa": "CT Nº\n00131/2017",
+            "valor_total": "R$ 181,494.00"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de móveis projetados\nmediante solicitação, conforme especificações anexas ao edital.",
+            "empresa": "CT Nº 00132/2017",
+            "valor_total": "R$ 181,494.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 1864779.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 73,
+        "num_contratos": 153,
+        "total_gasto": 12583954.919999998
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 18,
+        "total_gasto": 2446315.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO-HOSPITALAR\nDE CONSUMO DESTINADOS AO ATENDIMENTO DAS\nNECESSIDADES FUNDO MUNICIPAL DE SAUDE PELO\nSISTEMA DE REGISTRO DE PREÇOS - SRP",
+            "empresa": "CT Nº 00027/2018 - 21.02.18 - FARMAGUEDES COM. DE PROD.\nFARM. MÉDICOS E HOSPITALAR LTDA",
+            "valor_total": "R$ 509,053.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO-HOSPITALAR\nDE CONSUMO DESTINADOS AO ATENDIMENTO DAS\nNECESSIDADES FUNDO MUNICIPAL DE SAUDE PELO\nSISTEMA DE REGISTRO DE PREÇOS - SRP",
+            "empresa": "TECNOCENTER MATERIAIS MÉDICOS\nHOSPITALARES LTDA",
+            "valor_total": "R$ 509,053.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DESTINADOS AO\nATENDIMENTO DAS NECESSIDADES FUNDO MUNICIPAL DE\nSAUDE PELO SISTEMA DE REGISTRO DE PREÇOS - SRP",
+            "empresa": "A. COSTA COM. ATAC. DE\nPROD. FARMACÊUTICOS LTDA",
+            "valor_total": "R$ 458,385.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DESTINADOS AO\nATENDIMENTO DAS NECESSIDADES FUNDO MUNICIPAL DE\nSAUDE PELO SISTEMA DE REGISTRO DE PREÇOS - SRP",
+            "empresa": "FARMAGUEDES COM. DE PROD.\nFARM. MÉDICOS E HOSPITALAR LTDA",
+            "valor_total": "R$ 458,385.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 44,
+        "total_gasto": 2053717.67,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos de A à Z da linha farma,\natravés da oferta de maior porcentagem de desconto sobre a tabela\nABC",
+            "empresa": "DROGARIA DROGAVISTA LTDA",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 1208331.8900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 12,
+        "total_gasto": 678753.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material permanente e equipamentos\ndestinados as Unidades Básicas de Saúde da Família deste Município.",
+            "empresa": "ACS\nSERVICOS E COMERCIO DE MAQUINAS E PRODUTOS\nHOSPITALARES",
+            "valor_total": "R$ 16,035.00"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para locação de veículos\ndiversos em atendimento das necessidades das secretarias do\nmunicípio de Santa Cecília-PB.",
+            "empresa": "MANOEL GOMES DO\nNASCIMENTO",
+            "valor_total": "R$ 48,828.00"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para locação de veículos\ndiversos em atendimento das necessidades das secretarias do\nmunicípio de Santa Cecília-PB.",
+            "empresa": "MARCOS SATRO DA SILVA",
+            "valor_total": "R$ 48,828.00"
+          },
+          {
+            "objeto": "Contratação de caminhões Pipas para transporte de água\npotável para suprir as necessidades das famílias residentes nas áreas\nRural e Urbana do Município de Santa Cecília",
+            "empresa": "CT Nº\n00089/2018",
+            "valor_total": "R$ 313,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 580195.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de terreno para funcionamento da garagem da\nfrota de Veículos do Município de Santa Cecília - PB.",
+            "empresa": "JOSÉ MÁRCIO\nSANTOS ARRUDA",
+            "valor_total": "R$ 15,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 19,
+        "total_gasto": 491438.73000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para contratação de empresa para\naquisição de materiais hospitalares para atender as necessidades da\nSecretaria de Saúde do município de São José da Lagoa Tapada-PB",
+            "empresa": "DIMEDONT DISTRIBUIDORA DE\nMEDICAMENTOS E EQUIPAMENTOS LTDA -",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para contratação de empresa para\naquisição de materiais hospitalares para atender as necessidades da\nSecretaria de Saúde do município de São José da Lagoa Tapada-PB",
+            "empresa": "ODONTOMED COMERCIO DE\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados a\ndiversas secretarias e ao Transporte de Estudantes da Zona Rural para\na Sede do Município de São José da Lagoa Tapada-PB",
+            "empresa": "Francisco de Assis\nMendes Cavalcante",
+            "valor_total": "R$ 60,360.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados a\ndiversas secretarias e ao Transporte de Estudantes da Zona Rural para\na Sede do Município de São José da Lagoa Tapada-PB",
+            "empresa": "Francisco Ivan Afonso de Carvalho",
+            "valor_total": "R$ 60,360.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados a\ndiversas secretarias e ao Transporte de Estudantes da Zona Rural para\na Sede do Município de São José da Lagoa Tapada-PB",
+            "empresa": "FRANCISCO LINO DE SOUSA",
+            "valor_total": "R$ 60,360.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos destinados a\ndiversas secretarias e ao Transporte de Estudantes da Zona Rural para\na Sede do Município de São José da Lagoa Tapada-PB",
+            "empresa": "FRANCISCO VIEIRA -\nR$ 11.988,00; CT Nº 00119/2018",
+            "valor_total": "R$ 60,360.00"
+          },
+          {
+            "objeto": "Prestação de serviços de Protesista para atender as\natividades do Programa de Saúde Bucal do município",
+            "empresa": "JOAO MENDES DA\nCOSTA",
+            "valor_total": "R$ 10,200.00"
+          },
+          {
+            "objeto": "Serviço de Conservação e Manutenção do SAMU no\nmunicípio de São José da Lagoa Tapada/PB",
+            "empresa": "JONAS\nMATEUS DE OLIVEIRA COSTA",
+            "valor_total": "R$ 3,900.00"
+          },
+          {
+            "objeto": "Contratação de serviços de empreitada, mediante ajuste de\nmão de obra por tarefa, sem fornecimento de materiais, para\nmanutenção e conservação de bens públicos, matadouro, jardinagem e\npaisagismo no município de São José Lagoa Tapada",
+            "empresa": "FRANCISCO CHAGAS MARQUES RUFINO",
+            "valor_total": "R$ 34,800.00"
+          },
+          {
+            "objeto": "Contratação de serviços de empreitada, mediante ajuste de\nmão de obra por tarefa, sem fornecimento de materiais, para\nmanutenção e conservação de bens públicos, matadouro, jardinagem e\npaisagismo no município de São José Lagoa Tapada",
+            "empresa": "LINDOBERTO AFONSO DE\nCARVALHO",
+            "valor_total": "R$ 34,800.00"
+          },
+          {
+            "objeto": "Contratação de serviços de empreitada, mediante ajuste de\nmão de obra por tarefa, sem fornecimento de materiais, para\nmanutenção e conservação de bens públicos, matadouro, jardinagem e\npaisagismo no município de São José Lagoa Tapada",
+            "empresa": "MARCELO TOMAZ DE SOUSA",
+            "valor_total": "R$ 34,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 20,
+        "total_gasto": 1451281.8900000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal e de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 67,448.25"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal e de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-FRIGORIFICO",
+            "valor_total": "R$ 67,448.25"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal e de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 67,448.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 1130124.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 548866.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico musical da cantora Valkyria\nSantos, para apresentação em praça pública do Município de Santa\nCecília, por ocasião dos Festejos Natalinos no dia 24/12/2018",
+            "empresa": "VALKYRIA BEZERRA SANTOS",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "execução dos serviços de Implantação de\npavimentação em vias públicas no Município de São José do Brejo do\nCruz/ PB; VIGÊNCIA: termo inicial na data de sua subscrição e\ntermo final em cinco (05) meses contados da data de recebimento da\nORDEM DE EXECUÇÃO DE SERVIÇOS;",
+            "empresa": "EMPREITEIRA DE OBRAS CAICÓ\nLTDA",
+            "valor_total": "R$ 431,926.90"
+          },
+          {
+            "objeto": "execução dos serviços de Implantação de\npavimentação em vias públicas no Município de São José do Brejo do\nCruz/ PB; VIGÊNCIA: termo inicial na data de sua subscrição e\ntermo final em cinco (05) meses contados da data de recebimento da\nORDEM DE EXECUÇÃO DE SERVIÇOS;",
+            "empresa": "e José Alves Neto -\npela",
+            "valor_total": "R$ 431,926.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 112151.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução dos\n\nserviços de CONCLUSÃO da obra de um Auditório, duas salas de\n\naula, rampas e forro, no Município de São Sebastião do Umbuzeiro -\n\nPB, conforme Projeto Básico de Engenharia",
+            "empresa": "ALVES CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 82,151.44"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 18000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 77200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 83,
+        "num_contratos": 136,
+        "total_gasto": 10507774.739999998
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1389514.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de alimentos\nespeciais para suprir as necessidades das pessoas carentes do\nMunicípio, conforme Determinação Judicial",
+            "empresa": "TECNOCENTER\nMATERIAIS MEDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 21,528.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de lubrificantes destinados aos\nveículos que compõem a frota da Prefeitura Municipal, Fundo\nMunicipal de Saúde e Fundo Municipal de Assistência Social e\naqueles eventualmente locados com lubrificantes por conta da\nPrefeitura",
+            "empresa": "SANTA\nCECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 167,045.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de lubrificantes destinados aos\nveículos que compõem a frota da Prefeitura Municipal, Fundo\nMunicipal de Saúde e Fundo Municipal de Assistência Social e\naqueles eventualmente locados com lubrificantes por conta da\nPrefeitura",
+            "empresa": "SANTA CECÍLIA COMBUSTÍVEIS LTDA\n- R$ 50.113,50; CT Nº 00016/2019 - 26.02.19 - SANTA CECÍLIA\nCOMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 167,045.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 33,
+        "total_gasto": 854040.96,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos de A à Z da linha farma,\n\natravés da oferta de maior porcentagem de desconto sobre a tabela\n\nABC",
+            "empresa": "LARMED DIST. DE MEDIC. E\n\nMAT. MEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 120,000.00"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº\n\n00031/2019",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "ANTONIO SILVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE\n\nEDINALDO GUEDES DA SILVA",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE INACIO DA SILVA",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE ROBERTO FAUSTINO DE\n\nLIMA",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE\n\nROBERTO",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00037/2019 -\n\n27.03.19",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00038/2019",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "MARIA DA PAZ DE\n\nANDRADE LIMA",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "SERGIO DA SILVA SOARES",
+            "valor_total": "R$ 380,736.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "ALBERY VICENTE DA SILVA",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº\n\n00023/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº 00024/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº 00025/2019 -\n\n21.03.19",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº\n\n00026/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "SUELI APARECIDA DE\n\nSOUZA CARDOSO SILVA",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT\n\nNº 00029/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "ALBERY VICENTE DA SILVA",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº\n\n00023/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº 00024/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº 00025/2019 -\n\n21.03.19",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT Nº\n\n00026/2019",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "SUELI APARECIDA DE\n\nSOUZA CARDOSO SILVA",
+            "valor_total": "R$ 85,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS\n\nPROVENIENTES DA AGRICULTURA FAMILIAR PARA\n\nATENDIMENTO DO PROGRAMA NACIONAL DE\n\nALIMENTAÇÃO ESCOLAR - PNAE NA FORMA DA\n\nRESOLUÇÃO 0004/2015",
+            "empresa": "CT\n\nNº 00029/2019",
+            "valor_total": "R$ 85,520.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 17,
+        "total_gasto": 1127643.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de carro pipa, com\ncapacidade de, no mínimo, OITO (8) m³ de Água; VIGÊNCIA: termo\ninicial o dia de sua subscrição e termo final em três (03) meses;\nDOTAÇÃO ORÇAMENTÁRIA: 02 05 20 606 0006 2009 –\nSECRETARIA DE AGRICULTURA; ELEMENTO DE DESPESA:\n33 90 36 – outros serviços de terceiros – PF; FONTE: 01 001/001\n001;",
+            "empresa": "PETRÔNIO DANTAS DE ARAÚJO\n(CPF nº 106.356.694-04);",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE LICENÇA DE USO DE PROGRAMAS DE\nINFORMÁTICA (SOFTWARE) ABRANGENDO INSTALAÇÃO,\nMANUTENÇÃO E TREINAMENTO DOS SISTEMAS DE\nGESTÃO DE RECURSOS HUMANOS E FOLHA DE\nPAGAMENTO, E CONTABILIDADE DO INSTITUTO DE\nPREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE\nSOLEDADE",
+            "empresa": "-\nDar continuidade a execução do",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE LICENÇA DE USO DE PROGRAMAS DE\nINFORMÁTICA (SOFTWARE) ABRANGENDO INSTALAÇÃO,\nMANUTENÇÃO E TREINAMENTO DOS SISTEMAS DE\nGESTÃO DE RECURSOS HUMANOS E FOLHA DE\nPAGAMENTO, E CONTABILIDADE DO INSTITUTO DE\nPREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE\nSOLEDADE",
+            "empresa": ". PARTES\nCONTRATANTES: Ipsol - Instituto De Previdência Dos Servidores\nMunicipais De Soledade: CT Nº 00004/2017-IPSOL - Fran\nInformatica Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1292093.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preço para possível\naquisição gradativa de baterias automotivas;",
+            "empresa": "J ALVES DUTRA FILHO ME",
+            "valor_total": "R$ 21,520.00"
+          },
+          {
+            "objeto": "Registro de Preço para possível\naquisição gradativa de baterias automotivas;",
+            "empresa": "e Karlyson Halyson Silva",
+            "valor_total": "R$ 21,520.00"
+          },
+          {
+            "objeto": "Registro de\nPreço para possível aquisição gradativa de baterias automotivas;",
+            "empresa": "BRUNA KATIANE DE ARAÚJO",
+            "valor_total": "R$ 14,400.00"
+          },
+          {
+            "objeto": "Registro de\nPreço para possível aquisição gradativa de baterias automotivas;",
+            "empresa": "e Ricardo Jorge da Silva",
+            "valor_total": "R$ 14,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 2052994.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços gráficos, com fornecimento parcelado, em atendimento as\ndemandas das diversas secretarias deste Município",
+            "empresa": "GRAFICA FONSECA LTDA",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços gráficos, com fornecimento parcelado, em atendimento as\ndemandas das diversas secretarias deste Município",
+            "empresa": "GRAFICA FONSECA\nLTDA",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços gráficos, com fornecimento parcelado, em atendimento as\ndemandas das diversas secretarias deste Município",
+            "empresa": "GRAFICA\nFONSECA LTDA",
+            "valor_total": "R$ 80,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 501823.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 536210.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Equipamento(s) para assistência ventilatória,\n\noxigenoterapia e monitorização para atendimento domiciliar da\n\npaciente Melyssa Vitória de Oliveira Soares, conforme decisão\n\njudicial Processo nº 0000060-18.2015.815.0401 VARA DE\n\nUMBUZEIRO-PB",
+            "empresa": "CARLO\n\nSTÊNIO SARMENTO COSTA ME (VENTILAR)",
+            "valor_total": "R$ 81,840.00"
+          },
+          {
+            "objeto": "Contratação de empresa para de locação, suporte,\n\nmanutenção, hospedagem de software de gestão educacional\n\nmunicipal e implantação, migração, customização e conservação de\n\ndados e treinamentos para atender as necessidades da secretaria de\n\neducação de São Jose da Lagoa Tapada",
+            "empresa": "RED NET COMÉRCIO,\n\nSERVIÇOS DE TECNOLOGIA LIMITADA",
+            "valor_total": "R$ 17,550.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 401040.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 906499.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Veículo \"Van da Saúde\" para o transporte de\npacientes (com acessibilidade - 01 cadeirante)",
+            "empresa": "FIORI\nVEICOLO S.A",
+            "valor_total": "R$ 214,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 1106986.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 261729.21999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 23,
+        "total_gasto": 1210580.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos de A à Z da linha farma,\n\natravés da oferta de maior porcentagem de desconto sobre a tabela\n\nABC",
+            "empresa": "DROGARIA\n\nDROGAVISTA LTDA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para locação de veículos\n\ndiversos em atendimento das necessidades das secretarias do\n\nmunicípio de Santa Cecília-PB",
+            "empresa": "ALEXSANDRO\n\nBARBOSA BATISTA",
+            "valor_total": "R$ 107,431.39"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "ALEXANDRE NASCIMENTO DA SILVA",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "AMAURI AMARO DE OLIVEIRA",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "ANTONIO SILVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE\n\nEDINALDO GUEDES DA SILVA",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE INACIO DA SILVA",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "JOSE ROBERTO",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00018/2020",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00019/2020",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº\n\n00020/2020",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00021/2020",
+            "valor_total": "R$ 332,988.60"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) física(s) para prestação de\n\nserviços do transporte escolar de alunos da zona rural e da sede do\n\nMunicípio e vice e versa nos turnos da manhã, tarde e noite",
+            "empresa": "CT Nº 00022/2020",
+            "valor_total": "R$ 332,988.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 77,
+        "num_contratos": 95,
+        "total_gasto": 7074488.47
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 1724061.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico do ramo musical de Capilé e\nBanda, para apresentação pública neste Município, por ocasião dos\nFestejos Carnavalescos de Santa Cecília - PB, no dia 14/03/2020",
+            "empresa": "LENILSON COSTA DE MACEDO",
+            "valor_total": "R$ 28,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 20,
+        "total_gasto": 1122739.6099999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de caminhões Pipas para transporte de água\npotável para suprir as necessidades das famílias residentes nas áreas\nRural e Urbana do Município de Santa Cecília",
+            "empresa": "MARCO ANTONIO",
+            "valor_total": "R$ 194,400.00"
+          },
+          {
+            "objeto": "Contratação de caminhões Pipas para transporte de água\npotável para suprir as necessidades das famílias residentes nas áreas\nRural e Urbana do Município de Santa Cecília",
+            "empresa": "CT Nº 00049/2020",
+            "valor_total": "R$ 194,400.00"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-FRIGORIFICO",
+            "valor_total": "R$ 244,181.61"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-\nFRIGORIFICO",
+            "valor_total": "R$ 244,181.61"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza para as diversas\nsecretarias da Prefeitura, Fundo Municipal de Saúde e Fundo\nMunicipal de Assistência Social do Município de Santa Cecília-PB",
+            "empresa": "INALDO BARBOSA SILVA-FRIGORIFICO",
+            "valor_total": "R$ 244,181.61"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 190630.33,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 69000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 614447.28,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa no ramo de engenharia para a\n\nConstrução da Praça do Jacaré no Município de Santa Cecília - PB",
+            "empresa": "GRAMARE\n\nCONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 201,910.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 455333.61,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais elétricos diversos,\n\nmediante requisição diária e periódica",
+            "empresa": "CENTER LED MATERIAIS ELETRICOS\n\nEIRELI",
+            "valor_total": "R$ 23,224.50"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais elétricos diversos,\n\nmediante requisição diária e periódica",
+            "empresa": "THOMAS\n\nJOSE BELTRAO DE ARAUJO ALBUQUERQUE",
+            "valor_total": "R$ 23,224.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 682475.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição gradativa de\nmedicamentos constantes da Câmara de Regulação do Mercado de\nMedicamentos – CMED/ ANVISA - PREÇOS MÁXIMOS DE\nMEDICAMENTOS POR PRINCÍPIO ATIVO - PREÇO MÁXIMO\nAO CONSUMIDOR - PMC (PREÇO PARA FARMÁCIAS E\nDROGARIAS), publicada em 01 de maio de 2020;",
+            "empresa": "HOSP. MEDICAL - COMÉRCIO DE\nMATERIAL MÉDICO E MEDICAMENTOS HOSPITALARES\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\nmedicamentos constantes da Câmara de Regulação do Mercado de\nMedicamentos – CMED/ ANVISA - PREÇOS MÁXIMOS DE\nMEDICAMENTOS POR PRINCÍPIO ATIVO - PREÇO MÁXIMO\nAO CONSUMIDOR - PMC (PREÇO PARA FARMÁCIAS E\nDROGARIAS), publicada em 01 de maio de 2020;",
+            "empresa": "e João Eufrásio de\nMedeiros Neto",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 495487.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 293532.91000000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de caminhão Pipa para transporte de água\npotável para suprir as necessidades dos prédios públicos e das famílias\nresidentes nas áreas Rural e Urbana do Município de Santa Cecília",
+            "empresa": "EDVALDO AMADO DOS SANTOS",
+            "valor_total": "R$ 41,600.00"
+          },
+          {
+            "objeto": "Contratação de caminhão Pipa para transporte de água\npotável para suprir as necessidades dos prédios públicos e das famílias\nresidentes nas áreas Rural e Urbana do Município de Santa Cecília",
+            "empresa": "JOSUEL DOS SANTOS\nLEITE",
+            "valor_total": "R$ 41,600.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios destinados ao alunos da\nRede Municipal de Ensino com o intuito do enfretamento da\nPandemia do COVID–19, visando a segurança alimentar aos\nnecessitados",
+            "empresa": "ANTONIO A AMARAL JUNIOR ME",
+            "valor_total": "R$ 129,862.91"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios destinados ao alunos da\nRede Municipal de Ensino com o intuito do enfretamento da\nPandemia do COVID–19, visando a segurança alimentar aos\nnecessitados",
+            "empresa": "XAND´S COMERCIAL\nDE ALIMENTOS LTDA-ME",
+            "valor_total": "R$ 129,862.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 71000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 145200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 355060.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\ncombustíveis (gasolina comum e Diesel S10) para abastecimento por\n\num período de 90 (noventa) dias, para atender a frota de veículos do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 243,300.00"
+          },
+          {
+            "objeto": "Prestação e serviços de caráter contínuo no processamento\n\nde dados dos sistemas de informação de vigilância em saúde,\n\nconforme periodicidade exigida pelo Ministério da saúde",
+            "empresa": "MARIA DO SOCORRO\n\nSARMENTO CESARINO",
+            "valor_total": "R$ 16,260.00"
+          },
+          {
+            "objeto": "Contratação de serviços especializado em caráter contínuo,\n\nem Assessoria técnica junto ao Núcleo de Apoio à Saúde da Família -\n\nNASF tipo II",
+            "empresa": "CLAUDIA MARIA\n\nLOPES DE ARAÚJO DINIZ",
+            "valor_total": "R$ 21,600.00"
+          },
+          {
+            "objeto": "Locação de imóvel destinados ao funcionamento de\n\nequipamentos públicos diversos",
+            "empresa": "EMANUELLE DA COSTA\n\nCHAVES",
+            "valor_total": "R$ 16,080.00"
+          },
+          {
+            "objeto": "Locação de imóvel destinados ao funcionamento de\n\nequipamentos públicos diversos",
+            "empresa": "UBIRATAN\n\nGALDINO PEREIRA",
+            "valor_total": "R$ 16,080.00"
+          },
+          {
+            "objeto": "Locação de imóvel destinados ao funcionamento de\n\nequipamentos públicos diversos",
+            "empresa": "UBIRACI GALDINO PEREIRA",
+            "valor_total": "R$ 16,080.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 138,
+        "num_contratos": 185,
+        "total_gasto": 12211240.239999998
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 257697.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de combustíveis (gasolina comum e Diesel S10) para abastecimento por um período de 90\n(noventa) dias, para atender a frota de veículos do Município de Santa Cecília/PB",
+            "empresa": "P. DE REAJUSTE\nREALINHAMENTO\n\nP. UNITÁRIO\nREAJUSTADO\n\n1 Gasolina, uso: para automotivos, classificação: comum, índice de octanagem: iad 87 min. L 15000 R$4,85 R$0,42 R$5,27\n\n2\nÓleo diesel, uso: automotivo, apresentação: com biodiesel, composição: concentração de enxofre 10\nmg,kg.\n\nL 45000 R$3,79 R$0,52 R$4,31\n\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa Cecília e: CT Nº 00002/2021 - SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 1578727.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 994698.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de EPI’s (Equipamentos de Proteção Individual)\n\nem caráter emergencial para atender as necessidades do Fundo\n\nMunicipal de Saúde ao combate contra o Coronavírus (COVID–19)",
+            "empresa": "FARMAGUEDES\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 33\n\n\n\nCOM. DE PROD. FARM. MÉDICOS E HOSPITALAR LTDA",
+            "valor_total": "R$ 44,513.00"
+          },
+          {
+            "objeto": "Aquisição de EPI’s (Equipamentos de Proteção Individual)\n\nem caráter emergencial para atender as necessidades do Fundo\n\nMunicipal de Saúde ao combate contra o Coronavírus (COVID–19)",
+            "empresa": "EMMANUELLE\n\nMALKA BEZERRA DELFINO TORQUATO",
+            "valor_total": "R$ 44,513.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 18,
+        "total_gasto": 875489.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 473584.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 22,
+        "total_gasto": 2255688.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 1168367.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 23538.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 250724.06,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 20,272.60"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "TIE TAPETES - EIRELI",
+            "valor_total": "R$ 20,272.60"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "CIRURGICA BIOMEDICA -\n\nEIRELI",
+            "valor_total": "R$ 20,272.60"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "JOSE\n\nDANTAS DINIZ FILHO",
+            "valor_total": "R$ 20,272.60"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "CT Nº\n\n00131/2021 - 21.10.21 - GESUS COMERCIO DE CALCADOS\n\nEIRELI",
+            "valor_total": "R$ 20,272.60"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\n\nEquipamentos de Proteção Individual (EPI) para atender as\n\nnecessidades da Secretária de Educação, Cultura e Esporte do\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "LICITA\n\nTOPMINAS LTDA",
+            "valor_total": "R$ 20,272.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 26,
+        "total_gasto": 868754.1100000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento de Profissionais Autônomos (Pessoa\n\nFísica) e empresas (Pessoa Jurídica) de Prestadores de Serviços para\n\nprestação de serviços de transporte de água potável por meio de carro\n\npipa através do CONVENIO Nº 080/2021, visando à execução de\n\nações de Defesa Civil, na Zona Urbana dos Municípios definidos no\n\nDecreto Estadual nº 41.201 de 27 de abril de 2021, publicado no DOE\n\nde 18/04/2021 e a Portaria nº 1.024 de 26 de maio de 2021",
+            "empresa": "LEANDRO DE ANDRADE RODRIGUES -\n\nR$ 54.000,00; CT Nº 00148/2021",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 21,
+        "total_gasto": 3108910.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 32,
+        "total_gasto": 2626199.6300000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 139,
+        "num_contratos": 238,
+        "total_gasto": 11289029.229999999
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 449608.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de combustíveis (Gasolina Comum e Diesel S10) para atender o abastecimento da frota de\n\nveículos do Município de Santa Cecília/PB",
+            "empresa": "P. DE REAJUSTE\n\nREALINHAMENTO\n\nP. UNITÁRIO\n\nREAJUSTADO\n\n2\nÓleo diesel, uso: automotivo, apresentação: com biodiesel, composição: concentração de enxofre 10\n\nmg,kg.\nL 150000 R$5,50 R$0,20 R$5,70\n\n\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa Cecília e: CT Nº 00008/2022 - SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 372423.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 619241.0800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da banda \"Vilões do Forró\" para apresentação\n\nartística em praça pública no dia 01 de maio de 2022, por ocasião da\n\ntradicional festividade (16º Leite Fest), do Município de Santa\n\nCecília/PB",
+            "empresa": "WAGNER CAMILO DE MACEDO",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 788170.41,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "ADEILSON\n\nBARBOSA DE LIMA",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "CT Nº\n\nLOC03/2022",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "JOSÉ CÍCERO DA\n\nSILVA",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "JOSE\n\nROBERTO FAUSTINO DE LIMA",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "JUNILSON JURANDIR ALVES DA\n\nSILVA",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "MAURO\n\nSELSON GUEDES DE ALBUQUERQUE",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Prestação de serviços de transporte escolar, por meio de\n\npessoa física para suprir as necessidades dos alunos da área rural e\n\nsede do Município e vice e versa nos turnos da manhã, tarde e noite,\n\nem atendimento aos Programas: PNATE e Caminho da Escola no\n\nMunicípio de Santa Cecília/PB",
+            "empresa": "NIVALDO MANOEL DE OLIVEIRA",
+            "valor_total": "R$ 122,408.36"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de medicamentos\n\npara atender as demandas do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "CT Nº\n\n00073/2022 - 25.05.22 - CIRURGICA BRASIL DISTRIBUIDORAS\n\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 334,766.40"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de medicamentos\n\npara atender as demandas do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "CT Nº 00075/2022 -\n\n25.05.22 - PROATIVA HOSPITALAR EIRELI",
+            "valor_total": "R$ 334,766.40"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de medicamentos\n\npara atender as demandas do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "SANTO REMEDIO- COMERCIO DE\n\nPRODUTOS MEDICO-HOSPITALAR EIRELI",
+            "valor_total": "R$ 334,766.40"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de medicamentos\n\npara atender as demandas do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "ZAFRA DISTRIBUIDORA DE\n\nMEDICAMENTOS E PRODUTOS HOSPITALRES LTDA",
+            "valor_total": "R$ 334,766.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 238348.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 1402527.54,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da banda \"Stella Alves\" para apresentação\n\nartística no Distrito da Samambaia, no dia 22 de julho de 2022, por\n\nocasião do tradicional festejo junino do Município de Santa\n\nCecília/PB",
+            "empresa": "FERREIRA PRODUÇOES, LOCAÇOES E\n\nSERVIÇOS EIRELI-ME",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 21,
+        "total_gasto": 677175.5800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de combustíveis (Gasolina Comum e Diesel S10) para atender o abastecimento da frota de\n\nveículos do Município de Santa Cecília/PB",
+            "empresa": "P. DE REAJUSTE\n\nREALINHAMENTO\n\nP. UNITÁRIO\n\nREAJUSTADO\n\n1 Gasolina, uso: para automotivos, classificação: comum, índice de octanagem: iad 87 min. L 60000 R$6,06 -R$0,39 R$5,67\n\n2\nÓleo diesel, uso: automotivo, apresentação: com biodiesel, composição: concentração de enxofre 10\n\nmg,kg.\nL 150000 R$7,24 -R$0,09 R$7,15\n\n\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa Cecília e: CT Nº 00008/2022 - SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de combustíveis (Gasolina Comum e Diesel S10) para atender o abastecimento da frota de\n\nveículos do Município de Santa Cecília/PB",
+            "empresa": "P. DE REAJUSTE\n\nREALINHAMENTO\n\nP. UNITÁRIO\n\nREAJUSTADO\n\n1 Gasolina, uso: para automotivos, classificação: comum, índice de octanagem: iad 87 min. L 60000 R$5,67 -R$0,16 R$5,51\n\n2\nÓleo diesel, uso: automotivo, apresentação: com biodiesel, composição: concentração de enxofre 10\n\nmg,kg.\nL 150000 R$7,15 -R$0,36 R$6,79\n\n\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa Cecília e: CT Nº 00008/2022 - SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 191648.64,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnicos\n\nespecializados de assessoria e consultoria na área de engenharia para a\n\nPrefeitura Municipal de Santa Cecília/PB, incluindo o\n\nacompanhamento de convênios, obras, projetos, vistorias,\n\nfiscalizações, monitoramento, alimentação dos sistemas SIMEC e\n\nSISMOB e Elaboração de Projetos Básicos",
+            "empresa": "BRAULIO\n\nWESKLYS ESTEVAM DE AGUIAR",
+            "valor_total": "R$ 32,000.00"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de combustíveis (Gasolina Comum e Diesel S10) para atender o abastecimento da frota de\n\nveículos do Município de Santa Cecília/PB",
+            "empresa": "P. DE REAJUSTE\n\nREALINHAMENTO\n\nP. UNITÁRIO\n\nREAJUSTADO\n\n1 Gasolina, uso: para automotivos, classificação: comum, índice de octanagem: iad 87 min. L 60000 R$5,51 -R$0,62 R$4,89\n\n2\nÓleo diesel, uso: automotivo, apresentação: com biodiesel, composição: concentração de enxofre 10\n\nmg,kg.\nL 150000 R$6,79 -R$0,34 R$6,45\n\n\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa Cecília e: CT Nº 00009/2022 - SANTA CECÍLIA COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 28,
+        "total_gasto": 2291694.62,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de fórmulas\ninfantis para atender as demandas judiciais do Fundo Municipal de\nSaúde do Município de Santa Cecília/PB",
+            "empresa": "SUPREMA COMERCIO E\nDISTRIBUIDORA EIRELI-ME",
+            "valor_total": "R$ 2,639.85"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de\nequipamentos de informática (Notebooks) para atender a Portaria\nGM/MS Nº 3.474/20 na informatização das equipes de Saúde da\nFamília (eSF) e equipes da Atenção Primária (eAP) do Município de\nSanta Cecília/PB",
+            "empresa": "TAMA\nDISTRIBUIDORA DE INFORMATICA LTDA",
+            "valor_total": "R$ 76,999.75"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\nconstrução de 01 (uma) creche municipal 1ª infância, conforme\nProcesso nº SEE–PRC–2022/05408, Convênio – 2022 – Santa Cecília\n– Programa Paraíba Primeira Infância – 100 Crianças",
+            "empresa": "ESTRUTURAL\nSERVIÇOS DE CONSTRUÇÃO CIVIL E LOCAÇÕES EIRELI",
+            "valor_total": "R$ 1,085,023.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 227041.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 65,
+        "total_gasto": 1404949.33,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de projetos pedagógicos destinado a secretaria\n\nmunicipal de educação do Município de Santa Cecília/PB",
+            "empresa": "PAE EDITORA E DISTRIBUIDORA DE\n\nLIVROS LTDA",
+            "valor_total": "R$ 175,600.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00171/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT\n\nNº 00172/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00173/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00174/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00175/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00176/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00178/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00179/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00180/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00181/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00182/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00183/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00184/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00185/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00186/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00187/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00188/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00189/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00190/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00191/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00192/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00193/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00194/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00195/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00196/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00197/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00199/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00200/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº\n\n00201/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00202/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00203/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT\n\nNº 00204/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00205/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00206/2022 -\n\n01.12.22 ATÉ 01.12.23",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00208/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00209/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00210/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT\n\nNº 00211/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00212/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00214/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00219/2022",
+            "valor_total": "R$ 553,755.00"
+          },
+          {
+            "objeto": "Credenciamento de Microempreendedores Individuais –\n\nMEI's e Prestadores de Serviços Pessoa Física (autônomos), para\n\nprestação de diversos serviços visando a manutenção dos serviços\n\npúblicos da Prefeitura Municipal de Santa Cecília, conforme Projeto\n\nBásico",
+            "empresa": "CT Nº 00220/2022",
+            "valor_total": "R$ 553,755.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 38,
+        "total_gasto": 2172109.0300000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos éticos, genéricos e Similares\nde \"A\" a \"Z\" para Secretaria Municipal de Saúde, através de maior\ndesconto percentual sobre a tabela ABCFARMA",
+            "empresa": "RISONALDO\nSILVA DA ROCHA & CIA LTDA",
+            "valor_total": "R$ 447,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 140,
+        "num_contratos": 189,
+        "total_gasto": 12588262.390000002
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 3325616.1700000004,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais de\n\nexpediente para atender as demandas das diversas secretariais do\nMunicípio de Santa Cecília/PB",
+            "empresa": "CT Nº 00060/2023 - 15.02.23 até 31.12.23 - FRANCRIS LIVRARIA\nE PAPELARIA LTDA",
+            "valor_total": "R$ 221,543.72"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 431529.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 26,
+        "total_gasto": 845241.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 183941.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1141630.5899999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nlocação de estruturas, incluindo toda mão de obra de montagem e\n\ndesmontagem dos equipamentos (Palco, Som, Iluminação, Painel de\n\nLED), para atender as diversas festividades do Município de Santa\n\nCecília/PB",
+            "empresa": "CT Nº 00102/2023",
+            "valor_total": "R$ 53,792.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 19,
+        "total_gasto": 1563999.4200000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 23,
+        "total_gasto": 313105.27999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 360777.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 82312.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 1456665.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 711334.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 1237829.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de\n\nmedicamentos para atender as necessidades do Fundo Municipal de\n\nSaúde do Município de Santa Cecília/PB",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 23,040.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 115,
+        "num_contratos": 86,
+        "total_gasto": 8760789.990000002
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 516395.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais\n\npermanentes (equipamentos médicos, móveis e eletrodomésticos) para\n\natender as necessidades do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "A J P DE SOUZA COMERCIO\n\nATACADISTA",
+            "valor_total": "R$ 7,740.94"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais\n\npermanentes (equipamentos médicos, móveis e eletrodomésticos) para\n\natender as necessidades do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "CIRÚRGICAS CERON EQUIPAMENTOS HOSPITALARES E\n\nVETERINÁRIOS LTDA ME",
+            "valor_total": "R$ 7,740.94"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais\n\npermanentes (equipamentos médicos, móveis e eletrodomésticos) para\n\natender as necessidades do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "CT Nº 00051/2024 -\n\n26.02.24 - M.K.R. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 7,740.94"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais\n\npermanentes (equipamentos médicos, móveis e eletrodomésticos) para\n\natender as necessidades do Fundo Municipal de Saúde de Santa\n\nCecília/PB",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 3.760,11; CT Nº 00053/2024 - 26.02.24 - RGLMED COMERCIO\n\nATACADISTA DE EQUIPAMENTOS HOSPITALARES LTDA -\n\nR$ 5.294,22; CT Nº 00054/2024 - 26.02.24 - STAN COMERCIO DE\n\nPRODUTOS MEDICOS LTDA",
+            "valor_total": "R$ 7,740.94"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 10117.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 662502.0900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 198104.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 2187531.46,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nConstrução de Unidade Escolar com 06 Salas de Aula no Município\n\nde Santa Cecília/PB, TERMO DE CONVÊNIO Nº 539/2021 |\nSECRETARIA DE ESTADO DA EDUCAÇÃO E DA CIÊNCIA E\n\nTECNOLOGIA",
+            "empresa": "PRIIMEE CONSTRUÇÕES E\nEMPREENDIMENTOS EIRELI -EPP",
+            "valor_total": "R$ 1,560,305.48"
+          },
+          {
+            "objeto": "Aquisição de veículo 0km, tipo van com acessibilidade\n\npara atender as demandas do Fundo Municipal de Saúde do Município\n\nde Santa Cecília – PB, conforme PROPOSTA nº\n08698105000123001",
+            "empresa": "RENOVO MOTORS LTDA",
+            "valor_total": "R$ 587,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 734403.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "BETANIAMED COMERCIAL\nLTDA",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "SAO BERNARDO COMERCIO DE\n\nPRODUTOS PARA SAUDE EIRELI",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "CT Nº 00143/2024 - 19.07.24 - CIRURGICA IBIPORA EIRELI",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "M CARREGA COMERCIO DE\n\nPRODUTOS HOSPITALARES",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "BRUMED COMERCIO\nATACADISTA E MANUTENCAO DE EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "DIONAL DISTRIBUIDORA DE\nPRODUTOS LTDA",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de equipamentos\nmédicos e hospitalares para atender as demandas do Fundo Municipal\n\nde Saúde de Santa Cecília – PB, conforme PROPOSTA Nº\n\n08698105000123002/2023",
+            "empresa": "VRM IMPORT LTDA",
+            "valor_total": "R$ 75,633.20"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de materiais de\n\nconstrução para atender as necessidades das diversas secretarias do\nMunicípio de Santa Cecília – PB",
+            "empresa": "CT Nº 00153/2024 - 24.07.24 até 24.07.25 - C2P\n\nDROPSHIPPING DE MATERIAIS LTDA",
+            "valor_total": "R$ 532,457.00"
+          },
+          {
+            "objeto": "Aquisição parcelada, conforme demanda, de fardamento\n\ndestinado a atender as demandas das diversas secretarias do\n\nMunicípio de Santa Cecília – PB",
+            "empresa": "JOSEFA DANIELA ANDRADE CAMPOS",
+            "valor_total": "R$ 124,923.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 1950984.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1257923.0999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 4998.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

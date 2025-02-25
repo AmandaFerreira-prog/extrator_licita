@@ -1,0 +1,903 @@
+{
+  "id": "agua-branca",
+  "nome": "Água Branca",
+  "detalhe": {
+    "2019": {
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 741800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nTÔ DE CARA, no dia 23 de junho de 2019, em praça pública, durante\nas festividades juninas do Tradicional, Cultural, Folclórico e Turístico\nSão Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA ALISSON\nPAULINELE RIBEIRO ARAÚJO/FORRÓ TÔ DE CARA",
+            "valor_total": "R$ 17,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nDEVINHO NOVAES, no dia 05 de julho de 2019, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico e\nTurístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA DN\nPRODUÇÕES LTDA/ DEVINHO NOVAES",
+            "valor_total": "R$ 60,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nANGELA ESPINOLA, no dia 07 de julho de 2019, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico e\nTurístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA IVANILDO DE\nOLIVEIRA FARIAS",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nNANARA BELO & SANTA DOSE, no dia 06 de julho de 2019, em\npraça pública, durante as festividades juninas do Tradicional, Cultural,\nFolclórico e Turístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA BRED VIAGENS\nE EVENTOS LTDA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nRANIERI O VAQUEIRO, no dia 05 de julho de 2019, em praça\npública, durante as festividades juninas do Tradicional, Cultural,\nFolclórico e Turístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA FABIO\nRANIERE DA SILVA E SÁ",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nMAGNÍFICOS, no dia 06 de julho de 2019, em praça pública, durante\nas festividades juninas do Tradicional, Cultural, Folclórico e Turístico\nSão Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA BANDA\nMAGNÍFICOS PRODUÇÕES E EVENTOS ARTISTICOS\nLTDA",
+            "valor_total": "R$ 50,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nMÁRCIA FELIPE, no dia 07 de julho de 2019, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico e\nTurístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA MÁRCIA\nFELIPE PRODUÇÕES ARTISTÍCAS LTDA",
+            "valor_total": "R$ 120,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nZECA BOTA BOM, no dia 07 de julho de 2019, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico e\nTurístico São Pedro do Município de Água Branca – PB",
+            "empresa": "A EMPRESA ROLANDO\nMARCOS VILA ANTUNES",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 63,
+        "num_contratos": 55,
+        "total_gasto": 3767833.9000000004
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 717354.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 194374.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 779846.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 681628.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\nda Rede Municipal e da Zona Rural do Município",
+            "empresa": "MURILO LAMARC GOMES\nMARTINS",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "Aquisição de kits didáticos (Itens 01 a 08) para melhoria\nde proficiência em Língua Portuguesa e Matemática, com vistas à\nmelhoria do desempenho de estudantes do ensino fundamental (anos\niniciais e anos finais) na Prova Brasil, em conformidade com o Termo\nde Compromisso n.º 201803763-8 PAR/MEC, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "EUREKA",
+            "valor_total": "R$ 367,134.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTO ESCOLAR PARA\nATENDER AS NECESSIDADES DA REDE MUNICIPAL DE\nENSINO DESTE MUNICIPIO",
+            "empresa": "DISTRIBUIDORA MACBRAZ LTDA",
+            "valor_total": "R$ 128,465.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTO ESCOLAR PARA\nATENDER AS NECESSIDADES DA REDE MUNICIPAL DE\nENSINO DESTE MUNICIPIO",
+            "empresa": "WILLIAMS MEDEIROS JUNIOR",
+            "valor_total": "R$ 128,465.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 123940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 151200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 148200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Profissional, entidades públicas,\n\nfilantrópicas e/ou privadas prestadoras de serviços de saúde na área de\n\npsiquiatria para realização de procedimentos clínicos, procedimentos\n\ncom finalidade diagnóstica",
+            "empresa": "CRISTIANO FERNANDO\n\nDESÁ CARVALHO/CENTRO MÉDICO",
+            "valor_total": "R$ 75,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 229490.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 96256.70000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 82,
+        "num_contratos": 107,
+        "total_gasto": 13870893.219999999
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 43,
+        "total_gasto": 3441671.099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 3846332.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1224861.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 807509.5800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 260317.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 2943881.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 585600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 285574.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 227689.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Seleção e possível contratação de entidades públicas,\n\nfilantrópicas e/ou privadas prestadoras de serviços de saúde na área de\n\noftalmologia para realização de procedimentos cirúrgicos\n\ndiscriminados na “Tabela de Procedimentos, Medicamentos, Órteses e\n\nPróteses e Materiais Especiais (OPM) do Sistema Único de Saúde -\n\nSUS”",
+            "empresa": "CENTRO DE OLHOS DA\n\nPARAIBA LTDA",
+            "valor_total": "R$ 98,115.00"
+          },
+          {
+            "objeto": "Seleção e possível contratação de entidades públicas,\n\nfilantrópicas e/ou privadas prestadoras de serviços de saúde na área de\n\noftalmologia para realização de procedimentos cirúrgicos\n\ndiscriminados na “Tabela de Procedimentos, Medicamentos, Órteses e\n\nPróteses e Materiais Especiais (OPM) do Sistema Único de Saúde -\n\nSUS”",
+            "empresa": "Outros Serviços\n\nde Terceiro",
+            "valor_total": "R$ 98,115.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 151200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município",
+            "empresa": "TERLANDIO PEREIRA\n\nVERAS",
+            "valor_total": "R$ 75,600.00"
+          },
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município",
+            "empresa": "MURILO LAMARC GOMES\n\nMARTINS",
+            "valor_total": "R$ 75,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 1067500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, Contratados, locados, à disposição ou\nvinculados a atividade pública do Município de Água Branca – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "s, locados, à disposição ou\nvinculados a atividade pública do Município de Água Branca",
+            "valor_total": "R$ 989,500.00"
+          },
+          {
+            "objeto": "Contratação do Veiculo Car/Caminhão/Tanque, Marca\nMercedes Benz/L1618, Ano de Fabricação 1991, Cor Laranja, Placa\nKHS-2ª58/PE, para abastecimento das Escolas da Rede Municipal e\nda Zona Rural do Município",
+            "empresa": "EDNAR FLORÊNCIO\nAZEVEDO",
+            "valor_total": "R$ 50,400.00"
+          },
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\nfinal de 30 toneladas mensais de resíduos sólidos em aterro sanitário,\nconforme plano de trabalho",
+            "empresa": "Outros serviços\nde terceiros",
+            "valor_total": "R$ 27,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 110,
+        "num_contratos": 173,
+        "total_gasto": 15430189.99
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 49,
+        "total_gasto": 4543915.51,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em tecnologia da\n\ninformação para a implantação de um Sistema Integrado de Gestão\n\nAdministrativa e Pedagógica, Assessoria e Consultoria, para a\n\nSecretaria Municipal de Educação de AGUA BRANCA PB e\n\nUnidades de Ensino Municipais, conforme proposta de preço, tipo\n\nmenor preço global, julgada vencedora pelo Pregoeiro, no processo\n\nPregão Presencial Nº",
+            "empresa": "DEUSIVANE DOS SANTOS\n\nCAVALCANTI EIRELI",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 2668120.56,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente",
+            "empresa": "EMLURPE",
+            "valor_total": "R$ 163,247.04"
+          },
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente",
+            "empresa": "Outros serviços de terceiros",
+            "valor_total": "R$ 163,247.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 24,
+        "total_gasto": 1567940.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos em\n\nTrânsito de propriedade da Prefeitura, Contratados, locados, à\n\ndisposição ou vinculados a atividade pública do Município de Água\n\nBranca – PB, conforme proposta de preço, tipo menor preço por item,\n\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados, à\n\ndisposição ou vinculados a atividade pública do Município de Água\n\nBranca",
+            "valor_total": "R$ 142,470.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 29,
+        "total_gasto": 1497511.06,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 1066301.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 947883.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 74623.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 859929.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 488848.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 311737.33,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE BRINQUEDOS PARA ATENDER AS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nEDUCAÇÃO DE ÁGUA BRANCA",
+            "empresa": "NAILDO CLARINDO DOS\nSANTOS/EDUCA MAIS",
+            "valor_total": "R$ 14,977.33"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 335880.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 59,
+        "total_gasto": 5604870.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 88,
+        "num_contratos": 194,
+        "total_gasto": 19356770.62
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 17,
+        "total_gasto": 3900051.2299999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 563696.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 14,
+        "total_gasto": 1608694.7999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 678105.86,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DA UNIDADE BÁSICA DE\n\nSAÚDE JOSÉ LOUREDO GOMES NO MUNICÍPIO DE ÁGUA\n\nBRANCA - PB",
+            "empresa": "JC\n\nENGENHARIA E PROJETOS LTDA",
+            "valor_total": "R$ 231,561.86"
+          },
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município, através do Veiculo\n\nCar/Caminhão/Tanque, Marca Mercedes Benz 1618, Ano de\n\nFabricação 1991, Cor Laranja, Placa KHS-2A58",
+            "empresa": "EDNAR FLORÊNCIO\n\nAZEVEDO",
+            "valor_total": "R$ 75,600.00"
+          },
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município, através do Veiculo\n\nCar/Caminhão/Tanque, Marca VW 13.180 EURO 3 WORKER, Cor\n\nAmarela, Placa GYJ-3J26/PB",
+            "empresa": "JOSÉ RIVONILDO DA SILVA",
+            "valor_total": "R$ 75,600.00"
+          },
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município, através do Veiculo\n\nCar/Caminhão/Tanque, Marca Ford/Cargo 131F, Ano de Fabricação\n\n2003, Cor Prata, Placa GZG-8623/PB",
+            "empresa": "MURILO LAMARC GOMES\n\nMARTINS",
+            "valor_total": "R$ 75,600.00"
+          },
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente",
+            "empresa": "ERSEL",
+            "valor_total": "R$ 219,744.00"
+          },
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente",
+            "empresa": "Outros serviços de terceiros",
+            "valor_total": "R$ 219,744.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 859520.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Carro Pipa para abastecimento das Escolas\n\nda Rede Municipal e da Zona Rural do Município, através do Veiculo\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 8\n\n\n\nCar/Caminhão/Tanque, Marca VW 13.16, Cor Vermelha, Placa MZA-\n\n4868/PB",
+            "empresa": "JAQUELINE DA SILVA\n\nBARBOSA",
+            "valor_total": "R$ 56,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 370672.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 32,
+        "total_gasto": 2357901.6099999994,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 20,
+        "total_gasto": 2455355.23,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades das Secretarias da Prefeitura\n\nMunicipal de Água Branca – PB, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPregão Presencial Nº",
+            "empresa": "AURICÉLIA HERCULANO\n\nGOMES / RECANTO NORDESTINO",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades das Secretarias da Prefeitura\n\nMunicipal de Água Branca – PB, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPregão Presencial Nº",
+            "empresa": "AUZINETE BATISTA DA\n\nCOSTA / CHACARA DO PEIXE",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades das Secretarias da Prefeitura\n\nMunicipal de Água Branca – PB, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPregão Presencial Nº",
+            "empresa": "MARIA DO SOCORRO\n\nFREITAS DA SILVA SOARES / CANTINHO CASEIRO",
+            "valor_total": "R$ 22,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇOS DE CONSTRUÇÃO DE CRECHE TIPO B COM\n\nCAPACIDADE PARA 50 CRIANÇAS, COM BASE NO\n\nPROGRAMA PARAÍBA PRIMEIRA INFÂNCIA, NOS TERMOS\n\nDO CONVÊNIO N.º 0107/2022",
+            "empresa": "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA\n\nEIRELI",
+            "valor_total": "R$ 719,776.97"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 176310.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 481592.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 300000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 95,
+        "total_gasto": 10251206.060000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 268,
+        "total_gasto": 26227556.89999999
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 503600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 51,
+        "total_gasto": 3269967.0500000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 1562256.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada de Gêneros Alimentícios para a\n\nSecretaria de Saúde, Assistência Social e Complexo Administrativo\n\nda Prefeitura Municipal de Água Branca – PB, conforme proposta de\n\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\n\nno processo Pregão Presencial Nº",
+            "empresa": "MARIA CLEIDE ALVES\n\nBARBOSA",
+            "valor_total": "R$ 404,993.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 39,
+        "total_gasto": 4526029.72,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE APOIO\nADMINISTRATIVO À SECRETARIA DE SAÚDE DO\nMUNICÍPIO, NA ELABORAÇÃO DE PROJETOS TÉCNICOS E\nALIMENTAÇÃO DOS SISTEMAS DE SAÚDE",
+            "empresa": "JOSÉ MAX RODRIGUES\nSOARES",
+            "valor_total": "R$ 38,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 568765.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 20,
+        "total_gasto": 2239911.4000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 11,
+        "total_gasto": 1339088.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 4,
+        "total_gasto": 571305.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 216/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 216/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 216/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 217/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 217/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\n\nFESTIVIDADES DO MUNICÍPIO DE ÁGUA BRANCA – PB,\n\nCONFORME TERMO DE REFERÊNCIA ANEXO",
+            "empresa": ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 217/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "valor_total": "R$ 541,305.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 205020.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 415544.95999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 774861.6699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 17,
+        "total_gasto": 3531309.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 86,
+        "num_contratos": 257,
+        "total_gasto": 26616846.120000005
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 45,
+        "total_gasto": 8489856.83,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 01 VEÍCULO TIPO STRADA\nENDURANCE CABINE PLUS 1.3, DESTINADOS AS\nSECRETARIAS DO MUNICÍPIO DE ÁGUA BRANCA/PB",
+            "empresa": "A EMPRESA DICAL-\nDISTRIBUIDORA DE VEICULOS CAJAZEIRAS LTDA",
+            "valor_total": "R$ 103,900.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTO ESCOLAR,\nCONFORME ESPECIFICAÇÕE CONSTANTES DO TERMO DE\nREFERÊNCIA, PARA ATENDER AS NECESSIDADES DA\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DE ÁGUA\nBRANCA",
+            "empresa": "A EMPRESA UZE BRINDES E\nUNIFORMES LTDA",
+            "valor_total": "R$ 113,491.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 67,
+        "total_gasto": 2477067.9800000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS E IMPRESSOS PARA TODAS AS SECRETARIAS\n\nMUNICIPAIS DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA HARLEY\n\nCANDIDO LIMA",
+            "valor_total": "R$ 254,045.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS E IMPRESSOS PARA TODAS AS SECRETARIAS\n\nMUNICIPAIS DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA RICARDO\n\nGOMES DA SILVA",
+            "valor_total": "R$ 60,749.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS E IMPRESSOS PARA TODAS AS SECRETARIAS\n\nMUNICIPAIS DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA TGM GRAFICA\n\nE EDITORA EIRELI.",
+            "valor_total": "R$ 3,550.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA MED & FARMA\n\nCOMÉRCIO ATACADISTA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 383,816.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA CIRURGICA\n\nMONTEBELLO LTDA",
+            "valor_total": "R$ 107,559.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA\n\nDISTRIBUIDORA DE MEDICAMENTOS BACKES EIRELI",
+            "valor_total": "R$ 54,820.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA DROGAFONTE\n\nLTDA ME",
+            "valor_total": "R$ 241,306.64"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA EXPRESS\n\nDISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 20,192.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA NNMED\n\nDISTRIBUIÇÃO, IMPORTAÇÃO E EXPORTAÇÃO DE\n\nMEDICANENTOS LTDA",
+            "valor_total": "R$ 79,443.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA PHARMAPLUS\n\nLTDA",
+            "valor_total": "R$ 54,533.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA CONQUISTA\n\nDISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 25,258.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA DF MEDICAL\n\nLTDA",
+            "valor_total": "R$ 7,612.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA J. J.\n\nDISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 4,512.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE ÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA MD MATERIAL\n\nHOSPITALAR EIRELI",
+            "valor_total": "R$ 11,874.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 11,
+        "total_gasto": 484382.08,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS EM SST – SEGURANÇA E\nSAÚDE DO TRABALHO, PARA ATENDER AS NECESSIDADES\n\nDA SECRETÁRIA MUNICIPAL DE ADMINISTRAÇÃO DE\n\nÁGUA BRANCA – PB",
+            "empresa": "EMERSON AUGUSTO DA\n\nSILVA",
+            "valor_total": "R$ 24,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 34,
+        "total_gasto": 2675236.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 15,
+        "total_gasto": 872990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 37,
+        "total_gasto": 3173118.73,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE 01 VEÍCULO TIPO VAN PARA\n\nTRANSPORTE FORA DO DOMICÍLIO, ATENDENDO AS\n\nNECESSIDADES DA SECRETÁRIA MUNICIPAL DE SAÚDE\n\nDE ÁGUA BRANCA - PB",
+            "empresa": "A EMPRESA ENILSON DA\nSILVA ARAUJO SOUZA",
+            "valor_total": "R$ 113,987.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1739511.49,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 veículo de transporte escolar diário de\n\nestudantes, denominado de Ônibus Rural Escolar (ORE 3), para\n\natender as necessidades da Prefeitura Municipal de Água Branca- PB",
+            "empresa": "ON-HIGHWAY BRASIL LTDA",
+            "valor_total": "R$ 469,499.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 17,
+        "total_gasto": 2067119.6,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS DIVERSOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÇÃO DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "ACAT\n\nSOLUÇÕES E COMÉRCIO LTDA",
+            "valor_total": "R$ 61,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS DIVERSOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÇÃO DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "GHPS\n\nBARRETO",
+            "valor_total": "R$ 10,400.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS DIVERSOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÇÃO DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "JAMES DE\n\nOLIVEIRA-ME",
+            "valor_total": "R$ 204,020.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS DIVERSOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÇÃO DA PREFEITURA DE ÁGUA BRANCA – PB",
+            "empresa": "MOVEPLAST\n\nINDUSTRIA DE MOVEIS LTDA",
+            "valor_total": "R$ 102,397.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS PARA MANUTENÇÃO E\n\nCONSERVAÇÃO DOS VEÍCULOS DA PREFEITURA DE\n\nÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA DANILO JOSE\n\nMARTINS DA SILVA COMERCIO DE AUTO PECAS E\n\nPNEUS LTDA",
+            "valor_total": "R$ 279,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS PARA MANUTENÇÃO E\n\nCONSERVAÇÃO DOS VEÍCULOS DA PREFEITURA DE\n\nÁGUA BRANCA – PB",
+            "empresa": "A EMPRESA LUCIANO\n\nLEITE DE LIMA",
+            "valor_total": "R$ 103,710.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 456079.27,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇÃO DOS SERVIÇOS DE IMPLANTAÇÃO DE\n\nPAVIMENTAÇÃO NO PERÍMETRO URBANO DO\n\nMUNICÍPIO DE ÁGUA BRANCA-PB, NOS TERMOS DO\n\nCONTRATO DE REPASSE N.º 1087664-76",
+            "empresa": "A EMPRESA JAF\n\nCONSTRUCAO E CONSULTORIA LTDA",
+            "valor_total": "R$ 408,002.27"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 635173.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 15000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "APRESENTAÇÃO DE UM SHOW ARTÍSTICO DA\n\nBANDA MUSICAL BAÚ DAS MENINAS, NO DIA 31 DE\n\nDEZEMBRO DE 2024, EM PRAÇA PÚBLICA, EM PRAÇA\n\nPÚBLICA, DURANTE AS FESTIVIDADES DE COMEMORAÇÃO\n\nÀS FESTIVIDADES DE REVEILLON DO MUNICÍPIO DE ÁGUA\n\nBRANCA – PB",
+            "empresa": "28.722.881 JACIARA MONALIZA\n\nARAUJO DA SILVA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

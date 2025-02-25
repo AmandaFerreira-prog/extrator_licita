@@ -59,9 +59,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 149,
-        "num_contratos": 130,
-        "total_gasto": 28651191.479999997
+        "num_diarios": 146,
+        "num_contratos": 128,
+        "total_gasto": 28537691.479999997
       },
       "2": {
         "num_diarios": 8,
@@ -85,7 +85,7 @@
         ]
       },
       "4": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 5,
         "total_gasto": 242250.0,
         "top_3_empresas": [
@@ -127,14 +127,14 @@
         ]
       },
       "8": {
-        "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 1830557.23,
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 1717057.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 8,
         "total_gasto": 2598784.99,
         "top_3_empresas": [],
@@ -168,9 +168,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 190,
-    "num_contratos": 141,
-    "total_gasto": 30373445.55,
+    "num_diarios": 187,
+    "num_contratos": 139,
+    "total_gasto": "30.259.945,55",
     "top_5_empresas": {
       ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mogeiro e: CT Nº\n\n00060/2023 - Wjx Construcoes e Servicos de Engenharia Ltda -": 1,
       ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mogeiro e: CT Nº\n\n00061/2023": 1,

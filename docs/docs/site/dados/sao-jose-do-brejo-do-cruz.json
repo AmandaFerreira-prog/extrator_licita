@@ -32,7 +32,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 54,
+        "num_diarios": 52,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -51,7 +51,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -107,7 +107,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -214,7 +214,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 64,
+        "num_diarios": 61,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -240,7 +240,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -282,14 +282,14 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -298,19 +298,19 @@
     },
     "2021": {
       "1": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 56,
+        "num_diarios": 52,
         "num_contratos": 0,
         "total_gasto": 0
       },
       "2": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -324,7 +324,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -359,7 +359,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -396,7 +396,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 68,
+        "num_diarios": 66,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -408,7 +408,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -457,7 +457,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -487,12 +487,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 78,
+        "num_diarios": 76,
         "num_contratos": 0,
         "total_gasto": 0
       },
       "2": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -527,7 +527,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -578,7 +578,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 60,
+        "num_diarios": 58,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -625,14 +625,14 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -662,9 +662,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 433,
+    "num_diarios": 418,
     "num_contratos": 0,
-    "total_gasto": 0,
+    "total_gasto": "0,00",
     "top_5_empresas": {},
     "top_5_objetos": {}
   }

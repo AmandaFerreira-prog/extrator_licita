@@ -1,0 +1,566 @@
+{
+  "id": "pocinhos",
+  "nome": "Pocinhos",
+  "detalhe": {
+    "2019": {
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 977019.01,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATACÃO DE EMPRESA PARA PRESTACÃO\nDE SERVIÇOS DE DIVUGALGACÃO DAS ATIVIDADES E\nAÇÕES DO PODER EXECUTIVO E DEMAIS SECRETARIA\nDESTE MUNICIPIO",
+            "empresa": "CARLOS\nANDRE DE ALCANTARA LIMA",
+            "valor_total": "R$ 14,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 54,
+        "num_contratos": 92,
+        "total_gasto": 10825752.169999998
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 834844.6599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 884690.5000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS EM ATA PARA EVENTUAL\nAQUISIÇÃO DE PEÇAS AUTOMOTIVAS, de forma parcelada",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Pocinhos e:\nCT Nº 03901/2018 - O Cearense Distribuidora de Pecas Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 143730.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 912561.52,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS EM ATA PARA EVENTUAL\nAQUISIÇÃO DE GÁS DE COZINHA, de forma parcelada",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Pocinhos e:\nCT Nº 04801/2018",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "ADESÃO Nº 025/2019 AO SISTEMA DE O REGISTRO\nDE PREÇO PARA AQUISIÇÃO DE PNEUS, CÂMARAS DE AR E\nPROTETORES, PARA ATENDER AS NECESSIDADES DO\nMUNICÍPIO DE POCINHOS, PROVENIENTE DA ADESÃO A\nATA DE REGISTRO DE PREÇOS Nº 025/2019 - PREGÃO\nPRESENCIAL 025/2019, DA PREFEITURA MUNICIPAL DE\nQUEIMADAS-PB",
+            "empresa": "PNEUMAX LTDA",
+            "valor_total": "R$ 235,826.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 1207588.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa física ou Jurídica referente a um\nDesenhista técnico (cadista) ou Profissional Habilitado- serviços\nde elaboração de desenhos técnicos de arquitetura e engenharia\nutilizando softwares específicos, observando a legislação\npertinente; execução de plantas, desenhos e detalhamento de\ninstalações hidros sanitárias e elétricas; coleta e processamento de\ndados e planejamento para a elaboração de projetos;\ninterpretação de projetos existentes, cálculo e definição de custos\ndo desenho; analise de croqui e aplicação de normas de saúde\nocupacional e normas técnicas ligadas à construção civil, bem\ncomo com conhecimentos no sistemas SISMOB e SIMEC do\ngoverno federal, para atender as necessidades da Prefeitura do\nMunicípio de Pocinhos",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Pocinhos e: CT Nº 05501/2018",
+            "valor_total": "R$ 27,480.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA APOIO NA\nEXECUÇÃO DOS SERVIÇOS DE COLETA E TRANSPORTE DE\nRESÍDUOS SÓLIDOS DOMICILIARES COM CAMINHÕES\nINCLUINDO MOTORISTA E EQUIPE PARA A COLETA, PARA\nATENDER AS NECESSIDADES DO MUNICÍPIO DE POCINHOS,\nde forma parcelada",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nPocinhos e: CT Nº 02101/2018 - RAINHA EMPREITEIRA LTDA -\nME",
+            "valor_total": "R$ 360,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\nLOCAÇÃO DE VEICULOS DESTINADA A TODAS AS\nSECRETARIAS DO MUNICIPIO DE POCINHOS, de forma\nparcelada",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nPocinhos e: CT Nº 04201/2018 - GCINCO COMERCIO E\nSERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE IMÓVEL DESTINADO PARA O\nDESENVOLVIMENTO DAS ATIVIDADES DO PROGRAMA\nBOLSA FAMÍLIA, PARA ATENDER AS NECESSIDADES\nDESTA MUNICIPALIDADE",
+            "empresa": "MARIA DAS DORES SILVA",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 244474.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 29,
+        "total_gasto": 5620843.9,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA ASSESSORIA\nADMINISTRATIVA NA IMPLANTAÇÃO E ELABORAÇÃO DA\nFOLHA DE PAGAMENTO PARA A PREFEITURA MUNICIPAL\nDE POCINHOS",
+            "empresa": "THALES\nHERMINIO SANTOS",
+            "valor_total": "R$ 36,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE DIVULGAÇÃO DAS ATIVIDADES E AÇÕES\nDO PODER EXECUTIVO E DEMAIS SECRETARIAS DESTE\nMUNICÍPIO",
+            "empresa": "CARLOS ANDRE DE ALCANTARA\nLIMA",
+            "valor_total": "R$ 80,400.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\nAQUISIÇÃO DE GÁS DE COZINHA, PARA ATENDER AS\nNECESSIDADES DESTA MUNICIPALIDADE",
+            "empresa": "REVENDEDORA DE GAS DO BRASIL LTDA",
+            "valor_total": "R$ 216,975.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 458112.7,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA IMPLANTAÇÃO DE PAVIMENTAÇÃO DE DIVERSAS\n\nRUAS NO MUNICÍPIO DE POCINHOS-PB, CONFORME\n\nCONTRATO DE REPASSE nº 1052585-90/2018 - CONVÊNIO:\n\n8669533",
+            "empresa": "ESTRUCTURAL ENGENHARIA LTDA -\n\nME",
+            "valor_total": "R$ 269,812.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 100,
+        "total_gasto": 32251998.25
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 2416470.2,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTIVEIS E DERIVADOS DE\nPETROLEO, PARA ATENDER AS NECESSIDADES DA\nPREFEITURA MUNICIPAL DE POCINHOS-PB",
+            "empresa": "GENESIO\nGONCALVES DE ALBUQUERQUE DA COSTA",
+            "valor_total": "R$ 1,607,230.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1891665.1799999997,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTICIOS PARA A\nMERENDA ESCOLAR",
+            "empresa": "LEONILDO\nPORTO",
+            "valor_total": "R$ 142,274.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTICIOS PARA A\nMERENDA ESCOLAR",
+            "empresa": "MERILUCIA DA SILVA",
+            "valor_total": "R$ 142,274.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, PARA\nATENDER AS NECESSIDADES DE TODAS AS SECRETARIAS\nDESTA MUNICIPALIDADE",
+            "empresa": "LEONILDO PORTO",
+            "valor_total": "R$ 41,533.31"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, PARA\nATENDER AS NECESSIDADES DE TODAS AS SECRETARIAS\nDESTA MUNICIPALIDADE",
+            "empresa": "MERILUCIA DA SILVA",
+            "valor_total": "R$ 41,533.31"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1027035.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa especializada nos serviços de:\n\nAcompanhamento e Patrocínio de Defesas dos Processos de Interesse\n\ndo Município de Pocinhos PB, em Tramitação no Tribunal de Contas\n\ndo Estado da Paraíba TCE/PB e tribunal de Contas da União TCU",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Pocinhos e:\n\nCT Nº 00901/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 206492.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 253225.6,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO Nº 14001/2020 AO SISTEMA DE O\n\nREGISTRO DE PREÇO PARA EVENTUAL AQUISIÇÃO DE\n\nHORTIFRUTI GRANJEIROS, PARA ATENDER AS\n\nNECESSIDADES DESTA MUNICIPALIDADE, PROVENIENTE\n\nDA ADESÃO A ATA DE REGISTRO DE PREÇOS Nº 00014/2019 -\n\nPREGÃO PRESENCIAL 00014/2019, DA PREFEITURA\n\nMUNICIPAL DE POCINHOS-PB",
+            "empresa": "MERILUCIA DA SILVA",
+            "valor_total": "R$ 95,487.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 468375.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA IMPLANTAÇÃO DE PAVIMENTAÇÃO DE DIVERSAS\n\nRUAS NO MUNICÍPIO DE POCINHOS-PB, CONFORME\n\nCONTRATO DE REPASSE nº 1052585-90/2018 - CONVÊNIO:\n\n8669533",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nPocinhos e: CT Nº 05401/2019 - Estructural Engenharia Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS DE RECUPERAÇÃO DE\n\nPNEUS ATRAVÉS DE RECAPAGEM E VULCANIZAÇÃO, PELO\n\nPERÍODO DE 12 (DOZE) MESES",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Pocinhos e: CT Nº 03301/2019 - Pneumax\n\nRecondicionadora Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 22197155.1,
+        "empresas_mensais": [
+          {
+            "objeto": "DISPENSA EMERGENCIAL PARA AQUISIÇÃO DE\n\nMEDICAMENTOS PARA ENFRENTAMENTO AO COVID–19,\n\nCONFORME DECRETO MUNICIPAL 224 DE 22 DE JULHO DE\n\n2020 E COM BASE NA LEI 13.979/2020",
+            "empresa": "A COSTA\n\nCOMERCIO ATACADISTA DE PRODUTOS FARMACEUTICOS\n\nLTDA",
+            "valor_total": "R$ 101,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 547508.5700000001,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO DE MANUTENÇÃO E RECUPERAÇÃO\nELÉTRICA, HIDRÁULICA, CARPINTARIA, PEDREIRO,\nPINTURA, CALCETEIRO E MARCENARIA PARA ATENDER AS\nNECESSIDADES DESTA EDILIDADE",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\nMunicipal de Pocinhos e: CT Nº 03601/2019",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "SERVIÇO DE MANUTENÇÃO E RECUPERAÇÃO\nELÉTRICA, HIDRÁULICA, CARPINTARIA, PEDREIRO,\nPINTURA, CALCETEIRO E MARCENARIA PARA ATENDER AS\nNECESSIDADES DESTA EDILIDADE",
+            "empresa": "e prorroga o prazo por mais 60 dias. CT Nº\n03604/2019",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "SERVIÇO DE MANUTENÇÃO E RECUPERAÇÃO\nELÉTRICA, HIDRÁULICA, CARPINTARIA, PEDREIRO,\nPINTURA, CALCETEIRO E MARCENARIA PARA ATENDER AS\nNECESSIDADES DESTA EDILIDADE",
+            "empresa": "e\nprorroga o prazo por mais 60 dias. CT Nº 03605/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 642520.44,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDOS SERVIÇOS DE ASSESSORIA E CONSULTORIA\nESPECIALIZADA NO AUXILIO AO COMBATE ADEQUADO À\nPANDEMIA NO MUNICIPIO DE POCINHOS–PB",
+            "empresa": "HELVIA\nVILAR GOMES DE AMORIM",
+            "valor_total": "R$ 48,672.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DO\nFUNDO MUNICIPAL DE SAÚDE DE POCINHOS–PB",
+            "empresa": "A\nCOSTA COMERCIO ATACADISTA DE PRODUTOS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\nFARMACEUTICOS LTDA",
+            "valor_total": "R$ 309,743.44"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DO\nFUNDO MUNICIPAL DE SAÚDE DE POCINHOS–PB",
+            "empresa": "CT Nº\n01903/2020 - 27.10.20 - DROGAFONTE LTDA",
+            "valor_total": "R$ 309,743.44"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DO\nFUNDO MUNICIPAL DE SAÚDE DE POCINHOS–PB",
+            "empresa": "PRO-SAUDE DISTRIBUIDORA DE\nMEDICAMENTOS EIRELI",
+            "valor_total": "R$ 309,743.44"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\nVEÍCULOS DO TIPO: ÔNIBUS, SUV E CAÇAMBA PARA\nATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL\nDE POCINHOS",
+            "empresa": "Outros Serviços de Terceiros -",
+            "valor_total": "R$ 51,050.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\nVEÍCULOS DO TIPO: ÔNIBUS, SUV E CAÇAMBA PARA\nATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL\nDE POCINHOS",
+            "empresa": "CT Nº 03402/2020",
+            "valor_total": "R$ 51,050.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\nVEÍCULOS DO TIPO: ÔNIBUS, SUV E CAÇAMBA PARA\nATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL\nDE POCINHOS",
+            "empresa": "CT Nº\n03403/2020",
+            "valor_total": "R$ 51,050.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE IMÓVEL DESTINADO PARA O\nDESENVOLVIMENTO DAS ATIVIDADES DO PROGRAMA\nBOLSA FAMÍLIA, PARA ATENDER AS NECESSIDADES\nDESTA MUNICIPALIDADE",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nPocinhos e: CT Nº 04301/2019",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE SISTEMAS DE GESTÃO PÚBLICA\nPARA DESENVOLVIMENTO DAS FUNÇÕES DA\nADMINISTRAÇÃO PÚBLICA MUNICIPAL",
+            "empresa": "PUBLIC\nSOFTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 11,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1599727.45,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO,\nDE FORMA PARCELADA",
+            "empresa": "ISRAEL PORTO DOS SANTOS",
+            "valor_total": "R$ 427,009.05"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS AUTOMOTIVAS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DESTA\nMUNICIPALIDADE, EM DECORRÊNCIA DA RESCISÃO\nCONTRATUAL DO PREGÃO PRESENCIAL 017/2019",
+            "empresa": "SEMEA COMERCIO DE PECAS E\nSERVICOS PARA AUTOS LTDA",
+            "valor_total": "R$ 57,600.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS E CÂMARAS DE AR, PARA\nATENDER AS NECESSIDADES DA FROTA DE VEÍCULOS\nMUNICIPAL",
+            "empresa": "AC COMERCIO DE PNEUS LTDA",
+            "valor_total": "R$ 49,647.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE SISTEMAS DE GESTÃO PÚBLICA\nPARA DESENVOLVIMENTO DAS FUNÇÕES DA\nADMINISTRAÇÃO PÚBLICA MUNICIPAL",
+            "empresa": "PUBLIC\nSOFTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 11,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 543710.06,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\n\nAUXILIAR NO COMBATE AO COVID 19, PARA ATENDER AS\n\nNECESSIDADES DESTA MUNICIPALIDADE",
+            "empresa": "MATERIAL DE CONSUMO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 5759377.51,
+        "empresas_mensais": [
+          {
+            "objeto": "OBRAS DE CONSTRUÇÃO DE UMA UNIDADE\nESCOLAR COM 06 SALAS DE AULA E A QUADRA COBERTA\nEM NAZARÉ",
+            "empresa": "A. B.\nCONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 2,054,744.35"
+          },
+          {
+            "objeto": "Serviços funerários",
+            "empresa": "PLAAF - SERVICOS FUNERARIOS LTDA",
+            "valor_total": "R$ 229,460.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 5759377.51
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 5594043.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 132,
+        "num_contratos": 162,
+        "total_gasto": 49911645.809999995
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 4761813.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 166736.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 1922461.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 19766014.119999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 361678.6,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE INSUMOS AGRÍCOLAS (MUDAS DE\n\nUMBU)",
+            "empresa": "AGRO\n\nTD+ COMERCIO DE PLANTAS LTDA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS MÉDICOS\n\nHOSPITALARES",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 148,599.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS MÉDICOS\n\nHOSPITALARES",
+            "empresa": "A A Z SAUDE COMERCIO DE\n\nPRODUTOS MEDICOS E HOSPITALARES LTDA",
+            "valor_total": "R$ 148,599.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS MÉDICOS\n\nHOSPITALARES",
+            "empresa": "ALEXANDRE R BARBOSA DA\n\nSILVA",
+            "valor_total": "R$ 148,599.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS E EQUIPAMENTOS\n\nADMINISTRATIVOS",
+            "empresa": "RE DA SILVA E SILVA LTDA -\n\nR$ 16.000,00; CT Nº 00128/2024 - 21.06.24 - MOVEPLAST\n\nINDUSTRIA DE MOVEIS LTDA",
+            "valor_total": "R$ 77,321.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS E EQUIPAMENTOS\n\nADMINISTRATIVOS",
+            "empresa": "LUCIANO SERGIO GUIMARAES DE SA\n\nBARRETO",
+            "valor_total": "R$ 77,321.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS E EQUIPAMENTOS\n\nADMINISTRATIVOS",
+            "empresa": "ALEXANDRE R BARBOSA DA SILVA",
+            "valor_total": "R$ 77,321.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNERO\n\nALIMENTÍCIO DA AGRICULTURA FAMILIAR E DO\n\nEMPREENDEDOR FAMILIAR RURAL",
+            "empresa": "CT\n\nNº 00133/2024",
+            "valor_total": "R$ 45,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNERO\n\nALIMENTÍCIO DA AGRICULTURA FAMILIAR E DO\n\nEMPREENDEDOR FAMILIAR RURAL",
+            "empresa": "MARIA DO SOCORRO\n\nGONÇALVES SILVA",
+            "valor_total": "R$ 45,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 31,
+        "total_gasto": 2394655.3200000003,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PRODUTOS DE INFORMÁTICA",
+            "empresa": "CT Nº 00146/2024 - 19.07.24 - CB ELETRO E\n\nINFORMATICA LTDA",
+            "valor_total": "R$ 75,735.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ROUPAS PARA A\n\nPRÁTICA ESPORTIVA",
+            "empresa": "CT Nº 00160/2024 - 30.07.24 - LRG COMERCIO LTDA",
+            "valor_total": "R$ 75,989.96"
+          },
+          {
+            "objeto": "OBRAS DE REFORMA DO MERCADO PÚBLICO",
+            "empresa": "ENGEMARCC CONSTRUTORA\n\nEIRELI",
+            "valor_total": "R$ 445,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 22,
+        "total_gasto": 3065874.11,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 4731228.74,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOS 0KM",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 254,970.00"
+          },
+          {
+            "objeto": "OBRAS DE CONSTRUÇÃO DA PRAÇA DE\n\nBOQUEIRÃO E ORLA DO AÇUDE",
+            "empresa": "E&M CONSTRUCOES LTDA",
+            "valor_total": "R$ 606,230.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 5801814.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 849644.54,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS DE À Z DA LINHA\n\nFARMA (ÉTICO, GENÉRICO E SIMILARES), COM\n\nAPRESENTAÇÃO DE RECEITA, ATRAVÉS DA OFERTA DE\n\nMAIOR PERCENTUAL DE DESCONTO SOBRE A TABELA DE\nPREÇOS DE REFERÊNCIA DA ASSOCIAÇÃO BRASILEIRA DO\n\nCOMÉRCIO FARMACÊUTICO – ABCFARMA",
+            "empresa": "DROGARIA DROGAVISTA LTDA",
+            "valor_total": "R$ 446,366.66"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 495680.83999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

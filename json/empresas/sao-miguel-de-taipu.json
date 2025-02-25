@@ -1,0 +1,635 @@
+{
+  "id": "sao-miguel-de-taipu",
+  "nome": "São Miguel de Taipu",
+  "detalhe": {
+    "2021": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 219333.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\nSERVIÇO DE ASSESSORIA E CONSULTORIA\nADMINISTRATIVO –FINANCEIRO PARA ATUAR JUNTO AS\nDIVERSAS SECRETARIAS DESSA PREFEITURA",
+            "empresa": "ESCRITÓRIO MARTINS NORAT",
+            "valor_total": "R$ 60,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DESTINADOS AO\nCONSUMO DA FROTA MUNICIPAL(PRÓPRIA E LOCADA)",
+            "empresa": "AGUINALDO GOMES DE SOUSA FILHO",
+            "valor_total": "R$ 32,950.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 70,
+        "num_contratos": 98,
+        "total_gasto": 11268924.370000001
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 1570113.1400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E\n\nINJETAVEIS COM ENTREGA DE FORMA FRACIONADA PARA\n\nATENDER A DEMANDA DA SECRETARIA DE SAÚDE DESTE\n\nMUNICIPÍO",
+            "empresa": "ALLFAMED COMERCIO ATACADISTA DE MEDICAMENTOS\n\nLTDA",
+            "valor_total": "R$ 813,841.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E\n\nINJETAVEIS COM ENTREGA DE FORMA FRACIONADA PARA\n\nATENDER A DEMANDA DA SECRETARIA DE SAÚDE DESTE\n\nMUNICIPÍO",
+            "empresa": "ATACAMED COMERCIO DE PRODUTOS FARMACEUTICOS E\n\nHOSPITALARES L",
+            "valor_total": "R$ 813,841.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E\n\nINJETAVEIS COM ENTREGA DE FORMA FRACIONADA PARA\n\nATENDER A DEMANDA DA SECRETARIA DE SAÚDE DESTE\n\nMUNICIPÍO",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 813,841.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR,\n\nCOM ENTREGA DE FORMA FRACIONADA PARA ATENDER A\n\nDEMANDA DA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "ALLFAMED COMERCIO\n\nATACADISTA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 711,976.18"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR,\n\nCOM ENTREGA DE FORMA FRACIONADA PARA ATENDER A\n\nDEMANDA DA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "ATACAMED COMERCIO DE\n\nPRODUTOS FARMACEUTICOS E HOSPITALARES L",
+            "valor_total": "R$ 711,976.18"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR,\n\nCOM ENTREGA DE FORMA FRACIONADA PARA ATENDER A\n\nDEMANDA DA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "FARMAGUEDES\n\nCOMERCIO DE PRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 711,976.18"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR,\n\nCOM ENTREGA DE FORMA FRACIONADA PARA ATENDER A\n\nDEMANDA DA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "CT Nº 00017/2021 -\n\n24.02.21 - MJ COMERCIO DE ARTIGOS MÉDICOS E\n\nORTOPÉDICOS LTDA",
+            "valor_total": "R$ 711,976.18"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 2491992.76,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS, SEM MOTORISTA E SEM\n\nCOMBUSTÍVEL, SENDO SEGURO TOTAL, EMPLACAMENTO,\n\nMANUTENÇÃO, TROCA DE ÓLEO E LUBRIFICANTES POR\n\nPARTE DA CONTRATADA",
+            "empresa": ". FUNDAMENTO LEGAL: Pregão\n\nPresencial nº 00012/2021. DOTAÇÃO: Recursos Próprios do\n\nMunicípio de São Miguel de Taipu: RECURSO PRÓPRIO E\n\nFEDERAL DO MUNICIPIO DE SÃO MIGUEL DE TAIPU 02.010\n\nGABINETE DO PREFEITO 04. 122 2002 2003 MANUTENÇÃO\n\nDAS ATIVIDADES DO GABINETE DO PREFEITO 02.020\n\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E\n\nFINANÇAS 04 123 2002 2007 MANUTENÇÃO DAS\n\nATIVIDADES DA SECRETARIA MUNICIPAL DE\n\nADMINISTRAÇÃO E FINANÇAS 02.070 SECRETARIA\n\nMUNICIPAL DE SAÚDE 10 301 2002 2039 MANUTENÇÃO DAS\n\nATIVIDADES DA SECRETARIA MUNICIPAL DE SAÚDE–\n\nOUTROS RECURSOS 3390.39 99 OUTROS SERVIÇOS DE\n\nTERCEIROS",
+            "valor_total": "R$ 250,800.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS, SEM MOTORISTA E SEM\n\nCOMBUSTÍVEL, SENDO SEGURO TOTAL, EMPLACAMENTO,\n\nMANUTENÇÃO, TROCA DE ÓLEO E LUBRIFICANTES POR\n\nPARTE DA CONTRATADA",
+            "empresa": "4 RODAS LOCADORA LTDA",
+            "valor_total": "R$ 250,800.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS, SEM MOTORISTA E SEM\n\nCOMBUSTÍVEL, SENDO SEGURO TOTAL, EMPLACAMENTO,\n\nMANUTENÇÃO, TROCA DE ÓLEO E LUBRIFICANTES POR\n\nPARTE DA CONTRATADA",
+            "empresa": "O & L LOCACAO EIRELI",
+            "valor_total": "R$ 250,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 776050.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 11,
+        "total_gasto": 1147005.57,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA MANUTENÇÃO PREVENTIVA E CORRETIVA DOS\nVEÍCULOS LEVES E PESADOS PERTENCENTES A FROTA DE\nAUTOMOVEIS DA PREFEITURA MUNICIPAL DE SÃO\nMIGUEL DE TAIPU",
+            "empresa": "GESSICA\nOLIVEIRA DA SILVA",
+            "valor_total": "R$ 29,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEICULO TIPO PASSEIO, EM\nPERFEITAS CONDIÇÕES, COM CONDUTOR, COMBUSTIVEL,\nMANUTENÇÃO E DEMAIS OBRIGAÇÕES A CARGO DO\nCONTRATADO, PARA O TRANSLADO DE PACIENTES EM\nTRATAMENTO DE HEMODIÁLISE, SAINDO DO CENTRO DE\nSÃO MIGUEL DE TAIPU –PB/JOÃO PESSOA/SÃO MIGUEL DE\nTAIPU–PB, COM ESTIMATIVA DE ATÉ 15 VIAGENS\nMENSAIS",
+            "empresa": "JOSE SEVERINO DA SILVA FILHO",
+            "valor_total": "R$ 35,100.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE MÁQUINA TIPO ESCAVADEIRA\nHIDRAULICA DE 22 TONELADAS PARA SERVIÇO DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 33\n\n\nTERRAPLANAGEM",
+            "empresa": "ENGEMEC\nCONSTRUTORA E INCORPORADORA LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação dos\nserviços de perfuração de poços artesianos em rocha cristalina",
+            "empresa": "JOTAV CONSTRUCOES, SERVICOS E\nSOLUCOES LTDA",
+            "valor_total": "R$ 49,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 491650.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 1105027.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 389686.1,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE TESTE RÁPIDO PARA DETECÇÃO\n\nDA COVID–19 IGG E IGM COM A FINALIDADE DE ATENDER\n\nÀS NECESSIDADES DESTA MUNICIPALIDADE",
+            "empresa": "ALMED ALDENIO\n\nDISTRIBUIDORA DE MEDICAMENTOS E MATERIAL MEDICO\n\n- HOSPITALAR LTDA",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE KIT ESCOLAR PARA RETORNO ÀS\n\nAULAS",
+            "empresa": "CASA NOVA COMERCIO DE PRODUTOS ALIMENTICIOS\n\nLTDA",
+            "valor_total": "R$ 17,580.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 1813583.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 23217.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 1067939.43,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SERVIÇOS DE LIMPEZA URBANA NO MUNICÍPIO DE SÃO\n\nMIGUEL DE TAIPU/PB",
+            "empresa": "SERVICOL SERVICOS E\n\nCONSTRUCOES LTDA",
+            "valor_total": "R$ 199,594.28"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para execução da\n\nobra de implantação de pavimentação em paralelepípedo no\n\nMunicípio de São Sebastião do umbuzeiro–PB, conforme Projeto\n\nBásico de Engenharia",
+            "empresa": "FERREIRA ALVES SERVICOS DE CONSTRUCOES LTDA",
+            "valor_total": "R$ 758,070.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 173324.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 1568042.5499999998,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E\n\nINJETAVEIS COM ENTREGA DE FORMA FRACIONADA PARA\n\nATENDER A DEMANDA DA SECRETARIA DE SAÚDE DESTE\n\nMUNICIPÍO",
+            "empresa": "ATACAMED COMERCIO DE\n\nPRODUTOS FARMACEUTICOS E HOSPITALARES L",
+            "valor_total": "R$ 250,974.97"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR,\n\nCOM ENTREGA DE FORMA FRACIONADA PARA ATENDER A\n\nDEMANDA DA SECRETARIA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "ATACAMED COMERCIO DE\n\nPRODUTOS FARMACEUTICOS E HOSPITALARES L",
+            "valor_total": "R$ 272,870.92"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 97,
+        "num_contratos": 135,
+        "total_gasto": 22128851.31000001
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 1179951.98,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ESTOJOS ESCOLARES\n\nDESTINADADOS A ATENDER ÀS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO DESTE MUNICÍPIO",
+            "empresa": "JAQUELINE\n\nFERREIRA SILVA",
+            "valor_total": "R$ 14,345.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 2146054.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 1806492.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 1196299.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de preços para futura e eventual contratação dos\n\nserviços especializados em Formação Continuada, Oficinas Rápidas e\n\nCurso de Qualificação, a fim de atender as demandas operacionais das\n\nSecretarias de Saúde, Assistência Social e Educação desta\n\nMunicipalidade",
+            "empresa": "RONALDO RAMOS\n\nDE QUEIROZ",
+            "valor_total": "R$ 270,858.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 1899485.6799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 27,
+        "total_gasto": 6057371.2299999995,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nMÁQUINA TIPO ESCAVADEIRA HIDRAÚLICA PARA\n\nRECONSTRUÇÃO DE PONTE PROVISÓRIA (PASSAGEM\n\nMOLHADA) SOBRE RIO PARAIBA NO MUNICÍPIO DE SÃO\n\nMIGUEL DE TAIPÚ/PB",
+            "empresa": "A3T - CONSTRUCAO E\n\nINCORPORACAO LTDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 691708.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1422052.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 10,
+        "total_gasto": 1899075.5899999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MATERIAL ELETRICO PARA ATENDER\n\nDE FORMA FRACIONADA A DEMANDA DESTA\n\nMUNICIPALIDADE",
+            "empresa": "CENTER LUZ SERVICOS E\n\nCOMERCIO DE MATERIAL ELETRICO EIRELI",
+            "valor_total": "R$ 340,193.35"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MATERIAL ELETRICO PARA ATENDER\n\nDE FORMA FRACIONADA A DEMANDA DESTA\n\nMUNICIPALIDADE",
+            "empresa": "ELETROLUZ COMERCIO DE\n\nMATERIAIS ELETRICOS EIRELI",
+            "valor_total": "R$ 340,193.35"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MATERIAL ELETRICO PARA ATENDER\n\nDE FORMA FRACIONADA A DEMANDA DESTA\n\nMUNICIPALIDADE",
+            "empresa": "GOIAS LED MATERIAIS ELETRICOS E\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 340,193.35"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MATERIAL ELETRICO PARA ATENDER\n\nDE FORMA FRACIONADA A DEMANDA DESTA\n\nMUNICIPALIDADE",
+            "empresa": "CT Nº\n\n00103/2022 - 20.10.22 - LUMIART COMERCIO E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 340,193.35"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 151406.11,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 2110911.6300000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 1784455.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 97,
+        "num_contratos": 126,
+        "total_gasto": 18293602.700000003
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 4564646.01,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nPAVIMENTAÇÃO DE ESTRADAS VICINAIS NO MUNICÍPIO\n\nDE SÃO MIGUEL DE TAIPU/PB",
+            "empresa": "MOURA E ANDRADE\n\nCONSTRUTORA E INCORPORADORA LTDA",
+            "valor_total": "R$ 446,569.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 1835412.92,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA E/OU PESSOA FÍSICA\n\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE TRATOR DE\n\nPNEUS, PARA CORTE DE TERRA",
+            "empresa": "PAULO CESAR TAVARES CONSERVA",
+            "valor_total": "R$ 175,000.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\n\nLOCAÇÃO DE MÁQUINA RETROESCAVADEIRA,\n\nDESTINADOS À MANUTENÇÃO DA SECRETARIA DE\n\nINFRAESTRUTURA MUNICIPAL",
+            "empresa": "SOLAR\n\nENERGIA E CONSTRUCOES LTDA",
+            "valor_total": "R$ 69,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação dos\n\nserviços de aração de solo na zona rural do Município de São\n\nSebastião do Umbuzeiro–PB, utilizando trator de pneus com grade\n\naradora de discos rebocável",
+            "empresa": "CAUASSU\n\nLOCACOES E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 445198.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 24,
+        "total_gasto": 1710553.6199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS",
+            "empresa": "RICARDO\n\nGOMES DA SILVA",
+            "valor_total": "R$ 289,854.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS",
+            "empresa": "FORTE GRAFICA EIRELI",
+            "valor_total": "R$ 289,854.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 1522969.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "PHARMAPLUS\n\nLTDA",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "MD\n\nMATERIAL HOSPITALAR EIRELI",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E HOSPITALARES\n\nLTDA",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "CT Nº\n\n00084/2023 - 14.06.23 - DIST. DE MEDICAMENTOS BACKES\n\nEIRELI ME",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "DWR\n\nREPRESENTACAO E COMERCIO DE MEDICAMENTOS LTDA -\n\nR$ 135,00; CT Nº 00086/2023 - 14.06.23 - CIRUFARMA\n\nCOMERCIAL LTDA",
+            "valor_total": "R$ 383,705.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMÁCIA\n\nBÁSICA, DESTINADOS A ATENDER AS NECESSIDADADES\n\nDA SECRETARIA DE SÁUDE DESTE MUNICÍPIO",
+            "empresa": "MCW PRODUTOS MEDICOS E HOSPITALARES",
+            "valor_total": "R$ 383,705.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 1140966.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 127536.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 614080.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE UNIDADE MÓVEL PARA\nTRANSPORTE DE EQUIPES CONFORME PROPOSTA DE\nAQUISIÇÃO DE EQUIPAMENTO/MATERIAL PERMANENTE\nN° DA PROPOSTA: 11601.645000/1210–01 DO MINISTÉRIO DA\nSAÚDE (EMENDA PARLAMENTAR)",
+            "empresa": "COMERCIO DE\nVEICULOS SANTANA LTDA",
+            "valor_total": "R$ 69,860.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1502594.15,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 1 (um) Pasteurizador rápido “a placas” com\n\ncapacidade de 1000 L/H, a fim de atender as demandas operacionais\n\ndo Município de São Sebastião do Umbuzeiro – PB, conforme\nespecificações técnicas constante no Termo de Referência",
+            "empresa": "I Z DA SILVA\n\nEQUIPAMENTOS",
+            "valor_total": "R$ 44,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1458460.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1586730.0599999998,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO À ATA DE REGISTRO PREÇOS PARA\nLOCAÇÃO DE ESTRUTURA DE PALCO, SOM E DEMAIS\nITENS ATINENTES A ESTE OBJETO PARA FESTEJOS DE FIM\nDE ANO DESTE MUNICÍPIO",
+            "empresa": "MASSARANDUBA LOCACOES\nLTDA",
+            "valor_total": "R$ 108,458.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 2840020.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 108,
+        "num_contratos": 112,
+        "total_gasto": 112337159.21000002
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 376028.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 59950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 17,
+        "total_gasto": 101532288.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 20,
+        "total_gasto": 1014089.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 2590831.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 559162.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 684466.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 1031028.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 344435.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA IMPLANTAÇÃO DE PAVIMENTAÇÃO NA VILA NOVO\n\nTAIPU NO MUNICIPIO DE SÃO MIGUEL DE TAIPU",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São Miguel de\n\nTaipú e: CT Nº 00061/2024 - Moura e Andrade Construtora e\n\nIncorporadora Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 1304857.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE UMA CHECHE MUNICIPAL; ATENDENDO, DESTA FORMA\n\nAS NECESSIDADES DA SECRETARIA DE EDUCAÇÃO",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São Miguel de\n\nTaipú e: CT Nº 00097/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNOS SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA\n\nNA ÁREA DE CONTABILIDADE PÚBLICA DIVIDIDA EM\n\nMODULOS A ESSA PREFEITURA PARA O ANO DE 2023",
+            "empresa": "-\n\nAtualizar o valor inicial contratado. PARTES CONTRATANTES:\n\nPrefeitura Municipal de São Miguel de Taipú e: CT Nº 00007/2023 -\n\nClair & Leitão Contabilidade Publica Ltda -me",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prorrogação de prazo ao Contrato Original\n\nContratante: Prefeitura Municipal de São Miguel de Taipu-PB\n\nContratado: QFROTAS SISTEMAS LTDA\n\nCNPJ Nº: 44.220.921/0001-35\n\nData Aditivo: 26/12/2024\n\nVigência: Final do exercício financeiro de 2025 (31/12/2025)\n\nRecursos: Próprios\n\nAmparo Legal: Art",
+            "empresa": "QFROTAS SISTEMAS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

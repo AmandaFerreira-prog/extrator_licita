@@ -1,0 +1,31 @@
+{
+  "id": "sao-jose-de-piranhas",
+  "nome": "São José de Piranhas",
+  "detalhe": {
+    "2024": {
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 118000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta dos serviços artísticos de apresentação musical em\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 7\n\n\n\npraça pública para as crianças com os Personagens BILLY e THEO a\n\npartir das 17h no dia 11 de outubro de 2024 com duração de 02 (duas)\n\nhoras",
+            "empresa": "KAL PRODUCOES E\n\nEVENTOS LTDA",
+            "valor_total": "R$ 118,000.00"
+          },
+          {
+            "objeto": "Contratação direta dos serviços artísticos de apresentação\n\nmusical em praça pública para as crianças com os Personagens\n\nBILLY e THEO a partir das 17h no dia 11 de outubro de 2024 com\n\nduração de 02 (duas) horas",
+            "empresa": "KAL PRODUCOES E\n\nEVENTOS LTDA",
+            "valor_total": "R$ 118,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 118000.0
+      }
+    }
+  }
+}

@@ -1,0 +1,2309 @@
+{
+  "id": "santa-teresinha",
+  "nome": "Santa Teresinha",
+  "detalhe": {
+    "2017": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 37,
+        "num_contratos": 60,
+        "total_gasto": 5692419.129999999
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 17,
+        "total_gasto": 3607850.07,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para Merenda dos\nAlunos da Rede Municipal de Ensino e para o desenvolvimento das\nAções, Atividades e Programas de todas as Secretarias da Prefeitura\ndo Município de Santa Teresinha – PB, conforme proposta de preço,\ntipo menor preço por item, julgada vencedora pelo Pregoeiro, no\nprocesso Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nBEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 410,081.76"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 11/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 11/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 11/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 11/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 12/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 12/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 12/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 12/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E\nMATERIAL MÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E\nMATERIAL MÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E\nMATERIAL MÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "LARMED DISTRIBUIDORA DE MEDICAMENTOS E\nMATERIAL MÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 13/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 13/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 13/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": ".\n\nEXTRATO DO CONTRATO N.º 13/2017\n\nPREGÃO PRESENCIAL Nº 05/2017\n\nPARTES: PREFEITURA MUNICIPAL DE SANTA\nTERESINHA– PB",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de medicamentos e insumos médico e\nhospitalar, destinados ao PSF/ESF/MCAH/SUS – Programa da Saúde\nda Família / Estratégia Saúde da Família / Média Complexidade\nAmbulatorial e Hospitalar / Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 1,211,667.10"
+          },
+          {
+            "objeto": "Aquisição de Material de Limpeza, para o\ndesenvolvimento das ações e programas das Secretarias Municipais da\nPrefeitura de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nBEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 316,590.35"
+          },
+          {
+            "objeto": "execução dos serviços dos\nserviços de desinsetização, desratização e descupimização a serem\nrealizados nas áreas internas e externas das escolas públicas\nmunicipais; PRAZO PARA EXECUÇÃO: em até dez (10) dias do\nrecebimento da ordem de execução de serviços; GARANTIA DOS\nSERVIÇOS: 180 (cento e oitenta) dias; DOTAÇÃO\nORÇAMENTÁRIA: 12.361.0007.2013.0000; ELEMENTO DE\nDESPESA: 33.90.39 – outros serviços de terceiros - PJ; FONTE: 06;",
+            "empresa": "JOSÉ AVAILTON DA CUNHA\n(CNPJ nº 06.248.164/0001-19);",
+            "valor_total": "R$ 3,900.00"
+          },
+          {
+            "objeto": "Contratação de carro\npipa com capacidade de dez (10) m³ de água; VIGÊNCIA: 02 de\nfevereiro a 14 de abril de 2017; PRORROGAÇÃO: pelo prazo que\nperdurar a situação de anormal de emergência pela estiagem\nlimitando-se a vigência total em 180 (cento e oitenta) dias;",
+            "empresa": "JOSÉ AVAILTON DA CUNHA\n(CNPJ nº 06.248.164/0001-19);",
+            "valor_total": "R$ 3,900.00"
+          },
+          {
+            "objeto": "execução dos serviços dos\nserviços de desinsetização, desratização e descupimização a serem\nrealizados nas áreas internas e externas das escolas públicas\nmunicipais; PRAZO PARA EXECUÇÃO: em até dez (10) dias do\nrecebimento da ordem de execução de serviços; GARANTIA DOS\nSERVIÇOS: 180 (cento e oitenta) dias; DOTAÇÃO\nORÇAMENTÁRIA: 12.361.0007.2013.0000; ELEMENTO DE\nDESPESA: 33.90.39 – outros serviços de terceiros - PJ; FONTE: 06;",
+            "empresa": "IVANILDO APARECIDO DOS\nSANTOS (CPF nº 850.480.544-15);",
+            "valor_total": "R$ 3,900.00"
+          },
+          {
+            "objeto": "Contratação de carro\npipa com capacidade de dez (10) m³ de água; VIGÊNCIA: 02 de\nfevereiro a 14 de abril de 2017; PRORROGAÇÃO: pelo prazo que\nperdurar a situação de anormal de emergência pela estiagem\nlimitando-se a vigência total em 180 (cento e oitenta) dias;",
+            "empresa": "IVANILDO APARECIDO DOS\nSANTOS (CPF nº 850.480.544-15);",
+            "valor_total": "R$ 3,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 11,
+        "total_gasto": 422471.95999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 304503.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de Santa Terezinha-PB e Fundos Municipais de Saúde e\nAssistência Social, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "EVERTON DE\nOLIVEIRA ARAÚJO",
+            "valor_total": "R$ 29,300.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES, CPNJ:\n13.045.626/0001-66.",
+            "valor_total": "R$ 174,380.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de Carga, tipo Camionete\nCarroceria Aberta, GM/CHEVROLET D20 CUSTON S, ANO 1993,\nCor Vermelha, com capacidade mínima de 1.00 T e Potência Mínima\nde 92Cv, para atender as necessidades da Secretaria de Educação da\nPrefeitura do Município de Santa Teresina – PB, conforme proposta\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "EGILDO\nMARIANO DUARTE",
+            "valor_total": "R$ 26,400.00"
+          },
+          {
+            "objeto": "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de Santa Terezinha-PB e Fundos Municipais de Saúde e\nAssistência Social, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "JOSIVAN\nMELQUIADES NÓBREGA",
+            "valor_total": "R$ 30,958.00"
+          },
+          {
+            "objeto": "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de Santa Terezinha-PB e Fundos Municipais de Saúde e\nAssistência Social, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "CENTRAL E\nPAPELARIA E COMÉRICO DE INFORMÁTICA EIRELI",
+            "valor_total": "R$ 42,070.00"
+          },
+          {
+            "objeto": "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de Santa Terezinha-PB e Fundos Municipais de Saúde e\nAssistência Social, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "AURILIO\nALMEIDA DE SOUZA",
+            "valor_total": "R$ 1,395.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 86800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços para manutenção e conservação dos\nÔnibus Escolares da Prefeitura de Santa Teresinha – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nGIPAGEL AUTO PEÇAS LTDA",
+            "valor_total": "R$ 58,000.00"
+          },
+          {
+            "objeto": "Prestação de serviços para manutenção e conservação dos\nÔnibus Escolares da Prefeitura de Santa Teresinha – PB, conforme\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             31\n\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nCILMARA M P L MEDEIROS SERVIÇOS AUTOMOTIVOS",
+            "valor_total": "R$ 28,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 141207.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 230704.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 8,
+        "total_gasto": 562931.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços Técnicos Especializados de Apoio\nAdministrativo à Secretaria de Saúde do Município, na elaboração de\nprojetos técnicos e alimentação dos sistemas de Saúde, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ALBINY\nLUCIANO DE ARAÚJO AMORIM",
+            "valor_total": "R$ 19,500.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames médicos radiológicos, para atender as necessidades da\nSecretaria de Saúde da Prefeitura Municipal de Santa Teresinha – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FERNANDO\nFRANCO DE CARVALHO",
+            "valor_total": "R$ 101,150.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames médicos radiológicos, para atender as necessidades da\nSecretaria de Saúde da Prefeitura Municipal de Santa Teresinha – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "UDI",
+            "valor_total": "R$ 52,100.00"
+          },
+          {
+            "objeto": "Aquisição de peças para manutenção e conservação das\nmáquinas pesadas da Prefeitura de Santa Teresinha – PB, nos itens 4,\n16 e 29 do Termo de Referência, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nGIPAGEL AUTO PEÇAS LTDA",
+            "valor_total": "R$ 264,417.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames laboratoriais, para atender as necessidades da Secretaria de\nSaúde da Prefeitura Municipal de Santa Teresinha – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "UDI",
+            "valor_total": "R$ 18,408.50"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames laboratoriais, para atender as necessidades da Secretaria de\nSaúde da Prefeitura Municipal de Santa Teresinha – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "IGOR\nNÓBREGA FERREIRA EIRELI",
+            "valor_total": "R$ 58,244.40"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames laboratoriais, para atender as necessidades da Secretaria de\nSaúde da Prefeitura Municipal de Santa Teresinha – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "DINIZ &\nNÓBREGA LTDA",
+            "valor_total": "R$ 49,111.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 117800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames especializados, para atender as necessidades da Secretaria de\nSaúde da Prefeitura Municipal de Santa Teresinha, conforme proposta\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "TESLA SAUDE\n\nE SERVIÇOS LTDA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "Aquisição de 02 veículos Novo Gol Trendiline, 1.0 Total\nFlex, 2017/2018, Hatch, Zero Quilometro, Cor Branca, para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço global, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "COMERCIAL\nSANT’ANA VEICULOS E PEÇAS LTDA",
+            "valor_total": "R$ 80,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 36935.77,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Tintas e outros, destinados à Manutenção,\nConservação, Recuperação e Reforma dos prédios da Prefeitura de\nSanta Teresinha – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA:\nUNITINTAS UNIVERSO DAS TINTAS LTDA",
+            "valor_total": "R$ 36,935.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 4,
+        "total_gasto": 181214.85,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Estrutura de Apoio do item 05 do Lote 02,\npara atender as demandas operacionais da Realização de Festival\nPoliesportivo no Município de Santa Teresinha - PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ALEXANDRE\nLAURENTINO DA SILVA EIRELI",
+            "valor_total": "R$ 11,088.00"
+          },
+          {
+            "objeto": "Locação de Estrutura de Apoio dos itens 01, 02, 03, 04,\n06, 07 e 08 do Lote 02, para atender as demandas operacionais da\nRealização de Festival Poliesportivo no Município de Santa Teresinha\n- PB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "SN FESTAS E\nLOCAÇÕES LTDA",
+            "valor_total": "R$ 61,400.00"
+          },
+          {
+            "objeto": "Aquisição de Material Esportivo de todos os itens do Lote\n01, para atender as demandas operacionais da Realização de Festival\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 4\n\n\nPoliesportivo no Município de Santa Teresinha - PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "NATALIA\nPRISCILA DOS SANTOS SILVA",
+            "valor_total": "R$ 68,726.85"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 15,
+        "total_gasto": 1922680.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 36,967.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1006 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 36,967.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 301 1006 2022 Manutenção do Programa Saúde\nBucal",
+            "valor_total": "R$ 36,967.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo.\nVALOR GLOBAL: R$ 36.967,30 (Trinta e Seis Mil Novecentos e\nSessenta e Sete Reais e Trinta Centavos).\nVIGÊNCIA: 29/01/2018 à 31/12/2018\nDATA E ASSINATURA: Santa Teresinha– PB, 29 de janeiro de\n2018, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e empresa",
+            "valor_total": "R$ 36,967.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 19,650.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1006 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 19,650.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 301 1006 2022 Manutenção do Programa Saúde\nBucal",
+            "valor_total": "R$ 19,650.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo.\nVALOR GLOBAL: R$ 19.650,30 (Dezenove Mil Seiscentos e\nCinquenta Reais e Trinta Centavos).\nVIGÊNCIA: 29/01/2018 à 31/12/2018\nDATA E ASSINATURA: Santa Teresinha– PB, 29 de janeiro de\n2018, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e empresa",
+            "valor_total": "R$ 19,650.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nFARMAGUEDES COMÉRCIO DE PRODUTOS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 5\n\n\nFARMACÊUTICOS MÉDICOS E HOSPITALARES",
+            "valor_total": "R$ 2,104.80"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1006 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 2,104.80"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 301 1006 2022 Manutenção do Programa Saúde\nBucal",
+            "valor_total": "R$ 2,104.80"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo.\nVALOR GLOBAL: R$ 2.104,80 (Dois Mil Cento e Quatro Reais e\nOitenta Centavos).\nVIGÊNCIA: 29/01/2018 à 31/12/2018\nDATA E ASSINATURA: Santa Teresinha– PB, 29 de janeiro de\n2018, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e empresa",
+            "valor_total": "R$ 2,104.80"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nAPOGEU CENTER COMERCIAL DE PRODUTOS\nHOSPITALARES E MEDICAMENTOS",
+            "valor_total": "R$ 36,715.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1006 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 36,715.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 301 1006 2022 Manutenção do Programa Saúde\nBucal",
+            "valor_total": "R$ 36,715.30"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo.\nVALOR GLOBAL: R$ 36.715,30 (Trinta e Seis Mil Setecentos e\nQuinze Reais e Trinta Centavos).\n\nVIGÊNCIA: 29/01/2018 à 31/12/2018\nDATA E ASSINATURA: Santa Teresinha– PB, 29 de janeiro de\n2018, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e empresa",
+            "valor_total": "R$ 36,715.30"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA:\nTACIANO TÔNI SERAFIM TEIXEIRA",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1006 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 302 1006 2025 Prog. de Atendimento Móvel às\nUrgências SAMU 192 (RAU-SAMU)",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 302 1006 2027\nManutenção de Outros Programas de Média e Alta Complexidade",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 02.061 FUNDO MUNICIPAL DE\nASSISTÊNCIA SOCIAL",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 08 244 1009 2047\nPrograma de Criança Feliz",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 08\n244 1009 2048 Serviço de Proteção Social Básica -\nPBF/PAIF/PSB/SCFV",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo ; 08 244 1009 2050 Manutenção e\nGerenciamento do Programa Bolna Família",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 08\n244 1009 2049 Aprimoramnto da Gestão do SUAS",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo;\n02.070 SECRETARIA DE EDUCAÇÃO, CULTURA, ESPORTE\nE TURISMO",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 12 368 1012 2065 Manutenção de Outros Programas do\nFNDE",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 12 361 1012 2068 Atividades do FUNDEB",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 12 365 1012 2071 Manutenção das Atividades da\nEducação Infantil",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1014 2074 Cofinanciamento do\nTransporte Escolar",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2075 Cofinanciamento do\nFUNDEB",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2076 Cofinanciamento dos\nProgramas do FNDE",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Santa Teresinha – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "Material de Consumo.\nVALOR GLOBAL: R$ 443.550,47 (Quatrocentos e Quarenta e\nTrês Mil Quinhentos e Cinquenta Reais e Quarenta e Sete\nCentavos).\nVIGÊNCIA: 29/01/2018 à 31/12/2018\nDATA E ASSINATURA: Santa Teresinha– PB, 29 de janeiro de\n2018, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e TACIANO TÔNI SERAFIM TEIXEIRA, empresa",
+            "valor_total": "R$ 443,550.47"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES, CPNJ:\n13.045.626/0001-66.",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros Serviços de Terceiros -",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 128,813.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ALDO\nFABRIZIO DUTRA DANTAS",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros Serviços de Terceiros -",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, peças e\nserviços de manutenção de equipamentos já existentes no município\nde Santa Terezinha-PB e Fundos Municipais de Saúde e Assistência\nSocial, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
+            "valor_total": "R$ 36,500.00"
+          },
+          {
+            "objeto": "Locação de Máquina tipo Trator de Pneu para realização\nde Corte de Terra na Zona Rural do Município de Santa Teresinha -\nPB, conforme proposta de preço, tipo menor preço global, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nMARTINS CONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 78,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 55,
+        "num_contratos": 108,
+        "total_gasto": 7397222.55
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 20,
+        "total_gasto": 1486100.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1558354.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\nmedicamentos, para atender as necessidades da Secretaria de Saúde,\nno atendimento às pessoas carentes do município de Santa\nTeresinha/PB",
+            "empresa": "LARMED DISTRIBUIDORA DE\nMEDICAMENTOS E MATERIAL MÉDICO HOSPITALAR\nLTDA",
+            "valor_total": "R$ 309,427.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\nmaterial médico hospitalar, para atender as necessidades da Secretaria\nde Saúde, no atendimento às pessoas carentes do município de Santa\nTeresinha/PB",
+            "empresa": "LARMED DISTRIBUIDORA DE\nMEDICAMENTOS E MATERIAL MÉDICO HOSPITALAR\nLTDA",
+            "valor_total": "R$ 215,342.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 24,
+        "total_gasto": 357801.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 18,
+        "total_gasto": 196867.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 286000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 83164.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 83500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 600066.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 627000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 195688.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 1923215.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 73,
+        "num_contratos": 83,
+        "total_gasto": 5658297.229999998
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 968161.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 14,
+        "total_gasto": 1055508.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 577377.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 98322.88,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nPHARMAPLUS LTDA",
+            "valor_total": "R$ 28,122.88"
+          },
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1007 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 28,122.88"
+          },
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material\nde Consumo; 10 302 1007 2025 Prog. de Atendimento Móvel às\nUrgências SAMU 192 (RAU-SAMU)",
+            "valor_total": "R$ 28,122.88"
+          },
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 302 1007 2026\nTeto Municipal da Média e Alta Complexidade Ambulatorial e\nHospitalar",
+            "valor_total": "R$ 28,122.88"
+          },
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 10 302 1007 2032 Cofinanciamneto de Programas do\nSUS",
+            "valor_total": "R$ 28,122.88"
+          },
+          {
+            "objeto": "Aquisição de Medicação, Materiais Médicos e Faldas\nGeriátricas para atender as necessidades da Secretaria de Saúde do\nMunicípio, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo.\n\nVALOR GLOBAL: R$ 28.122,88 (Vinte e Oito Mil Cento e Vinte\ne Dois Reais e Oitenta e Oito Centavos).\n\nVIGÊNCIA: 22/05/2019 à 31/12/2019\n\nDATA E ASSINATURA: Santa Teresinha– PB, 22 de maio de\n2019, TEREZINHA LUCIA ALVES DE OLIVEIRA, Prefeito\nMunicipal e empresa",
+            "valor_total": "R$ 28,122.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 11,
+        "total_gasto": 462907.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 57710.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "EDIVÂNIA DA\n\nCOSTA LEOCÁRDIO",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 5.383,00 (Cinco Mil Trezentos e Oitenta e\n\nTrês Reais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 5,383.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "ERALDO\n\nPEREIRA DE ARAÚJO",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 11.700,00 (Onze Mil e Setecentos Reais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "ESTEVÃO\n\nBATISTA GUEDES",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 6.708,00 (Seis Mil Setecentos e Oito\n\nReais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 6,708.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "IRINALDO\n\nLEOCARDIO DA COSTA FILHO",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 3.648,00 (Três Mil Seiscentos e Quarenta\n\ne Oito Reais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 3,648.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "JOÃO CÉZAR\n\nVILAR",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 5.027,50 (Cinco Mil Vinte e Sete Reais e\n\nCinquenta Centavos).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "MARIA\n\nDAGUIA DE FARIAS SANTANA",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\nVALOR GLOBAL: R$ 4.177,00 (Quatro Mil Cento e Setenta e\n\nSete Reais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 4,177.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "PAULO\n\nSIMPLICIO PEREIRA",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 5.027,50 (Cinco Mil Vinte e Sete Reais e\n\nCinquenta Centavos).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 5,027.50"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "FRANCINALDO\n\nLIMA SOARES",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 365 1012 2071\n\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 368 1012 2076\n\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12 306 1013 2055\n\nPrograma de Alimentação Escolar",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2056 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2057 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2058 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo; 12\n\n306 1013 2059 Programa de Alimentação Escolar",
+            "valor_total": "R$ 4,345.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\n\nFamiliar e do empreendedor familiar rural destinado ao atendimento\n\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE",
+            "empresa": "Material de Consumo.\n\n\n\nVALOR GLOBAL: R$ 4.345,00 (Quatro Mil Trezentos e\n\nQuarenta e Cinco Reais).\n\n\nVIGÊNCIA: 12/07/2019 à 31/12/2019\n\n\n\nDATA E ASSINATURA: Santa Teresinha",
+            "valor_total": "R$ 4,345.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 106104.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para prestar consultoria técnica\n\npara realização de procedimentos administrativos objetivando a\n\nredução da carga de contribuição previdenciária, através da\n\ndesoneração da folha de pagamento existente entre Município e o\n\nINSS – Receita Federal do Brasil",
+            "empresa": "DORIS FIUZA\n\nCONSULTORIA E ASSESSORIA EIRELI",
+            "valor_total": "R$ 33,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 72500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 288798.70999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nLuan e Forró Estilizado, no dia 22 de dezembro de 2019, em praça\npública, durante as festividades de Emancipação Política do\nMunicípio de Santa Teresinha – PB",
+            "empresa": "A EMPRESA\nLUAN FORRO ESTILIZADO SHOWS EVENTOS E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 45,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 30843.309999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 16848.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 250000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 66,
+        "num_contratos": 79,
+        "total_gasto": 7752668.350000001
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 38,
+        "total_gasto": 3664921.5500000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta para a Prestação de Serviços de\nAssessoria e Consultoria Jurídica - Administrativa aos Órgãos da\nPrefeitura, além de assessoramento direto ao Chefe do Poder\nExecutivo Municipal em todos os assuntos jurídico – administrativo e\nna Defesa dos interesses da Prefeitura Municipal perante os Tribunais\nRegionais, Federais, Superiores e órgãos de Controle de Contas",
+            "empresa": "ALEXSANDRO\nLACERDA DE CALDAS",
+            "valor_total": "R$ 49,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 2076281.47,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nANA LUCIA ANGELO JERONIMO GUEDES",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 301 1007 2024\nIncremento temporário do piso de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 10 302 1007 2025 Prog. de Atendimento\nMóvel às Urgências SAMU 192 (RAU-SAMU)",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 10\n302 1006 2031",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo ; 10\n301 1007 2083 Incremento do MAC",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo. 10\n302 1007 2024 Manutenção de Outros Programas do SUS -\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 02.061 FUNDO\nMUNICIPAL DE ASSISTÊNCIA SOCIAL",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de\nConsumo; 08 244 1009 2047 Programa de Criança Feliz",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 08 244 1009 2048 Serviço de Proteção Social\nBásica",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 08\n244 1009 2049 Aprimoramnto da Gestão do SUAS",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 08\n244 1009 2081 Cofinanciamento Estadual dos Serviços, Projetos e\nBenefícios do SUAS",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo, 08 244 1009 2080 Manutenção de Outros\nProgramas do FNAS",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo 02.070 SECRETARIA DE EDUCAÇÃO,\nCULTURA, ESPORTE E TURISMO",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2065\nManutenção de Outros Programas do FNDE",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 361 1012 2068\nAtividades do FUNDEB",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 365 1012 2071\nManutenção das Atividades da Educação Infantil",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2075\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 8\n\n\nCofinanciamento do FUNDEB",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2076\nCofinanciamento dos Programas do FNDE",
+            "valor_total": "R$ 371,537.75"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais de Santa Teresinha – PB, conforme proposta\n\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "Material de Consumo; 12 368 1012 2069\nManutenção das Atividades da Secretaria de Educação-\nELEMENTO DE DESPESA",
+            "valor_total": "R$ 371,537.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 31500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 14,
+        "total_gasto": 139044.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 564222.1900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 846324.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 67275.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 96297.97,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para execução dos serviços de\nconstrução de duas passagens molhadas nas Comunidades Rurais\nQueimadas e Dom Expedito",
+            "empresa": "SETHA CONSTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 79,097.97"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 16800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 30,
+        "num_contratos": 28,
+        "total_gasto": 1324539.83
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 22,
+        "total_gasto": 577200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "FLAVIO RODRIGUES CLAUDINO",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "MARIA NILZA SOARES\n\nDE SOUSA",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "ROGÉRIO PEREIRA CLEMENTINO",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "SOLON ALVES DE MELO FILHO",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "FLAVIO\n\nRODRIGUES CLAUDINO",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "MARIA NILZA SOARES DE SOUSA -\n\nR$ 54.000,00; PEDRO GERINO AMARO DA SILVA",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "SALVIANO JOSÉ DE LIMA NETO",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "CT Nº 00051/2021",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "CT Nº 00052/2021 -\n\n22.04.21 até 22.04.22",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "CT Nº 00054/2021 -\n\n22.04.21 até 22.04.22",
+            "valor_total": "R$ 577,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB",
+            "empresa": "CT Nº 00056/2021 -\n\n22.04.21 até 22.04.22",
+            "valor_total": "R$ 577,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 97943.27,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 5,
+        "total_gasto": 649396.56,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DO PORTAL DA CIDADE DE SANTA\n\nTEREZINHA – PB, REFERENTE AO CONTRATO DE REPASSE\n\nNº 1063900–18/2019 – MINISTÉRIO DO TURISMO",
+            "empresa": "CONSTRUTORA\n\nAPODI EIRELI",
+            "valor_total": "R$ 251,302.04"
+          },
+          {
+            "objeto": "ADEQUAÇÃO DO MERCADO PÚBLICO NO\n\nMUNICÍPIO DE SANTA TEREZINHA – PB, REFERENTE AO\n\nCONTRATO DE REPASSE Nº 1069065–59/2019",
+            "empresa": "JMSV\n\nCONSTRUCOES EIRELI",
+            "valor_total": "R$ 153,335.52"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES\n\nDE TODAS AS SECRETARIAS DA PREFEITURA MUNICIPAL\n\nDE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "TALITO\n\nROSSI ANACLETO E ANDRADE ME",
+            "valor_total": "R$ 244,759.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES\n\nDE TODAS AS SECRETARIAS DA PREFEITURA MUNICIPAL\n\nDE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "DECK GRAFICA E EDITORA",
+            "valor_total": "R$ 244,759.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES\n\nDE TODAS AS SECRETARIAS DA PREFEITURA MUNICIPAL\n\nDE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00222/2021",
+            "valor_total": "R$ 244,759.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES\n\nDE TODAS AS SECRETARIAS DA PREFEITURA MUNICIPAL\n\nDE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00223/2021 -\n\n14.10.21",
+            "valor_total": "R$ 244,759.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 37,
+        "num_contratos": 6,
+        "total_gasto": 3254538.93
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 1012103.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 1023770.12,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATACAO DE ESTABELECIMENTO\n\nCOMERCIAL PARA O FORNECIMENTO DE FORMA\n\nPARCELADA DE PECAS ORIGINAIS E GENUINAS E\n\nEXECUCAO DE SERVICOS COM MONTAGENS E\n\nDESMONTAGEM DESTINADOS MANUTENÇÃO DA FROTA\n\nDE VEICULOS LEVES DESTA PREFEITURA MUNICIPAL DE\n\nSÃO JOSÉ DOS CORDEIROS",
+            "empresa": "PNEUMAX LTDA",
+            "valor_total": "R$ 644,793.13"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nPARA IMPLANTAÇÃO DE SISTEMA SIMPLIFICADO DE\n\nABASTECIMENTO DE ÁGUA COM PERFURAÇÃO DE POÇOS\n\nNESTE MUNICIPIO DE SÃO JOSÉ DOS CORDEIROS",
+            "empresa": "LVR\n\nCONSTRUÇOES LTDA",
+            "valor_total": "R$ 378,976.99"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 1198665.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 20000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "A CONTRATAÇÃO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE SOFTWARES E\n\nSERVIÇOS ESPECÍFICOS PARA ATENDER AS DIVERSAS\n\nSECRETARIAS DESTA EDILIDADE",
+            "empresa": "E-TICONS EMPRESA DE\n\nTECNOLOGIA DE INFORMACAO & CONSULTORIA LTDA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 85,
+        "num_contratos": 136,
+        "total_gasto": 11332757.78
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 55000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 932896.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA PRODUTOS\n\nHORTIFRUTIGRANJEIROS PARA O DESENVOLVIMENTO\n\nDAS AÇÕES, ATIVIDADES E PROGRAMAS DE TODAS AS\n\nSECRETARIAS MUNICIPAIS DA PREFEITURA DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "FERNANDA DE\n\nOLIVEIRA MONTEIRO",
+            "valor_total": "R$ 504,446.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2473900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nESTRUTURA DE APOIO DURANTE AS FESTIVIDADES DO\n\nTRADICIONAL SÃO JOÃO DO POVO 2023, DOS DIAS 9 DE\n\nJUNHO A 22 DE JULHO DE 2023 NO MUNICÍPIO DE SANTA\n\nTEREZINHA",
+            "empresa": "BRUNO BERNARDO\n\nFERREIRA",
+            "valor_total": "R$ 47,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "OUTROS\n\nSERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "OUTROS SERVIÇOS DE\n\nTERCEIROS",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "JOAO PAULO\n\nEDUARDO DE ARAUJO",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Credenciamento de pessoas fisicas ou juridicas, residentes\n\nno municipio de Santa Terezinha – PB, para o fornecimento de\n\nrefeições prontas (marmitas) para os servidores da Prefeitura\n\nMunicipal de Santa Terezinha – PB",
+            "empresa": "CT Nº\n\n00136/2023",
+            "valor_total": "R$ 150,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 2040915.3599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 53,
+        "total_gasto": 815926.0900000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico do cantor SANARA\n\nSHOW, durante as festividades do tradicional São João do Povo 2023,\n\nno município de Santa Terezinha – PB",
+            "empresa": "RANIERI NOBREGA\n\nFERREIRA",
+            "valor_total": "R$ 2,500.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico do cantor MATHEUS\n\nLEITE, durante as festividades do tradicional São João do Povo 2023,\n\nno município de Santa Terezinha – PB",
+            "empresa": "RANIERI NOBREGA\n\nFERREIRA",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico do cantor\n\nGUSTAVINHO SNAFONEIRO, durante as festividades do\n\ntradicional São João do Povo 2023, no município de Santa Terezinha\n\n– PB",
+            "empresa": "RANIERI NOBREGA\n\nFERREIRA",
+            "valor_total": "R$ 4,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 891542.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 1018952.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM CONSULTAS OFTALMOLOGICA E AQUISIÇÃO DE\n\nÓCULOS (LENTE E ARMAÇÃO) PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAUDE DO MUNICIPIO\n\nDE SANTA TERESINHA–PB",
+            "empresa": "OUTROS\n\nSERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM CONSULTAS OFTALMOLOGICA E AQUISIÇÃO DE\n\nÓCULOS (LENTE E ARMAÇÃO) PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAUDE DO MUNICIPIO\n\nDE SANTA TERESINHA–PB",
+            "empresa": "OUTROS\n\nSERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM CONSULTAS OFTALMOLOGICA E AQUISIÇÃO DE\n\nÓCULOS (LENTE E ARMAÇÃO) PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAUDE DO MUNICIPIO\n\nDE SANTA TERESINHA–PB",
+            "empresa": "KM PRODUTOS\n\nOTICOS EIRELI",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 150000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 1299350.09,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE MODERNIZAÇÃO DE VIAS URBANAS\n\nCOM CONSTRUÇÃO DE UM CALÇADÃO E CANTEIROS\n\nCENTRAIS NO MUNICÍPIO DE SANTA TEREZINHA–PB, NOS\nTERMOS DO CONVÊNIO N.º 012/2023 E CONFORME PROJETO\n\nBÁSICO DE ENGENHARIA",
+            "empresa": "POLYEFE\nCONSTRUCOES, LIMPEZA E CONSERVACAO LTDA",
+            "valor_total": "R$ 518,230.83"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPIPEDO\n\nE CONCRETO, EM DIVERSAS RUAS NO MUNICÍPIO DE\n\nSANTA TEREZINHA–PB, CONFORME PROJETO BÁSICO DE\n\nENGENHARIA",
+            "empresa": "OBRAPLAN EMPRESA\n\nDE LIMPEZA E CONSERVACAO URBANA EIRELI",
+            "valor_total": "R$ 139,029.26"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOS 0KM PARA ATENDER AS\nNECESSIDADES DA SECRETARIA DE SAÚDE DESTE\n\nMUNICÍPIO DE SÃO JOSÉ DOS CORDEIROS",
+            "empresa": "CT Nº 10109/2023",
+            "valor_total": "R$ 210,090.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 119050.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 1535224.26,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículos automotores 0 (zero) KM, para\natender as necessidades do município de Santa Terezinha/PB",
+            "empresa": "COMERCIAL\nSANT'ANA VEICULOS E PECAS LTDA",
+            "valor_total": "R$ 431,600.00"
+          },
+          {
+            "objeto": "Aquisição de veículos automotores 0 (zero) KM, para\natender as necessidades do município de Santa Terezinha/PB",
+            "empresa": "D. SILVEIRA VEICULOS LTDA",
+            "valor_total": "R$ 431,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 460000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 49,
+        "num_contratos": 78,
+        "total_gasto": 13220491.44
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 405490.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento\nde pneus para atender as necessidades da Prefeitura Municipal de\nSanta Terezinha – PB",
+            "empresa": "RONALDO BARBOSA\nDE AGUIAR DA SILVA EIRELI",
+            "valor_total": "R$ 48,900.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE DIGITALIZAÇÃO DE TODOS OS ARQUIVOS\nDAS DESPESAS GERADAS PELA PREFEITURA TODOS OS\nARQUIVOS DA COMISSÃO DE LICITAÇÕES CLASSIFICAÇÃO\nCATALOGAÇÃO IDENTIFICAÇÃO ORGANIZAÇÃO\nARQUIVAMENTO DE DOCUMENTOS E LOCAÇÃO DE\nSOFTWARE DE BUSCA DE DOCUMENTOS DIGITALIZADOS\nDA PREFEITURA MUNICIPAL DE SANTA TEREZINHA – PB\nNO ANO 2024",
+            "empresa": "DENIZE TORRES\nCANDEIA",
+            "valor_total": "R$ 58,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS PROFISSIONAIS ESPECIALIZADOS\nNA CONSULTORIA E ASSESSORIA JUNTO AO FUNDO\nMUNICIPAL DE ASSISTÊNCIA SOCIAL/SECRETARIA\nMUNICIPAL DE ASSISTÊNCIA SOCIAL NA EXECUÇÃO DOS\nSERVIÇOS, BENEFICIOS E PROGRAMAS FEDERAIS DO SUAS\nNO MUNICIPIO DE SANTA TEREZINHA – PB",
+            "empresa": "CLAUDIA LEITAO\nMARTINS",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 334549.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 2993842.15,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO DE PEÇAS PARA OS SERVIÇOS DE\n\nPREVENÇÃO DE ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA PB",
+            "empresa": "MATERIAL DE\n\nCONSUMO 02.020 SECRETARIA DE FINANÇAS\n\n04.123.1002.2011",
+            "valor_total": "R$ 211,155.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO DE PEÇAS PARA OS SERVIÇOS DE\n\nPREVENÇÃO DE ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA PB",
+            "empresa": "MATERIAL DE\n\nCONSUMO 02.040 SECRETARIA DE SAÚDE 10.301.1007.2017\n\nMANUTENÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA\n\nSECRETRAIA DE SAÚDE ELEMENTO DE DESPESA",
+            "valor_total": "R$ 211,155.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO DE PEÇAS PARA OS SERVIÇOS DE\n\nPREVENÇÃO DE ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA PB",
+            "empresa": "MATERIAL DE CONSUMO 02.060\n\nSECRETARIA DE ASSISTÊNCIA SOCIAL 08.244.1009.2041\n\nMANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE\n\nASSISTÊNCIA SOCIAL ELEMENTO DE DESPESA",
+            "valor_total": "R$ 211,155.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO DE PEÇAS PARA OS SERVIÇOS DE\n\nPREVENÇÃO DE ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA PB",
+            "empresa": "P.A.S. & SANTANA\n\nLTDA",
+            "valor_total": "R$ 211,155.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO DE PEÇAS PARA OS SERVIÇOS DE\n\nPREVENÇÃO DE ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA PB",
+            "empresa": "META\n\nCOMERCIO DE FERRAGENS E FERRAMENTAS EIRELI",
+            "valor_total": "R$ 211,155.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE\n\nTERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE\n\nTERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS\n\n–",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS SERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "OUTROS\n\nSERVIÇOS DE TERCEIROS",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "P.A.S. & SANTANA LTDA",
+            "valor_total": "R$ 145,525.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nPREVENTIVA NOS ARES–CONDICIONADOS, BEBEDOUROS,\n\nGELADEIRAS, VENTILADORES E FREEZERS DAS DIVERSAS\n\nSECRETÁRIAS DA PREFEITURA MUNICIPAL DE SANTA\n\nTEREZINHA – PB",
+            "empresa": "TUPAN COMERCIO E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 145,525.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 1693981.99,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL E INSUMOS\n\nODONTOLÓGICOS PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA TEREZINHA\n\n– PB",
+            "empresa": "MATERIAL DE\n\nCONSUMO. 02.041 FUNDO MUNICIPAL DE SAUDE 10 301 1007\n2018 Manutenção das Ações e Serviços Públicos de Saúde",
+            "valor_total": "R$ 180,431.99"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL E INSUMOS\n\nODONTOLÓGICOS PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA TEREZINHA\n\n– PB",
+            "empresa": "MATERIAL DE CONSUMO.\n\nVIGÊNCIA: até 26/06/2025.\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa\nTeresinha e: CT Nº 00166/2024 - 26.06.24 - ORTOSHOP\n\nCOMERCIO LTDA-ME",
+            "valor_total": "R$ 180,431.99"
+          },
+          {
+            "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS MÉDICOS EM REGIME DE\n\nPLANTÕES A SERVIÇO DA SECRETARIA DE SAÚDE,\nDESTINADOS A ATENDIMENTO NO HOSPITAL MUNICIPAL\n\nCAPITÃO JOÃO DANTAS ROTHÉA NO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE/PB",
+            "empresa": "MAG\nSAUDE SERVICOS MEDICOS LTDA",
+            "valor_total": "R$ 1,394,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE UNIFORME\nPERSONALIZADO PARA ATENDER AS NECESSIDADES DA\n\nBANDA MUSICAL DE SÃO JOÃO DO RIO DO PEIXE/PB",
+            "empresa": "PORTAL INDUSTRIA,\n\nSERVICO E COMERCIO DE CONFECCAO LTDA",
+            "valor_total": "R$ 119,150.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\nUNIFORME PERSONALIZADO PARA ATENDER AS\n\nNECESSIDADES DA BANDA MUSICAL DE SÃO JOÃO DO RIO\n\nDO PEIXE/PB",
+            "empresa": "PORTAL INDUSTRIA,\n\nSERVICO E COMERCIO DE CONFECCAO LTDA",
+            "valor_total": "R$ 119,150.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 28,
+        "total_gasto": 1358677.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 1904347.3499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 692857.4,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 01 VEÍCULO TIPO AMBULÂNCIA\n\nPARA O TRANSPORTE DE PACIENTES DO MUNICÍPIO DE\n\nSANTA TEREZINHA – PB, CONFORME EMENDA N.º 271/2024",
+            "empresa": "CAPITAL\n\nDISTRIBUIDORA DE VEICULOS LTDA",
+            "valor_total": "R$ 131,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 664000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 122000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA (INSTITUIÇÃO\nFINANCEIRA) PARA PRESTAÇÃO DE SERVIÇOS\nFINANCEIROS E OUTRAS AVENÇAS",
+            "empresa": "CAIXA\nECONÔMICA FEDERAL",
+            "valor_total": "R$ 122,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 11,
+        "total_gasto": 2590745.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA (INSTITUIÇÃO\n\nFINANCEIRA) PARA PRESTAÇÃO DE SERVIÇOS\n\nFINANCEIROS E OUTRAS AVENÇAS",
+            "empresa": "CAIXA\n\nECONÔMICA FEDERAL",
+            "valor_total": "R$ 122,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

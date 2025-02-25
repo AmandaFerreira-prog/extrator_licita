@@ -1,0 +1,1186 @@
+{
+  "id": "monte-horebe",
+  "nome": "Monte Horebe",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 50,
+        "num_contratos": 3,
+        "total_gasto": 49200.0
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 49200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Profissionais para os serviços de\ncontabilidade, envolvendo estudos técnicos, preparação de orçamentos\npúblicos, avaliações contábeis, financeiras, fiscais tributárias,\nelaboração de balancetes, balanços, prestações de contas e pareceres\ntécnicos contábeis",
+            "empresa": "D & S EMPREENDIMENTOS E\nSERVIÇOS LTDA-ME",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional para prestar serviços a Câmara\nMunicipal de Monte Horebe, na assessoria administrativa com\nacompanhamento de Ações Judiciais em primeiro grau na Comarca de\nBonito de Santa Fé – PB",
+            "empresa": "PAULA LAÍS DE OLIVEIRA\nSANTANA",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional para prestar serviços na\nassessoria técnica na informação da GFIP, IRRF da Câmara\nMunicipal de Monte Horebe – PB",
+            "empresa": "STHEPSON MAIERY ALVES DE\nLIRA-ME",
+            "valor_total": "R$ 13,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 85,
+        "num_contratos": 3,
+        "total_gasto": 372000.0
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 372000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE LIMPEZA URBANA DESTE MUNICÍPIO,\nCONFORME AS ESPECIFICAÇÕES DO ANEXO",
+            "empresa": "LORENA E ADRIA\nCONSTRUÇÕES, COMÉRCIO E LOCAÇÕES LTDA",
+            "valor_total": "R$ 330,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 26400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 95,
+        "num_contratos": 37,
+        "total_gasto": 3168033.36
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 306332.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 33600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 895913.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 182266.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 28750.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 656989.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 444702.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 122250.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PROFISSIONAL PARA\nMINISTRAR CURSOS DE CORTE E ESCOVA, DEPILAÇÃO E\nMAQUIAGEM, DESTINADOS A PROFISSIONALIZAÇÃO DA\nPOPULAÇÃO CARENTE DO MUNICÍPIO DE MONTE HOREBE-\nPB",
+            "empresa": "FUNDACAO EDUCATIVA E\nCULTURAL MANOEL JOAQUIM DOS SANTOS",
+            "valor_total": "R$ 15,150.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA SEM FINS\nLUCRATIVOS PARA REALIZAÇÃO DE CURSO DESTINADOS\nAOS PROFESSORES DA REDE MUNICIPAL DE ENSINO DO\nMUNICÍPIO DE MONTE HOREBE-PB",
+            "empresa": "FUNDACAO EDUCATIVA E\nCULTURAL MANOEL JOAQUIM DOS SANTOS",
+            "valor_total": "R$ 107,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 410828.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 48600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 109,
+        "num_contratos": 70,
+        "total_gasto": 4944997.649999999
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 1262579.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 434773.44999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais descartáveis para atender\nas necessidades da Secretaria de Saúde de MONTE HOREBE - PB",
+            "empresa": "BIOMED DISTRIBUIDORA\nHOSPITALAR E LABORATORIAL NOSSA SENHORA",
+            "valor_total": "R$ 125,358.85"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais descartáveis para atender\nas necessidades da Secretaria de Saúde de MONTE HOREBE - PB",
+            "empresa": "DIMEDONT DISTRIBUIDORA DE\nMEDICAMENTOS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 125,358.85"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais descartáveis para atender\nas necessidades da Secretaria de Saúde de MONTE HOREBE - PB",
+            "empresa": "JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 125,358.85"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 499824.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 940345.29,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS DE\nASSESSORIA TÉCNICA, COM ELABORAÇÃO DE PLANO DE\nTRABALHOS, ACOMPANHAMENTO DE CONTRATOS DE\nREPASSE, ACOMPANHAMENTO E PRESTAÇÃO DE CONTAS\nDE CNVÊNIOS, NO MUNICÍPIO DE MONTE HOREBE-PB",
+            "empresa": "IRAMILTON SATIRO DA\nNOBREGA",
+            "valor_total": "R$ 25,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 221309.4,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ALIMENTOS DO TIPO CAFÉ DA\nMANHA, ALMOÇO E JANTAR (TIPO QUENTINHA)\nDESTINADO A ATENDER AS NECESSIDADES DE TODAS AS\nSECRETARIAS DO MUNICÍPIO DE MONTE HOREBE - PB",
+            "empresa": "EDME SANTOS DA SILVA",
+            "valor_total": "R$ 25,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ALIMENTOS DO TIPO CAFÉ DA\nMANHA, ALMOÇO E JANTAR (TIPO QUENTINHA)\nDESTINADO A ATENDER AS NECESSIDADES DE TODAS AS\nSECRETARIAS DO MUNICÍPIO DE MONTE HOREBE - PB",
+            "empresa": "ERINALDO PEREIRA DIAS",
+            "valor_total": "R$ 25,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 488785.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 439827.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 497531.27,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ESPORTIVO PARA\nATENDER AS NECESSIDADES DA SECRETARIA DE\nESPORTES DO MUNICÍPIO DE MONTE HOREBE-PB",
+            "empresa": "RG MAGAZINE LTDA",
+            "valor_total": "R$ 9,918.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 111420.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 1476025.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 95,
+        "num_contratos": 73,
+        "total_gasto": 7294200.46
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 905738.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 822721.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 470509.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 765091.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 375210.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1386862.12,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIARIO PARA ESCOLA\n\nMUNICIPAL DE ENSINO INFANTIL E FUNDAMENTAL JOSE\n\nDIAS GUARITA",
+            "empresa": "INTELIGENCIA COMERCIO DE\n\nEQUIPAMENTOS E SERVIÇOS EIRELI",
+            "valor_total": "R$ 38,558.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 645748.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 40000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 105893.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 179000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Acompanhamento da gestão municipal e de todos os seus\nórgãos junto ao Tribunal de Contas da Paraíba e Tribunal de Contas\nda União, com o assessoramento jurídico através de emissão de\npareceres e orientações preventivas e ainda elaboração de consultas,\ndenúncias, representações, defesas e recursos junto às Cortes de\nContas em processos de Acompanhamento de Gestão, Tomada de\nContas, Prestação de Contas Anual, Inspeção Especial de\nAcompanhamento de Gestão, de Contas, de Convênios, de Gestão de\nPessoal, de Licitações e Contratos, de Obras e de transparência de\nGestão",
+            "empresa": "PAULO ITALO DE\nOLIVEIRA VILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 121400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação temporária de serviços jurídicos técnicos\n\nespecializados na área de direito tributário, com vistas a assessorar os\n\nagentes fiscais na identificação, levantamento, planilhamento, análise,\n\nconstituição e cobrança de créditos tributários incidentes sobre as\n\noperações realizadas por instituições financeiras no território\n\nmunicipal sujeitas a incidência do ISSQN.",
+            "empresa": "FRANCA & MADEIRA ADVOGADOS\n\nASSOCIADOS",
+            "valor_total": "R$ 9,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 88000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 101,
+        "num_contratos": 39,
+        "total_gasto": 2724715.29
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 1825149.8900000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de pavimentação em\nparalelepípedo de Rua Teotonio Martins de Figueiredo, neste\nMunicípio, Contrato de Repasse Nº: 1054396-95",
+            "empresa": "INOVA CONSTRUCOES E EMPREENDIMENTOS EIRELI",
+            "valor_total": "R$ 173,837.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 634602.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 123400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 53563.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E EMPREENDEDOR FAMILIAR\nRURAL PARA ATENDER AOS ALUNOS MATRICULADOS NAS\nESCOLAS MUNICIPAIS DE ENSINO QUE OFERTEM A\nEDUCAÇÃO INFANTIL (CRECHE E PRÉ-ESCOLA), ENSINO\nFUNDAMENTAL, EJA E A APAE, DA REDE PÚBLICA\nMUNICIPAL DE MONTE HOREBE",
+            "empresa": "GILSON PEREIRA DE MORAIS",
+            "valor_total": "R$ 25,773.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E EMPREENDEDOR FAMILIAR\nRURAL PARA ATENDER AOS ALUNOS MATRICULADOS NAS\nESCOLAS MUNICIPAIS DE ENSINO QUE OFERTEM A\nEDUCAÇÃO INFANTIL (CRECHE E PRÉ-ESCOLA), ENSINO\nFUNDAMENTAL, EJA E A APAE, DA REDE PÚBLICA\nMUNICIPAL DE MONTE HOREBE",
+            "empresa": "CT Nº\n00065/2019",
+            "valor_total": "R$ 25,773.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E EMPREENDEDOR FAMILIAR\nRURAL PARA ATENDER AOS ALUNOS MATRICULADOS NAS\nESCOLAS MUNICIPAIS DE ENSINO QUE OFERTEM A\nEDUCAÇÃO INFANTIL (CRECHE E PRÉ-ESCOLA), ENSINO\nFUNDAMENTAL, EJA E A APAE, DA REDE PÚBLICA\nMUNICIPAL DE MONTE HOREBE",
+            "empresa": "CT Nº 00066/2019",
+            "valor_total": "R$ 25,773.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\nAGRICULTURA FAMILIAR E EMPREENDEDOR FAMILIAR\nRURAL PARA ATENDER AOS ALUNOS MATRICULADOS NAS\nESCOLAS MUNICIPAIS DE ENSINO QUE OFERTEM A\nEDUCAÇÃO INFANTIL (CRECHE E PRÉ-ESCOLA), ENSINO\nFUNDAMENTAL, EJA E A APAE, DA REDE PÚBLICA\nMUNICIPAL DE MONTE HOREBE",
+            "empresa": "CT Nº 00067/2019",
+            "valor_total": "R$ 25,773.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 96,
+        "num_contratos": 8,
+        "total_gasto": 276986.0
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 182550.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 14000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 80436.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 118,
+        "num_contratos": 2,
+        "total_gasto": 84000.0
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 84000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 42000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 111,
+        "num_contratos": 20,
+        "total_gasto": 5264913.66
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 69420.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 1794.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 1068625.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 106160.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 3976914.15,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nPARA CONSTRUÇÃO DA 2ª ETAPA DO CENTRO MUNICIPAL\n\nDE FORMAÇÃO DE PROFESSORES (CMPF) E CENTRO DE\n\nATENDIMENTO PARA ALUNOS COM DEFICIÊNCIA (CAAD) –\n\n(ATENÇÃO EDUCAÇÃO ESPECIALIZADA) AEE NO\n\nMUNICIPIO DE MONTE HOREBE – PB",
+            "empresa": "FFJ\n\nCONSTRUTORA LTDA",
+            "valor_total": "R$ 2,567,500.81"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 84,
+        "total_gasto": 18547999.32
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 63766.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 1938940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 20,
+        "total_gasto": 1213773.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 28398.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 995799.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1314421.2599999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MOBILIÁRIO ESCOLAR, KIT DE CARTEIRA E CONJUNTO\n\nPARA REFEITORIO E CADEIRAS PARA ATENDIMENTO PARA\n\nESCOLAS E CRECHE MUNICIPAL DO MUNICÍPIO DE MONTE\n\nHOREBE PB, CONFORME TERMO DE REFERENCIA",
+            "empresa": "L F LUNA MOVEIS",
+            "valor_total": "R$ 52,141.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 528890.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 3812468.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 7389787.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 532330.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nPARA CONSTRUÇÃO DO CENTRO MUNICIPAL DE\n\nFORMAÇÃO DE PROFESSORES (CMPF) E CENTRO DE\n\nATENDIMENTO PARA ALUNOS COM DEFICIÊNCIA (CAAD) -\n\n(ATENÇÃO EDUCAÇÃO ESPECIALIZADA) AEE EM MONTE\n\nHOREBE - PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMonte Horebe e: CT Nº 00057/2022 - Jose Erinaldo Oliveira Costa\n\nLtda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nAPRESENTAÇÃO DE SHOW MUSICAL NACIONAL, ATRAVES\n\nDE CONTRATO DE EXCLUSIVIDADE, DO CANTOR\n\n“MATHEUS LEITE E BANDA”, COM DURAÇÃO DE 2 HORAS,\n\nCOM PREVISÃO DE INÍCIO AS 09:00 HS E FINAL PREVISTO\n\nPARA AS 23: 00 HS, NO DIA 05 DE DEZEMBRO DE 2023, NA\n\nPRAÇA PUBLICA EM COMEMORAÇÃO AO ANIVERSÁRIO DE\n\nEMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE MONTE\n\nHOREBE – PB",
+            "empresa": "RANIERI NOBREGA\n\nFERREIRA",
+            "valor_total": "R$ 8,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 729424.84,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 Gerador para atender as demandas da\nPoliclínica Municipal, em conformidade solicitação da secretaria\nMunicipal de Saúde do Município de Monte Horebe PB, com as\nespecificações prescritas no Anexo I – Termo de Referência,\nintegrante deste Edital",
+            "empresa": "ELETROLUZ COMERCIO DE\nMATERIAIS ELETRICOS EIRELI",
+            "valor_total": "R$ 106,678.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU\nJURÍDICA PARA A PRESTAÇÃO DE SERVIÇOS DE\nTRANSPORTE ESCOLAR, PARA ATENDER A DEMANDA\nDA REDE MUNICIPAL E ESTADUAL DE ENSINO, NO\nMUNICÍPIO DE MONTEIRO (PB)",
+            "empresa": "ERIC RAMON FERREIRA ALVES",
+            "valor_total": "R$ 36,082.96"
+          },
+          {
+            "objeto": "Constitui Acréscimo ao Contrato Primitivo no",
+            "empresa": "ERIC RAMON FERREIRA ALVES",
+            "valor_total": "R$ 36,082.96"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 15900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 45,
+        "total_gasto": 7041903.739999999
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 649043.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 310000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 1961849.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 195140.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO PARA AQUISIÇÃO DE\n\nDISPOSITIVOS MÓVEIS PORTÁTEIS (TABLET) DESTINADOS\n\nAOS ESTUDANTES E PROFISSIONAIS DOCENTES PARA\n\nMANUTENÇÃO DOS SERVIÇOS DE EDUCAÇÃO DA REDE\nMUNICIPAL DE ENSINO DO MUNICÍPIO, CONFORME\n\nCONVENIO Nº 0191/2022 ENTRE A SEDAM E O MUNICIPIO DE\n\nMONTE HOREBE – PB",
+            "empresa": "INSUMATEK TECNOLOGIA LTDA",
+            "valor_total": "R$ 77,748.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1781175.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 633689.46,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO PARA CONTRATAÇÃO DE\n\nEMPRESA PARA REALIZAÇÃO DE EXAMES\n\nLABORATORIAIS, DESTINADOS A MANUTENÇÃO DAS\n\nATIVIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO DE\n\nMONTE HOREBE - PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMonte Horebe e: CT Nº 00051/2023 - Alves de Sousa & Silva Com. e\n\nServ. de Laboratório Ltda - M - 1º Aditivo - prorroga o prazo por mais\n\n12 meses. CT Nº 00052/2023 - Pereira, Dias e Souza Lab Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nPARA CONSTRUÇÃO (CONCLUSÃO) DO CENTRO DE\n\nREFERÊNCIA DE ASSISTENCIA SOCIAL – CRAS, NO\n\nMUNICIPIO DE MONTE HOREBE/PB, CONFORME CONTRATO\n\nDE REPASSE Nº 107.1684–13/2020 E RECURSOS PROPRIO DO\n\nMUNICIPIO CONFORME REPROGRAMAÇÃO DO PROJETO\n\nBASICO",
+            "empresa": "DEL ENGENHARIA",
+            "valor_total": "R$ 335,300.93"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 616046.56,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nPARA CONSTRUÇÃO (CONCLUSÃO) DO CENTRO DE\n\nREFERÊNCIA DE ASSISTENCIA SOCIAL – CRAS, NO\n\nMUNICIPIO DE MONTE HOREBE/PB, CONFORME CONTRATO\n\nDE REPASSE Nº 107.1684–13/2020 E RECURSOS PROPRIO DO\n\nMUNICIPIO CONFORME REPROGRAMAÇÃO DO PROJETO\n\nBASICO",
+            "empresa": "I.A.S. CONSTRUCOES LTDA",
+            "valor_total": "R$ 371,646.56"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 266245.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 229550.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 383264.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

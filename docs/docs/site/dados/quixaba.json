@@ -4,14 +4,14 @@
   "detalhe": {
     "2021": {
       "3": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -85,7 +85,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 90,
+        "num_diarios": 87,
         "num_contratos": 10,
         "total_gasto": 1198571.32
       },
@@ -104,7 +104,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
@@ -136,7 +136,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -168,7 +168,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 176686.96999999997,
         "top_3_empresas": [
@@ -182,20 +182,20 @@
     "2023": {
       "1": {
         "num_diarios": 16,
-        "num_contratos": 2,
-        "total_gasto": 83400.0,
+        "num_contratos": 5,
+        "total_gasto": 251400.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 113,
-        "num_contratos": 15,
-        "total_gasto": 2991837.6999999997
+        "num_diarios": 112,
+        "num_contratos": 21,
+        "total_gasto": 3567794.2
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 2,
-        "total_gasto": 46800.0,
+        "num_contratos": 3,
+        "total_gasto": 82800.0,
         "top_3_empresas": [
           "JOSILENE DE ARAÚJO SILVA"
         ],
@@ -216,8 +216,8 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 357410.1,
+        "num_contratos": 4,
+        "total_gasto": 714820.2,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa visando fornecimento parcelado\n\nde material de expediente e papelaria destinado as diversas secretarias\n\ndo município de Quixaba/PB, obedecendo às disposições da Lei\n\nFederal nº 10.520, de 17/01/2002, Decreto Federal nº 3.555, de\n\n08/08/2000, Lei Complementar 123, de 14 de dezembro de 2006,\n\naplicando-se, subsidiariamente, no que couber a Lei 8.666, de\n\n21/06/93 com suas alterações posteriores"
@@ -225,18 +225,18 @@
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 62520.0,
+        "num_contratos": 2,
+        "total_gasto": 77066.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 1,
         "total_gasto": 3635.0,
         "top_3_empresas": [
-          "SANDRA MARIA S. DE SOUSA CANDEIA,",
-          "GERMANA MEDEIROS SULPINO FREIRE,"
+          "SANDRA MARIA S. DE SOUSA CANDEIA",
+          "GERMANA MEDEIROS SULPINO FREIRE"
         ],
         "top_3_objetos": [
           "Contratação de empresa para prestação de serviços de\n\nenfermagem para atender as necessidades da Secretaria de Saúde da\n\nPrefeitura Municipal de Quixaba/PB durante o período de 05 meses,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 39\n\n\n\nque obedecerá às disposições do art",
@@ -273,7 +273,7 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "CRISTINA LUIZA DA SILVA NETA ME,"
+          "CRISTINA LUIZA DA SILVA NETA ME"
         ],
         "top_3_objetos": [
           "Contratação de empresa visando fornecimento parcelado\n\nde mercadorias (não perecíveis/perecíveis), destinado as diversas\n\nsecretarias do município de Quixaba/PB, obedecendo às disposições\n\nda Lei Federal nº 10.520, de 17/01/2002, Decreto Federal nº 3.555, de\n\n08/08/2000, Lei Complementar 123, de 14 de dezembro de 2006,\n\naplicando-se, subsidiariamente, no que couber a Lei 8.666, de\n\n21/06/93 com suas alterações posteriores"
@@ -297,20 +297,24 @@
     "2024": {
       "1": {
         "num_diarios": 19,
-        "num_contratos": 3,
-        "total_gasto": 519968.32,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 7,
+        "total_gasto": 944461.91,
+        "top_3_empresas": [
+          "ID CONSTRUCOES LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada no ramo da\n\nconstrução civil para serviço de reforma da Unidade Básica de Saúde\n\n– Josivan Pimenta da Silva em Riacho dos Cavalos/PB, conforme\n\nTermo de Referencia"
+        ]
       },
       "resumo": {
-        "num_diarios": 109,
-        "num_contratos": 25,
-        "total_gasto": 3342849.86
+        "num_diarios": 106,
+        "num_contratos": 31,
+        "total_gasto": 3798663.9299999997
       },
       "2": {
-        "num_diarios": 14,
-        "num_contratos": 3,
-        "total_gasto": 1389849.99,
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 1415049.99,
         "top_3_empresas": [
           "JOSEILDA GUEDES DE SOUSA BRASIL"
         ],
@@ -318,15 +322,15 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 9,
-        "total_gasto": 257052.5,
+        "num_contratos": 10,
+        "total_gasto": 493172.98,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 3,
-        "total_gasto": 760898.9,
+        "total_gasto": 530898.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -342,7 +346,7 @@
         "num_contratos": 3,
         "total_gasto": 294451.65,
         "top_3_empresas": [
-          "CRISTINA LUIZA DA SILVA NETA ME,"
+          "CRISTINA LUIZA DA SILVA NETA ME"
         ],
         "top_3_objetos": [
           "Aditivar o contrato de aquisição parcelada de\n\nmercadorias (não perecíveis/perecíveis), destinado as diversas\n\nsecretarias do município de Quixaba/PB, obedecendo às\n\ndisposições da Lei Federal nº 10.520, de 17/01/2002, Decreto\n\nFederal nº 3.555, de 08/08/2000, Lei Complementar 123, de 14 de\n\ndezembro de 2006, aplicando-se, subsidiariamente, no que couber\n\na Lei 8.666, de 21/06/93 com suas alterações posteriores"
@@ -392,7 +396,7 @@
         ]
       },
       "12": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
@@ -406,11 +410,11 @@
     }
   },
   "resumo": {
-    "num_diarios": 333,
-    "num_contratos": 50,
-    "total_gasto": 7533258.88,
+    "num_diarios": 325,
+    "num_contratos": 62,
+    "total_gasto": "8.565.029,45",
     "top_5_empresas": {
-      "CRISTINA LUIZA DA SILVA NETA ME,": 2,
+      "CRISTINA LUIZA DA SILVA NETA ME": 2,
       "PAULO CESAR TAVARES CONSERVA": 1,
       "PUBLIC SOTWARE INFORMATICA LTDA": 1,
       "JMSV CONSTRUÇÕES EIRELI": 1,

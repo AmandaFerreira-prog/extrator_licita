@@ -3,44 +3,20 @@
   "nome": "Serra Grande",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 8,
+      "8": {
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [
-          "JOSÉ LÍQUISON FURTADO DE FIGUEIREDO\nPersonal",
-          "Testemunhas:\n\nNome:........."
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 38,
+        "num_diarios": 37,
         "num_contratos": 1,
         "total_gasto": 12000.0
       },
-      "2": {
-        "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
-        "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 12000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 4,
+      "7": {
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -53,15 +29,39 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "7": {
-        "num_diarios": 2,
+      "5": {
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "8": {
-        "num_diarios": 2,
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "JOSÉ LÍQUISON FURTADO DE FIGUEIREDO\n.PERSONAL",
+          "Testemunhas:\n\nNome:"
+        ],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -288,8 +288,8 @@
       },
       "resumo": {
         "num_diarios": 49,
-        "num_contratos": 4,
-        "total_gasto": 78900.0
+        "num_contratos": 6,
+        "total_gasto": 112800.0
       },
       "2": {
         "num_diarios": 3,
@@ -307,8 +307,8 @@
       },
       "4": {
         "num_diarios": 3,
-        "num_contratos": 3,
-        "total_gasto": 58500.0,
+        "num_contratos": 4,
+        "total_gasto": 72000.0,
         "top_3_empresas": [
           "JACKSON RODRIGUES DA SILVA",
           "(A ): LOURIVAL FLORENTINO SERVIÇOS\nCONTABEIS EIRELI ME"
@@ -341,8 +341,8 @@
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 20400.0,
+        "num_contratos": 2,
+        "total_gasto": 40800.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -385,13 +385,13 @@
       },
       "resumo": {
         "num_diarios": 59,
-        "num_contratos": 2,
-        "total_gasto": 48000.0
+        "num_contratos": 4,
+        "total_gasto": 102300.0
       },
       "2": {
         "num_diarios": 5,
-        "num_contratos": 2,
-        "total_gasto": 48000.0,
+        "num_contratos": 3,
+        "total_gasto": 66000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -453,8 +453,8 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 36300.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -475,9 +475,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 76,
-        "num_contratos": 15,
-        "total_gasto": 1066546.15
+        "num_diarios": 74,
+        "num_contratos": 19,
+        "total_gasto": 2425097.25
       },
       "2": {
         "num_diarios": 10,
@@ -487,7 +487,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -502,8 +502,8 @@
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 501486.09,
         "top_3_empresas": [
           "JGA ENGENHARIA LTDA",
           "EMPRESA PAULO ITALO DE OLIVEIRA\nVILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA"
@@ -513,9 +513,9 @@
         ]
       },
       "6": {
-        "num_diarios": 8,
-        "num_contratos": 2,
-        "total_gasto": 208785.0,
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 1065850.01,
         "top_3_empresas": [
           "MASSARANDUBA LOCAÇÕES DE PALCOS\n\nEIRELI"
         ],
@@ -569,15 +569,22 @@
     "2020": {
       "1": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 5,
+        "total_gasto": 924253.62,
+        "top_3_empresas": [
+          "CASA DA\n\nCONSTRUÇÃO LTDA",
+          "CT Nº 00006/2020",
+          "MARIA\n\nYOLANDA DE SOUSA ALVES"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO,\n\nPARA ATENDER AS NECESSIDADES DO CENTRO\n\nADMINISTRATIVO E DAS DIVERSAS SECRETARIAS DESTE\n\nMUNICÍPIO ( EXCLUSIVAMENTE ME/EPP)",
+          "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO,\n\nPARA ATENDER AS NECESSIDADES DO CENTRO\n\nADMINISTRATIVO E DAS DIVERSAS SECRETARIAS DESTE\n\nMUNICÍPIO"
+        ]
       },
       "resumo": {
         "num_diarios": 59,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 5,
+        "total_gasto": 924253.62
       },
       "2": {
         "num_diarios": 9,
@@ -666,12 +673,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 112,
-        "num_contratos": 52,
-        "total_gasto": 3575538.3399999994
+        "num_diarios": 110,
+        "num_contratos": 54,
+        "total_gasto": 3612538.3399999994
       },
       "2": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 1,
         "total_gasto": 12127.5,
         "top_3_empresas": [],
@@ -692,7 +699,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 11,
         "total_gasto": 245529.0,
         "top_3_empresas": [],
@@ -711,8 +718,8 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 325395.0,
+        "num_contratos": 8,
+        "total_gasto": 362395.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -739,7 +746,7 @@
         "num_contratos": 2,
         "total_gasto": 25643.85,
         "top_3_empresas": [
-          "José Jackson F. de Andrade portador do"
+          "José Jackson F. de Andrade"
         ],
         "top_3_objetos": [
           "Agricultura Familiar e do Empreendedor Familiar Rural\n\nconforme §1º do art.14 da Lei n.º 11.947/2009 e Resolução FNDE n.º\n\n04, de 2 de abril de 2015"
@@ -770,16 +777,16 @@
     },
     "2022": {
       "1": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 8,
         "total_gasto": 483199.14999999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 78,
-        "total_gasto": 5117823.4399999995
+        "num_diarios": 121,
+        "num_contratos": 79,
+        "total_gasto": 5337209.319999999
       },
       "2": {
         "num_diarios": 13,
@@ -859,7 +866,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 1,
         "total_gasto": 12000.0,
         "top_3_empresas": [
@@ -871,15 +878,15 @@
       },
       "12": {
         "num_diarios": 14,
-        "num_contratos": 2,
-        "total_gasto": 164000.0,
+        "num_contratos": 3,
+        "total_gasto": 383385.88,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 19,
         "total_gasto": 935905.4999999999,
         "top_3_empresas": [
@@ -890,9 +897,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 129,
-        "num_contratos": 100,
-        "total_gasto": 9935434.09
+        "num_diarios": 126,
+        "num_contratos": 112,
+        "total_gasto": 10489474.41
       },
       "2": {
         "num_diarios": 9,
@@ -902,9 +909,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 14,
-        "num_contratos": 16,
-        "total_gasto": 1861069.5,
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 1940714.73,
         "top_3_empresas": [
           "JUCELIO FLORENTINO DE SOUZA-JF\n\nDIGITALIZACOES"
         ],
@@ -914,11 +921,11 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 7,
-        "total_gasto": 473372.0,
+        "num_contratos": 8,
+        "total_gasto": 705337.09,
         "top_3_empresas": [
           "MARCIO MOREIRA PEREIRA-ME",
-          "FELIPE JOSE DE FIGUEIREDO CAVALCANTI,",
+          "FELIPE JOSE DE FIGUEIREDO CAVALCANTI",
           "JANDERSON JESSE DANTAS MARTINS"
         ],
         "top_3_objetos": [
@@ -927,7 +934,7 @@
         ]
       },
       "5": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 8,
         "total_gasto": 289089.0,
         "top_3_empresas": [
@@ -939,10 +946,10 @@
       },
       "6": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 96690.0,
         "top_3_empresas": [
-          "LELEKA PRODUÇOES E LOCAÇOES EIRLI,"
+          "LELEKA PRODUÇOES E LOCAÇOES EIRLI"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ESTRUTURA PARA EVENTO, todos devidamente descritos\n\nda Ata registrada em anexo"
@@ -974,7 +981,7 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "EMPRESA M&S ENTRETENIMENTO LTDA,",
+          "EMPRESA M&S ENTRETENIMENTO LTDA",
           "EMPRESA F IVO MACEDO PRODUCOES DE\n\nEVENTOS E FESTAS EIRELI-ME"
         ],
         "top_3_objetos": [
@@ -991,8 +998,8 @@
       },
       "12": {
         "num_diarios": 15,
-        "num_contratos": 22,
-        "total_gasto": 3171393.94,
+        "num_contratos": 31,
+        "total_gasto": 3317133.94,
         "top_3_empresas": [
           "FRANCISCO RAIMUNDO FILHO-ME",
           "JOANA DARC COSTA AFREU-ME",
@@ -1008,19 +1015,23 @@
     "2024": {
       "1": {
         "num_diarios": 13,
-        "num_contratos": 24,
-        "total_gasto": 3020955.74,
+        "num_contratos": 45,
+        "total_gasto": 6206201.45,
         "top_3_empresas": [
-          "TOLENTINO COMERCIO DE PRODUTOS\n\nFARMACEUTICOS"
+          "ECOSOLO GESTAO AMBIENTAL DE\n\nRESIDUOS LTDA",
+          "TOLENTINO COMERCIO DE PRODUTOS\n\nFARMACEUTICOS",
+          "ELIANE DE LURDES MACEDO MENDONÇA"
         ],
         "top_3_objetos": [
-          "Aquisição parcelada de medicamentos Éticos, genéricos e\n\nSimilares conforme tabela da ABC Farma, no exercício de 2024,\n\nconforme especificações constantes no Termo de Referência Anexo I\n\ndeste Edital"
+          "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nATERRO SANITÁRIO LICENCIADO PARA RECEBIMENTO E\n\nDISPOSIÇÃO FINAL DE RESIDUOS SÓLIDOS URBANOS\n\nPRODUZIDOS PELO MUNICÍPIO DE SOLEDADE – PB\n\nDURANTE O EXERCICIO FINANCEIRO DE 2024",
+          "Aquisição parcelada de medicamentos Éticos, genéricos e\n\nSimilares conforme tabela da ABC Farma, no exercício de 2024,\n\nconforme especificações constantes no Termo de Referência Anexo I\n\ndeste Edital",
+          "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E/OU DO EMPREENDEDOR\n\nFAMILIAR RURAL PARA ATENDER AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR/PNAE NO\n\nMUNICÍPIO DE SOLEDADE – PB"
         ]
       },
       "resumo": {
-        "num_diarios": 116,
-        "num_contratos": 28,
-        "total_gasto": 3219385.04
+        "num_diarios": 115,
+        "num_contratos": 51,
+        "total_gasto": 6921120.75
       },
       "2": {
         "num_diarios": 7,
@@ -1051,7 +1062,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -1087,8 +1098,8 @@
       },
       "11": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 516490.0,
         "top_3_empresas": [
           "LELEKA PRODUCOES E LOCACOES EIRELI"
         ],
@@ -1106,12 +1117,12 @@
     }
   },
   "resumo": {
-    "num_diarios": 844,
-    "num_contratos": 280,
-    "total_gasto": 23053627.06,
+    "num_diarios": 833,
+    "num_contratos": 331,
+    "total_gasto": "29.936.793,69",
     "top_5_empresas": {
-      "JOSÉ LÍQUISON FURTADO DE FIGUEIREDO\nPersonal": 1,
-      "Testemunhas:\n\nNome:.........": 1,
+      "JOSÉ LÍQUISON FURTADO DE FIGUEIREDO\n.PERSONAL": 1,
+      "Testemunhas:\n\nNome:": 1,
       "JACKSON RODRIGUES DA SILVA": 1,
       "(A ): LOURIVAL FLORENTINO SERVIÇOS\nCONTABEIS EIRELI ME": 1,
       "JGA ENGENHARIA LTDA": 1
@@ -1121,7 +1132,7 @@
       "SERVIÇOS CONTÁBEIS, EMPENHOS,\nARQUIVAMENTO DE PASTAS DE DESPESAS E BALANCETES\nMENSAIS, JUNTO A CÂMARA DE VEREADORES DE SERRA\nGRANDE-PB": 1,
       "EXECUÇÃO DE SERVIÇOS SOB O REGIME DE\nEXECUÇÃO INDIRETA POR EMPREITADA POR PREÇO\nGLOBAL PARA CONTRATAÇÃO DE EMPRESA PARA\nEXECUÇÃO DE OBRAS DE MELHORIAS SANITÁRIAS\nDOMICILIARES (MSD) (BANHEIROS E CISTERNAS),\nVISANDO PROMOVER SOLUÇÕES INDIVIDUALIZADAS DE\nSANEAMENTO BÁSICO NO MUNICÍPIO DE SERRA GRANDE -\nPB, DISCRIMINADOS E QUANTIFICADOS NOS ANEXOS DO\nEDITAL": 1,
       "Locação de equipamento de estrutura para os eventos\n\nfestivos do município de Serra Grande – PB, conforme especificações\n\ndo edital": 1,
-      "Contratação de empresa especializada para serviços de\nReforma da Casa de Apoio do Município de Serra Grande - PB": 1
+      "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO,\n\nPARA ATENDER AS NECESSIDADES DO CENTRO\n\nADMINISTRATIVO E DAS DIVERSAS SECRETARIAS DESTE\n\nMUNICÍPIO ( EXCLUSIVAMENTE ME/EPP)": 1
     }
   }
 }

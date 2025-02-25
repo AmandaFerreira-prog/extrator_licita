@@ -17,14 +17,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 39,
-        "num_contratos": 70,
-        "total_gasto": 2648988.39
+        "num_diarios": 38,
+        "num_contratos": 62,
+        "total_gasto": 3152332.0699999994
       },
       "5": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 682216.81,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -36,31 +36,28 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 4,
-        "num_contratos": 17,
-        "total_gasto": 314341.29000000004,
-        "top_3_empresas": [
-          "ADENÍLSON CASIMIRO DO Ó\n\n01434049469",
-          "ADRIANO CASIMIRO DO Ó 01352926466",
-          "JOSÉ\n\nWAGNER PEDROSA ROCHA ME"
-        ],
-        "top_3_objetos": [
-          "REGISTRO DE PREÇO para serviços de manutenção de\n\nequipamentos e bens imóveis pertencentes ao município de São\n\nFrancisco",
-          "Contratação de prestação de serviços na área de educação\n\npara desenvolvimento de Cursos, Palestras, Oficinas e Aulas Práticas\n\ndo Projeto ROBÓTICA EDUCACIONAL no Município de São\n\nFrancisco",
-          "Contratação de empresa para prestação de serviços de\n\nprovimento de acesso à internet com configuração, instalação e\n\nmontagem, destinado às atividades administrativas do município de\n\nSão Francisco"
-        ]
-      },
-      "8": {
-        "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 77386.57,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 36281.59,
+        "top_3_empresas": [
+          "empresa JOSÉ NERGINO\nSOBREIRA",
+          "e Carlos Maciel Alencar de Oliveira -\nPela Promitente"
+        ],
+        "top_3_objetos": [
+          "Registro de\nPreço para possível aquisição gradativa de material odontológico;"
+        ]
+      },
       "9": {
         "num_diarios": 5,
-        "num_contratos": 8,
-        "total_gasto": 157244.24,
+        "num_contratos": 9,
+        "total_gasto": 179044.24,
         "top_3_empresas": [
           "CIRUFARMA\n\nCOMERCIAL LTDA",
           "DIMEDONT - DISTRIBUIDORA DE MEDICAMENTOS E\n\nEQUIPAMENTOS LTDA",
@@ -104,25 +101,31 @@
     "2019": {
       "1": {
         "num_diarios": 5,
-        "num_contratos": 2,
-        "total_gasto": 28114.08,
+        "num_contratos": 3,
+        "total_gasto": 380728.08,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 67,
-        "num_contratos": 143,
-        "total_gasto": 4697681.45
+        "num_diarios": 66,
+        "num_contratos": 184,
+        "total_gasto": 8537128.1
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 11,
+        "total_gasto": 485091.16000000003,
+        "top_3_empresas": [
+          "MARIA DO SOCORRO SARMENTO\nCESARINO",
+          "SME SERVIÇOS\nESPECIALISADOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Prestação e serviços no processamento de dados dos\nsistemas de informação de vigilancia em saude, conforme\nperiodicidade exigida pelo Ministério da saúde.",
+          "Prestação de serviços de consultoria e assessoria em\nprojetos e captação de recursos junto aos órgãos governamentais"
+        ]
       },
       "3": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -130,8 +133,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 48,
-        "total_gasto": 2077121.92,
+        "num_contratos": 51,
+        "total_gasto": 2261431.37,
         "top_3_empresas": [
           "CT Nº 00027/2019",
           "CT Nº 00043/2019",
@@ -145,17 +148,25 @@
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 19,
-        "total_gasto": 618305.0599999999,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 31,
+        "total_gasto": 1708282.22,
+        "top_3_empresas": [
+          "FREITAS SERVICOS DE ENGENHARIA\n\nLTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de Empresa Especializada para: Reforma da\n\nPraça Frei Damião no município de São Jose da Lagoa Tapada/PB"
+        ]
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 3,
+        "total_gasto": 201704.89,
+        "top_3_empresas": [
+          "A.T.L COMERCIO DE PECAS PARA\nTRATORES E MANUTENCAO EIRELI"
+        ],
+        "top_3_objetos": [
+          "Serviços de mão de obra e material para\nrecuperação/substituição de unidade injetora, sensores e reparos na\ninstalação do trator de esteiras NEW HOLLAND D150B - Ano 2013\ndestinado aos serviços de desassoreação e construção de pequenos\naçudes e barreiros no município de São Jose da Lagoa Tapada"
+        ]
       },
       "7": {
         "num_diarios": 4,
@@ -166,22 +177,22 @@
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 13,
-        "total_gasto": 623935.51,
+        "num_contratos": 16,
+        "total_gasto": 1213985.64,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 3,
-        "total_gasto": 18022.66,
+        "num_contratos": 6,
+        "total_gasto": 684167.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 2,
-        "total_gasto": 39636.5,
+        "num_contratos": 7,
+        "total_gasto": 309191.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -209,12 +220,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 70,
-        "num_contratos": 138,
-        "total_gasto": 4896597.919999999
+        "num_diarios": 68,
+        "num_contratos": 164,
+        "total_gasto": 6885980.799999998
       },
       "2": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -222,20 +233,20 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 37,
-        "total_gasto": 1767832.9800000002,
+        "num_contratos": 48,
+        "total_gasto": 2107382.6799999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 12,
-        "total_gasto": 490914.53,
+        "num_contratos": 16,
+        "total_gasto": 1447509.53,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -243,22 +254,22 @@
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 146452.5,
+        "num_contratos": 9,
+        "total_gasto": 394424.37,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 26400.0,
+        "num_contratos": 3,
+        "total_gasto": 44170.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 10,
-        "total_gasto": 950895.21,
+        "num_contratos": 11,
+        "total_gasto": 1011132.75,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -279,22 +290,27 @@
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 20,
-        "total_gasto": 397295.26,
+        "num_contratos": 22,
+        "total_gasto": 408540.26,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 2,
-        "num_contratos": 15,
-        "total_gasto": 311700.5,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 16,
+        "total_gasto": 560201.27,
+        "top_3_empresas": [
+          "H J DANTAS FILHO EIRELI (CNPJ\nnº 24.855.726/0001-74);",
+          "e Hédimo Jales Dantas Filho"
+        ],
+        "top_3_objetos": [
+          "execução dos serviços de\nImplantação de pavimentação em vias públicas urbanas no Município\nde São José do Brejo do Cruz/ PB; VIGÊNCIA: termo inicial na data\nde sua subscrição e termo final em (06) meses;"
+        ]
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 4,
-        "total_gasto": 179757.0,
+        "num_contratos": 7,
+        "total_gasto": 287270.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -302,34 +318,40 @@
     "2021": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 940623.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 156,
-        "num_contratos": 302,
-        "total_gasto": 15110173.160000002
+        "num_contratos": 438,
+        "total_gasto": 26907850.430000007
       },
       "2": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 17040.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 20,
-        "total_gasto": 2093656.95,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 30,
+        "total_gasto": 2256367.25,
+        "top_3_empresas": [
+          "FRANCISCO JUNIOR DE OLIVEIRA\n\nCARDOSO (CPF nº 058.368.764-44);",
+          "e Maria José de Oliveira Cardoso"
+        ],
+        "top_3_objetos": [
+          "Prestação de serviços de Consultoria e Assessoria Técnica\n\nem planejamento e gestão pública relativa às áreas contábeis,\n\nfinanceira e orçamentária junto à Câmara Municipal de Nazarezinho",
+          "Locação de veículo\n\nde passeio para a Secretaria Municipal de Assistência Social;"
+        ]
       },
       "4": {
         "num_diarios": 12,
-        "num_contratos": 42,
-        "total_gasto": 3303124.17,
+        "num_contratos": 76,
+        "total_gasto": 4007528.9599999995,
         "top_3_empresas": [
           "CLINICA MEDICA RANGEL LTDA",
           "I F DA COSTA & CIA LTDA",
@@ -341,22 +363,26 @@
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 52,
-        "total_gasto": 4555866.08,
+        "num_contratos": 74,
+        "total_gasto": 6194451.5600000005,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 13,
-        "num_contratos": 50,
-        "total_gasto": 872775.28,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 60,
+        "total_gasto": 1411145.7799999998,
+        "top_3_empresas": [
+          "A. COSTA COMERCIO\nATAC. DE PRODUTOS FARMACEUTICOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de testes rápidos e medicamentos, destinados a\natender demandas da Secretaria de Saúde, no combate da COVID-19\nno município São Jose da Lagoa Tapada"
+        ]
       },
       "7": {
         "num_diarios": 18,
-        "num_contratos": 78,
-        "total_gasto": 1581472.4399999997,
+        "num_contratos": 90,
+        "total_gasto": 2421018.9,
         "top_3_empresas": [
           "AKIYAMA S A INDUSTRIA E COMERCIO\n\nDE EQUIPAMENTOS E SISTEMAS"
         ],
@@ -366,40 +392,43 @@
       },
       "8": {
         "num_diarios": 18,
-        "num_contratos": 20,
-        "total_gasto": 1225235.7,
+        "num_contratos": 32,
+        "total_gasto": 1916053.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 16,
-        "num_contratos": 21,
-        "total_gasto": 736807.54,
+        "num_contratos": 24,
+        "total_gasto": 2131981.51,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 16,
-        "num_contratos": 5,
-        "total_gasto": 72682.0,
+        "num_contratos": 11,
+        "total_gasto": 467394.98,
         "top_3_empresas": [
-          "JOSÉ\n\nWAGNER PEDROSA ROCHA"
+          "JOSÉ\n\nWAGNER PEDROSA ROCHA",
+          "MARCOS ANTONIO DANTAS",
+          "e Marcos Antônio Dantas"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA PRESTAR OS SERVIÇOS DE\n\nPROVIMENTO DE ACESSO À INTERNET COM\n\nCONFIGURAÇÃO, INSTALAÇÃO E MONTAGEM, DESTINADO\n\nAS ATIVIDADES ADMINISTRATIVAS DO MUNICÍPIO DE SÃO\n\nFRANCISCO"
+          "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA PRESTAR OS SERVIÇOS DE\n\nPROVIMENTO DE ACESSO À INTERNET COM\n\nCONFIGURAÇÃO, INSTALAÇÃO E MONTAGEM, DESTINADO\n\nAS ATIVIDADES ADMINISTRATIVAS DO MUNICÍPIO DE SÃO\n\nFRANCISCO",
+          "Aquisição gradativa de\n\nmaterial de limpeza, higiene pessoal e descartáveis;"
         ]
       },
       "11": {
         "num_diarios": 14,
-        "num_contratos": 8,
-        "total_gasto": 389412.0,
+        "num_contratos": 14,
+        "total_gasto": 746522.92,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 12,
-        "num_contratos": 6,
-        "total_gasto": 279141.0,
+        "num_contratos": 21,
+        "total_gasto": 4397721.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -407,63 +436,73 @@
     "2022": {
       "1": {
         "num_diarios": 15,
-        "num_contratos": 26,
-        "total_gasto": 2220119.7,
+        "num_contratos": 44,
+        "total_gasto": 4469279.59,
         "top_3_empresas": [
-          "JANILENE RODRIGUES GONCALVES\n\nSARMENTO",
-          "FRANCINILTON LOPES RAMOS\n\n12450329846",
-          "FRANCISCO CARLOS LINHARES\n\nPEREIRA"
+          "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA",
+          "e Augusto Jorge Saraiva de Oliveira",
+          "JOÃO ALVES DUTRA EIRELI"
         ],
         "top_3_objetos": [
+          "Aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
           "AQUISIÇÃO PARCELADA DE CADERNOS\n\nPADRONIZADOS PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE SÃO\n\nFRANCISCO",
-          "AQUISIÇÃO PARCELADA DE REFEIÇÕES PARA\n\nATENDEREM AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO",
-          "AQUISIÇÃO PARCELADA DE CIMENTO PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO\n\nFRANCISCO"
+          "AQUISIÇÃO PARCELADA DE REFEIÇÕES PARA\n\nATENDEREM AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO"
         ]
       },
       "resumo": {
-        "num_diarios": 192,
-        "num_contratos": 222,
-        "total_gasto": 11024092.510000002
+        "num_diarios": 185,
+        "num_contratos": 412,
+        "total_gasto": 28352993.319999993
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 33,
-        "total_gasto": 2107128.68,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 52,
+        "total_gasto": 4511862.3,
+        "top_3_empresas": [
+          "Alysson Marques Rufino Paula Leite",
+          "JOÃO ALVES DUTRA EIRELI",
+          "e Karlyson Halyson Silva"
+        ],
+        "top_3_objetos": [
+          "contratação de Profissional para prestação de serviços de\n\nengenharia elétrica na elaboração e fiscalização de projetos elétricos,\n\nna inspeção e fiscalização de unidades consumidoras, solicitando\n\nmudança de padrão de entrada e elaboração de serviço de iluminação\n\npública entre a prefeitura e concessionária de energia,\n\nFundamentAÇÃO: art",
+          "execução dos serviços de\n\nmanutenção preventiva e corretiva (com reposição de peças, produtos\n\ne acessórios) nos veículos, motocicletas e maquinários que compõem\n\na frota municipal: próprios, cedidos, conveniados (atuais e futuros) do\n\nMunicípio de São José do Brejo do Cruz/ PB;",
+          "locação de carro pipa, com\n\ncapacidade de, no mínimo, OITO (8) m³ de Água; VIGÊNCIA: 01 de\n\nmarço a 31 de dezembro de 2022; DOTAÇÃO\n\nORÇAMENTÁRIA:02 05 20 606 0006 2009 0000 MANUT"
+        ]
       },
       "3": {
         "num_diarios": 18,
-        "num_contratos": 26,
-        "total_gasto": 2035398.0999999999,
+        "num_contratos": 45,
+        "total_gasto": 3373608.08,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 15,
-        "num_contratos": 55,
-        "total_gasto": 936765.98,
+        "num_diarios": 14,
+        "num_contratos": 61,
+        "total_gasto": 1477154.85,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 17,
-        "num_contratos": 21,
-        "total_gasto": 403746.23,
+        "num_diarios": 16,
+        "num_contratos": 30,
+        "total_gasto": 1722064.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 10,
-        "num_contratos": 8,
-        "total_gasto": 140558.69,
+        "num_diarios": 9,
+        "num_contratos": 17,
+        "total_gasto": 435520.58999999997,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Aquisição de jogos e brinquedos infantis educativos,\n\nconforme descrição em termo de referência, para instalar uma\n\nbrinquedoteca junto a Secretaria de Educação do município de São\n\nFrancisco/PB"
+        ]
       },
       "7": {
-        "num_diarios": 17,
-        "num_contratos": 7,
-        "total_gasto": 501373.75,
+        "num_diarios": 16,
+        "num_contratos": 23,
+        "total_gasto": 2033082.3,
         "top_3_empresas": [
           "PAPELARIA CAJAZEIRAS LTDA"
         ],
@@ -473,15 +512,15 @@
       },
       "8": {
         "num_diarios": 16,
-        "num_contratos": 6,
-        "total_gasto": 81974.1,
+        "num_contratos": 15,
+        "total_gasto": 337649.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 19,
-        "num_contratos": 10,
-        "total_gasto": 1375895.22,
+        "num_diarios": 18,
+        "num_contratos": 31,
+        "total_gasto": 3690504.58,
         "top_3_empresas": [
           "CLINFORT CLINICA MEDICA LTDA",
           "ORTOMED CLINICA ESPECIALIZADA\n\nLTDA"
@@ -491,16 +530,21 @@
         ]
       },
       "10": {
-        "num_diarios": 16,
-        "num_contratos": 10,
-        "total_gasto": 472222.16000000003,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 14,
+        "num_contratos": 40,
+        "total_gasto": 2612275.92,
+        "top_3_empresas": [
+          "MARCOS ANTONIO DANTAS (CNPJ nº\n\n12.160.512/0001-02);",
+          "e Marcos Antônio Dantas"
+        ],
+        "top_3_objetos": [
+          "aquisição gradativa de material\n\ndescartável;"
+        ]
       },
       "11": {
         "num_diarios": 14,
-        "num_contratos": 12,
-        "total_gasto": 398732.0,
+        "num_contratos": 34,
+        "total_gasto": 2238793.6999999997,
         "top_3_empresas": [
           "COMERCIAL DE\n\nCOMBUSTIVEIS CAJA LTDA"
         ],
@@ -510,51 +554,58 @@
       },
       "12": {
         "num_diarios": 17,
-        "num_contratos": 8,
-        "total_gasto": 350177.9,
+        "num_contratos": 20,
+        "total_gasto": 1451197.79,
         "top_3_empresas": [
-          "HERTZ -\nESTRUTURAS E EVENTOS EIRELI"
+          "HERTZ -\nESTRUTURAS E EVENTOS EIRELI",
+          "CONSTRUTORA LCL LTDA"
         ],
         "top_3_objetos": [
-          "REGISTRO DE PREÇOS PARA LOCAÇÃO DE\nESTRUTURAS DIVERSAS, CONFORME TERMO DE\nREFERÊNCIA, PARA FESTIVIDADES DIVERSAS DESTE\nMUNICÍPIO"
+          "REGISTRO DE PREÇOS PARA LOCAÇÃO DE\nESTRUTURAS DIVERSAS, CONFORME TERMO DE\nREFERÊNCIA, PARA FESTIVIDADES DIVERSAS DESTE\nMUNICÍPIO",
+          "Contratação de empresa especializada nos serviços de\nengenharia para Reforma do Campo de Futebol, no Município de São\nJosé da Lagoa Tapada–PB"
         ]
       }
     },
     "2023": {
       "1": {
         "num_diarios": 19,
-        "num_contratos": 36,
-        "total_gasto": 3110120.5100000002,
+        "num_contratos": 64,
+        "total_gasto": 4982475.97,
         "top_3_empresas": [
-          "WASTE COLETA DE RESIDUOS\nHOSPITALARES LTDA",
-          "ANDRE\nABRANTES GERMANO 05755046417"
+          "LUANA DANTAS COMERCIO\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\nEIRELI",
+          "e Edilson Bispo de Jesus",
+          "WASTE COLETA DE RESIDUOS\nHOSPITALARES LTDA"
         ],
         "top_3_objetos": [
+          "Aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;",
           "Contratação direta de empresa especializada no serviço de\ncoleta, transporte, tratamento por destruição térmica (incineração) e\ndestinação final das cinzas dos resíduos provenientes dos serviços\npúblicos de saúde pública municipal (grupo A, B e E), para suprir as\nnecessidades da Prefeitura Municipal de São Francisco/PB",
-          "CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS\nDE APOIO ADMINISTRATIVO EM FINANÇAS E\nPLANEJAMENTO CONFORME TERMO DE\nREFERÊNCIA,JUNTO À PREFEITURA MUNICIPAL DE SÃO\nFRANCISCO/PB",
-          "Contratação direta de serviços especializados em Exames\npor imagem (Mamografia Bilateral), em Unidade Móvel (veículo\nadaptado com Equipamento), para atendimento aos usuários do SUS\npor intermédio da Secretaria de Saúde Municipal, para atender as\nnecessidades da Prefeitura de São Francisco"
+          "CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS\nDE APOIO ADMINISTRATIVO EM FINANÇAS E\nPLANEJAMENTO CONFORME TERMO DE\nREFERÊNCIA,JUNTO À PREFEITURA MUNICIPAL DE SÃO\nFRANCISCO/PB"
         ]
       },
       "resumo": {
-        "num_diarios": 168,
-        "num_contratos": 153,
-        "total_gasto": 15052371.76
+        "num_diarios": 167,
+        "num_contratos": 317,
+        "total_gasto": 26246337.26
       },
       "2": {
         "num_diarios": 14,
-        "num_contratos": 19,
-        "total_gasto": 1712088.2,
+        "num_contratos": 40,
+        "total_gasto": 2681553.25,
         "top_3_empresas": [
-          "REVENDEDORA DE\nGÁS SOUSA LTDA"
+          "REVENDEDORA DE\nGÁS SOUSA LTDA",
+          "EMANOEL GOMES FERREIRA",
+          "CAINA ALENCAR DOS SANTOS"
         ],
         "top_3_objetos": [
-          "AQUISIÇÃO PARCELADA DE RECARGA DE GÁS DE\n\nCOZINHA E VASILHAME PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DO\nMUNICÍPIO DE SÃO FRANCISCO/PB"
+          "AQUISIÇÃO PARCELADA DE RECARGA DE GÁS DE\n\nCOZINHA E VASILHAME PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DO\nMUNICÍPIO DE SÃO FRANCISCO/PB",
+          "Contratação de Pessoa jurídica especializada em prestação\n\nde serviços de manutenção preventiva e corretiva do sistema de\n\nmonitoramento de segurança do Município de são José da Lagoa\nTapada/PB",
+          "execução\n\ndos serviços técnicos especializados na manutenção e reparação de\n\ncomputadores e impressoras; VIGÊNCIA: 27 de fevereiro a 31 de\n\ndezembro de 2023;"
         ]
       },
       "3": {
         "num_diarios": 19,
-        "num_contratos": 32,
-        "total_gasto": 3366161.35,
+        "num_contratos": 76,
+        "total_gasto": 4809666.859999999,
         "top_3_empresas": [
           "THIAGO GOMES BARBOSA COMÉRCIO"
         ],
@@ -564,73 +615,86 @@
       },
       "4": {
         "num_diarios": 13,
-        "num_contratos": 13,
-        "total_gasto": 1835335.0700000003,
+        "num_contratos": 17,
+        "total_gasto": 1950475.0700000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 18,
-        "num_contratos": 11,
-        "total_gasto": 1204186.77,
-        "top_3_empresas": [],
+        "num_contratos": 23,
+        "total_gasto": 2925504.53,
+        "top_3_empresas": [
+          "CELIO GUEDES LACERDA",
+          "FRANCISCO VIEIRA"
+        ],
         "top_3_objetos": [
+          "Contratação de serviços de locação de veículos, destinados\na manutenção das atividades de diversas secretarias do município de\nSão José da Lagoa Tapada–PB",
           "Contratação direta do artista musical ERIC LAND, por\nmeio da empresa ZADE SHOWS GRAVAÇÕES E EDIÇÕES\nMUSICAIS LTDA, CNPJ Nº 30.244.228/0001-98, para apresentação\nde evento festivo e cultural em alusão a comemoração as festividades\njuninas denominada de “NOVO FORRÓ CHÃO” a ser realizado no\ndia 16 de junho de 2023, no município de São Francisco PB",
           "Contratação direta do artista musical “BRASAS DO\nFORRO”, através da empresa: BRASAS DO FORRO COMERCIO E\nLOCACAO DE MATERIAL LTDA, CNPJ Nº 03.657.268/0001-99,\npara apresentação de evento festivo e cultural em alusão a\ncomemoração das festividades juninas, denominada de “NOVO\nFORRÓ CHÃO”, a ser realizado no dia 17 de junho de 2023, no\nmunicípio de São Francisco PB"
         ]
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 164500.11,
+        "num_contratos": 19,
+        "total_gasto": 1504224.6099999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 4,
-        "total_gasto": 103365.0,
+        "num_contratos": 8,
+        "total_gasto": 163365.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 16,
-        "num_contratos": 8,
-        "total_gasto": 1060605.0899999999,
+        "num_contratos": 17,
+        "total_gasto": 1588479.1400000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 12,
-        "num_contratos": 7,
-        "total_gasto": 1578582.8399999999,
+        "num_contratos": 10,
+        "total_gasto": 1905873.8399999999,
         "top_3_empresas": [
           "BRASFLEX INDUSTRIA E COMERCIO\nLTDA",
-          "JOAO INACIO DA\nSILVEIRA"
+          "JOAO INACIO DA\nSILVEIRA",
+          "COMERCIO DE VEICULOS SANTANA LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de Carteiras escolares para a rede de ensino do\nmunicípio de São Francisco – PB, através do Termo de Convenio nº\n0168/2023 (Estado PB), para atender as necessidades da Secretaria de\nEducação, conforme especificações constantes no Termo de\nReferência",
-          "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS E\nLUBRIFICANTE PARA ATENDER AS NECESSIDADES DAS\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SÃO\nFRANCISCO"
+          "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS E\nLUBRIFICANTE PARA ATENDER AS NECESSIDADES DAS\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SÃO\nFRANCISCO",
+          "Aquisição de Unidade Móvel de Saúde Tipo VAN (0km –\nPrimeiro Licenciamento, para atender a secretaria Saúde, (Proposta\n11420422000123001) do Município de São José da Lagoa Tapada–\nPB"
         ]
       },
       "10": {
         "num_diarios": 15,
-        "num_contratos": 11,
-        "total_gasto": 657648.22,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 28,
+        "total_gasto": 3354338.3899999997,
+        "top_3_empresas": [
+          "GQS ELETROS E EQUIPAMENTOS LTDA -",
+          "RUFINO & SILVA MERCADINHO E\n\nPAPELARIA LTDA ME"
+        ],
+        "top_3_objetos": [
+          "Aquisição de moveis mobiliários destinado a assistência\n\nsocial do município do São José da Lagoa Tapada/PB",
+          "Registro de Preço para futuro e eventual fornecimento\n\ndiário e parcelado de material de limpeza e higiene destinado a\n\natender as necessidades de diversas secretarias do município de São\n\nJosé da Lagoa Tapada–PB",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO DE MATERIAL PERMANENTE NA\n\nCATEGORIA MOBILIÁRIO, PARA ATENDER AS\n\nNECESSIDADES DA CÂMARA MUNICIPAL DE SÃO JOSÉ DA\n\nLAGOA TAPADA/PB CONFORME TERMO DE REFERÊNCIA;"
+        ]
       },
       "11": {
-        "num_diarios": 12,
-        "num_contratos": 8,
-        "total_gasto": 259778.6,
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 262778.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 117602.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -638,8 +702,8 @@
     "2024": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 15,
-        "total_gasto": 1157977.9,
+        "num_contratos": 44,
+        "total_gasto": 2898247.7,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação direta de pessoa jurídica para os serviços de\n\norganização, elaboração e acompanhamento de frota de veículos e\n\nmáquinas, a cargo da Secretaria de Finanças do município de São\n\nFrancisco/PB",
@@ -648,14 +712,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 183,
-        "num_contratos": 167,
-        "total_gasto": 14985275.930000002
+        "num_diarios": 181,
+        "num_contratos": 255,
+        "total_gasto": 20934984.01
       },
       "2": {
-        "num_diarios": 15,
-        "num_contratos": 30,
-        "total_gasto": 4619410.960000001,
+        "num_diarios": 14,
+        "num_contratos": 33,
+        "total_gasto": 4892310.960000001,
         "top_3_empresas": [
           "EUGENIO ALVES DO NASCIMENTO\n\nLTDA",
           "F A DE\n\nLIMA AUTOPECAS"
@@ -665,16 +729,16 @@
         ]
       },
       "3": {
-        "num_diarios": 14,
-        "num_contratos": 34,
-        "total_gasto": 1094415.71,
+        "num_diarios": 13,
+        "num_contratos": 37,
+        "total_gasto": 1848386.0499999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 14,
-        "num_contratos": 10,
-        "total_gasto": 385893.4,
+        "num_contratos": 12,
+        "total_gasto": 392206.19999999995,
         "top_3_empresas": [
           "REVENDEDORA DE\n\nGÁS SOUSA LTDA",
           "RITA XAVIER DA\n\nSILVA LTDA",
@@ -687,18 +751,24 @@
       },
       "5": {
         "num_diarios": 15,
-        "num_contratos": 10,
-        "total_gasto": 443142.55,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 18,
+        "total_gasto": 665543.1499999999,
+        "top_3_empresas": [
+          "PROTEGER - ATIVIDADES, SERVICOS E\n\nDIAGNOSTICO EM SAUDE LTDA",
+          "MARIA CONCEIÇÃO ARAUJO PEREIRA -"
+        ],
+        "top_3_objetos": [
+          "Prestação de serviços de saúde e segurança do trabalho na\n\nelaboração do PCMSO (Programa de controle médico de saúde\n\nocupacional): conforme determinado pela NR 01 do ministério do\n\ntrabalho e em total conformidade cm a IN 128/2022 e decreto\n\n3.048/99 da previdência social, bem como, a responsabilidade dos\n\nenvios dos eventos do SST (S–2210 e S–2220;) no E–social, medico\n\nespecialista em saúde do trabalhador com RQE – registro de\n\nqualificação de especialidade (CRM)",
+          "Contratação de Serviços Técnicos Especializados na Área\n\nde Engenharia civil para prestar Serviços de Fiscalização e\n\nAcompanhamentos das obras de engenharia do Município de São José\n\nda Lagoa Tapada – PB"
+        ]
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 15,
-        "total_gasto": 994592.56,
+        "num_contratos": 17,
+        "total_gasto": 1049792.56,
         "top_3_empresas": [
-          "JUDIMAR DIAS DE SOUSA 80606628487",
-          "RUAN FERREIRA DOS SANTOS\n\n71204235414"
+          "JUDIMAR DIAS DE SOUSA",
+          "RUAN FERREIRA DOS SANTOS"
         ],
         "top_3_objetos": [
           "Contratação direta do artista musical: JUDIMAR DIAS,\n\npara apresentação de evento festivo e cultural em alusão a\n\ncomemoração das festividades denominadas: NOVO FORROCHÃO\n\nNO SÍTIO, a ser realizado no dia 29 de Junho de 2024, no sitio Dois\n\nRiachos, município de São Francisco PB",
@@ -707,8 +777,8 @@
       },
       "7": {
         "num_diarios": 16,
-        "num_contratos": 3,
-        "total_gasto": 510223.22,
+        "num_contratos": 28,
+        "total_gasto": 1031546.9900000001,
         "top_3_empresas": [
           "55.166.111\n\nFRANCINILTON LOPES RAMOS"
         ],
@@ -718,15 +788,19 @@
       },
       "8": {
         "num_diarios": 15,
-        "num_contratos": 6,
-        "total_gasto": 278140.4,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 15,
+        "total_gasto": 693783.82,
+        "top_3_empresas": [
+          "RUDA PEREIRA BRASIL SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA"
+        ],
+        "top_3_objetos": [
+          "Contratação de Pessoa Jurídica para Prestação de serviços\nna área de assessoria compreendendo a recuperação de crédito por\n\nmeio da identificação de cobranças indevidas (a maior, em\n\nduplicidade, erros de enquadramentos tarifários, perdas nos\n\nequipamentos – parque de iluminação pública etc.)"
+        ]
       },
       "9": {
         "num_diarios": 15,
-        "num_contratos": 4,
-        "total_gasto": 244814.66,
+        "num_contratos": 5,
+        "total_gasto": 1158962.01,
         "top_3_empresas": [
           "M H F\n\nDE FREITAS EIRELI"
         ],
@@ -736,15 +810,21 @@
       },
       "10": {
         "num_diarios": 17,
-        "num_contratos": 12,
-        "total_gasto": 2331371.27,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 13,
+        "total_gasto": 2556561.27,
+        "top_3_empresas": [
+          "LUZIA DE\n\nAQUINO FERREIRA",
+          ".\n\nFUNDAMENTO LEGAL: Adesão Registro de Preços nº\n\nAD00002/2024"
+        ],
+        "top_3_objetos": [
+          "registro de preços para futuras aquisições de forma\n\nparcelada, se necessário for, de pneus e câmaras de ar, destinados a\n\ntodos os veículos desta edilidade, com alinhamento e balanceamento\n\ninclusos, com deslocamento por conta da contratada",
+          "Contratação de empresa especializada para execução dos\n\nserviços de obra para pavimentação e Drenagem nos Bairros João\n\nCavaco, Sanhauá, Mocó I e II e no Sitio Bodegas do município de\n\nSÃO JOSE DA LAGOA TAPADA, conforme termo de referência\n\nAnexo I do edital e lei 8666/93"
+        ]
       },
       "11": {
         "num_diarios": 15,
-        "num_contratos": 15,
-        "total_gasto": 2049403.6,
+        "num_contratos": 16,
+        "total_gasto": 2773653.6,
         "top_3_empresas": [
           "ALLYSON\n\nFORTUNATO DE ABRANTES"
         ],
@@ -756,8 +836,8 @@
       },
       "12": {
         "num_diarios": 19,
-        "num_contratos": 13,
-        "total_gasto": 875889.7,
+        "num_contratos": 17,
+        "total_gasto": 973989.7,
         "top_3_empresas": [
           "GOMES&SILVA ASSESSORIA E\n\nCOMERCIO DE LIVROS LTDA",
           "CEMOAN CENTRO MÉDICO DR. OZIAS\n\nARRUDA NETO LTDA",
@@ -772,22 +852,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 875,
-    "num_contratos": 1195,
-    "total_gasto": 68415181.12,
+    "num_diarios": 861,
+    "num_contratos": 1832,
+    "total_gasto": "121.017.605,99",
     "top_5_empresas": {
+      "e Marcos Antônio Dantas": 2,
+      "JOÃO ALVES DUTRA EIRELI": 2,
       "THIAGO GOMES BARBOSA COMÉRCIO": 2,
       "LELEKA PRODUÇÕES\nE LOCAÇÕES EIRELI": 1,
-      "BRASAS DO FORRÓ\nCOMÉRCIO E LOCAÇÃO DE MATERIAL LTDA": 1,
-      "ADENÍLSON CASIMIRO DO Ó\n\n01434049469": 1,
-      "ADRIANO CASIMIRO DO Ó 01352926466": 1
+      "BRASAS DO FORRÓ\nCOMÉRCIO E LOCAÇÃO DE MATERIAL LTDA": 1
     },
     "top_5_objetos": {
       "Contratação de serviço da Banda “Gilson Mania”, com\ninclusão da estrutura de iluminação e sonorização da própria\ncontratada, para apresentação de show musical, durante as\nfestividades do Forró Chão no município de São Francisco": 1,
       "Contratação de serviço da Banda “Brasas do Forró”, com\ninclusão da estrutura de iluminação e sonorização da própria\ncontratada, para apresentação de show musical, durante as\nfestividades do Forró Chão no município de São Francisco": 1,
-      "REGISTRO DE PREÇO para serviços de manutenção de\n\nequipamentos e bens imóveis pertencentes ao município de São\n\nFrancisco": 1,
-      "Contratação de prestação de serviços na área de educação\n\npara desenvolvimento de Cursos, Palestras, Oficinas e Aulas Práticas\n\ndo Projeto ROBÓTICA EDUCACIONAL no Município de São\n\nFrancisco": 1,
-      "Contratação de empresa para prestação de serviços de\n\nprovimento de acesso à internet com configuração, instalação e\n\nmontagem, destinado às atividades administrativas do município de\n\nSão Francisco": 1
+      "Registro de\nPreço para possível aquisição gradativa de material odontológico;": 1,
+      "REGISTRO DE PREÇO para serviços de exames de\n\nRessonância Magnética, para atender as necessidades da Secretaria de\n\nSaúde do município": 1,
+      "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de São Francisco": 1
     }
   }
 }

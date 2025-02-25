@@ -44,7 +44,7 @@
     },
     "2022": {
       "1": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 1,
         "total_gasto": 931965.0,
         "top_3_empresas": [],
@@ -53,12 +53,12 @@
         ]
       },
       "resumo": {
-        "num_diarios": 98,
-        "num_contratos": 87,
-        "total_gasto": 8877431.14
+        "num_diarios": 96,
+        "num_contratos": 97,
+        "total_gasto": 13125668.14
       },
       "2": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 825513.88,
         "top_3_empresas": [],
@@ -66,8 +66,8 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 28600.0,
+        "num_contratos": 3,
+        "total_gasto": 2510280.0,
         "top_3_empresas": [
           "ANTONIO\nFARIAS BRITO"
         ],
@@ -77,8 +77,8 @@
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 492503.19999999995,
+        "num_contratos": 12,
+        "total_gasto": 2227420.2,
         "top_3_empresas": [
           "CJ COMERCIO DE PNEUS, PECAS E\n\nSERVICOS EIRELI",
           "GLOBAL\n\nAUTO SERVICE EIRELI"
@@ -128,8 +128,8 @@
       },
       "9": {
         "num_diarios": 14,
-        "num_contratos": 13,
-        "total_gasto": 921281.0,
+        "num_contratos": 15,
+        "total_gasto": 952921.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -188,14 +188,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 98,
-        "num_contratos": 126,
-        "total_gasto": 13495837.299999997
+        "num_diarios": 96,
+        "num_contratos": 137,
+        "total_gasto": 13792074.299999997
       },
       "2": {
-        "num_diarios": 11,
-        "num_contratos": 38,
-        "total_gasto": 3171490.55,
+        "num_diarios": 10,
+        "num_contratos": 49,
+        "total_gasto": 3467727.55,
         "top_3_empresas": [
           "ECOSOLO GESTAO\n\nAMBIENTAL DE RESIDUOS LTDA"
         ],
@@ -216,7 +216,7 @@
         ]
       },
       "4": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 7,
         "total_gasto": 942379.5,
         "top_3_empresas": [],
@@ -312,9 +312,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 110,
+        "num_diarios": 108,
         "num_contratos": 202,
-        "total_gasto": 36363433.080000006
+        "total_gasto": 36366933.080000006
       },
       "2": {
         "num_diarios": 10,
@@ -363,17 +363,18 @@
         ]
       },
       "6": {
-        "num_diarios": 7,
-        "num_contratos": 7,
-        "total_gasto": 285000.0,
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 250000.0,
         "top_3_empresas": [
-          "BARRETO E SILVA PRODUCOES\n\nARTISTICAS E SERVICOS LTDA",
-          ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Natuba e: CT Nº\n\n00057/2023 - Compacta Construcoes, Servicos e Locacoes Ltda -"
+          "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+          "JOSIVALDO INACIO DA SILVA",
+          "FRANCISCO S DA COSTA JUNIOR"
         ],
         "top_3_objetos": [
-          "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO D2\", para as festividades juninas do Município de Natuba –\n\nPB",
-          "CONSTRUÇÃO DO MURO DE FECHAMENTO DA\n\nCRECHE/PRÉ ESCOLA – TIPO 1 – PADRÃO FNDE NA SEDE\n\nDO MUNICÍPIO DE NATUBA/PB",
-          "Execução dos serviços remanescentes da creche/pré-escola\n\n(1012764) – Tipo 1 – Padrão FNDE na sede do Município de Natuba,\n\nconforme especificações do Projeto Básico"
+          "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+          "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+          "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB"
         ]
       },
       "7": {
@@ -404,17 +405,21 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 53,
-        "total_gasto": 2871644.1799999997,
+        "num_contratos": 54,
+        "total_gasto": 2910144.1799999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 2,
         "total_gasto": 1641878.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "MARCOPOLO SA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de ÔNIBUS RURAL ESCOLAR DO TIPO\n\nORE 4X4, através de Adesão a ATA DE REGISTRO DE PREÇO do\n\nPregão Eletrônico 0006/2023, para suprir as necessidades da\n\nSecretaria de Educação do Município de NATUBA–PB"
+        ]
       },
       "11": {
         "num_diarios": 9,
@@ -441,9 +446,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 322,
-    "num_contratos": 428,
-    "total_gasto": 60138687.64,
+    "num_diarios": 316,
+    "num_contratos": 449,
+    "total_gasto": "64.686.661,64",
     "top_5_empresas": {
       "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA": 2,
       "ELLY MARTINS NORAT": 1,

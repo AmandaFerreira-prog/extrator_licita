@@ -11,14 +11,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 66,
-        "num_contratos": 42,
-        "total_gasto": 1194718.5999999999
+        "num_diarios": 64,
+        "num_contratos": 33,
+        "total_gasto": 817276.1
       },
       "6": {
-        "num_diarios": 3,
-        "num_contratos": 8,
-        "total_gasto": 366442.5,
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 25000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -51,9 +51,9 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 13,
-        "num_contratos": 10,
-        "total_gasto": 486968.23,
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 450968.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -67,9 +67,9 @@
     },
     "2019": {
       "1": {
-        "num_diarios": 14,
-        "num_contratos": 25,
-        "total_gasto": 1194509.3499999999,
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 1129407.75,
         "top_3_empresas": [
           "CT Nº\n\n00015/2019",
           "CT Nº 00016/2019",
@@ -82,9 +82,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 144,
-        "num_contratos": 144,
-        "total_gasto": 8299650.860000001
+        "num_diarios": 141,
+        "num_contratos": 140,
+        "total_gasto": 8206549.260000002
       },
       "2": {
         "num_diarios": 14,
@@ -101,11 +101,18 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 14,
         "total_gasto": 360733.9,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "FRANCISCO\nELVIRO FILHO",
+          "CT Nº 00068/2019 -\n25.03.19",
+          "CT Nº 00069/2019"
+        ],
+        "top_3_objetos": [
+          "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+          "REGISTRO DE PREÇOS para fornecimento de gêneros\nalimentícios, destinados em pequenas doações a famílias carente do\nmunicípio de Bernardino Batista/PB"
+        ]
       },
       "5": {
         "num_diarios": 18,
@@ -156,9 +163,9 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 6,
-        "total_gasto": 142215.49,
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 114215.48999999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -172,14 +179,14 @@
     },
     "2020": {
       "1": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 34,
         "total_gasto": 1883834.9099999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 143,
+        "num_diarios": 140,
         "num_contratos": 126,
         "total_gasto": 6595769.169999999
       },
@@ -240,14 +247,14 @@
         ]
       },
       "8": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 2,
         "total_gasto": 75100.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 10,
         "total_gasto": 776655.61,
         "top_3_empresas": [],
@@ -277,16 +284,16 @@
     },
     "2021": {
       "1": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 161,
-        "num_contratos": 123,
-        "total_gasto": 6396902.579999999
+        "num_diarios": 158,
+        "num_contratos": 121,
+        "total_gasto": 6368902.579999999
       },
       "2": {
         "num_diarios": 16,
@@ -349,9 +356,9 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 15,
-        "num_contratos": 3,
-        "total_gasto": 63266.67,
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 35266.67,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -379,7 +386,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 152,
+        "num_diarios": 150,
         "num_contratos": 202,
         "total_gasto": 12884565.89
       },
@@ -432,14 +439,14 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 1,
         "total_gasto": 1035042.27,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 33,
         "total_gasto": 1574524.24,
         "top_3_empresas": [],
@@ -469,16 +476,16 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 23,
         "total_gasto": 3238331.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 161,
-        "num_contratos": 190,
-        "total_gasto": 11169111.35
+        "num_diarios": 157,
+        "num_contratos": 235,
+        "total_gasto": 16328900.09
       },
       "2": {
         "num_diarios": 11,
@@ -496,13 +503,13 @@
       },
       "4": {
         "num_diarios": 14,
-        "num_contratos": 9,
-        "total_gasto": 149527.0,
+        "num_contratos": 53,
+        "total_gasto": 5279315.739999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 13,
+        "num_diarios": 10,
         "num_contratos": 59,
         "total_gasto": 2049717.39,
         "top_3_empresas": [],
@@ -510,8 +517,8 @@
       },
       "6": {
         "num_diarios": 15,
-        "num_contratos": 8,
-        "total_gasto": 1179000.1,
+        "num_contratos": 9,
+        "total_gasto": 1209000.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -564,21 +571,21 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 10,
+        "num_diarios": 8,
         "num_contratos": 29,
         "total_gasto": 3562133.6999999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 136,
-        "num_contratos": 200,
-        "total_gasto": 21765253.97
+        "num_diarios": 133,
+        "num_contratos": 197,
+        "total_gasto": 21134368.89
       },
       "2": {
-        "num_diarios": 15,
-        "num_contratos": 4,
-        "total_gasto": 641255.08,
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 10370.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -660,22 +667,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 963,
-    "num_contratos": 1027,
-    "total_gasto": 68305972.42,
+    "num_diarios": 943,
+    "num_contratos": 1054,
+    "total_gasto": "72.336.331,98",
     "top_5_empresas": {
       "CT Nº\n\n00015/2019": 1,
       "CT Nº 00016/2019": 1,
       "CT Nº\n\n00020/2019": 1,
-      "ANTONIO ARNALDO PINHEIRO": 1,
-      "MARIA SILVÉRIO BEZERRA": 1
+      "FRANCISCO\nELVIRO FILHO": 1,
+      "CT Nº 00068/2019 -\n25.03.19": 1
     },
     "top_5_objetos": {
       "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde materiais didáticos e de expediente, destinados a manutenção de\n\ndiversas secretarias do município de Bernardino Batista/PB": 1,
       "REGISTRO DE PREÇOS para a confecção de materiais\n\ngráficos e formulários padronizados, destinados a diversas Secretarias\n\ndo município de Bernardino Batista/PB": 1,
       "REGISTRO DE PREÇOS para aquisição de forma\n\nparcelada de pneus e acessórios novos de primeira linha de fabricação,\n\ndestinados a manutenção dos veículos pertencentes a Prefeitura\n\nMunicipal de Bernardino Batista/PB": 1,
-      "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB": 1,
-      "Contratação de empresa para locação de uma caçamba,\ntrucada, com capacidade mínima de 12 m³, para atender as\nnecessidades da Secretaria de Obras e Serviços Urbanos, durante a\nexecução dos serviços de pavimentação em diversos logradouros do\nmunicípio de Bernardino Batista/PB": 1
+      "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB": 1,
+      "REGISTRO DE PREÇOS para fornecimento de gêneros\nalimentícios, destinados em pequenas doações a famílias carente do\nmunicípio de Bernardino Batista/PB": 1
     }
   }
 }

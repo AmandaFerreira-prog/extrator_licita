@@ -17,34 +17,42 @@
         ]
       },
       "resumo": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 15,
         "total_gasto": 3314140.31
       },
       "12": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 12,
         "total_gasto": 2943108.31,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "F. IVO DE MACEDO PRODUCAO\nDE EVENTOS DE FESTAS LTDA",
+          "M&S ENTRETENIMENTO LTDA",
+          "ANTONIO AECIO DA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DA EMPRESA F",
+          "CONTRATAÇÃO DA EMPRESA M&S\nENTRETENIMENTO LTDA INSCRITA NO CNPJ SOB Nº\n31.776.314/0001–04, REPRESENTANTE EXCLUSIVA DA\nARTISTA MICHELE ANDRADE PARA APRESENTAÇÃO DE\nSHOW ARTISTICO EM PRAÇA PÚBLICA, NAS FESTIVIDADES\nALUSIVAS A FESTA DE EMANCIPAÇÃO POLITICA DO\nMUNICIPIO DE RIACHO DOS CAVALOS/PB, À SER\nREALIZADO NO DIA 28 DE DEZEMBRO DE 2023, CONFORME\nPROPOSTA",
+          "SISTEMA DE REGISTRO DE PREÇO–SRP PARA\nFUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA\nESPECIALIZADA PARA LOCAÇÃO DE ESTRUTURA DE SOM,\nPALCO, ILUMINAÇÃO, SONORIZAÇÃO, TENDAS E\nESTRUTURAS COMPLEMENTARES, A SEREM UTILIZADOS\nNOS EVENTOS DO MUNICÍPIO DE RIACHO DOS\nCAVALOS/PB"
+        ]
       }
     },
     "2024": {
       "1": {
-        "num_diarios": 11,
-        "num_contratos": 5,
-        "total_gasto": 8766588.93,
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 8528245.34,
         "top_3_empresas": [
-          "ID CONSTRUCOES LTDA"
+          "SILVEIRA & CAVALCANTI -\n\nENERGIA SOLAR COMERCIO E SERVICOS LTDA"
         ],
         "top_3_objetos": [
-          "Contratação de empresa especializada no ramo da\n\nconstrução civil para serviço de reforma da Unidade Básica de Saúde\n\n– Josivan Pimenta da Silva em Riacho dos Cavalos/PB, conforme\n\nTermo de Referencia"
+          "Registro de Preço para contratação de empresa\n\nespecializada em Execução de projeto de eficiência energética através\n\nde fonte incentivada para os prédios públicos do município de Riacho\n\ndos Cavalos/PB, conforme Termo de Referencia"
         ]
       },
       "resumo": {
-        "num_diarios": 124,
-        "num_contratos": 110,
-        "total_gasto": 29382424.340000004
+        "num_diarios": 121,
+        "num_contratos": 109,
+        "total_gasto": 29144080.750000004
       },
       "2": {
         "num_diarios": 8,
@@ -99,7 +107,7 @@
         ]
       },
       "7": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 11,
         "total_gasto": 2329754.42,
         "top_3_empresas": [
@@ -160,22 +168,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 141,
-    "num_contratos": 125,
-    "total_gasto": 32696564.65,
+    "num_diarios": 137,
+    "num_contratos": 124,
+    "total_gasto": "32.458.221,06",
     "top_5_empresas": {
       "LIVMED MATERIAIS E\n\nEQUIPAMENTOS HOSPITALARES LTDA": 1,
       "CONSTRUTORA E LIMPEZA URBANA DANTAS LTDA": 1,
-      "ID CONSTRUCOES LTDA": 1,
-      "PAVANELLY\n\nPRODUCOES E ENTRETENIMENTOS LTDA": 1,
-      "NILDO FREITAS DANTAS": 1
+      "F. IVO DE MACEDO PRODUCAO\nDE EVENTOS DE FESTAS LTDA": 1,
+      "M&S ENTRETENIMENTO LTDA": 1,
+      "ANTONIO AECIO DA SILVA": 1
     },
     "top_5_objetos": {
       "Contratação de empresa para aquisição de\n\nmaterial/equipamentos de fisioterapia para academia de saúde,\n\nvisando atender as necessidades da Secretaria Municipal de Saúde": 1,
       "Contratação de empresa para locação de caminhão\n\nbasculante para atender demandas da Secretaria Municipal de\n\nInfraestrutura da Camara Municipal de Bom Sucesso/PB": 1,
-      "Contratação de empresa especializada no ramo da\n\nconstrução civil para serviço de reforma da Unidade Básica de Saúde\n\n– Josivan Pimenta da Silva em Riacho dos Cavalos/PB, conforme\n\nTermo de Referencia": 1,
-      "Contratação de atração artística através de empresário\n\nexclusivo da artista Mara Pavanelly para realização de show nas\n\ncomemorações do Tradicional São João de Riacho dos Cavalos/PB, a\n\nser realizado no dia 25/06/2024": 1,
-      "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EXECUTAR A REFORMA DAS UNIDADES BÁSICAS DE\n\nSAÚDE: MARIA GERALDINA DE LIMA, JOSIVAN PIMENTA\n\nDA SILVA E EUNICE MAIA DE VASCONCELOS NO\n\nMUNICÍPIO DE RIACHO DOS CAVALOS/PB - CONVÊNIO\n\n0204/2021 - GOVERNO DO ESTADO DA PARAÍBA": 1
+      "CONTRATAÇÃO DA EMPRESA F": 1,
+      "CONTRATAÇÃO DA EMPRESA M&S\nENTRETENIMENTO LTDA INSCRITA NO CNPJ SOB Nº\n31.776.314/0001–04, REPRESENTANTE EXCLUSIVA DA\nARTISTA MICHELE ANDRADE PARA APRESENTAÇÃO DE\nSHOW ARTISTICO EM PRAÇA PÚBLICA, NAS FESTIVIDADES\nALUSIVAS A FESTA DE EMANCIPAÇÃO POLITICA DO\nMUNICIPIO DE RIACHO DOS CAVALOS/PB, À SER\nREALIZADO NO DIA 28 DE DEZEMBRO DE 2023, CONFORME\nPROPOSTA": 1,
+      "SISTEMA DE REGISTRO DE PREÇO–SRP PARA\nFUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA\nESPECIALIZADA PARA LOCAÇÃO DE ESTRUTURA DE SOM,\nPALCO, ILUMINAÇÃO, SONORIZAÇÃO, TENDAS E\nESTRUTURAS COMPLEMENTARES, A SEREM UTILIZADOS\nNOS EVENTOS DO MUNICÍPIO DE RIACHO DOS\nCAVALOS/PB": 1
     }
   }
 }

@@ -1,0 +1,500 @@
+{
+  "id": "curral-velho",
+  "nome": "Curral Velho",
+  "detalhe": {
+    "2021": {
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 894500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de combustíveis, destinados à frota de veículos do\n\nmunicípio de Curral Velho – PB",
+            "empresa": "COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES ITAPORANGUESE LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 78,
+        "num_contratos": 123,
+        "total_gasto": 10341509.83
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 133962.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de dedetização, desratização, descupinização,\ndesincetização e desalojamento de aves e morcegos, nas áreas\nexternas e internas em 19 prédios públicos da cidade de Curral Velho–\nPB",
+            "empresa": "ORLANDO DE SOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de higienização, sanitização e desinfecção em\n19 prédios públicos da cidade de Curral Velho–PB",
+            "empresa": "ORLANDO DE SOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Aquisição de material de expediente, destinado as diversas\nsecretarias do Município de Curral Velho – PB",
+            "empresa": "ORLANDO DE SOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Prestação de Serviços funerários para a Prefeitura do\nMunicípio de Curral Velho–PB",
+            "empresa": "ORLANDO DE SOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de dedetização, desratização, descupinização,\ndesincetização e desalojamento de aves e morcegos, nas áreas\nexternas e internas em 19 prédios públicos da cidade de Curral Velho–\nPB",
+            "empresa": "ORLANDO DE\nSOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de higienização, sanitização e desinfecção em\n19 prédios públicos da cidade de Curral Velho–PB",
+            "empresa": "ORLANDO DE\nSOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Aquisição de material de expediente, destinado as diversas\nsecretarias do Município de Curral Velho – PB",
+            "empresa": "ORLANDO DE\nSOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Prestação de Serviços funerários para a Prefeitura do\nMunicípio de Curral Velho–PB",
+            "empresa": "ORLANDO DE\nSOUSA LEMOS",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de dedetização, desratização, descupinização,\ndesincetização e desalojamento de aves e morcegos, nas áreas\nexternas e internas em 19 prédios públicos da cidade de Curral Velho–\nPB",
+            "empresa": "RONALDO PAIVA\nNUNES",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de higienização, sanitização e desinfecção em\n19 prédios públicos da cidade de Curral Velho–PB",
+            "empresa": "RONALDO PAIVA\nNUNES",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Aquisição de material de expediente, destinado as diversas\nsecretarias do Município de Curral Velho – PB",
+            "empresa": "RONALDO PAIVA\nNUNES",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Prestação de Serviços funerários para a Prefeitura do\nMunicípio de Curral Velho–PB",
+            "empresa": "RONALDO PAIVA\nNUNES",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de dedetização, desratização, descupinização,\ndesincetização e desalojamento de aves e morcegos, nas áreas\nexternas e internas em 19 prédios públicos da cidade de Curral Velho–\nPB",
+            "empresa": "LUCIANO ALVES DE LIMA",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nexecução dos serviços de higienização, sanitização e desinfecção em\n19 prédios públicos da cidade de Curral Velho–PB",
+            "empresa": "LUCIANO ALVES DE LIMA",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Aquisição de material de expediente, destinado as diversas\nsecretarias do Município de Curral Velho – PB",
+            "empresa": "LUCIANO ALVES DE LIMA",
+            "valor_total": "R$ 133,962.10"
+          },
+          {
+            "objeto": "Prestação de Serviços funerários para a Prefeitura do\nMunicípio de Curral Velho–PB",
+            "empresa": "LUCIANO ALVES DE LIMA",
+            "valor_total": "R$ 133,962.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1479579.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 630764.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 946207.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 2046117.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços como Engenheiro Civil, no\n\nacompanhamento e fiscalização das obras, em regime de execução\n\ndireta e indireta administrativa pela Secretaria de Infra Estrutura de\n\nCurral Velho, na emissão de boletins de medições, na elaboração de\n\nlaudos técnicos a edificações e outras obrigações inerentes a assuntos\n\nligados a engenharia civil",
+            "empresa": "PABLO RYAN DOMINGOS PEREIRA DE\n\nCARVALHO",
+            "valor_total": "R$ 14,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 951151.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 1409993.9200000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 658749.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 501234.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 689249.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 8,
+        "total_gasto": 346920.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 117,
+        "num_contratos": 155,
+        "total_gasto": 17247358.33
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 14,
+        "total_gasto": 1862470.0,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de uma ambulância 0km de simples remoção para o\n\nfundo municipal de saúde do município de Emas–PB atendendo, o\n\nconvenio estadual n°00096/2021",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 124,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 29,
+        "total_gasto": 3318374.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 768230.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 22,
+        "total_gasto": 3229515.8899999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 644655.9299999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa especializada para\n\nprestar fornecimento de combustíveis na sede do município e em\n\ntrânsito entre as cidades de Patos à João Pessoa na BR–230, para os\n\ndiversos veículos do Fundo Municipal de Saúde de Curral Velho/PB,\n\nconforme termo de referência",
+            "empresa": "POSTO DIESEL SAO\n\nJOSE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de uma empresa especializada para\n\nprestar fornecimento de combustíveis na sede do município e em\n\ntrânsito entre as cidades de Patos à João Pessoa na BR–230, para os\n\nveículos das diversas secretarias da Prefeitura do Município de Curral\n\nVelho/PB, conforme termo de referência",
+            "empresa": "POSTO\n\nDIESEL SAO JOSE LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 13,
+        "total_gasto": 896800.2899999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa especializada para prestar fornecimento\n\nde material de expediente e escritório para às diversas secretarias da\n\nPrefeitura do Município de Curral Velho/PB, conforme termo de\n\nreferência",
+            "empresa": "LGNET\n\nSERVICOS DE TELECOMUNICACOES LTDA",
+            "valor_total": "R$ 583,343.44"
+          },
+          {
+            "objeto": "Contratação de uma empresa especializada para prestar\n\nfornecimento de material de expediente e escritório para às diversas\n\nsecretarias da Prefeitura do Município de Curral Velho/PB, conforme\n\ntermo de referência",
+            "empresa": "LGNET\n\nSERVICOS DE TELECOMUNICACOES LTDA",
+            "valor_total": "R$ 583,343.44"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\ntransmissão de internet para diversos setores pertencentes à Prefeitura\n\ndo Município de Curral Velho–PB, conforme termo de referência",
+            "empresa": "LGNET\n\nSERVICOS DE TELECOMUNICACOES LTDA",
+            "valor_total": "R$ 583,343.44"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 3124608.1300000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 1647822.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 5951.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 823394.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 578615.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 20,
+        "total_gasto": 3659317.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 105,
+        "num_contratos": 237,
+        "total_gasto": 38319766.37
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 25,
+        "total_gasto": 2210664.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 15,
+        "total_gasto": 3754905.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 215543.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 52,
+        "total_gasto": 11405943.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 19,
+        "total_gasto": 2969649.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 15,
+        "total_gasto": 854883.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 30,
+        "total_gasto": 5056684.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 20,
+        "total_gasto": 3399935.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 1848400.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 2943839.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 13113809.219999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 92,
+        "num_contratos": 149,
+        "total_gasto": 36611630.26
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 38,
+        "total_gasto": 6391181.410000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 23,
+        "total_gasto": 3676796.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1590973.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 2688790.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 602057.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 4037119.6199999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis para abastecimento\n\nda frota de veículos do Fundo Municipal de Saúde de Curral\n\nVelho/PB, em trânsito na BR 230 na região entre as cidades de Patos e\n\nSoledade, durante o ano de 2024, conforme termo de referência",
+            "empresa": "POSTO DIESEL SAO JOSE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de uma empresa especializada para\n\nAquisição de combustíveis para abastecimento da frota de veículos\n\ndas diversas secretarias da Prefeitura do Município de Curral\n\nVelho/PB, em trânsito na BR 230 na região entre as cidades de Patos e\n\nSoledade, durante o ano de 2024, conforme termo de referência",
+            "empresa": "POSTO DIESEL SAO JOSE LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 147382.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 1561226.2899999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1940313.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 509900.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 352079.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

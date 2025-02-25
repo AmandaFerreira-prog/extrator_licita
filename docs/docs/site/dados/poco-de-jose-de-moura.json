@@ -11,9 +11,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 29,
-        "num_contratos": 19,
-        "total_gasto": 5813990.890000001
+        "num_diarios": 28,
+        "num_contratos": 18,
+        "total_gasto": 5699490.890000001
       },
       "3": {
         "num_diarios": 7,
@@ -69,14 +69,18 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 2,
-        "num_contratos": 11,
-        "total_gasto": 2808591.64,
+        "num_diarios": 1,
+        "num_contratos": 10,
+        "total_gasto": 2694091.64,
         "top_3_empresas": [
-          "DICAL\n\nDISTRIBUIDORA DE VEÍCULOS CAJAZEIRAS LTDA"
+          "AUCLEIDE BATISTA DE\n\nOLIVEIRA",
+          "EVERALDO FERREIRA DE ALMEIDA",
+          "ANTONIO BENEVENUTO DE ALENCAR"
         ],
         "top_3_objetos": [
-          "Contratação de pessoa jurídica especializada para aquisição\n\nde um veículo novo, tipo pick up, sem uso anterior, destinados a\n\nmanutenção das atividades da Secretaria de Educação do Município\n\nde Poço José de Moura"
+          "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ngêneros alimentícios, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço José de Moura",
+          "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nmateriais de limpeza, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço de José de Moura",
+          "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura"
         ]
       },
       "12": {
@@ -96,9 +100,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 88,
-        "num_contratos": 71,
-        "total_gasto": 8996578.830000002
+        "num_diarios": 85,
+        "num_contratos": 74,
+        "total_gasto": 13292045.26
       },
       "2": {
         "num_diarios": 3,
@@ -128,8 +132,8 @@
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 11,
-        "total_gasto": 1725998.7,
+        "num_contratos": 12,
+        "total_gasto": 1769790.7,
         "top_3_empresas": [
           "RENOVE LTDA"
         ],
@@ -145,14 +149,14 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 13,
-        "total_gasto": 2023937.65,
+        "total_gasto": 6220412.53,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 16,
         "total_gasto": 1204974.45,
         "top_3_empresas": [
@@ -166,13 +170,13 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 675789.0700000001,
+        "num_contratos": 12,
+        "total_gasto": 730988.6200000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 1,
         "total_gasto": 72000.0,
         "top_3_empresas": [],
@@ -205,22 +209,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 117,
-    "num_contratos": 90,
-    "total_gasto": 14810569.72,
+    "num_diarios": 113,
+    "num_contratos": 92,
+    "total_gasto": "18.991.536,15",
     "top_5_empresas": {
       "ATIVA LABORATORIOS\n\nCRIATIVOS EDUCACIONAIS LTDA": 1,
-      "DICAL\n\nDISTRIBUIDORA DE VEÍCULOS CAJAZEIRAS LTDA": 1,
-      "GALVAO MAGAZINE LTDA": 1,
-      "ELIANE DO\n\nNASCIMENTO CAMPOS": 1,
-      "RENOVE LTDA": 1
+      "AUCLEIDE BATISTA DE\n\nOLIVEIRA": 1,
+      "EVERALDO FERREIRA DE ALMEIDA": 1,
+      "ANTONIO BENEVENUTO DE ALENCAR": 1,
+      "GALVAO MAGAZINE LTDA": 1
     },
     "top_5_objetos": {
       "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ne execução de kit de “Laboratórios de aprendizagem criativa maker”,\n\nque consiste em fornecimento de kits maker educacional, formação de\n\neducadores através capacitação presencial e EAD (Ensino a Distância)\n\ncom atividades práticas e material de apoio com carga horária de 40\n\nhoras e soluções digitais de apoio vinculados ao projeto para a Rede\n\nMunicipal de Ensino do Município de Poço José de Moura": 1,
-      "Contratação de pessoa jurídica especializada para aquisição\n\nde um veículo novo, tipo pick up, sem uso anterior, destinados a\n\nmanutenção das atividades da Secretaria de Educação do Município\n\nde Poço José de Moura": 1,
-      "REGISTRO DE PREÇOS para aquisição de materiais\n\ndidáticos e de expediente, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas Secretarias do Município de\n\nPoço José de Moura": 1,
-      "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde Livros Didáticos para EJA, de acordo com a demanda da Secretaria\n\nde Educação do Município de Poço José de Moura": 1,
-      "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB": 1
+      "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ngêneros alimentícios, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço José de Moura": 1,
+      "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nmateriais de limpeza, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço de José de Moura": 1,
+      "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura": 1,
+      "REGISTRO DE PREÇOS para aquisição de materiais\n\ndidáticos e de expediente, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas Secretarias do Município de\n\nPoço José de Moura": 1
     }
   }
 }

@@ -1,0 +1,679 @@
+{
+  "id": "arara",
+  "nome": "Arara",
+  "detalhe": {
+    "2018": {
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 34,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 30,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 39,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 38,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município",
+            "empresa": "MAC\n\nCONSTRUTORA EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município",
+            "empresa": "MAC\n\nCONSTRUTORA EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 114,
+        "num_contratos": 59,
+        "total_gasto": 4827742.97
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 915615.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 1215601.12,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios, destinados a\n\nmerenda escolar da rede municipal de ensino, creches, municipal e\n\ndemais programas federais",
+            "empresa": "JCASIF COMERCIO VAREJISTA\n\nDE CEREAIS LTDA",
+            "valor_total": "R$ 8,928.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 617516.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 735441.5499999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada no fornecimento de\ngás oxigênio medicinal, para atender as necessidades da secretaria\nmunicipal de saúde deste Município de Arara PB",
+            "empresa": "ALEXSANDRO SANTOS DA SILVA\nLTDA",
+            "valor_total": "R$ 17,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 722964.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para o fornecimento\n\nPARCELADO de tubos de concreto, PVC e acessórios, destinados\n\naos serviços complementares à obra de esgotamento da Rua Natanael\n\nBarbosa neste Município",
+            "empresa": "G & E REPRESENTACAO E\n\nCOMERCIO DE MATERIAL DE CONSTRUCAO EIRELI",
+            "valor_total": "R$ 94,450.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 518271.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA DO RAMO\n\nPERTINENTE PARA EXECUÇÃO DOS SERVIÇOS DE\n\nCONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE DA\n\nFAMÍLIA (UBSF) - PORTE I, NO MUNICÍPIO DE ARARA/PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00026/2022 - N & S Construções e Projetos LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 102333.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de móveis e outros equipamentos destinados a\n\nCâmara Municipal de Arara, conforme especificações no Termo de\n\nReferência",
+            "empresa": "KALCULUS COMERCIO DE MOVEIS E MAQ. PARA\n\nESCRITORIO LTDA",
+            "valor_total": "R$ 48,933.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 31,
+        "total_gasto": 3417319.4000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 149,
+        "num_contratos": 151,
+        "total_gasto": 17556620.62
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 26,
+        "total_gasto": 1181806.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 2465695.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 20,
+        "total_gasto": 1004935.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 5400746.290000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB",
+            "empresa": "GUEDES COMERCIO DE\n\nMATERIAL DE CONSTRUCAO LTDA",
+            "valor_total": "R$ 495,310.40"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB",
+            "empresa": "POLIBIO MORAES DE SOUZA",
+            "valor_total": "R$ 495,310.40"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB",
+            "empresa": "ANDREZ OLIVEIRA -\n\nR$ 377.028,00; CT Nº 00172/2024 - 16.05.24 - ATRIUM\n\nINDUSTRIA E COMERCIO DE FERRAGENS LTDA",
+            "valor_total": "R$ 495,310.40"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB",
+            "empresa": "CENTRAL ATACADO\n\nLTDA",
+            "valor_total": "R$ 495,310.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 1987876.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de carnes, frangos e peixes, destinados\n\nao Hospital Municipal, Merenda Escolar, Creches Municipal e demais\n\nsetores da Administração Municipal para o ano de 2024",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00008/2024 - Guva Alimentos LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA DO RAMO\n\nPERTINENTE PARA EXECUÇÃO DOS SERVIÇOS DE\n\nCONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE DA\n\nFAMÍLIA (UBSF) - PORTE I, NO MUNICÍPIO DE ARARA/PB",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00026/2022 - N & S Construções e Projetos Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 771873.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 583868.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 512500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis para abastecimento da frota de\nveículos da Prefeitura de Arara PB e veículos locados, durante o ano\nde 2024",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nArara e: CT Nº 00006/2024 - Cavalcante e Silva LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 230000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de medicamentos de A a Z da linha\n\nfarma referência, genérico e similar, através da oferta de maior\n\nporcentagem de desconto sobre a tabela da ABCFarma, última edição\n\ne atualizada, com pronta entrega, para a distribuição com pessoas\n\ncarentes, através da Secretaria Municipal de Saúde deste Município",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00112/2024 - Rede Doutor Farma Comercio de Medicamentos Ltda -",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00171/2024",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos de A a Z da linha\n\nfarma referência, genérico e similar, através da oferta de maior\n\nporcentagem de desconto sobre a tabela da ABCFarma, última edição\n\ne atualizada, com pronta entrega, para a distribuição com pessoas\n\ncarentes, através da Secretaria Municipal de Saúde deste Município",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00110/2024 - Comercial de Medicamentos Pedrosa Ltda.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos de A a Z da linha\n\nfarma referência, genérico e similar, através da oferta de maior\n\nporcentagem de desconto sobre a tabela da ABCFarma, última edição\n\ne atualizada, com pronta entrega, para a distribuição com pessoas\n\ncarentes, através da Secretaria Municipal de Saúde deste Município",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00111/2024",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material médico hospitalar,\n\ndestinados ao Hospital Municipal Natanael Alves e as UBS‟s/ESF‟s\n\ndeste Município, conforme especificações no Termo de Referência",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00121/2024 - Atacamed Comercio de Produtos Farmaceuticos e\n\nHospitalares LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecer, de forma parcelada,\n\nmateriais odontológicos, destinados aos ESF´s, deste Município de\n\nArara PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nArara e: CT Nº 00140/2024 - Atacamed Comercio de Produtos\n\nFarmaceuticos e Hospitalares Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos injetáveis para suprir\n\nas necessidades do Fundo Municipal de Saúde deste Município de\n\nArara PB, conforme Termo de Referência",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Arara e: CT Nº 00083/2024 - Atacamed\n\nComercio de Produtos Farmaceuticos e Hospitalares Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecer, de forma parcelada,\n\nmateriais odontológicos, destinados aos ESF´s, deste Município de\n\nArara PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nArara e: CT Nº 00148/2024 - K C L Costa Comercio Atacadista de\n\nMaterial Hospitalar Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

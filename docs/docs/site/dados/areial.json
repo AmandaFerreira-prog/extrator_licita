@@ -11,7 +11,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 43,
+        "num_diarios": 42,
         "num_contratos": 57,
         "total_gasto": 1221855.51
       },
@@ -30,7 +30,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 6,
         "total_gasto": 266227.55,
         "top_3_empresas": [],
@@ -40,22 +40,24 @@
         "num_diarios": 10,
         "num_contratos": 7,
         "total_gasto": 124719.0,
-        "top_3_empresas": [],
+        "top_3_empresas": [
+          "S NOS ITENS 1 E 7.\n\nFUNDAMENTO LEGAL: ARTIGO 65, INCISO II, PARÁGRAFO\n\n1º, DA LEI 8.666/93; TERMO ADITIVO AO CONTRATO Nº\n\n10140/2021-CPL"
+        ],
         "top_3_objetos": []
       }
     },
     "2022": {
       "1": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 7,
         "total_gasto": 1635645.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 136,
-        "num_contratos": 238,
-        "total_gasto": 18317536.299999993
+        "num_diarios": 132,
+        "num_contratos": 237,
+        "total_gasto": 17451068.53999999
       },
       "2": {
         "num_diarios": 9,
@@ -69,9 +71,9 @@
         ]
       },
       "3": {
-        "num_diarios": 13,
-        "num_contratos": 22,
-        "total_gasto": 2796347.5599999996,
+        "num_diarios": 12,
+        "num_contratos": 21,
+        "total_gasto": 1929879.7999999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -118,15 +120,11 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
+        "num_diarios": 9,
         "num_contratos": 2,
         "total_gasto": 354000.0,
-        "top_3_empresas": [
-          "MAC\n\nCONSTRUTORA EIRELI"
-        ],
-        "top_3_objetos": [
-          "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município"
-        ]
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "10": {
         "num_diarios": 14,
@@ -156,7 +154,7 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 22,
         "total_gasto": 2784773.55,
         "top_3_empresas": [
@@ -167,14 +165,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 152,
-        "num_contratos": 111,
-        "total_gasto": 17345793.509999998
+        "num_diarios": 145,
+        "num_contratos": 107,
+        "total_gasto": 16335728.510000002
       },
       "2": {
-        "num_diarios": 10,
-        "num_contratos": 22,
-        "total_gasto": 4105014.4,
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 3189399.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -207,7 +205,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 11,
         "total_gasto": 1334358.55,
         "top_3_empresas": [
@@ -225,21 +223,21 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 1,
         "total_gasto": 511049.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 11,
-        "num_contratos": 7,
-        "total_gasto": 115429.52,
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 20979.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 6,
         "total_gasto": 762500.0,
         "top_3_empresas": [
@@ -274,9 +272,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 131,
-        "num_contratos": 102,
-        "total_gasto": 14081575.030000001
+        "num_diarios": 128,
+        "num_contratos": 100,
+        "total_gasto": 14067575.030000001
       },
       "2": {
         "num_diarios": 10,
@@ -305,14 +303,14 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 12,
-        "num_contratos": 6,
-        "total_gasto": 503378.0,
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 489378.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 5,
         "total_gasto": 723348.0,
         "top_3_empresas": [
@@ -384,22 +382,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 462,
-    "num_contratos": 508,
-    "total_gasto": 50966760.35,
+    "num_diarios": 447,
+    "num_contratos": 501,
+    "total_gasto": "49.076.227,59",
     "top_5_empresas": {
+      "S NOS ITENS 1 E 7.\n\nFUNDAMENTO LEGAL: ARTIGO 65, INCISO II, PARÁGRAFO\n\n1º, DA LEI 8.666/93; TERMO ADITIVO AO CONTRATO Nº\n\n10140/2021-CPL": 1,
       "SOUZAUTO LUB COMERCIO DE\nLUBRIFICANTES EIRELI": 1,
       "MC ALIMENTOS MINIMERCADO\n\nEIRELI": 1,
       "OLIVEIRA\n\n& EULALIO PRODUTOS DE LIMPEZA LTDA": 1,
-      "CARLOS ROBERTO PEREIRA DE\n\nOLIVEIRA": 1,
-      "MAC\n\nCONSTRUTORA EIRELI": 1
+      "CARLOS ROBERTO PEREIRA DE\n\nOLIVEIRA": 1
     },
     "top_5_objetos": {
       "Contratação de empresa para o fornecimento de\ncombustíveis e derivados de petróleo destinados ao abastecimento\ne/ou utilização em veículos, máquinas e equipamentos rodoviários\noficiais e/ou à serviço da Municipalidade via locação": 1,
       "Contratação de empresas para o fornecimento de material\n\nde limpeza destinado às diversas secretarias e departamentos do\n\nmunicipio de Areial": 1,
       "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A PRESTAÇÃO DE SERVIÇO DE CONFECÇÃO DE\n\nPRÓTESES DENTÁRIAS PARA ATENDER AOS USUÁRIOS DO\n\nSISTEMA MUNICIPAL DE SAÚDE": 1,
-      "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município": 1,
-      "Contratação de profissional do Setor Artístico para\n\napresentação da Banda \"Calcinha Preta\" no dia 31 de dezembro de\n\n2022 , festa de réveillon realizada em praça pública": 1
+      "Contratação de profissional do Setor Artístico para\n\napresentação da Banda \"Calcinha Preta\" no dia 31 de dezembro de\n\n2022 , festa de réveillon realizada em praça pública": 1,
+      "Contratação de\nempresa do ramo de engenharia para reforma e ampliação das\nUnidades Básicas de Saúde do Município, conforme especificações do\nProjeto Básico": 1
     }
   }
 }

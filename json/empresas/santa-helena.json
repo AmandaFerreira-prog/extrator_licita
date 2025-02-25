@@ -1,0 +1,193 @@
+{
+  "id": "santa-helena",
+  "nome": "Santa Helena",
+  "detalhe": {
+    "2023": {
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 2373176.6399999997
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 15,
+        "total_gasto": 369873.70999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 239700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 1763602.93,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE PORTAL TURISTICO DE ENTRADA DA CIDADE DE\n\nSANTA HELENA–PB, CONFORME PROJETO E\n\nESPECIFICAÇÕES ARQUITETONICA",
+            "empresa": "A L S\n\nCONSTRUCOES, SERVICOS E EVENTOS EIRELI",
+            "valor_total": "R$ 550,282.75"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA E\n\nAMPLIAÇÃO DA PRAÇA RAIMUNDO DE MOURA NONATO\n\nDO DISTRITO DE MELANCIAS EM SANTA HELENA – PB,\n\nCONFORME PLANO DE AÇÃO 09032023–2–041872",
+            "empresa": "T. A. FRANÇA SERVIÇOS",
+            "valor_total": "R$ 226,033.61"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO\n\nPERTINENTE PARA AMPLIAÇÃO DA UBS ANTONIO\n\nABRANTES DE LIMA LOCALIZADO NO DISTRITO DE\n\nVARZEA DA EMA, CONFORME PROPOSTA Nº\n\n11245.2870001/23–013",
+            "empresa": "ABIK ENGENHARIA E\n\nCONSULTORIA LTDA",
+            "valor_total": "R$ 756,786.57"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 630520.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 61,
+        "num_contratos": 150,
+        "total_gasto": 10802581.09
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 1581324.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 30,
+        "total_gasto": 1990574.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 22,
+        "total_gasto": 1059520.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO\nPERTINENTE PARA EXECUÇÃO DE SERVIÇOS DE\nPAVIMENTAÇÃO EM PARALELEPIPEDO EM DIVERSAS\nRUAS TODAS LOCALIZADAS NA SEDE DO MUNICIPIO",
+            "empresa": "G ARAUJO FERREIRA",
+            "valor_total": "R$ 338,024.76"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTO DESTINADOS AOS\nALUNOS DA NOVA CRECHE MUNICIPAL DO MUNICIPIO DE\nSANTA HELENA–PB",
+            "empresa": "ZENEIDE GONCALVES CARTAXO",
+            "valor_total": "R$ 9,950.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 1568987.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 21,
+        "total_gasto": 1600484.02,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO\n\nPERTINENTE PARA SERVIÇOS DE ASSESSORIA E\n\nACOMPANHAMENTO DE PROPOSTAS E PLANO DE\nTRABALHO JUNTO AOS MINISTERIOS RELACIONADOS A\n\nCONVENIOS E TERMOS DE PACTUAÇÕES",
+            "empresa": "IRAMILTON SATIRO DA\n\nNOBREGA",
+            "valor_total": "R$ 18,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 8,
+        "total_gasto": 283794.97,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAS ODONTOLOGICOS\n\nDIVERSOS, DE FORMA PARCELADA, DE ACORDO COM AS\n\nNECESSIDAES DO FUNDO MUNICIPAL DE SAÚDE DE SANTA\n\nHELAN–PB",
+            "empresa": "CT Nº 00093/2024 - 15.08.24 -\n\nJUARES LIMA DOS SANTOS",
+            "valor_total": "R$ 149,619.97"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAS ODONTOLOGICOS\n\nDIVERSOS, DE FORMA PARCELADA, DE ACORDO COM AS\n\nNECESSIDAES DO FUNDO MUNICIPAL DE SAÚDE DE SANTA\n\nHELAN–PB",
+            "empresa": "CT Nº 00095/2024 - 15.08.24 - PARAIBA SAÚDE E ODONTO\n\nLTDA",
+            "valor_total": "R$ 149,619.97"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAS ODONTOLOGICOS\n\nDIVERSOS, DE FORMA PARCELADA, DE ACORDO COM AS\n\nNECESSIDAES DO FUNDO MUNICIPAL DE SAÚDE DE SANTA\n\nHELAN–PB",
+            "empresa": "MIAMIMED\n\nPRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 149,619.97"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 149990.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE\n\nVEICULOS DO TIPO UTILITARIO COM CARROCERIA E\n\nTODOS OS EQUIPAMENTOS EXIGIDOS POR LEI, CONFORME\n\nREFERENCIAL",
+            "empresa": "RIO VALE\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 149,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 40,
+        "total_gasto": 1622395.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 314989.45,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÕES DE VEICULO",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 91,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

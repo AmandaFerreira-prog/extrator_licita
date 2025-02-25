@@ -1,0 +1,1566 @@
+{
+  "id": "malta",
+  "nome": "Malta",
+  "detalhe": {
+    "2019": {
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 24,
+        "num_contratos": 1,
+        "total_gasto": 359500.0
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 359500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 50,
+        "num_contratos": 11,
+        "total_gasto": 134264.0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 11,
+        "total_gasto": 134264.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "C DE A FERREIRA E CIA LTDA/EIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CAVALCANTI PRIMO VEICULOS LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "CMED DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "EDILANE CARVALHO ARAUJO",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "GDC DA SILVA COSTA ARAPONGAS",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Indrel Indústria de Refrigeração Londrinense Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 8.900,00 (Oito mil e Novecentos Reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "K.C.R.S COMERCIO DE EQUIPAMENTOS\nEIRELI",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "MARCOS JULIANO DA SILVA",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Nildo Freitas Dantas ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "RITA DE ANDRADE VIEIRA ME",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          },
+          {
+            "objeto": "Aquisição de equipamento e material permanente incluindo\num veículo automotor “0” km, destinados a unidade básica de saúde\nJOANA MARQUES NEVES e VEREADOR MANOEL FARIAS\nDINIZ",
+            "empresa": "Soldagas Comercio de Gases e Soldas Ltda\npermanente incluindo um veículo automotor “0” km, destinados a\nunidade básica de saúde JOANA MARQUES NEVES e VEREADOR\nMANOEL FARIAS DINIZ.\nVALOR GLOBAL: R$ 7.500,00 (Sete Mil e Quinhentos reais).\nDOTAÇÃO: As despesas para atender a esta licitação estão\nprogramadas em dotação orçamentária própria, prevista no orçamento\nda União para o exercício de 2020, na classificação abaixo:\nGestão/Unidade: 02.061 FUNDO MUNICIPAL DE SAÚDE Fonte:\nPROPOSTA DE AQUISIÇÃO DE EQUIPAMENTO/ MATERIAL\nPERMANENTE Nº. DA PROPOSTA: Nº.12460.136000/1170-01 e\n12460.136000/1170-03, FUNDO MUNICIPAL DE SAÚDE DE\nMALTA, Elemento de Despesa 44.90.52.001",
+            "valor_total": "R$ 134,264.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 69,
+        "num_contratos": 30,
+        "total_gasto": 4564061.34
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 16,
+        "total_gasto": 560902.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para execução dos\n\nserviços de obra para REFORMA DA CRECHE SALVELINA C",
+            "empresa": "F.J Construções e Serviços LTDA com o valor de\n\nR$ 142.646,81 (Cento e Quarenta e Dois Mil, Seiscentos e Quarenta e\n\nSeis Reais e Oitenta e Um Centavos), vencendo no item: 1;",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 11,
+        "total_gasto": 2376688.42,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "ASSIS VAZ INSTRUMENTOS MUSICAIS\nEIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "ASSIS VAZ INSTRUMENTOS MUSICAIS\nEIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "ASSIS VAZ INSTRUMENTOS MUSICAIS\nEIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "ASSIS VAZ INSTRUMENTOS MUSICAIS\nEIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "ASSIS VAZ INSTRUMENTOS MUSICAIS\nEIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "GS COMÉRCIO DE INSTRUMENTOS\nMUSICAIS EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "GS COMÉRCIO DE INSTRUMENTOS\nMUSICAIS EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "GS COMÉRCIO DE INSTRUMENTOS\nMUSICAIS EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "GS COMÉRCIO DE INSTRUMENTOS\nMUSICAIS EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "GS COMÉRCIO DE INSTRUMENTOS\nMUSICAIS EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "JOABE MARTINSON ME",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "JOABE MARTINSON ME",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "JOABE MARTINSON ME",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "JOABE MARTINSON ME",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "JOABE MARTINSON ME",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "STAGE MUSIC COMÉRCIO IMPORTAÇÃO\nE EXPORTAÇÃO EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "STAGE MUSIC COMÉRCIO IMPORTAÇÃO\nE EXPORTAÇÃO EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "STAGE MUSIC COMÉRCIO IMPORTAÇÃO\nE EXPORTAÇÃO EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "STAGE MUSIC COMÉRCIO IMPORTAÇÃO\nE EXPORTAÇÃO EIRELI",
+            "valor_total": "R$ 386,015.20"
+          },
+          {
+            "objeto": "Aquisição parcelada de instrumentos musicais com a\nfinalidade de atender as necessidades das Bandas Marciais e Fanfarras\ndo município de Malta-PB, conforme termo de referência em anexo\nao edital",
+            "empresa": "STAGE MUSIC COMÉRCIO IMPORTAÇÃO\nE EXPORTAÇÃO EIRELI",
+            "valor_total": "R$ 386,015.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1626470.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente termo aditivo ao\n\nContrato n.º 01.222/2021 o acréscimo de",
+            "empresa": "F.J CONTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Constitui objeto do presente termo\n\naditivo ao Contrato n.º 01.222/2021 o acréscimo de",
+            "empresa": "F.J CONTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 1251432.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 120,
+        "total_gasto": 8103057.12
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 46,
+        "total_gasto": 1904482.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 16,
+        "total_gasto": 527515.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO\n\n(FRIGO FRUTAS)",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "FRANCISCO PEREIRA MATIAS",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios diversos\n\ndestinado a todas as secretarias do município\n\nOBJETO: Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de limpeza e higiene\n\ndestinado as secretarias do município de Malta/PB, conforme\n\nespecificações do edital e seus anexos",
+            "empresa": "NATEK NAT. E TEC. IND. E COM. DE\n\nPRODUTOS BIOTECNOLOGICOS EIRELLI",
+            "valor_total": "R$ 527,515.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 547190.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 23,
+        "total_gasto": 2757855.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de serviços visando a implantação e\n\nfornecimento de sistemas de gestão digital de processos\n\nadministrativos e documentos para atender as necessidades da\n\nprefeitura municipal de Malta-PB, conforme condições, quantidades e\n\nexigências estabelecidas neste Aviso de Contratação Direta e seus\n\nanexos",
+            "empresa": "PLENUS SISTEMAS L2F Sistemas Web LTDA-\n\nME (PLENUS GESTÃO PUBLICA)",
+            "valor_total": "R$ 40,632.00"
+          },
+          {
+            "objeto": "Escolha da proposta mais vantajosa para a contratação de\n\nmaterial médico hospitalar, laboratório e medicamentos injetáveis\n\ndestinado as atividades da secretaria de saúde do município de Malta-\n\nPB em caráter de urgência, conforme especificações, quantidades\n\nestimadas e exigências estabelecidas no Aviso de Contratação Direta e\n\nseus anexos",
+            "empresa": "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 77,523.00"
+          },
+          {
+            "objeto": "Escolha da proposta mais vantajosa para a contratação de\n\nmaterial médico hospitalar, laboratório e medicamentos injetáveis\n\ndestinado as atividades da secretaria de saúde do município de Malta-\n\nPB em caráter de urgência, conforme especificações, quantidades\n\nestimadas e exigências estabelecidas no Aviso de Contratação Direta e\n\nseus anexos",
+            "empresa": "EXPRESS DISTRIBUIDORA DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 77,523.00"
+          },
+          {
+            "objeto": "Escolha da proposta mais vantajosa para a contratação de\n\nmaterial médico hospitalar, laboratório e medicamentos injetáveis\n\ndestinado as atividades da secretaria de saúde do município de Malta-\n\nPB em caráter de urgência, conforme especificações, quantidades\n\nestimadas e exigências estabelecidas no Aviso de Contratação Direta e\n\nseus anexos",
+            "empresa": "FARMAGUEDES DIST. DE MED. E MAT.\n\nMED. HOSP. LTDA",
+            "valor_total": "R$ 77,523.00"
+          },
+          {
+            "objeto": "Escolha da proposta mais vantajosa para a contratação de\n\nmaterial médico hospitalar, laboratório e medicamentos injetáveis\n\ndestinado as atividades da secretaria de saúde do município de Malta-\n\nPB em caráter de urgência, conforme especificações, quantidades\n\nestimadas e exigências estabelecidas no Aviso de Contratação Direta e\n\nseus anexos",
+            "empresa": "BIOMED DISTRIBUIDORA HOSPITALAR E\n\nLABORATORIAL NOSSA SENHORA DA CONCEICAO LTDA",
+            "valor_total": "R$ 77,523.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 7990.0,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente contrato tem por objeto a contratação de\n\nempresa especializada na prestação de serviços de assinatura de\n\nferramenta de pesquisa e comparação de preços praticados pela\n\nAdministração Pública referente aos resultados de licitação\n\nadjudicados e homologados no sistema online do “BANCO DE\n\nPREÇOS” versão PLUS 50 para atender as necessidades da prefeitura\n\nmunicipal de Malta-PB, conforme condições, quantidades e\n\nexigências estabelecidas no Aviso de Contratação Direta e seus\n\nanexos",
+            "empresa": "NP TECNOLOGIA E GESTAO DE DADOS\n\nLTDA (NP TECNOLOGIA)",
+            "valor_total": "R$ 7,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 226500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (um) veículos 0km(novo), sendo um\nveículo tipo hatch, conforme quantidades e exigências estabelecidas\nconforme portaria Nº 69, DE 24 DE JUNHO DE 2022, para o\nMunicípio de Malta – PB",
+            "empresa": "NOVOS TEMPOS COMERCIO DE\nVEICULOS LTDA (NOVOS TEMPOS FILIAL 3).",
+            "valor_total": "R$ 226,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 125500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 754591.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Prestação de\n\nServiços na Implantação do Prontuário Eletrônico do Cidadão -\n\nPEC/E-SUS com treinamento e suporte técnico para todos os setores\n\nda Secretaria Municipal de Saúde de Malta-PB",
+            "empresa": "EDER BATISTA DE SOUSA, SKYSOFT\n\nSOLUCOES",
+            "valor_total": "R$ 119,976.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 14,
+        "total_gasto": 349280.0,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação direta, na modalidade exigida na Lei nº",
+            "empresa": "s são compatíveis com a Lei Orçamentária Anual",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "contratação direta, na modalidade exigida na Lei nº",
+            "empresa": "SOUSA CONTABILIDADE PUBLICA EIRELI -\n\nME",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "contratação direta, na modalidade exigida na Lei nº",
+            "empresa": "s são compatíveis com a Lei Orçamentária Anual",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços técnicos contábeis, especializados\n\nna área de Prestação de contas de todos os convênios\n\n(GOV.FEDERAL, ESTADUAL, SIGPGC.), assessoramento na folha\n\nde pagamento/Departamento Pessoal, elaboração da GFIP/SEFIP,\n\nRAIS, DIRF, emissão de obrigações do E-social, para prestar\n\nassessoria contábil junto ao município de MALTA",
+            "empresa": "s são compatíveis com a Lei Orçamentária Anual",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços técnicos contábeis, especializados\n\nna área de Prestação de contas de todos os convênios\n\n(GOV.FEDERAL, ESTADUAL, SIGPGC.), assessoramento na folha\n\nde pagamento/Departamento Pessoal, elaboração da GFIP/SEFIP,\n\nRAIS, DIRF, emissão de obrigações do E-social, para prestar\n\nassessoria contábil junto ao município de MALTA",
+            "empresa": "LINDOALDO MEDEIROS MARQUES.",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços técnicos contábeis, especializados\n\nna área de Prestação de contas de todos os convênios\n\n(GOV.FEDERAL, ESTADUAL, SIGPGC.), assessoramento na folha\n\nde pagamento/Departamento Pessoal, elaboração da GFIP/SEFIP,\n\nRAIS, DIRF, emissão de obrigações do E-social, para prestar\n\nassessoria contábil junto ao município de MALTA",
+            "empresa": "s são compatíveis com a Lei Orçamentária Anual",
+            "valor_total": "R$ 7,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 113,
+        "num_contratos": 313,
+        "total_gasto": 21483238.33
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 72,
+        "total_gasto": 6901759.699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 47,
+        "total_gasto": 5288116.52,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE KIT CESTA BÁSICA, PARA ATENDER\n\nAS FAMÍLIAS EM SITUAÇÃO DE EXTREMA\n\nVULNERABILIDADE SOCIAL E ECONÔMICA, DE FORMA\n\nTEMPORÁRIA, CADASTRADAS NOS CENTROS DE\n\nREFERÊNCIA DE ASSISTÊNCIA SOCIAL – CRAS\n\nVINCULADOS A SECRETARIA MUNICIPAL DE ASSISTÊNCIA\n\nSOCIAL – SEMAS, NO BENEFÍCIO DE AUXÍLIO\n\nALIMENTAÇÃO E CESTA BÁSICA, RESIDENTES NA ZONA\n\nRURAL E URBANA DESTE MUNICÍPIO",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA\n\n(SUPERMERCADO FOGUETE)",
+            "valor_total": "R$ 538,440.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE KIT CESTA BÁSICA, PARA\n\nATENDER AS FAMÍLIAS EM SITUAÇÃO DE EXTREMA\n\nVULNERABILIDADE SOCIAL E ECONÔMICA, DE FORMA\n\nTEMPORÁRIA, CADASTRADAS NOS CENTROS DE\n\nREFERÊNCIA DE ASSISTÊNCIA SOCIAL – CRAS\n\nVINCULADOS A SECRETARIA MUNICIPAL DE ASSISTÊNCIA\n\nSOCIAL – SEMAS, NO BENEFÍCIO DE AUXÍLIO\n\nALIMENTAÇÃO E CESTA BÁSICA, RESIDENTES NA ZONA\n\nRURAL E URBANA DESTE MUNICÍPIO",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA\n\n(SUPERMERCADO FOGUETE)",
+            "valor_total": "R$ 538,440.00"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de pneus e acessórios\n\ndestinados aos veículos do município e agregados integrantes da frota\n\ndo município de MALTA/PB , destinados a todas as secretarias ,\n\nconforme termo de referência em anexo",
+            "empresa": "JOSE RODRIGUES LACERDA NETO\n\n(COMERCIAL LACERDA)",
+            "valor_total": "R$ 1,813,944.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 1486804.3199999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 21,
+        "total_gasto": 2035645.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de forma parcelada de caixões e urna funerária\n\ncom e sem translado destinada á Secretaria de Ação Social para as\n\npessoas carentes deste município de Malta/PB",
+            "empresa": "",
+            "valor_total": "R$ 425,040.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de paralelepípedos e meio fio\n\ngranítico, para atender as necessidades do Município de Malta/PB",
+            "empresa": "- Pedreira Capoeiras LTDA",
+            "valor_total": "R$ 133,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 204700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 52,
+        "total_gasto": 1048589.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 549806.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de forma parcelada de fardamentos\n\ndestinados aos servidores e demais atividades de todas as\n\nsecretarias do Município de Malta/PB",
+            "empresa": "CAMBOIM TEXTIL LTDA",
+            "valor_total": "R$ 96,606.00"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de fardamentos\n\ndestinados aos servidores e demais atividades de todas as\n\nsecretarias do Município de Malta/PB",
+            "empresa": "CAMBOIM TEXTIL LTDA",
+            "valor_total": "R$ 96,606.00"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de fardamentos\n\ndestinados aos servidores e demais atividades de todas as\n\nsecretarias do Município de Malta/PB",
+            "empresa": "RUBENS CASTILHO NUNES DINIZ JUNIOR",
+            "valor_total": "R$ 96,606.00"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de fardamentos\n\ndestinados aos servidores e demais atividades de todas as\n\nsecretarias do Município de Malta/PB",
+            "empresa": "RUBENS CASTILHO NUNES DINIZ JUNIOR",
+            "valor_total": "R$ 96,606.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 914398.04,
+        "empresas_mensais": [
+          {
+            "objeto": "PAVIMENTAÇÃO EM PARALELEPÍPEDO E\n\nDRENAGEM NO MUNICÍPIO DE MALTA/PB",
+            "empresa": "L F C CONSTRUÇÕES LTDA (L F C\n\nCONSTRUÇÕES)",
+            "valor_total": "R$ 313,773.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 156940.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de forma parcelada de Gêneros Alimentícios\n\nperecíveis tipo polpa de frutas destinados a atender as demandas de\n\ntodas as secretarias do município de Malta–PB",
+            "empresa": "JANICELHIO COSTA DE SOUSA",
+            "valor_total": "R$ 98,940.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 689460.0599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 30,
+        "total_gasto": 1857739.1400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo de passeio 7 lugares destinados as\ndemandas operacionais da secretaria de Educação deste município,\natravés da adesão (carona)a ata de registro de preços SRP",
+            "empresa": "TERRA DO SOL COMERCIO DE VEICULOS\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de veículo de passeio 7 lugares destinados as\ndemandas operacionais da secretaria de Educação deste município,\natravés da adesão (carona)a ata de registro de preços SRP",
+            "empresa": "e\nFRANCISCO IRISMAR COURA URTIGA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 1731293.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 125,
+        "num_contratos": 286,
+        "total_gasto": 23769496.27
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 80,
+        "total_gasto": 8184568.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de produção de conteúdos digitais\n\npara as redes sociais da prefeitura de Malta–PB",
+            "empresa": "RESULT COMUNICACAO\n\nINTEGRADA LTDA",
+            "valor_total": "R$ 43,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 1151380.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços de GESTÃO DE SAÚDE E SEGURANÇA DO\nTRABALHO visando atender as necessidades de todas as secretarias\ndo Município de Malta–PB",
+            "empresa": "SEGURITY SAUDE E\nSEGURANCA DO TRABALHO LTDA",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1503615.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um de Sistema de Diário Oficial Eletrônico\n\natravés de licença de uso, para que seja feito as publicações oficiais do\n\nMunicípio de Malta–PB",
+            "empresa": "PLENUS GESTAO PUBLICA LTDA",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 31,
+        "total_gasto": 3971753.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 2144882.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços para Futura e eventual para futura\n\nContratação de Empresa especializada na prestação de serviços\n\nde Recapagem de Pneus, recomposição da banda de rodagem a\n\nrealizar-se nos pneus de veículos e máquinas, visando à\n\nmanutenção preventiva e corretiva da frota de veículos e\n\nmáquinas do Município de Malta/PB",
+            "empresa": "JOSE RODRIGUES LACERDA NETO\n\n(COMERCIAL LACERDA)",
+            "valor_total": "R$ 233,622.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 674858.87,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\n\nserviços Gráficos visando atender as necessidades de todas as\nsecretarias do Município de Malta– PB",
+            "empresa": "GRAFICA EDITORA E CARTONAGEM VISAO LTDA",
+            "valor_total": "R$ 109,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 18,
+        "total_gasto": 1107828.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 237000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços especializados de lavagem e\n\nlimpeza de veículos de pequeno e grande porte incluindo máquinas,\n\ncaminhões, tratores, vans, ônibus e ambulâncias do município de\n\nMalta–PB",
+            "empresa": "50.813.101 MARIA VICENTINA DE SOUSA NETA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços especializados de lavagem e\n\nlimpeza de veículos de pequeno e grande porte incluindo máquinas,\n\ncaminhões, tratores, vans, ônibus e ambulâncias do município de\n\nMalta–PB",
+            "empresa": "49.358.842 INACIO FERREIRA\n\nGADELHA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços especializados de lavagem e\n\nlimpeza de veículos de pequeno e grande porte incluindo máquinas,\n\ncaminhões, tratores, vans, ônibus e ambulâncias do município de\n\nMalta–PB",
+            "empresa": "50.813.101 MARIA VICENTINA DE\n\nSOUSA NETA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 1068436.8599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 19,
+        "total_gasto": 844755.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializadas nos serviços de\n\nConfecção de TOTEN EM MDF para atender as demandas do\n\nmunicípio de Malta–PB",
+            "empresa": "TARCIO DE SOUSA DINIZ",
+            "valor_total": "R$ 71,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 1149121.47,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESCRITÓRIO DE ADVOCACIA\n\nESPECIALIZADO EM ADMINISTRAÇÃO PÚBLICA",
+            "empresa": "ESCOREL ADVOGADOS ASSOCIADOS",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Registro de Preços para Futura e eventual contratação\n\nde farmácia para fornecimento de medicamentos, em caráter\n\nexcepcional e/ou de urgência e emergência usando como\n\nreferência o preço do medicamento genérico e, ou similar e na\n\nfalta deste, o medicamento ético, com descontos sob os preços da\n\nABFARM e/ou a tabela da Câmara de Regularização do Mercado\n\nde Medicamentos – CMED da ANVISA",
+            "empresa": "FARMACIA SANTA MARIA LTDA\n\n(FARMACIA SANTA MARIA)",
+            "valor_total": "R$ 272,500.00"
+          },
+          {
+            "objeto": "Registro de Preços para Futura e eventual contratação\n\nde farmácia para fornecimento de medicamentos, em caráter\n\nexcepcional e/ou de urgência e emergência usando como\n\nreferência o preço do medicamento genérico e, ou similar e na\n\nfalta deste, o medicamento ético, com descontos sob os preços da\n\nABFARM e/ou a tabela da Câmara de Regularização do Mercado\n\nde Medicamentos – CMED da ANVISA",
+            "empresa": "FARMACIA SANTA MARIA LTDA\n\n(FARMACIA SANTA MARIA)",
+            "valor_total": "R$ 272,500.00"
+          },
+          {
+            "objeto": "Registro de Preços para Futura e eventual contratação\n\nde farmácia para fornecimento de medicamentos, em caráter\n\nexcepcional e/ou de urgência e emergência usando como\n\nreferência o preço do medicamento genérico e, ou similar e na\n\nfalta deste, o medicamento ético, com descontos sob os preços da\n\nABFARM e/ou a tabela da Câmara de Regularização do Mercado\n\nde Medicamentos – CMED da ANVISA",
+            "empresa": "ANDRE RICARDO FIGUEIREDO DE\n\nANDRADE (FARMACIA SAO SEBASTIAO)\nVALOR GLOBAL: R$ 75.000,00 (setenta e cinco mil).\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 50",
+            "valor_total": "R$ 272,500.00"
+          },
+          {
+            "objeto": "Registro de Preços para Futura e eventual contratação\n\nde farmácia para fornecimento de medicamentos, em caráter\n\nexcepcional e/ou de urgência e emergência usando como\n\nreferência o preço do medicamento genérico e, ou similar e na\n\nfalta deste, o medicamento ético, com descontos sob os preços da\n\nABFARM e/ou a tabela da Câmara de Regularização do Mercado\n\nde Medicamentos – CMED da ANVISA",
+            "empresa": "ANDRE RICARDO FIGUEIREDO DE\n\nANDRADE (FARMACIA SAO SEBASTIAO)\nVALOR GLOBAL: R$ 75.000,00 (setenta e cinco mil).\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 50",
+            "valor_total": "R$ 272,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

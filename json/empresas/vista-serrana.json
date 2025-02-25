@@ -1,0 +1,63 @@
+{
+  "id": "vista-serrana",
+  "nome": "Vista Serrana",
+  "detalhe": {
+    "2023": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 70000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW MUSICAL\nEM PRAÇA PÚBLICA DA BANDA INALA, DURANTE O\nEVENTO DE REVEILLON 2023/2024 NO MUNICÍPIO DE SÃO\nJOÃO DO RIO DO PEIXE/PB",
+            "empresa": "HOTEL TERRA DO SAL\nLTDA",
+            "valor_total": "R$ 70,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA APRESENTAÇÃO DE SHOW\nMUSICAL EM PRAÇA PÚBLICA DA BANDA INALA,\nDURANTE O EVENTO DE REVEILLON 2023/2024 NO\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE/PB",
+            "empresa": "HOTEL TERRA DO SAL\nLTDA",
+            "valor_total": "R$ 70,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 70000.0
+      }
+    },
+    "2024": {
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 12,
+        "total_gasto": 2298179.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 3,
+        "num_contratos": 14,
+        "total_gasto": 2773204.63
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 475025.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE ORNAMENTAÇÃO, MANUTENÇÃO E DE\n\nAPRESENTAÇÕES CULTURAS PARA O NATAL MÁGICO DO\n\nMUNICIPÍO DE SÃO JOSÉ DE PRINCESA-PB",
+            "empresa": "TAYANNE KELLY BATISTA FESTAS E\n\nDECORÇAÕES (TAYANNE FESTAS)",
+            "valor_total": "R$ 100,025.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE ORNAMENTAÇÃO, MANUTENÇÃO E DE\n\nAPRESENTAÇÕES CULTURAS PARA O NATAL MÁGICO DO\n\nMUNICIPÍO DE SÃO JOSÉ DE PRINCESA-PB",
+            "empresa": "Tayanne Kelly Carlos Batista",
+            "valor_total": "R$ 100,025.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

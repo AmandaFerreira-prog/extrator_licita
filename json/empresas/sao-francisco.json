@@ -1,0 +1,1350 @@
+{
+  "id": "sao-francisco",
+  "nome": "São Francisco",
+  "detalhe": {
+    "2018": {
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 19,
+        "total_gasto": 543380.88,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço da Banda “Gilson Mania”, com\ninclusão da estrutura de iluminação e sonorização da própria\ncontratada, para apresentação de show musical, durante as\nfestividades do Forró Chão no município de São Francisco",
+            "empresa": "LELEKA PRODUÇÕES\nE LOCAÇÕES EIRELI",
+            "valor_total": "R$ 8,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço da Banda “Brasas do Forró”, com\ninclusão da estrutura de iluminação e sonorização da própria\ncontratada, para apresentação de show musical, durante as\nfestividades do Forró Chão no município de São Francisco",
+            "empresa": "BRASAS DO FORRÓ\nCOMÉRCIO E LOCAÇÃO DE MATERIAL LTDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 38,
+        "num_contratos": 62,
+        "total_gasto": 3152332.0699999994
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 682216.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 1585739.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 77386.57,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 36281.59,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de\nPreço para possível aquisição gradativa de material odontológico;",
+            "empresa": "empresa JOSÉ NERGINO\nSOBREIRA",
+            "valor_total": "R$ 36,281.59"
+          },
+          {
+            "objeto": "Registro de\nPreço para possível aquisição gradativa de material odontológico;",
+            "empresa": "e Carlos Maciel Alencar de Oliveira -\nPela Promitente",
+            "valor_total": "R$ 36,281.59"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 179044.24,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de São Francisco",
+            "empresa": "CIRUFARMA\n\nCOMERCIAL LTDA",
+            "valor_total": "R$ 30,728.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de São Francisco",
+            "empresa": "DIMEDONT - DISTRIBUIDORA DE MEDICAMENTOS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 30,728.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de medicamentos,\n\ncom fornecimento parcelado, destinados à manutenção da farmácia\n\nbásica do município de São Francisco",
+            "empresa": "CT Nº 00152/2018",
+            "valor_total": "R$ 30,728.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de exames,\n\nconsultas e cirurgias oftalmológicas, destinados a manutenção das\n\natividades da Secretaria de Saúde do município de São Francisco",
+            "empresa": "CIED - CENTRO DE IMAGEM\n\nELIZABETE DANTAS LTDA",
+            "valor_total": "R$ 18,016.67"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de gêneros\n\nalimentícios, com fornecimento parcelado, destinados a pequenas\n\ndoações a famílias carentes do município de São Francisco",
+            "empresa": "JOSÉ EUDES DE OLIVEIRA-\n\nMERCEARIA-ME",
+            "valor_total": "R$ 5,401.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 48282.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de locação de um veículo caminhão,\n\ntipo carro pipa, visando o abastecimento de água à vítimas da seca, em\n\ncaráter emergencial, no município de São Francisco/PB",
+            "empresa": "WELLITON MARQUES\n\nDE SOUSA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais de\n\nlimpeza, higiene, copa e cozinha, com fornecimento parcelado,\n\ndestinados a manutenção de diversas secretarias do município",
+            "empresa": "FRANCISCO VIEIRA\n\nFILHO",
+            "valor_total": "R$ 30,282.42"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais de\n\nlimpeza, higiene, copa e cozinha, com fornecimento parcelado,\n\ndestinados a manutenção de diversas secretarias do município",
+            "empresa": "CT Nº 00176/2018 -\n\n11.10.18",
+            "valor_total": "R$ 30,282.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 380728.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 66,
+        "num_contratos": 184,
+        "total_gasto": 8537128.1
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 485091.16000000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação e serviços no processamento de dados dos\nsistemas de informação de vigilancia em saude, conforme\nperiodicidade exigida pelo Ministério da saúde.",
+            "empresa": "MARIA DO SOCORRO SARMENTO\nCESARINO",
+            "valor_total": "R$ 11,550.00"
+          },
+          {
+            "objeto": "Prestação de serviços de consultoria e assessoria em\nprojetos e captação de recursos junto aos órgãos governamentais",
+            "empresa": "SME SERVIÇOS\nESPECIALISADOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 51,
+        "total_gasto": 2261431.37,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de consultas e\n\nexames médicos especializados de diversas áreas, destinados a\n\nmanutenção da saúde pública do Município",
+            "empresa": "CT Nº 00027/2019",
+            "valor_total": "R$ 26,520.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de consultas e\n\nexames médicos especializados de diversas áreas, destinados a\n\nmanutenção da saúde pública do Município",
+            "empresa": "CT Nº 00043/2019",
+            "valor_total": "R$ 26,520.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar e medicamentos injetáveis, com fornecimento parcelado,\n\ndestinados às atividades da Secretaria de Saúde do município",
+            "empresa": "CT Nº\n\n00034/2019",
+            "valor_total": "R$ 28,768.58"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar e medicamentos injetáveis, com fornecimento parcelado,\n\ndestinados às atividades da Secretaria de Saúde do município",
+            "empresa": "CT Nº 00035/2019",
+            "valor_total": "R$ 28,768.58"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nhospitalar e medicamentos injetáveis, com fornecimento parcelado,\n\ndestinados às atividades da Secretaria de Saúde do município",
+            "empresa": "CT Nº 00039/2019",
+            "valor_total": "R$ 28,768.58"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de material\n\nodontológico, com fornecimento parcelado, destinado a manutenção\n\nda Secretaria de Saúde do Município",
+            "empresa": "CT Nº 00037/2019",
+            "valor_total": "R$ 26,379.88"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais de\n\nlimpeza, higiene, copa e cozinha, com fornecimento parcelado,\n\ndestinados a manutenção de diversas secretarias do município",
+            "empresa": "CT Nº 00032/2019",
+            "valor_total": "R$ 90,847.28"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de gêneros\n\nalimentícios, com fornecimento parcelado, destinados a atender a\n\ndiversos programas do Governo Municipal",
+            "empresa": "CT Nº 00033/2019\n\n– Assinatura: 21.01.19",
+            "valor_total": "R$ 309,254.92"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 31,
+        "total_gasto": 1708282.22,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para: Reforma da\n\nPraça Frei Damião no município de São Jose da Lagoa Tapada/PB",
+            "empresa": "FREITAS SERVICOS DE ENGENHARIA\n\nLTDA",
+            "valor_total": "R$ 267,454.16"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 201704.89,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços de mão de obra e material para\nrecuperação/substituição de unidade injetora, sensores e reparos na\ninstalação do trator de esteiras NEW HOLLAND D150B - Ano 2013\ndestinado aos serviços de desassoreação e construção de pequenos\naçudes e barreiros no município de São Jose da Lagoa Tapada",
+            "empresa": "A.T.L COMERCIO DE PECAS PARA\nTRATORES E MANUTENCAO EIRELI",
+            "valor_total": "R$ 18,943.89"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 24,
+        "total_gasto": 906787.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 16,
+        "total_gasto": 1213985.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 684167.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 309191.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 26,
+        "total_gasto": 310427.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 75331.20999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 125660.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 68,
+        "num_contratos": 164,
+        "total_gasto": 6885980.799999998
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 48,
+        "total_gasto": 2107382.6799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 1447509.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 394424.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 44170.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 1011132.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 26,
+        "total_gasto": 499689.66,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de cadeiras giratórias, cor azul, destinadas a\n\nimplantação do Centro de Robótica no município de São Francisco",
+            "empresa": "PROJECTO, COMÉRCIO DE MÓVEIS E\n\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 6,560.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\n\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Damiao Moura\n\nModesto",
+            "valor_total": "R$ 23,100.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\n\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Fernando\nSousa dos Santos",
+            "valor_total": "R$ 23,100.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\n\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Jose\n\nLopes Monteiro",
+            "valor_total": "R$ 23,100.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\n\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Francisco Vieira da Silva",
+            "valor_total": "R$ 23,100.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\n\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "CT Nº 00163/2020 -\n16.07.20",
+            "valor_total": "R$ 23,100.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Napoleao Jose de\n\nSantana",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Wilas Siqueira\nde Sousa",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO de prestadores de serviço(s) de\npedreiro(s), ajudante(s) ou servente(s) de pedreiro(s) para atender as\n\ndemandas e suprir as necessidades das secretarias municipais da\n\nPrefeitura de São Francisco do Município",
+            "empresa": "Francisco\n\nRivanaldo da Silva Queiroga",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\npreventiva e corretiva, assim como a reposição de peças, dos veículos\n\nque compõem a frota da Prefeitura Municipal de São Francisco",
+            "empresa": "VICENTE AUTO PEÇAS COMÉRCIO E\n\nTRANSPORTES LTDA",
+            "valor_total": "R$ 187,320.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\npreventiva e corretiva, assim como a reposição de peças, dos veículos\n\nque compõem a frota da Prefeitura Municipal de São Francisco",
+            "empresa": "AUTO EQUIPADORA\n\nSOUSA LTDA",
+            "valor_total": "R$ 187,320.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de manutenção\npreventiva e corretiva, assim como a reposição de peças, dos veículos\n\nque compõem a frota da Prefeitura Municipal de São Francisco",
+            "empresa": "GENTIL DE ASSIS FILHO",
+            "valor_total": "R$ 187,320.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente,\n\ndestinados a implantação do Centro de Robótica no município de São\n\nFrancisco, conforme especificações constantes no Termo de\n\nReferência do edital",
+            "empresa": "CANAPU COMERCIO\nDE DISTRIBUIÇÃO EIRELI",
+            "valor_total": "R$ 43,446.50"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente,\n\ndestinados a implantação do Centro de Robótica no município de São\n\nFrancisco, conforme especificações constantes no Termo de\n\nReferência do edital",
+            "empresa": "NILDO FREITAS\n\nDANTAS",
+            "valor_total": "R$ 43,446.50"
+          },
+          {
+            "objeto": "Aquisição de equipamentos e material permanente,\n\ndestinados a implantação do Centro de Robótica no município de São\n\nFrancisco, conforme especificações constantes no Termo de\n\nReferência do edital",
+            "empresa": "PROJECTO, COMÉRCIO DE MÓVEIS E EQUIPAMENTOS\n\nEIRELI",
+            "valor_total": "R$ 43,446.50"
+          },
+          {
+            "objeto": "Aquisição de madeiras, destinados para a reforma do\nCentro de Artes no município de São Francisco, conforme\n\nespecificações constantes no Termo de Referência do edital",
+            "empresa": "RAIMUNDO NONATO CASIMIRO DE QUEIROGA",
+            "valor_total": "R$ 31,582.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para aquisição de materiais para\n\nmanutenção de bens imóveis, com fornecimento parcelado, destinados\nas atividades de diversas secretarias do município",
+            "empresa": "HELIO ELIAS XAVIER",
+            "valor_total": "R$ 100,465.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para serviços de exames de Raio\n\nX, Ressonância Magnética e Tomografia, para atender as atividades\n\nda Secretaria de Saúde do município de São Francisco",
+            "empresa": "FERREIRA MOREIRA SERVIÇOS\n\nMÉDICOS",
+            "valor_total": "R$ 8,230.67"
+          },
+          {
+            "objeto": "Contratação de prestação de serviços para desenvolver\n\nOficinas e Aulas Práticas no âmbito de Programas da Secretaria de\n\nAssistência Social do Município de São Francisco",
+            "empresa": "DANIEL NOGUEIRA DA SILVA",
+            "valor_total": "R$ 17,880.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 22,
+        "total_gasto": 408540.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 16,
+        "total_gasto": 560201.27,
+        "empresas_mensais": [
+          {
+            "objeto": "execução dos serviços de\nImplantação de pavimentação em vias públicas urbanas no Município\nde São José do Brejo do Cruz/ PB; VIGÊNCIA: termo inicial na data\nde sua subscrição e termo final em (06) meses;",
+            "empresa": "H J DANTAS FILHO EIRELI (CNPJ\nnº 24.855.726/0001-74);",
+            "valor_total": "R$ 248,500.77"
+          },
+          {
+            "objeto": "execução dos serviços de\nImplantação de pavimentação em vias públicas urbanas no Município\nde São José do Brejo do Cruz/ PB; VIGÊNCIA: termo inicial na data\nde sua subscrição e termo final em (06) meses;",
+            "empresa": "e Hédimo Jales Dantas Filho",
+            "valor_total": "R$ 248,500.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 287270.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 940623.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 156,
+        "num_contratos": 438,
+        "total_gasto": 26907850.430000007
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 17040.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 2256367.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de veículo\n\nde passeio para a Secretaria Municipal de Assistência Social;",
+            "empresa": "FRANCISCO JUNIOR DE OLIVEIRA\n\nCARDOSO (CPF nº 058.368.764-44);",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de veículo\n\nde passeio para a Secretaria Municipal de Assistência Social;",
+            "empresa": "e Maria José de Oliveira Cardoso",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 76,
+        "total_gasto": 4007528.9599999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "CLINICA MEDICA RANGEL LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "I F DA COSTA & CIA LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "SERVICOS MEDICOS\n\nUROLOGIA DO SERTAO LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "CLINICA MEDICA RANGEL LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "I F DA COSTA & CIA LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "SERVICOS MEDICOS\n\nUROLOGIA DO SERTAO LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "CLINICA MEDICA RANGEL LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "I F DA COSTA & CIA LTDA",
+            "valor_total": "R$ 261,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada ou profissional para\n\nprestação de serviços de consultas médicas em diversas\n\nespecialidades, para atender as necessidades da Prefeitura de São\n\nFrancisco",
+            "empresa": "SERVICOS MEDICOS\n\nUROLOGIA DO SERTAO LTDA",
+            "valor_total": "R$ 261,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 74,
+        "total_gasto": 6194451.5600000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 60,
+        "total_gasto": 1411145.7799999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de testes rápidos e medicamentos, destinados a\natender demandas da Secretaria de Saúde, no combate da COVID-19\nno município São Jose da Lagoa Tapada",
+            "empresa": "A. COSTA COMERCIO\nATAC. DE PRODUTOS FARMACEUTICOS LTDA",
+            "valor_total": "R$ 144,903.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 90,
+        "total_gasto": 2421018.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\n\nmaterial permanente para confecção de Carteira de Registro Geral de\n\nIdentidade Civil, a cargo da secretaria de Administração",
+            "empresa": "AKIYAMA S A INDUSTRIA E COMERCIO\n\nDE EQUIPAMENTOS E SISTEMAS",
+            "valor_total": "R$ 10,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 32,
+        "total_gasto": 1916053.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 2131981.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 11,
+        "total_gasto": 467394.98,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA PRESTAR OS SERVIÇOS DE\n\nPROVIMENTO DE ACESSO À INTERNET COM\n\nCONFIGURAÇÃO, INSTALAÇÃO E MONTAGEM, DESTINADO\n\nAS ATIVIDADES ADMINISTRATIVAS DO MUNICÍPIO DE SÃO\n\nFRANCISCO",
+            "empresa": "JOSÉ\n\nWAGNER PEDROSA ROCHA",
+            "valor_total": "R$ 19,400.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "MARCOS ANTONIO DANTAS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Marcos Antônio Dantas",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 746522.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 21,
+        "total_gasto": 4397721.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 44,
+        "total_gasto": 4469279.59,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CADERNOS\n\nPADRONIZADOS PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE SÃO\n\nFRANCISCO",
+            "empresa": "JANILENE RODRIGUES GONCALVES\n\nSARMENTO",
+            "valor_total": "R$ 26,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE REFEIÇÕES PARA\n\nATENDEREM AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO",
+            "empresa": "FRANCINILTON LOPES RAMOS",
+            "valor_total": "R$ 22,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CIMENTO PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO\n\nFRANCISCO",
+            "empresa": "FRANCISCO CARLOS LINHARES\n\nPEREIRA",
+            "valor_total": "R$ 29,000.00"
+          },
+          {
+            "objeto": "Aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 32,637.85"
+          },
+          {
+            "objeto": "Aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Augusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 32,637.85"
+          },
+          {
+            "objeto": "Aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 5,416.80"
+          },
+          {
+            "objeto": "Aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Augusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 5,416.80"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "MARCOS ANTONIO DANTAS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Marcos Antônio Dantas",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição gradativa\n\nde pneus certificados pelo IN METRO;",
+            "empresa": "LUANA DANTAS COMERCIO\n\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\n\nEIRELI",
+            "valor_total": "R$ 103,484.00"
+          },
+          {
+            "objeto": "aquisição gradativa\n\nde pneus certificados pelo IN METRO;",
+            "empresa": "e Edilson Bispo de Jesus",
+            "valor_total": "R$ 103,484.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nbaterias automotivas;",
+            "empresa": "JOÃO ALVES DUTRA EIRELI",
+            "valor_total": "R$ 36,436.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nbaterias automotivas;",
+            "empresa": "e Karlyson Halyson\n\nSilva",
+            "valor_total": "R$ 36,436.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de baterias automotivas; 34.285,00 (trinta e\n\nquatro mil duzentos e oitenta e cinco reais); VIGÊNCIA: 24 de\n\njaneiro de 2022 a 31 de dezembro de 2022; DOTAÇÃO\n\nORÇAMENTÁRIA: 02 02 04 122 0002 2003 0000 MANUT E\n\nEQUIPAMENTO DO GAB",
+            "empresa": "BOM JESUS COMERCIO DE\n\nCOMBUSTIVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de baterias automotivas; 34.285,00 (trinta e\n\nquatro mil duzentos e oitenta e cinco reais); VIGÊNCIA: 24 de\n\njaneiro de 2022 a 31 de dezembro de 2022; DOTAÇÃO\n\nORÇAMENTÁRIA: 02 02 04 122 0002 2003 0000 MANUT E\n\nEQUIPAMENTO DO GAB",
+            "empresa": "e Paulo Cesar Galdino\n\ndos Santos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 16,286.50"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de material de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e\n\nAugusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 16,286.50"
+          },
+          {
+            "objeto": "Aquisição gradativa de lubrificantes, aditivos e água destilada;",
+            "empresa": "BOM JESUS COMERCIO DE\n\nCOMBUSTIVEIS LTDA",
+            "valor_total": "R$ 47,325.50"
+          },
+          {
+            "objeto": "Aquisição gradativa de lubrificantes, aditivos e água destilada;",
+            "empresa": "e Paulo Cesar Galdino dos Santos",
+            "valor_total": "R$ 47,325.50"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nlubrificantes, aditivos e água destilada;",
+            "empresa": "JOÃO ALVES DUTRA EIRELI",
+            "valor_total": "R$ 72,055.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\n\nlubrificantes, aditivos e água destilada;",
+            "empresa": "e Karlyson Halyson Silva",
+            "valor_total": "R$ 72,055.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de lubrificantes,\n\naditivos e água destilada;",
+            "empresa": "TOP PEÇAS LTDA",
+            "valor_total": "R$ 43,160.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de lubrificantes,\n\naditivos e água destilada;",
+            "empresa": "e Debora Araújo de Medeiros",
+            "valor_total": "R$ 43,160.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 185,
+        "num_contratos": 412,
+        "total_gasto": 28352993.319999993
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 52,
+        "total_gasto": 4511862.3,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de Profissional para prestação de serviços de\n\nengenharia elétrica na elaboração e fiscalização de projetos elétricos,\n\nna inspeção e fiscalização de unidades consumidoras, solicitando\n\nmudança de padrão de entrada e elaboração de serviço de iluminação\n\npública entre a prefeitura e concessionária de energia,\n\nFundamentAÇÃO: art",
+            "empresa": "Alysson Marques Rufino Paula Leite",
+            "valor_total": "R$ 19,800.00"
+          },
+          {
+            "objeto": "execução dos serviços de\n\nmanutenção preventiva e corretiva (com reposição de peças, produtos\n\ne acessórios) nos veículos, motocicletas e maquinários que compõem\n\na frota municipal: próprios, cedidos, conveniados (atuais e futuros) do\n\nMunicípio de São José do Brejo do Cruz/ PB;",
+            "empresa": "JOÃO ALVES DUTRA EIRELI",
+            "valor_total": "R$ 190,000.00"
+          },
+          {
+            "objeto": "execução dos serviços de\n\nmanutenção preventiva e corretiva (com reposição de peças, produtos\n\ne acessórios) nos veículos, motocicletas e maquinários que compõem\n\na frota municipal: próprios, cedidos, conveniados (atuais e futuros) do\n\nMunicípio de São José do Brejo do Cruz/ PB;",
+            "empresa": "e Karlyson Halyson Silva",
+            "valor_total": "R$ 190,000.00"
+          },
+          {
+            "objeto": "locação de carro pipa, com\n\ncapacidade de, no mínimo, OITO (8) m³ de Água; VIGÊNCIA: 01 de\n\nmarço a 31 de dezembro de 2022; DOTAÇÃO\n\nORÇAMENTÁRIA:02 05 20 606 0006 2009 0000 MANUT",
+            "empresa": "PETRÔNIO DANTAS DE ARAÚJO\n\n(CPF nº 106.356.694-04);",
+            "valor_total": "R$ 17,000.00"
+          },
+          {
+            "objeto": "locação de carro pipa, com\n\ncapacidade de, no mínimo, OITO (8) m³ de Água; VIGÊNCIA: 01 de\n\nmarço a 31 de dezembro de 2022; DOTAÇÃO\n\nORÇAMENTÁRIA:02 05 20 606 0006 2009 0000 MANUT",
+            "empresa": "e Petrônio Dantas de Araújo",
+            "valor_total": "R$ 17,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 45,
+        "total_gasto": 3373608.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 61,
+        "total_gasto": 1477154.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 30,
+        "total_gasto": 1722064.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 17,
+        "total_gasto": 435520.58999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 23,
+        "total_gasto": 2033082.3,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nASSISTÊNCIA SOCIAL DO MUNICÍPIO DE SÃO FRANCISCO",
+            "empresa": "PAPELARIA CAJAZEIRAS LTDA",
+            "valor_total": "R$ 183,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 337649.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 31,
+        "total_gasto": 3690504.58,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA OU\n\nPROFISSIONAL PARA PRESTAÇÃO DE SERVIÇOS DE\n\nCONSULTAS MÉDICAS PARA ATENDER AS NECESSIDADES\n\nDO MUNICÍPIO DE SÃO FRANCISCO",
+            "empresa": "CLINFORT CLINICA MEDICA LTDA",
+            "valor_total": "R$ 89,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA OU\n\nPROFISSIONAL PARA PRESTAÇÃO DE SERVIÇOS DE\n\nCONSULTAS MÉDICAS PARA ATENDER AS NECESSIDADES\n\nDO MUNICÍPIO DE SÃO FRANCISCO",
+            "empresa": "ORTOMED CLINICA ESPECIALIZADA\n\nLTDA",
+            "valor_total": "R$ 89,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 40,
+        "total_gasto": 2612275.92,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição gradativa de material\n\ndescartável;",
+            "empresa": "MARCOS ANTONIO DANTAS (CNPJ nº\n\n12.160.512/0001-02);",
+            "valor_total": "R$ 51,054.95"
+          },
+          {
+            "objeto": "aquisição gradativa de material\n\ndescartável;",
+            "empresa": "e Marcos Antônio Dantas",
+            "valor_total": "R$ 51,054.95"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 34,
+        "total_gasto": 2238793.6999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO\n\nFRANCISCO NA REGIÃO LITORÂNEA DO ESTADO",
+            "empresa": "COMERCIAL DE\n\nCOMBUSTIVEIS CAJA LTDA",
+            "valor_total": "R$ 9,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1451197.79,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS PARA LOCAÇÃO DE\nESTRUTURAS DIVERSAS, CONFORME TERMO DE\nREFERÊNCIA, PARA FESTIVIDADES DIVERSAS DESTE\nMUNICÍPIO",
+            "empresa": "HERTZ -\nESTRUTURAS E EVENTOS EIRELI",
+            "valor_total": "R$ 35,066.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada nos serviços de\nengenharia para Reforma do Campo de Futebol, no Município de São\nJosé da Lagoa Tapada–PB",
+            "empresa": "CONSTRUTORA LCL LTDA",
+            "valor_total": "R$ 286,662.89"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 64,
+        "total_gasto": 4982475.97,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta de empresa especializada no serviço de\ncoleta, transporte, tratamento por destruição térmica (incineração) e\ndestinação final das cinzas dos resíduos provenientes dos serviços\npúblicos de saúde pública municipal (grupo A, B e E), para suprir as\nnecessidades da Prefeitura Municipal de São Francisco/PB",
+            "empresa": "WASTE COLETA DE RESIDUOS\nHOSPITALARES LTDA",
+            "valor_total": "R$ 15,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO PARA PRESTAÇÃO DE SERVIÇOS\nDE APOIO ADMINISTRATIVO EM FINANÇAS E\nPLANEJAMENTO CONFORME TERMO DE\nREFERÊNCIA,JUNTO À PREFEITURA MUNICIPAL DE SÃO\nFRANCISCO/PB",
+            "empresa": "ANDRE\nABRANTES GERMANO",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "aquisição\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 42\n\n\ngradativa de gêneros alimentícios destinados a Merenda Escolar;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\nOLIVEIRA",
+            "valor_total": "R$ 14,629.54"
+          },
+          {
+            "objeto": "aquisição\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 42\n\n\ngradativa de gêneros alimentícios destinados a Merenda Escolar;",
+            "empresa": "e\nAugusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 14,629.54"
+          },
+          {
+            "objeto": "Aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;",
+            "empresa": "LUANA DANTAS COMERCIO\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\nEIRELI",
+            "valor_total": "R$ 86,903.00"
+          },
+          {
+            "objeto": "Aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;",
+            "empresa": "e Edilson Bispo de Jesus",
+            "valor_total": "R$ 86,903.00"
+          },
+          {
+            "objeto": "Aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;",
+            "empresa": "LUANA DANTAS COMERCIO\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\nEIRELI",
+            "valor_total": "R$ 21,267.97"
+          },
+          {
+            "objeto": "Aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;",
+            "empresa": "e Edilson Bispo de Jesus",
+            "valor_total": "R$ 21,267.97"
+          },
+          {
+            "objeto": "Adesão à Ata de Registro de Preços n.º 000045/2022,\ndecorrente do Pregão Eletrônico 00045/2022 - Processo\nAdministrativo 00077/2022, realizado pela Prefeitura Municipal de\nCamalaú - PB, cujo objeto consiste em: Registro de preços para futura\ne eventual contratação de empresa especializada na locação de\nestrutura física para a realização de eventos no Município de Camalaú\nPB, conforme especificações técnicas constantes no\ntermodereferência",
+            "empresa": "ALYSSON MATHEUS\nDE MELO FEITOSA LTDA",
+            "valor_total": "R$ 309,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 167,
+        "num_contratos": 317,
+        "total_gasto": 26246337.26
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 40,
+        "total_gasto": 2681553.25,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE RECARGA DE GÁS DE\n\nCOZINHA E VASILHAME PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DO\nMUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "REVENDEDORA DE\nGÁS SOUSA LTDA",
+            "valor_total": "R$ 23,000.00"
+          },
+          {
+            "objeto": "Contratação de Pessoa jurídica especializada em prestação\n\nde serviços de manutenção preventiva e corretiva do sistema de\n\nmonitoramento de segurança do Município de são José da Lagoa\nTapada/PB",
+            "empresa": "EMANOEL GOMES FERREIRA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "execução\n\ndos serviços técnicos especializados na manutenção e reparação de\n\ncomputadores e impressoras; VIGÊNCIA: 27 de fevereiro a 31 de\n\ndezembro de 2023;",
+            "empresa": "CAINA ALENCAR DOS SANTOS",
+            "valor_total": "R$ 17,546.00"
+          },
+          {
+            "objeto": "execução\n\ndos serviços técnicos especializados na manutenção e reparação de\n\ncomputadores e impressoras; VIGÊNCIA: 27 de fevereiro a 31 de\n\ndezembro de 2023;",
+            "empresa": "e Cainã Alencar dos Santos",
+            "valor_total": "R$ 17,546.00"
+          },
+          {
+            "objeto": "execução dos serviços de gravação e edição de vídeo para\n\natendimento das demandas do Serviço de Convivência e\n\nFortalecimento de Vínculo - SCFV e Centro de Referência de\nAssistência Social – CRAS; VIGÊNCIA: 01 de março a 31 de\n\ndezembro de 2023;",
+            "empresa": "JOÃO VICTOR DOS SANTOS\nSARAIVA",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "execução dos serviços de gravação e edição de vídeo para\n\natendimento das demandas do Serviço de Convivência e\n\nFortalecimento de Vínculo - SCFV e Centro de Referência de\nAssistência Social – CRAS; VIGÊNCIA: 01 de março a 31 de\n\ndezembro de 2023;",
+            "empresa": "e João Victor dos Santos Saraiva",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 76,
+        "total_gasto": 4809666.859999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nASSISTÊNCIA SOCIAL DO MUNICÍPIO DE SÃO\n\nFRANCISCO/PB",
+            "empresa": "THIAGO GOMES BARBOSA COMÉRCIO",
+            "valor_total": "R$ 332,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 1950475.0700000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 2925504.53,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de locação de veículos, destinados\na manutenção das atividades de diversas secretarias do município de\nSão José da Lagoa Tapada–PB",
+            "empresa": "CELIO GUEDES LACERDA",
+            "valor_total": "R$ 55,200.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação de veículos, destinados\na manutenção das atividades de diversas secretarias do município de\nSão José da Lagoa Tapada–PB",
+            "empresa": "FRANCISCO VIEIRA",
+            "valor_total": "R$ 33,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 19,
+        "total_gasto": 1504224.6099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 163365.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 1588479.1400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1905873.8399999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Carteiras escolares para a rede de ensino do\nmunicípio de São Francisco – PB, através do Termo de Convenio nº\n0168/2023 (Estado PB), para atender as necessidades da Secretaria de\nEducação, conforme especificações constantes no Termo de\nReferência",
+            "empresa": "BRASFLEX INDUSTRIA E COMERCIO\nLTDA",
+            "valor_total": "R$ 79,600.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS E\nLUBRIFICANTE PARA ATENDER AS NECESSIDADES DAS\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SÃO\nFRANCISCO",
+            "empresa": "JOAO INACIO DA\nSILVEIRA",
+            "valor_total": "R$ 966,000.00"
+          },
+          {
+            "objeto": "Aquisição de Unidade Móvel de Saúde Tipo VAN (0km –\nPrimeiro Licenciamento, para atender a secretaria Saúde, (Proposta\n11420422000123001) do Município de São José da Lagoa Tapada–\nPB",
+            "empresa": "COMERCIO DE VEICULOS SANTANA LTDA",
+            "valor_total": "R$ 294,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 28,
+        "total_gasto": 3354338.3899999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de moveis mobiliários destinado a assistência\n\nsocial do município do São José da Lagoa Tapada/PB",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA -",
+            "valor_total": "R$ 16,274.00"
+          },
+          {
+            "objeto": "Registro de Preço para futuro e eventual fornecimento\n\ndiário e parcelado de material de limpeza e higiene destinado a\n\natender as necessidades de diversas secretarias do município de São\n\nJosé da Lagoa Tapada–PB",
+            "empresa": "RUFINO & SILVA MERCADINHO E\n\nPAPELARIA LTDA ME",
+            "valor_total": "R$ 224,405.66"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 262778.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 117602.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 44,
+        "total_gasto": 2898247.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 181,
+        "num_contratos": 255,
+        "total_gasto": 20934984.01
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 33,
+        "total_gasto": 4892310.960000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS\n\nDE AR PARA ATENDER AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "EUGENIO ALVES DO NASCIMENTO\n\nLTDA",
+            "valor_total": "R$ 420,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS\n\nDE AR PARA ATENDER AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "F A DE\n\nLIMA AUTOPECAS",
+            "valor_total": "R$ 420,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 37,
+        "total_gasto": 1848386.0499999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 392206.19999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE RECARGA DE GÁS DE\n\nCOZINHA E VASILHAME PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DO\n\nMUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "REVENDEDORA DE\n\nGÁS SOUSA LTDA",
+            "valor_total": "R$ 49,050.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL E DESCARTÁVEL PARA\n\nATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS\n\nDO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "RITA XAVIER DA\n\nSILVA LTDA",
+            "valor_total": "R$ 110,050.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL E DESCARTÁVEL PARA\n\nATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS\n\nDO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "THIAGO GOMES BARBOSA COMÉRCIO",
+            "valor_total": "R$ 110,050.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 665543.1499999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de saúde e segurança do trabalho na\n\nelaboração do PCMSO (Programa de controle médico de saúde\n\nocupacional): conforme determinado pela NR 01 do ministério do\n\ntrabalho e em total conformidade cm a IN 128/2022 e decreto\n\n3.048/99 da previdência social, bem como, a responsabilidade dos\n\nenvios dos eventos do SST (S–2210 e S–2220;) no E–social, medico\n\nespecialista em saúde do trabalhador com RQE – registro de\n\nqualificação de especialidade (CRM)",
+            "empresa": "PROTEGER - ATIVIDADES, SERVICOS E\n\nDIAGNOSTICO EM SAUDE LTDA",
+            "valor_total": "R$ 33,600.00"
+          },
+          {
+            "objeto": "Contratação de Serviços Técnicos Especializados na Área\n\nde Engenharia civil para prestar Serviços de Fiscalização e\n\nAcompanhamentos das obras de engenharia do Município de São José\n\nda Lagoa Tapada – PB",
+            "empresa": "MARIA CONCEIÇÃO ARAUJO PEREIRA -",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 1049792.56,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta do artista musical: JUDIMAR DIAS,\n\npara apresentação de evento festivo e cultural em alusão a\n\ncomemoração das festividades denominadas: NOVO FORROCHÃO\n\nNO SÍTIO, a ser realizado no dia 29 de Junho de 2024, no sitio Dois\n\nRiachos, município de São Francisco PB",
+            "empresa": "JUDIMAR DIAS DE SOUSA",
+            "valor_total": "R$ 3,000.00"
+          },
+          {
+            "objeto": "Contratação direta do artista musical: Tora Chinela, através\n\nda empresa: RUAN FERREIRA DOS SANTOS 71204235414, para\n\napresentação de evento festivo e cultural em alusão a comemoração\n\ndas festividades denominadas: NOVO FORROCHÃO NO SÍTIO, a\n\nser realizado no dia 29 de Junho de 2024, no sitio Dois Riachos,\n\nmunicípio de São Francisco PB",
+            "empresa": "RUAN FERREIRA DOS SANTOS",
+            "valor_total": "R$ 4,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 28,
+        "total_gasto": 1031546.9900000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE REFEIÇÕES PARA\n\nATENDEREM AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "55.166.111\n\nFRANCINILTON LOPES RAMOS",
+            "valor_total": "R$ 69,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 693783.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Pessoa Jurídica para Prestação de serviços\nna área de assessoria compreendendo a recuperação de crédito por\n\nmeio da identificação de cobranças indevidas (a maior, em\n\nduplicidade, erros de enquadramentos tarifários, perdas nos\n\nequipamentos – parque de iluminação pública etc.)",
+            "empresa": "RUDA PEREIRA BRASIL SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 1158962.01,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÕES DE PEDRAS EM PARALELEPÍPEDOS\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "M H F\n\nDE FREITAS EIRELI",
+            "valor_total": "R$ 123,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 2556561.27,
+        "empresas_mensais": [
+          {
+            "objeto": "registro de preços para futuras aquisições de forma\n\nparcelada, se necessário for, de pneus e câmaras de ar, destinados a\n\ntodos os veículos desta edilidade, com alinhamento e balanceamento\n\ninclusos, com deslocamento por conta da contratada",
+            "empresa": "LUZIA DE\n\nAQUINO FERREIRA",
+            "valor_total": "R$ 225,190.00"
+          },
+          {
+            "objeto": "registro de preços para futuras aquisições de forma\n\nparcelada, se necessário for, de pneus e câmaras de ar, destinados a\n\ntodos os veículos desta edilidade, com alinhamento e balanceamento\n\ninclusos, com deslocamento por conta da contratada",
+            "empresa": ".\n\nFUNDAMENTO LEGAL: Adesão Registro de Preços nº\n\nAD00002/2024",
+            "valor_total": "R$ 225,190.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 2773653.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS LABORATÓRIAIS DESCRITOS NO\n\nTERMO DE REFERÊNCIA PARA CAMPANHA DO NOVEMBRO\n\nAZUL NO MUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "ALLYSON\n\nFORTUNATO DE ABRANTES",
+            "valor_total": "R$ 13,376.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 17,
+        "total_gasto": 973989.7,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE KITS DE LIVROS INFANTIS\n\nDESTINADOS AOS ALUNOS DA REDE DE ENSINO DO\n\nMUNICÍPIO DE SÃO FRANCISCO/PB",
+            "empresa": "GOMES&SILVA ASSESSORIA E\n\nCOMERCIO DE LIVROS LTDA",
+            "valor_total": "R$ 60,450.00"
+          },
+          {
+            "objeto": "O prazo do contrato prorroga até 31 de março de 2025, a\n\ncontar de 01/01/2025",
+            "empresa": "CEMOAN CENTRO MÉDICO DR. OZIAS\n\nARRUDA NETO LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação direta do artista musical: CANTOR GILSON\n\nABRANTES DE OLIVEIRA, através da empresa: J F D L FREIRE,\n\npara apresentação de evento festivo e cultural em alusão a\n\ncomemoração a festividade denominada: FESTA DO BODE a ser\n\nrealizado no dia 05 de Janeiro de 2025 no município de São Francisco\n\nPB",
+            "empresa": "J F D L\n\nFREIRE",
+            "valor_total": "R$ 8,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

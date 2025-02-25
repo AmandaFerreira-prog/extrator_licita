@@ -1,0 +1,131 @@
+{
+  "id": "sao-jose-dos-cordeiros",
+  "nome": "São José Dos Cordeiros",
+  "detalhe": {
+    "2022": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 4476386.75
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 593620.79,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nDESTINADOS A ILUMINAÇÃO E ALHAMBRADO DO CAMPO\n\nDE FUTEBOL NESTE MUNICIPIO DE SÃO JOSÉ DOS\n\nCORDEIROS",
+            "empresa": "MIMOZZA\n\nCONSTRUÇÕES LTDA",
+            "valor_total": "R$ 388,788.89"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nDESTINADOS A CONSTRUÇÃO DE POSTO ANCORA NA\n\nLOCALIDADE SIMÃO LOPES ZONA RURAL DESTE\n\nMUNICIPIO DE SÃO JOSÉ DOS CORDEIROS",
+            "empresa": "TORRES CONSTRUCOES LTDA",
+            "valor_total": "R$ 204,831.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 3882765.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 492658.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1909509.56
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 477000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE CAMINHÃO PIPA OKM\n\nDESTINADOS AO ATENDIMENTO DA DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DOS CORDEIROS",
+            "empresa": "MAIS TRUCK\nCOMERCIO DE CAMINHOES LTDA",
+            "valor_total": "R$ 477,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 36010.81,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E\n\nEQUIPAMENTOS PARA ATENDER A SECRETARIA DE\n\nCULTURA (LEI PAULO GUSTAVO) DESTA PREFEITURA\n\nMUNICIPAL DE SÃO JOSÉ DOS CORDEIROS",
+            "empresa": "AZUS COPY CENTER\n\nCOMERCIO E SERVIOS LTDA",
+            "valor_total": "R$ 10,927.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DESTINADOS A\n\nMELHORIAS EM QUADRAS POLIESPORTIVAS\n\nDESCOBERTAS NAS COMUNIDADES DE PEDRA LAVRADA E\n\nMUNDO NOVO ZONA RURAL DESTE MUNICIPIO DE SÃO\n\nJOSÉ DOS CORDEIROS",
+            "empresa": "COMAF -\n\nSERVICOS DE CONSTRUCOES CIVIS EIRELI",
+            "valor_total": "R$ 25,083.81"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 903840.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ONIBUS RODOVIARIO MOVIDO A\n\nDIESEL ZERO QUILOMENTRO COM CAPACIDADE MINIMA\n\nPARA 30 PASSAGEIROS MAIS MOTORISTA E AUXILIAR ANO\n\nMINIMO 2024/2025 PRIMEIRO EMPLACAMENTO PARA SER\n\nUTILIZADO PELA PREFEITURA MUNICIPAL DE SÃO JOSÉ\n\nDOS CORDEIROS",
+            "empresa": "MARCOPOLO SA",
+            "valor_total": "R$ 680,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -20,7 +20,7 @@
   "resumo": {
     "num_diarios": 1,
     "num_contratos": 0,
-    "total_gasto": 0,
+    "total_gasto": "0,00",
     "top_5_empresas": {},
     "top_5_objetos": {}
   }

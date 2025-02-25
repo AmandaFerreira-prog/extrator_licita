@@ -1,0 +1,291 @@
+{
+  "id": "poco-de-jose-de-moura",
+  "nome": "Poço de Jose de Moura",
+  "detalhe": {
+    "2023": {
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 28,
+        "num_contratos": 18,
+        "total_gasto": 5699490.890000001
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 2026278.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 695000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ne execução de kit de “Laboratórios de aprendizagem criativa maker”,\n\nque consiste em fornecimento de kits maker educacional, formação de\n\neducadores através capacitação presencial e EAD (Ensino a Distância)\n\ncom atividades práticas e material de apoio com carga horária de 40\n\nhoras e soluções digitais de apoio vinculados ao projeto para a Rede\n\nMunicipal de Ensino do Município de Poço José de Moura",
+            "empresa": "ATIVA LABORATORIOS\n\nCRIATIVOS EDUCACIONAIS LTDA",
+            "valor_total": "R$ 695,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 284121.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 10,
+        "total_gasto": 2694091.64,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ngêneros alimentícios, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço José de Moura",
+            "empresa": "AUCLEIDE BATISTA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 764,681.04"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\ngêneros alimentícios, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço José de Moura",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA",
+            "valor_total": "R$ 764,681.04"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nmateriais de limpeza, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço de José de Moura",
+            "empresa": "AUCLEIDE BATISTA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 349,910.60"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nmateriais de limpeza, destinados a manutenção das atividades diversas\n\nsecretarias do Município de Poço de José de Moura",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA",
+            "valor_total": "R$ 349,910.60"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura",
+            "empresa": "ANTONIO BENEVENUTO DE ALENCAR",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura",
+            "empresa": "FRANCISCO AURIAN RIBEIRO",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura",
+            "empresa": "PEDRO MANGUEIRA\n\nDE AQUINO",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde peças e acessórios, destinadas a manutenção da frota de veículos e\n\nmáquinas pesadas pertencentes ao Município de Poço José de Moura",
+            "empresa": "VICENTE AUTOPEÇAS COMÉRCIO E TRANSPORTES LTDA-\n\nME",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual\n\ncontratação de empresa especializada na manutenção preventiva e\n\ncorretiva de veículos e maquinas pesadas pertencentes e locados a\n\nPrefeitura Municipal de Poço José de Moura",
+            "empresa": "ANTONIO BENEVENUTO DE ALENCAR",
+            "valor_total": "R$ 779,500.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual\n\ncontratação de empresa especializada na manutenção preventiva e\n\ncorretiva de veículos e maquinas pesadas pertencentes e locados a\n\nPrefeitura Municipal de Poço José de Moura",
+            "empresa": "VICENTE AUTOPEÇAS COMÉRCIO E\n\nTRANSPORTES LTDA-ME",
+            "valor_total": "R$ 779,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 85,
+        "num_contratos": 74,
+        "total_gasto": 13292045.26
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 456361.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\n\ndidáticos e de expediente, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas Secretarias do Município de\n\nPoço José de Moura",
+            "empresa": "GALVAO MAGAZINE LTDA",
+            "valor_total": "R$ 218,851.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\n\ndidáticos e de expediente, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas Secretarias do Município de\n\nPoço José de Moura",
+            "empresa": "ELIANE DO\n\nNASCIMENTO CAMPOS",
+            "valor_total": "R$ 218,851.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1769790.7,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde Livros Didáticos para EJA, de acordo com a demanda da Secretaria\n\nde Educação do Município de Poço José de Moura",
+            "empresa": "RENOVE LTDA",
+            "valor_total": "R$ 253,020.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 2456197.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 6220412.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 1204974.45,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "BS\n\nEQUIPAMENTOS INDUSTRIA E COMERCIO LTDA-EPP",
+            "valor_total": "R$ 72,320.23"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "BIO LOGICA\n\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 72,320.23"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "CT Nº 00104/2024 - 27.08.24 -\n\nODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 72,320.23"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "CT Nº 00106/2024 - 27.08.24 -\n\nDELTA SHOP - DISTRIBUIDORA DE PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 72,320.23"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "CT Nº 00108/2024 - 27.08.24 - STAN\n\nCOMERCIO DE PRODUTOS MEDICOS LTDA",
+            "valor_total": "R$ 72,320.23"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais odontológicos, de forma parcelada, destinados a\n\nmanutenção das atividades da Secretaria de Saúde do Município de\n\nPoço José de Moura/PB",
+            "empresa": "DENTAL IPO LTDA",
+            "valor_total": "R$ 72,320.23"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 730988.6200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 72000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 171820.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para futura e eventual prestação\n\nde serviços de fornecimento da licença do uso do software em meio\n\nfísico e digital, contemplando capacitação, vídeo aulas e certificação\n\npara todos usuários da rede junto a Secretaria de Educação de Poço de\n\nJosédeMoura/PB",
+            "empresa": "REDE NET COMERCIO,\n\nSERVICOS DE TECNOLOGIA LIMITADA-ME",
+            "valor_total": "R$ 171,820.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 149500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde veículo, tipo furgão, para atender as necessidades da Secretaria de\n\nEducação do Município de Poço de José de Moura – PB",
+            "empresa": "COMERCIO DE VEICULOS\n\nSANTANA LTDA",
+            "valor_total": "R$ 117,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

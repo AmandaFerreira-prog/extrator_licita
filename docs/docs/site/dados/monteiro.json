@@ -4,13 +4,13 @@
   "detalhe": {
     "2019": {
       "11": {
-        "num_diarios": 10,
-        "num_contratos": 52,
-        "total_gasto": 2120884.3299999996,
+        "num_diarios": 9,
+        "num_contratos": 43,
+        "total_gasto": 1824959.7699999996,
         "top_3_empresas": [
           "JOSÉ CARLOS FREITAS LIMA",
           "ADILSON NUNES DE ANDRADE",
-          "MANOEL DE FREITAS LEMOS 04847393449"
+          "MANOEL DE FREITAS LEMOS"
         ],
         "top_3_objetos": [
           "Constitui Acréscimo ao Contrato Primitivo no",
@@ -19,14 +19,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 26,
-        "num_contratos": 67,
-        "total_gasto": 2408741.7199999997
+        "num_diarios": 25,
+        "num_contratos": 62,
+        "total_gasto": 2253931.6599999997
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 15,
-        "total_gasto": 287857.39,
+        "num_contratos": 19,
+        "total_gasto": 428971.89,
         "top_3_empresas": [
           "MARIA DAS DORES MENDES DE SOUZA."
         ],
@@ -47,9 +47,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 212,
-        "num_contratos": 349,
-        "total_gasto": 29741715.149999995
+        "num_diarios": 209,
+        "num_contratos": 348,
+        "total_gasto": 29849724.079999994
       },
       "2": {
         "num_diarios": 16,
@@ -59,9 +59,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 22,
-        "num_contratos": 58,
-        "total_gasto": 2217942.83,
+        "num_diarios": 20,
+        "num_contratos": 57,
+        "total_gasto": 2248886.7600000002,
         "top_3_empresas": [
           "CT Nº 08206/2020",
           "CT Nº 08207/2020",
@@ -74,8 +74,8 @@
       },
       "4": {
         "num_diarios": 18,
-        "num_contratos": 22,
-        "total_gasto": 2207236.64,
+        "num_contratos": 23,
+        "total_gasto": 2332236.64,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -130,9 +130,9 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 17,
-        "num_contratos": 25,
-        "total_gasto": 1843380.55,
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 1795445.55,
         "top_3_empresas": [
           "UROCLINICA"
         ],
@@ -164,23 +164,23 @@
     },
     "2021": {
       "1": {
-        "num_diarios": 19,
-        "num_contratos": 12,
-        "total_gasto": 2462960.0,
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 2437760.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE SACOLAS PLÁSTICAS E SACO\n\nDE LIXO"
         ]
       },
       "resumo": {
-        "num_diarios": 214,
-        "num_contratos": 349,
-        "total_gasto": 31504154.39
+        "num_diarios": 209,
+        "num_contratos": 355,
+        "total_gasto": 33468923.29
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 33,
-        "total_gasto": 1323737.35,
+        "num_contratos": 34,
+        "total_gasto": 2248587.3500000006,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -197,13 +197,13 @@
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 4,
-        "total_gasto": 265860.18,
+        "num_contratos": 10,
+        "total_gasto": 1330979.08,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 6,
         "total_gasto": 171288.15000000002,
         "top_3_empresas": [],
@@ -219,7 +219,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 6,
         "total_gasto": 863892.9,
         "top_3_empresas": [
@@ -230,7 +230,7 @@
         ]
       },
       "8": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 20,
         "total_gasto": 758796.48,
         "top_3_empresas": [],
@@ -285,14 +285,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 210,
-        "num_contratos": 269,
-        "total_gasto": 43797292.44999999
+        "num_diarios": 204,
+        "num_contratos": 261,
+        "total_gasto": 42628248.879999995
       },
       "2": {
-        "num_diarios": 15,
-        "num_contratos": 23,
-        "total_gasto": 3384115.4600000004,
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 2685407.7600000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -310,7 +310,7 @@
         ]
       },
       "4": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 33,
         "total_gasto": 6870291.79,
         "top_3_empresas": [
@@ -321,18 +321,18 @@
         ]
       },
       "5": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 22,
         "total_gasto": 10100394.850000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 10,
         "total_gasto": 425280.14,
         "top_3_empresas": [
-          "ROGERIO DA SILVA ARAUJO,"
+          "ROGERIO DA SILVA ARAUJO"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS,\n\nPARA SUPRIR AS NECESSIDADES DESTA\n\nMUNICIPALIDADE"
@@ -351,18 +351,19 @@
         ]
       },
       "8": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 30,
         "total_gasto": 2159540.95,
-        "top_3_empresas": [],
-        "top_3_objetos": [
-          "CHAMADA PÚBLICA Nº"
-        ]
+        "top_3_empresas": [
+          "SOTREQ\n\nS/A",
+          "MARCUS\n\nV. G. DE ARAUJO FILHO"
+        ],
+        "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 17,
-        "num_contratos": 18,
-        "total_gasto": 5559445.5,
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 4535820.5,
         "top_3_empresas": [
           "ANDRE LUIZ DE\n\nOLIVEIRA SILVA & CIA LTDA"
         ],
@@ -372,8 +373,8 @@
       },
       "10": {
         "num_diarios": 18,
-        "num_contratos": 14,
-        "total_gasto": 1071204.08,
+        "num_contratos": 15,
+        "total_gasto": 1624493.21,
         "top_3_empresas": [
           ") LUCAS & SARAIVA\nCOMERCIO DE COMBUSTIVEIS LTDA",
           "ULTRA SOLUCOES E SERVICOS LTDA.",
@@ -422,14 +423,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 217,
-        "num_contratos": 491,
-        "total_gasto": 47745979.719999984
+        "num_diarios": 212,
+        "num_contratos": 472,
+        "total_gasto": 42852639.66999998
       },
       "2": {
-        "num_diarios": 15,
-        "num_contratos": 61,
-        "total_gasto": 5295165.36,
+        "num_diarios": 14,
+        "num_contratos": 60,
+        "total_gasto": 5234762.36,
         "top_3_empresas": [
           "HELIOSMAN BIDO DA COSTA"
         ],
@@ -446,9 +447,9 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 17,
-        "num_contratos": 25,
-        "total_gasto": 5639275.739999999,
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 5415931.739999999,
         "top_3_empresas": [
           "WILLIAM\n\nRODRIGUES DE LIMA",
           "POLLYANA LONDRIHOSP\n\nIMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS MEDICOS\n\nHOSPITALARES LTDA",
@@ -490,12 +491,12 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 19,
-        "num_contratos": 45,
-        "total_gasto": 2075430.5299999998,
+        "num_diarios": 18,
+        "num_contratos": 44,
+        "total_gasto": 1950135.5299999998,
         "top_3_empresas": [
-          "VAGNER CARLOS DE OLIVEIRA SOUZA,",
-          "EXCLUSIVA\n\nCOMERCIO E SERVIÇOS, PAPELARIA E INFORMATICA,"
+          "VAGNER CARLOS DE OLIVEIRA SOUZA",
+          "EXCLUSIVA\n\nCOMERCIO E SERVIÇOS, PAPELARIA E INFORMATICA"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL AQUISIÇÃO DE MATERIAL DE EXPEDIENTE",
@@ -516,9 +517,9 @@
         ]
       },
       "10": {
-        "num_diarios": 18,
-        "num_contratos": 83,
-        "total_gasto": 7711195.140000001,
+        "num_diarios": 17,
+        "num_contratos": 76,
+        "total_gasto": 3402943.9299999997,
         "top_3_empresas": [
           "AMANDA FIGUEIRA BARBOZA",
           "ANAIRAN SOUSA SIMÃO",
@@ -538,15 +539,14 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 16,
-        "num_contratos": 23,
-        "total_gasto": 2786004.07,
+        "num_diarios": 15,
+        "num_contratos": 21,
+        "total_gasto": 2609957.23,
         "top_3_empresas": [
-          "ERIC RAMON FERREIRA ALVES\n12309380440"
+          "NACIONAL COMERCIO E\nREPRESENTACAO LTDA"
         ],
         "top_3_objetos": [
-          "SISTEMA DE REGISTRO DE PREÇO PARA\nCONTRATAÇÃO DE EXECUÇÃO INDIRETA DE SERVIÇOS\nDA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DIRETA,\nMEDIANTE TERCEIRIZAÇÃO DE SERVIÇOS PÚBLICOS,",
-          "CONTRATAÇÃO DE PESSOA FÍSICA OU\nJURÍDICA PARA A PRESTAÇÃO DE SERVIÇOS DE\nTRANSPORTE ESCOLAR, PARA ATENDER A DEMANDA\nDA REDE MUNICIPAL E ESTADUAL DE ENSINO, NO\nMUNICÍPIO DE MONTEIRO (PB)",
+          "SISTEMA DE REGISTRO DE PREÇO PARA\nEVENTUAL AQUISIÇÃO DE MATERIAL E\nEQUIPAMENTOS MEDICOS HOSPITALARES CONFORME\nESPECIFICAÇÕES NO TERMO DE REFERÊNCIA DO\nEDITAL",
           "Constitui Acréscimo ao Contrato Primitivo no"
         ]
       }
@@ -561,8 +561,8 @@
       },
       "resumo": {
         "num_diarios": 221,
-        "num_contratos": 576,
-        "total_gasto": 80586020.36999999
+        "num_contratos": 577,
+        "total_gasto": 80621020.36999999
       },
       "2": {
         "num_diarios": 15,
@@ -605,8 +605,8 @@
       },
       "6": {
         "num_diarios": 19,
-        "num_contratos": 95,
-        "total_gasto": 6264273.589999999,
+        "num_contratos": 96,
+        "total_gasto": 6299273.589999999,
         "top_3_empresas": [
           "JOELSON TAVARES DE ALMEIDA",
           "JOELSON\n\nTAVARES DE ALMEIDA",
@@ -664,7 +664,7 @@
         "num_contratos": 77,
         "total_gasto": 1228697.03,
         "top_3_empresas": [
-          "ANDERSON BEZERRA DA SILVA\n\n07172269489",
+          "ANDERSON BEZERRA DA SILVA",
           "53.209.899 FERDIVALDO FARIAS FREITAS -",
           "53.317.093 LOURIVAL PEQUENO FILHO -"
         ],
@@ -684,13 +684,13 @@
     }
   },
   "resumo": {
-    "num_diarios": 1100,
-    "num_contratos": 2101,
-    "total_gasto": 235783903.8,
+    "num_diarios": 1080,
+    "num_contratos": 2075,
+    "total_gasto": "231.674.487,95",
     "top_5_empresas": {
       "JOSÉ CARLOS FREITAS LIMA": 1,
       "ADILSON NUNES DE ANDRADE": 1,
-      "MANOEL DE FREITAS LEMOS 04847393449": 1,
+      "MANOEL DE FREITAS LEMOS": 1,
       "MARIA DAS DORES MENDES DE SOUZA.": 1,
       "CT Nº 08206/2020": 1
     },

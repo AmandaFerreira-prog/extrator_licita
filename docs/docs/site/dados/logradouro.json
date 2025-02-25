@@ -11,9 +11,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 100,
-        "num_contratos": 68,
-        "total_gasto": 6058509.190000001
+        "num_diarios": 99,
+        "num_contratos": 71,
+        "total_gasto": 6912521.88
       },
       "2": {
         "num_diarios": 10,
@@ -23,9 +23,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 12,
-        "num_contratos": 10,
-        "total_gasto": 784897.98,
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 998067.28,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -66,10 +66,14 @@
       },
       "8": {
         "num_diarios": 12,
-        "num_contratos": 4,
-        "total_gasto": 79575.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 6,
+        "total_gasto": 720418.39,
+        "top_3_empresas": [
+          "TECNOMETAIS CONSTRUÇÕES\n\nMETALICAS"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS\n\nREMANESCENTES DE CONSTRUÇÃO DE QUADRA COBERTA\n\nCOM VESTIÁRIOS NO MUNICÍPIO DE MASSARANDUBA/PB"
+        ]
       },
       "9": {
         "num_diarios": 6,
@@ -125,9 +129,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 110,
-        "num_contratos": 55,
-        "total_gasto": 3702603.5399999996
+        "num_diarios": 109,
+        "num_contratos": 54,
+        "total_gasto": 3675103.5399999996
       },
       "2": {
         "num_diarios": 10,
@@ -151,9 +155,9 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 15,
-        "num_contratos": 18,
-        "total_gasto": 797548.3,
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 770048.3,
         "top_3_empresas": [
           "SEVERINA APARECIDA DOS SANTOS\n\nTEIXEIRA",
           "ANTONIO\n\nMARCELO PEIXOTO DE MENDONÇA"
@@ -235,7 +239,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 65,
+        "num_diarios": 64,
         "num_contratos": 74,
         "total_gasto": 6259956.370000001
       },
@@ -292,7 +296,8 @@
         ],
         "top_3_objetos": [
           "Contratação de uma empresa elaboração de projetos",
-          "Contratação de aterro sanitário licenciado para recebimento\ne disposição final de resíduos sólidos urbanos produzidos pelo\nMunicípio de Logradouro"
+          "Contratação de aterro sanitário licenciado para recebimento\ne disposição final de resíduos sólidos urbanos produzidos pelo\nMunicípio de Logradouro",
+          "CONTRATAÇÃO DE ESTABELECIMENTO\nCOMERCIAL PARA FORNECIMENTO PARCELADO DE PNEUS\nE CÂMARAS COM MONTAGEM E DESMONTAGEM\nDESTINADO A FROTA DE VEÍCULOS DESTA PREFEITURA"
         ]
       },
       "8": {
@@ -303,7 +308,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 6,
         "total_gasto": 48216.5,
         "top_3_empresas": [
@@ -354,7 +359,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 46,
+        "num_diarios": 45,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -373,7 +378,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -431,9 +436,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 68,
-        "num_contratos": 24,
-        "total_gasto": 1415275.87
+        "num_diarios": 67,
+        "num_contratos": 25,
+        "total_gasto": 1448350.87
       },
       "2": {
         "num_diarios": 4,
@@ -471,7 +476,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -500,8 +505,8 @@
       },
       "11": {
         "num_diarios": 13,
-        "num_contratos": 10,
-        "total_gasto": 934460.5499999999,
+        "num_contratos": 11,
+        "total_gasto": 967535.5499999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -516,15 +521,15 @@
     "2023": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 21,
-        "total_gasto": 3877764.23,
+        "num_contratos": 23,
+        "total_gasto": 3973764.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 139,
-        "num_contratos": 107,
-        "total_gasto": 15932474.18
+        "num_diarios": 137,
+        "num_contratos": 110,
+        "total_gasto": 16041974.18
       },
       "2": {
         "num_diarios": 13,
@@ -592,7 +597,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 5,
         "total_gasto": 1475507.43,
         "top_3_empresas": [],
@@ -603,7 +608,7 @@
         "num_contratos": 4,
         "total_gasto": 1246107.64,
         "top_3_empresas": [
-          "ELOISA KARLA\n\nRODRIGUES DE OLIVEIRA 01227931450"
+          "ELOISA KARLA\n\nRODRIGUES DE OLIVEIRA"
         ],
         "top_3_objetos": [
           "Contratação de um tanque limpa fossa, capacidade mínima\n\nde 8 mil litros, para o recolhimentosdos dejetos de fossas sépticas dos\n\nprédios públicose casas de famílias carentes do município de\n\nLogradouro quando se fizer necessário"
@@ -619,9 +624,9 @@
         ]
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 89069.26,
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 102569.26,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -652,7 +657,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 69,
+        "num_diarios": 68,
         "num_contratos": 81,
         "total_gasto": 12003301.299999999
       },
@@ -745,7 +750,7 @@
         ]
       },
       "11": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 2,
         "total_gasto": 113417.23999999999,
         "top_3_empresas": [
@@ -767,22 +772,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 597,
-    "num_contratos": 409,
-    "total_gasto": 45372120.45,
+    "num_diarios": 589,
+    "num_contratos": 415,
+    "total_gasto": "46.341.208,14",
     "top_5_empresas": {
       "Gráfica Futura LTDA -\nME": 1,
       "FERNANDO GOMES DA SILVA": 1,
       "JOSÉ CLAUDIO PEREIRA DA COSTA -\nR$ 8.330,00; CT Nº 00056/2018": 1,
-      "LUIZ ANTONIO DA SILVA": 1,
-      "POSTO DE\nCOMBUSTÍVEIS CAIÇARA LTDA. Fica reajustado (acréscimo) o\nvalor do contrato, nos limites permitidos por lei, em": 1
+      "TECNOMETAIS CONSTRUÇÕES\n\nMETALICAS": 1,
+      "LUIZ ANTONIO DA SILVA": 1
     },
     "top_5_objetos": {
       "Contratação de empresa para confecção de formulários e\noutros para atender as necessidades da Administração Municipal": 1,
       "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS\n\nREMANESCENTES DE CONSTRUÇÃO DE QUADRA COBERTA\n\nCOM VESTIÁRIOS NO MUNICÍPIO DE MASSARANDUBA/PB": 1,
       "Contratação de Carro Pipa, com capacidade mínima de 07\n\n(sete) M³, com a obrigação de executar o percurso de 50 (cinqüenta)\n\nKm/dia, realizar 03 (três) viagens por dia ou a quantidade de viagens\n\nque forem necessárias, de segunda a sábado, transportando e\n\ndistribuindo água potável nos locais indicados para atendimento\n\nemergencial da população urbana e rural atingida pela estiagem deste\n\nMunicípio de Logradouro PB, conforme ainda Decreto Municipal nº\n\n00016 de 27/07/2018": 1,
-      "Aquisição parceladas de combustíveis e\nderivados para o abastecimento dos veículos, motocicletas e máquinas\npertencentes a frota da prefeitura municipal de logradouro e ao fundo\nmunicipal de saúde de logradouro": 1,
-      "Aquisição parcelada de pneus,\ncâmaras de ar e protetores de aro, tipo primeira linha, para atender a\nfrota de veículos leves e pesados do município de Logradouro PB": 1
+      "Aquisição parceladas de combustíveis e\nderivados para o abastecimento dos veículos, motocicletas e máquinas\npertencentes a frota da prefeitura municipal de logradouro e ao fundo\nmunicipal de saúde de logradouro": 1
     }
   }
 }

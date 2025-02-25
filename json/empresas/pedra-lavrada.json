@@ -1,0 +1,385 @@
+{
+  "id": "pedra-lavrada",
+  "nome": "Pedra Lavrada",
+  "detalhe": {
+    "2022": {
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 653469.0700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 84,
+        "total_gasto": 6968757.700000001
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 93837.5,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE SOFTWARE PARA ATENDER AS\n\nNECESSIDADES DO CRAS DESTE MUNICIPIO",
+            "empresa": "ADRIELLY DE CASTRO SILVA\n\nOLIVEIRA",
+            "valor_total": "R$ 14,400.00"
+          },
+          {
+            "objeto": "ADESÃO A ATA DE REGISTRO DE PREÇOS Nº\n\n00039/2021 – PREGÃO PRESENCIAL Nº 00039/2021 –\n\nPROCESSO ADMINISTRATIVO Nº 091/2021 – PM GURJÃO –\n\nCONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO E A\n\nREMANUFATURA DE CARTUCHOS E TONNERS",
+            "empresa": "AZUS COPY\n\nCENTER COMERCIO E SERVIOS LTDA",
+            "valor_total": "R$ 79,437.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 1992408.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 518111.91000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 716096.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 1357175.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 518072.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO\n\nE DIGITAÇÃO PARA ATENDER AS DEMANDAS DESTA\n\nPREFEITURA",
+            "empresa": "C R COSTA & CIA LTDA",
+            "valor_total": "R$ 49,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE MECANICA EM\n\nGERAL PARA ATENDER AS DEMANDAS DA SECRETARIA\n\nDE INFRA ESTRUTURA DESTE MUNICIPIO",
+            "empresa": "ARISBEL\n\nCORDEIRO COSTA",
+            "valor_total": "R$ 53,996.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE LANTERNAGEM,\n\nPINTURA E CAPOTARIA DESTINADOS AS NECESSIDADES\n\nDOS VEÍCULOS ONIBUS DESTA PREFEITURA",
+            "empresa": "LUCIANO SALVIANO\n\nDE SOUZA",
+            "valor_total": "R$ 140,736.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS RAIOLOGICOS\n\nPARA ATENDER AS DEMANDAS DA SECRETARIA DE\n\nSAÚDE DESTA PREFEITURA",
+            "empresa": "LUCIANO SALVIANO\n\nDE SOUZA",
+            "valor_total": "R$ 140,736.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE LANTERNAGEM,\n\nPINTURA E CAPOTARIA DESTINADOS AS NECESSIDADES\n\nDOS VEÍCULOS ONIBUS DESTA PREFEITURA",
+            "empresa": "IMAGO DIAGNOSTICO POR IMAGEM AVANCADO LTDA",
+            "valor_total": "R$ 140,736.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS RAIOLOGICOS\n\nPARA ATENDER AS DEMANDAS DA SECRETARIA DE\n\nSAÚDE DESTA PREFEITURA",
+            "empresa": "IMAGO DIAGNOSTICO POR IMAGEM AVANCADO LTDA",
+            "valor_total": "R$ 140,736.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 46200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 260546.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 812840.3200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 236049.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 131,
+        "num_contratos": 124,
+        "total_gasto": 18526097.020000003
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 3757758.2500000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 2053915.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 1055589.6199999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 2351027.2,
+        "empresas_mensais": [
+          {
+            "objeto": "o CREDENCIAMENTO DE PROFISSIONAIS MÉDICOS\n\nESPECIALISTAS, PARA A PRESTAÇÃO DE CONSULTAS E\n\nEXAMES ESPECIALIZADOS DE ACORDO COM AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICIPIO\n\nDE PEDRA LAVRADA",
+            "empresa": "I2 SERVICOS\n\nSAUDE LTDA",
+            "valor_total": "R$ 950,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE COMBUSTIVEL PARA\n\nABASTECIMENTO DO VEICULO DESTA CASA LEGISLATIVA",
+            "empresa": "POSTO DE COMBUSTIVEIS CUBATI\n\nLTDA",
+            "valor_total": "R$ 161,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 2990758.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 624574.3,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\n\nCOMERCIAL PARA O FORNECIMENTO DE FORMA\n\nPARCELADA DE MATERIAL DE EXPEDIENTE DESTINADOS\n\nAS NECESSIDADES DAS SECRETARIAS DESTA PREFEITURA",
+            "empresa": "LRF\n\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 454,174.30"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ATERRO SANITÁRIO\n\nLICENCIADO PARA RECEBIMENTO E DISPOSIÇÃO FINAL DE\n\nRESIDUOS SÓLIDOS URBANOS PRODUZIDOS PELO\n\nMUNICIPIO DE PEDRA LAVRADA",
+            "empresa": "ECOSOLO\n\nGESTAO AMBIENTAL DE RESIDUOS LTDA",
+            "valor_total": "R$ 41,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 57225.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1867868.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 1758458.15,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE CARNES E DERIVADOS DE FORMA\n\nPARCELADA PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE MISTA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "JOSIVANIA DE MACEDO ALMEIDA",
+            "valor_total": "R$ 200,274.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\n\nCOMERCIAL PARA FORNECIMENTO DE FORMA\n\nPARCELADA DE GÊNEROS DIVERSOS DESTINADOS AS\n\nNECESSIDADES DA UNIDADE MISTA DE SAÚDE DESTE\nMUNICIPIO",
+            "empresa": "JTA DISTRIBUIDORA",
+            "valor_total": "R$ 106,355.45"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\n\nCOMERCIAL PARA FORNECIMENTO DE FORMA\n\nPARCELADA DE GÊNEROS DIVERSOS DESTINADOS AS\n\nNECESSIDADES DA UNIDADE MISTA DE SAÚDE DESTE\nMUNICIPIO",
+            "empresa": "CT Nº 10084/2023 -\n\n20.10.23",
+            "valor_total": "R$ 106,355.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 574598.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 1198274.0699999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 146581.47999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 121,
+        "num_contratos": 122,
+        "total_gasto": 18145419.969999995
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 15,
+        "total_gasto": 2749894.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 958818.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 2608086.0999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 14,
+        "total_gasto": 5926625.44,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nDESTINADOS A ADEQUAÇÃO DE ESTRADAS VICINAIS E\n\nCONSTRUÇÃO DE PASSAGEM MOLHADA NO MUNICÍPIO DE\n\nPEDRA LAVRADA",
+            "empresa": "MPA\n\nCONSTRUCOES E PARTICIPACOES LTDA",
+            "valor_total": "R$ 4,660,649.44"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 482997.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 3522707.2699999996,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nDESTINADOS A CONSTRUÇÃO DE PAVIMENTAÇÃO EM\n\nPARALELPIPEDOS E DRENAGEM NO MUNICIPIO DE PEDRA\nLAVRADA",
+            "empresa": "MPA CONSTRUCOES E\n\nPARTICIPACOES LTDA",
+            "valor_total": "R$ 980,511.86"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\n\nDESTINADOS A ADEQUAÇÃO DE ESTRADAS VICINAIS NAS\n\nLOCLIDADES TANQUINHO E SERROTE NO MUNICÍPIO DE\n\nPEDRA LAVRADA",
+            "empresa": "MPA\n\nCONSTRUCOES E PARTICIPACOES LTDA",
+            "valor_total": "R$ 1,918,247.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 575451.1799999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\n\nCOMERCIAL PARA O FORNECIMENTO DE PEÇAS ORIGINAIS\nE GENUINAS COM SERVIÇOS CORRETIVOS E PREVENTIVOS\n\nDESTINADOS A FROTA DE VEÍCULOS LEVES E PESADOS\n\nDESTA PREFEITURA",
+            "empresa": "DANILO JOSE\nMARTINS DA SILVA COMERCIO DE AUTO PECAS E PNEUS\n\nLTDA",
+            "valor_total": "R$ 279,909.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 248512.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PROFISSIONAIS DESTINADOS\n\nA MANUTENÇÃO, LIMPEZA E OPEREÇÃO DA REDE\n\nCOLETORA DE ESGOTO DA SEDE DESTE MUNICIPIO DE\n\nPEDRA LAVRADA",
+            "empresa": "JOSÉ ALEXANDRINO DE OLIVEIRA -\n\nR$ 7.000,00; CT Nº 10103/2024",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE CAMINHÕES EQUIPADOS COM\n\nPIPAS PARA ATENDER AS DEMANDAS DESTA PREFEITURA\n\nMUNICIPAL DE PEDRA LAVRADA",
+            "empresa": "GILBERTO FERREIRA DOS SANTOS -\n\nR$ 47.880,00; CT Nº 10105/2024",
+            "valor_total": "R$ 47,880.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 666087.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 189756.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESTABELECIMENTO\n\nCOMERCIAL PARA FORNECIMENTO DE FORMA\n\nPARCELADA DE MATERIAL DE CONSTRUÇÃO DIVERSOS\n\nPARA ATENDER AS NECESSIDADES DAS SECRETARIAS\n\nDESTA PREFEITURA MUNICIPAL DE PEDRA LAVRADA",
+            "empresa": "JOAB\n\nRANIEDSON ALMEIDA RAMOS",
+            "valor_total": "R$ 56,172.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 69902.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

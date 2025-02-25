@@ -3,8 +3,8 @@
   "nome": "Esperança",
   "detalhe": {
     "2014": {
-      "2": {
-        "num_diarios": 2,
+      "8": {
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -15,7 +15,14 @@
         "num_contratos": 0,
         "total_gasto": 0
       },
-      "4": {
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
         "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
@@ -29,22 +36,15 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "6": {
+      "4": {
         "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "7": {
-        "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
-        "num_diarios": 1,
+      "2": {
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -228,7 +228,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -261,7 +261,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -305,12 +305,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 25,
+        "num_diarios": 24,
         "num_contratos": 0,
         "total_gasto": 0
       },
       "2": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -660,14 +660,14 @@
     },
     "2022": {
       "1": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 67,
+        "num_diarios": 66,
         "num_contratos": 8,
         "total_gasto": 5388693.459999999
       },
@@ -772,7 +772,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 78,
+        "num_diarios": 76,
         "num_contratos": 8,
         "total_gasto": 11342817.6
       },
@@ -814,7 +814,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 1,
         "total_gasto": 705918.16,
         "top_3_empresas": [],
@@ -851,7 +851,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
@@ -967,9 +967,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 379,
+    "num_diarios": 374,
     "num_contratos": 41,
-    "total_gasto": 26602706.22,
+    "total_gasto": "26.602.706,22",
     "top_5_empresas": {
       "VERSATTA SERVIÇOS E CONSTRUÇÕES EIRELI -": 3,
       "ACCOCIL CONSTRUÇÕES E LOCAÇÕES EIRELI -": 2,

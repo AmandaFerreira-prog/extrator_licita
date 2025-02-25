@@ -4,7 +4,7 @@
   "detalhe": {
     "2024": {
       "4": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 15,
         "total_gasto": 1801043.8,
         "top_3_empresas": [
@@ -15,7 +15,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 36,
+        "num_diarios": 35,
         "num_contratos": 65,
         "total_gasto": 9792799.07
       },
@@ -68,7 +68,7 @@
         "num_contratos": 7,
         "total_gasto": 973580.77,
         "top_3_empresas": [
-          "MARIA DOS ANJOS ALEXANDRE DE\n\nLIMA 06864815420"
+          "MARIA DOS ANJOS ALEXANDRE DE\n\nLIMA"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE BISCOITO E SALGADOS PARA SUPRIR AS\n\nNECESSIDADES DE DIVERSAS SECRETÁRIAS DO\n\nMUNICÍPIO DE BANANEIRAS–PB",
@@ -111,9 +111,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 36,
+    "num_diarios": 35,
     "num_contratos": 65,
-    "total_gasto": 9792799.07,
+    "total_gasto": "9.792.799,07",
     "top_5_empresas": {
       "FASE MATERIAIS ELETRICO E DE\n\nCONSTRUCAO EM GERAL": 1,
       "52.255.496 MANOEL MESSIAS\n\nANSELMO DANTAS DA SILVA": 1,

@@ -3,28 +3,32 @@
   "nome": "Alhandra",
   "detalhe": {
     "2014": {
-      "7": {
-        "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 80000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 234254.0,
+        "top_3_empresas": [
+          "PEDRO PABLO DIAS DE SOUZA -\nR$ 22.000,00\n\nAlhandra",
+          "MANUEL PEREIRA DE ARAUJO\nJUNIOR",
+          "ROSILENE CANDIDO VIEIRA -\nME"
+        ],
+        "top_3_objetos": [
+          "Contratação de profissional do setor artístico PEDRO\nPAULO E BANDA constituída de um zabumbeiro e um trianguista",
+          "AQUISIÇÃO DE TERRENO MEDINDO 10 METROS\nNA FRENTE E FUNDOS POR 22 METROS DE COMPRIMENTO\nDE AMBOS OS LADOS",
+          "Apresentação das Bandas VICTOR SANTOS e CICINHO\nLIMA, no dia 28 de junho de 2014"
+        ]
       },
       "resumo": {
         "num_diarios": 19,
         "num_contratos": 9,
         "total_gasto": 604006.0
       },
-      "8": {
-        "num_diarios": 3,
-        "num_contratos": 5,
-        "total_gasto": 234254.0,
-        "top_3_empresas": [
-          "EDVALDO DE OLIVEIRA LIMA -\nR$ 66.500,00; CT Nº 00114/2014"
-        ],
-        "top_3_objetos": [
-          "Contratação de profissional de setor artístico visando a\napresentação de diversas bandas nas festividades da\nPadroeira.VIGÊNCIA: 1 (um) mês\nPARTES CONTRATANTES: Prefeitura Municipal de Alhandra e:\nCT Nº 00113/2014 - 04.08.14 - EDVALDO DE OLIVEIRA LIMA -\nR$ 66.500,00; CT Nº 00114/2014 - 04.08.14 - PAULO TAVARES\nDA SILVA - R$ 134.000,00\n\nAlhandra - PB, 04 de Agosto de 2014\n\nMARCELO RODRIGUES DA COSTA\nPrefeito Constitucional\n\nPUBLICADO NO D.O.M, Ed"
-        ]
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 80000.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "9": {
         "num_diarios": 3,
@@ -262,12 +266,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 157,
+        "num_diarios": 156,
         "num_contratos": 88,
         "total_gasto": 10771728.29
       },
       "2": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 11,
         "total_gasto": 2551555.9,
         "top_3_empresas": [],
@@ -362,14 +366,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 155,
-        "num_contratos": 188,
-        "total_gasto": 21488910.900000002
+        "num_diarios": 152,
+        "num_contratos": 185,
+        "total_gasto": 20070632.900000002
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 20,
-        "total_gasto": 2253060.5500000003,
+        "num_contratos": 22,
+        "total_gasto": 2319060.5500000003,
         "top_3_empresas": [
           "EMPRESA SULAMERICANA DE\nTECNOLOGIA INDUSTRIA E COMERCIO EIRE"
         ],
@@ -392,14 +396,14 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 9,
         "total_gasto": 3730921.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 37,
         "total_gasto": 2605962.13,
         "top_3_empresas": [],
@@ -425,15 +429,15 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 14,
-        "total_gasto": 2684650.1799999997,
+        "num_contratos": 10,
+        "total_gasto": 1217302.18,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 11,
-        "num_contratos": 4,
-        "total_gasto": 218594.45,
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 201664.45,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -461,9 +465,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 164,
-        "num_contratos": 190,
-        "total_gasto": 22258084.939999998
+        "num_diarios": 161,
+        "num_contratos": 168,
+        "total_gasto": 20896374.939999998
       },
       "2": {
         "num_diarios": 19,
@@ -480,9 +484,9 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 16,
-        "num_contratos": 52,
-        "total_gasto": 3236350.42,
+        "num_diarios": 15,
+        "num_contratos": 32,
+        "total_gasto": 2003105.42,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -492,8 +496,8 @@
         "total_gasto": 3734826.7199999997,
         "top_3_empresas": [
           "AMS TRANSPORTES LTDA",
-          "ANDRE DA SILVA DE\nPONTES 02411670435",
-          "CT Nº 00126/2019 -\n30.05.19"
+          "ANDRE DA SILVA DE\nPONTES",
+          "CT Nº 00125/2019"
         ],
         "top_3_objetos": [
           "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
@@ -523,9 +527,9 @@
         ]
       },
       "8": {
-        "num_diarios": 14,
-        "num_contratos": 16,
-        "total_gasto": 1982489.3299999998,
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 1854024.3299999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -537,7 +541,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 9,
         "total_gasto": 440433.79,
         "top_3_empresas": [],
@@ -567,14 +571,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 148,
-        "num_contratos": 114,
-        "total_gasto": 12451015.55
+        "num_diarios": 146,
+        "num_contratos": 111,
+        "total_gasto": 12330375.55
       },
       "2": {
-        "num_diarios": 11,
-        "num_contratos": 16,
-        "total_gasto": 3536053.3,
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 3415413.3,
         "top_3_empresas": [
           "PORFIRIO CORREIO DE QUEIROZ",
           "WAGNER\nCARTAXO MARQUES EIRELI"
@@ -619,7 +623,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 5,
         "total_gasto": 232698.0,
         "top_3_empresas": [],
@@ -684,9 +688,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 224,
-        "num_contratos": 142,
-        "total_gasto": 31824200.489999995
+        "num_diarios": 220,
+        "num_contratos": 141,
+        "total_gasto": 31742795.489999995
       },
       "2": {
         "num_diarios": 18,
@@ -696,9 +700,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 18,
-        "num_contratos": 14,
-        "total_gasto": 4532229.109999999,
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 4450824.109999999,
         "top_3_empresas": [
           "SERVCLIMA COMERCIO E SERVICOS\nLTDA"
         ],
@@ -737,7 +741,7 @@
         ]
       },
       "8": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 11,
         "total_gasto": 3355860.54,
         "top_3_empresas": [],
@@ -764,14 +768,14 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 5,
         "total_gasto": 3242174.55,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 12,
         "total_gasto": 1260936.62,
         "top_3_empresas": [],
@@ -780,28 +784,28 @@
     },
     "2022": {
       "1": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 2,
         "total_gasto": 150000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 214,
-        "num_contratos": 163,
-        "total_gasto": 60777928.52
+        "num_diarios": 211,
+        "num_contratos": 164,
+        "total_gasto": 61625303.28
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 17,
-        "total_gasto": 6898248.69,
+        "num_contratos": 19,
+        "total_gasto": 6957915.69,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 19,
-        "num_contratos": 25,
-        "total_gasto": 9364368.52,
+        "num_contratos": 26,
+        "total_gasto": 10230836.280000001,
         "top_3_empresas": [
           "JOSE MESSIAS ANJOS SILVA",
           "JORGE MANUEL\n\nALMAS PAIS",
@@ -814,7 +818,7 @@
         ]
       },
       "4": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 21,
         "total_gasto": 4372344.18,
         "top_3_empresas": [
@@ -834,9 +838,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 21,
-        "num_contratos": 7,
-        "total_gasto": 987104.04,
+        "num_diarios": 20,
+        "num_contratos": 5,
+        "total_gasto": 908344.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -886,7 +890,7 @@
         "num_contratos": 8,
         "total_gasto": 1428746.0,
         "top_3_empresas": [
-          "JOSE DA SILVA\n08146619479"
+          "JOSE DA SILVA"
         ],
         "top_3_objetos": [
           "Aquisição de fogos de artifício destinado à realização de\nshow pirotécnico, durante os eventos de Natal e Ano Novo"
@@ -910,9 +914,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 217,
-        "num_contratos": 220,
-        "total_gasto": 46453176.29
+        "num_diarios": 216,
+        "num_contratos": 219,
+        "total_gasto": 45098403.2
       },
       "2": {
         "num_diarios": 18,
@@ -930,9 +934,9 @@
         ]
       },
       "3": {
-        "num_diarios": 23,
-        "num_contratos": 13,
-        "total_gasto": 4887780.9799999995,
+        "num_diarios": 22,
+        "num_contratos": 11,
+        "total_gasto": 3372376.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -981,8 +985,8 @@
       },
       "9": {
         "num_diarios": 16,
-        "num_contratos": 11,
-        "total_gasto": 6299396.9799999995,
+        "num_contratos": 12,
+        "total_gasto": 6460028.829999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1024,9 +1028,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 212,
-        "num_contratos": 237,
-        "total_gasto": 52272615.50999999
+        "num_diarios": 208,
+        "num_contratos": 240,
+        "total_gasto": 52297165.50999999
       },
       "2": {
         "num_diarios": 18,
@@ -1036,7 +1040,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 8,
         "total_gasto": 2916598.8,
         "top_3_empresas": [],
@@ -1059,13 +1063,13 @@
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 16,
-        "total_gasto": 4657736.9799999995,
+        "num_contratos": 18,
+        "total_gasto": 4671736.9799999995,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 12,
         "total_gasto": 5959826.2,
         "top_3_empresas": [],
@@ -1113,19 +1117,21 @@
       },
       "11": {
         "num_diarios": 16,
-        "num_contratos": 22,
-        "total_gasto": 2447086.77,
+        "num_contratos": 23,
+        "total_gasto": 2457636.77,
         "top_3_empresas": [
           "COMERCIO DE PRODUTOS PARA DIAGNOSTICO HUMANO\n\nLTDA",
-          "PRIME EDUCACAO E TECNOLOGIA\n\nLTDA"
+          "PRIME EDUCACAO E TECNOLOGIA\n\nLTDA",
+          "KALCULUS COMERCIO DE MOVEIS PARA ESCRITORIO\n\nLTDA"
         ],
         "top_3_objetos": [
           "Adesão à ATA DE REGISTRO DE PREÇOS Nº RP\n\n063/2024, decorrente do PREGÃO ELETRÔNICO Nº 017/2024, que\n\nobjetiva: fornecimento de insumos e reagentes, para atender o\n\nlaboratório de análises clínicas",
-          "Adesão à ATA DE REGISTRO DE PREÇOS Nº: 01\n\n00005/2024, decorrente do PREGÃO ELETRÔNICO Nº 00005/2024,\n\nrealizado pela Prefeitura Municipal de Itapororoca/PB, que objetiva a\n\naquisição de kits pedagógicos com peças, componentes e material de\n\napoio ao professor"
+          "Adesão à ATA DE REGISTRO DE PREÇOS Nº: 01\n\n00005/2024, decorrente do PREGÃO ELETRÔNICO Nº 00005/2024,\n\nrealizado pela Prefeitura Municipal de Itapororoca/PB, que objetiva a\n\naquisição de kits pedagógicos com peças, componentes e material de\n\napoio ao professor",
+          "Aquisição de cadeiras longarinas destinadas ao plenário da\n\nnova sede da Câmara Municipal de Barra de Santa Rosa/PB"
         ]
       },
       "12": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 2,
         "total_gasto": 244500.0,
         "top_3_empresas": [],
@@ -1134,22 +1140,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 1623,
-    "num_contratos": 1378,
-    "total_gasto": 260846523.38,
+    "num_diarios": 1602,
+    "num_contratos": 1352,
+    "total_gasto": "257.381.642,05",
     "top_5_empresas": {
-      "EDVALDO DE OLIVEIRA LIMA -\nR$ 66.500,00; CT Nº 00114/2014": 1,
+      "PEDRO PABLO DIAS DE SOUZA -\nR$ 22.000,00\n\nAlhandra": 1,
+      "MANUEL PEREIRA DE ARAUJO\nJUNIOR": 1,
+      "ROSILENE CANDIDO VIEIRA -\nME": 1,
       "ASSP\n\nASSESSORIA E PLANEJAMENTO LTDA": 1,
-      "SME SERVIÇOS ESPECIALIZADOS\n\nLTDA": 1,
-      "VLADMIR DE MATOS LEITÃO": 1,
-      "EMPRESA SULAMERICANA DE\nTECNOLOGIA INDUSTRIA E COMERCIO EIRE": 1
+      "SME SERVIÇOS ESPECIALIZADOS\n\nLTDA": 1
     },
     "top_5_objetos": {
-      "Contratação de profissional de setor artístico visando a\napresentação de diversas bandas nas festividades da\nPadroeira.VIGÊNCIA: 1 (um) mês\nPARTES CONTRATANTES: Prefeitura Municipal de Alhandra e:\nCT Nº 00113/2014 - 04.08.14 - EDVALDO DE OLIVEIRA LIMA -\nR$ 66.500,00; CT Nº 00114/2014 - 04.08.14 - PAULO TAVARES\nDA SILVA - R$ 134.000,00\n\nAlhandra - PB, 04 de Agosto de 2014\n\nMARCELO RODRIGUES DA COSTA\nPrefeito Constitucional\n\nPUBLICADO NO D.O.M, Ed": 1,
+      "Contratação de profissional do setor artístico PEDRO\nPAULO E BANDA constituída de um zabumbeiro e um trianguista": 1,
+      "AQUISIÇÃO DE TERRENO MEDINDO 10 METROS\nNA FRENTE E FUNDOS POR 22 METROS DE COMPRIMENTO\nDE AMBOS OS LADOS": 1,
+      "Apresentação das Bandas VICTOR SANTOS e CICINHO\nLIMA, no dia 28 de junho de 2014": 1,
       "Aquisição de passes rodoviários estudantis, para o\ntransporte de estudantes do Município de Alhandra para João Pessoa": 1,
-      "CONTRATAÇAO DOS SERVIÇOS DE EMISSAO DE\nCERTIDOES PARA DOAÇAO A PESSOAS CARENTES DO\nMUNICIPIO DE ALHANDRA": 1,
-      "Contratação de bandas para apresentação em praça pública\npor ocasião das comemorações de São Sebastião": 1,
-      "Contratação de profissional para assessoria e consultoria\ntécnicas a processos licitações e contratos administrativos": 1
+      "CONTRATAÇAO DOS SERVIÇOS DE EMISSAO DE\nCERTIDOES PARA DOAÇAO A PESSOAS CARENTES DO\nMUNICIPIO DE ALHANDRA": 1
     }
   }
 }

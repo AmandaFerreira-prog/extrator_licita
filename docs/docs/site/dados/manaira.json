@@ -5,8 +5,8 @@
     "2017": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 1455067.0,
         "top_3_empresas": [
           "A EMPRESA: CICERA KLEBYA\nMEDEIROS LACERDA",
           "s, locados a disposição ou\nvinculados a atividades pública do Município de Manaíra",
@@ -18,14 +18,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 53,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 52,
+        "num_contratos": 46,
+        "total_gasto": 4708532.01
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1403885.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -38,8 +38,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 81386.25,
         "top_3_empresas": [
           "A EMPRESA DAMIÃO WERIKSON\nSILVA DOS ANJOS"
         ],
@@ -49,15 +49,15 @@
       },
       "5": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 554200.76,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 331409.6,
         "top_3_empresas": [
           "AQ\nCONSTRUTORA LTDA",
           "CESAP",
@@ -71,36 +71,36 @@
       },
       "7": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 266930.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 364825.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 48645.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 13907.63,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 188275.37,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -115,15 +115,15 @@
     "2018": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 22,
+        "total_gasto": 4919265.1899999995,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 80,
-        "num_contratos": 6,
-        "total_gasto": 445151.87
+        "num_diarios": 78,
+        "num_contratos": 89,
+        "total_gasto": 9947644.45
       },
       "2": {
         "num_diarios": 1,
@@ -134,10 +134,10 @@
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 34815.0,
+        "num_contratos": 34,
+        "total_gasto": 2310963.02,
         "top_3_empresas": [
-          "A EMPRESA JOSÉ DA SILVA\n08146619479"
+          "A EMPRESA JOSÉ DA SILVA"
         ],
         "top_3_objetos": [
           "Aquisição de Fogos de artifícios para atender as\nnecessidades da Prefeitura Municipal de Manaíra, conforme proposta\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº"
@@ -145,36 +145,36 @@
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 156.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 902964.97,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 53280.0,
+        "num_contratos": 5,
+        "total_gasto": 414327.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 307765.24,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 216000.0,
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 270000.0,
         "top_3_empresas": [
           "A EMPRESA GRANDMAX\n\nCOMÉRCIO E SERVIÇOS LTDA"
         ],
@@ -184,8 +184,8 @@
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 123056.87,
+        "num_contratos": 4,
+        "total_gasto": 182056.87,
         "top_3_empresas": [
           "COMERCIAL RENASCER LTDA",
           "pagará a"
@@ -194,8 +194,8 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 201860.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -207,9 +207,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 2,
-        "total_gasto": 18000.0,
+        "total_gasto": 438286.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -217,8 +217,8 @@
     "2019": {
       "1": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 1215000.0,
         "top_3_empresas": [
           "A EMPRESA: CICERA KLEBYA\nMEDEIROS LACERDA",
           "s, locados a disposição ou\nvinculados a atividades pública do Município de Manaíra"
@@ -229,23 +229,23 @@
       },
       "resumo": {
         "num_diarios": 104,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 105,
+        "total_gasto": 10774724.18
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 2385709.24,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1900434.0700000003,
         "top_3_empresas": [
-          "A EMPRESA JOSÉ DA SILVA\n08146619479",
-          "A EMPRESA ANA KARLA\nBEZERRA DA SILVA NOGUEIRA 70019758421"
+          "A EMPRESA JOSÉ DA SILVA",
+          "A EMPRESA ANA KARLA\nBEZERRA DA SILVA NOGUEIRA"
         ],
         "top_3_objetos": [
           "Aquisição de Fogos de artifícios para atender as\nnecessidades da Prefeitura Municipal de Manaíra, conforme proposta\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
@@ -254,8 +254,8 @@
       },
       "4": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 18,
+        "total_gasto": 999706.51,
         "top_3_empresas": [
           "CLAUDINEIA LEITÃO MARTINS\n\nSATIRO"
         ],
@@ -265,15 +265,15 @@
       },
       "5": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 550800.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 2175226.74,
         "top_3_empresas": [
           "GKM\n\nCONSTRUÇÕES SERVIÇOS EIRELI",
           "do orçamento do Município de Manaíra"
@@ -292,24 +292,24 @@
       },
       "8": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 732445.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 108630.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 192403.45,
         "top_3_empresas": [
-          "FABIO LUCAS W E SILVA\n\nEIRELI, inscrita no"
+          "FABIO LUCAS W E SILVA\n\nEIRELI"
         ],
         "top_3_objetos": [
           "Aquisição de Aparelhos de Ar Condicionado tipo 12.000 e\n\n18.000 BTUS modelo Split high wall, para atender as necessidades da\n\nSecretaria de Educação do Município de Manaíra – PB, em\n\nconformidade com o termo de compromisso PAR 201407003\n\n(TRAJETO N.º 01), conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº"
@@ -317,45 +317,45 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 427000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 87369.17,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2020": {
       "1": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1350647.55,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 95,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 94,
+        "num_contratos": 99,
+        "total_gasto": 11713722.250000002
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 2634337.82,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 32,
+        "total_gasto": 3127656.5599999996,
         "top_3_empresas": [
-          "MAN LATIN\n\nAMERICA INDUSTRIA E COMERCIO DE VEÍCULOS LTDA,"
+          "MAN LATIN\n\nAMERICA INDUSTRIA E COMERCIO DE VEÍCULOS LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de 01 veículo de Ônibus Urbano Escolar\n\nAcessível Piso Alto ONUREA PISO ALTO, para atender as\n\nnecessidades da Prefeitura Municipal de Manaíra- PB"
@@ -363,36 +363,36 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 37350.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 31770.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1046259.27,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 396846.58,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 784324.14,
         "top_3_empresas": [
           "A EMPRESA: GLOBAL\nCOMERCIAL EIRELI"
         ],
@@ -409,15 +409,15 @@
       },
       "10": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1203762.1600000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 802608.84,
         "top_3_empresas": [
           "VALMIR ALVES DE OLIVEIRA\nCONSTRUÇÕES EIRELI/V ALVES CONSTRUTORA"
         ],
@@ -427,8 +427,8 @@
       },
       "12": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 298158.98,
         "top_3_empresas": [
           "CONCRETISA CONSTRUTORA\nEIRELI"
         ],
@@ -439,33 +439,33 @@
     },
     "2023": {
       "8": {
-        "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 134600.0,
+        "num_diarios": 18,
+        "num_contratos": 4,
+        "total_gasto": 406895.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 77,
-        "num_contratos": 30,
-        "total_gasto": 2454640.4000000004
+        "num_diarios": 75,
+        "num_contratos": 39,
+        "total_gasto": 3765918.4399999995
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 601319.24,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 15,
-        "num_contratos": 1,
-        "total_gasto": 7600.0,
+        "num_contratos": 2,
+        "total_gasto": 15600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 17,
         "total_gasto": 311791.27,
         "top_3_empresas": [],
@@ -473,8 +473,8 @@
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 11,
-        "total_gasto": 2000649.13,
+        "num_contratos": 13,
+        "total_gasto": 2430312.9299999997,
         "top_3_empresas": [
           "(S): INTERSOL CONSTRUÇÕES E\nSERVIÇOS LTDA"
         ],
@@ -486,20 +486,20 @@
     "2024": {
       "1": {
         "num_diarios": 11,
-        "num_contratos": 11,
-        "total_gasto": 2857077.4,
+        "num_contratos": 12,
+        "total_gasto": 5519277.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 171,
-        "num_contratos": 201,
-        "total_gasto": 22438407.57
+        "num_diarios": 166,
+        "num_contratos": 216,
+        "total_gasto": 29762120.990000006
       },
       "2": {
-        "num_diarios": 16,
-        "num_contratos": 22,
-        "total_gasto": 3214370.6,
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 2716577.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa especializada no fornecimento de\n\nassinatura de ferramenta de pesquisa e comparação de preços\n\npraticados pela Administração Pública (VERSÃO PLUS), para o\n\nmunicípio de Manaíra-PB",
@@ -509,15 +509,15 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 26,
-        "total_gasto": 3867557.13,
+        "num_contratos": 27,
+        "total_gasto": 3922276.88,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 26,
-        "total_gasto": 2637938.19,
+        "num_contratos": 30,
+        "total_gasto": 2793938.19,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de materiais reagentes para laboratório de\n\nanálises clinicas do município de Manaíra – PB"
@@ -525,15 +525,15 @@
       },
       "5": {
         "num_diarios": 15,
-        "num_contratos": 23,
-        "total_gasto": 1451795.53,
+        "num_contratos": 24,
+        "total_gasto": 1555002.43,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 42,
-        "total_gasto": 3309038.3800000004,
+        "num_contratos": 43,
+        "total_gasto": 3605374.6100000003,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação do cantor BOY VAQUEIRO para\n\napresentação de show musical em comemoração às festividades\n\ntradicionais juninas no Distrito de Pelo Sinal município de\n\nManaíra/PB o artista se apresentará no dia 29/06/2024, no período da\n\nnoite, com duração mínima de show de 02:00 (duas horas)"
@@ -541,31 +541,31 @@
       },
       "7": {
         "num_diarios": 16,
-        "num_contratos": 6,
-        "total_gasto": 283916.5,
+        "num_contratos": 12,
+        "total_gasto": 2036749.82,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 19,
-        "num_contratos": 15,
-        "total_gasto": 2772488.46,
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 4687827.4399999995,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação do cantor ZÉ DE FREITAS para apresentação\nde show musical em comemoração às festividades tradicionais no\n\npovoado da Travessia, no município de Manaíra/PB"
         ]
       },
       "9": {
-        "num_diarios": 10,
+        "num_diarios": 8,
         "num_contratos": 3,
-        "total_gasto": 249900.0,
+        "total_gasto": 523999.72,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 9,
-        "num_contratos": 22,
-        "total_gasto": 769459.8599999999,
+        "num_contratos": 24,
+        "total_gasto": 1125091.98,
         "top_3_empresas": [
           "CT Nº 93101/2024 KARINE ROSARIO DA\n\nSILVA",
           "CT Nº\n\n93102 ASSUNCAO & LAVOR TECNOLOGIA LTDA",
@@ -576,7 +576,7 @@
         ]
       },
       "11": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 4,
         "total_gasto": 958865.52,
         "top_3_empresas": [],
@@ -584,21 +584,21 @@
       },
       "12": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 66000.0,
+        "num_contratos": 3,
+        "total_gasto": 317140.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 580,
-    "num_contratos": 237,
-    "total_gasto": 25338199.84,
+    "num_diarios": 569,
+    "num_contratos": 594,
+    "total_gasto": "70.672.662,32",
     "top_5_empresas": {
       "A EMPRESA: CICERA KLEBYA\nMEDEIROS LACERDA": 2,
       "s, locados a disposição ou\nvinculados a atividades pública do Município de Manaíra": 2,
-      "A EMPRESA JOSÉ DA SILVA\n08146619479": 2,
+      "A EMPRESA JOSÉ DA SILVA": 2,
       "A EMPRESA ROSIVALDO GOMES\nDA SILVA GRÁFICA E EDITORA": 1,
       "A EMPRESA DAMIÃO WERIKSON\nSILVA DOS ANJOS": 1
     },

@@ -19,8 +19,8 @@
       },
       "resumo": {
         "num_diarios": 70,
-        "num_contratos": 89,
-        "total_gasto": 9050726.389999999
+        "num_contratos": 98,
+        "total_gasto": 11268924.370000001
       },
       "2": {
         "num_diarios": 6,
@@ -58,8 +58,8 @@
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 10,
-        "total_gasto": 1098005.57,
+        "num_contratos": 11,
+        "total_gasto": 1147005.57,
         "top_3_empresas": [
           "GESSICA\nOLIVEIRA DA SILVA",
           "JOSE SEVERINO DA SILVA FILHO",
@@ -80,8 +80,8 @@
       },
       "7": {
         "num_diarios": 5,
-        "num_contratos": 5,
-        "total_gasto": 694594.55,
+        "num_contratos": 6,
+        "total_gasto": 1105027.28,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -100,8 +100,8 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 13,
-        "total_gasto": 875663.8600000001,
+        "num_contratos": 18,
+        "total_gasto": 1813583.96,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -114,13 +114,16 @@
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 3,
-        "total_gasto": 247094.28,
+        "num_contratos": 5,
+        "total_gasto": 1067939.43,
         "top_3_empresas": [
-          "SERVICOL SERVICOS E\n\nCONSTRUCOES LTDA"
+          "SERVICOL SERVICOS E\n\nCONSTRUCOES LTDA",
+          "FERREIRA ALVES SERVICOS DE CONSTRUCOES LTDA"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SERVIÇOS DE LIMPEZA URBANA NO MUNICÍPIO DE SÃO\n\nMIGUEL DE TAIPU/PB"
+          "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDE SERVIÇOS DE LIMPEZA URBANA NO MUNICÍPIO DE SÃO\n\nMIGUEL DE TAIPU/PB",
+          "Contratação de empresa especializada para execução da\n\nreforma da Escola Municipal Pedro Pedrosa Amador neste Município\n\nde São Sebastião do Umbuzeiro–PB, conforme Projeto Básico de\n\nEngenharia",
+          "Contratação de empresa especializada para execução da\n\nobra de implantação de pavimentação em paralelepípedo no\n\nMunicípio de São Sebastião do umbuzeiro–PB, conforme Projeto\n\nBásico de Engenharia"
         ]
       },
       "12": {
@@ -134,8 +137,8 @@
     "2022": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 10,
-        "total_gasto": 1491027.0799999998,
+        "num_contratos": 11,
+        "total_gasto": 1568042.5499999998,
         "top_3_empresas": [
           "ATACAMED COMERCIO DE\n\nPRODUTOS FARMACEUTICOS E HOSPITALARES L"
         ],
@@ -145,9 +148,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 112,
-        "total_gasto": 15420371.54
+        "num_diarios": 97,
+        "num_contratos": 135,
+        "total_gasto": 22128851.31000001
       },
       "2": {
         "num_diarios": 8,
@@ -162,8 +165,8 @@
       },
       "3": {
         "num_diarios": 7,
-        "num_contratos": 5,
-        "total_gasto": 1645306.3,
+        "num_contratos": 9,
+        "total_gasto": 2146054.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -176,11 +179,14 @@
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 7,
-        "total_gasto": 925441.0,
-        "top_3_empresas": [],
+        "num_contratos": 8,
+        "total_gasto": 1196299.0,
+        "top_3_empresas": [
+          "RONALDO RAMOS\n\nDE QUEIROZ"
+        ],
         "top_3_objetos": [
-          "Contratação de Aterro Sanitário licenciado para o\n\nrecebimento e disposição final, dos resíduos sólidos urbanos,\n\nproduzidos por este município de São Miguel de Taipu"
+          "Contratação de Aterro Sanitário licenciado para o\n\nrecebimento e disposição final, dos resíduos sólidos urbanos,\n\nproduzidos por este município de São Miguel de Taipu",
+          "Registro de preços para futura e eventual contratação dos\n\nserviços especializados em Formação Continuada, Oficinas Rápidas e\n\nCurso de Qualificação, a fim de atender as demandas operacionais das\n\nSecretarias de Saúde, Assistência Social e Educação desta\n\nMunicipalidade"
         ]
       },
       "6": {
@@ -191,9 +197,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 9,
-        "num_contratos": 13,
-        "total_gasto": 1020321.1300000001,
+        "num_diarios": 8,
+        "num_contratos": 27,
+        "total_gasto": 6057371.2299999995,
         "top_3_empresas": [
           "A3T - CONSTRUCAO E\n\nINCORPORACAO LTDA"
         ],
@@ -209,16 +215,16 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 9,
-        "num_contratos": 12,
-        "total_gasto": 1536006.4300000002,
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1422052.24,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 8,
-        "total_gasto": 1721773.35,
+        "num_contratos": 10,
+        "total_gasto": 1899075.5899999999,
         "top_3_empresas": [
           "CENTER LUZ SERVICOS E\n\nCOMERCIO DE MATERIAL ELETRICO EIRELI",
           "ELETROLUZ COMERCIO DE\n\nMATERIAIS ELETRICOS EIRELI",
@@ -237,28 +243,24 @@
       },
       "12": {
         "num_diarios": 14,
-        "num_contratos": 15,
-        "total_gasto": 1351451.98,
+        "num_contratos": 21,
+        "total_gasto": 2110911.6300000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 8,
-        "num_contratos": 13,
-        "total_gasto": 2292202.86,
-        "top_3_empresas": [
-          "FERNANDA TAYNAH\n\nDOS SANTOS BRITO"
-        ],
-        "top_3_objetos": [
-          "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nATENDER DE FORMA FRACIONADA E DE ACORDO COM A\n\nNECESSIDADE DAS SECRETARIAS E PROGRAMAS DESTA\n\nMUNICIPALIDADE"
-        ]
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 1784455.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 98,
-        "num_contratos": 119,
-        "total_gasto": 17353532.53
+        "num_diarios": 97,
+        "num_contratos": 126,
+        "total_gasto": 18293602.700000003
       },
       "2": {
         "num_diarios": 7,
@@ -273,11 +275,12 @@
       },
       "3": {
         "num_diarios": 13,
-        "num_contratos": 10,
-        "total_gasto": 1370263.04,
+        "num_contratos": 12,
+        "total_gasto": 1835412.92,
         "top_3_empresas": [
           "PAULO CESAR TAVARES CONSERVA",
-          "SOLAR\n\nENERGIA E CONSTRUCOES LTDA"
+          "SOLAR\n\nENERGIA E CONSTRUCOES LTDA",
+          "CAUASSU\n\nLOCACOES E SERVICOS LTDA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA E/OU PESSOA FÍSICA\n\nPARA EXECUTAR SERVIÇOS DE LOCAÇÃO DE TRATOR DE\n\nPNEUS, PARA CORTE DE TERRA",
@@ -296,14 +299,15 @@
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 23,
-        "total_gasto": 1660553.6199999999,
+        "num_contratos": 24,
+        "total_gasto": 1710553.6199999999,
         "top_3_empresas": [
           "RICARDO\n\nGOMES DA SILVA",
           "FORTE GRAFICA EIRELI"
         ],
         "top_3_objetos": [
-          "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS"
+          "AQUISIÇÃO PARCELADA DE MATERIAIS\n\nGRÁFICOS",
+          "Contratação da atração artística \"ALDAIR PLAYBOY”,\n\npara apresentação em praça pública, no evento denominado: 64ª\n\nFESTA DE EMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE SÃO\n\nSEBASTIÃO DO UMBUZEIRO, que será realizada no dia 08 de\n\njunho de 2023"
         ]
       },
       "6": {
@@ -348,10 +352,14 @@
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 569926.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 7,
+        "total_gasto": 1502594.15,
+        "top_3_empresas": [
+          "I Z DA SILVA\n\nEQUIPAMENTOS"
+        ],
+        "top_3_objetos": [
+          "Aquisição de 1 (um) Pasteurizador rápido “a placas” com\n\ncapacidade de 1000 L/H, a fim de atender as demandas operacionais\n\ndo Município de São Sebastião do Umbuzeiro – PB, conforme\nespecificações técnicas constante no Termo de Referência"
+        ]
       },
       "11": {
         "num_diarios": 7,
@@ -381,9 +389,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 111,
-        "num_contratos": 94,
-        "total_gasto": 111283899.26000004
+        "num_diarios": 108,
+        "num_contratos": 112,
+        "total_gasto": 112337159.21000002
       },
       "2": {
         "num_diarios": 3,
@@ -414,23 +422,23 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 14,
-        "num_contratos": 13,
-        "total_gasto": 1923802.56,
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 2590831.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 11,
-        "total_gasto": 423667.68000000005,
+        "num_contratos": 12,
+        "total_gasto": 559162.68,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 10,
-        "num_contratos": 3,
-        "total_gasto": 433730.82,
+        "num_contratos": 16,
+        "total_gasto": 684466.73,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -479,9 +487,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 378,
-    "num_contratos": 414,
-    "total_gasto": 153108529.72,
+    "num_diarios": 372,
+    "num_contratos": 471,
+    "total_gasto": "164.028.537,59",
     "top_5_empresas": {
       "ESCRITÓRIO MARTINS NORAT": 1,
       "AGUINALDO GOMES DE SOUSA FILHO": 1,

@@ -1,0 +1,419 @@
+{
+  "id": "sao-jose-do-sabugi",
+  "nome": "São José do Sabugi",
+  "detalhe": {
+    "2022": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 2660759.18,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nCONSTRUÇÃO DE 7 DISSIPADORES COM CALÇADAS DE\n\nCONTENÇÃO NA PASSAGEM MOLHADA DA COMUNIDADE\n\nBREJINHO – SÃO JOSÉ DO SABUGI – PB",
+            "empresa": "TORRES E ANDRADE CONSTRUÇÕES, PRE-MOLDADOS\n\nSERVIÇOS LTDA",
+            "valor_total": "R$ 45,704.18"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 56,
+        "num_contratos": 82,
+        "total_gasto": 12921421.019999998
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 346044.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 480501.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Através de Adesão à Ata de\nRegistro de Preços decorrente do Pregão Eletrônico Nº 0007/2022, do\n\nMunicípio de Olivedos/PB, que trata de “ Registro de Preços para\n\nfutura e Eventual Aquisição de Material de Expediente Destinada as\n\nSecretária Municipais do São José do Sabugí/PB, conforme condições\n\ne quantidades especificada abaixo",
+            "empresa": "APS SOLUÇÕES E\n\nEQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL LTDA",
+            "valor_total": "R$ 173,587.45"
+          },
+          {
+            "objeto": "Contratação de Empresa Através de Adesão à Ata de\n\nRegistro de Preços decorrente do Pregão Eletrônico Nº 0007/2022, do\nMunicípio de Olivedos/PB, que trata de Registro de Preços para futura\n\ne Eventual Aquisição de Material de Expediente Destinada ao Fundo\n\nMunicipal de Assistência Social do São José do Sabugí/PB, conforme\n\ncondições e quantidades especificadas na proposta",
+            "empresa": "APS SOLUÇÕES E EQUIPAMENTOS DE\n\nPROTEÇÃO INDIVIDUAL LTDA",
+            "valor_total": "R$ 90,729.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 1625048.18,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\nENTREGA DE EVENTUAIS AQUISIÇÕES DE GENEROS\nALIMENTICIOS PARA ATENDER AO PROGRAMA NACIONAL\nDE ALIMENTAÇÃO ESCOLAR – PNAE – ATRAVES DA\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DESTE\nMUNICIPIO, MEDIANTE REQUISIÇÃO",
+            "empresa": "JOSEILTON DE SOUZA AZEVEDO",
+            "valor_total": "R$ 721,796.70"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\nENTREGA DE EVENTUAIS AQUISIÇÕES DE GENEROS\nALIMENTICIOS PARA ATENDER AO PROGRAMA NACIONAL\nDE ALIMENTAÇÃO ESCOLAR – PNAE – ATRAVES DA\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DESTE\nMUNICIPIO, MEDIANTE REQUISIÇÃO",
+            "empresa": "FRANCISCO ANTONIO BATISTA",
+            "valor_total": "R$ 721,796.70"
+          },
+          {
+            "objeto": "Sistema de Registro de Preço para Pronta Entrega de\nEventuais Aquisição de Gêneros Alimentícios Destinadas ao Fundo\nMunicipal de Saúde, Fundo Municipal de Assistência Social, Diversas\nSecretarias para o município de São José do Sabugí/PB, de Mediante\nRequisição, para o ano de 2023, conforme termo de referência",
+            "empresa": "JOSEILTON DE SOUZA AZEVEDO",
+            "valor_total": "R$ 753,523.30"
+          },
+          {
+            "objeto": "Locação de Veículo tipo (CARRO–PIPA) para Transporte\nde Água Potável para o Consumo Emergencial de Prédio Públicos\n(URBANA), do Município de São José do Sabugí – PB",
+            "empresa": "JOSÉ JANIO DE SOUZA\nAZEVEDO",
+            "valor_total": "R$ 52,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 448871.88,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços de Locação de Estrutura Física (Som,\n\nIluminação, Geradores, Telão, Banheiros Químicos e Outros), em\n\ncomemoração à tradicional festividade junina de São Pedro durante os\n\ndias 07, 08 e 09 de Julho do ano 2023, a ser realizados em praça\n\npública pelo Município de São José do Sabugí – PB",
+            "empresa": "GILTON P. DE\n\nCASTRO",
+            "valor_total": "R$ 53,550.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DA ARTISTA\n\nWALKYRIA SANTOS, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 08 DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "V B SANTOS\n\nENTRETENIMENTOS",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DO ARTISTA\n\nRODOLFO LOPES E BANDA, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 09 DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "R L DA SILVA\n\nSERTÃO LOCAÇÕES E EVENTOS (RODOLFO LOPES DA\n\nSILVA PRODUÇÃO MUSICAL)",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DA BANDA\n\nOS TRÊS DO NORDESTE, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 08 DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "F.MIX\n\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DA ARTISTA\n\nKÁTIACILENE, DURANTE AS TRADICIONAIS FESTIVIDADES\n\nJUNINAS DE SÃO PEDRO NO DIA 07 DE JULHO DE 2023, EM\n\nPRAÇA PÚBLICA",
+            "empresa": "WILLIAME ANDRADE SHOWS E\n\nEVENTOS LTDA",
+            "valor_total": "R$ 70,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DO ARTISTA\n\nGIANNINI ALENCAR, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 09 DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "VOCALIZE\n\nPROMOÇÕES ARTISTICAS LTDA",
+            "valor_total": "R$ 25,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW BANDA\n\nBONDE DO BRASIL, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 07DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "BONDE DO\n\nBRASIL PROMOÇÕES E EDIÇÕES MUSICAIS LTDA",
+            "valor_total": "R$ 70,000.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SHOW DA BANDA\n\nDANIEZE SANTIAGO, DURANTE AS TRADICIONAIS\n\nFESTIVIDADES JUNINAS DE SÃO PEDRO NO DIA 08 DE\n\nJULHO DE 2023, EM PRAÇA PÚBLICA",
+            "empresa": "CARLOS A S\n\nFONSECA NETO",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 316952.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 13,
+        "total_gasto": 733633.62,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER A DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO. FUNDAMENTO LEGAL: Pregão\n\nEletrônico nº 00004/2023. DOTAÇÃO: 02.000",
+            "valor_total": "R$ 375,501.90"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER A DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "JOSÉ ALFREDO DE AZEVEDO",
+            "valor_total": "R$ 375,501.90"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER A DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "JEFFERSON BRUNO JERONIMO",
+            "valor_total": "R$ 375,501.90"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER A DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "42.659.371 JOSE INACIO\n\nGUEDES LOPES",
+            "valor_total": "R$ 375,501.90"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER A DEMANDA DESTE\n\nMUNICIPIO DE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA\n\nSECRETARIA MUNICIPAL DE INFRA–ESTRUTURA,\n\nMEDIANTE REQUISIÇÃO",
+            "empresa": "CENTRAL ATACADO LTDA",
+            "valor_total": "R$ 375,501.90"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO. FUNDAMENTO LEGAL: Pregão Eletrônico nº\n\n00005/2023. DOTAÇÃO: 02.000",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "JOSÉ ALFREDO DE AZEVEDO",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "GCM COMMERCE LTDA",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "BA LUZ\n\nIND.COM.MAT.EL??TRICOS LTDA",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "LUMINOZA COM DE MAT ELET E HID\n\nE TELEFONIA LTDA",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "CT\n\nNº 00055/2023 - 28.07.23 - 48.995.312 FERNANDO MIGUEL DE\n\nARAUJO MEDEIROS",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA PRONTA\n\nENTREGA DE EVENTUAIS AQUISIÇÕES DE MATERIAL\n\nELÉTRICO PARA ATENDER A DEMANDA DESTE MUNICIPIO\n\nDE SÃO JOSÉ DO SABUGÍ/PB – ATRAVES DA SECRETARIA\n\nMUNICIPAL DE INFRA–ESTRUTURA, MEDIANTE\n\nREQUISIÇÃO",
+            "empresa": "CENTRAL ATACADO LTDA",
+            "valor_total": "R$ 201,261.72"
+          },
+          {
+            "objeto": "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente",
+            "empresa": "EMPRESA DE\n\nRECEBIMENTO DE RESIDUOS E SERVIÇOS DE LIMPEZA -\n\nERSEL LTDA",
+            "valor_total": "R$ 156,870.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 641600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "credenciamento de pessoa jurídica especializada para a\nPrestação de Serviços de Exames de Ultrassonografias, Radiologia\nGeral, Mamografia e Entre Outros para o Município de São José do\nSabugí, conforme tabela de exames e preços, anexos ao presente\nEdital, a fim de atender as demandas da Secretária Municipal de\nSaúde de São José do Sabugí - PB",
+            "empresa": "CT Nº 00060/2023",
+            "valor_total": "R$ 641,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 12,
+        "total_gasto": 3730301.68,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços para Realização de Formações de\nEducação Permanente em Saúde do Município de São José do Sabugí\n– PB, incluindo pessoal, deslocamento, hospedagem, insumos e\nequipamentos necessários á execução da ação para todos os\nprofissionais da saúde do Município com 16 horas/aula, conforme\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 42\n\n\ntermo de referência",
+            "empresa": "FC ASSESSORIA E CONSULTORIA EM GESTÃO\nEMPRESARIAL E PUBLICA LTDA",
+            "valor_total": "R$ 16,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1589739.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 347969.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 5130443.13,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\n\nFORNECIMENTO DE COMBUSTIVEIS, DERIVADOS DE\n\nPETRÓLEO PARA ATENDER A FROTA MUNICIPAL E\n\nCONTRATADOS DO MUNICIPIO DE SÃO JOSÉ DO SABUGÍ,\n\nMEDIANTE REQUISIÇÃO, destinado para o exercicio de 2004",
+            "empresa": "S DO MUNICIPIO DE SÃO JOSÉ DO SABUGÍ,\n\nMEDIANTE REQUISIÇÃO, destinado para o exercicio de 2004.\n\nFUNDAMENTO LEGAL: Pregão Eletrônico nº 00014/2023.\n\nDOTAÇÃO: 02.000",
+            "valor_total": "R$ 1,898,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\n\nFORNECIMENTO DE COMBUSTIVEIS, DERIVADOS DE\n\nPETRÓLEO PARA ATENDER A FROTA MUNICIPAL E\n\nCONTRATADOS DO MUNICIPIO DE SÃO JOSÉ DO SABUGÍ,\n\nMEDIANTE REQUISIÇÃO, destinado para o exercicio de 2004",
+            "empresa": "AUTO POSTO SABUGÍ LTDA",
+            "valor_total": "R$ 1,898,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 46,
+        "num_contratos": 63,
+        "total_gasto": 18128738.239999995
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 971277.93,
+        "empresas_mensais": [
+          {
+            "objeto": "Construção/ Perfuração, Instalação de 30 Poços Artesianos\n\nnas Comunidades Rurais do Município de São José do Sabugí/PB,\n\nConforme Planilha Orçamentária em Anexo",
+            "empresa": "JMR CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 702,677.93"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 856500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 1924730.2000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 426449.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 13,
+        "total_gasto": 1607665.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 8,
+        "total_gasto": 1183295.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nEVENTUAL FORNECIMENTO DE MATERIAL\n\nODONTOLOGICOS, PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SÃO JOSÉ DO\n\nSABUGÍ – PB",
+            "empresa": "Recursos Ordinarios/10 301 3003 2032",
+            "valor_total": "R$ 226,888.15"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nEVENTUAL FORNECIMENTO DE MATERIAL\n\nODONTOLOGICOS, PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SÃO JOSÉ DO\n\nSABUGÍ – PB",
+            "empresa": "K\n\nC L COSTA COMERCIO ATACADISTA DE MATERIAL\n\nHOSPITALAR EIRELI",
+            "valor_total": "R$ 226,888.15"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nEVENTUAL FORNECIMENTO DE MATERIAL HOSPITALAR,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DO SABUGÍ – PB",
+            "empresa": "Recursos\n\nOrdinarios/10 301 3003 2032",
+            "valor_total": "R$ 364,759.45"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nEVENTUAL FORNECIMENTO DE MATERIAL HOSPITALAR,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DO SABUGÍ – PB",
+            "empresa": "LG PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 364,759.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 48381.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 10,
+        "total_gasto": 2012836.21,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamentos Permanente para a Secretaria\n\nMunicipal de Educação, Conforme Termo de Referência em Anexo",
+            "empresa": "JAILDO ANIBAL LEONARDO",
+            "valor_total": "R$ 56,850.00"
+          },
+          {
+            "objeto": "aQUISIÇÃO de Material de Apoio Pedagógico Conforme\n\nTermo de Referência em Anexo",
+            "empresa": "IVANEIDE MOURA\n\nPORTELA ANIBAL",
+            "valor_total": "R$ 57,005.36"
+          },
+          {
+            "objeto": "Locação de Veículo tipo (CARRO–PIPA) para Transporte\n\nde Água Potável para o Consumo Emergencial de Prédio Públicos\n\n(URBANA), do Município de São José do Sabugí – PB",
+            "empresa": "JOSÉ JANIO DE SOUZA\n\nAZEVEDO",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 3967159.81,
+        "empresas_mensais": [
+          {
+            "objeto": "prestação de serviço de pagamento de Folha de Pagamento:\n\nprocessamento de 100% (cem por cento) dos créditos provenientes da\n\nfolha de pagamento do CONTRATANTE, representados, na data da\n\ncelebração deste contrato, por 328 servidores, abrangendo os\n\nservidores ativos, inativos e pensionistas, lançados em contas salário\n\nindividuais na CAIXA, além de créditos em favor de estagiários ou\n\nqualquer outra pessoa que mantenha ou venha a manter vínculo de\n\nremuneração com o CONTRATANTE",
+            "empresa": "CAIXA ECONOMICA\n\nFEDERAL",
+            "valor_total": "R$ 110,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

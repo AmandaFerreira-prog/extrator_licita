@@ -3,27 +3,46 @@
   "nome": "Junco do Seridó",
   "detalhe": {
     "2014": {
-      "1": {
+      "8": {
         "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 356841.35,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 69,
+        "num_contratos": 21,
+        "total_gasto": 3192243.4399999995
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 50308.25,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 45500.0,
+        "top_3_empresas": [
+          "Contratante\nAGENALDO SOARES DA SILVA",
+          "CNPJ: 17.142.659/0001-85"
+        ],
+        "top_3_objetos": [
+          "Contratação de Show Artístico Musical da BANDA FORROZÃO\nGENILDO & GINALDO para festividades alusivas ao SÃO\nPEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2014"
+        ]
+      },
+      "5": {
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "resumo": {
-        "num_diarios": 71,
-        "num_contratos": 21,
-        "total_gasto": 3192243.44
-      },
-      "2": {
-        "num_diarios": 8,
-        "num_contratos": 8,
-        "total_gasto": 1970084.4400000002,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
       "3": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 5,
         "total_gasto": 660080.4,
         "top_3_empresas": [],
@@ -36,31 +55,17 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "5": {
-        "num_diarios": 5,
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1970084.4400000002,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 7,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 7,
-        "num_contratos": 2,
-        "total_gasto": 45500.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 5,
-        "num_contratos": 2,
-        "total_gasto": 50308.25,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
-        "num_diarios": 7,
-        "num_contratos": 2,
-        "total_gasto": 356841.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -77,7 +82,7 @@
         ]
       },
       "10": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -211,14 +216,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 66,
-        "num_contratos": 18,
-        "total_gasto": 3176174.26
+        "num_diarios": 65,
+        "num_contratos": 19,
+        "total_gasto": 3182299.26
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 10,
-        "total_gasto": 2342836.68,
+        "num_contratos": 11,
+        "total_gasto": 2348961.68,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -279,7 +284,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -309,7 +314,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 85,
+        "num_diarios": 84,
         "num_contratos": 46,
         "total_gasto": 6238852.930000001
       },
@@ -357,7 +362,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 5,
         "total_gasto": 249900.0,
         "top_3_empresas": [
@@ -426,9 +431,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 32,
-        "total_gasto": 10209164.909999998
+        "num_diarios": 98,
+        "num_contratos": 33,
+        "total_gasto": 10226094.909999998
       },
       "2": {
         "num_diarios": 7,
@@ -459,7 +464,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 1,
         "total_gasto": 136792.0,
         "top_3_empresas": [],
@@ -493,8 +498,8 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 16930.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -522,12 +527,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 77,
+        "num_diarios": 76,
         "num_contratos": 31,
         "total_gasto": 4103432.3499999996
       },
       "2": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 1,
         "total_gasto": 139920.0,
         "top_3_empresas": [],
@@ -723,9 +728,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 103,
-        "total_gasto": 14670676.239999998
+        "num_diarios": 98,
+        "num_contratos": 102,
+        "total_gasto": 14755052.34
       },
       "2": {
         "num_diarios": 8,
@@ -753,16 +758,17 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 10,
-        "num_contratos": 19,
-        "total_gasto": 1796515.42,
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 1880891.52,
         "top_3_empresas": [
-          "ALEXANDRE\nCUNHA MENDES 05472756413",
-          "ARISMAR CUNHA MENDES\n03693283451",
-          "HANDSON SOUZA NOBREGA DE ARAUJO 12403799785"
+          "ALEXANDRE\nCUNHA MENDES",
+          "CT Nº\n00043/2021",
+          "CT Nº 00044/2021"
         ],
         "top_3_objetos": [
-          "Serviços permanentes de manutenção preventiva e corretiva\nde veículos"
+          "Serviços permanentes de manutenção preventiva e corretiva\nde veículos",
+          "Contratação de Empresa para Fornecimento de\nVeículos Tipo MINIVANS para atender às necessidades do\nConselho Municipal de Saúde e Secretaria Municipal de Saúde do\nMunicípio de Patos-PB (PARA O CONSELHO MUNICIPAL DE\nSAÚDE),"
         ]
       },
       "6": {
@@ -830,7 +836,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 113,
+        "num_diarios": 112,
         "num_contratos": 81,
         "total_gasto": 23812356.430000003
       },
@@ -904,7 +910,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -921,8 +927,8 @@
     "2023": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 12,
-        "total_gasto": 4223717.21,
+        "num_contratos": 13,
+        "total_gasto": 7293340.46,
         "top_3_empresas": [
           "ALVES CONSTRUCOES LTDA"
         ],
@@ -933,9 +939,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 125,
-        "num_contratos": 136,
-        "total_gasto": 35031629.55
+        "num_diarios": 124,
+        "num_contratos": 141,
+        "total_gasto": 38689869.150000006
       },
       "2": {
         "num_diarios": 8,
@@ -1002,7 +1008,7 @@
         ]
       },
       "8": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 14,
         "total_gasto": 701550.0,
         "top_3_empresas": [
@@ -1030,8 +1036,8 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 952829.0,
+        "num_contratos": 16,
+        "total_gasto": 1541445.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1045,16 +1051,16 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 17,
-        "num_contratos": 14,
-        "total_gasto": 2358058.41,
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 4504618.41,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 118,
-        "num_contratos": 127,
-        "total_gasto": 26323971.8
+        "num_diarios": 115,
+        "num_contratos": 138,
+        "total_gasto": 28661410.11
       },
       "2": {
         "num_diarios": 7,
@@ -1091,7 +1097,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 6,
         "total_gasto": 482947.4,
         "top_3_empresas": [],
@@ -1126,7 +1132,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 5,
         "total_gasto": 139915.0,
         "top_3_empresas": [],
@@ -1134,8 +1140,8 @@
       },
       "12": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 285000.0,
+        "num_contratos": 11,
+        "total_gasto": 475878.31,
         "top_3_empresas": [],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA DO RAMO DA\n\nCONSTRUÇÃO CIVIL PARA EXECUTAR OBRA DE\n\nCONSTRUÇÃO DE UMA CRECHE TIPO A, VISANDO\n\nATENDER DEMANDA DA SECRETARIA DE EDUCAÇÃO E\n\nCUMPRIR O CONVÊNIO N.º 442/2021, FIRMADO COM O\n\nGOVERNO DO ESTADO, ATRAVÉS DA SECRETARIA DE\n\nEDUCAÇÃO, CIÊNCIA E TECNOLOGIA"
@@ -1144,22 +1150,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 967,
-    "num_contratos": 622,
-    "total_gasto": 130274442.24,
+    "num_diarios": 955,
+    "num_contratos": 639,
+    "total_gasto": "136.377.551,25",
     "top_5_empresas": {
       "": 12,
+      "Contratante\nAGENALDO SOARES DA SILVA": 1,
+      "CNPJ: 17.142.659/0001-85": 1,
       "PEDRO HENRICH FERREIRA RODRIGUES": 1,
-      "CONTRATANTE\n\nATACADÃOS DOS PARAFUSOS": 1,
-      "Contratante\n\nIVANDRO OLIVEIRA DE ARAÚJO": 1,
-      "CNPJ: 08.397.547/0001-84": 1
+      "CONTRATANTE\n\nATACADÃOS DOS PARAFUSOS": 1
     },
     "top_5_objetos": {
+      "Contratação de Show Artístico Musical da BANDA FORROZÃO\nGENILDO & GINALDO para festividades alusivas ao SÃO\nPEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2014": 1,
       "Aquisição de Material de Construção destinado a Implantação de\nEsgotamento Sanitário no Bairro Santo Antônio na Sede do\nMunicípio de Junco do Seridó-PB": 1,
       "Aquisição Parcelada de MATERIAL DE CONSUMO (Hidráulico /\nConstrução / Mecânico / Outros) destinado a diversos órgãos\nadministrativos da Prefeitura do Município de Junco do Seridó-PB": 1,
       "Contratação de Show Artístico Musical da BANDA OS TRÊS DO\nNORDESTE, através de empresário exclusivo, para festividades alusivas ao\nSÃO PEDRO na Sede do Município de Junco do Seridó-PB, no dia 29 de\nJunho de 2015": 1,
-      "Contratação de Show Artístico Musical do CANTOR RODOLFO LOPES\npara festividades alusivas ao SÃO PEDRO na Sede do Município de Junco\ndo Seridó-PB, no dia 29 de Junho de 2015": 1,
-      "SERVIÇOS DE LOCAÇÃO DE PALCO, SOM E GERADOR DESTINADO\nAS FESTIVIDADES ALUSIVAS AO SÃO PEDRO NA SEDE DO\nMUNICÍPIO DE JUNCO DO SERIDÓ-PB, NO DIA 29 DE JUNHO DE 2015": 1
+      "Contratação de Show Artístico Musical do CANTOR RODOLFO LOPES\npara festividades alusivas ao SÃO PEDRO na Sede do Município de Junco\ndo Seridó-PB, no dia 29 de Junho de 2015": 1
     }
   }
 }

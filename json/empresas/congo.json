@@ -1,0 +1,54 @@
+{
+  "id": "congo",
+  "nome": "Congo",
+  "detalhe": {
+    "2023": {
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 4268816.88,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE ESCOLA COM 12 SALAS\nPADRÃO FNDE, NA SEDE DO MUNICÍPIO DE CONGO–PB\n(PARCELA RESTANTE)",
+            "empresa": "CFR CONSTRUCOES E SERVICOS\nEIRELI",
+            "valor_total": "R$ 4,268,816.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 4312179.37
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 43362.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

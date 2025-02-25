@@ -1,0 +1,411 @@
+{
+  "id": "cacimba-de-dentro",
+  "nome": "Cacimba de Dentro",
+  "detalhe": {
+    "2022": {
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 8,
+        "total_gasto": 312146.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "EDSON GOMES DE\n\nLIMA",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "EDINALVA\n\nDOS SANTOS FERREIRA",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "CT Nº\n\n00102/2022",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "FABRICIO SANTOS\n\nFRANCELINO DE MACEDO",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "CT\n\nNº 00105/2022",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "CT Nº 00106/2022",
+            "valor_total": "R$ 312,146.65"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural a ser entregue de forma parcelada\n\npara atendimento do Programa Nacional de Alimentação\n\nEscolar/PNAE – Cacimba de Dentro/PB, exercício de 2021",
+            "empresa": "CT Nº 00107/2022 -\n\n27.07.22",
+            "valor_total": "R$ 312,146.65"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 51,
+        "num_contratos": 55,
+        "total_gasto": 7951823.56
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 617956.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 2383944.6399999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 306125.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 1320991.3599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 3010659.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico de Padre Nilson Nunes que\nse apresentará no dia 30 de Dezembro de 2022, com duração de\n01h/40min, por ocasião das festividades do REVEILLON 2022/2023\nno Município de Cacimba de Dentro/PB",
+            "empresa": "FILHOS DA LUZ\nCOMUNICAÇÕES LTDA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico da Banda Samya Maia que\nse apresentará no dia 31 de Dezembro de 2022, com duração de\n01h/40min, por ocasião das festividades do REVEILLON 2022/2023\nno Município de Cacimba de Dentro/PB",
+            "empresa": "MAIS SHOWS E\nEVENTOS LTDA",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 162750.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 87,
+        "num_contratos": 94,
+        "total_gasto": 16467398.569999997
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 6159027.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1305307.91,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para a prestação de Serviços de\n\nConsultoria e Assessoria Técnica Especializada junto ao Setor de\n\nLicitações da Prefeitura Municipal de Cacimba de Dentro/PB,\n\nexercício de 2022",
+            "empresa": "- Atualizar o valor inicial contratado. PARTES\n\nCONTRATANTES: Prefeitura Municipal de Cacimba de Dentro e:\n\nCT Nº 00002/2022 - Rapidez e Eficiência, Assessoria e Consultoria\n\nLtda-me",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para o envio e\n\norganização do SISOBRA PREF, envio da SEFIP do período de 2023\n\ne suas respectivas retificações, envio da DCTF dos CNPJ sem\n\nmovimentos vinculados ao E–SOCIAL, envio da RAIS e DIRF e\n\nacompanhamento junto ao E–SOCIAL do Município de Cacimba de\n\nDentro",
+            "empresa": "LUCIANO FINIZOLA DE PAIVA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios (Cereais Diversos e\n\nOutros) de forma parcelada, destinados a atender as Secretarias de\n\nSaúde, Administração e Finanças, Infraestrutura, Educação e\n\nAssistência Social da Prefeitura Municipal de Cacimba de Dentro,\n\npara o exercício de 2023",
+            "empresa": "MC\n\nALIMENTOS MINIMERCADO LTDA",
+            "valor_total": "R$ 702,387.55"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTO (LUCENTIS) EM\n\nDECORRÊNCIA DE DEMANDA JUDICIAL, DESTINADO À\n\nPACIENTE LINDALVA DA COSTA FERREIRA",
+            "empresa": "ALLFAMED COMERCIO\n\nATACADISTA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 12,151.68"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 1152565.92,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA\n\nEVENTUAL AQUISIÇÃO DE SUPLEMENTOS ESPECIAIS E\n\nMEDICAMENTOS, PARA CUMPRIMENTO DE\n\nDETERMINAÇÃO JUDICIAL, DESTINADOS A PACIENTES\n\nPORTADORES DE MICROCEFALIA E OUTRAS PATOLOGIAS\n\nNO MUNICÍPIO DE CACIMBA DE DENTRO/PB, EXERCÍCIO\n\nDE 2023/2024",
+            "empresa": "REDE DOUTOR FARMA COMERCIO DE MEDICAMENTOS\n\nLTDA",
+            "valor_total": "R$ 121,689.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 1754481.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1793025.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico da Banda VILÕES DO\n\nFORRÓ, que se apresentará no dia 01 de julho de 2023, com duração\n\nde 01h/30min, por ocasião das festividades do São Pedro no Distrito\n\nde Logradouro, município de Cacimba de Dentro/2023",
+            "empresa": "J P DA COSTA\n\nNETO PRODUCOES",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 110126.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 456357.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1778977.9500000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE AMPLIAÇÃO DA UBS MARIA\n\nBERNARDINO DOS SANTOS, LOCALIZADA NO SÍTIO SERRA\n\nFEIA, MUNICÍPIO DE CACIMBAS – PB",
+            "empresa": "CONSTRUTORA BARBOSA E\n\nFERREIRA LTDA",
+            "valor_total": "R$ 590,565.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 684528.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1110250.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Show Artístico de Padre Nilson Nunes que\nse apresentará no dia 30 de Dezembro de 2023, com duração de\n01h/40min, por ocasião das festividades do REVEILLON 2023/2024\nno Município de Cacimba de Dentro/PB",
+            "empresa": "FILHOS DA LUZ\nCOMUNICAÇÕES LTDA",
+            "valor_total": "R$ 22,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 3094279.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 59,
+        "num_contratos": 77,
+        "total_gasto": 11225752.169999998
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 805624.65,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE FORMA\nPARCELADA, DESTINADO AO ABASTECIMENTO DO\nVEÍCULO LOCADO À CÂMARA MUNICIPAL DE CACIMBA\nDE DENTRO, PARA O EXERCÍCIO DE 2024",
+            "empresa": "MARANHAO COMBUSTIVEIS LTDA",
+            "valor_total": "R$ 19,888.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\nPRESTAÇÃO DE SERVIÇOS TÉCNICOS DESTINADOS À\nELABORAÇÃO DE FOLHA DE PAGAMENTO, DIRF, GDRAIS E\nELABORAÇÃO, QUALIFICAÇÃO E ENVIO DOS EVENTOS DO\nE–SOCIAL, COMO TAMBÉM, FECHAMENTO PARA EMISSÃO\nDE DARF MENSAL NA DCTFWEB DA CÂMARA MUNICIPAL\nDE CACIMBA DE DENTRO/PB",
+            "empresa": "LUCIANO FINIZOLA\nDE PAIVA",
+            "valor_total": "R$ 22,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE ASSESSORIA\nJURÍDICA ESPECIALIZADA DESTINADOS A CÂMARA\nMUNICIPAL DE CACIMBA DE DENTRO/PB, EXERCÍCIO 2024",
+            "empresa": "PEDRO MATIAS NETO SOCIEDADE INDIVIDUAL DE\nADVOCACIA",
+            "valor_total": "R$ 46,200.00"
+          },
+          {
+            "objeto": "Prestação de Serviços Técnicos Contábeis Especializados\nna elaboração dos balancetes mensais com todos os demonstrativos e\nanexos exigidos pelas normas do TCE/PB da Câmara Municipal de\nCacimba de Dentro, pareceres especializados contábeis e financeiros,\nconsultas sobre assuntos fiscais, financeiros, trabalhistas, econômicas\ne contábeis, exercício 2024",
+            "empresa": "ASTEC GROUP\nCONTADORES ASSOCIADOS S/S LTDA",
+            "valor_total": "R$ 51,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1812006.0399999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de gêneros\n\nalimentícios, destinados a confecção de cestas básicas para a\ndistribuição gratuita com a população carente do nosso município de\nCacimba de Dentro, por ocasião da Semana Santa 2023/2024",
+            "empresa": "CT Nº 00007/2024 - 02.01.24\n\naté 31.12.24 - MERCADO ATUAL LTDA",
+            "valor_total": "R$ 49,620.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nCONFECÇÃO DE DOCUMENTÁRIO SOBRE AS MULHERES\nVEREADORAS DA CÂMARA MUNICIPAL DE CACIMBA DE\n\nDENTRO/PB",
+            "empresa": "49.045.450 ARIANE SANTOS DO NASCIMENTO",
+            "valor_total": "R$ 10,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM E\nMANUTENÇÃO DE SITE INSTIRUCIONAL, GESTÃO DE\nMÍDIAS SOCIAIS, EMAIL INSTITUCIONAL, PUBLICAÇÃO DE\nNOTÍCIAS INSTITUCIONAIS, SUPORTE AO SISTEMA DE\n\nAPOIO AO PROCESSO LEGISLATIVO (SAPL) E FACILITAÇÃO\nDE PLATAFORMAS DE E–DEMOCRACIA",
+            "empresa": "49.045.450 ARIANE\nSANTOS DO NASCIMENTO",
+            "valor_total": "R$ 11,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA OU PROFISSIONAL\nTÉCNICO PARA CONFECÇÃO DE PROJETO\n\nARQUITETÔNICO/ EXECUTIVO DESTINADO À\nCONSTRUÇÃO DE EDIFÍCIO ANEXO À CAMARA MUNICIPAL\nDE CACIMBA DE DENTRO/PB",
+            "empresa": "ANDERSON DE\n\nFREITAS PAULINO",
+            "valor_total": "R$ 7,923.89"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\nPRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO E CESSÃO DE USO\nDE SOFTWARE DE CONTABILIDADE, PORTAL DE\nTRANSPARÊNCIA, FOLHA DE PAGAMENTO E CONTROLE DE\n\nFROTA PARA SISTEMA INFORMATIZADO",
+            "empresa": "PUBLIC SOFTWARE\n\nINFORMATICA LTDA",
+            "valor_total": "R$ 19,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 1271538.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 4800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 2072894.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 1555415.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Sistema de Registro de Preços para eventual Aquisição de\n\nMaterial Médico Hospitalar, a ser entregue de forma parcelada,\n\ndestinado a manutenção das atividades referentes ao funcionamento\n\ndo hospital municipal e postos de atenção básica ligados a Secretaria\nde Saúde da Prefeitura Municipal de Cacimba de Dentro/PB",
+            "empresa": "CIRURGICA FAMED DISTRIBUIDORA DE PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 12,359.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 590093.01,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO DA BANDA\n\nLAMBASAIA EM COMEMORAÇÃO AOS 65 ANOS DE\n\nEMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE CACIMBA DE\n\nDENTRO, A SE REALIZAR NO DIA 26 DE SETEMBRO DE 2024,\n\nCOM DURAÇÃO DE 2H20M",
+            "empresa": "04.000",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO DA BANDA\n\nLAMBASAIA EM COMEMORAÇÃO AOS 65 ANOS DE\n\nEMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE CACIMBA DE\n\nDENTRO, A SE REALIZAR NO DIA 26 DE SETEMBRO DE 2024,\n\nCOM DURAÇÃO DE 2H20M",
+            "empresa": "B.M. NOVAIS\n\nPRODUCOES",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 19100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na locação de\n\nmáquinas pesadas destinadas a realização de serviços de\n\nterraplanagem e nivelamento de terreno, bem como o transporte de\n\naterro necessários à construção do Anexo da Câmara Municipal de\n\nCacimba de Dentro/PB",
+            "empresa": "LP CONSTRUTORA E\n\nLOCADORA DE MAQUINAS LTDA",
+            "valor_total": "R$ 19,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO DA\n\nCONSTRUÇÃO CIVIL, DESTINADA A EXECUÇÃO DOS\n\nSERVIÇOS DE CONSTRUÇÃO DE ANEXO ADMINISTRATIVO\n\nDA CÂMARA MUNICIPAL DE CACIMBA DE DENTRO/PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Câmara Municipal de Cacimba de Dentro e: CT\n\nNº 00013/2024",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO DA\n\nCONSTRUÇÃO CIVIL, DESTINADA A EXECUÇÃO DOS\nSERVIÇOS DE CONSTRUÇÃO DE ANEXO ADMINISTRATIVO\n\nDA CÂMARA MUNICIPAL DE CACIMBA DE DENTRO/PB",
+            "empresa": ". PARTES\nCONTRATANTES: Câmara Municipal de Cacimba de Dentro e: CT\n\nNº 00013/2024",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -2,11 +2,10 @@ import re
 
 import diario_municipal
 
-# No final do regex, existe uma estrutura condicional que verifica se o próximo match é um \s ou SECRETARIA. Isso foi feito para resolver um problema no diário de 2018-10-02, em que o município de Coité do Nóia não foi percebido pelo código. Para resolver isso, utilizamos a próxima palavra (SECRETARIA) para tratar esse caso.
+# No final do regex, existe uma estrutura condicional para pegar nomes de municipios compostos..
 # Exceções Notáveis
-# String: VAMOS, CNPJ, HOMOLOGAÇÃO, PARAÍBA EDITAL - PARA EVITAR DUPLICATA DE MUNICIPIOS
 re_nomes_municipios = (
-    r"ESTADO DA PARAÍBA(?:| )\n{1,2}(?:PREFEITURA MUNICIPAL DE|MUNICÍPIO DE) (?!.*\s* – )(\S.*?)(?=\s*(?=\n|$))")
+    r"ESTADO DA PARAÍBA(?:| )\n{1,2}(?:PREFEITURA MUNICIPAL DE|MUNICÍPIO DE) (?!.*\s* – )(\S.*?)(?=\s*(?=\n*(?:COMISS[AÃ]O|GABINETE|SECRET[ÁA]RIA|INEXIGIBILIDADE|EXTRATO|C[ÂA]MARA|ATA|PREFEITURA|CONS[ÓO]RCIO|CMAS|CPL|ADITIVO|TERMO|PREG[ÃA]O|ADMINISTRAÇ[ÃA]O|DECRETO|CONSELHO|AVISO|LICITAÇ[ÃA]O|SETOR|FUNDO|IPAM|INSTITUTO|EDITAL|FUNPREVE|DEPARTAMENTO|CONS[ÓO]RCIO|IPSEP|PREG[ÃA]O|TERMO|PORTARIA|HOMOLOGAÇ[ÃA]O)))")
 
 
 def extrair_diarios_municipais(texto_diario: str):

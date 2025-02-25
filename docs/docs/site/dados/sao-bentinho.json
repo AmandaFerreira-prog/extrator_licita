@@ -44,9 +44,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 95,
-        "num_contratos": 307,
-        "total_gasto": 25616464.470000003
+        "num_diarios": 94,
+        "num_contratos": 309,
+        "total_gasto": 25971573.470000003
       },
       "2": {
         "num_diarios": 10,
@@ -63,8 +63,8 @@
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 53,
-        "total_gasto": 4637984.100000001,
+        "num_contratos": 55,
+        "total_gasto": 4767784.100000001,
         "top_3_empresas": [
           "ICCP\n\nCONSTRUCOES LTDA"
         ],
@@ -116,9 +116,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 1068410.3599999999,
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 801420.36,
         "top_3_empresas": [
           "JP CONSTRUCOES\n\nE SERVISOS LTDA",
           "IMPETUS SERVICO DE CONSULTORIA LTDA."
@@ -130,8 +130,8 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 5,
-        "total_gasto": 469428.52999999997,
+        "num_contratos": 6,
+        "total_gasto": 954827.53,
         "top_3_empresas": [
           "JP CONSTRUCOES E SERVISOS LTDA."
         ],
@@ -148,8 +148,8 @@
       },
       "12": {
         "num_diarios": 7,
-        "num_contratos": 3,
-        "total_gasto": 91485.07,
+        "num_contratos": 4,
+        "total_gasto": 98385.07,
         "top_3_empresas": [
           "BOMSUCESSO CONSTRUCOES E SERVICOS\n\nLTDA."
         ],
@@ -160,9 +160,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 107,
-    "num_contratos": 311,
-    "total_gasto": 25751632.14,
+    "num_diarios": 106,
+    "num_contratos": 313,
+    "total_gasto": "26.106.741,14",
     "top_5_empresas": {
       "CONSTRUTORA FORTE BRASIL EIRELI": 1,
       "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA": 1,

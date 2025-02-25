@@ -1,0 +1,487 @@
+{
+  "id": "rio-tinto",
+  "nome": "Rio Tinto",
+  "detalhe": {
+    "2018": {
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 36,
+        "num_contratos": 7,
+        "total_gasto": 2077656.73
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 392715.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa para aquisição e fornecimento\nde forma parcelada de materiais gráficos diversos, destinado a esta\nPrefeitura",
+            "empresa": "INTERGRAF GRAFICA E EDITORA\nLTDA",
+            "valor_total": "R$ 392,715.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 290000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de preços para futura e eventual Aquisição de um\n\nveículo tipo VAN (Composta por Dispositivo de Poltrona Móvel),\n\nzero km, ano/modelo 2018, para atender as necessidades da Secretaria\n\nMunicipal de Saúde do Município de São Sebastião do Umbuzeiro -\n\nPB, através do Termo de Compromisso n.º 25000.088629/2018-31 -\n\nFNS",
+            "empresa": "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA",
+            "valor_total": "R$ 190,000.00"
+          },
+          {
+            "objeto": "Aquisição de 02 (dois) veículos tipo SEDAN, zero km,\n\nano/modelo 2018, para atender as necessidades do Fundo Municipal\n\nde Saúde de São Sebastião do Umbuzeiro - PB, conforme\n\nespecificações técnicas constantes no termo de referência",
+            "empresa": "CAVALCANTI\n\nPRIMO VEICULOS LTDA",
+            "valor_total": "R$ 100,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 7940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 1130009.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 91237.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 165755.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 31,
+        "num_contratos": 7,
+        "total_gasto": 188184.27000000002
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 188184.27000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamentos diversos, destinado a\nImplementação da Unidade de Pronto Atendimento (UPA), Conforme\nPortaria n.° 1580, Proposta n.° 12457150000113004, Processo\nMinistério da Saúde - MS 25000.112107/2019-49",
+            "empresa": "CRM COMERCIAL LTDA",
+            "valor_total": "R$ 115,544.52"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos diversos, destinado a\nImplementação da Unidade de Pronto Atendimento (UPA), Conforme\nPortaria n.° 1580, Proposta n.° 12457150000113004, Processo\nMinistério da Saúde - MS 25000.112107/2019-49",
+            "empresa": "DENTALMED COMÉRCIO E\nREPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 115,544.52"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos diversos, destinado a\nImplementação da Unidade de Pronto Atendimento (UPA), Conforme\nPortaria n.° 1580, Proposta n.° 12457150000113004, Processo\nMinistério da Saúde - MS 25000.112107/2019-49",
+            "empresa": "CT Nº\n00144/2019 - 03.10.19 - LEISTUNG EQUIPAMENTOS LTDA.",
+            "valor_total": "R$ 115,544.52"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos diversos, destinado a\nImplementação da Unidade de Pronto Atendimento (UPA), Conforme\nPortaria n.° 1580, Proposta n.° 12457150000113004, Processo\nMinistério da Saúde - MS 25000.112107/2019-49",
+            "empresa": "MULTIHOSP\nCOMERCIAL DE PRODUTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 115,544.52"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de gêneros alimentícios\ndiversos, destinado a merenda escolar, deste município",
+            "empresa": "ADEMIR LOURENCO DE\nAMORIM",
+            "valor_total": "R$ 72,639.75"
+          },
+          {
+            "objeto": "Aquisição de forma parcelada de gêneros alimentícios\ndiversos, destinado a merenda escolar, deste município",
+            "empresa": "JOSE\nFHILLYPE DOS SANTOS BRITO",
+            "valor_total": "R$ 72,639.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 820128.2
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 563028.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em construção civil,\npara execução dos serviços de reforma das seguintes unidades\nescolares: Escola Municipal Presidente Rodrigues Alves, Escola\nMunicipal Getúlio Vargas, Escola Municipal João XXIII, Escola\nMunicipal Maria Milta Bernardo Leandro, Escola Municipal Josina\nArruda Câmara, Escola Municipal Terezinha Agripino da Costa e\nEscola Municipal Severino Joaquim da Silva, todas localizadas na\nZona Rural deste município",
+            "empresa": "NATHALIA FARIAS DANTAS DE\nFIGUEIREDO EIRELI",
+            "valor_total": "R$ 292,545.43"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em construção civil,\npara execução dos serviços de pavimentação das ruas Projetada 01,\nProjetada 02, Projetada 02-A, Projetada 02-B, Projetada 03-A e\nProjetada 03-B, na comunidade Bom Fim, localizada na Zona Urbana\ndesse município, conforme Contrato de Repasse n.°\n878660/2018/MCIDADES/CAIXA",
+            "empresa": "CONSTRUTORA IMPERIAL EIRELI",
+            "valor_total": "R$ 270,482.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 257100.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 289544.0
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 289544.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo tipo passeio, destinado a Secretaria de\n\nEducação do Município de Rio Tinto",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 74,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 174000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa do ramo pertinente para\n\naquisição de peixes destinados a distribuição gratuita com a população\n\ndo município de Rio Tinto – PB, por ocasião da semana santa 2024",
+            "empresa": "DISTRIBUIDORA TRIUNFO LTDA",
+            "valor_total": "R$ 174,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 2616863.51
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 60335.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\ntecidos diversos destinados as diversas secretarias do município de\nRio Tinto",
+            "empresa": "L & J TRANSFER LTDA.",
+            "valor_total": "R$ 60,335.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 756000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 02 VEÍCULOS TIPO VAN 0KM,\n\nVENDIDOS POR UMA CONCESSIONÁRIA AUTORIZADA\n\nPELO FABRICANTE OU PELO PRÓPRIO FABRICANTE,\n\nCONFORME O TERMO DE REFERÊNCIA, DESTINADO A\n\nPREFEITURA MUNICIPAL DE RIO TINTO – PB",
+            "empresa": "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA",
+            "valor_total": "R$ 756,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 1626528.31,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para o\n\nfornecimento de sistemas de geração de energia fotovoltaica,\n\nincluindo estudos, implantação, instalação, comissionamento e\n\ntreinamento junto a Secretaria de Educação, destinado as escolas da\n\nrede municipal de ensino da prefeitura de Rio Tinto–PB",
+            "empresa": "VOLT ENERGIA LTDA",
+            "valor_total": "R$ 1,501,183.06"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -1,0 +1,2386 @@
+{
+  "id": "sao-joao-do-rio-do-peixe",
+  "nome": "São João do Rio do Peixe",
+  "detalhe": {
+    "2021": {
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 39,
+        "total_gasto": 13504846.14,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO DE MATERIAL ELÉTRICO PARA ATENDER AS\n\nNECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CASA DO ELETRICISTA DO AGRICULTOR LTDA\n\nME",
+            "valor_total": "R$ 1,681,721.34"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO DE MATERIAL ELÉTRICO PARA ATENDER AS\n\nNECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ELETROLUZ\n\nCOMERCIO DE MATERIAIS ELETRICOS EIRELI",
+            "valor_total": "R$ 1,681,721.34"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO DE MATERIAL ELÉTRICO PARA ATENDER AS\n\nNECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CASA DO ELETRICISTA DO\n\nAGRICULTOR LTDA ME",
+            "valor_total": "R$ 1,681,721.34"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS DE CONSTRUÇÃO E HIDRAULICO PARA ATENDER AS NECESSIDADES\n\nDIARIAS DAS SECRETARIAS DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "VALCILANIA\n\nBATISTA DE BRITO SANTANA",
+            "valor_total": "R$ 1,735,233.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 22,
+        "num_contratos": 171,
+        "total_gasto": 36672080.42000001
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1022808.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nLOCAÇÃO DE HORAS MAQUINAS (ESCAVADEIRA\n\nHIDRÁULICA DE ESTEIRA, RETROESCAVADEIRA DE\n\nCAMINHÃO BASCULANTE TRUCADO E TOCO, TRATOR DE\n\nPNEU) CONFORME A NECESSIDADE DO MUNICÍPIO",
+            "empresa": "CT Nº\n\n00078/2021",
+            "valor_total": "R$ 1,022,808.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 42,
+        "total_gasto": 3288758.43,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO E DESCARTAVEL PARA ATENDER AS NECESSIDADES DO SERVIÇO DE\nATENDIMENTO MÓVEL DE URGENCIA – SAMU NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "PAULO JOSE MAIA ESMERALDO SOBREIRA",
+            "valor_total": "R$ 94,650.72"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO E DESCARTAVEL PARA ATENDER AS NECESSIDADES DO SERVIÇO DE\nATENDIMENTO MÓVEL DE URGENCIA – SAMU NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "PAULO JOSE MAIA ESMERALDO SOBREIRA",
+            "valor_total": "R$ 94,650.72"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO E DESCARTAVEL PARA ATENDER AS NECESSIDADES DO SERVIÇO DE\nATENDIMENTO MÓVEL DE URGENCIA – SAMU NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB\nNOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 94,650.72"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO E DESCARTAVEL PARA ATENDER AS NECESSIDADES DO SERVIÇO DE\nATENDIMENTO MÓVEL DE URGENCIA – SAMU NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "PAULO JOSE MAIA ESMERALDO SOBREIRA",
+            "valor_total": "R$ 94,650.72"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO E DESCARTAVEL PARA ATENDER AS NECESSIDADES DO SERVIÇO DE\nATENDIMENTO MÓVEL DE URGENCIA – SAMU NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "VESCIA MARIA FERNANDES DUARTE EIRELI",
+            "valor_total": "R$ 94,650.72"
+          },
+          {
+            "objeto": "Registro de Preços para aquisição de câmeras de segurança e acessórios para monitoramento de espaços públicos do município de SÃO\nJOÃO DO RIO DO PEIXE PB, conforme solicitação",
+            "empresa": "FRANCISCO BATISTA DE OLIVEIRA",
+            "valor_total": "R$ 200,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1502449.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 80,
+        "total_gasto": 17040780.62,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nHORA MAQUINA PESADA, TRATOR DE ESTEIRA E\n\nMOTONIVELADORA, PARA O MUNICIPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE–PB",
+            "empresa": "LIDER SERVICOS,\n\nLOCACOES E EMPREENDIMENTOS EIRELI",
+            "valor_total": "R$ 606,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 312437.88,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ITENS DE GENEROS ALIMENTÍCIOS PERECÍVEIS E NÃO PERECÍVEIS PARA ATENDER O PROGAMA DE\n\nALIMENTAÇÃO ESCOLAR – PNAE NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA ME",
+            "valor_total": "R$ 312,437.88"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 15,
+        "total_gasto": 8765241.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa destinada ao fornecimento parcelado de combustíveis, óleos e lubrificantes para atender todas as secretarias e\n\ndepartamentos do município de São João do Rio do Peixe – PB, conforme especificações no termo de referência",
+            "empresa": "MUNDO NOVO COMERCIO\n\nPETRÓLEO LTDA",
+            "valor_total": "R$ 8,107,943.00"
+          },
+          {
+            "objeto": "Contratação de empresa destinada ao fornecimento parcelado de combustíveis, óleos e\n\nlubrificantes para atender todas as secretarias e departamentos do município de São João do Rio do Peixe – PB, conforme especificações no termo de\n\nreferência",
+            "empresa": "MUNDO NOVO COMERCIO\n\nPETRÓLEO LTDA",
+            "valor_total": "R$ 8,107,943.00"
+          },
+          {
+            "objeto": "Contratação de empresa destinada ao fornecimento parcelado de combustíveis, óleos e lubrificantes para atender todas as secretarias e\n\ndepartamentos do município de São João do Rio do Peixe – PB, conforme especificações no termo de referência",
+            "empresa": "N NOBREGA DA SILVA & CIA LTDA -\n\nR$ 1.815.189,60; CT Nº 00021/2022 - 02.02.22 - MUNDO NOVO COMERCIO PETRÓLEO LTDA",
+            "valor_total": "R$ 8,107,943.00"
+          },
+          {
+            "objeto": "Contratação de empresa destinada ao fornecimento parcelado de combustíveis, óleos e\n\nlubrificantes para atender todas as secretarias e departamentos do município de São João do Rio do Peixe – PB, conforme especificações no termo de\n\nreferência",
+            "empresa": "N NOBREGA DA SILVA & CIA LTDA -\n\nR$ 1.815.189,60; CT Nº 00021/2022 - 02.02.22 - MUNDO NOVO COMERCIO PETRÓLEO LTDA",
+            "valor_total": "R$ 8,107,943.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA JURIDICA ESPECIALIZADA NO FORNECIMENTO DE OXIGÊNIO MEDICINAL PARA\n\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE –PB",
+            "empresa": "THAIS DE OLIVEIRA BRANDAO",
+            "valor_total": "R$ 657,298.80"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA JURIDICA ESPECIALIZADA NO FORNECIMENTO DE OXIGÊNIO MEDICINAL PARA\n\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE –PB",
+            "empresa": "THAIS DE\n\nOLIVEIRA BRANDAO",
+            "valor_total": "R$ 657,298.80"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA JURIDICA ESPECIALIZADA NO FORNECIMENTO DE OXIGÊNIO MEDICINAL PARA\n\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE –PB",
+            "empresa": "THAIS DE\n\nOLIVEIRA BRANDAO",
+            "valor_total": "R$ 657,298.80"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA JURIDICA ESPECIALIZADA NO FORNECIMENTO DE OXIGÊNIO MEDICINAL PARA\n\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE –PB",
+            "empresa": "CICERO ANTONIO BEZERRA VIEIRA",
+            "valor_total": "R$ 657,298.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 23,
+        "num_contratos": 260,
+        "total_gasto": 44894789.82
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 9,
+        "total_gasto": 1198857.7,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULOS AUTOMOTORES DESTINADOS AS UNIDADES BÁSICA DE SAÚDE DO MUNICIPIO DE SÃO\nJOÃO DO RIO DO PEIXE – PB",
+            "empresa": "DICAL\nDISTRIBUIDORA DE VEÍCULOS CAJAZEIRAS LTDA",
+            "valor_total": "R$ 921,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 80,
+        "total_gasto": 9499453.05,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NNMED",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "PN COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "VIA MEDICAMENTOS COMERCIO E CONSULTORIA EM\nSAUDE LTDA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "VESCIA MARIA FERNANDES DUARTE EIRELI",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "VIA\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NNMED -\nDISTRIBUICAO, IMPORTACAO E EXPORTACAO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "MARIA DO\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS EM GERAL E MATERIAIS MÉDICO HOSPITALAR PARA ATENDER AS NECESSIDADES\nDO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHÉA DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "PN COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 2,155,169.85"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "MARIA DO SOCORRO ADELINO MOURA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "PN COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "MARIA DO SOCORRO\nADELINO MOURA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "PN COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "A. COSTA COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "NNMED - DISTRIBUICAO, IMPORTACAO E EXPORTACAO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "MARIA DO SOCORRO ADELINO MOURA",
+            "valor_total": "R$ 2,001,924.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS E INSUMOS PARA FARMÁCIA BÁSICA E UNIDADES BÁSICAS DE SAÚDE PARA\nATENDER AS NECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE– PB",
+            "empresa": "PN COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 2,001,924.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 84,
+        "total_gasto": 7172949.69,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE BRINQUEDOS DESTINADOS A EDUCAÇÃO INFANTIL DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–\n\nPB, ANO DE 2022",
+            "empresa": "ANGEBIO\n\nKERFEESON DUARTE SILVA",
+            "valor_total": "R$ 504,540.69"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS (BENS PERMANENTES) PARA ATENDER AS NECESSIDADES DAS INSTITUIÇÕES\n\nESCOLARES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NUZIA LEILA DUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 113,344.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS (BENS PERMANENTES) PARA ATENDER AS NECESSIDADES DAS INSTITUIÇÕES\n\nESCOLARES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NUZIA LEILA DUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 113,344.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS (BENS PERMANENTES) PARA ATENDER AS NECESSIDADES DAS INSTITUIÇÕES\n\nESCOLARES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NUZIA LEILA DUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 113,344.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIÁRIOS (BENS PERMANENTES) PARA ATENDER AS NECESSIDADES DAS INSTITUIÇÕES\n\nESCOLARES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 113,344.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 21,
+        "total_gasto": 5405036.34,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO DE ATA DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE 01 VEÍCULO TIPO AMBULÂNCIA 2021/2022\n\nCONFORME TERMO DE REFERÊNCIA DO EDITAL PREGÃO PRESENCIAL 00024/2021 PROCESSO ADMMINISTRATIVO 3100/2021\n\nDO FUNDO MUNICIPAL DE GAMELEIRA DE GOIÁS–GO",
+            "empresa": "HOPE COMERCIO E SERVICOS\n\nEIRELI",
+            "valor_total": "R$ 4,509,222.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE ALIMENTOS PERECIVEIS E\n\nNÃO PERECIVEIS, MATERIAL DE LIMPEZA E HIGIÊNE PESSOAL PARA ATENDER AS NECESSIDADES DIÁRIAS DE TODAS AS\n\nSECRETARIAS E DEPARTAMENTOS DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE – PB",
+            "empresa": "HOPE COMERCIO E SERVICOS\n\nEIRELI",
+            "valor_total": "R$ 4,509,222.50"
+          },
+          {
+            "objeto": "ADESÃO DE ATA DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE 01 VEÍCULO TIPO AMBULÂNCIA 2021/2022\n\nCONFORME TERMO DE REFERÊNCIA DO EDITAL PREGÃO PRESENCIAL 00024/2021 PROCESSO ADMMINISTRATIVO 3100/2021\n\nDO FUNDO MUNICIPAL DE GAMELEIRA DE GOIÁS–GO",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA ME",
+            "valor_total": "R$ 4,509,222.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE ALIMENTOS PERECIVEIS E\n\nNÃO PERECIVEIS, MATERIAL DE LIMPEZA E HIGIÊNE PESSOAL PARA ATENDER AS NECESSIDADES DIÁRIAS DE TODAS AS\n\nSECRETARIAS E DEPARTAMENTOS DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE – PB",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA ME",
+            "valor_total": "R$ 4,509,222.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 14,
+        "total_gasto": 2286710.16,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE ZEZO , COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE\n\nMICHELE ANDRADE COM DURAÇÃO DE 120 (CENTO E\n\nVINTE) MINUTOS DE SHOW, COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE MICHELE ANDRADE COM DURAÇÃO\n\nDE 120 (CENTO E VINTE) MINUTOS DE SHOW, COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL PARA A FESTA DO\n\nDIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE ZÉ\n\nCANTOR COM DURAÇÃO DE 01:40H (UMA HORA E\n\nQUARENTA MUNUTOS DE SHOW), COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE ZÉ CANTOR COM DURAÇÃO DE 01:40H\n\n(UMA HORA E QUARENTA MUNUTOS DE SHOW), COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL PARA A FESTA DO\n\nDIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA EM COMEMORAÇÃO A\n\nCAVALGADA \"TROPEIROS DE SÃO FRANCISCO\" COM\n\nAPRESENTAÇÃO DE SIRANO E SIRINO COM DURAÇÃO DE\n\n02 (DUAS) HORAS DE SHOW , COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL DIA 01 DE OUTUBRO DE 2022 NO\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA EM\n\nCOMEMORAÇÃO A CAVALGADA \"TROPEIROS DE SÃO\n\nFRANCISCO\" COM APRESENTAÇÃO DE SIRANO E SIRINO\n\nCOM DURAÇÃO DE 02 (DUAS) HORAS DE SHOW , COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL DIA 01 DE\n\nOUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO\n\nPEIXE",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA NO DISTRITO DE UMARÍ EM\n\nCOMEMORAÇÃO A INAUGURAÇÃO DA PRAÇA COM\n\nAPRESENTAÇÃO DE GILSON MANIA COM DURAÇÃO DE\n\n01:40 HORAS DE SHOW , COM RECONHECIMENTO PÚBLICO\n\nNOTÁVEL DIA 16 DE SETEMBRO DE 2022",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA NO DISTRITO\n\nDE UMARÍ EM COMEMORAÇÃO A INAUGURAÇÃO DA\n\nPRAÇA COM APRESENTAÇÃO DE GILSON MANIA COM\n\nDURAÇÃO DE 01:40 HORAS DE SHOW , COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL DIA 16 DE\n\nSETEMBRO DE 2022",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS EIRELI",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE ZEZO , COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE\n\nMICHELE ANDRADE COM DURAÇÃO DE 120 (CENTO E\n\nVINTE) MINUTOS DE SHOW, COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE MICHELE ANDRADE COM DURAÇÃO\n\nDE 120 (CENTO E VINTE) MINUTOS DE SHOW, COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL PARA A FESTA DO\n\nDIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE ZÉ\n\nCANTOR COM DURAÇÃO DE 01:40H (UMA HORA E\n\nQUARENTA MUNUTOS DE SHOW), COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE ZÉ CANTOR COM DURAÇÃO DE 01:40H\n\n(UMA HORA E QUARENTA MUNUTOS DE SHOW), COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL PARA A FESTA DO\n\nDIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA EM COMEMORAÇÃO A\n\nCAVALGADA \"TROPEIROS DE SÃO FRANCISCO\" COM\n\nAPRESENTAÇÃO DE SIRANO E SIRINO COM DURAÇÃO DE\n\n02 (DUAS) HORAS DE SHOW , COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL DIA 01 DE OUTUBRO DE 2022 NO\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA EM\n\nCOMEMORAÇÃO A CAVALGADA \"TROPEIROS DE SÃO\n\nFRANCISCO\" COM APRESENTAÇÃO DE SIRANO E SIRINO\n\nCOM DURAÇÃO DE 02 (DUAS) HORAS DE SHOW , COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL DIA 01 DE\n\nOUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO\n\nPEIXE",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA NO DISTRITO DE UMARÍ EM\n\nCOMEMORAÇÃO A INAUGURAÇÃO DA PRAÇA COM\n\nAPRESENTAÇÃO DE GILSON MANIA COM DURAÇÃO DE\n\n01:40 HORAS DE SHOW , COM RECONHECIMENTO PÚBLICO\n\nNOTÁVEL DIA 16 DE SETEMBRO DE 2022",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA NO DISTRITO\n\nDE UMARÍ EM COMEMORAÇÃO A INAUGURAÇÃO DA\n\nPRAÇA COM APRESENTAÇÃO DE GILSON MANIA COM\n\nDURAÇÃO DE 01:40 HORAS DE SHOW , COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL DIA 16 DE\n\nSETEMBRO DE 2022",
+            "empresa": "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 438,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 3606081.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\nSUBSTITUIÇÃO DE EXTINTORES",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.",
+            "valor_total": "R$ 3,606,081.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\nSUBSTITUIÇÃO DE EXTINTORES",
+            "empresa": "; c",
+            "valor_total": "R$ 3,606,081.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\nSUBSTITUIÇÃO DE EXTINTORES",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 3,606,081.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\nSUBSTITUIÇÃO DE EXTINTORES",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\nquando for o caso, cobrado judicialmente.\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 3,606,081.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\nSUBSTITUIÇÃO DE EXTINTORES",
+            "empresa": "PEDRO MANGUEIRA DE AQUINO",
+            "valor_total": "R$ 3,606,081.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 21,
+        "total_gasto": 5864394.08,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "MARIA DO SOCORRO ADELINO\n\nMOURA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "MARIA DO SOCORRO ADELINO\n\nMOURA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "MARIA DO SOCORRO ADELINO\n\nMOURA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "MARIA DO SOCORRO ADELINO\n\nMOURA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço global.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço global.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço global.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço global.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ELMAR -\n\nPROCESSAMENTO DE DADOS EIRELI",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ELMAR -\n\nPROCESSAMENTO DE DADOS EIRELI",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ELMAR -\n\nPROCESSAMENTO DE DADOS EIRELI",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ELMAR -\n\nPROCESSAMENTO DE DADOS EIRELI",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ANGEBIO KERFEESON DUARTE SILVA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ANGEBIO KERFEESON DUARTE SILVA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ANGEBIO KERFEESON DUARTE SILVA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ANGEBIO KERFEESON DUARTE SILVA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço unitário.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço unitário.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço unitário.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço unitário.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 26",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 26",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 26",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 26",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "FRANCISCO LUCIANO DE OLIVEIRA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "FRANCISCO LUCIANO DE OLIVEIRA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "FRANCISCO LUCIANO DE OLIVEIRA",
+            "valor_total": "R$ 5,864,394.08"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA REALIZAR SERVIÇOS REPROGRÁFICOS SENDO, PLOTAGENS,\n\nCOPIAS EM GRANDES FORMATOS, IMPRESSÕES A LASER A4 E DIGITALIZAÇÕES PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "FRANCISCO LUCIANO DE OLIVEIRA",
+            "valor_total": "R$ 5,864,394.08"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 13,
+        "total_gasto": 1096066.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço unitário.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "FRANCISCO FERNANDES DANTAS",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 420,480.00"
+          },
+          {
+            "objeto": "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 420,480.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 8455069.14,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS DE ÁR,\n\nPARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE E SUAS SECRETARIAS, CONFORME TERMO\n\nDE REFERÊNCIA ANEXO",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 5,596,115.74"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS DE ÁR,\n\nPARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE E SUAS SECRETARIAS, CONFORME TERMO\n\nDE REFERÊNCIA ANEXO",
+            "empresa": "; c",
+            "valor_total": "R$ 5,596,115.74"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS DE ÁR,\n\nPARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE E SUAS SECRETARIAS, CONFORME TERMO\n\nDE REFERÊNCIA ANEXO",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 5,596,115.74"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS DE ÁR,\n\nPARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE E SUAS SECRETARIAS, CONFORME TERMO\n\nDE REFERÊNCIA ANEXO",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 79\n\n\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 5,596,115.74"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DESTINADA A AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS DE ÁR,\n\nPARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE E SUAS SECRETARIAS, CONFORME TERMO\n\nDE REFERÊNCIA ANEXO",
+            "empresa": "LUZIA DE\n\nAQUINO FERREIRA",
+            "valor_total": "R$ 5,596,115.74"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 34,
+        "num_contratos": 213,
+        "total_gasto": 40927494.0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 14,
+        "total_gasto": 925500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS DE\n\nARQUITETURA, URBANISMO, E ENGENHARIA PARA ANTENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE SÃO JOÃO\n\nDO RIO DO PEIXE/PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 126,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS DE\n\nARQUITETURA, URBANISMO, E ENGENHARIA PARA ANTENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE SÃO JOÃO\n\nDO RIO DO PEIXE/PB",
+            "empresa": "; c",
+            "valor_total": "R$ 126,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS DE\n\nARQUITETURA, URBANISMO, E ENGENHARIA PARA ANTENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE SÃO JOÃO\n\nDO RIO DO PEIXE/PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 126,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS DE\n\nARQUITETURA, URBANISMO, E ENGENHARIA PARA ANTENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE SÃO JOÃO\n\nDO RIO DO PEIXE/PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 126,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 32,
+        "total_gasto": 6515512.859999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPCIALIZADA NO FORNECIMENTODE SOFTWARE DE GESTÃO ESCOLAR PARA\n\nECOLAS PÚBLICAS MUNICIPAIS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e executado sob o regime de empreitada por preço global.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.",
+            "valor_total": "R$ 95,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPCIALIZADA NO FORNECIMENTODE SOFTWARE DE GESTÃO ESCOLAR PARA\n\nECOLAS PÚBLICAS MUNICIPAIS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 95,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPCIALIZADA NO FORNECIMENTODE SOFTWARE DE GESTÃO ESCOLAR PARA\n\nECOLAS PÚBLICAS MUNICIPAIS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 95,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPCIALIZADA NO FORNECIMENTODE SOFTWARE DE GESTÃO ESCOLAR PARA\n\nECOLAS PÚBLICAS MUNICIPAIS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 95,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPCIALIZADA NO FORNECIMENTODE SOFTWARE DE GESTÃO ESCOLAR PARA\n\nECOLAS PÚBLICAS MUNICIPAIS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "REDE NET COMERCIO, SERVICOS DE TECNOLOGIA LIMITADA-\nME",
+            "valor_total": "R$ 95,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 674640.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS PARA DISTRIBUIÇÃO À FAMÍLIAS EM SITUAÇÃO DE\nVULNERABILIDADE ECONÔMICA E SOCIAL DESTE MUNICÍPIO",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento integral.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.",
+            "valor_total": "R$ 337,320.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS PARA DISTRIBUIÇÃO À FAMÍLIAS EM SITUAÇÃO DE\nVULNERABILIDADE ECONÔMICA E SOCIAL DESTE MUNICÍPIO",
+            "empresa": "; c",
+            "valor_total": "R$ 337,320.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS PARA DISTRIBUIÇÃO À FAMÍLIAS EM SITUAÇÃO DE\nVULNERABILIDADE ECONÔMICA E SOCIAL DESTE MUNICÍPIO",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 337,320.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS PARA DISTRIBUIÇÃO À FAMÍLIAS EM SITUAÇÃO DE\nVULNERABILIDADE ECONÔMICA E SOCIAL DESTE MUNICÍPIO",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\nquando for o caso, cobrado judicialmente.\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 337,320.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE CESTAS BÁSICAS PARA DISTRIBUIÇÃO À FAMÍLIAS EM SITUAÇÃO DE\nVULNERABILIDADE ECONÔMICA E SOCIAL DESTE MUNICÍPIO",
+            "empresa": "EVERALDO FERREIRA DE ALMEIDA ME",
+            "valor_total": "R$ 337,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 43,
+        "total_gasto": 3627497.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº\n\n00166/2023 - 15.05.23 até 15.03.24 - BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00235/2023 - 19.05.23 até 19.05.24 - APOGEU\n\nCENTER COMERCIAL DE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00237/2023 - 19.05.23 até 19.05.24 - BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00239/2023 - 19.05.23 até 19.05.24 - ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "HOSPHARMA COMERCIO ATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO HOSPITALARES E D",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00242/2023 - 19.05.23 - VIA\n\nMEDICAMENTOS COMERCIO E CONSULTORIA EM SAUDE LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CIRURGICAS MULLET\n\nEQUIPAMENTOS HOSPITALARES E VETERINARIOS EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "3S VISION HOSPITALAR -\n\nCOMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E EQUIPAMENT",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "LONDRIHOSP\n\nIMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00211/2023 - 19.05.23 até 19.05.24 - DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00213/2023 - 19.05.23 até 19.05.24 - LONDRIHOSP IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "NUZIA LEILA\n\nDUTRA DA SILVA DANTAS",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "BIOMED DIST. HOSPITALAR E LAB NOSSA SENHORA\n\nCONCEIÇÃO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 11.178,00; CT Nº 00227/2023 - 19.05.23 - GQS ELETROS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00228/2023 - 19.05.23 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "LONDRIHOSP IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICO HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "ENDOMED COM E REP DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "SUPERMERCADO\n\nENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "SUPERMERCADO ENEAS LTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "JOEL SERAFIM DE ARAUJO",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "CT Nº 00105/2023 - 06.03.23 - SUPERMERCADO ENEAS\n\nLTDA",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS ODONTOLOGICOS PARA ATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO DO\n\nRIO DO PEIXE – PB",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "Aquisição de materiais médico e descartáveis do Serviço de Atendimento Móvel de Urgência – SAMU",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 EMAD II NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB CONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 88\n\n\n\nDA SAÚDE 17648.806000/1220–07",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E EQUIPAMENTO PARA ATENDER A ATENÇÃO ESPECIALIZADA EM SAÚDE\n\n71160002 NO HOSPITAL MUNICIPAL CAPITÃO JOÃO DANTAS ROTHEA NO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB\n\nCONFORME PROPOSTA DE AQUISIÇÃO DO MINISTÉRIO DA SAÚDE 17648.806000/1220–08",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PLAYGROUNDS BRINQUEDÃO PARA DISPONIBILIZAR NAS DIVERSAS PRAÇAS DO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO DIÁRIA PARCELADA DE PRODUTOS DE PADARIA (PÃES, BOLACHAS, BISCOITOS, MASSAS\n\nALIMENTÍCIAS, BOLOS, SALGADOS ETC) PARA ATENDER A NECESSIDADE DE TODAS AS SECRETARIAS MUNICIPAIS DE SÃO\n\nJOÃO DO RIO DO PEIXE–PB",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS GRÁFICOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DE SÃO JOÃO DO RIO PEIXE",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 2,262,725.27"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 27519.96,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW COM O ARTISTA GILSON MANIA,\n\nCOM RECONHECIMENTO PÚBLICO NOTÁVEL PARA A\n\nFESTA DO DIA 13 DE JUNHO DE 2023 NO DISTRITO DE\n\nBANDARRA EM PRAÇA PÚBLICA",
+            "empresa": "LELEKA PRODUÇÕES LTDA ME",
+            "valor_total": "R$ 10,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E\n\nEQUIPAMENTO PARA ATENDER A ATENÇÃO BÁSICA EM\n\nSAUDE BUCAL NO MUNICIPIO DE SÃO JOÃO DO RIO DO\n\nPEIXE–PB",
+            "empresa": "NILDO FREITAS DANTAS",
+            "valor_total": "R$ 17,519.96"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE E\n\nEQUIPAMENTO PARA ATENDER A ATENÇÃO BÁSICA EM\n\nSAUDE BUCAL NO MUNICIPIO DE SÃO JOÃO DO RIO DO\n\nPEIXE–PB",
+            "empresa": "CT Nº 00248/2023",
+            "valor_total": "R$ 17,519.96"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 1984500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 18,
+        "total_gasto": 4129449.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL DE CONCRETO PRÉ MOLDADO DE CONCRETO SIMPLES E\n\nMATERIAL PÉTREOS PARA ATENDER A DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 1,740,561.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL DE CONCRETO PRÉ MOLDADO DE CONCRETO SIMPLES E\n\nMATERIAL PÉTREOS PARA ATENDER A DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "; c",
+            "valor_total": "R$ 1,740,561.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL DE CONCRETO PRÉ MOLDADO DE CONCRETO SIMPLES E\n\nMATERIAL PÉTREOS PARA ATENDER A DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 1,740,561.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL DE CONCRETO PRÉ MOLDADO DE CONCRETO SIMPLES E\n\nMATERIAL PÉTREOS PARA ATENDER A DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 1,740,561.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL DE CONCRETO PRÉ MOLDADO DE CONCRETO SIMPLES E\n\nMATERIAL PÉTREOS PARA ATENDER A DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "JOSE CIRILO DE\n\nSÁ JUNIOR",
+            "valor_total": "R$ 1,740,561.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 18,
+        "total_gasto": 3189132.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 50,
+        "total_gasto": 11398673.6,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE VEICULOS TIPO SUV E PASSEIO PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nSAÚDE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.",
+            "valor_total": "R$ 3,241,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE VEICULOS TIPO SUV E PASSEIO PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nSAÚDE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 3,241,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE VEICULOS TIPO SUV E PASSEIO PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nSAÚDE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 3,241,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE VEICULOS TIPO SUV E PASSEIO PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nSAÚDE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\nquando for o caso, cobrado judicialmente.\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 3,241,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE VEICULOS TIPO SUV E PASSEIO PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\nSAÚDE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "RIO VALE AUTOMOTORES LTDA",
+            "valor_total": "R$ 3,241,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 22,
+        "total_gasto": 4837455.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 19,
+        "num_contratos": 99,
+        "total_gasto": 26607909.249999996
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 13,
+        "total_gasto": 8784395.629999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "JOSE DE SOUZA SÁ",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "; c",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "COSME ARAUJO DE\n\nJESUS",
+            "valor_total": "R$ 6,261,861.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMA PARCELADA, DE MATERIAL ELÉTRICO EM GERAL E MATERIAL HIDRAULICO PARA ATENDER\n\nA DEMANDA DA SECRETARIA DE INFRAESTRUTURA DE SÃO JOÃO DO RIO DO PEIXE PB",
+            "empresa": "CT Nº 00052/2024",
+            "valor_total": "R$ 6,261,861.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 15,
+        "total_gasto": 2241531.75,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ELIANE DO NASCIMENTO CAMPOS\n\nME",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "LRF DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "; c",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "pela inexecução total ou parcial do contrato; d",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ELIANE DO\n\nNASCIMENTO CAMPOS ME",
+            "valor_total": "R$ 1,711,731.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E ELETROS PARA ATENDER AS\n\nNECESSIDADE DAS DIVERSAS SECRETARIAS DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ANGEBIO KERFEESON DUARTE SILVA",
+            "valor_total": "R$ 1,711,731.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 36,
+        "total_gasto": 7039484.05,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA JURIDICA\nESPECIALIZADA PARA CONSTRUÇÃO DE GINASIO\nPOLIESPORTIVO NA COMUNIDADE DE BANDARRA ZONA\nRURAL DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB,\nCONFORME O CONVENIO 0352/2022 E QUANTIDADES\nESTABELECIDAS NESTE EDITAL E SEUS ANEXOS",
+            "empresa": ". PARTES\nCONTRATANTES: Prefeitura Municipal de São João do Rio do\nPeixe e: CT Nº 00270/2023 - M L S - Construcao Civil Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\nconstrução uma quadra coberta na comunidade Patos de Irerê no\nMunicípio de São José de Princesa, conforme projeto de engenharia e\nnos termos do convênio N.º 0296/2021",
+            "empresa": "Torre Construção e Consultoria em\nEngenharia EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\nconstrução uma quadra coberta na comunidade Patos de Irerê no\nMunicípio de São José de Princesa, conforme projeto de engenharia e\nnos termos do convênio N.º 0296/2021",
+            "empresa": ".\nSão José de Princesa",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 306498.2,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PRODUTOS AGROPECUÁRIOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nAGRICULTURA E INFRAESTRUTURA DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\n\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
+            "valor_total": "R$ 118,598.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PRODUTOS AGROPECUÁRIOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nAGRICULTURA E INFRAESTRUTURA DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+            "valor_total": "R$ 118,598.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PRODUTOS AGROPECUÁRIOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nAGRICULTURA E INFRAESTRUTURA DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.",
+            "valor_total": "R$ 118,598.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PRODUTOS AGROPECUÁRIOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nAGRICULTURA E INFRAESTRUTURA DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "MANUEL\n\nFERNANDES NETO & CIA LTDA",
+            "valor_total": "R$ 118,598.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 117408.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRAÇÃO EMPRESA JURIDICA ESPECIALIZADA NO FORNCIMENTO DE OXIGENIO MEDICINAL PARA ATENDER AS\n\nDEMANDAS DA SECREARIA DE SAUDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
+            "valor_total": "R$ 117,408.00"
+          },
+          {
+            "objeto": "CONTRAÇÃO EMPRESA JURIDICA ESPECIALIZADA NO FORNCIMENTO DE OXIGENIO MEDICINAL PARA ATENDER AS\n\nDEMANDAS DA SECREARIA DE SAUDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+            "valor_total": "R$ 117,408.00"
+          },
+          {
+            "objeto": "CONTRAÇÃO EMPRESA JURIDICA ESPECIALIZADA NO FORNCIMENTO DE OXIGENIO MEDICINAL PARA ATENDER AS\n\nDEMANDAS DA SECREARIA DE SAUDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.",
+            "valor_total": "R$ 117,408.00"
+          },
+          {
+            "objeto": "CONTRAÇÃO EMPRESA JURIDICA ESPECIALIZADA NO FORNCIMENTO DE OXIGENIO MEDICINAL PARA ATENDER AS\n\nDEMANDAS DA SECREARIA DE SAUDE DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "SOS SOLUCOES\nINTEGRADAS LTDA",
+            "valor_total": "R$ 117,408.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 2849876.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 431260.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MUDAS, PLANTAS ORNAMENTAIS DE ESPÉCIES VARIADAS, FORRAÇÕES VEGETAIS E INSUMOS\n\nCORRELATOS COM A FINALIDADE DE ATENDER DE FORMA PARCELADA E DE ACORDO COM AS NECESSIDADES DESTE\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\n\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
+            "valor_total": "R$ 431,260.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MUDAS, PLANTAS ORNAMENTAIS DE ESPÉCIES VARIADAS, FORRAÇÕES VEGETAIS E INSUMOS\n\nCORRELATOS COM A FINALIDADE DE ATENDER DE FORMA PARCELADA E DE ACORDO COM AS NECESSIDADES DESTE\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+            "valor_total": "R$ 431,260.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MUDAS, PLANTAS ORNAMENTAIS DE ESPÉCIES VARIADAS, FORRAÇÕES VEGETAIS E INSUMOS\n\nCORRELATOS COM A FINALIDADE DE ATENDER DE FORMA PARCELADA E DE ACORDO COM AS NECESSIDADES DESTE\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.",
+            "valor_total": "R$ 431,260.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MUDAS, PLANTAS ORNAMENTAIS DE ESPÉCIES VARIADAS, FORRAÇÕES VEGETAIS E INSUMOS\n\nCORRELATOS COM A FINALIDADE DE ATENDER DE FORMA PARCELADA E DE ACORDO COM AS NECESSIDADES DESTE\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "MARCIA SHEILA SILVA VIEIRA",
+            "valor_total": "R$ 431,260.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

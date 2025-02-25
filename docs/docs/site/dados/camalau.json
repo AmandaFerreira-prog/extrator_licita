@@ -11,7 +11,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 76,
+        "num_diarios": 75,
         "num_contratos": 62,
         "total_gasto": 4354642.130000001
       },
@@ -48,7 +48,7 @@
         ]
       },
       "9": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 8,
         "total_gasto": 507529.6,
         "top_3_empresas": [],
@@ -87,7 +87,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 122,
+        "num_diarios": 121,
         "num_contratos": 120,
         "total_gasto": 11943991.39
       },
@@ -120,7 +120,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 11,
         "total_gasto": 312677.7,
         "top_3_empresas": [],
@@ -179,7 +179,7 @@
         "num_contratos": 7,
         "total_gasto": 1571132.66,
         "top_3_empresas": [
-          "MARIA\nJOSILEIDE ADELINO DOS SANTOS 03917024403",
+          "MARIA\nJOSILEIDE ADELINO DOS SANTOS",
           "JOSE ADRIANO\nBEZERRA DA SILVA"
         ],
         "top_3_objetos": [
@@ -190,7 +190,7 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 9,
         "total_gasto": 1269924.5,
         "top_3_empresas": [
@@ -203,22 +203,16 @@
         ]
       },
       "resumo": {
-        "num_diarios": 105,
-        "num_contratos": 98,
-        "total_gasto": 12669097.399999999
+        "num_diarios": 103,
+        "num_contratos": 96,
+        "total_gasto": 10236897.399999999
       },
       "2": {
-        "num_diarios": 10,
-        "num_contratos": 6,
-        "total_gasto": 2521445.33,
-        "top_3_empresas": [
-          "EGILBERTO FERREIRA DA SILVA",
-          "F MIX\n\nEMPREENDIMENTOS LTDA"
-        ],
-        "top_3_objetos": [
-          "Conrtatação de pessoa jurídica especializada no\n\nfornecimento parcelado de combustíveis, a fim de atender as\n\ndemandas da frota do município de Camalaú–PB",
-          "Contratação da apresentação artística musical,\n\n“GÍLSON MANIA”, para se apresentar no dia 21 de fevereiro de\n\n2023, por duas horas, nas tradicionais festividades do Carnaval da\n\ncidade de Camalaú-PB"
-        ]
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 89245.33,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "3": {
         "num_diarios": 13,
@@ -232,9 +226,9 @@
         "num_contratos": 6,
         "total_gasto": 2782460.62,
         "top_3_empresas": [
-          "JOSEFA\n\nBARBOSA DOS SANTOS 11516831403",
-          "JOSE JOAO FERREIRA DA COSTA\n\n04879140406",
-          "JOSE\n\nHELIO GOMES DE ARAUJO JUNIOR 48725173855"
+          "JOSEFA\n\nBARBOSA DOS SANTOS",
+          "CT Nº\n\n00030/2023",
+          "CT Nº 00031/2023"
         ],
         "top_3_objetos": [
           "Constitui objeto da presente licitação o registro de preços\n\npara a posterior contratação da prestação de serviços, sob demanda, de\n\nfretamento eventual para transporte rodoviário municipal,\n\nintermunicipal e interestadual de pessoas, conforme especificações e\n\ncondições gerais de fornecimento e execução contidas neste Termo de\n\nReferência"
@@ -246,7 +240,7 @@
         "total_gasto": 427150.0,
         "top_3_empresas": [
           "JULICLÉCIA BARBOSA\n\nALVES FARIAS",
-          "JOSE LUCINALDO CHAVES DE SOUSA 07927308440",
+          "JOSE LUCINALDO CHAVES DE SOUSA",
           "EDVANE ALVES\n\nBARBOSA"
         ],
         "top_3_objetos": [
@@ -336,9 +330,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 78,
-        "num_contratos": 49,
-        "total_gasto": 5252241.71
+        "num_diarios": 77,
+        "num_contratos": 48,
+        "total_gasto": 4968185.710000001
       },
       "2": {
         "num_diarios": 7,
@@ -382,9 +376,9 @@
         ]
       },
       "6": {
-        "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 452176.0,
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 168120.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -451,9 +445,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 381,
-    "num_contratos": 329,
-    "total_gasto": 34219972.63,
+    "num_diarios": 376,
+    "num_contratos": 326,
+    "total_gasto": "31.503.716,63",
     "top_5_empresas": {
       "ALEXANDRE CHAVES\n\nSOUSA": 1,
       "DICAL\n\nDISTRIBUIDORA DE VEÍCULOS CAJAZEIRAS LTDA": 1,

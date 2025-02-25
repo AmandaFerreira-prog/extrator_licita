@@ -1,0 +1,942 @@
+{
+  "id": "natuba",
+  "nome": "Natuba",
+  "detalhe": {
+    "2021": {
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 654253.3300000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para realização dos serviços de\n\nAssessoria e Consultoria no âmbito Administrativo – Financeiro, com\n\nenfoque de atuação junto a Secretaria de Educação do Município de\n\nNatuba–PE, incluindo: Acompanhamento, Captação de Recursos,\n\nPrestação de Contas e Liberação de Recursos dos Programas da\n\nSecretaria de Educação; Formação e capacitação junto aos gestores\n\nescolar; Orientação, Acompanhamento e Regularização junto à\n\nReceita Federal do Brasil – RFB dos Conselhos das Escolas munic",
+            "empresa": "ELLY MARTINS NORAT",
+            "valor_total": "R$ 58,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nOBRAS DE ENGENHARIA PARA CONTINUAÇÃO DA\n\nREFORMA DA PRAÇA MANOEL CATARINO DA SILVA NO\n\nMUNICÍPIO DE NATUBA/PB, CONFORME ESPECIFICAÇÕES\n\nDO PROJETO BÁSICO",
+            "empresa": "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA",
+            "valor_total": "R$ 394,427.19"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nOBRAS DE ENGENHARIA, PARA AMPLIAÇÃO DE UNIDADE\n\nDE ATENÇÃO ESPECIALIZADA EM SAÚDE DO MUNICÍPIO\n\nDE NATUBA/PB, CONFORME ESPECIFICAÇÕES DO PROJETO\n\nBÁSICO",
+            "empresa": "J R DE LIRA\n\nCONSTRUCOES EIRELI",
+            "valor_total": "R$ 201,026.14"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1401986.1199999999
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 345569.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Prestação de\nserviços de assessoria e consultoria jurídica, as Secretarias Municipais\nde Educação, Saúde e Administração do Município de Natuba–PB,\nincluindo o acompanhamento de processos judicias junto a comarca\nde Umbuzeiro/PB",
+            "empresa": "FLAVIA DE PAIVA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 23\n\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 402163.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 931965.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 96,
+        "num_contratos": 97,
+        "total_gasto": 13125668.14
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 825513.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 2510280.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços Técnicos de Assessoria e Consultoria Contábil e\nem Recursos Humanos, para controle da execução orçamentária para\nCâmara Municipal de Vereadores de Natuba-PB, incluindo a\nElaboração da Prestação de Contas Anual",
+            "empresa": "ANTONIO\nFARIAS BRITO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 2227420.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA VISANDO O\n\nFORNECIMENTO PARCELADO DE PNEUS E CÂMARAS DE\n\nAR, PARA ATENDER AS NECESSIDADES DA FROTA DE\n\nVEÍCULOS AUTOMOTORES DO O MUNICÍPIO DE NATUBA –\n\nPB",
+            "empresa": "CJ COMERCIO DE PNEUS, PECAS E\n\nSERVICOS EIRELI",
+            "valor_total": "R$ 121,634.90"
+          },
+          {
+            "objeto": "Contratação de empresa visando a locação do serviço de\n\nmáquina pesada é o que segue: (1) ESCAVADEIRA HIDRAULICA\n\nSOBRE ESTEIRAS CAÇAMBA 0,40 A 1,20 M3, PESO\n\nOPERACIONAL 21,19 T, POTENCIA LIQUIDA 173 HP; (2)\n\nCAMINHÃO BASCULANTE DE 12 M³, fundamentada no Inc",
+            "empresa": "GLOBAL\n\nAUTO SERVICE EIRELI",
+            "valor_total": "R$ 35,650.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 22500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 436024.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 888942.67,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA OBJETIVANDO A\n\nAQUISIÇÃO DE 01 (UM) VEÍCULO, TIPO VAN, PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE SAÚDE\n\nDO MUNICÍPIO DE NATUBA, CONFORME ESPECIFICAÇÕES\n\nDO TERMO DE REFERÊNCIA",
+            "empresa": "CARNEIRO VEICULOS\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 254,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 31,
+        "total_gasto": 2090605.83,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para o fornecimento\n\nde serviço contínuo de acesso à internet – sistema global de\n\ncomputadores interligados através de conjuntos de protocolos padrão\n\nde internet (TCP/IP) semi–dedicado com telefonia digital, destinado\n\nao atendimento das necessidades das escolas, departamentos, unidades\n\nbásicas de saúde, Secretarias e Fundos Municipais",
+            "empresa": "SAULO J. MOURA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA, NO\n\nRAMO DE ENGENHARIA, PARA EXECUÇÃO DOS SERVIÇOS\n\nDE PAVIMENTAÇÃO DE PARALELEPÍPEDOS, EM DIVERSAS\n\nVIAS NA SEDE DO MUNICÍPIO DE NATUBA/PB, CONFORME\n\nESPECIFICAÇÕES DO PROJETO BÁSICO",
+            "empresa": "NATAL\n\nJOSE BARBOSA DA SILVA EIRELI",
+            "valor_total": "R$ 518,617.92"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 952921.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 1404547.57,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nprestação de serviços de pavimentação em paralelepípedo em diversas\n\nruas do Município, nos termos do Convênio nº 863858/Caixa CR\n\n1048180–28",
+            "empresa": "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA",
+            "valor_total": "R$ 636,751.17"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nampliação de Unidade de Atenção Especializada em Saúde no\n\nMunicípio de Natuba, conforme projeto básico e CR851354/2017 /\n\nMSAUDE/ CAIXA",
+            "empresa": "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA",
+            "valor_total": "R$ 636,751.17"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nprestação de serviços de pavimentação em paralelepípedo em diversas\n\nruas do Município, nos termos do Convênio nº 863858/Caixa CR\n\n1048180–28",
+            "empresa": "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA",
+            "valor_total": "R$ 636,751.17"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de engenharia para\n\nampliação de Unidade de Atenção Especializada em Saúde no\n\nMunicípio de Natuba, conforme projeto básico e CR851354/2017 /\n\nMSAUDE/ CAIXA",
+            "empresa": "COMPACTA CONSTRUCOES,\n\nSERVICOS E LOCACOES LTDA",
+            "valor_total": "R$ 636,751.17"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 582380.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\nempresário exclusivo, consagrado pela opinião pública denominado\n\"GUILHERME FERRI\", para abrilhantar as festividades de\naniversário da Emancipação Política deste Município",
+            "empresa": "J H C DE MEDEIROS",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, consagrado\npela opinião pública denominado \"CAVALEIROS DO FORRÓ\", para\nabrilhantar as festividades de aniversário da Emancipação Política\ndeste Município",
+            "empresa": "J H C DE MEDEIROS",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\nempresário exclusivo, consagrado pela opinião pública denominado\n\"GUILHERME FERRI\", para abrilhantar as festividades de\naniversário da Emancipação Política deste Município",
+            "empresa": "MUSICAL CAVALEIROS DO FORRO\nLTDA",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, consagrado\npela opinião pública denominado \"CAVALEIROS DO FORRÓ\", para\nabrilhantar as festividades de aniversário da Emancipação Política\ndeste Município",
+            "empresa": "MUSICAL CAVALEIROS DO FORRO\nLTDA",
+            "valor_total": "R$ 95,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 252567.07,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada,\nconforme demanda, de oxigênio medicinal e Ar comprimido, com\nfornecimento de cilindros em regime de comodato, para atender as\nnecessidades do Hospital Municipal e Secretaria Municipal de Saúde\ndo Município de Natuba/PB",
+            "empresa": "LUIZ\nGUILHERME PINHO DE MOURA FILHO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa\nespecializada em obras de engenharia para continuação da reforma da\npraça Manoel Catarino da Silva no município de Natuba/PB,\nconforme especificações do projeto básico",
+            "empresa": "COMPACTA CONSTRUCOES, SERVICOS E\nLOCACOES LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 2992001.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamentos de coleta biométrica destinados\n\nao atendimento das necessidades do Departamento de Identificação\n\ndeste Município",
+            "empresa": "AKIYAMA S.A. - INDUSTRIA E\n\nCOMERCIO DE EQUIPAMENTOS ELETRONICOS E SISTEMAS\n\n- R$ 17.500,00.",
+            "valor_total": "R$ 883,801.45"
+          },
+          {
+            "objeto": "Contratação de empresa objetivando o fornecimento\n\nparcelado de material de construção, para atender as necessidades\n\ndeste Município",
+            "empresa": "AKIYAMA S.A. - INDUSTRIA E\n\nCOMERCIO DE EQUIPAMENTOS ELETRONICOS E SISTEMAS\n\n- R$ 17.500,00.",
+            "valor_total": "R$ 883,801.45"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de coleta biométrica destinados\n\nao atendimento das necessidades do Departamento de Identificação\n\ndeste Município",
+            "empresa": "GOIAS LED MATERIAIS ELETRICOS E\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 883,801.45"
+          },
+          {
+            "objeto": "Contratação de empresa objetivando o fornecimento\n\nparcelado de material de construção, para atender as necessidades\n\ndeste Município",
+            "empresa": "GOIAS LED MATERIAIS ELETRICOS E\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 883,801.45"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de coleta biométrica destinados\n\nao atendimento das necessidades do Departamento de Identificação\n\ndeste Município",
+            "empresa": "RAFAEL S. DA R.\n\nFILHO",
+            "valor_total": "R$ 883,801.45"
+          },
+          {
+            "objeto": "Contratação de empresa objetivando o fornecimento\n\nparcelado de material de construção, para atender as necessidades\n\ndeste Município",
+            "empresa": "RAFAEL S. DA R.\n\nFILHO",
+            "valor_total": "R$ 883,801.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 96,
+        "num_contratos": 137,
+        "total_gasto": 13792074.299999997
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 49,
+        "total_gasto": 3467727.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de aterro sanitário licenciado para o\n\nrecebimento e a disposição final dos resíduos sólidos urbanos\n\nproduzidos por este Município",
+            "empresa": "ECOSOLO GESTAO\n\nAMBIENTAL DE RESIDUOS LTDA",
+            "valor_total": "R$ 59,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 2935341.04,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios, destinados ao\n\natendimento das necessidades das secretarias deste Município",
+            "empresa": "N L\n\nMONTEIRO DA SILVA COMERCIAL EIRELI",
+            "valor_total": "R$ 712,354.44"
+          },
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios, destinados ao\n\natendimento das necessidades das secretarias deste Município",
+            "empresa": "FERNANDA TAYNAH DOS SANTOS\n\nBRITO",
+            "valor_total": "R$ 712,354.44"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 942379.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 1753835.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 620253.85,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico, consagrado\n\npela opinião pública denominado \"NATHAN VINICIUS\", para\n\nabrilhantar as Festividades Juninas no Município de Natuba – PB",
+            "empresa": "F. MIX EMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 113500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 59749.04,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "BERNARDO\n\nDANIEL",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "BERNARDO\n\nDANIEL",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "DANTAS\n\nELETROMOVEIS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "DANTAS\n\nELETROMOVEIS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "INFOR COMPANY SERVICE\n\nLOCACAO DE IMPRESSORAS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "INFOR COMPANY SERVICE\n\nLOCACAO DE IMPRESSORAS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "LBTECH DISTRIBUIDORA E COMERCIO\n\nDE INFORMATICA LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "LBTECH DISTRIBUIDORA E COMERCIO\n\nDE INFORMATICA LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "DANTAS\n\nELETROMOVEIS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "DANTAS\n\nELETROMOVEIS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "GO ATACADISTA LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "GO ATACADISTA LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "GQS ELETROS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "GQS ELETROS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática, destinados ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "CT Nº\n\n00116/2023 - 23.08.23 - MONDUST COMERCIO DE PRODUTOS\n\nE EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Aquisição de materiais permanentes, destinado ao\n\natendimento das necessidades do Fundo Municipal de Saúde deste\n\nMunicípio, conforme espeficicações do termo de referência",
+            "empresa": "CT Nº\n\n00116/2023 - 23.08.23 - MONDUST COMERCIO DE PRODUTOS\n\nE EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 59,749.04"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para o\n\nfornecimento de serviço contínuo de acesso à internet - sistema global\n\nde computadores interligados através de conjuntos de protocolos\n\npadrão de internet (TCP/IP) semi-dedicado com telefonia digital,\n\ndestinado ao atendimento das necessidades das escolas,\n\ndepartamentos, unidades básicas de saúde, Secretarias e Fundos\n\nMunicipais",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para o\n\nfornecimento de serviço contínuo de acesso à internet - sistema global\n\nde computadores interligados através de conjuntos de protocolos\n\npadrão de internet (TCP/IP) semi-dedicado com telefonia digital,\n\ndestinado ao atendimento das necessidades das escolas,\n\ndepartamentos, unidades básicas de saúde, Secretarias e Fundos\n\nMunicipais",
+            "empresa": "SAULO J. MOURA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 212686.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação dos serviços de profissional do setor artístico,\n\natravés de empresário exclusivo, consagrado pela opinião pública\n\ndenominado \"JUAREZ\", para abrilhantar a Festa de Emancipação\n\nPolítica do Município de Natuba – PB",
+            "empresa": "VIPSTAR\n\nENTRETENIMENTO LTDA",
+            "valor_total": "R$ 35,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 694600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de VEICULO AUTOMOTIVO, através de\nAdesão a ATA DE REGISTRO DE PREÇO do Pregão Eletrônico\n00062/2023, para suprir as necessidades da Secretaria de Educação do\nmunicípio de NATUBA–PB",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 614,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 302160.78,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução de serviços de Assessoramento técnico contábil,\n\ncompreendendo o registro, acompanhamento, controle e avaliação da\n\nexecução orçamentária, financeira e patrimonial da Prefeitura\n\nMunicipal de Natuba, dentro das normas e dos procedimentos\n\nexigidos pela legislação em vigor específica da Contabilidade\n\nAplicada ao setor Público; Das exigências do Tribunal de Contas do\n\nEstado da Paraíba, e demais órgãos fiscalizadores e das atribuições\n\ncorrelatas ao desempenho da função",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Natuba e: CT Nº 00001/2021",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 108,
+        "num_contratos": 202,
+        "total_gasto": 36366933.080000006
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 791387.24,
+        "empresas_mensais": [
+          {
+            "objeto": "PAVIMENTAÇÃO DE VIAS NO MUNICIPIO DE\n\nNATUBA–PB – MINISTÉRIO DAS CIDADES, OBJETO DO\n\nCONTRATO DE REPASSE Nº 914793/2021 OPERAÇÃO 1077296–\n\n42",
+            "empresa": "MINISTÉRIO DAS CIDADES,",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE PONTILHÃO SOBRE O RIO QUE\n\nCORTA A CIDADE, CONFLUÊNCIA COM AS RUAS JOSÉ ZIUL\n\nE CESÁRIO GUEDES, LOCALIZADA NA ZONA URBANA DE\n\nNATUBA–PB",
+            "empresa": "MINISTÉRIO DAS CIDADES,",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "PAVIMENTAÇÃO DE VIAS NO MUNICIPIO DE\n\nNATUBA–PB – MINISTÉRIO DAS CIDADES, OBJETO DO\n\nCONTRATO DE REPASSE Nº 914793/2021 OPERAÇÃO 1077296–\n\n42",
+            "empresa": "PR CONSTRUCOES\n\nLTDA",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE PONTILHÃO SOBRE O RIO QUE\n\nCORTA A CIDADE, CONFLUÊNCIA COM AS RUAS JOSÉ ZIUL\n\nE CESÁRIO GUEDES, LOCALIZADA NA ZONA URBANA DE\n\nNATUBA–PB",
+            "empresa": "PR CONSTRUCOES\n\nLTDA",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "PAVIMENTAÇÃO DE VIAS NO MUNICIPIO DE\n\nNATUBA–PB – MINISTÉRIO DAS CIDADES, OBJETO DO\n\nCONTRATO DE REPASSE Nº 914793/2021 OPERAÇÃO 1077296–\n\n42",
+            "empresa": "B L CONSTRUTORA E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE PONTILHÃO SOBRE O RIO QUE\n\nCORTA A CIDADE, CONFLUÊNCIA COM AS RUAS JOSÉ ZIUL\n\nE CESÁRIO GUEDES, LOCALIZADA NA ZONA URBANA DE\n\nNATUBA–PB",
+            "empresa": "B L CONSTRUTORA E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 660,737.24"
+          },
+          {
+            "objeto": "Aquisição de veículo novo, tipo caminhão PIPA, com\n\npotência mínima de 255 CV, 06 cilindros, conforme especificações do\n\ntermo de referência e Proposta +Brasil nº 046969/21 -\n\nCONVÊNIO/MAPA 920062/2021",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Natuba e: CT Nº 00071/2023 - Forza\n\nDistribuidora de Máquinas Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 868371.1799999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 4216676.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO HOSPITALAR\n\nPARA SUPRIR AS DEMANDAS DA SECRETARIA MUNICIPAL\n\nDE SAUDE",
+            "empresa": "FARMAGUEDES COMERCIO\n\nDE PRODUTOS FARMACEUTICOS, MEDICOS E HO",
+            "valor_total": "R$ 465,925.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO HOSPITALAR\n\nPARA SUPRIR AS DEMANDAS DA SECRETARIA MUNICIPAL\n\nDE SAUDE",
+            "empresa": "ATACAMED COMERCIO\n\nDE PRODUTOS FARMACEUTICOS E HOSPITALARES L",
+            "valor_total": "R$ 465,925.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO HOSPITALAR\n\nPARA SUPRIR AS DEMANDAS DA SECRETARIA MUNICIPAL\n\nDE SAUDE",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nR$ 3.171,50; CT Nº 00046/2024 - 25.04.24 - GLOBAL\n\nCOMERCIAL EIRELI -ME",
+            "valor_total": "R$ 465,925.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO HOSPITALAR\n\nPARA SUPRIR AS DEMANDAS DA SECRETARIA MUNICIPAL\n\nDE SAUDE",
+            "empresa": "CT Nº 00048/2024 - 25.04.24 - DISMATH\n\nDISTRIBUIDORA DE MATERIAIS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 465,925.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1260408.85,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de oxigênio medicinal e Ar\n\ncomprimido, para atender as necessidades do Hospital Municipal e\n\nSecretaria Municipal de Saúde do Município de Natuba/PB",
+            "empresa": "JULIETE KARMEM DE\n\nSANTANA SILVA",
+            "valor_total": "R$ 115,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 250000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA\n\nE REGIAO - ACG",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "JOSIVALDO INACIO DA SILVA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "FRANCISCO S DA COSTA JUNIOR",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES\n\nGRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "ONDA PRODUCOES GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "NORDESTE EVENTOS LTDA -\n\nR$ 20.000,00.\n\n\n\nEXTRATO DE CONTRATO",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"ALBERTO BAKANA\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"NENO\", para as festividades juninas do Município de Natuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\"FORRO DOS BOSSAS\", para as festividades juninas do Município\n\nde Natuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"BANDA FORRÓ 3X4\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrada pela opinião pública denominada\n\"SIMARA PIRES\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FORRÓ DE FARRA\", para as festividades juninas do Município de\n\nNatuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"TON OLIVEIRA\", para as festividades juninas do Município de\nNatuba – PB",
+            "empresa": "TOP SHOWS PRODUÇÃO\n\nMUSICAL",
+            "valor_total": "R$ 250,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 32,
+        "total_gasto": 7774989.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em assessoria\n\ntécnica, gerenciamento e fiscalização de obras e serviços de\n\nengenharia no âmbito da gestão municipal, para realizar: gestão de\n\nescopo, gestão de custos, gestão de prazos, gestão de qualidade,\n\ngestão de suprimentos, gestão de riscos, gestão de comunicação e\nobras em recursos próprios, em todas as etapas e atividades das obras\n\nneste Município apresentada de imediato, a médio e a longo prazo,\n\nlistadas, para apoio à instituição na fiscalização dos",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Natuba e: CT Nº\n\n00039/2022 - Justo & Branco Engenharia Consultiva Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 36,
+        "total_gasto": 7793486.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de escritório de advocacia, para prestação dos\n\nserviços técnicos especializados de consultoria e assessoria jurídica\n\njunto ao CREAS deste Município",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Natuba e: CT Nº 00074/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FELIPE SANTOS\", para o festival do frio em Pirauá, no Município\nde Natuba/PB",
+            "empresa": "SDC PRODUCOES E\nEVENTOS LTDA",
+            "valor_total": "R$ 105,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"ALINNE REIS\", para o festival do frio em Pirauá, no Município de\n\nNatuba/PB",
+            "empresa": "SDC PRODUCOES E\nEVENTOS LTDA",
+            "valor_total": "R$ 105,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"FELIPE SANTOS\", para o festival do frio em Pirauá, no Município\nde Natuba/PB",
+            "empresa": "ALINE REIS\n\nPRODUCOES LTDA",
+            "valor_total": "R$ 105,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico, através de\n\nempresário exclusivo, consagrado pela opinião pública denominado\n\n\"ALINNE REIS\", para o festival do frio em Pirauá, no Município de\n\nNatuba/PB",
+            "empresa": "ALINE REIS\n\nPRODUCOES LTDA",
+            "valor_total": "R$ 105,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 54,
+        "total_gasto": 2910144.1799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 1641878.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de ÔNIBUS RURAL ESCOLAR DO TIPO\n\nORE 4X4, através de Adesão a ATA DE REGISTRO DE PREÇO do\n\nPregão Eletrônico 0006/2023, para suprir as necessidades da\n\nSecretaria de Educação do Município de NATUBA–PB",
+            "empresa": "MARCOPOLO SA",
+            "valor_total": "R$ 581,878.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 7422840.6899999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1134589.02,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA, NO\n\nRAMO DE ENGENHARIA, PARA EXECUÇÃO DOS SERVIÇOS\n\nDE PAVIMENTAÇÃO DE PARALELEPÍPEDOS, EM DIVERSAS\n\nVIAS NA SEDE DO MUNICÍPIO DE NATUBA/PB, CONFORME\nESPECIFICAÇÕES DO PROJETO BÁSICO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Natuba e: CT Nº\n00067/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestação dos serviços de profissional do setor artístico,\n\natravés de empresário exclusivo, consagrada pela opinião pública\ndenominada \"SAMYA MAIA\", na comemoração da festividade de\n\nAno Novo no MUNICÍPIO DE NATUBA–PB",
+            "empresa": "MAIS\n\nSHOWS E EVENTOS LTDA",
+            "valor_total": "R$ 160,000.00"
+          },
+          {
+            "objeto": "Registrar preços para eventuais aquisições de livros\n\ndidáticos para atender às demandas dos alunos do ensino infantil da\n\nrede pública de ensino do Município de Natuba/PB",
+            "empresa": "EDITORA LUNNA LTDA",
+            "valor_total": "R$ 642,089.02"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

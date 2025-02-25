@@ -1,0 +1,1789 @@
+{
+  "id": "sao-mamede",
+  "nome": "São Mamede",
+  "detalhe": {
+    "2014": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 51229.05,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para serviços de\nperfuração e detonação com o emprego de materiais explosivos e\nacessórios, para desmontar 213,90m³ de rocha, bem como realizar\no desmonte de matacões e derrubadas das pedras, que terá\ndescarga dos resíduos provenientes da limpeza onde deverá ser\nlançada em um local indicado pela secretaria de obras, dentro dos\nlimites territoriais do Município",
+            "empresa": "PAULO\nRICARDO PINHEIRO DE LIMA",
+            "valor_total": "R$ 51,229.05"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 29,
+        "num_contratos": 13,
+        "total_gasto": 1169868.9000000001
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 753084.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Perfuração e instalação de 10 (dez) poços tubulares /Convênio nº\n0228/2009/FUNASA/MS/PMSM – PB,",
+            "empresa": "CONSERV",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nCHARLES RICELLE DE MORAIS SOUTO – ME, CNPJ:\n09.413.345/0001-41, ,",
+            "empresa": "CHARLES RICELLE DE MORAIS SOUTO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nANA CLAUDIA BRASIL DE MEDEIROS – ME, CNPJ:\n08.272.332/0001-37, ,",
+            "empresa": "CHARLES RICELLE DE MORAIS SOUTO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nCHARLES RICELLE DE MORAIS SOUTO – ME, CNPJ:\n09.413.345/0001-41, ,",
+            "empresa": ".\n\nCONTRATO N º: 005/2014, PREGÃO PRESENCIAL Nº:\n002/2014,",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nANA CLAUDIA BRASIL DE MEDEIROS – ME, CNPJ:\n08.272.332/0001-37, ,",
+            "empresa": ".\n\nCONTRATO N º: 005/2014, PREGÃO PRESENCIAL Nº:\n002/2014,",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nCHARLES RICELLE DE MORAIS SOUTO – ME, CNPJ:\n09.413.345/0001-41, ,",
+            "empresa": "ANA CLAUDIA BRASIL DE MEDEIROS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nANA CLAUDIA BRASIL DE MEDEIROS – ME, CNPJ:\n08.272.332/0001-37, ,",
+            "empresa": "ANA CLAUDIA BRASIL DE MEDEIROS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 90000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação Direta de Empresa de\n\nContabilidade Pública para Prestação de Serviços Técnicos\nEspecializados em Assessoria e Consultoria Contábil para todos os\nórgãos da administração direta e indireta da Prefeitura de São\nMamede - PB, através da empresa SOTERO CONTABILIDADE\nPÚBLICA LTDA – ME , CNPJ: 19.406.302/0001-92; Fundamento\nLEGAL : Arts",
+            "empresa": "A EMPRESA: SOTERO\nCONTABILIDADE PÚBLICA LTDA",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: LARMED\nDISTRIBUIDORA DE MEDICAMENTOS E MATERIAL MÉDICO\nHOSPITALAR LTDA, CNPJ: 10.831.701/0001-26,",
+            "empresa": "LARMED\nDISTRIBUIDORA DE MEDICAMENTOS E MATERIAL MÉDICO\nHOSPITALAR LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: MEDFARMACY\nHOSPITALAR LTDA, CNPJ: 10.806.118/0001-65,",
+            "empresa": "MEDFARMACY\nHOSPITALAR LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: F WILTON\nCAVALCANTE MONTEIRO EIRELI/RENATO FARMA\nDISTRIBUIDORA, CNPJ: 07.055.280/0001-84,",
+            "empresa": "F WILTON\nCAVALCANTE MONTEIRO EIRELI/RENATO FARMA\nDISTRIBUIDORA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: CIRUFARMA\nCOMERCIAL LTDA, CNPJ: 40.787.152/0001-09,",
+            "empresa": "CIRUFARMA\nCOMERCIAL LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: LUCIANO L DA\nSILVA/DISTRIFARMA DISTRIBUIDORA DE MEDICAMENTOS\nE PERFUMARIA, CNPJ: 02.859.542/0001-40,",
+            "empresa": "LUCIANO L DA\nSILVA/DISTRIFARMA DISTRIBUIDORA DE MEDICAMENTOS\nE PERFUMARIA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, materiais e\ninsumos médicos – odonto – hospitalares, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família/ Estratégia\nSaúde da Família/Média Complexidade Ambulatorial e\nHospitalar/Sistema Único de Saúde da Prefeitura Municipal de São\nMamede – PB, PARTES: Prefeitura Municipal De São Mamede –\nPB, CNPJ: 08.922.718/0001-47, E A EMPRESA: SANTOS &\nLUCENA LTDA – ME/ODONTOMED, CNPJ: 09.478.023/0001-80,",
+            "empresa": "SANTOS &\nLUCENA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços destinados à manutenção e\nconservação da frota de veículos próprios e locados e maquinas\npesadas da Prefeitura de São Mamede – PB, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "RETIFICA DE\nMOTORES GIPAGEL LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviços destinados à manutenção e\nconservação da frota de veículos próprios e locados e maquinas\npesadas da Prefeitura de São Mamede – PB, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "TOP PEÇAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças e acessórios destinados à frota de\nveículos próprios e locados e maquinas pesadas da Prefeitura de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "GIPAGEL AUTO\nPEÇAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças e acessorios destinados à frota de\nveículos proprios e locados e maquinas pesadas da Prefeitura de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TOP PEÇAS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 275555.85,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Materiais Elétricos, destinados à\nManutenção e Conservação, dos prédios, órgãos, diretorias,\ncoordenadorias, para todas as Secretarias Municipais da Prefeitura de\nSão Mamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "ANTONIO DE\nARAÚJO AMORIM",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Mobiliário Escolar (Conjunto Aluno/CJA –\n03:258; CJA-04:200;CJA:06:400; Conjunto Professor/CJP – 01:59 e\nMesa Pessoa Cadeira de Rodas/MA – 01:24), oriundo do Processo\nLicitatório Adesão a Ata de Registro de Preço n.º 01/2014, em\nconformidade com a Ata de Registro de Preço FNDE/MEC n.º\n70/2013, oriunda do Processo Licitatório Pregão Eletrônico\nFNDE/MEC n.º 16/2013",
+            "empresa": "A EMPRESA NASA",
+            "valor_total": "R$ 126,745.00"
+          },
+          {
+            "objeto": "Aquisição de Mobiliário Escolar (Conjunto Aluno/CJA –\n03:277; CJA-04:340;CJA:06:275; Conjunto Professor/CJP – 01:41 e\nMesa Pessoa Cadeira de Rodas/MA – 01:26), oriundo do Processo\nLicitatório Adesão a Ata de Registro de Preço n.º 02/2014, em\nconformidade com a Ata de Registro de Preço FNDE/MEC n.º\n70/2013, oriunda do Processo Licitatório Pregão Eletrônico\nFNDE/MEC n.º 16/2013",
+            "empresa": "A EMPRESA NASA",
+            "valor_total": "R$ 123,215.00"
+          },
+          {
+            "objeto": "Aquisição de 15 Aparelhos de Ar Condicionado – 18.000\nBTUS, oriundo do Processo Licitatório Adesão a Ata de Registro de\nPreço n.º 03/2014, em conformidade com a Ata de Registro de Preço\nFNDE/MEC n.º 74/2013, oriunda do Processo Licitatório Pregão\nEletrônico FNDE/MEC n.º 19/2013",
+            "empresa": "A EMPRESA EQUIMAF S/A\nEQUIPAMENTOS MÁQUINAS E FERRAMENTAS",
+            "valor_total": "R$ 25,595.85"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 201920.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 64,
+        "num_contratos": 41,
+        "total_gasto": 3860755.32
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 104056.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 760841.4199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de são Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "EVERTON DE\nOLIVEIRA ARAÚJO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Fardamento e outros vestuários destinados\naos alunos da Rede de Ensino da EBPM – Educação Básica Pública\nMunicipal e para o desenvolvimento e funcionamento dos Programas,\nAções e Atividades de todas as Secretarias Municipais da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "SEBASTIÃO\nMEDEIROS GAMBARRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 408800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Confecção de Materiais Gráficos e Impressos para todas as\nSecretarias Municipais da Prefeitura de São Mamede – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "MARIA LÚCIA\nCAMINHA DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Confecção de Materiais Gráficos e Impressos para todas as\nSecretarias Municipais da Prefeitura de São Mamede – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "MARIA LÚCIA\nCAMINHA DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Confecção de Materiais Gráficos e Impressos para todas as\nSecretarias Municipais da Prefeitura de São Mamede – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "JOSELENE MARIA\nDE ARAÚJO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição Diária e Parcelada de Hortifrutis para o\ndesenvolvimento das ações, atividades e programas de todas as\nSecretarias Municipais da Prefeitura de São Mamede – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CARLOS ANTÔNIO\nPINHO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição Diária e Parcelada de Hortifrutis para o\ndesenvolvimento das ações, atividades e programas de todas as\nSecretarias Municipais da Prefeitura de São Mamede – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ANTÔNIO ALVES\nDA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 125000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 789942.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Peças e Acessórios para os\nequipamentos/máquinas pesadas/patrulha mecanizada do PAC\n2/Prefeitura de São Mamede - PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "CLAUDIO\nROMUALDO DOS SANTOS SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 142936.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 1327259.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 195840.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, contratados, locados a disposição ou\nvinculados a atividades pública do Município de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "G M RANGEL\nCOMBUSTIVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, contratados, locados a disposição ou\nvinculados a atividades pública do Município de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados a disposição ou\nvinculados a atividades pública do Município de São Mamede",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças e acessórios e Prestação de serviços\npara manutenção e conservação da frota de veículos próprios e\nlocados e maquinas pesadas da Prefeitura de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "GIPAGEL AUTO\nPEÇAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças e acessórios e Prestação de serviços\npara manutenção e conservação da frota de veículos próprios e\nlocados e maquinas pesadas da Prefeitura de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "RETIFICA DE\nMOTORES GIPAGEL LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 33,
+        "num_contratos": 20,
+        "total_gasto": 2420311.1999999997
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 641855.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 498426.86,
+        "empresas_mensais": [
+          {
+            "objeto": "Construção da Instituição de Longa Permanência para\nIdosos/ILPI/Casa do Idoso, na sede do Município de São Mamede –\nPB, de acordo com o projeto básico de engenharia constante do\nConvênio n.º 010/2016/Secretaria de Estado de Desenvolvimento\nHumano – PB/Prefeitura de São Mamede – PB, partes integrantes do\npresente processo",
+            "empresa": "A EMPRESA MARTINS\nCONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 498,426.86"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 396941.43,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Shows Artísticos Musicais, em praça\npública, através de empresa de produção de eventos, detentora de\nexclusividade, durante as festividades juninas do Tradicional,\nCultural, Folclórico, Histórico e Turístico “São Pedro de São Mamede\n– PB” – 62 Anos de Tradição, das seguintes atrações musicais: * Dia\n30/06/2016 – Banda Forró do Precateado; * Dia 02/07/2016 – Banda\nForró Pegado; * Dia 03/07/2016 – Pinto do Acordeon, através da\nempresa de produção de Eventos, detentora de exclusividade, AREA\nBADALADA EVENTOS LTDA – ME, inscrita no CNPJ sob o nº\n13.918.556/0001-03",
+            "empresa": "A EMPRESA AREA\nBADALADA EVENTOS LTDA",
+            "valor_total": "R$ 84,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nPegada de Barão, no dia 02 de julho de 2016, em praça pública,\natravés de empresa de produção de eventos, durante as festividades\njuninas do Tradicional, Cultural, Folclórico, Histórico e Turístico\n“São Pedro de São Mamede – PB” – 62 Anos de Tradição, através da\nempresa de produção de eventos PEGADA DE BARÃO –\nPRODUÇÕES MUSICAIS LTDA - ME , inscrito no CNPJ sob o n.º\n19.984.083/0001-29",
+            "empresa": "A EMPRESA PEGADA DE\nBARÃO",
+            "valor_total": "R$ 10,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico de Rodolfo Lopes e\nBanda, no dia 03 de julho de 2016, em praça pública, através de\n\nempresa de produção de eventos, durante as festividades juninas do\nTradicional, Cultural, Folclórico, Histórico e Turístico “São Pedro de\nSão Mamede – PB” – 62 Anos de Tradição, através da empresa de\nprodução de eventos RODOLFO LOPES DA SILVA –\nPRODUÇÃO MUSICAL - ME , inscrito no CNPJ sob o n.º\n20.659.771/0001-00",
+            "empresa": "A EMPRESA RODOLFO\nLOPES DA SILVA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Apresentação de um Show Artístico da Banda Musical\nForró do Amasso, no dia 02 de Julho de 2016, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico,\nHistórico e Turístico “São Pedro de São Mamede – PB” – 62 Anos de\nTradição, através da empresa de produção de Eventos, detentora de\nexclusividade, ALLAN WAGNER LOPES CHIANCA - ME,\ninscrita no CNPJ sob o nº 15.808.591/0001-03",
+            "empresa": "A EMPRESA ALLAN WAGNER\nLOPES CHIANCA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Apresentação de um Show Artístico do Cantor João\nLima e Banda Forró no Estilo, no dia 03 de Julho de 2016, em praça\npública, através de empresa de produção de eventos, detentora de\nexclusividade, durante as festividades juninas do Tradicional,\nCultural, Folclórico, Histórico e Turístico “São Pedro de São Mamede\n– PB” – 62 Anos de Tradição, através da empresa de produção de\nEventos, detentora de exclusividade, ROBERTO MOURA DO\nNASCIMENTO – ME/BETO PRODUÇÕES, LOCAÇÕES E\nSERVIÇOS, CNPJ: 10.754.517/0001-20",
+            "empresa": "A EMPRESA ROBERTO\nMOURA DO NASCIMENTO",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 39740.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Pães e outras massas para a manutenção,\ndesenvolvimento, funcionamento e execução das ações, atividades e\nprogramas das Secretarias Municipais da Prefeitura de São Mamede –\nPB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "PAULO SÉRGIO DE\nSOUTO",
+            "valor_total": "R$ 39,740.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 81674.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 565833.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1973243.0
+      },
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 1486790.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação para o fornecimento parcelado de combustíveis\ne lubrificantes para uso nos veículos da frota pública do Município de\nSão Sebastião do Umbuzeiro/PB",
+            "empresa": "SANDRO ROZANEO\nCAMPOS DE FIGUEIREDO (POSTO SÃO SEBASTIÃO)",
+            "valor_total": "R$ 894,590.00"
+          },
+          {
+            "objeto": "Registro de preços para futura e eventual contratação da\nlocação de veículos para atender as necessidades das secretarias do\nMunicípio de São Sebastião do Umbuzeiro/PB, conforme planilha\norçamentária",
+            "empresa": "SEBASTIAO SILVINO\nDOS SANTOS",
+            "valor_total": "R$ 592,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 5,
+        "total_gasto": 486453.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados, para atender\nas necessidades da Secretaria Municipal de Educação da Prefeitura de\nSão Mamede – PB, em conformidade com o Convênio n.º\n042/2017/SSE-PB/PMSM, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 74,773.00"
+          },
+          {
+            "objeto": "Aquisição de 01 (Uma) máquina tipo Trator de Esteira,\npara atender as necessidades da Prefeitura de São Mamede - PB, nos\ntermos do Convênio n.º 682/2009/SIAFI n.º\n730584/2009/MS/Funasa/PMSM, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "GMP MÁQUINAS E\nEQUIPAMENTOS",
+            "valor_total": "R$ 350,000.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente dos\nitens 01, 04, 05, 07, 08 e 10 do Lote 01 do certame para o Programa\nda Saúde da Família/Atenção Básica da Prefeitura Municipal de São\nMamede – PB, nos termos da Proposta n.º 04223.191000/1170-02\n/MS/PMSM, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 13,414.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente dos\nitens 02, 03, 06, 09, 11, 12, 13 e 14 do certame para o Programa da\nSaúde da Família/Atenção Básica da Prefeitura Municipal de São\nMamede – PB, nos termos da Proposta n.º 04223.191000/1170-02\n/MS/PMSM, conforme proposta de preço, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "PAULO JOSÉ MAIA\nESMERALDO SOBREIRA",
+            "valor_total": "R$ 6,466.00"
+          },
+          {
+            "objeto": "Aquisição de 01 veículo Novo Gol Trendiline, 1.0 Total\nFlex, 2017/2018, Hatch, Zero Quilometro, Cor Sólida, para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-02 /MS/PMSM, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "COMERCIAL\nSANT’ANA VEICULOS E PEÇAS LTDA",
+            "valor_total": "R$ 41,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1321272.76,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes e realização dos\nserviços automotivos congêneres destinados à frota de veículos e\npatrulha mecanizada/máquinas pesadas da Prefeitura Municipal de\nSão Mamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TOP PEÇAS\nVIDRO CENTRO AUTOMOTIVO LTDA",
+            "valor_total": "R$ 89,284.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes e realização dos\nserviços automotivos congêneres destinados à frota de veículos e\npatrulha mecanizada/máquinas pesadas da Prefeitura Municipal de\nSão Mamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TACIANO TÔNI\nSERAFIM TEIXEIRA",
+            "valor_total": "R$ 173,505.76"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 99,
+        "total_gasto": 9387199.97
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 19,
+        "total_gasto": 2417429.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\nConservação e Manutenção dos prédios públicos do Município de São\nMamede - PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "C.PINHEIRO e\nCIA LTDA",
+            "valor_total": "R$ 62,528.57"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\nConservação e Manutenção dos prédios públicos do Município de São\nMamede - PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "FORTUNATO\nVICENTE FERREIRA JUNIOR",
+            "valor_total": "R$ 50,188.00"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\nConservação e Manutenção dos prédios públicos do Município de São\nMamede - PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "LUMEN\nDISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA",
+            "valor_total": "R$ 23,104.60"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais da Prefeitura de São Mamede - PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "C.PINHEIRO e\nCIA LTDA",
+            "valor_total": "R$ 85,435.10"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais da Prefeitura de São Mamede - PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FORTUNATO\nVICENTE FERREIRA JUNIOR",
+            "valor_total": "R$ 71,336.00"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção para todas as\nSecretarias Municipais da Prefeitura de São Mamede - PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ROSILDA\nGOMES DE LUCENA CARVALHO",
+            "valor_total": "R$ 214,350.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 1589323.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames médicos radiológicos, para atender as necessidades da\nSecretaria de Saúde da Prefeitura Municipal de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FERNANDO\nFRANCO DE CARVALHO",
+            "valor_total": "R$ 90,670.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames médicos radiológicos, para atender as necessidades da\nSecretaria de Saúde da Prefeitura Municipal de São Mamede – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "UDI",
+            "valor_total": "R$ 72,490.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para realização dos\nserviços de recauchutagem de Pneus, conforme proposta de preço,\ntipo menor preço por item, julgada vencedora pelo Pregoeiro, no\nprocesso Pregão Presencial Nº",
+            "empresa": "REPECAL",
+            "valor_total": "R$ 295,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 8,
+        "total_gasto": 296122.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 652107.34,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-03/MS/PMSM, dos itens 2, 3, 6, 8, 10, 16, 35, 44\ne 45, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "RITA DE\nANDRADE VIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 22,723.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-03/MS/PMSM, dos itens 5, 7, 9, 13, 18, 22, 28,\n30, 38, 40, 41 e 42, 47 e 49, conforme proposta de preço, tipo menor\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 3\n\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "ODONTOMED\nCOMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES\nLTDA",
+            "valor_total": "R$ 14,318.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-03/MS/PMSM, dos itens 4, 33, 37 e 50,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CÉLIA\nFRANCISCO DE CARVALHO",
+            "valor_total": "R$ 24,614.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-03/MS/PMSM, dos itens 1, 11, 12, 15, 19, 20,\n21, 23, 24, 25, 26, 29, 32, 34, 39, 43, 46, 48, 50 e 51, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CRM\nCOMERCIAL LTDA",
+            "valor_total": "R$ 14,970.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para o\nPrograma da Saúde da Família/Atenção Básica da Prefeitura\nMunicipal de São Mamede – PB, nos termos da Proposta n.º\n04223.191000/1170-03/MS/PMSM, dos itens 14, 17, 27, 31 e 36,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "PEDRO\nNASCIMENTO DE PAIVA FERNANDES",
+            "valor_total": "R$ 5,962.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 284535.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01(uma) ambulância tipo A furgonete FIAT\nFIORINO HAD WORKING 1.4 FLEX, para atender as necessidades\nda Secretaria de Saúde da Prefeitura Municipal de São Mamede,\nconforme especificações constantes no Termo de Referência e em\nconformidade com o Termo de Compromisso n.º\n2514901712261715843, conforme proposta de preço, tipo menor\npreço global, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "FIORI\nVEÍCULOS S.A",
+            "valor_total": "R$ 82,000.00"
+          },
+          {
+            "objeto": "Aquisição de 01(uma) ambulância tipo A FIAT/DUCATO\nCARGO 2.3 DIESEL, Simples Remoção Tipo Furgão para atender as\nnecessidades da Secretaria de Saúde da Prefeitura Municipal de São\nMamede, conforme especificações constantes no Termo de Referência\ne em conformidade com a Proposta n.º 04223.191000/1170-4,\nconforme proposta de preço, tipo menor preço global, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FIORI\nVEÍCULOS S.A",
+            "valor_total": "R$ 170,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 500600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 125698.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 2200112.05,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamentos, Materiais Permanentes e\n\nMobiliários para atender as necessidades da Instituição de Longa\n\nPermanência para Idosos do Município de São Mamede, nos termos\n\ndo Convênio n.º 0049/2018/SEDS-PB/PMSM, dos itens 2, 3, 5 e 7,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "EXPEDITO\n\nVIEIRA DE SOUSA DANTAS",
+            "valor_total": "R$ 4,512.50"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos, Materiais Permanentes e\n\nMobiliários para atender as necessidades da Instituição de Longa\n\nPermanência para Idosos do Município de São Mamede, nos termos\n\ndo Convênio n.º 0049/2018/SEDS-PB/PMSM, dos itens 9 e 12,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "ALDO\n\nFABRIZIO DUTRA DANTAS",
+            "valor_total": "R$ 8,960.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos, Materiais Permanentes e\n\nMobiliários para atender as necessidades da Instituição de Longa\n\nPermanência para Idosos do Município de São Mamede, nos termos\n\ndo Convênio n.º 0049/2018/SEDS-PB/PMSM, dos itens 1, 4 e 8,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "LIDINALDO\n\nAZEVEDO DA SILVA",
+            "valor_total": "R$ 6,524.00"
+          },
+          {
+            "objeto": "Aquisição de 01 Veículo tipo SPIN LTZ 1.8, 7 Lugares,\n\n2018/2019, para atender as necessidades da Prefeitura Municipal de\n\nSão Mamede, nos termos do Convênio/MDS n.º 854660/2017,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "RIO VALE\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 78,000.00"
+          },
+          {
+            "objeto": "Aquisição de 01 Veículo tipo FORD KA SE 1.5, 5\n\nLugares, 2018/2019, para atender as necessidades da Prefeitura\n\nMunicipal de São Mamede, nos termos do Convênio/MDS n.º\n\n854660/2017, conforme proposta de preço, tipo menor preço por item,\n\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CAVALCANTI\n\nPRIMO VEÍCULOS LTDA",
+            "valor_total": "R$ 45,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 1998753.5199999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 115,
+        "total_gasto": 12466074.639999995
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 1746318.4200000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 21,
+        "total_gasto": 2181072.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 10,
+        "total_gasto": 358321.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação Direta de Empresa para Prestação de Serviços\nTécnicos Especializados em Assessoria e Consultoria Contábil,\n\natravés da SOTERO CONTABILIDADE PÚBLICA LTDA – ME,\n\nCNPJ: 19.406.302/0001-92",
+            "empresa": "SOTERO CONTABILIDADE\n\nPÚBLICA LTDA",
+            "valor_total": "R$ 34,200.00"
+          },
+          {
+            "objeto": "Contratação Direta de Profissional Especializado para\nPrestação de Serviços de Assessoria e Consultoria Jurídica –\n\nAdministrativa a Câmara Municipal de São Mamede, além de\n\nassessoramento direto ao Presidente da Casa em todos os assuntos\n\njurídicos – administrativos, através do Sr",
+            "empresa": "JOÃO LOPES DE SOUSA NETO",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 2841648.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 149177.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de fardamento para atender as necessidades das\nsecretarias Municipais de São Mamede, conforme proposta de preço,\ntipo menor preço por item, julgada vencedora pelo Pregoeiro, no\nprocesso Pregão Presencial Nº",
+            "empresa": "AGS\nCOMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 35,617.00"
+          },
+          {
+            "objeto": "Aquisição de 02 Veículos tipo FORD KA S 1.0 HATCH,\npara atender as necessidades da Prefeitura Municipal de São Mamede,\nnos termos do Convênio/MDS n.º 854660/2017, conforme proposta de\npreço, tipo menor preço global, julgada vencedora pelo Pregoeiro, no\nprocesso Pregão Presencial Nº",
+            "empresa": "CAVALCANTI\nPRIMO VEÍCULOS LTDA",
+            "valor_total": "R$ 83,360.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 165329.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1236454.54,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para execução dos serviços de\nConstrução de Ginásio no Município de São Mamede - PB",
+            "empresa": "AG\nCONSTRUTORA E SERVIÇOS LTDA",
+            "valor_total": "R$ 675,890.69"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1229724.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 345595.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Um Veículo tipo pick-up FORD RANGER\nXL 2.2 4X4 DIESEL cabine dupla, conforme especificações\nconstantes no termo de referência e nos termos da Proposta n.ºs\n04223.191000/1180-05/MS/PMSM, conforme proposta de preço, tipo\nmenor preço global, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "CAVALCANTI\nPRIMO VEÍCULOS LTDA",
+            "valor_total": "R$ 120,000.00"
+          },
+          {
+            "objeto": "Aquisição de Aparelhos de ar-condicionado, conforme\nespecificações constantes no termo de referência e nos termos da\nProposta n.º 04223.191000/1180-09/MS/PMSM, conforme proposta\nde preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES",
+            "valor_total": "R$ 13,800.00"
+          },
+          {
+            "objeto": "Aquisição de UM Veículo, conforme especificações\nconstantes no termo de referência e nos termos da Proposta n.º\n04223.191000/1180-09/MS/PMSM, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "J CARNEIRO\nCOMÉRCIO E REPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 38,350.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 190000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Um Veículo SPINTER VAN 415 CDI\nANO/MODELO 2019/2019, para Transporte Sanitário com\nacessibilidade de um cadeirante, conforme especificações constantes\nno termo de referência e nos termos da Proposta n.º\n04223.191000/1180-04/MS/PMSM, conforme proposta de preço, tipo\nmenor preço global, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "UNIDAS\nVEÍCULOS E SERVIÇOS LTDA",
+            "valor_total": "R$ 190,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 23680.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 1612656.68,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de São Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA ODONTOMED\nCOMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES\nLTDA",
+            "valor_total": "R$ 17,743.26"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de São Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA FARMAGUEDES\nCOMÉRCIO DE PRODUTOS FARMACÊUTICOS MÉDICOS\nE HOSPITALARES",
+            "valor_total": "R$ 8,630.13"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de São Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA RITA DE\nANDRADE VIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 22,307.75"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de São Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA JOSÉ NERGINO\nSOBREIRA/PJS DISTRIBUIDORA",
+            "valor_total": "R$ 12,564.88"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados ao PSF/ESF/ SUS – Programa da Saúde da Família /\nEstratégia Saúde da Família/Sistema Único de Saúde da Prefeitura\nMunicipal de São Mamede – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA DENTAL COSTA\nPRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 36,543.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 82,
+        "total_gasto": 12624981.32
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 28,
+        "total_gasto": 3399829.4699999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 122413.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 902986.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 794071.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Lote I – Ampliação de Unidade Básica de Saúde – PSF III\n\nDr Francisco das Chagas, nos termos da Proposta 04223.1910001/18-\n\n012",
+            "empresa": "NÓBREGA E\n\nSOUZA CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 206,819.66"
+          },
+          {
+            "objeto": "Lote II – Ampliação de Unidade Básica de Saúde – PSF I\n\nAna Maria de Andrade, nos termos da Proposta 04223.1910001/18-\n\n010",
+            "empresa": "NÓBREGA E\n\nSOUZA CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 144,288.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 998164.11,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Veículos tipo Caminhão Toco, Marca Iveco,\nModelo: TECTOR 9-190, CARROCERIA DE MADEIRA PATENSE\ne demais especificações constantes do Item 01 do Termo de\nReferência, para atender as necessidades da Prefeitura Municipal de\n\nSão Mamede, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Eletrônico Nº",
+            "empresa": "EMPORIUM\nCONSTRUTORA COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 207,000.00"
+          },
+          {
+            "objeto": "Aquisição Veículos tipo Ônibus, Marca Volkswagen,\nModelo: VW 15-190, O KM e demais especificações constantes do\nItem 02 do Termo de Referência, para atender as necessidades da\nPrefeitura Municipal de São Mamede, tipo menor preço por item,\njulgada vencedora pelo Pregoeiro, no processo Pregão Eletrônico Nº",
+            "empresa": "GAMA DIESEL\nLTDA",
+            "valor_total": "R$ 390,000.00"
+          },
+          {
+            "objeto": "Aquisição de 02 Máquinas tipo trator agrícola, Marca LS\nTractor, modelo U80 Plataformado, O KM e demais especificações\nconstantes do Item 03 do Termo de Referência, para atender as\nnecessidades da Prefeitura Municipal de São Mamede, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico Nº",
+            "empresa": "LS TRATOR\nASAP COMÉRCIO DE MÁQUINAS LTDA",
+            "valor_total": "R$ 192,960.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1254296.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 3395939.9499999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 144624.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 1523961.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 191,
+        "total_gasto": 25673792.48
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 60,
+        "total_gasto": 3093372.89,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA FORNECEDORA\nAGRICOLA COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 12,750.00"
+          },
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA GIPAGEL AUTO\nPEÇAS LTDA",
+            "valor_total": "R$ 42,925.00"
+          },
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA GRANPECAS -\nCOMERCIO E DISTRIBUICAO DE PECAS, RETIFICA E\nSERVICOS LTDA",
+            "valor_total": "R$ 78,960.00"
+          },
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA J A L SILVA\nCOMERCIO VAREJISTA DE PNEUMATICOS EIRELI",
+            "valor_total": "R$ 109,225.00"
+          },
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA O CEARENSE\nDISTRIBUIDORA DE PECAS LTDA",
+            "valor_total": "R$ 37,720.00"
+          },
+          {
+            "objeto": "Aquisição de Peças para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde São Mamede – PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA SUZANA PAULA\nLUCENA AZEVEDO",
+            "valor_total": "R$ 132,187.50"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA CENTRAL\nCIRURGICA COMERCIO, IMPORTACAO E EXPORTACAO\nLTDA",
+            "valor_total": "R$ 38,404.10"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA DENTEMED\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\nEQUIPAMENTOS ODONTOLOGICOS LTDA-EPP",
+            "valor_total": "R$ 14,515.00"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA DX\nIND.,COM.,IMPORTAÇÃO E EXPORTAÇÃO LTDA-EPP",
+            "valor_total": "R$ 16,201.00"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA FARMAGUEDES\nCOMERCIO DE PRODUTOS FARMACEUTICOS, MEDICOS\nE HOSPITALARES LTDA",
+            "valor_total": "R$ 68,672.90"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 12\n\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA JOSE NERGINO\nSOBREIRA - Tipo: Ltda/Eireli",
+            "valor_total": "R$ 49,650.90"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA ODONTOMED\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 55,908.22"
+          },
+          {
+            "objeto": "Aquisição de material e insumos odontológicos para\natender as necessidades da Secretaria Municipal de Saúde de São\nMamede – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nEletrônico nº",
+            "empresa": "A EMPRESA\nPHARMAPLUS LTDA - Tipo: Ltda/Eireli",
+            "valor_total": "R$ 96,209.87"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 32,
+        "total_gasto": 2382829.89,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS\nESPECIALIZDOS NO ACOMPANHAMENTO DOS SERVIÇOS E\nPROGRAMAS DO SUAS E NA GESTÃO DO PBF, BEM COMO\nNA CAPACITAÇÃO DAS EQUIPES TÉCNICAS DA EXECUÇÃO\nJUNTO À SECRETARIA MUNICIPAL DE DESENVOLVIMENTO\nSOCIAL E HUMANO",
+            "empresa": "M.S.S.CAMPOS/CAMPOS\nCONSULTORIA",
+            "valor_total": "R$ 17,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 2384779.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 2074325.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 1274919.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 865800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1012504.71,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM\nSAÚDE NA ATENÇÃO BÁSICA E NA OPERACIONALIZAÇÃO\nDE PROGRAMAS E DE PROJETOS JUNTO AO CONSELHO\nMUNICIPAL DE SAÚDE, NO MONITORAMENTO DOS\nSISTEMAS DE INFORMATIZAÇÃO DA SAÚDE, TAIS COMO:\nEGESTOR, SAIPS, E-SUS, SISMOB E FNS",
+            "empresa": "SARAH MARIA BERNARDINO\nTAVARES",
+            "valor_total": "R$ 14,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 9824825.119999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Execução de Serviços de\n\nReforma do Hospital no Município de São Mamede - PB, nos termos\n\ndo Contrato de Repasse n.º 1063259-09/2018 e conforme projeto\n\nbásico de engenharia",
+            "empresa": "A EMPRESA: CONSTRUTORA\n\nAPODI EIRELI, devidamente",
+            "valor_total": "R$ 799,258.19"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 15530.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para fornecimento de oxigênio e\n\nequipamentos, para atendar a demanda da Secretaria Municipal de\n\nSaúde de São Mamede – PB, conforme proposta de preço, tipo menor\n\npreço global, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nEletrônico nº",
+            "empresa": "A EMPRESA GIPAGEL AUTO\n\nPEÇAS LTDA",
+            "valor_total": "R$ 15,530.00"
+          },
+          {
+            "objeto": "Contratação de Empresa para fornecimento de oxigênio e\n\nequipamentos, para atendar a demanda da Secretaria Municipal de\n\nSaúde de São Mamede – PB, conforme proposta de preço, tipo menor\n\npreço global, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nEletrônico nº",
+            "empresa": "Material de Consumo;\n\n02.081",
+            "valor_total": "R$ 15,530.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 107949.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 1112995.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 100,
+        "total_gasto": 9909618.069999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Execução de Serviços de\n\nReforma da Policlínica no Município de São Mamede - PB, nos\n\ntermos do Contrato de Repasse n.º 1063243-63/2018 e conforme\n\nprojeto básico de engenharia",
+            "empresa": "RENOVAR\n\nCONSTRUCOES E SERVIÇOS LTDA",
+            "valor_total": "R$ 376,741.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 79,
+        "num_contratos": 197,
+        "total_gasto": 20063340.960000005
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 13,
+        "total_gasto": 1650854.3699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 2121115.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 1144499.99,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Execução de Serviços de\n\nAmpliação e Reforma do Cemitério e do Estádio Oliveirão",
+            "empresa": "AG\n\nCONSTRUTORA E SERVIÇOS LTDA",
+            "valor_total": "R$ 895,516.99"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1179251.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 1564146.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 629983.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 898758.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇOS DE CONSTRUÇÃO DE CRECHE TIPO B COM\n\nCAPACIDADE PARA 50 CRIANÇAS, COM BASE NO\n\nPROGRAMA PARAÍBA PRIMEIRA INFÂNCIA, NOS TERMOS\n\nDO CONVÊNIO N.º 0197/2022",
+            "empresa": "CONCRETISA\n\nCONSTRUTORA EIRELI",
+            "valor_total": "R$ 840,273.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 255096.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 452409.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 257608.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 113,
+        "total_gasto": 14941362.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 116,
+        "num_contratos": 271,
+        "total_gasto": 42198492.449999996
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 225009.13,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM\n\nSAÚDE NA ATENÇÃO BÁSICA E NA OPERACIONALIZAÇÃO\n\nDE PROGRAMAS E DE PROJETOS JUNTO AO CONSELHO\n\nMUNICIPAL DE SAÚDE NO QUE SE REFERE AO\n\nMONITORAMENTO DOS SISTEMAS DE INFORMATIZAÇÃO\n\nDA SAÚDE, TAIS COMO: EGESTOR, SAIPS, DIGISUS E FNS",
+            "empresa": "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES",
+            "valor_total": "R$ 41,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 17,
+        "total_gasto": 414163.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para aquisição de peixes para\n\ndistribuir com as famílias carentes do município de São Mamede-PB.,\n\npela contratação direta com a empresa: LINNIKER DAVID\n\nMEDEIROS GALDINO - CNPJ nº 27.169.439/0001-07, com o",
+            "empresa": "LINNIKER DAVID MEDEIROS GALDINO -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 852034.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 31,
+        "total_gasto": 6840831.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 25,
+        "total_gasto": 7276214.5600000005,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestar serviços de\n\nmonitoramento através de câmeras e vídeo conferencia remoto para\n\nacompanhamento a festividade do São Pedro de São Mamede-PB,\n\npela contratação direta com a empresa: FORTCON SERVIÇOS DE\n\nSEGURANÇA ELETRONICA LTDA - CNPJ nº 24.987.472/0001-\n\n48, com o",
+            "empresa": "FORTCON SERVIÇOS DE SEGURANÇA\n\nELETRONICA LTDA -",
+            "valor_total": "R$ 22,800.00"
+          },
+          {
+            "objeto": "contratação de empresa especializada para prestar serviços\n\nde filmagem, transmissão e exibição ao vivo da festa do São Pedro de\n\nSão Mamede-PB, pela contratação direta com a empresa: SOL\n\nSERVIÇOS DE TELEVISÃO LTDA - CNPJ nº 07.223.383/0001-06,\n\ncom o",
+            "empresa": "FORTCON SERVIÇOS DE SEGURANÇA\n\nELETRONICA LTDA -",
+            "valor_total": "R$ 22,800.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestar serviços de\n\nmonitoramento através de câmeras e vídeo conferencia remoto para\n\nacompanhamento a festividade do São Pedro de São Mamede-PB,\n\npela contratação direta com a empresa: FORTCON SERVIÇOS DE\n\nSEGURANÇA ELETRONICA LTDA - CNPJ nº 24.987.472/0001-\n\n48, com o",
+            "empresa": "SOL SERVIÇOS DE TELEVISÃO LTDA",
+            "valor_total": "R$ 22,800.00"
+          },
+          {
+            "objeto": "contratação de empresa especializada para prestar serviços\n\nde filmagem, transmissão e exibição ao vivo da festa do São Pedro de\n\nSão Mamede-PB, pela contratação direta com a empresa: SOL\n\nSERVIÇOS DE TELEVISÃO LTDA - CNPJ nº 07.223.383/0001-06,\n\ncom o",
+            "empresa": "SOL SERVIÇOS DE TELEVISÃO LTDA",
+            "valor_total": "R$ 22,800.00"
+          },
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao\n\nContrato nº 0120/2023 de 27 de fevereiro de 2023, resultante do\n\nPregão eletrônico nº 03/2023, acrescendo o",
+            "empresa": "RD COMERCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 4,784.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO\n\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM\n\nCONSULTORIA, ORGANIZAÇÃO E EXECUÇÃO DE\n\nCONCURSO PÚBLICO DE PROVAS E/OU PROVAS E TÍTULOS\n\nPARA PROVIMENTO DE CARGOS EFETIVOS DA\n\nPREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO\n\nPEIXE/PB",
+            "empresa": "Instituto de Desenvolvimento Institucional Brasileiro -\n\nIGETEC",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica para prestação de serviços\n\ntécnicos especializados em consultoria, organização e execução de\n\nconcurso público de provas e/ou provas e títulos para provimento de\n\ncargos efetivos da prefeitura municipal de SÃO JOÃO DO RIO DO\n\nPEIXE/PB",
+            "empresa": "Instituto de Desenvolvimento Institucional Brasileiro -\n\nIGETEC",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 7391548.97,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE SERVIÇOS MECÂNICOS EM GERAL\n\nNAS MAQUINAS PESADAS PERTENCENTES AO MUNICÍPIO\nDE SÃO JOSÉ DE PRINCESA-PB",
+            "empresa": "Geraldo Daniel de Lima",
+            "valor_total": "R$ 215,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE SERVIÇOS MECÂNICOS EM GERAL\n\nNAS MAQUINAS PESADAS PERTENCENTES AO MUNICÍPIO\nDE SÃO JOSÉ DE PRINCESA-PB",
+            "empresa": "e\nempresa",
+            "valor_total": "R$ 215,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 1136054.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 1553829.2899999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 82179.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 397120.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 19,
+        "total_gasto": 1088145.01,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de um veículo tipo passeio para Câmara municipal\nde São Mamede -PB",
+            "empresa": "DICAL",
+            "valor_total": "R$ 162,600.00"
+          },
+          {
+            "objeto": "aquisição de um veículo tipo passeio para Câmara municipal\nde São Mamede -PB",
+            "empresa": "DICAL",
+            "valor_total": "R$ 162,600.00"
+          },
+          {
+            "objeto": "aquisição de um veículo tipo passeio para Câmara\nmunicipal de São Mamede -PB",
+            "empresa": "DICAL",
+            "valor_total": "R$ 162,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 74,
+        "total_gasto": 15798194.099999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇO DE DIGITALIZAÇÃO DE TODAS AS DESPESAS,\n\nLICITAÇÕES E LOCAÇÃO DE SOFTWARE DE BUSCA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nDOCUMENTOS DIGITALIZADOS DA PREFEITURA\n\nMUNICIPAL DE SÃO MAMEDE - PB",
+            "empresa": "A EMPRESA DENIZE TORRES\n\nCANDEIA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE –\n\nPB",
+            "empresa": "A EMPRESA DENIZE TORRES\n\nCANDEIA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS",
+            "empresa": "A EMPRESA DENIZE TORRES\n\nCANDEIA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇO DE DIGITALIZAÇÃO DE TODAS AS DESPESAS,\n\nLICITAÇÕES E LOCAÇÃO DE SOFTWARE DE BUSCA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nDOCUMENTOS DIGITALIZADOS DA PREFEITURA\n\nMUNICIPAL DE SÃO MAMEDE - PB",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 003/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 003/2024, objetivando a\n\nCONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE –\n\nPB",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 003/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 003/2024, objetivando a\n\nCONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 003/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 003/2024, objetivando a\n\nCONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇO DE DIGITALIZAÇÃO DE TODAS AS DESPESAS,\n\nLICITAÇÕES E LOCAÇÃO DE SOFTWARE DE BUSCA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nDOCUMENTOS DIGITALIZADOS DA PREFEITURA\n\nMUNICIPAL DE SÃO MAMEDE - PB",
+            "empresa": "A EMPRESA ARMINDA\n\nCRISTINA DA SILVA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE –\n\nPB",
+            "empresa": "A EMPRESA ARMINDA\n\nCRISTINA DA SILVA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS",
+            "empresa": "A EMPRESA ARMINDA\n\nCRISTINA DA SILVA",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇO DE DIGITALIZAÇÃO DE TODAS AS DESPESAS,\n\nLICITAÇÕES E LOCAÇÃO DE SOFTWARE DE BUSCA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nDOCUMENTOS DIGITALIZADOS DA PREFEITURA\n\nMUNICIPAL DE SÃO MAMEDE - PB",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 004/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 004/2024, objetivando a\n\nCONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS. ELABORANDO OS\n\nPROJETOS BÁSICOS PARA CADASTRO NOS SISTEMAS E\n\nPLANEJAMENTO FINANCEIRO NO QUE SE DIZ A RESPEITO\n\nDO REMANEJAMENTO DOS BLOCOS E\n\nACOMPANHAMENTO, em favor da empresa qual seja: SARAH\n\nMARIA BERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE –\n\nPB",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 004/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 004/2024, objetivando a\n\nCONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS. ELABORANDO OS\n\nPROJETOS BÁSICOS PARA CADASTRO NOS SISTEMAS E\n\nPLANEJAMENTO FINANCEIRO NO QUE SE DIZ A RESPEITO\n\nDO REMANEJAMENTO DOS BLOCOS E\n\nACOMPANHAMENTO, em favor da empresa qual seja: SARAH\n\nMARIA BERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS",
+            "empresa": ".\n\n\nDISPENSA DE LICITAÇÃO N.º 004/2024\n\n\n\nTERMO DE HOMOLOGAÇÃO\n\n\n\nO PREFEITO MUNICIPAL DE SÃO MAMEDE, Estado da\n\nParaíba, usando de suas atribuições legais e em conformidade com o\n\nque dispõe a Lei de nº 14.133, de 01 de abril de 2023, resolve\n\nHOMOLOGAR a decisão da Comissão Permanente de Licitação, ao\n\nProcesso de Dispensa de Licitação N.º 004/2024, objetivando a\n\nCONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS. ELABORANDO OS\n\nPROJETOS BÁSICOS PARA CADASTRO NOS SISTEMAS E\n\nPLANEJAMENTO FINANCEIRO NO QUE SE DIZ A RESPEITO\n\nDO REMANEJAMENTO DOS BLOCOS E\n\nACOMPANHAMENTO, em favor da empresa qual seja: SARAH\n\nMARIA BERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇO DE DIGITALIZAÇÃO DE TODAS AS DESPESAS,\n\nLICITAÇÕES E LOCAÇÃO DE SOFTWARE DE BUSCA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nDOCUMENTOS DIGITALIZADOS DA PREFEITURA\n\nMUNICIPAL DE SÃO MAMEDE - PB",
+            "empresa": "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS DE TÉCNICOS NA\n\nCLASSIFICAÇÃO, CATALOGAÇÃO, IDENTIFICAÇÃO,\n\nORGANIZAÇÃO E ARQUIVAMENTO DE DOCUMENTOS\n\nGERADOS NA PREFEITURA MUNICIPAL DE SÃO MAMEDE –\n\nPB",
+            "empresa": "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA TÉCNICA PARA\n\nACOMPANHAMENTO DOS SISTEMAS E PROGRAMAS DE\n\nSAÚDE DESTE MUNICÍPIO PRESTAÇÃO DE SERVIÇOS DE\n\nASSESSORIA EM SAÚDE NA ATENÇÃO BÁSICA E NA\n\nOPERACIONALIZAÇÃO DE PROGRAMAS E DE PROJETOS\n\nJUNTO AO CONSELHO MUNICIPAL DE SAÚDE NO QUE SE\n\nREFERE AO MONITORAMENTO DOS SISTEMAS DE\n\nINFORMATIZAÇÃO DA SAÚDE, TAIS COMO: EGESTOR,\n\nSAIPS, DIGISUS, SISMOB E FNS",
+            "empresa": "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES",
+            "valor_total": "R$ 367,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 137,
+        "num_contratos": 296,
+        "total_gasto": 49977259.87
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 63,
+        "total_gasto": 8498481.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAR\nSERVIÇOS DE GESTÃO DE SEGURANÇA DO TRABALHO E\nSAÚDE OCUPACIONAL JUNTO À PREFEITURA MUNICIPAL\nDE SÃO MAMEDE – PB",
+            "empresa": "A EMPRESA SEGURITY SAÚDE\nE SEGURANÇA DO TRABALHO LTDA",
+            "valor_total": "R$ 27,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 37,
+        "total_gasto": 2664091.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para aquisição de peixes para\n\ndistribuir com as famílias carentes do município de São Mamede PB",
+            "empresa": "A EMPRESA LINNIKER DAVID\n\nMEDEIROS GALDINO",
+            "valor_total": "R$ 84,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para elaboração de\n\nedital, acompanhamento e execução de processo seletivo público com\n\nobjetivo de preenchimento de diversos cargos da prefeitura municipal\n\nde São Mamede – PB",
+            "empresa": "A EMPRESA APICE\n\nCONSULTORIAS E CAPACITACOES LTDA",
+            "valor_total": "R$ 27,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 21,
+        "total_gasto": 4528978.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Unidade Odontológica Móvel, destinado a\n\nSecretarias Municipal de Saúde para UBS TARCISIO DE\n\nMIRANDA BURITI do Município de Vista Serrana/PB",
+            "empresa": "COPAUTO COMERCIO PATOENSE DE\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 336,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 5222774.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao\n\nContrato nº 04.0001/2024 de 15 de Abril de 2024, resultante da\n\nCONCORRÊNCIA ELETRÔNICA nº 001/2024, acrescendo o",
+            "empresa": "CL CONSTRUÇÕES E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 2399478.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 6941115.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Kits Didáticos em Língua Portuguesa e\nMatemática, visando a melhoria do desempenho dos educandos na\n\nProva SAEB e Prova Municipal de São Mamede-PB",
+            "empresa": "S R DOS SANTOS COMERCIO E SERVICO\n\nLTDA",
+            "valor_total": "R$ 889,033.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 975628.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de artista plástico para projetar e executar arte\n\nvisual em ambiente público do município de São Mamede -PB",
+            "empresa": "54.774.879 FRANKLEYSON DA SILVA\n\nBRASILEIRO",
+            "valor_total": "R$ 44,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de construção civil para\n\nexecução dos serviços de construção de um cemitério no Município de\n\nSão José de Princesa-PB",
+            "empresa": "Torre Construção e Consultoria em\n\nEngenharia Eireli",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo de construção civil para\n\nexecução dos serviços de construção de um cemitério no Município de\n\nSão José de Princesa-PB",
+            "empresa": "e Damião\n\nEpaminondas Tavares Bezerra",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 1480666.94,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO DE\n\nREEQUILÍBRIO FINANCEIRO ao Contrato nº 000178/2023,\n\nresultante da CONCORRÊNCIA ELETRÔNICA nº 0009/2024,\n\nacrescendo o",
+            "empresa": "AG CONSTRUTORA E SERVIÇOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1248179.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 veículo de transporte escolar diário de\n\nestudantes, denominado de Ônibus Rural Escolar (ORE 3), para\n\natender as necessidades da Prefeitura Municipal de São José de\n\nPrincesa- PB, via ATA DE REGISTRO DE PREÇOS Nº: RP\n\n00008/2023 /FNDE/MEC",
+            "empresa": "A EMPRESA:\n\nON-HIGHWAY BRASIL LTDA",
+            "valor_total": "R$ 469,499.00"
+          },
+          {
+            "objeto": "Aquisição de 01 veículo de transporte escolar diário de\n\nestudantes, denominado de Ônibus Rural Escolar (ORE 3), para\n\natender as necessidades da Prefeitura Municipal de São José de\n\nPrincesa- PB, via ATA DE REGISTRO DE PREÇOS Nº: RP\n\n00008/2023 /FNDE/MEC",
+            "empresa": "Debora Rocha Costa",
+            "valor_total": "R$ 469,499.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 219671.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

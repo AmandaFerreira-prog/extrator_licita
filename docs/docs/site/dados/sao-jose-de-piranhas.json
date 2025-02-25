@@ -4,24 +4,34 @@
   "detalhe": {
     "2024": {
       "10": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 2,
         "total_gasto": 118000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "KAL PRODUCOES E\n\nEVENTOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação direta dos serviços artísticos de apresentação musical em\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 7\n\n\n\npraça pública para as crianças com os Personagens BILLY e THEO a\n\npartir das 17h no dia 11 de outubro de 2024 com duração de 02 (duas)\n\nhoras",
+          "Contratação direta dos serviços artísticos de apresentação\n\nmusical em praça pública para as crianças com os Personagens\n\nBILLY e THEO a partir das 17h no dia 11 de outubro de 2024 com\n\nduração de 02 (duas) horas"
+        ]
       },
       "resumo": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 2,
         "total_gasto": 118000.0
       }
     }
   },
   "resumo": {
-    "num_diarios": 2,
+    "num_diarios": 1,
     "num_contratos": 2,
-    "total_gasto": 118000.0,
-    "top_5_empresas": {},
-    "top_5_objetos": {}
+    "total_gasto": "118.000,00",
+    "top_5_empresas": {
+      "KAL PRODUCOES E\n\nEVENTOS LTDA": 1
+    },
+    "top_5_objetos": {
+      "Contratação direta dos serviços artísticos de apresentação musical em\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 7\n\n\n\npraça pública para as crianças com os Personagens BILLY e THEO a\n\npartir das 17h no dia 11 de outubro de 2024 com duração de 02 (duas)\n\nhoras": 1,
+      "Contratação direta dos serviços artísticos de apresentação\n\nmusical em praça pública para as crianças com os Personagens\n\nBILLY e THEO a partir das 17h no dia 11 de outubro de 2024 com\n\nduração de 02 (duas) horas": 1
+    }
   }
 }

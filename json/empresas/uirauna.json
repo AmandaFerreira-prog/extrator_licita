@@ -1,0 +1,2725 @@
+{
+  "id": "uirauna",
+  "nome": "Uirauna",
+  "detalhe": {
+    "2017": {
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 16000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação dos serviços do SEBRAE/PB, para\norganização do evento da I EXPOUNA - Feira de Negócios de\nUiraúna, a ser realizado no período de 30 de novembro a 01 de\ndezembro de 2017, no município de Uirauna/PB",
+            "empresa": "SERV DE APOIO AS MICRO E PEQ EMP DA PARAIBA SEBRAE\nPB",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 1145912.79
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 1129912.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 188,
+        "num_contratos": 36,
+        "total_gasto": 7903265.3
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 2167388.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 873907.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 3003366.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento parcelado e diário de combustíveis e gás\nGLP, destinados a diversas secretarias município de Uiraúna",
+            "empresa": "J. ALENCAR CIA",
+            "valor_total": "R$ 600,340.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado e diário de combustíveis e Gás\nGLP, destinados as atividades do Fundo Municipal de Saúde de\nUiraúna.",
+            "empresa": "J. ALENCAR CIA",
+            "valor_total": "R$ 477,140.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços de criação do projeto gráfico, arte final, confecção e\ninstalação de materiais de identificação visual (banners, cartazes,\nadesivos, placas, faixas), conforme termo de referência",
+            "empresa": "GUEDES DESIGNER\nLTDA",
+            "valor_total": "R$ 64,860.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços de criação do projeto gráfico, arte final, confecção e\ninstalação de materiais de identificação visual (banners, cartazes,\nadesivos, placas, faixas), conforme termo de referência.",
+            "empresa": "GUEDES DESIGNER LTDA",
+            "valor_total": "R$ 64,860.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 680110.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 594835.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de itens remanescentes do Pregão Presencial nº\n18/2018 referente ao fornecimento parcelado e diário de refeições e\nlanches tipo (salgados e tortas), destinados às diversas secretarias do\nmunicípio de Uiraúna - PB.",
+            "empresa": "FRANCISCO JOSE\nFILHO",
+            "valor_total": "R$ 33,600.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado e diário de Refeições e Lanches\ntipo (Salgados), destinados ao fundo municipal de saúde do município\nde uiraúna - PB",
+            "empresa": "FRANCISCO\nJOSE FILHO",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 332828.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 77500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 119329.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 832913.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 198,
+        "num_contratos": 212,
+        "total_gasto": 20238441.630000003
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 96000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 54232.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 76800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 6,
+        "total_gasto": 207659.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de limpeza hospitalar, destinados à\nmanutenção das atividades da Associação Beneficente Conego\nManoel Vieira da Costa",
+            "empresa": "MAIOR CLEAN\nCOMERCIO VAREJISTA DE INSTRUMENTOS CIRURGICOS EI\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 26",
+            "valor_total": "R$ 100,827.44"
+          },
+          {
+            "objeto": "Aquisição de material de limpeza hospitalar, destinados à\nmanutenção das atividades da Associação Beneficente Conego\nManoel Vieira da Costa",
+            "empresa": "CT Nº 00007/2019",
+            "valor_total": "R$ 100,827.44"
+          },
+          {
+            "objeto": "Aquisição de material de expediente, destinado à\nmanutenção das atividades da Associação Beneficente Conego\nManoel Vieira da Costa",
+            "empresa": "JAQUELINE FERREIRA\nSILVA",
+            "valor_total": "R$ 24,587.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 87,
+        "total_gasto": 7536934.319999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 2,
+        "total_gasto": 51742.83,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de uma motocicleta para atender as necessidades\nda Câmara Municipal de Uiraúna",
+            "empresa": "JOSÉ\nVALDEMAR FILHO DUARTE",
+            "valor_total": "R$ 6,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 45,
+        "total_gasto": 5078562.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 41,
+        "total_gasto": 3265284.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 1453561.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 477155.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 1107595.35,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO DE PEÇAS E SERVIÇO DE\nMANUTENÇÃO NOS VEÍCULOS PERTENCENTES AO FUNDO\nMUNICIPAL DE SAÚDE DA CIDADE DE UIRAÚNA-PB",
+            "empresa": "ANTONIO BENEVENUTO DE ALENCAR",
+            "valor_total": "R$ 663,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 110,
+        "total_gasto": 11883959.770000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 180,
+        "num_contratos": 279,
+        "total_gasto": 31125110.220000003
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 42,
+        "total_gasto": 4713224.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 651249.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 19,
+        "total_gasto": 3112682.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1146178.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 315000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1478680.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Lanches prontos para oferecer aos profissionais que\n\nestão atuando nas Barreiras Sanitárias no município de Uiraúna/PB",
+            "empresa": "JESSICA DE\n\nARAGAO CAVALCANTE",
+            "valor_total": "R$ 60,400.00"
+          },
+          {
+            "objeto": "Aquisição de Lanches prontos para oferecer aos\n\nprofissionais que estão atuando nas Barreiras Sanitárias no município\n\nde Uiraúna/PB",
+            "empresa": "JESSICA DE\n\nARAGAO CAVALCANTE",
+            "valor_total": "R$ 60,400.00"
+          },
+          {
+            "objeto": "Aquisição emergencial de Testes Rápido para COVID– 19, por meio\n\nde dispensa de licitação, para subsidiar as ações e medidas de controle\n\ne prevenção do novo coronavírus ( Covid–19 ), no Sistema de Saúde\n\ndo município de Uirauna/PB",
+            "empresa": "JESSICA DE\n\nARAGAO CAVALCANTE",
+            "valor_total": "R$ 60,400.00"
+          },
+          {
+            "objeto": "Aquisição emergencial de Testes Rápido para COVID– 19,\n\npor meio de dispensa de licitação, para subsidiar as ações e medidas\n\nde controle e prevenção do novo coronavírus ( Covid–19 ), no Sistema\n\nde Saúde do município de Uirauna/PB",
+            "empresa": "JESSICA DE\n\nARAGAO CAVALCANTE",
+            "valor_total": "R$ 60,400.00"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE PNEUS E\n\nSERVIÇO DE ALINHAMENTO E BALANCEAMENTO, PARA\n\nATENDER OS VEÍCULOS DA FROTA DO FUNDO",
+            "empresa": "FRANCISCO EDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado de pneus e serviço de alinhamento\n\ne balanceamento, para atender os veículos da frota do município de\n\nUiraúna",
+            "empresa": "FRANCISCO EDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE PNEUS E\n\nSERVIÇO DE ALINHAMENTO E BALANCEAMENTO, PARA\n\nATENDER OS VEÍCULOS DA FROTA DO FUNDO",
+            "empresa": "FRANCISCO EDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado de pneus e serviço de alinhamento\n\ne balanceamento, para atender os veículos da frota do município de\n\nUiraúna",
+            "empresa": "FRANCISCO EDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE PNEUS E\n\nSERVIÇO DE ALINHAMENTO E BALANCEAMENTO, PARA\n\nATENDER OS VEÍCULOS DA FROTA DO FUNDO",
+            "empresa": "FRANCISCO\n\nEDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado de pneus e serviço de alinhamento\n\ne balanceamento, para atender os veículos da frota do município de\n\nUiraúna",
+            "empresa": "FRANCISCO\n\nEDILSON VIEIRA",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE PNEUS E\n\nSERVIÇO DE ALINHAMENTO E BALANCEAMENTO, PARA\n\nATENDER OS VEÍCULOS DA FROTA DO FUNDO",
+            "empresa": "FRANCISCA MARIA\n\nGONCALVES URIAS",
+            "valor_total": "R$ 1,418,280.00"
+          },
+          {
+            "objeto": "Fornecimento parcelado de pneus e serviço de alinhamento\n\ne balanceamento, para atender os veículos da frota do município de\n\nUiraúna",
+            "empresa": "FRANCISCA MARIA\n\nGONCALVES URIAS",
+            "valor_total": "R$ 1,418,280.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 325520.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 25,
+        "total_gasto": 4159724.1100000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 1447010.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 320560.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 21,
+        "num_contratos": 22,
+        "total_gasto": 1571321.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 928840.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta de serviço de coleta seletiva de\n\nmateriais recicláveis ou reutilizáveis à cargo da secretaria de\n\nAgricultura a Prefeitura Municipal de Uiraúna, ..",
+            "empresa": "ASCAMARU",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 216,
+        "num_contratos": 345,
+        "total_gasto": 38213428.739999995
+      },
+      "2": {
+        "num_diarios": 19,
+        "num_contratos": 15,
+        "total_gasto": 1077868.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 36,
+        "total_gasto": 5650908.100000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 3727480.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 22,
+        "total_gasto": 2777086.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 71,
+        "total_gasto": 6886860.0600000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 37,
+        "total_gasto": 2627554.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 43,
+        "total_gasto": 3228825.29,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de exames de imagens à cargo do\nFundo Municipal de Saúde",
+            "empresa": "CLÍNICA ROCHA LTDA",
+            "valor_total": "R$ 343,800.00"
+          },
+          {
+            "objeto": "Contratação de serviço de exames de imagens à cargo do\nFundo Municipal de Saúde",
+            "empresa": "CLÍNICA ROCHA LTDA",
+            "valor_total": "R$ 343,800.00"
+          },
+          {
+            "objeto": "Contratação de serviço de exames de imagens à cargo do\nFundo Municipal de Saúde",
+            "empresa": "CLÍNICA MÉDICA RANGEL LTDA",
+            "valor_total": "R$ 343,800.00"
+          },
+          {
+            "objeto": "Contratação de serviço de exames de imagens à cargo do\nFundo Municipal de Saúde",
+            "empresa": "CLÍNICA MÉDICA RANGEL LTDA",
+            "valor_total": "R$ 343,800.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA LTDA ME",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\nMERIDIONAL LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALFABRINK COMERCIO DE BRINQUEDOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO\nVAREJISTA DE MOVEIS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "BLUE LIFE OZONIOTERAPIA HIGOR MARTINS\nPEGORARO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "INTELIGENCIA COMERCIO DE EQUIPAMENTOS E\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "JOAO BOSCO DE SA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "K.C.R.S. COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "LSGS BARRETO LUCIANO SERGIO GUIMARAES\nDE SA BARRETO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ALS DISTRIBUIDORA LUCINEIDE DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "M.K. DE AZEVEDO ARAUJO DUTRA DANTAS\nEIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "KIENTRO MEDICAL MOGI MEDICAL\nEQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "SANIGRAN LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes, mobiliário,\nmobiliário escolar e diversos destinado a todas as secretarias da PMU",
+            "empresa": "ZIB COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 1,065,843.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 21,
+        "num_contratos": 29,
+        "total_gasto": 4574437.890000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa destinada a aquisição de serviços de\n\nveiculação de propaganda, para divulgação radiofônica, objetivando\n\natender demandas da gerência de comunicação social do gabinete da\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 34\n\n\n\nprefeita e demais secretarias que compõem a Administração Pública\n\ndo município de Uiraúna-PB",
+            "empresa": "MAIS FM RADIO CACARE FM LTDA, de",
+            "valor_total": "R$ 7,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 38,
+        "total_gasto": 4308092.13,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "PRÉ MOLDADOS SÃO FRANCISCO",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "CENTRAL DO CONSTRUTOR COMERCIO\n\nVAREJISTA DE MATERIAL DE CONSTRUÇÃO LTDA ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO DE\n\nMATERIAIS DE CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "JOSE DE SOUZA SA JUNIOR ME",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- BRITAJA JOSE CIRILO DE SA JUNIOR com o",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 30",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICO, JARDINAGEM E ITENS DE\n\nACADEMIA AO AR LIVRE DESTINADO A CONSTRUÇÃO\n\nDIRETA DE DUAS PRAÇAS PÚBLICAS E FACHADA DA\n\nRODOVIÁRIA DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "BRITAJA JOSE CIRILO DE SA JUNIOR",
+            "valor_total": "R$ 1,929,499.68"
+          },
+          {
+            "objeto": "Contratação direta para prestação de serviços especializados\n\nem tecnologia da informação para suporte técnico e manutenção dos\n\nsistemas da Secretaria Municipal de Educação do município de\n\nUiraúna-PB",
+            "empresa": "ZERO UM INFORMÁTICA COMÉRCIO E SERVIÇOS\n\nDE T.I. LTDA, de",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 16,
+        "total_gasto": 1266599.54,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO PARA AQUISIÇÃO DE UMA\n\nCARROCERIA TIPO BAÚ TÉRMICO DESTINADO À\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB",
+            "empresa": "RODOAP CALDERARIA INDUSTRIAL LTDA",
+            "valor_total": "R$ 141,500.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO PARA AQUISIÇÃO DE UMA\n\nCARROCERIA TIPO BAÚ TÉRMICO DESTINADO À\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB",
+            "empresa": "RODOAP CALDERARIA INDUSTRIAL LTDA",
+            "valor_total": "R$ 141,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 1158876.7000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 2853502.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 207,
+        "num_contratos": 324,
+        "total_gasto": 116083218.93999998
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 39,
+        "total_gasto": 15796073.3,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO DE CONFECÇÃO DE FARDAMENTOS\n\nGERAIS DESTINADO A TODAS AS SECRETARIAS DA PMU\n\nVencedores:\n\n- DI DINAH COMERCIO DE ROUPAS EIRELI com o",
+            "empresa": "DI DINAH COMERCIO DE ROUPAS EIRELI",
+            "valor_total": "R$ 1,851,310.00"
+          },
+          {
+            "objeto": "SERVIÇO DE CONFECÇÃO DE FARDAMENTOS\n\nGERAIS DESTINADO A TODAS AS SECRETARIAS DA PMU",
+            "empresa": "DI DINAH COMERCIO DE ROUPAS EIRELI",
+            "valor_total": "R$ 1,851,310.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA REFORMA E ADEQUAÇÃO DO CEO\n\nODONTOLOGICAS DO MUNICÍPIO DE UIRAÚNA\n\nVencedores:\n\n- J DE FONTE RANGEL EIRELI com o",
+            "empresa": "J DE FONTE RANGEL EIRELI",
+            "valor_total": "R$ 254,787.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA REFORMA E ADEQUAÇÃO DO CEO\n\nODONTOLOGICAS DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "J DE FONTE RANGEL EIRELI",
+            "valor_total": "R$ 254,787.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 44,
+        "total_gasto": 15719240.02,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU\n\nVencedores:\n\n- DROGARIA SAO PAULO FRANCISCO ERIKY DE SA BRAGA\n\ncom o",
+            "empresa": "FARMÁCIA BOM JESUS",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA BOM JESUS",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA BOM JESUS",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA BOM JESUS",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA BOM JESUS",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU\n\nVencedores:\n\n- DROGARIA SAO PAULO FRANCISCO ERIKY DE SA BRAGA\n\ncom o",
+            "empresa": "FARMÁCIA 1º DE MAIO",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA 1º DE MAIO",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA 1º DE MAIO",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA 1º DE MAIO",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA 1º DE MAIO",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU\n\nVencedores:\n\n- DROGARIA SAO PAULO FRANCISCO ERIKY DE SA BRAGA\n\ncom o",
+            "empresa": "DROGARIA SAO PAULO FRANCISCO ERIKY DE\n\nSA BRAGA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "DROGARIA SAO PAULO FRANCISCO ERIKY DE\n\nSA BRAGA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "DROGARIA SAO PAULO FRANCISCO ERIKY DE\n\nSA BRAGA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "DROGARIA SAO PAULO FRANCISCO ERIKY DE\n\nSA BRAGA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "DROGARIA SAO PAULO FRANCISCO ERIKY DE\n\nSA BRAGA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU\n\nVencedores:\n\n- DROGARIA SAO PAULO FRANCISCO ERIKY DE SA BRAGA\n\ncom o",
+            "empresa": "FARMÁCIA CORAÇÃO DE JESUS MARIA DO\n\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA CORAÇÃO DE JESUS MARIA DO\n\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA CORAÇÃO DE JESUS MARIA DO\n\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA CORAÇÃO DE JESUS MARIA DO\n\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 1,249,540.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\ncontrolado étnicos e genéricos ABCFARMA a cargo de FMSU",
+            "empresa": "FARMÁCIA CORAÇÃO DE JESUS MARIA DO\n\nSOCORRO ADELINO MOURA",
+            "valor_total": "R$ 1,249,540.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 60,
+        "total_gasto": 17403997.529999997,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRESTAÇÃO DE\n\nSERVIÇOS DE CONSERTOS DOS INSTRUMENTOS MUSICAIS\n\nPERTENCENTES A BANDA DE MUSICA MUNICIPAL À\n\nCARGO DA SECRETARIA DE CULTURA, ESPORTE E\n\nTURISMO",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nSUZANY SOBREIRA DE ANDRADE SILVA",
+            "valor_total": "R$ 5,100.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRESTAÇÃO DE\n\nSERVIÇOS DE CONSERTOS DOS INSTRUMENTOS MUSICAIS\n\nPERTENCENTES A BANDA DE MUSICA MUNICIPAL À\n\nCARGO DA SECRETARIA DE CULTURA, ESPORTE E\n\nTURISMO",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nSUZANY SOBREIRA DE ANDRADE SILVA",
+            "valor_total": "R$ 5,100.00"
+          },
+          {
+            "objeto": "EXECUÇÃO DE SISTEMA DE MICROGERAÇÃO\n\nFOTOVOLTAICA CONECTADA À REDE, COM POTÊNCIA\n\nMÍNIMA DE PAINEL DE 85,02 KWP A FIM DE GARANTIR\n\nUMA ESTIMATIVA DE GERAÇÃO MÉDIA MENSAL MÍNIMA\n\nDE 10.500 KWH NO MUNICÍPIO DE UIRAÚNA-PB;\n\nDa justificativa: O presente aditivo tende a aumentar o",
+            "empresa": "NOBREGA & ASSIS SERVIÇOS DE\n\nENGENHARIA LTDA-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 34,
+        "total_gasto": 32297350.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 23,
+        "total_gasto": 13420372.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO PARA TRATAMENTO DO\n\nGLAUCOMA COM FORNECIMENTO DE COLÍRIOS\n\nDIAGNOSTICOS REAVALIAÇÃO (TONOMETRIA,\n\nFUNDOSCOPIA, CAMPIMETRIA) DESTINADOS AOS\n\nPACIENTES DO SUS DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nIUCARA CRISTINA ALVES DE OLIVEIRA",
+            "valor_total": "R$ 53,882.68"
+          },
+          {
+            "objeto": "CONTRATAÇÃO PARA TRATAMENTO DO\n\nGLAUCOMA COM FORNECIMENTO DE COLÍRIOS\n\nDIAGNOSTICOS REAVALIAÇÃO (TONOMETRIA,\n\nFUNDOSCOPIA, CAMPIMETRIA) DESTINADOS AOS\n\nPACIENTES DO SUS DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nIUCARA CRISTINA ALVES DE OLIVEIRA",
+            "valor_total": "R$ 53,882.68"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA PRESTAÇÃO DE FORNECIMENTO DE\n\nELETRODOMÉSTICOS E PORTATEIS DESTINADO A\n\nMATRICULA PREMIADA E IPTU PREMIADO DESTINADO A\n\nPREFEITURA MUNICIPAL DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nJULIO CLOVES BRASIL VIEIRA",
+            "valor_total": "R$ 49,292.12"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA PRESTAÇÃO DE FORNECIMENTO DE\n\nELETRODOMÉSTICOS E PORTATEIS DESTINADO A\n\nMATRICULA PREMIADA E IPTU PREMIADO DESTINADO A\n\nPREFEITURA MUNICIPAL DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nJULIO CLOVES BRASIL VIEIRA",
+            "valor_total": "R$ 49,292.12"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE FORNECIMENTO DE GRAMA ESMERALDA EM TAPETE\n\nDESTINADO A PREFEITURA MUNICIPAL DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLYRA AGROPECUARIA LTDA",
+            "valor_total": "R$ 37,995.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE FORNECIMENTO DE GRAMA ESMERALDA EM TAPETE\n\nDESTINADO A PREFEITURA MUNICIPAL DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLYRA AGROPECUARIA LTDA",
+            "valor_total": "R$ 37,995.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA\n\nPRESTAÇÃO DE SERVIÇO DE PRODUÇÃO E ELABORAÇÃO\n\nDE PROJETOS NA ÁREA DE GESTÃO PÚBLICA E\n\nPRESTAÇÃO DE CONTAS E CONVÊNIOS À CARGO DA\n\nPREFEITURA MUNICIPAL DE UIRAUNA",
+            "empresa": "MACIANA DE AZEVEDO MAIA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 31,
+        "total_gasto": 6474821.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE MÍDIA VISUAL E\n\nSERVIÇO DE SERIGRAFIA DESTINADO A TODAS AS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE UIRAUNA-\n\nPB\n\nOnde tem „Nº",
+            "empresa": "LUCAS ART‟S BRINDES PERSONALIZADOS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 26,
+        "total_gasto": 1352434.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE SOFTWARE ESPECIALIZADO PARA\n\nELABORAÇÃO DE PROJETOS ESTRUTURAIS DE\n\nEDIFICAÇÕES E ENGENHARIAS COMPLEMENTARES\n\nDESTINADO A SECRETARIA DE INFRAESTRUTURA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nMN TECNOLOGIA E TREINAMENTO LTDA",
+            "valor_total": "R$ 16,871.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE SOFTWARE ESPECIALIZADO PARA\n\nELABORAÇÃO DE PROJETOS ESTRUTURAIS DE\n\nEDIFICAÇÕES E ENGENHARIAS COMPLEMENTARES\n\nDESTINADO A SECRETARIA DE INFRAESTRUTURA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nMN TECNOLOGIA E TREINAMENTO LTDA",
+            "valor_total": "R$ 16,871.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 956255.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 5978454.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 257220.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO PARA AQUISIÇÃO DE UMA\n\nMÁQUINA TIPO RETROESCAVADEIRA DESTINADO À\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB",
+            "empresa": "ACM",
+            "valor_total": "R$ 51,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 18,
+        "total_gasto": 3573497.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 1440274.83,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRESTAÇÃO DE\nSERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE\nMICROCOMPUTADORES, HARDWARES, DRIVES,\nCONFIGURAÇÕES, SISTEMAS, PROGRAMAS E REDE DE\nINTERNET, PARA ATENDER AO FUNDO MUNICIPAL DE\nSAÚDE - FMS",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nCARLOS ALBERTO FIGUEIREDO BARBOSA",
+            "valor_total": "R$ 17,525.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRESTAÇÃO DE\nSERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE\nMICROCOMPUTADORES, HARDWARES, DRIVES,\nCONFIGURAÇÕES, SISTEMAS, PROGRAMAS E REDE DE\nINTERNET, PARA ATENDER AO FUNDO MUNICIPAL DE\nSAÚDE - FMS",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nCARLOS ALBERTO FIGUEIREDO BARBOSA",
+            "valor_total": "R$ 17,525.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 214,
+        "num_contratos": 589,
+        "total_gasto": 191832679.55000004
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 35,
+        "total_gasto": 6822082.31,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE SERVIÇO DE\n\nFORNECIMENTO DE GÁS NATURAL GLP DESTINADO A\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB E TODAS AS\n\nSECRETARIAS",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLUTTY COMERCIO DE GAS LTDA",
+            "valor_total": "R$ 54,900.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE SERVIÇO DE\nFORNECIMENTO DE GÁS NATURAL GLP DESTINADO A\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB E TODAS AS\n\nSECRETARIAS",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLUTTY COMERCIO DE GAS LTDA",
+            "valor_total": "R$ 54,900.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRETAÇÃO DE\nSERVIÇO DE ORNAMENTAÇÃO DO „UNAFREVO -\n\nCARNAVAL 2023‟ DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nROMUALDO DE ALMEIDA BRAGA",
+            "valor_total": "R$ 17,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRETAÇÃO DE\n\nSERVIÇO DE ORNAMENTAÇÃO DO „UNAFREVO -\n\nCARNAVAL 2023‟ DO MUNICÍPIO DE UIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nROMUALDO DE ALMEIDA BRAGA",
+            "valor_total": "R$ 17,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRETAÇÃO DE\nSERVIÇO DE APOIO, ORGANIZAÇÃO E ADMINISTRAÇÃO DO\n\n„UNAFREVO - CARNAVAL 2023‟ DO MUNICÍPIO DE\n\nUIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nROMUALDO DE ALMEIDA BRAGA",
+            "valor_total": "R$ 17,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA PRETAÇÃO DE\nSERVIÇO DE APOIO, ORGANIZAÇÃO E ADMINISTRAÇÃO DO\n\n„UNAFREVO - CARNAVAL 2023‟ DO MUNICÍPIO DE\n\nUIRAÚNA",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nROMUALDO DE ALMEIDA BRAGA",
+            "valor_total": "R$ 17,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 24,
+        "total_gasto": 13473846.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 36,
+        "total_gasto": 9622194.25,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA AQUISIÇÃO DE VACINA CONTRA\n\nFEBRE AFTOSA COM FORNECIMENTO PARCELADO PARA A\n\nSECRETARIA DE AGRICULTURA E MEIO AMBIENTE DA\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB PARA ATENDER\n\nAS ATIVIDADES DO PROGRAMA NACIONAL DE\n\nERRADICAÇÃO E PREVENÇÃO DA FEBRE AFTOSA (PNEFA)",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nA CAMPONESA FARMACIA VETERINARIA EIRELI",
+            "valor_total": "R$ 23,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA AQUISIÇÃO DE VACINA CONTRA\n\nFEBRE AFTOSA COM FORNECIMENTO PARCELADO PARA A\n\nSECRETARIA DE AGRICULTURA E MEIO AMBIENTE DA\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB PARA ATENDER\n\nAS ATIVIDADES DO PROGRAMA NACIONAL DE\n\nERRADICAÇÃO E PREVENÇÃO DA FEBRE AFTOSA (PNEFA)",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nA CAMPONESA FARMACIA VETERINARIA EIRELI",
+            "valor_total": "R$ 23,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA\n\nPRESTAÇÃO DE SERVIÇO DE EXAMES DE IMAGENS À\n\nCARGO DO FUNDO MUNICIPAL DE SAÚDE DE UIRAÚNA",
+            "empresa": "GILVAN MOREIRA DUARTE JUNIOR",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\n\nEQUIPAMENTOS HIDRAULICOS E ELETRÍCOS DESTINADOS\n\nAS ATIVIDADES ADMINISTRATIVAS DA SECRETÁRIA DE\n\nINFRAESTRUTURA",
+            "empresa": "D P COMERCIO E SERVIÇOS SPUSENSE EIRELI\n\n– ME",
+            "valor_total": "R$ 15,261.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\n\nEQUIPAMENTOS HIDRAULICOS E ELETRÍCOS DESTINADOS\n\nAS ATIVIDADES ADMINISTRATIVAS DA SECRETÁRIA DE\n\nINFRAESTRUTURA",
+            "empresa": "D P COMERCIO E SERVIÇOS SPUSENSE EIRELI\n\n– ME",
+            "valor_total": "R$ 15,261.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 100,
+        "total_gasto": 52441407.73,
+        "empresas_mensais": [
+          {
+            "objeto": "ATENDER DEMANDA DAS SECRETARIAS E\nÓRGÃOS QUE INTEGRAM A ESTRUTURA ADMINISTRATIVA\nDO MUNICÍPIO DE UIRAÚNA–PB",
+            "empresa": "2L ENGENHARIA E PROJETOS LTDA -\nR$ 461.460,00\n\nUiraúna",
+            "valor_total": "R$ 922,920.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PNEUS E CÂMARAS\nDESTINADO A MANUTENÇÃO DA FROTA VEICULAR DO\nMUNICÍPIO DE UIRAÚNA–PB",
+            "empresa": "FRANCISCO AURIAN RIBEIRO",
+            "valor_total": "R$ 2,759,145.72"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA E\nLICENCIADAS PELA SUDEMA PARA COLETA E\nINCINERAÇÃO DE LIXO HOSPITALAR, PRESTANDO O\nSERVIÇO DIARIAMENTE, E COM COLETAS NAS DIVERSAS\nUNIDADES DE SAÚDE DA ZONA URBANA E RURAL À\nCARGO DO FUNDO MUNICIPAL DE SAÚDE DE UIRAÚNA",
+            "empresa": "TRASH COLETA E INCINERAÇÃO DE LIXO\nHOSPITALAR LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\nAQUISIÇÃO DE SERVIÇOS DE IMPLANTAÇÃO E\nMANUTENÇÃO DE SISTEMA DE RELÓGIO DE PONTO\nELETRÔNICO COM TREINAMENTO DO SOFTWARE\nMEDIANTE A REQUISIÇÃO, INCLUSO TODO E QUALQUER\nATENDIMENTO SOLICITADO COM ATUALIZAÇÕES E\nBACKUPS EM NUVEM",
+            "empresa": "HORA CERTA RELÓGIO DE PONTO COMERCIO E\nSERVIÇO LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\nAQUISIÇÃO DE SERVIÇOS DE IMPLANTAÇÃO E\nMANUTENÇÃO DE SISTEMA DE RELÓGIO DE PONTO\nELETRÔNICO COM TREINAMENTO DO SOFTWARE\nMEDIANTE A REQUISIÇÃO, INCLUSO TODO E QUALQUER\nATENDIMENTO SOLICITADO COM ATUALIZAÇÕES E\nBACKUPS EM NUVEM",
+            "empresa": "R$ 1.000,00, (Mil\nreais)\nDATA: 19/03/2021\n\n1º VALOR MENSAL ADITIVADO: R$ 1.200,00 (Hum mil,\nduzentos reais).\n1º PERCENTUAL DE ADITIVAMENTO: 20%\nDATA: 19/03/2022\n\n2º PERCENTUAL DE ADITIVAMENTO: aproximadamente 07%\n2º VALOR CONTRATUAL MENSAL A SER REAJUSTADO: R$\n1.270,80 (Mil e duzentos setenta reais e oitenta centavos).\nDATA: 19/03/2023\nDATA DA ASSINATURA DO CONTRATO: 19/03/2021\nVIGÊNCIA: 19/03/2022\n1º PRAZO ADITIVADO: 19/03/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 52,
+        "total_gasto": 12630541.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 46,
+        "total_gasto": 18717709.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA LOCAÇÃO DE\nSOFTWARE PARA GERENCIAMENTO DO PROGRAMA „CASA\n\nDO EMPREENDEDOR‟",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nODINILDO QUEIROGA DE SOUSA ME",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA LOCAÇÃO DE\nSOFTWARE PARA GERENCIAMENTO DO PROGRAMA „CASA\nDO EMPREENDEDOR‟",
+            "empresa": "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nODINILDO QUEIROGA DE SOUSA ME",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 67,
+        "total_gasto": 13960996.129999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 69,
+        "total_gasto": 15849766.82,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO DA\nCONSTRUÇÃO CIVIL DESTINADO A EDIFICAÇÃO DO\nCENTRO DE REABILITAÇÃO MULTIPROFISSIONAL DE\nUIRAÚNA–PB",
+            "empresa": "M F A CAVALCANTI\nENGENHARIA",
+            "valor_total": "R$ 455,302.16"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 43,
+        "total_gasto": 7451270.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 21,
+        "num_contratos": 39,
+        "total_gasto": 27712206.079999994,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 68,
+        "total_gasto": 11710383.04,
+        "empresas_mensais": [
+          {
+            "objeto": "Chamamento Público para contratação de empresa\nespecializada para prestar os serviços Laboratoriais na especialidade\nem Analises Clínicas, para atender as necessidades diárias dos\nusuários do SUS da Secretaria de Saúde do Município de Uiraúna/PB",
+            "empresa": "ESTRELA DIAGNOSTIC\nLABORATORIO LTDA",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "Chamamento Público para contratação de empresa\nespecializada para prestar os serviços Laboratoriais na especialidade\nem Analises Clínicas, para atender as necessidades diárias dos\nusuários do SUS da Secretaria de Saúde do Município de Uiraúna/PB",
+            "empresa": "ESTRELA DIAGNOSTIC\nLABORATORIO LTDA",
+            "valor_total": "R$ 800,000.00"
+          },
+          {
+            "objeto": "Contratação Direta por Dispensa de Licitação para Serviço\nde Abastecimento de Água para Consumo Humano através de Carro\nPipa, considerando Situação de Emergência devido à Estiagem do\nMunicípio de Uiraúna",
+            "empresa": "JOSÉ GILVAN ALENCAR FERNANDES",
+            "valor_total": "R$ 38,800.00"
+          },
+          {
+            "objeto": "Contratação Direta por Dispensa de Licitação para Serviço\nde Abastecimento de Água para Consumo Humano através de Carro\nPipa, considerando Situação de Emergência devido à Estiagem do\nMunicípio de Uiraúna",
+            "empresa": "JOSÉ GILVAN ALENCAR FERNANDES",
+            "valor_total": "R$ 38,800.00"
+          },
+          {
+            "objeto": "Contratação Direta por Dispensa de Licitação para Serviço\nde Abastecimento de Água para Consumo Humano através de Carro\nPipa, considerando Situação de Emergência devido à Estiagem do\nMunicípio de Uiraúna",
+            "empresa": "FRANCISCO DORIAN FERREIRA\nFONSECA",
+            "valor_total": "R$ 38,800.00"
+          },
+          {
+            "objeto": "Contratação Direta por Dispensa de Licitação para Serviço\nde Abastecimento de Água para Consumo Humano através de Carro\nPipa, considerando Situação de Emergência devido à Estiagem do\nMunicípio de Uiraúna",
+            "empresa": "FRANCISCO DORIAN FERREIRA\nFONSECA",
+            "valor_total": "R$ 38,800.00"
+          },
+          {
+            "objeto": "ADESÃO DE ATA PARA REGISTRO DE PREÇOS\nPARA FUTURA E EVENTUAL AQUISIÇÃO DE ARMÁRIOS,\nEXPOSITORES E ESTANTES EM AÇO, CONFORME TERMO\nDE REFERÊNCIA ANEXO I DO EDITAL ORIUNDO DA ATA DE\nREGISTRO DE PREÇO Nº 033/2023",
+            "empresa": "WTEC MOVEIS E EQUIPAMENTOS\nTECNICOS LTDA",
+            "valor_total": "R$ 315,750.00"
+          },
+          {
+            "objeto": "ADESÃO DE ATA PARA REGISTRO DE PREÇOS\nPARA FUTURA E EVENTUAL AQUISIÇÃO DE ARMÁRIOS,\nEXPOSITORES E ESTANTES EM AÇO, CONFORME TERMO\nDE REFERÊNCIA ANEXO I DO EDITAL ORIUNDO DA ATA DE\nREGISTRO DE PREÇO Nº 033/2023",
+            "empresa": "WTEC MOVEIS E EQUIPAMENTOS\nTECNICOS LTDA",
+            "valor_total": "R$ 315,750.00"
+          },
+          {
+            "objeto": "ADESÃO DE ATA PARA REGISTRO DE PREÇOS\nPARA FUTURA E EVENTUAL FORNECIEMNTO DE MOVEIS\nESCOLARES PARA ATENDER FUTURAS DEMANDAS,\nCONFORME TERMO DE REFERÊNCIA ANEXO I DO EDITAL\nORIUNDO DA ATA DE REGISTRO DE PREÇO N° 0216/2023",
+            "empresa": "QUATRO PASSOS\nCOMERCIO DE MOVEIS LTDA",
+            "valor_total": "R$ 347,000.00"
+          },
+          {
+            "objeto": "ADESÃO DE ATA PARA REGISTRO DE PREÇOS\nPARA FUTURA E EVENTUAL FORNECIEMNTO DE MOVEIS\nESCOLARES PARA ATENDER FUTURAS DEMANDAS,\nCONFORME TERMO DE REFERÊNCIA ANEXO I DO EDITAL\nORIUNDO DA ATA DE REGISTRO DE PREÇO N° 0216/2023",
+            "empresa": "QUATRO PASSOS\nCOMERCIO DE MOVEIS LTDA",
+            "valor_total": "R$ 347,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\nCIVIL CONSTRUÇÃO DE PONTO DE APOIO ÂNCORA NA\nCOMUNIDADE TIGRE ZONA RURAL DE UIRAÚNA PRAZO\nADITIVADO POR 06 (Seis) meses - PERIODO DE VIGÊNCIA\n28/06/2024\nFundamentação legal/; art",
+            "empresa": "FFJ CONSTRUTORA LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA O SERVIÇO DE\nASSESSORIA E EXECUÇÃO NO APOIO DAS LICITAÇÕES E\nCONTRATOS NESTE MUNICIPIO, PARA O EXERCICIO DE\n2024",
+            "empresa": "49.375.422\nFLAVIANO CLEBSON ARAUJO",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS TECNICOS CONTABEIS DE NOTÓRIA\nESPECIALIZAÇÃO PARA ATENDER AS NECESSIDADES DA\nCONTABILIDADE DO FUNDO MUNICIPAL DE SAÚDE E DA\nPREFEIRURA DESTE MUNICIPIO, PARA O EXERCICIO 2024",
+            "empresa": "JR CONTABILIDADE PÚBLICA\nEIRELI",
+            "valor_total": "R$ 75,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nCONSULTORIA ESPECIALIZADA NA ÁREA DA EDUCAÇÃO\nPLANO DE AÇÕES ARTICULADAS, APOIO TÉCNICO PARA\nOS CONSELHOS ESCOLARES, ANÁLISE DAS PRESTAÇÕES\nDE CONTAS, APOIO TÉCNICO NA APLICAÇÃO DOS\nRECURSOS FINANCEIROS DESTINADOS A REDE MUNICIPAL\nDE EDUCAÇÃO A EXEMPLO FUNDEB, PNATE, PNAE, Q.S.E,\nCONVÊNIOS FEDERAIS, CONVÊNIOS ESTADUAIS E APOIO\nNOS SISTEMAS E PROGRAMAS DO MEC/FNDE NESTE\nMUNICIPIO, PARA O EXERCICIO 2024",
+            "empresa": "53.041.773\nMISAEL CARDOSO DE LIMA",
+            "valor_total": "R$ 32,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE FOGOS DE ARTIFÍCIOS, CONFORME CONDIÇÕES,\nQUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE\nEDITAL E SEUS ANEXOS",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Salgado de São Felix e: CT Nº 00108/2023 -\nAdemir Lourenco de Amorim",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ARTISTAS PARA PROMOÇÃO\nDE SHOWS ARTÍSTICOS DA: RANNIERY GOMES; VIVI LIMA\nE THARSILA BARROS, NO EVENTO TRADICIONAL DAS\nFESTIVIDADES DE \"SANTOS REIS\" NO DISTRITO DE DOIS\nRIACHOS NOS DIAS 05 E 06 DE JANEIRO DE 2024, EM PRAÇA\nPÚBLICA NESTE MUNICÍPIO",
+            "empresa": "L. P. DA\nSILVA AUTOMACAO",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ARTISTAS PARA PROMOÇÃO\nDE SHOWS ARTÍSTICOS DA: RANNIERY GOMES; VIVI LIMA\nE THARSILA BARROS, NO EVENTO TRADICIONAL DAS\nFESTIVIDADES DE \"SANTOS REIS\" NO DISTRITO DE DOIS\nRIACHOS NOS DIAS 05 E 06 DE JANEIRO DE 2024, EM PRAÇA\nPÚBLICA NESTE MUNICÍPIO",
+            "empresa": "CT Nº 00172/2023 - 28.12.23 - D & T PRODUCOES E\nEVENTOS LTDA",
+            "valor_total": "R$ 80,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 21,
+        "num_contratos": 28,
+        "total_gasto": 6644873.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 225,
+        "num_contratos": 446,
+        "total_gasto": 164220020.83
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 19,
+        "total_gasto": 2266590.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA EXECUTAR OS SERVIÇOS DE PAVIMENTAÇÃO\n\nEM ESTRADAS VICINAIS DO MUNICÍPIO DE UIRAÚNA - PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Uirauna e: CT Nº\n\n00066/2023 - Motiva Construcoes e Servicos Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\n\nespecializado na área de Contabilidade Pública, para função de\n\nContabilista à cargo da Prefeitura Municipal de UIRAÚNA",
+            "empresa": "MARCOS OLIVEIRA\n\nCONTABILIDADE CONSULTORIA E ASSESSORIA LTDA",
+            "valor_total": "R$ 336,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnica\n\nespecializado na área de Contabilidade Pública, para função de\n\nContabilista à cargo da Prefeitura Municipal de UIRAÚNA",
+            "empresa": "MARCOS OLIVEIRA\n\nCONTABILIDADE CONSULTORIA E ASSESSORIA LTDA",
+            "valor_total": "R$ 336,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nELABORAÇÃO DE PROJETOS DE ARQUITETURA,\n\nURBANISMO ENGENHARIA E LEVANTAMENTO\n\nTOPOGRÁFICO PARA ESTE MUNICÍPIO",
+            "empresa": "CLAUDINEIA LEITAO MARTINS\n\nSATIRO",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 102,
+        "total_gasto": 25285731.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para ATENDIMENTO COM\n\nTERAPIAS HOLISTICAS em atendimento à prestação de serviço de\n\nimplantação PICS Práticas Integrativas e Complementares em Saúde\n\ndo Município de Uiraúna–PB",
+            "empresa": "53.499.855 WILCA DE\n\nLIMA SA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para\n\nATENDIMENTO COM TERAPIAS HOLISTICAS em atendimento\n\nà prestação de serviço de implantação PICS Práticas Integrativas e\n\nComplementares em Saúde do Município de Uiraúna–PB",
+            "empresa": "53.499.855 WILCA DE\n\nLIMA SA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO\n\nDIRETA PARA AQUISIÇÃO DE MATERIAIS E INSUMOS\n\nRADIOLÓGICOS DESTINADOS AO FUNDO MUNICIPAL DE\n\nSAÚDE DE UIRAÚNA-PB",
+            "empresa": "10.212.250 W. S COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 103,827.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\n\nMATERIAIS E INSUMOS RADIOLÓGICOS DESTINADOS AO\n\nFUNDO MUNICIPAL DE SAÚDE DE UIRAÚNA-PB",
+            "empresa": "10.212.250 W. S COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 103,827.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 51,
+        "total_gasto": 19655342.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 23,
+        "num_contratos": 40,
+        "total_gasto": 5783850.550000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 15,
+        "total_gasto": 11516282.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 18,
+        "total_gasto": 7867474.91,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE REGISTRO DE PREÇO PARA\nSERVIÇO DE LOCAÇÃO DE SOFTWARE PARA AUXILIAR AS\n\nATIVIDADES ADMINISTRATIVA DA PREFEITURA\n\nMUNICIPAL DE UIRAÚNA",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE KIT'S NATALIDADE PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE ASSISTÊNCIA SOCIAL DESTE MUNICIPIO",
+            "empresa": "AGS COMERCIO E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 12,583.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE KIT'S NATALIDADE PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE ASSISTÊNCIA SOCIAL DESTE MUNICIPIO",
+            "empresa": "AMA\n\nCOMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 12,583.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 31,
+        "total_gasto": 6770233.81,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇO PARA REFORMA DE GALERIA PLUVIAL NO\n\nMUNICÍPIO DE SALGADO DE SÃO FÉLIX",
+            "empresa": "R M G CONSTRUCOES E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 307,478.17"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 61,
+        "total_gasto": 32241416.999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 17,
+        "total_gasto": 1395218.1099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 10439193.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 41,
+        "total_gasto": 34353812.78,
+        "empresas_mensais": [
+          {
+            "objeto": "Estruturação das Ações e Serviço Públicos de Saúde\n\npropostas nº 10435.066000/1230–15 (equipamento informática);\n\n10435.066000/1230–16 (Aparelho de Raios X – Panorâmico)",
+            "empresa": "JOSE EDISMAR BEZERRA",
+            "valor_total": "R$ 484,917.72"
+          },
+          {
+            "objeto": "Estruturação das Ações e Serviço Públicos de Saúde\n\npropostas nº 10435.066000/1230–15 (equipamento informática);\n\n10435.066000/1230–16 (Aparelho de Raios X – Panorâmico)",
+            "empresa": "JOSE EDISMAR BEZERRA",
+            "valor_total": "R$ 484,917.72"
+          },
+          {
+            "objeto": "Estruturação das Ações e Serviço Públicos de Saúde\n\npropostas nº 10435.066000/1230–15 (equipamento informática);\n\n10435.066000/1230–16 (Aparelho de Raios X – Panorâmico)",
+            "empresa": "SCIENTIFIC DENTAL\n\nMEDICAL LTDA",
+            "valor_total": "R$ 484,917.72"
+          },
+          {
+            "objeto": "Estruturação das Ações e Serviço Públicos de Saúde\n\npropostas nº 10435.066000/1230–15 (equipamento informática);\n\n10435.066000/1230–16 (Aparelho de Raios X – Panorâmico)",
+            "empresa": "GWC INDUSTRIA, IMPORTACAO E DISTRIBUICAO DE\n\nELETRONICOS LTDA",
+            "valor_total": "R$ 484,917.72"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

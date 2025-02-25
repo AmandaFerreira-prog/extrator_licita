@@ -1,0 +1,193 @@
+{
+  "id": "lagoa-de-dentro",
+  "nome": "Lagoa de Dentro",
+  "detalhe": {
+    "2023": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 33,
+        "num_contratos": 49,
+        "total_gasto": 8661140.93
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 203119.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de um veículo tipo ambulância para simples\n\nremoção, para atender as necessidades da Secretaria de Saúde na\n\nremoção de pacientes para tratamento de saúde em hospitais de\n\ncidades da região",
+            "empresa": "HC LOCAÇÃO DE VEÍCULOS LTDA",
+            "valor_total": "R$ 86,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 2049202.73,
+        "empresas_mensais": [
+          {
+            "objeto": "promover a alteração (reajuste) dos",
+            "empresa": "s, pactuados entre a administração pública e a",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 21,
+        "total_gasto": 1178816.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 1633388.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 17,
+        "total_gasto": 3596613.32,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais de expediente, para\natender as necessidades das secretarias e Fundos Municipais",
+            "empresa": "CN COMERCIAL E REPRESENTAÇÃO LTDA",
+            "valor_total": "R$ 443,564.05"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na área de\nEngenharia Civil, para prestação de serviços de elaboração de projetos\nreferentes a Construção da UBS Tipo II, localizada na Rua Manoel\nGonçalves, Bairro Novo, na cidade de Lagoa de Dentro",
+            "empresa": "MDK SERVICOS DE ENGENHARIA LTDA",
+            "valor_total": "R$ 32,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 2063690.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 99,
+        "num_contratos": 121,
+        "total_gasto": 24009139.190000005
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 721039.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 27,
+        "total_gasto": 5313870.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 21,
+        "total_gasto": 2760134.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 2687402.5900000003,
+        "empresas_mensais": [
+          {
+            "objeto": "alterar a planilha original do contrato,\n\ncom acréscimo no",
+            "empresa": ".\n\nPublicado no Diário Oficial dos Municípios do Estado da Paraíba do\n\ndia 02/05/2024",
+            "valor_total": "R$ 263,490.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 1520395.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 5325461.930000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1718499.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Medicamentos e Materiais\nHospitalares, para atender as necessidades do Fundo Municipal de\n\nSaúde de Lagoa de Dentro",
+            "empresa": "ABCD DISTRIBUIDORA DE LIVROS LTDA",
+            "valor_total": "R$ 762,277.58"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 247270.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 656355.32,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de mobiliários, para escola Tempo Integral do\n\nmunicípio de Lagoa de Dentro",
+            "empresa": "BOSS COMÉRCIO E PROJETOS\n\nEDUCACIONAIS LTDA",
+            "valor_total": "R$ 57,430.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 985071.19,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Projeto Pedagógico, para atender as\n\nnecessidades das escolas do Município de Lagoa de Dentro",
+            "empresa": "PAE EDITORA E DISTRIBUIDORA DE\n\nLIVROS LTDA",
+            "valor_total": "R$ 358,670.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 9948.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

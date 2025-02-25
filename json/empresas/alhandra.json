@@ -1,0 +1,1517 @@
+{
+  "id": "alhandra",
+  "nome": "Alhandra",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 234254.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico PEDRO\nPAULO E BANDA constituída de um zabumbeiro e um trianguista",
+            "empresa": "PEDRO PABLO DIAS DE SOUZA -\nR$ 22.000,00\n\nAlhandra",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE TERRENO MEDINDO 10 METROS\nNA FRENTE E FUNDOS POR 22 METROS DE COMPRIMENTO\nDE AMBOS OS LADOS",
+            "empresa": "MANUEL PEREIRA DE ARAUJO\nJUNIOR",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Apresentação das Bandas VICTOR SANTOS e CICINHO\nLIMA, no dia 28 de junho de 2014",
+            "empresa": "ROSILENE CANDIDO VIEIRA -\nME",
+            "valor_total": "R$ 43,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 604006.0
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 80000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 277752.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 140000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 65,
+        "num_contratos": 10,
+        "total_gasto": 478958.04
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 67300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 126700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 45300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 13300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 14358.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 48,
+        "num_contratos": 17,
+        "total_gasto": 1465898.8499999999
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 38400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 736276.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 152198.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 167970.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 12800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 178000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 120253.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 156,
+        "num_contratos": 88,
+        "total_gasto": 10771728.29
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 2551555.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 6,
+        "total_gasto": 1910429.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 360052.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 10,
+        "total_gasto": 836734.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 1280659.56,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de empresa para prestar serviços de assessoria e\n\nconsultoria na elaboração de projetos com vistas à captação de\n\nrecursos federais e estaduais para o Município e o acompanhamento e\n\norientação técnica na gestão dos respectivos convênios e contratos\n\noriundos destes recursos",
+            "empresa": "ASSP\n\nASSESSORIA E PLANEJAMENTO LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "contratação de empresa para prestar serviços de assessoria e\n\nconsultoria na elaboração de projetos com vistas à captação de\n\nrecursos federais e estaduais para o Município e o acompanhamento e\n\norientação técnica na gestão dos respectivos convênios e contratos\n\noriundos destes recursos",
+            "empresa": "SME SERVIÇOS ESPECIALIZADOS\n\nLTDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 1001802.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 40,
+        "total_gasto": 2792934.4499999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 7920.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de relógios de ponto biométrico sem impressora\nde recibo, bem como na prestação dos serviços de instalação,\nconfiguração e adequação dos equipamentos com software de sistema\nde controle de acesso e registro de ponto eletrônico destinados a\nSecretaria de Saúde e PSF's deste Município.",
+            "empresa": "VLADMIR DE MATOS LEITÃO",
+            "valor_total": "R$ 7,920.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 29640.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 204816.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 152,
+        "num_contratos": 185,
+        "total_gasto": 20070632.900000002
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 2319060.5500000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Materiais de Informática para melhor\nfuncionamento da Secretaria de Educação deste Município",
+            "empresa": "EMPRESA SULAMERICANA DE\nTECNOLOGIA INDUSTRIA E COMERCIO EIRE",
+            "valor_total": "R$ 7,699.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 19,
+        "total_gasto": 3764648.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 27,
+        "total_gasto": 4247827.359999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 3730921.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 37,
+        "total_gasto": 2605962.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 35,
+        "total_gasto": 1087821.6400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXECUÇÃO DE\nESTRUTURA EM PÓRTICO NA ENTRADA DO MUNICIPÍO.",
+            "empresa": "JR ANDRADE CONSTRUÇOES E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 300,004.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 623888.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 1217302.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 201664.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 66720.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 770152.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 161,
+        "num_contratos": 168,
+        "total_gasto": 20896374.939999998
+      },
+      "2": {
+        "num_diarios": 19,
+        "num_contratos": 18,
+        "total_gasto": 6930596.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 1415483.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 32,
+        "total_gasto": 2003105.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 54,
+        "total_gasto": 3734826.7199999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "AMS TRANSPORTES LTDA",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "ANDRE DA SILVA DE\nPONTES",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00125/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00126/2019 -\n30.05.19",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT\nNº 00127/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00128/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00129/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00130/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00131/2019 -\n30.05.19",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT\nNº 00132/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00133/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00134/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00135/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00136/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00137/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00138/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00139/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00140/2019 -\n30.05.19",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00141/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00142/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00143/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00144/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00145/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00146/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00147/2019 -\n30.05.19",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00148/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00149/2019 -\n30.05.19",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00150/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00151/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00152/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00153/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00154/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00155/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº\n00156/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "Locação de Veículos Destinados a Transportar Estudantes\npara as Escolas deste Município",
+            "empresa": "CT Nº 00157/2019",
+            "valor_total": "R$ 656,460.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\nPARA CONSTRUÇÃO DE UNIDADE ESCOLAR COM 06 SALAS\nDE AULA, NO DISTRITO DE MATA REDONDA",
+            "empresa": "CONSTRUTORA\nANTENAS EIRELI",
+            "valor_total": "R$ 1,093,377.93"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 1441040.99,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição com instalação de vidros, esquadrias em\n\nalumínio, persianas, divisórias e outros Conforme Termo de\n\nreferência",
+            "empresa": "COMERCIAL DE PERSIANAS HD EIRELI",
+            "valor_total": "R$ 114,375.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 632837.97,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Show Artistico no evento alusivo a\nFestividade da Padroeira de Nossa Senhora da Assunção em nossa\ncidade a se realizar no dia 16 de agosto de 2019",
+            "empresa": "JORDÃO\nSOUZA DE OLIVEIRA G3 PROMOÇÕES E EVENTOS",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 1854024.3299999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 1673874.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 440433.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 985668.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 146,
+        "num_contratos": 111,
+        "total_gasto": 12330375.55
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 3415413.3,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE URNAS FUNERÁRIAS PARA ESTE\nMUNICIPIO",
+            "empresa": "PORFIRIO CORREIO DE QUEIROZ",
+            "valor_total": "R$ 134,950.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\nFORNECIMENTO DE KIT BEBÊ, BERÇOS E COLCHÕES PARA\nATENDER AS NECESSIDADES DA PREFEITURA",
+            "empresa": "WAGNER\nCARTAXO MARQUES EIRELI",
+            "valor_total": "R$ 210,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 29,
+        "total_gasto": 4270725.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 1408060.0899999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nTRANSPORTE, COLETA E DESTINAÇÃO DO LIXO\n\nINFECTANTE DO MUNICIPIO DE ALHANDRA",
+            "empresa": "WASTE COLETA DE RESIDUOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 51,480.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOVÉIS E PLANEJADOS PARA O\n\nHOSPITAL MUNICIPAL",
+            "empresa": "GLOBAL SOLUCOES EMPRESARIAIS EIRELI",
+            "valor_total": "R$ 48,650.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 349657.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 232698.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 16,
+        "total_gasto": 281896.02999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamento Hospitalar/ Material\npermanente nº da Proposta: 11.490.408000/1160-03(relativo aos itens\nremanescentes do Pregão Presencial nº 014/2019)FUNDAMENTO\nLEGAL: Pregão Eletrônico nº 04/2020",
+            "empresa": "Luat\n\nComercio de Compressores e Peças Eireli",
+            "valor_total": "R$ 53,973.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamento Hospitalar/ Material\npermanente nº da Proposta: 11.490.408000/1160-03(relativo aos itens\nremanescentes do Pregão Presencial nº 014/2019)FUNDAMENTO\nLEGAL: Pregão Eletrônico nº 04/2020",
+            "empresa": "Betaniamed Comercial Eireli",
+            "valor_total": "R$ 53,973.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamento Hospitalar/ Material\npermanente nº da Proposta: 11.490.408000/1160-03(relativo aos itens\nremanescentes do Pregão Presencial nº 014/2019)FUNDAMENTO\nLEGAL: Pregão Eletrônico nº 04/2020",
+            "empresa": "GDC da Silva Costa &\nCosta LTDA",
+            "valor_total": "R$ 53,973.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamento Hospitalar/ Material\npermanente nº da Proposta: 11.490.408000/1160-03(relativo aos itens\nremanescentes do Pregão Presencial nº 014/2019)FUNDAMENTO\nLEGAL: Pregão Eletrônico nº 04/2020",
+            "empresa": "K.C.R.S.\nComercio de equipamentos Eireli",
+            "valor_total": "R$ 53,973.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 270270.94999999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 830569.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 25804.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 259612.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 5,
+        "total_gasto": 1663740.52,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA LOCAÇÃO DE VEÍCULO COM CONDUTOR TIPO\n\nCAMINHÃO CARROCERIA ABERTA, CAÇAMBA,\n\nCOMPACTADOR, TRATOR DE PNEU E RETROESCAVADEIRA\n\nPARA COLETA DE RESÍDUOS (LIXO) DOMICILIARES E\n\nCOMERCIAIS",
+            "empresa": "GA\n\nGERENCIAMENTO AMBIENTAL LTDA",
+            "valor_total": "R$ 546,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS, DE FORMA\n\nFRACIONADA, PARA DISTRIBUIÇÃO GRATUITA A\n\nPOPULAÇÃO CARENTE DO MUNICÍPIO, ATRAVÉS DA\n\nSECRETARIA DE SAÚDE",
+            "empresa": "MEDIAL SAUDE DISTRIBUIDORA DE PRODUTOS MEDICOS\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 215,702.16"
+          },
+          {
+            "objeto": "Aquisiçao de materiais hospitalares, de forma fracionada,\n\npara atendimento a população carente e usuária do SUS deste\n\nmunicípio, através da secretaria de saúde",
+            "empresa": "MEDIAL\n\nSAUDE DISTRIBUIDORA DE PRODUTOS MEDICOS\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 232,947.16"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios perecíveis e não\n\nperecíveis, de forma fracionada, destinados ao consumo de usuários\n\nda secretaria de bem estar social e da secretaria de saúde",
+            "empresa": "MEGA MASTER\n\nCOMERCIAL DE ALIMENTOS EIRELI",
+            "valor_total": "R$ 223,591.20"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica especializada no serviço de\n\nlocação de veículos, destinados à atender diversas secretarias do\n\nmunicípio",
+            "empresa": "MARIA\n\nROBEVANIA MACENA",
+            "valor_total": "R$ 445,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 220,
+        "num_contratos": 141,
+        "total_gasto": 31742795.489999995
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 17,
+        "total_gasto": 2812198.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 4450824.109999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação dos\nserviços de manutenção preventiva e corretiva de veículos pesados\npertencentes a frota deste Município, conforme condições,\nquantidades e exigências estabelecidas",
+            "empresa": "SERVCLIMA COMERCIO E SERVICOS\nLTDA",
+            "valor_total": "R$ 80,140.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 1904898.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 3561106.8800000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 3,
+        "total_gasto": 371481.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 23,
+        "num_contratos": 13,
+        "total_gasto": 6084965.399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 11,
+        "total_gasto": 3355860.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 14,
+        "total_gasto": 1661929.96,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de telhas de fibra de cimento para atender as\n\ndemandas dos prédios públicos deste município",
+            "empresa": "V & V LOCAÇÕES, SERVIÇOS E\n\nCOMÉRCIO EIRELI",
+            "valor_total": "R$ 271,890.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 1372677.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 19,
+        "num_contratos": 5,
+        "total_gasto": 3242174.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 12,
+        "total_gasto": 1260936.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 2,
+        "total_gasto": 150000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 211,
+        "num_contratos": 164,
+        "total_gasto": 61625303.28
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 6957915.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 26,
+        "total_gasto": 10230836.280000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Compra de terrenos para a construção de USF tipo 2",
+            "empresa": "JOSE MESSIAS ANJOS SILVA",
+            "valor_total": "R$ 165,000.00"
+          },
+          {
+            "objeto": "Compra de terrenos para a construção de USF tipo 2",
+            "empresa": "JORGE MANUEL\n\nALMAS PAIS",
+            "valor_total": "R$ 165,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE DOMISSANITARIOS",
+            "empresa": "MAIS ESTOQUE\n\nCOMERCIO E DISTRIBUIDORA EIRELI",
+            "valor_total": "R$ 185,522.60"
+          },
+          {
+            "objeto": "O registro de preços para aquisição futura e parcelada de\n\nkits escolares, destinados a secretaria municipal de educação da\n\nPrefeitura Municipal de Alhandra/PB",
+            "empresa": "S.F.S. COMERCIO E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 229,500.00"
+          },
+          {
+            "objeto": "Aquisição de materiais expediente",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE MERIDIONAL\n\nLTDA",
+            "valor_total": "R$ 433,724.24"
+          },
+          {
+            "objeto": "Aquisição de materiais expediente",
+            "empresa": "S.F.S.\n\nCOMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 433,724.24"
+          },
+          {
+            "objeto": "Aquisição de materiais expediente",
+            "empresa": "LUIS EDUARDO PINHO TROCOLI",
+            "valor_total": "R$ 433,724.24"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 21,
+        "total_gasto": 4372344.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de uma ambulância de suporte básico – Tipo B",
+            "empresa": "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA",
+            "valor_total": "R$ 340,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais médico hospitalares",
+            "empresa": "AP\n\nDISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 472,577.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 3932714.6899999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 20,
+        "num_contratos": 5,
+        "total_gasto": 908344.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 14,
+        "total_gasto": 7274014.869999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 11195727.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 1074818.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "ALEXANDRE R BARBOSA DA SILVA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "ARGOS LTDA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "COMERCIAL NORTE NORDESTE LTDA\n\n- R$ 7.240,00; CT Nº 00132/2022 - 09.09.22 - COPILAR\n\nCOMERCIO E SERVICOS EIRELI",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "GM COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "MAVYG COMERCIO DE\n\nMOVEIS LTDA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "S.F.S. COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "VIVA DISTRIBUIDORA DE PRODUTOS\n\nLTDA",
+            "valor_total": "R$ 134,918.50"
+          },
+          {
+            "objeto": "Registro de preços para a aquisição de materiais\n\npermanentes em geral, tais como: móveis, eletroeletrônicos, portáteis\n\ne outros para atender a demanda de todas as Secretarias Municipais",
+            "empresa": "WW\n\nCOMERCIAL EIRELI",
+            "valor_total": "R$ 134,918.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 10766752.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 3333089.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 20,
+        "num_contratos": 8,
+        "total_gasto": 1428746.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de fogos de artifício destinado à realização de\nshow pirotécnico, durante os eventos de Natal e Ano Novo",
+            "empresa": "JOSE DA SILVA",
+            "valor_total": "R$ 159,386.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 4582546.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de fogos de artifício destinado à realização de\nshow pirotécnico",
+            "empresa": "CT Nº 00166/2022",
+            "valor_total": "R$ 69,588.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Materiais Médicos e de\nFisioterapia",
+            "empresa": "HOSPDENTE\nCOMERCIO DE PRODUTOS ODONTOMEDICOS LTDA",
+            "valor_total": "R$ 36,780.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Materiais Médicos e de\nFisioterapia",
+            "empresa": "ROYAL ATACADISTA E\nCOMERCIO EIRELI",
+            "valor_total": "R$ 36,780.00"
+          },
+          {
+            "objeto": "Adesão à ATA DE REGISTRO DE PREÇOS Nº033/2022,\ndecorrente do Pregão Eletrônico Nº 006/2022, realizado pela\nPREFEITURA MUNICIPAL DE SURUBIM/PE, que objetiva a\naquisição de materiais odontológicos",
+            "empresa": "PROMEDI\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 203,017.02"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 216,
+        "num_contratos": 219,
+        "total_gasto": 45098403.2
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 11612537.239999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peixes inteiros congelados destinados à\n\ndoação, através da Secretaria de Assistência Social, Cidadania e\n\nHabitação",
+            "empresa": "IVANILDO ARAUJO\n\nDA CRUZ",
+            "valor_total": "R$ 365,000.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\n\ne do Empreendedor Familiar Rural para o atendimento à alimentação\nescolar",
+            "empresa": "COOPERATIVA DOS PRODUTORES, DE\n\nGERACAO DE ENERGIA, DE DESENVOLVIMENTO E DA\nAGRIC",
+            "valor_total": "R$ 663,858.49"
+          },
+          {
+            "objeto": "Aquisição de Bombas submersas e Materiais Correlatos",
+            "empresa": "CASA NOVA MATERIAL DE\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 188,514.45"
+          },
+          {
+            "objeto": "Aquisição de materiais expediente, para consumo próprio,\ndestinado ao atendimento da demanda de Aquisição de materiais\n\nexpediente, para consumo próprio",
+            "empresa": "S.F.S. COMERCIO E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 213,025.45"
+          },
+          {
+            "objeto": "Aquisição de utensílios domésticos para a cozinha\n\ncomunitária do município de Alhandra",
+            "empresa": "NOVA CONQUISTA -\n\nCOMERCIO DE EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 3,600.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e equipamentos de construção e\n\nelétricos para atender as secretarias do município",
+            "empresa": "CASA NOVA MATERIAL DE\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 233,157.00"
+          },
+          {
+            "objeto": "Aquisição de Suplementos Alimentares e Dietas Especiais\n\npara atender as demandas da Secretaria Municipal de Saúde do\n\nMunicípio de Alhandra/PB",
+            "empresa": "CT Nº 00033/2023 - 13.02.23 até 29.12.23 -\n\nTECNOCENTER MATERIAIS MEDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 218,073.70"
+          },
+          {
+            "objeto": "Aquisição de Suplementos Alimentares e Dietas Especiais\n\npara atender as demandas da Secretaria Municipal de Saúde do\n\nMunicípio de Alhandra/PB",
+            "empresa": "CT Nº 00034/2023",
+            "valor_total": "R$ 218,073.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 22,
+        "num_contratos": 11,
+        "total_gasto": 3372376.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 42,
+        "total_gasto": 3867491.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 32,
+        "total_gasto": 8875876.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 24,
+        "total_gasto": 705610.7000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 905000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do show da banda Faz a Farra, banda artística,\nconsagrado pela crítica especializada e pela opinião pública, para\napresentação musical no dia 13/08/2023, neste município, a se realizar\n\nna festividade de Nossa Senhora da Assunção",
+            "empresa": "ASSOCIACAO CULTURAL DE GOIANA E REGIAO",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação do show da cantora Priscila Senna, profissional\n\nartística, consagrado pela crítica especializada e pela opinião pública,\npara apresentação musical no dia 12/08/2023, neste município, a se\nrealizar na festividade de Nossa Senhora da Assunção",
+            "empresa": "PRISCILA SENNA GRAVACOES E\n\nEDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "Registro de preço para locação de 1 (um) gerador, para\natender as necessidades do Hospital Municipal",
+            "empresa": "DENISE MOURA DO\n\nNASCIMENTO",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 11,
+        "total_gasto": 844401.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 6460028.829999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 13,
+        "total_gasto": 1120112.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 18,
+        "total_gasto": 1169766.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 1582655.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 22,
+        "num_contratos": 30,
+        "total_gasto": 4097331.0599999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de sementes de milho para doação aos\n\nagricultores do Município",
+            "empresa": "DELTA COMERCIAL E SERVICOS LTDA",
+            "valor_total": "R$ 73,017.00"
+          },
+          {
+            "objeto": "Aquisição de combustíveis (Gasolina Comum, Etanol, Óleo\n\nDiesel S500 e Óleo Diesel S10)",
+            "empresa": "POSTO CIDADE LTDA",
+            "valor_total": "R$ 807,428.37"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 208,
+        "num_contratos": 240,
+        "total_gasto": 52297165.50999999
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 37,
+        "total_gasto": 8706619.440000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 2916598.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 13,
+        "total_gasto": 3970225.53,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do Show do Cantor JAPÃOZIN e banda para\n\napresentação musical no dia 24 de abril de 2024 na Festa de\n\nEmancipação Política da Cidade de Alhandra–PB",
+            "empresa": "JP SHOWS LTDA",
+            "valor_total": "R$ 80,000.00"
+          },
+          {
+            "objeto": "Contratação do Show da banda IGUINHO E LULINHA\n\npara apresentação musical no dia 24 de abril de 2024 na Festa de\n\nEmancipação Política da Cidade de Alhandra–PB",
+            "empresa": "IL SHOWS LTDA",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Adesão à ATA DE REGISTRO DE PREÇOS N°: 02/2024,\n\ndecorrente do Pregão eletrônico n° 026/2023, realizado pela\n\nPREFEITURA MUNICIPAL DE VICÊNCIA/PE, que objetiva:\nLocação de Palco, Som, Iluminação, Estruturas diversas, Materiais e\n\nEquipamentos para atender aos diversos eventos promovidos e/ou\n\napoiados pelo município",
+            "empresa": "STUDIO NIGHT PALCO E\nSONORIZACAO LTDA",
+            "valor_total": "R$ 673,140.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 18,
+        "total_gasto": 4671736.9799999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 5959826.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 26,
+        "total_gasto": 11343337.889999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento de pessoa jurídica especializada na\n\nprestação de serviço médicos de forma complementar, a fim de\n\nrealizar a promoção, a prevenção, o diagnóstico e o tratamento dos\n\nusuários do Sistema Único de Saúde – SUS, ofertados nas unidades de\n\nsaúde pertencentes à Alhandra",
+            "empresa": "PROVMED SERVICOS EM SAUDE LTDA",
+            "valor_total": "R$ 9,850,706.02"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 2489159.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento de mobiliário escolar para atender as\n\nnecessidades da Secretaria de Educação",
+            "empresa": "BRASFLEX INDUSTRIA E COMERCIO LTDA",
+            "valor_total": "R$ 209,133.95"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 40,
+        "total_gasto": 2743904.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 18,
+        "total_gasto": 2696289.2399999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Serviços de Acesso à Internet, IP Dedicado\n\ne Banda Larga, com Fornecimento de Equipamento (modem/roteador)\n\npor Comodato",
+            "empresa": "ANDERSON PAIVA ALVES",
+            "valor_total": "R$ 43,736.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 23,
+        "total_gasto": 2457636.77,
+        "empresas_mensais": [
+          {
+            "objeto": "Adesão à ATA DE REGISTRO DE PREÇOS Nº RP\n\n063/2024, decorrente do PREGÃO ELETRÔNICO Nº 017/2024, que\n\nobjetiva: fornecimento de insumos e reagentes, para atender o\n\nlaboratório de análises clínicas",
+            "empresa": "COMERCIO DE PRODUTOS PARA DIAGNOSTICO HUMANO\n\nLTDA",
+            "valor_total": "R$ 128,105.61"
+          },
+          {
+            "objeto": "Adesão à ATA DE REGISTRO DE PREÇOS Nº: 01\n\n00005/2024, decorrente do PREGÃO ELETRÔNICO Nº 00005/2024,\n\nrealizado pela Prefeitura Municipal de Itapororoca/PB, que objetiva a\n\naquisição de kits pedagógicos com peças, componentes e material de\n\napoio ao professor",
+            "empresa": "PRIME EDUCACAO E TECNOLOGIA\n\nLTDA",
+            "valor_total": "R$ 1,282,103.00"
+          },
+          {
+            "objeto": "Aquisição de cadeiras longarinas destinadas ao plenário da\n\nnova sede da Câmara Municipal de Barra de Santa Rosa/PB",
+            "empresa": "KALCULUS COMERCIO DE MOVEIS PARA ESCRITORIO\n\nLTDA",
+            "valor_total": "R$ 10,550.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 244500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

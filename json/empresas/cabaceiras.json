@@ -1,0 +1,1944 @@
+{
+  "id": "cabaceiras",
+  "nome": "Cabaceiras",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 90,
+        "num_contratos": 2,
+        "total_gasto": 88900.0
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de 01 (um) carro pipa com capacidade de 7\n(sete) m³ de água se obrigando a realizar um percurso de 120 (cento e\nvinte) km por dia transportando e distribuído água nos locais\nindicados pelo Comitê, sendo o",
+            "empresa": "JOSÉ CARLOS QUEIROZ DE SOUSA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de 01 (um) carro pipa com capacidade de 7\n(sete) m³ de água se obrigando a realizar um percurso de 120 (cento e\nvinte) km por dia transportando e distribuído água nos locais\nindicados pelo Comitê, sendo o",
+            "empresa": "JOCELIO DO REGO AIRES",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de 02 (dois) carro pipa com capacidade de 7\n(sete) m³ de água se obrigando a realizar um percurso de 120 (cento e\nvinte) km por dia transportando e distribuído água nos locais\nindicados pelo Comitê, sendo o",
+            "empresa": "JAILSON BATISTA DOS SANTOS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 51700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 37200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação da seguinte Banda: “01",
+            "empresa": "JOSÉ DE ANCHIETA MARTINS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 42000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 111,
+        "num_contratos": 14,
+        "total_gasto": 2099825.87
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 1064800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços para o processamento da folha de pagamento, impressão e\nsua transmissão, por um período de 09 (nove) meses, para o lote II",
+            "empresa": "A. L. T. AIRES DE OLIVEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo para aquisição de\nmedicamentos destinados a Secretaria de Saúde, PSF e PS do\nmunicípio de Cabaceiras, solicitados de forma parcelada e de acordo\ncom a necessidade da Secretaria até o dia 31/12/2015, conforme\nrelação dos medicamentos e quantidades constantes no anexo I do\nEdital, para os itens: 7, 9, 12, 18, 21 e 22 do lote I e dos itens 3, 17,\n41, 42, 43, 45, 46, 49, 52, 56, 58, 59, 76, 77, 79, 89, 96, 101, 103 e\n104 do lote II no total de 26 itens nos dois lotes",
+            "empresa": "A. COSTA - COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo para aquisição de\nmedicamentos destinados a Secretaria de Saúde, PSF e PS do\nmunicípio de Cabaceiras, solicitados de forma parcelada e de acordo\ncom a necessidade da Secretaria até o dia 31/12/2015, conforme\nrelação dos medicamentos e quantidades constantes no anexo I do\nEdital, para o item: 14 do lote I e dos itens 5, 6, 7, 8, 9, 10, 11, 14, 15,\n16, 18, 19, 22, 23, 27, 28, 34, 37, 38, 40, 44, 54, 57, 60, 64, 69, 70, 80,\n81, 83, 84, 93, 97, 99 e 100, do lote II no total de 36 itens nos dois\nlotes",
+            "empresa": "ENDOMED - COMÉRCIO E REPRESENTAÇÃO DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo para aquisição de\nmedicamentos destinados a Secretaria de Saúde, PSF e PS do\nmunicípio de Cabaceiras, solicitados de forma parcelada e de acordo\ncom a necessidade da Secretaria até o dia 31/12/2015, conforme\nrelação dos medicamentos e quantidades constantes no anexo I do\nEdital, para o item: 19 e 20 do lote I e dos itens 2, 20, 24, 25, 26, 29,\n30, 33, 35, 39, 48, 50, 51, 55, 63, 65, 67, 72, 74, 87, 88, 94 e 95 do\nlote II  no total de 25 itens nos dois lotes",
+            "empresa": "NNMED - DISTRIBUIÇÃO IMPORTAÇÃO E EXPORTAÇÃO DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 490980.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 502045.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços de assessoria junto à Comissão Permanente de Licitação\n(CPL) e ao Pregoeiro da Câmara Municipal de Cabaceiras, quando da\nrealização dos processos licitatórios e na elaboração dos Contratos\nAdministrativos da Câmara com os fornecedores e prestadores de\nserviços no exercício de 2015",
+            "empresa": "LC33 - ASSESSORIA EMPRESARIAL E PÚBLICA LTDA.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 56400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação dos serviços de elaboração e impressão de\nfolha de pagamento, geração de arquivos do SAGRES, GFIP e RAIS\npara o exercício de 2016 e outros documentos exigidos pelos órgãos\nde controle interno e externos conforme legislação vigente, por um\nperíodo de 12 (doze) meses",
+            "empresa": "GERALDO GOMES DE ALBUQUERQUE\nFILHO.\nLuiz Aires Cavalcante",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 92,
+        "num_contratos": 42,
+        "total_gasto": 2394664.58
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 357225.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 390381.27999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de prestação de serviços na locação de\nestrutura tendas nas especificações conforme proposta destinada a\nrealização do evento alusivo as festividades do BODE REI de 2016,",
+            "empresa": "S2 PRODUÇÕES MUSICAIS E EVENTOS\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Show Artístico da Banda OS 03 DO\nNODESTE para apresentação em praça pública, no dia 27 de maio de\n2016 a ser realizado durante o evento alusivo a festa do BODE REI de\n2016",
+            "empresa": "ASTRAL PRODUÇÕES E EVENTOS\nMUSICAIS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 918310.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 291612.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento de pneus, câmara de ar e protetor de pneus\npara atender a frota de veículos e máquinas pertencentes a prefeitura\nde cabaceiras e secretarias",
+            "empresa": "S:\nAUTO CENTER PNEUS, PEÇAS E SERVIÇOS LTDA",
+            "valor_total": "R$ 278,586.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 14,
+        "total_gasto": 280065.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 86400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Veículo Caminhão tanque (carro-pipa) para\ntransporte de água potável para consumo humano e para\nabastecimento da população (rural e urbana) do município de\nCabaceiras -PB, atingido pela Seca que assola a região",
+            "empresa": "S:\nGRACILEIDE DE OLIVEIRA MONTEIRO",
+            "valor_total": "R$ 86,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 14270.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para aquisição de 02 (dois)\nnotebooks, 01 (um) HD externo e 01 (um) multifuncional para a\nCâmara de Cabaceiras, conforme descrição constante no Termo de\nReferencia com pagamento avista no ato da entrega dos\nequipamentos, destinados a Câmara Municipal de Cabaceiras, para\ntodos os itens dos LOTES II, III e IV",
+            "empresa": "MULTIFORTE COMERCIO E SUPRIMENTOS\nDE INFORMÁTICA LTDA",
+            "valor_total": "R$ 6,570.00"
+          },
+          {
+            "objeto": "Contratação de empresa para aquisição de 01 (um)\ncomputador e 01 (um) sistema de som para a Câmara de Cabaceiras,\nconforme descrição constante no Termo de Referencia com\npagamento avista no ato da entrega dos equipamentos, destinados a\nCâmara Municipal de Cabaceiras, para todos os itens dos LOTES I e\nV",
+            "empresa": "GIOVANNI DOS SANTOS MAIA",
+            "valor_total": "R$ 7,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 140,
+        "num_contratos": 37,
+        "total_gasto": 3515298.1199999996
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 56400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 48000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 31800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 22000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 224680.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 427936.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo para aquisição de urnas\nfunerárias, do tipo popular, destinadas às pessoas carentes do\nmunicípio de Cabaceiras, sendo o fornecimento de acordo com a\nnecessidade, conforme quantidades e descrição constantes no Termo\nde Referencia",
+            "empresa": "S. J. SERVIÇOS FUNERÁRIOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 302937.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 172392.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 35900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 39000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 2154251.54,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa de construção civil, visando à\n\npavimentação e drenagem na Rua José Osmario de Lima na Zona\n\nUrbana do município de Cabaceiras PB, conforme detalhamento no\n\nAnexo I do Edital",
+            "empresa": "METRO ENGENHARIA LTDA",
+            "valor_total": "R$ 200,096.42"
+          },
+          {
+            "objeto": "Contratação de empresa de construção civil, visando à\n\npavimentação e drenagem na Rua José Osmario de Lima na Zona\n\nUrbana do município de Cabaceiras PB, conforme detalhamento no\n\nAnexo I do Edital",
+            "empresa": "METRO ENGENHARIA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 273245.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\n\nserviços de licença de uso (arrendamento) de sistema de informática\n\nno modulo de contabilidade e locação de software para\n\npublicação/hospedagem de dados para atender a LC nº 131/2009 e Lei\n\nnº 12.527/2011, para o exercício de 2018",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA -\n\nME.\n\nJosé Carlos de Sousa Rêgo",
+            "valor_total": "R$ 7,920.00"
+          },
+          {
+            "objeto": "Contratação dos serviços de elaboração e impressão de\n\nfolha de pagamento, geração de arquivos do SAGRES, GFIP e RAIS\n\npara o exercício de 2018 e outros documentos exigidos pelos órgãos\n\nde controle interno e externos conforme legislação vigente, por um\n\nperíodo de 12 (doze) meses",
+            "empresa": "FRAN INFORMÁTICA LTDA",
+            "valor_total": "R$ 3,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 139,
+        "num_contratos": 99,
+        "total_gasto": 10962423.390000002
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 18,
+        "total_gasto": 1004252.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 33825.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\nserviços em Apoio Administrativo, para locação de software para\nprocessamento da folha de pagamento da Prefeitura de Cabaceiras,\npara o exercício de 2018",
+            "empresa": "A. L. T. AIRES DE OLIVEIRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 400763.19999999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 598840.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 594697.71,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio Santa Cruz a Campina\nGrande com pacientes para realizar consultas e exames atendendo a\nSecretaria de Saúde",
+            "empresa": "José Arimatéia de Farias",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio Curral de Baixo até Campina\nGrande com pacientes para realizar consultas e exames atendendo a\nSecretaria de Saúde",
+            "empresa": "Daniel Meira de Freitas",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês, da comunidade do sítio Poço Comprido a Campina\nGrande com pacientes para realizar consultas e exames atendendo a\nSecretaria de Saúde",
+            "empresa": "Joel José de Lima",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da sede para Campina Grande transportando crianças\nespeciais para a APAE atendendo a Secretaria de Saúde",
+            "empresa": "Gerlândia Luisa Bernardo Gomes",
+            "valor_total": "R$ 17,220.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 12\nViagens a tarde por mês da sede do município até Queimadas com\npacientes para realizar consultas e exames atendendo a Secretaria de\nSaúde e locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês com a equipe do PSF II da sede do município até a\nRibeira, e outra viagem com visita dos médicos da Ribeira para os\nsítios onde vai ter atendimento médico atendendo a Secretaria de\nSaúde",
+            "empresa": "Marinalva Felismino Barbosa de Melo",
+            "valor_total": "R$ 15,960.00"
+          },
+          {
+            "objeto": "Locação de 01 (um)veículo de passeiopara realizar até 20\nViagenspela manhã por mês da sede do município para Queimadasem\nveículo de passeio com pacientes para realizar consultas e exames\natendendo a Secretaria de Saúde e locação de 01 (um)veículo de\npasseiopara realizar até 12 Viagens por mês com a equipe do\nPROJOVEM da sede do municípiopara o Distrito de Ribeira, Sitio\nAlto Fechado e Assentamento Serra do monte percorrendo 90 km ida\ne volta, atendendo a Secretária de Ação Social",
+            "empresa": "Alberto Luis Cavalcanti da Silva",
+            "valor_total": "R$ 19,404.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio Curral de Baixo II até\nCampina Grande com pacientes para realizar consultas e exames\natendendo a Secretaria de Saúde",
+            "empresa": "Nelson Gonçalves de Sousa",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio Tapera a Campina Grande\ncom pacientes para realizar consultas e exames atendendo a Secretaria\nde Saúde",
+            "empresa": "Josenildo Porto",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da sede para Campina Grande transportando crianças\nespeciais para o CAPS e clinica de reabilitar atendendo a Secretaria de\nSaúde",
+            "empresa": "Jorge Antonio José",
+            "valor_total": "R$ 17,220.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da sede para Campina Grande transportando a\nequipe de profissionais da Secretaria de Ação Social",
+            "empresa": "José Silvério Pereira Ramos",
+            "valor_total": "R$ 17,220.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio Santa Catarina a Campina\nGrande com pacientes para realizar consultas e exames atendendo a\nSecretaria de Saúde",
+            "empresa": "Josefa Kalina Nunes de Brito",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do Assentamento Serra do Monte a\nCampina Grande com pacientes para realizar consultas e exames\natendendo a Secretaria de Saúde",
+            "empresa": "Gilson Macedo de Lima",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20\nViagens por mês da comunidade do sítio São Francisco até Campina\nGrande em veículo de passeio com pacientes para realizar consultas e\nexames atendendo a Secretaria de Saúde",
+            "empresa": "Mariana Pereira de Farias",
+            "valor_total": "R$ 19,180.00"
+          },
+          {
+            "objeto": "Locação de 01 (um) veículo de passeio para realizar até 20 Viagens por mês da sede para Campina Grande com pacientes para realizar\nhemodiálise atendendo a Secretaria de Saúde",
+            "empresa": "Irinaldo Alves da Costa",
+            "valor_total": "R$ 17,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 237395.90000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 1367954.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 1035002.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 1608586.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 3807860.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 331164.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 167,
+        "num_contratos": 188,
+        "total_gasto": 11680632.120000005
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 13,
+        "total_gasto": 2435596.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 29,
+        "total_gasto": 1951450.8499999996,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\n\nCIVIL, VISANDO A CONSTRUÇÃO DO POLO DE ACADEMIA\n\nDA SAÚDE, localizada RUA SEVERINO RICARDO DE ARAUJO,\n\nNOVO HORIZONTE, CABACEIRAS - PB",
+            "empresa": "J & B EMPREENDIMENTOS CONSTRUTORA E REFORMA\n\nEIRELI",
+            "valor_total": "R$ 140,290.19"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 49,
+        "total_gasto": 1647269.49,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO DE MATERIAL ODONTOLÓGICO",
+            "empresa": "DENTAL R F\n\nCOMERCIO DE PRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 137,450.47"
+          },
+          {
+            "objeto": "FORNECIMENTO DE MATERIAL ODONTOLÓGICO",
+            "empresa": "FARMAGUEDES\n\nCOMERCIO DE PRODUTOS FARMACEUTICOS, MEDICOS E\n\nHO",
+            "valor_total": "R$ 137,450.47"
+          },
+          {
+            "objeto": "FORNECIMENTO DE MATERIAL ODONTOLÓGICO",
+            "empresa": "JOSE NERGINO\n\nSOBREIRA",
+            "valor_total": "R$ 137,450.47"
+          },
+          {
+            "objeto": "FORNECIMENTO DE MATERIAL ODONTOLÓGICO",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 137,450.47"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 919063.8,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELÉTRICO",
+            "empresa": "AMANDA HELLEN DE OLIVEIRA\nSOUSA",
+            "valor_total": "R$ 260,671.70"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELÉTRICO",
+            "empresa": "CT Nº 03502/2019 - 15.05.19\n- BRJ COMERCIO VAREJISTA DE MATERIAIS DE\nCOSNTRUCAO LTDA",
+            "valor_total": "R$ 260,671.70"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELÉTRICO",
+            "empresa": "CT Nº 03504/2019 - 15.05.19 - INEL COMERCIO DE\nMATERIAIS ELETRICOS LTDA",
+            "valor_total": "R$ 260,671.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 1479479.68,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PERMANENTE\nPARA O POSTO DE SAÚDE E PSFS",
+            "empresa": "CELIA\nFRANCISCO DE CARVALHO",
+            "valor_total": "R$ 90,421.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PERMANENTE\nPARA O POSTO DE SAÚDE E PSFS",
+            "empresa": "CT Nº\n03903/2019 - 26.06.19 - S D DE A FERREIRA & CIA LTDA",
+            "valor_total": "R$ 90,421.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PERMANENTE\nPARA O POSTO DE SAÚDE E PSFS",
+            "empresa": "TARCAL COMERCIO DE\nMAQUINAS, APARELHOS E EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 90,421.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA",
+            "empresa": "COMERCIAL DE ALIMENTOS WSS\nEIRELI",
+            "valor_total": "R$ 52,065.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA",
+            "empresa": "MERCADINHO ECONOMICO DA RIBEIRA LTDA",
+            "valor_total": "R$ 52,065.30"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA",
+            "empresa": "XAND:S COMERCIAL\nDE ALIMENTOS EIRELI",
+            "valor_total": "R$ 52,065.30"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "ALBERTO LUIZ CAVALCANTI DA SILVA",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04102/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04103/2019 -\n26.06.19",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04104/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº\n04105/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04106/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT\nNº 04107/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04108/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04109/2019 -\n26.06.19",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04110/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº\n04111/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04112/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº\n04113/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04114/2019",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04115/2019 -\n26.06.19",
+            "valor_total": "R$ 238,310.40"
+          },
+          {
+            "objeto": "Contratação de Pessoas Jurídicas para a prestação de\nserviços como aluguel de veículos para realizar viagens dentro e fora\ndo município transportando pessoas carentes e servidores das\nSecretarias de Saúde, Ação Rural e Ação Social",
+            "empresa": "CT Nº 04116/2019",
+            "valor_total": "R$ 238,310.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 100087.13999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 26,
+        "total_gasto": 483773.04000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 451502.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 1513201.3199999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE\nIMPLANTAÇÃO E MANUTENÇÃO DO PRONTUÁRIO\nELETRÔNICO DO CIDADÃO-PEC DA ESTRATÉGIA E-SUS\nAB DO MINISTÉRIO DA SAÚDE, ASSIM COMO, DO E-SUS\nAB TERRITÓRIO PARA USO DOS AGENTES\nCOMUNITÁRIOS DE SAÚDE E INFORMATIZAÇÃO DA\nEQUIPE DE APOIO A SAÚDE DA FAMÍLIA- NASF DO\nMUNICÍPIO DE CABACEIRAS",
+            "empresa": "EDER BATISTA DE SOUSA",
+            "valor_total": "R$ 66,600.00"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE UMA QUADRA POLIESPORTIVA\nDA EMEF MALHADA COMPRIDA, NA COMUNIDADE DE SÃO\nFRANCISCO ZONA RURAL DO MUNICÍPIO DE CABACEIRAS",
+            "empresa": ".\nPARTES CONTRATANTES: PREFEITURA MUNICIPAL DE\nCABACEIRAS e: CT Nº 0180/2018",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\n\nCIVIL, VISANDO A CONSTRUÇÃO DE UMA QUADRA\n\nPOLIESPORTIVA COM VESTIÁRIOS, COM 980,40m² DE\n\nARÉACOBERTA E PROJETO PADRÃO DO FNDE NO\n\nMUNICÍPIO DE CABACEIRAS PB",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Cabaceiras e: CT Nº 072/2014",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\n\nCIVIL, VISANDO A PAVIMENTAÇÃO E DRENAGEM EM\n\nDIVERSAS RUAS NA ZONA URBANA DO MUNICÍPIO DE\n\nCABACEIRAS PB, CONFORME DETALHAMENTO NO\n\nANEXO I DO EDITAL",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Cabaceiras e: CT Nº 0066/2015",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 368044.28,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, VISANDO A REFORMA E AMPLIAÇÃO DO MERCADO\nPÚBLICO MANOEL DE FARIAS DO MUNICÍPIO DE\nCABACEIRAS PB, CONFORME DETALHAMENTO NO ANEXO\nI DESTE EDITAL",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nCabaceiras e: CT Nº 0178/2018",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FISICA E/OU\nJURIDICA PARA A PRESTAÇÃO DE SERVIÇOS (PARTE\nTÉCNICA DE ENGENHARIA ATRAVES DE UM\nENGENHEIRO CIVIL), CONFORME CONSTA NO TERMO\nDE REFERENCIA DO EDITAL",
+            "empresa": ". PARTES CONTRATANTES: PREFEITURA\nMUNICIPAL DE CABACEIRAS e: CT Nº 118/2018",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 148176.91999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 156,
+        "num_contratos": 278,
+        "total_gasto": 11741953.979999995
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 46,
+        "total_gasto": 4277909.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de oficina destinado a Frota de\nveículo do Município de Conceição/PB",
+            "empresa": "JOSÉ REGINALDO SE SOUSA\nMORAIS",
+            "valor_total": "R$ 547,885.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em serviços de\nconfecção de prótese dentária para atender o programa do Governo\nFederal \"Brasil Sorridente\" para o município de Conceição - PB",
+            "empresa": "JOAQUIM BRASILINO DE SOUSA",
+            "valor_total": "R$ 330,000.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "Allan de Sousa Leite",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "ALXANDRO CARDOSO PEREIRA",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10803/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10804/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº\n10805/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10806/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10807/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº\n10808/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10809/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10810/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT\nNº 10811/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10812/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 9\n\n\nNº 10813/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10814/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10815/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº\n10816/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10817/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10818/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10819/2020 -\n05.02.20",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº\n10820/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10821/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10822/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10823/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10824/2020 -\n05.02.20",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10825/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10826/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10827/2020 -\n05.02.20",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT\nNº 10828/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10829/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10830/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10831/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº\n10832/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10833/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10834/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "CT Nº 10835/2020",
+            "valor_total": "R$ 929,346.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Medicamentos que não compõe o\nelenco de assistência farmacêutica básica, com o maior percentual de\ndesconto, constantes na Tabela CMED/ANVISA para atender a\ndemanda da Secretaria Municipal de Saúde de Conceição - PB",
+            "empresa": "HENRIQUE CELSO CIRILO\nFERREIRA JUNIOR",
+            "valor_total": "R$ 297,500.00"
+          },
+          {
+            "objeto": "Aquisição de madeiras, tijolo e telha para serem utilizadas\nnos diversos serviços de construção, atendendo assim, as necessidades\nda Prefeitura Municipal de Conceição/PB",
+            "empresa": "JANNILUCE VIEIRA MANGUEIRA\nDE SOUSA SOARES",
+            "valor_total": "R$ 141,800.00"
+          },
+          {
+            "objeto": "Aquisição de Material de Construção, Elétrico e Hidráulico,\npara todas as Secretarias, Órgãos e Programas da Prefeitura Municipal\nde Conceição - PB",
+            "empresa": "IZAURA PEREIRA RAMALHO -\nME",
+            "valor_total": "R$ 906,239.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 32,
+        "total_gasto": 1903618.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 24,
+        "total_gasto": 1023614.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "ALBERTO LUIZ CAVALCANTI DA SILVA",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02702/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02703/2020 -\n17.04.20",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02704/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº\n02705/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02706/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT\nNº 02707/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02708/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02709/2020 -\n17.04.20",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02710/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02711/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT\nNº 02712/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02713/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº\n02714/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02715/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02716/2020",
+            "valor_total": "R$ 340,104.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\nCONTRATAÇÃO DE PESSOAS JURÍDICAS PARA A\nPRESTAÇÃO DE SERVIÇOS COMO ALUGUEL DE\nVEÍCULOS PARA REALIZAR VIAGENS DENTRO E FORA\nDO MUNICÍPIO TRANSPORTANDO PESSOAS CARENTES E\nSERVIDORES DAS SECRETARIAS DE SAÚDE, AÇÃO\nRURAL E AÇÃO SOCIAL",
+            "empresa": "CT Nº 02717/2020",
+            "valor_total": "R$ 340,104.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 269440.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 2078574.2200000002,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULO AUTOMOTOR TIPO\n\nHATCH, PARA ATENDER AS NECESSIDADES DESTA\n\nMUNICIPALIDADE, CONFORME RECURSOS DE EMENDA\n\nPARLAMENTAR Nº 12710017 E Nº 27110007, PROPOSTA\n\n11309.134000/1190-04",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 91,428.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 69,
+        "total_gasto": 852648.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 139822.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 67,
+        "total_gasto": 522047.02,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nREALIZAÇÕES DE EXAMES CONFORME O TERMO DE\nREFERÊNCIA DO EDITAL",
+            "empresa": "GAMA SERVICOS DE DIAGNOSTICOS\nPOR IMAGENS EIRELI",
+            "valor_total": "R$ 59,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 481090.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, VISANDO A PAVIMENTAÇÃO DE DIVERSAS RUAS\nNO MUNICÍPIO DE CABACEIRAS PB, DE ACORDO COM O\nCONTRATO DE REPASSE Nº 1052462-78/2018",
+            "empresa": ".\nPARTES CONTRATANTES: PREFEITURA MUNICIPAL DE\nCABACEIRAS e: CT Nº 00301/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 9840.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, VISANDO A CONSTRUÇÃO DE UMA QUADRA\nPOLIESPORTIVA COM VESTIÁRIOS, COM 980,40m² DE\nARÉACOBERTA E PROJETO PADRÃO DO FNDE NO\nMUNICÍPIO DE CABACEIRAS PB",
+            "empresa": ". PARTES CONTRATANTES:\nPrefeitura Municipal de Cabaceiras e: CT Nº 072/2014",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE AR CONDICIONADO SPLIT\nELGIN 24.000 BTUS/H FRIO",
+            "empresa": "SOFRIO\nREFRIGERACOES LTDA",
+            "valor_total": "R$ 9,840.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 35171.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, VISANDO A CONSTRUÇÃO DE UMA CENTRAL DE\nVELÓRIO NO MUNICÍPIO DE CABACEIRAS",
+            "empresa": ".\nPARTES CONTRATANTES: PREFEITURA MUNICIPAL DE\nCABACEIRAS e: CT Nº 03501/2020 - AN PROJETOS,\nCONSTRUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE\nIMPLANTAÇÃO E MANUTENÇÃO DO PRONTUÁRIO\nELETRÔNICO DO CIDADÃO-PEC DA ESTRATÉGIA E-SUS\nAB DO MINISTÉRIO DA SAÚDE, ASSIM COMO, DO E-SUS\nAB TERRITÓRIO PARA USO DOS AGENTES\nCOMUNITÁRIOS DE SAÚDE E INFORMATIZAÇÃO DA\nEQUIPE DE APOIO A SAÚDE DA FAMÍLIA- NASF DO\nMUNICÍPIO DE CABACEIRAS",
+            "empresa": ". PARTES CONTRATANTES:\nPREFEITURA MUNICIPAL DE CABACEIRAS e: CT Nº\n07901/2019",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA O\nABASTECIMENTO DE ÁGUA EM ÁREAS RURAIS E\nCOMUNIDADES TRADICIONAIS, VISANDO O\nABASTECIMENTO DE ÁGUA DO ASSENTAMENTO SERRA\nDO MONTE - NA ZONA RURAL DO MUNICÍPIO DE\nCABACEIRAS",
+            "empresa": ". PARTES CONTRATANTES: PREFEITURA\nMUNICIPAL DE CABACEIRAS e: CT Nº 07001/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 1892412.19,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE\n\nCONSTRUÇÃO CÍVIL, PARA CONSTRUÇÃO DE 2 (DOIS)\n\nPORTAIS TURÍSTICO (PORTAL EM CABACEIRAS E\n\nPORTAL NO DISTRITO DA RIBEIRA, DE ACORDO COM O\n\nCONTRATO DE REPASSE Nº 1045479–34/2017",
+            "empresa": "L R M\n\nCONSTRUCOES E EMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 444,875.96"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 180,
+        "num_contratos": 240,
+        "total_gasto": 13382025.029999997
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 980227.55,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFABRICAÇÃO DE PLACAS DE SINALIZAÇÃO PARA\nSUPRIR AS NECESSIDADE DO MUNÍCIPIO DE\nCABACEIRAS – PB",
+            "empresa": "MAYNARA THAIS ALMEIDA DOS SANTOS",
+            "valor_total": "R$ 10,833.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 78,
+        "total_gasto": 1659970.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 15,
+        "total_gasto": 2086493.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 795182.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 16,
+        "total_gasto": 777012.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 1004391.1000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 1199308.6600000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 96400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 336302.08999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE 02 (DOIS) VEÍCULOS (TIPO:\n\nCARRO–PIPA) COM MOTORISTA, PARA O\n\nABASTECIMENTO D' ÁGUA ATENDENDO DE FORMA\n\nEMERGENCIAL A POPULAÇÃO DA ZONA URBANA\n\nATINGIDA PELA ESTIAGEM NO MUNICÍPIO DE\n\nCABACEIRAS – PB, CONFORME CONVENIO Nº 035/2021,\n\nFIRMADO ENTRE A SECRETARIA DE ESTADO DA\n\nINFRAESTRUTURA, RECURSO HIDRICOS E MEIO\n\nAMBIENTE E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS – PB",
+            "empresa": "Outros Serv. de Terc.",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE 02 (DOIS) VEÍCULOS (TIPO:\n\nCARRO–PIPA) COM MOTORISTA, PARA O\n\nABASTECIMENTO D' ÁGUA ATENDENDO DE FORMA\n\nEMERGENCIAL A POPULAÇÃO DA ZONA URBANA\n\nATINGIDA PELA ESTIAGEM NO MUNICÍPIO DE\n\nCABACEIRAS – PB, CONFORME CONVENIO Nº 035/2021,\n\nFIRMADO ENTRE A SECRETARIA DE ESTADO DA\n\nINFRAESTRUTURA, RECURSO HIDRICOS E MEIO\n\nAMBIENTE E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS – PB",
+            "empresa": "JOSE CARLOS\n\nQUEIROZ DE SOUSA",
+            "valor_total": "R$ 108,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE 02 (DOIS) VEÍCULOS (TIPO:\n\nCARRO–PIPA) COM MOTORISTA, PARA O\n\nABASTECIMENTO D' ÁGUA ATENDENDO DE FORMA\n\nEMERGENCIAL A POPULAÇÃO DA ZONA URBANA\n\nATINGIDA PELA ESTIAGEM NO MUNICÍPIO DE\n\nCABACEIRAS – PB, CONFORME CONVENIO Nº 035/2021,\n\nFIRMADO ENTRE A SECRETARIA DE ESTADO DA\n\nINFRAESTRUTURA, RECURSO HIDRICOS E MEIO\n\nAMBIENTE E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS – PB",
+            "empresa": "CT Nº\n\n06602/2021",
+            "valor_total": "R$ 108,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 737021.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 32,
+        "total_gasto": 1817303.29,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOS VENDIDO POR UMA\n\nCONCESSIONÁRIA AUTORIZADA PELO FABRICANTE OU\n\nPELO PRÓPRIO FABRICANTE, PARA ATENDER AS\n\nNECESSIDADES DESTA MUNICIPALIDADE, CONFORME\n\nESPECIFICAÇÕES E QUANTITATIVOS DESCRITOS NO\n\nTERMO DE REFERÊNCIA DO PRESENTE EDITAL",
+            "empresa": ".\n\nPARTES CONTRATANTES: PREFEITURA MUNICIPAL DE\n\nCABACEIRAS e: CT Nº 06102/2021",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1063524.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 166,
+        "num_contratos": 216,
+        "total_gasto": 17622613.430000003
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 22,
+        "total_gasto": 1957526.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 1203051.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 26,
+        "total_gasto": 3177497.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 18,
+        "total_gasto": 483240.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 32,
+        "total_gasto": 2051379.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 463716.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 13,
+        "total_gasto": 411348.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 4269408.2299999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 33,
+        "total_gasto": 1085333.19,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nCONSTRUÇÃO DE UM GINÁSIO POLIESPORTIVO NO\n\nMUNICÍPIO DE CABACEIRAS - PB, CONFORME O PROCESSO\n\nN",
+            "empresa": ". PARTES CONTRATANTES: PREFEITURA\n\nMUNICIPAL DE CABACEIRAS e: CT Nº 08201/2021",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS PARA ELABORAÇÃO DE PROJETOS DE\n\nEMENDA PARLAMENTARES, PREENCHIMENTO E\n\nACOMPANHAMENTO DE PLANOS DE TRABALHO E\n\nSISTEMAS GOVERNAMENTAIS, CONFORME\n\nESPECIFICAÇÕES DO OBJETO CONSTANTES NO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "e atualizar o valor inicial contratado. PARTES\n\nCONTRATANTES: Prefeitura Municipal de Cabaceiras e: CT Nº\n\n07201/2021",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS PARA ELABORAÇÃO DE PROJETOS DE\n\nEMENDA PARLAMENTARES, PREENCHIMENTO E\n\nACOMPANHAMENTO DE PLANOS DE TRABALHO E\n\nSISTEMAS GOVERNAMENTAIS, CONFORME\n\nESPECIFICAÇÕES DO OBJETO CONSTANTES NO TERMO DE\n\nREFERÊNCIA",
+            "empresa": "e prorroga o prazo por mais 12 meses, ficando a\n\nnova vigência de 20/10/2022 a 20/10/2023. ASSINATURA: 20.10.22.\n\n\n\nCabaceiras",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 228827.2,
+        "empresas_mensais": [
+          {
+            "objeto": "1.1",
+            "empresa": "ECOANALISES SERVIÇOS MÉDICOS E\n\nODONTOLÓGICOS EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 1227759.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 2652451.45,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE CADERNOS ESCOLARES\nPERSONALIZADOS PARA O ANO LETIVO DE 2023, PARA\nATENDER AS NECESSIDADES DA SECRETARIA\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE\nCABACEIRAS–PB",
+            "empresa": "CADERSIL INDUSTRIAL LTDA",
+            "valor_total": "R$ 33,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 181,
+        "num_contratos": 171,
+        "total_gasto": 18112394.830000006
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 25,
+        "total_gasto": 3081529.9799999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 1462547.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 19,
+        "total_gasto": 2213528.92,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO\n\nDE CRIAÇÃO E GERENCIAMENTO DE CONTEÚDOS PARA\n\nMÍDIAS SOCIAIS; CRIAÇÃO DE PEÇAS PUBLICITÁRIAS\n\nCOMO CARD, ANIMAÇÕES E VÍDEOS; COBERTURA\n\nFOTOGRÁFICA DE TODO O PROCESSO DO EVENTO DA\n\nTRADICIONAL FESTA DO \"BODE REI\"",
+            "empresa": "L DA SILVA AMARO",
+            "valor_total": "R$ 16,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 31,
+        "total_gasto": 2306127.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 58017.689999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços na função de Cirurgiã Dentista -\n\nEndodontista\n\nÁrea de atuação: Centro de Especialidades Odontológicas ( sede do\n\nMunicípio )",
+            "empresa": "Francisca Damares da Silva Mesquita.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 162786.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 930506.04,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULO AUTOMOTOR TIPO\n\nVAN MINIBUS PASSAGEIROS, VERSÃO/MODELO\n\nORIGINAL DE FÁBRICA, CONFORME CONVÊNIO Nº\n\n159/2023 DA SECRETARIA DE ESTADO DA EDUCAÇÃO/PB\n\nE A PREFEITURA MUNICIPAL DE CABACEIRAS/PB",
+            "empresa": "MAIS TRUCK COMERCIO DE CAMINHOES LTDA",
+            "valor_total": "R$ 388,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MOTO, VERSÃO/MODELO\n\nORIGINAL DE FÁBRICA, CONFORME ESPECIFICAÇÃO\n\nNO TERMO DE REFERENCIA PARA SUPRIR AS\n\nNECESSIDADES DA PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "VALE\n\nCOMERCIO DE MOTOS LTDA",
+            "valor_total": "R$ 44,298.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1965287.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 896529.8400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 917431.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 31,
+        "total_gasto": 1465651.28,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE\nIMPLANTAÇÃO E MANUTENÇÃO DO PRONTUÁRIO\nELETRÔNICO DO CIDADÃO-PEC DA ESTRATÉGIA E-SUS\nAB DO MINISTÉRIO DA SAÚDE, ASSIM COMO, DO E-SUS\nAB TERRITÓRIO PARA USO DOS AGENTES\nCOMUNITÁRIOS DE SAÚDE E INFORMATIZAÇÃO DA\nEQUIPE DE APOIO A SAÚDE DA FAMÍLIA- NASF DO\nMUNICÍPIO DE CABACEIRAS",
+            "empresa": ". PARTES CONTRATANTES:\nPREFEITURA MUNICIPAL DE CABACEIRAS e: CT Nº\n07901/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 44,
+        "total_gasto": 5905620.67,
+        "empresas_mensais": [
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA A\n\nEVENTUAL AQUISIÇÃO DE COMBUSTIVEL (GASOLINA,\n\nDIESEL S10), MAIOR DESCONTO COM BASE NA TABELA\n\nDA ANP DO DIA, PARA OS VEÍCULOS DA FROTA OFICIAL\n\nDAS DIVERSAS SECRETARIAS DE FORMA PARCELADA E\n\nCOM COTA EXCLUSIVA À PARTICIPAÇÃO DE\n\nMICROEMPRESA E EMPRESA DE PEQUENO PORTE,\n\nCONFORME PREVISTO NO ART",
+            "empresa": "MATERIAL DE\n\nCONSUMO - FUNDEB 40%, FMS, FNAS, PNAT E DE\n\nCONVÊNIOS CONSIGNADOS NO ORÇAMENTO VIGENTE -\n\nRECURSO DE EMENDA PARLAMENTAR DO MINISTERIO DA\n\nEDUCAÇÃO",
+            "valor_total": "R$ 2,674,950.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA A\n\nEVENTUAL AQUISIÇÃO DE COMBUSTIVEL (GASOLINA,\n\nDIESEL S10), MAIOR DESCONTO COM BASE NA TABELA\n\nDA ANP DO DIA, PARA OS VEÍCULOS DA FROTA OFICIAL\n\nDAS DIVERSAS SECRETARIAS DE FORMA PARCELADA E\n\nCOM COTA EXCLUSIVA À PARTICIPAÇÃO DE\n\nMICROEMPRESA E EMPRESA DE PEQUENO PORTE,\n\nCONFORME PREVISTO NO ART",
+            "empresa": "POSTO\n\nCARIRI COMBUSTIVEIS LTDA",
+            "valor_total": "R$ 2,674,950.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA A\n\nEVENTUAL AQUISIÇÃO DE COMBUSTIVEL (GASOLINA,\n\nDIESEL S10), MAIOR DESCONTO COM BASE NA TABELA\n\nDA ANP DO DIA, PARA OS VEÍCULOS DA FROTA OFICIAL\n\nDAS DIVERSAS SECRETARIAS DE FORMA PARCELADA E\n\nCOM COTA EXCLUSIVA À PARTICIPAÇÃO DE\n\nMICROEMPRESA E EMPRESA DE PEQUENO PORTE,\n\nCONFORME PREVISTO NO ART",
+            "empresa": "HS COMERCIO DE COMBUSTIVEL\n\nLTDA",
+            "valor_total": "R$ 2,674,950.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇOS PARA A\n\nEVENTUAL AQUISIÇÃO DE COMBUSTIVEL (GASOLINA,\n\nDIESEL S10), MAIOR DESCONTO COM BASE NA TABELA\n\nDA ANP DO DIA, PARA OS VEÍCULOS DA FROTA OFICIAL\n\nDAS DIVERSAS SECRETARIAS DE FORMA PARCELADA E\n\nCOM COTA EXCLUSIVA À PARTICIPAÇÃO DE\n\nMICROEMPRESA E EMPRESA DE PEQUENO PORTE,\n\nCONFORME PREVISTO NO ART",
+            "empresa": "MANANCIAL COMERCIO DE COMBUSTIVEIS E\n\nLUBRIFICANTES LTDA",
+            "valor_total": "R$ 2,674,950.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\n\nA EVENTUAL AQUISIÇÃO DE MATERIAL DE\n\nCONSTRUÇÃO, TIPO MENOR PREÇO POR ITEM, PARA\n\nATENDER AS NECESSIDADES DAS SECRETARIAS DESTA\n\nMUNICIPALIDADE",
+            "empresa": "JOAO GONCALVES DE SOUSA\n\nCONSTRUCAO",
+            "valor_total": "R$ 1,201,211.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\n\nA EVENTUAL AQUISIÇÃO DE MATERIAL DE\n\nCONSTRUÇÃO, TIPO MENOR PREÇO POR ITEM, PARA\n\nATENDER AS NECESSIDADES DAS SECRETARIAS DESTA\n\nMUNICIPALIDADE",
+            "empresa": "BRJ COMERCIO VAREJISTA DE MATERIAIS DE\n\nCOSNTRUCAO LTDA",
+            "valor_total": "R$ 1,201,211.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\n\nA EVENTUAL AQUISIÇÃO DE MATERIAL DE\n\nCONSTRUÇÃO, TIPO MENOR PREÇO POR ITEM, PARA\n\nATENDER AS NECESSIDADES DAS SECRETARIAS DESTA\n\nMUNICIPALIDADE",
+            "empresa": "CT Nº 08904/2023 - 22.01.24 - SUPERMIX\n\nCOMERCIO E SERVICOS LTDA ME",
+            "valor_total": "R$ 1,201,211.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\n\nA EVENTUAL AQUISIÇÃO DE MATERIAL DE\n\nCONSTRUÇÃO, TIPO MENOR PREÇO POR ITEM, PARA\n\nATENDER AS NECESSIDADES DAS SECRETARIAS DESTA\n\nMUNICIPALIDADE",
+            "empresa": "C.K COM??RCIO DE FERRAGENS\n\nLTDA",
+            "valor_total": "R$ 1,201,211.90"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA:\n\nA EVENTUAL AQUISIÇÃO DE MATERIAL DE\n\nCONSTRUÇÃO, TIPO MENOR PREÇO POR ITEM, PARA\n\nATENDER AS NECESSIDADES DAS SECRETARIAS DESTA\n\nMUNICIPALIDADE",
+            "empresa": "SILVA\n\nDISTRIBUIDORA E FERRAGISTA LTDA",
+            "valor_total": "R$ 1,201,211.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 208,
+        "num_contratos": 230,
+        "total_gasto": 22805565.749999993
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 456890.17,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE LIVROS E KIT DINÂMICO PARA O\nANO LETIVO DE 2024, PARA ATENDER AS NECESSIDADES\nDA SECRETARIA MUNICIPAL DE EDUCAÇÃO DO\nMUNICÍPIO DE CABACEIRAS–PB",
+            "empresa": "AIR88\nCOMERCIO E SERVICOS DE LIVROS E EDUCACAO LTDA",
+            "valor_total": "R$ 151,445.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA A PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE\nCONTABILIDADE PÚBLICA EM GERAL",
+            "empresa": "JOILTO GONÇALVES DE BRITO",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 689940.79,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A EXECUÇÃO DOS SERVIÇOS DE REFORMA E\n\nAMPLIAÇÃO DA ESCOLA MUNICIPAL ABDIAS AIRES,\n\nCONFORME TERMO DE CONVÊNIO Nº 376/2021",
+            "empresa": ".\n\nPARTES CONTRATANTES: PREFEITURA MUNICIPAL DE\n\nCABACEIRAS e: CT Nº 00901/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1217392.46,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE AR-CONDICIONADO PARA ATENDER A NECESIDADE\n\nDO FUNDO MUNICIPAL DE APOIO AO\n\nEMPREENDEDORISMO",
+            "empresa": "CANAPU COMERCIO DE DISTRIBUIÇÃO LTDA",
+            "valor_total": "R$ 26,876.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS ATRAVÉS DE UMA\n\nAGENCIA DE PUBLICIDADES, PARA TRANSMISSÃO E\n\nDIVULGAÇÃO DOS TRABALHOS, MATÉRIAS E\n\nPROGRAMAS INSTITUCIONAIS DA CÂMARA MUNICIPAL\n\nDE CABACEIRAS – PB",
+            "empresa": "AGÊNCIA CONECTADO DE\n\nPUBLICIDADE LTDA",
+            "valor_total": "R$ 44,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 8,
+        "total_gasto": 1145660.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 19,
+        "total_gasto": 1324556.9700000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A EXECUÇÃO DOS SERVIÇOS DE PAVIMENTAÇÃO\n\nDE ESTRADAS VICINAIS – SÍTIO SANTA CRUZ E SITIO\nFACÃO, NO MUNICÍPIO DE CABACEIRAS–PB",
+            "empresa": "ECO - CES CONSTRUCOES E SERVICOS AMBIENTAIS\nLTDA",
+            "valor_total": "R$ 249,461.13"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 23,
+        "total_gasto": 2577586.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 21,
+        "num_contratos": 15,
+        "total_gasto": 1295854.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 25,
+        "total_gasto": 3989351.7800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO DA ATA DE REGISTRO DE PREÇOS N°\n\n002/2024, PREGÃO ELETRÔNICO – SRP Nº",
+            "empresa": "VALE\n\nCOMERCIO DE PRODUTOS PARA EDUCACAO LTDA",
+            "valor_total": "R$ 278,476.36"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 26,
+        "total_gasto": 2281521.24,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DO CANTOR REY VAQUEIRO,\n\nPARA APRESENTAÇÃO NA 4ª EDIÇÃO DO FESTIVAL DO\n\nCOURO - EXPOCOURO NO DISTRITO RIBEIRA DO\n\nMUNICÍPIO DE CABACEIRAS",
+            "empresa": "REY VAQUEIRO SHOWS LTDA",
+            "valor_total": "R$ 160,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA BANDA LIMÃO COM MEL,\n\nPARA APRESENTAÇÃO NA 4ª EDIÇÃO DO FESTIVAL DO\n\nCOURO - EXPOCOURO NO DISTRITO RIBEIRA DO\n\nMUNICÍPIO DE CABACEIRAS",
+            "empresa": "SUPERNOVA PRODUCOES E EVENTOS LTDA",
+            "valor_total": "R$ 160,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE COMBUSTIVEL (GASOLINA, DIESEL S10), MAIOR\n\nDESCONTO COM BASE NA TABELA DA ANP DO DIA,\n\nPARA OS VEÍCULOS DA FROTA OFICIAL DAS DIVERSAS\n\nSECRETARIAS DE FORMA PARCELADA CONFORME\n\nESPECIFICAÇÕES E QUANTITATIVOS DESCRITOS NO\n\nTERMO DE REFERÊNCIA DO PRESENTE EDITAL",
+            "empresa": "POSTO CARIRI\n\nCOMBUSTIVEIS LTDA",
+            "valor_total": "R$ 120,835.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 585529.41,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO E INSTALAÇÃO DE ITENS\n\nNATALINOS (ARVORE DE NATAL, PAPAI NOEL E CASA\n\nDE PAPAI NOEL), COM A FINALIDADE DE ABRILHANTAR\n\nA DECORAÇÃO DE NATAL DO ANO DE 2024",
+            "empresa": "ELETRO CENTER LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL, EQUIPAMENTOS E PROGRAMA\n\nPEDAGÓGICOS PARA CRECHE, CONFORME CONVÊNIO\n\nNº 192/2023 DA SECRETARIA DE ESTADO DA\n\nEDUCAÇÃO/PB E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "RPS DISTRIBUIDORA DE PRODUTOS LIMITADA",
+            "valor_total": "R$ 275,666.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL, EQUIPAMENTOS E PROGRAMA\n\nPEDAGÓGICOS PARA CRECHE, CONFORME CONVÊNIO\n\nNº 192/2023 DA SECRETARIA DE ESTADO DA\n\nEDUCAÇÃO/PB E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "ROSANGELA\n\nPOLLYANA DE OLIVEIRA NEVES",
+            "valor_total": "R$ 275,666.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL, EQUIPAMENTOS E PROGRAMA\n\nPEDAGÓGICOS PARA CRECHE, CONFORME CONVÊNIO\n\nNº 192/2023 DA SECRETARIA DE ESTADO DA\n\nEDUCAÇÃO/PB E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "CATFELLI DESIGN COMERCIO LTDA\n\n- R$ 2.176,00; CT Nº 08204/2024 - 12.11.24 - BT COMERCIO\n\nINTELIGENTE LTDA",
+            "valor_total": "R$ 275,666.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL, EQUIPAMENTOS E PROGRAMA\n\nPEDAGÓGICOS PARA CRECHE, CONFORME CONVÊNIO\n\nNº 192/2023 DA SECRETARIA DE ESTADO DA\n\nEDUCAÇÃO/PB E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "CT Nº\n\n08206/2024 - 12.11.24 - ACC COMERCIAL E SOLUCOES\n\nLTDA",
+            "valor_total": "R$ 275,666.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL, EQUIPAMENTOS E PROGRAMA\n\nPEDAGÓGICOS PARA CRECHE, CONFORME CONVÊNIO\n\nNº 192/2023 DA SECRETARIA DE ESTADO DA\n\nEDUCAÇÃO/PB E A PREFEITURA MUNICIPAL DE\n\nCABACEIRAS/PB",
+            "empresa": "ANTARES\n\nCOMERCIO E REPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 275,666.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 33,
+        "total_gasto": 1335660.8499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

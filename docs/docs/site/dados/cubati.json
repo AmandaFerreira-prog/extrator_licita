@@ -61,20 +61,20 @@
     "2022": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 93600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 74,
-        "num_contratos": 78,
-        "total_gasto": 8473022.15
+        "num_contratos": 86,
+        "total_gasto": 9338163.15
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 10,
-        "total_gasto": 2476574.88,
+        "num_contratos": 14,
+        "total_gasto": 3027109.88,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -87,8 +87,8 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 23,
-        "total_gasto": 1445779.6700000002,
+        "num_contratos": 25,
+        "total_gasto": 1520785.6700000002,
         "top_3_empresas": [
           "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA",
           "BERCON ENGENHARIA EIRELI.\n\n\n\nCubatí"
@@ -122,8 +122,8 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 7,
-        "total_gasto": 610413.0,
+        "num_contratos": 8,
+        "total_gasto": 756413.0,
         "top_3_empresas": [
           "GBS COMERCIO ATACADISTA DE\n\nPRODUTOS HOSPITALARES E SERVIÇOS DE MANUTENÇÃO\n\nLTDA",
           "B.P.D. SERVIÇOS E COMERCIO DE\n\nMATERIAL MEDICO, HOSPITALAR E LABORATORIAL LTDA"
@@ -180,19 +180,19 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 102,
-        "num_contratos": 93,
-        "total_gasto": 12774121.059999999
+        "num_diarios": 101,
+        "num_contratos": 99,
+        "total_gasto": 13790922.559999999
       },
       "2": {
         "num_diarios": 7,
-        "num_contratos": 3,
-        "total_gasto": 1282219.4,
+        "num_contratos": 8,
+        "total_gasto": 2281820.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 7,
         "total_gasto": 615045.36,
         "top_3_empresas": [],
@@ -227,8 +227,8 @@
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 11,
-        "total_gasto": 1141494.14,
+        "num_contratos": 12,
+        "total_gasto": 1158694.14,
         "top_3_empresas": [
           "ACELINO DE ALMEIDA COSTA -\n\nR$ 119.539,20; CT Nº 00059/2023",
           "CT Nº 00060/2023 -\n26.07.23",
@@ -236,7 +236,8 @@
         ],
         "top_3_objetos": [
           "Contratação de Empresa para Prestação de Serviço de\nTransporte Escolar da Rede Pública Municipal e Estadual, Residentes\n\nno Município de Cubatí, Conforme Planilhas Anexas, com os Roteiros\n\ne Quilometragens",
-          "AQUISIÇÃO DE TABLET, PARA UTILIZAÇÃO NOS\n\nSERVIÇOS DOS AGENTES COMUNITÁRIOS DE SAÚDE E\n\nAGENTE DE COMBATE A ENDEMIAS DO MUNICÍPIO DE\nCUBATÍ/PB"
+          "AQUISIÇÃO DE TABLET, PARA UTILIZAÇÃO NOS\n\nSERVIÇOS DOS AGENTES COMUNITÁRIOS DE SAÚDE E\n\nAGENTE DE COMBATE A ENDEMIAS DO MUNICÍPIO DE\nCUBATÍ/PB",
+          "Contratação de empresa especializada no fornecimento de\nassinatura de ferramenta de pesquisa e comparação de preços\n\npraticados pela Administração Pública, para o município de\n\nDiamante-PB, de acordo com o art"
         ]
       },
       "8": {
@@ -298,14 +299,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 93,
-        "total_gasto": 14152852.289999997
+        "num_diarios": 98,
+        "num_contratos": 112,
+        "total_gasto": 15602076.909999998
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 11,
-        "total_gasto": 165260.0,
+        "num_contratos": 12,
+        "total_gasto": 638863.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -332,8 +333,8 @@
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 703799.72,
+        "num_contratos": 21,
+        "total_gasto": 1711738.5399999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -346,8 +347,8 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 330943.69,
+        "num_contratos": 7,
+        "total_gasto": 612625.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -377,26 +378,18 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 5,
-        "num_contratos": 6,
-        "total_gasto": 957410.0,
-        "top_3_empresas": [
-          "GISALMA GABRIEL INOCENCIO",
-          "IVANILDO DE OLIVEIRA FARIAS",
-          "EXCLUSIVE\n\nENTRETENIMENTOS MUSICAIS LTDA"
-        ],
-        "top_3_objetos": [
-          "Contratação de Empresa do Ramo de Farmácia Destinada\n\nao Fornecimento Parcelado de Medicamentos de Referência, Ético\n\n(COM NOME/NOVO), Genérico e Similar, para doação à população\n\ncarente do Município de Cubatí/PB com maior desconto proporcional\n\ncom os preços exigidos pela CMED/ANVISA",
-          "CONTRATAÇÃO DE EMPRESA ESPECIALIXADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE SHOW DA BANDA FORRO DO\n\nNOSSO JEITO DAS ANTIGAS, CONSAGRADA\n\nREGIONALMENTE, DURANTE AS FESTIVIDADES DE\n\nREVEILLON, NO DIA 31 DE DEZEMBRO DE 2024, EM PRAÇA\n\nPÚBLICA",
-          "CONTRATAÇÃO DE EMPRESA ESPECIALIXADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE SHOW ARTISTICOS DA\n\nBANDA BIXO BOM, CONSAGRADA REGIONALMENTE,\n\nDURANTE AS FESTIVIDADES DE REVEILLON, NO DIA 31 DE\n\nDEZEMBRO DE 2024, EM PRAÇA PÚBLICA"
-        ]
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 643410.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 284,
-    "num_contratos": 264,
-    "total_gasto": 35399995.5,
+    "num_diarios": 282,
+    "num_contratos": 297,
+    "total_gasto": "38.731.162,62",
     "top_5_empresas": {
       "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA": 1,
       "BERCON ENGENHARIA EIRELI.\n\n\n\nCubatí": 1,

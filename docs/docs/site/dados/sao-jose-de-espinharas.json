@@ -5,11 +5,11 @@
     "2015": {
       "2": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
         "top_3_empresas": [
           "S & M\nCONSTRUÇÕES E RODOVIAS LTDA",
-          "VILSON\nLACERDA BRASILEIRO,",
+          "VILSON\nLACERDA BRASILEIRO",
           "A EMPRESA:\nSOTERO CONTABILIDADE PÚBLICA LTDA"
         ],
         "top_3_objetos": [
@@ -20,8 +20,8 @@
       },
       "resumo": {
         "num_diarios": 19,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 2,
+        "total_gasto": 77400.0
       },
       "3": {
         "num_diarios": 1,
@@ -46,8 +46,8 @@
       },
       "6": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 23400.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -96,7 +96,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 26,
+        "num_diarios": 25,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -109,13 +109,6 @@
       },
       "3": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -174,20 +167,20 @@
     "2023": {
       "11": {
         "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 306791.38,
+        "num_contratos": 2,
+        "total_gasto": 498030.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 306791.38
+        "num_contratos": 3,
+        "total_gasto": 514995.5
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 16965.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -195,17 +188,17 @@
     "2024": {
       "1": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 72000.0,
+        "num_contratos": 10,
+        "total_gasto": 282014.63,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de escritório de advocacia visando a defesa do\n\nMunicípio nas ações que versam sobre a responsabilização de ex\n\ngestor por irregularidade na execução de convênios públicos através\n\nda competente ação para suspensão de inadimplências bem como nas\n\ndemandas que tramitam na cidade de João Pessoa especificamente no\n\nTribunal de Justiça do Estado da Paraíba no Tribunal de Contas do\n\nEstado Tribunal de Contas da União e Tribunal Regional Federal da 5ª\n\nRegião com todas as medidas judiciais cabíveis conforme o caso\n\nAlém de prestar consultoria jurídica nas demandas administrativas da\n\nedilidade municipal"
         ]
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 91,
-        "total_gasto": 4430187.63
+        "num_diarios": 120,
+        "num_contratos": 110,
+        "total_gasto": 4651677.54
       },
       "2": {
         "num_diarios": 12,
@@ -222,8 +215,8 @@
       },
       "3": {
         "num_diarios": 15,
-        "num_contratos": 27,
-        "total_gasto": 2183119.0999999996,
+        "num_contratos": 30,
+        "total_gasto": 2272019.0999999996,
         "top_3_empresas": [
           "GOMES E\n\nTIBURTINO ADVOGADOS LTDA"
         ],
@@ -237,7 +230,7 @@
         "total_gasto": 455000.0,
         "top_3_empresas": [
           "GIPAGEL AUTO\n\nPECAS LTDA",
-          "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA,",
+          "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA",
           "VENCEREMOS AUTO PECAS\n\nCOMERCIO A VAREJO LTDA"
         ],
         "top_3_objetos": [
@@ -245,28 +238,31 @@
         ]
       },
       "5": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 9,
         "total_gasto": 573094.09,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 5,
-        "num_contratos": 4,
-        "total_gasto": 420171.59,
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 60000.0,
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 139278.0,
         "top_3_empresas": [
-          "a empresa"
+          "HABITAR FF CONSTRUÇÕES\n\nE INCORPORAÇÕES LIMITADA",
+          "empresa RYAN CANDIDO\nBRAGA",
+          "e Ryan Candido Braga"
         ],
         "top_3_objetos": [
-          "Contratação Direta acima indicada, que objetiva:\nContratação de Serviços Técnicos no Acompanhamento de Obras de\n\nInfra Estrutura Urbana, Habitação, Esporte, Lazer e Saúde Pública,\n\nConsultoria e Assistência Técnica junto a órgãos concernentes dos\n\nconvênios firmados com outros órgãos da Administração Federal e\nEstadual (Caixa Econômica Federal – GIDUR, FUNASA, Governo do\n\nEstado da Paraíba – SUPLAN, SEPLAG, SEC"
+          "Contratação Direta acima indicada, que objetiva:\nContratação de Serviços Técnicos no Acompanhamento de Obras de\n\nInfra Estrutura Urbana, Habitação, Esporte, Lazer e Saúde Pública,\n\nConsultoria e Assistência Técnica junto a órgãos concernentes dos\n\nconvênios firmados com outros órgãos da Administração Federal e\nEstadual (Caixa Econômica Federal – GIDUR, FUNASA, Governo do\n\nEstado da Paraíba – SUPLAN, SEPLAG, SEC",
+          "contratação de serviços comuns de instalação, manutenção preventiva\n\ne corretiva de ar-condicionado com o fornecimento de\n\npeças/materiais,"
         ]
       },
       "8": {
@@ -278,15 +274,15 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 11,
-        "total_gasto": 163823.65,
+        "num_contratos": 12,
+        "total_gasto": 205823.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 8800.0,
+        "num_contratos": 2,
+        "total_gasto": 99695.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -299,8 +295,8 @@
       },
       "12": {
         "num_diarios": 9,
-        "num_contratos": 18,
-        "total_gasto": 247592.4,
+        "num_contratos": 24,
+        "total_gasto": 324166.27,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de equipamentos Administrativos para o\n\nmunicípio de São José de Espinharas-PB, através de recursos das\n\nPropostas do Ministério da Saúde nº 11418606000122002 e\n\n11418606000122003",
@@ -311,12 +307,12 @@
     }
   },
   "resumo": {
-    "num_diarios": 180,
-    "num_contratos": 92,
-    "total_gasto": 4736979.01,
+    "num_diarios": 176,
+    "num_contratos": 115,
+    "total_gasto": "5.244.073,04",
     "top_5_empresas": {
       "S & M\nCONSTRUÇÕES E RODOVIAS LTDA": 1,
-      "VILSON\nLACERDA BRASILEIRO,": 1,
+      "VILSON\nLACERDA BRASILEIRO": 1,
       "A EMPRESA:\nSOTERO CONTABILIDADE PÚBLICA LTDA": 1,
       "SOUSA\nCONTABILIDADE PUBLICA LTDA": 1,
       "GOMES E\n\nTIBURTINO ADVOGADOS LTDA": 1

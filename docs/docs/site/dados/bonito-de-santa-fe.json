@@ -3,41 +3,23 @@
   "nome": "Bonito de Santa Fé",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 7,
+      "8": {
+        "num_diarios": 14,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [],
+        "top_3_empresas": [
+          "(A)”, firmam o\npresente TERMO ADITIVO AO CONTRATO DE PRESTAÇÃO\nDE SERVIÇO TEMPORÁRIO Nº 072, datado de 18/06/2014, por\nexcepcional interesse público, com base no art.37,IX,da Constituição\nFederal, e Lei Municipal nº. 644/2013 e 645/2013, mediante as",
+          "pagará a(o) CONTRATADO(A) a\nimportância mensal de R$ 724,00 ( SETECENTOS E VINTE E\nQUATRO REAIS ), valor este correspondente ao piso salarial da\ncategoria conforme norma constitucional vigente ao tempo da\nassinatura deste instrumento contratual, a qual será automaticamente\nreajustada por ocasião do novo valor do referido salário mínimo,\nproporcionalmente, portanto, a jornada de trabalho do(a)\ncontratado(a), a ser paga até o décimo quinto dia do mês seguinte ao\nserviço efetivamente prestado, descontando-se os encargos ou\ncontribuições cabíveis, bem como os valores relativos as horas\neventualmente não trabalhadas. Compromete-se, ainda, o\nCONTRATANTE, a fornecer a(o) CONTRATADO(A) os materiais\nnecessários para a realização do serviço"
+        ],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 160,
-        "num_contratos": 3,
-        "total_gasto": 114400.0
+        "num_diarios": 159,
+        "num_contratos": 35,
+        "total_gasto": 1200044.08
       },
-      "2": {
-        "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 22000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
-        "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 23400.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 14,
+      "7": {
+        "num_diarios": 17,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -50,21 +32,39 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "7": {
-        "num_diarios": 18,
+      "5": {
+        "num_diarios": 14,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "8": {
-        "num_diarios": 14,
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 187326.01,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 12,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [
-          "(A)”, firmam o\npresente TERMO ADITIVO AO CONTRATO DE PRESTAÇÃO\nDE SERVIÇO TEMPORÁRIO Nº 072, datado de 18/06/2014, por\nexcepcional interesse público, com base no art.37,IX,da Constituição\nFederal, e Lei Municipal nº. 644/2013 e 645/2013, mediante as",
-          "pagará a(o) CONTRATADO(A) a\nimportância mensal de R$ 724,00 ( SETECENTOS E VINTE E\nQUATRO REAIS ), valor este correspondente ao piso salarial da\ncategoria conforme norma constitucional vigente ao tempo da\nassinatura deste instrumento contratual, a qual será automaticamente\nreajustada por ocasião do novo valor do referido salário mínimo,\nproporcionalmente, portanto, a jornada de trabalho do(a)\ncontratado(a), a ser paga até o décimo quinto dia do mês seguinte ao\nserviço efetivamente prestado, descontando-se os encargos ou\ncontribuições cabíveis, bem como os valores relativos as horas\neventualmente não trabalhadas. Compromete-se, ainda, o\nCONTRATANTE, a fornecer a(o) CONTRATADO(A) os materiais\nnecessários para a realização do serviço"
-        ],
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 22000.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
@@ -90,8 +90,8 @@
       },
       "12": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 69000.0,
+        "num_contratos": 12,
+        "total_gasto": 990718.0700000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -105,12 +105,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 138,
+        "num_diarios": 137,
         "num_contratos": 1,
         "total_gasto": 91000.0
       },
       "2": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -199,9 +199,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 122,
+        "num_contratos": 10,
+        "total_gasto": 180954.1
       },
       "2": {
         "num_diarios": 12,
@@ -211,7 +211,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -240,8 +240,8 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 180954.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -290,12 +290,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 128,
+        "num_diarios": 127,
         "num_contratos": 1,
         "total_gasto": 106990.0
       },
       "2": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -383,9 +383,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 143,
-        "num_contratos": 6,
-        "total_gasto": 380330.0
+        "num_diarios": 141,
+        "num_contratos": 8,
+        "total_gasto": 435330.0
       },
       "2": {
         "num_diarios": 12,
@@ -396,8 +396,8 @@
       },
       "3": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 55000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -416,7 +416,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -464,7 +464,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -480,7 +480,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 148,
+        "num_diarios": 144,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -492,14 +492,14 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 16,
+        "num_diarios": 14,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -548,7 +548,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -571,7 +571,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 135,
+        "num_diarios": 131,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -583,7 +583,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 13,
+        "num_diarios": 11,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -611,7 +611,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -632,7 +632,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -656,20 +656,20 @@
     "2021": {
       "1": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 546000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 202,
-        "num_contratos": 16,
-        "total_gasto": 277797.88
+        "num_diarios": 200,
+        "num_contratos": 202,
+        "total_gasto": 11070730.520000001
       },
       "2": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 36,
+        "total_gasto": 2441051.7299999995,
         "top_3_empresas": [
           "H MED\n\nCOMERCIAL DE MEDICAMENTOS E MATERIAL\n\nHOSPITALAR LTDA"
         ],
@@ -678,23 +678,23 @@
         ]
       },
       "3": {
-        "num_diarios": 21,
-        "num_contratos": 3,
-        "total_gasto": 55177.3,
+        "num_diarios": 20,
+        "num_contratos": 34,
+        "total_gasto": 1371584.2000000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 18,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1370844.4499999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 19,
-        "num_contratos": 12,
-        "total_gasto": 192222.0,
+        "num_diarios": 18,
+        "num_contratos": 28,
+        "total_gasto": 1643701.78,
         "top_3_empresas": [
           "S se compromete a fornecer os gêneros\nalimentícios da agricultura Familiar ao CONTRATANTE conforme\ndescrito no Projeto de Venda de Gêneros Alimentícios da Agricultura\nFamiliar, parte integrante deste Instrumento.\n\nCLÁSULA TERCEIRA:\nO limite individual de venda de gêneros alimentícios do Agricultor\nFamiliar e do Empreendedor Familiar Rural, nesse ato denominados\nCONTRATADOS será de até R$ 20.000,00 (Vinte mil reais) por\nDAP por ano civil, referente à sua produção, conforme a legislação do\nprograma Nacional de Alimentação Escolar.",
           "RES FORNECEDORES ou as ENTIDADES\nARTICULADORAS deverão informar ao ministério do\nDesenvolvimento Agrário",
@@ -706,25 +706,25 @@
       },
       "6": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 114190.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 319311.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 48820.0,
         "top_3_empresas": [
           "MARIA SELMA\nPEREIRA DE OLIVEIRA FILHA",
-          "Outros\nServiços de Terceiro Pessoa Física.\n\nVALOR MENSAL: R$ 600,00 (Seiscentos Reais)\nVALOR GLOBAL: R$ 7.200,00 (Sete Mil e Duzentos Reais)\n\nVIGÊNCIA: 20/08/2021 À 20/08/2022\n\nDATA E ASSINATURA: Bonito de Santa Fé"
+          "Outros\nServiços de Terceiro"
         ],
         "top_3_objetos": [
           "LOCAÇÃO DE UM IMÓVEL (PRÉDIO) NA CIDADE\nDE BONITO DE SANTA FÉ LOCALIZADO NA RUA JOÃO\nJUCIER DE OLIVEIRA, S/N, BAIRRO JARDIM DAS NEVES II,\nDESTINADO A GARAGEM MUNICIPAL"
@@ -732,29 +732,29 @@
       },
       "9": {
         "num_diarios": 19,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 452965.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 25,
+        "total_gasto": 859444.01,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 18,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1344560.21,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 30398.58,
+        "num_contratos": 3,
+        "total_gasto": 558257.14,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -762,38 +762,38 @@
     "2022": {
       "1": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 164139.97,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 184,
-        "num_contratos": 32,
-        "total_gasto": 390558.97000000003
+        "num_diarios": 182,
+        "num_contratos": 248,
+        "total_gasto": 20752335.52999999
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 57,
+        "total_gasto": 5713128.749999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 12,
-        "total_gasto": 237641.9,
+        "num_contratos": 64,
+        "total_gasto": 2919363.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 14,
+        "num_contratos": 41,
+        "total_gasto": 2166061.8899999997,
         "top_3_empresas": [
           "ADLLINK\n\nTELECOM PROVEDOR DE INTERNET LTDA",
           "SBS PAIXÃO\n\nTERRA NOVA LTDA",
-          "Outros Serviços de Terceiro Pessoa Jurídica.\n\n\n\nVALOR GLOBAL: R$ 95.000,00 (Noventa e Cinco Mil Reais)\n\n\nVIGÊNCIA: 26/04/2022 À 31/12/2022\n\n\n\nDATA E ASSINATURA: Bonito de Santa Fé"
+          "Outros Serviços de Terceiro"
         ],
         "top_3_objetos": [
           "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
@@ -803,57 +803,57 @@
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 48387.75,
+        "num_contratos": 22,
+        "total_gasto": 2853382.69,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 1,
-        "total_gasto": 91853.32,
+        "num_contratos": 11,
+        "total_gasto": 2649683.21,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 16,
-        "num_contratos": 18,
-        "total_gasto": 12676.0,
+        "num_contratos": 21,
+        "total_gasto": 165431.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1250882.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 124500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 1876061.3499999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 841400.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 28300.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -861,55 +861,55 @@
     "2023": {
       "1": {
         "num_diarios": 18,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 46,
+        "total_gasto": 4822869.46,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 180,
-        "num_contratos": 1,
-        "total_gasto": 17280.0
+        "num_diarios": 177,
+        "num_contratos": 206,
+        "total_gasto": 14002485.739999998
       },
       "2": {
         "num_diarios": 14,
-        "num_contratos": 1,
-        "total_gasto": 17280.0,
+        "num_contratos": 20,
+        "total_gasto": 1353400.6600000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 19,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 621894.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1276880.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 18,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 25,
+        "total_gasto": 2422142.44,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 37,
+        "total_gasto": 507480.42,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 37,
+        "total_gasto": 1581477.73,
         "top_3_empresas": [
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
           "MARCIO V. P. SANTOS & CIA LTDA",
@@ -918,9 +918,9 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 989583.6100000001,
         "top_3_empresas": [
           "A EMPRESA\n\nTRUST CONSTRUTORA LTDA",
           "A EMPRESA\n\nPROJEMAQ CONSTRUÇÕES E SERVIÇOS LTDA"
@@ -932,29 +932,29 @@
       },
       "9": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 111990.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 211800.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 16250.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 86716.22,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -973,20 +973,20 @@
       },
       "resumo": {
         "num_diarios": 186,
-        "num_contratos": 13,
-        "total_gasto": 383749.5
+        "num_contratos": 237,
+        "total_gasto": 17596153.060000006
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1403124.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 17,
-        "num_contratos": 7,
-        "total_gasto": 286449.5,
+        "num_contratos": 61,
+        "total_gasto": 4867747.66,
         "top_3_empresas": [
           "CONSTRUTORA\n\nCRAL SERVICOS LTDA"
         ],
@@ -996,57 +996,57 @@
       },
       "4": {
         "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 27000.0,
+        "num_contratos": 7,
+        "total_gasto": 728906.86,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 17,
-        "num_contratos": 3,
-        "total_gasto": 38300.0,
+        "num_contratos": 66,
+        "total_gasto": 4399841.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 417828.89,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 14000.0,
+        "num_contratos": 21,
+        "total_gasto": 909282.7700000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 37,
+        "total_gasto": 1500038.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 621345.75,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 18000.0,
+        "num_contratos": 6,
+        "total_gasto": 266100.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 2118000.0,
         "top_3_empresas": [
           "FIORI VEICOLO\nS.A"
         ],
@@ -1056,17 +1056,17 @@
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 363937.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 1727,
-    "num_contratos": 73,
-    "total_gasto": 1762106.35,
+    "num_diarios": 1706,
+    "num_contratos": 948,
+    "total_gasto": "65.436.023,03",
     "top_5_empresas": {
       "(A)”, firmam o\npresente TERMO ADITIVO AO CONTRATO DE PRESTAÇÃO\nDE SERVIÇO TEMPORÁRIO Nº 072, datado de 18/06/2014, por\nexcepcional interesse público, com base no art.37,IX,da Constituição\nFederal, e Lei Municipal nº. 644/2013 e 645/2013, mediante as": 1,
       "pagará a(o) CONTRATADO(A) a\nimportância mensal de R$ 724,00 ( SETECENTOS E VINTE E\nQUATRO REAIS ), valor este correspondente ao piso salarial da\ncategoria conforme norma constitucional vigente ao tempo da\nassinatura deste instrumento contratual, a qual será automaticamente\nreajustada por ocasião do novo valor do referido salário mínimo,\nproporcionalmente, portanto, a jornada de trabalho do(a)\ncontratado(a), a ser paga até o décimo quinto dia do mês seguinte ao\nserviço efetivamente prestado, descontando-se os encargos ou\ncontribuições cabíveis, bem como os valores relativos as horas\neventualmente não trabalhadas. Compromete-se, ainda, o\nCONTRATANTE, a fornecer a(o) CONTRATADO(A) os materiais\nnecessários para a realização do serviço": 1,

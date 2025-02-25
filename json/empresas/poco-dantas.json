@@ -1,0 +1,479 @@
+{
+  "id": "poco-dantas",
+  "nome": "Poço Dantas",
+  "detalhe": {
+    "2021": {
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 60,
+        "num_contratos": 31,
+        "total_gasto": 5677059.6
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 217952.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 216000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 375180.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material Hospitalar de forma parcelada para\n\natender as necessidades da Secretaria de Saúde do Município de Poço\n\nDantas–PB",
+            "empresa": "BIOMED DIST.\n\nHOSPITALAR E LAB NOSSA SENHORA CONCEIÇÃO",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Aquisição de Material Odontológico para atender as\n\nnecessidades da Secretaria de Saúde do Município de Poço Dantas –\n\nPB",
+            "empresa": "PAULO JOSE MAIA\n\nESMERALDO SOBREIRA",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 476442.07999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 4337483.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 18,
+        "total_gasto": 2963014.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 118,
+        "num_contratos": 93,
+        "total_gasto": 9089244.11
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 25,
+        "total_gasto": 1784306.01,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA\n\nOBJETIVANDO A EXECUÇÃO DOS SERVIÇOS\n\nESTRATÉGICOS DE TECNOLOGIA DA INFORMAÇÃO VIA\n\nSISTEMA PARA OPERACIONALIZAÇÃO DA COMPENSAÇÃO\n\nPREVIDENCIÁRIA ENTRE OS REGIMES DE PREVIDENCIA\n\nVIA SISTEMA COMPREV",
+            "empresa": "EMPRESA DE\n\nTECNOLOGIA E INFORMACOES DA PREVIDENCIA -\n\nDATAPREV S.A.",
+            "valor_total": "R$ 6,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na prestação dos\n\nserviços de Consultoria e Assessoria Contábil na área de\n\nadministração pública para atender as necessidades da Câmara\n\nMunicipal de Poço Dantas - PB",
+            "empresa": "F B MATOS DE ANDRADE",
+            "valor_total": "R$ 44,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 526042.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais bem como: portas, caibros, linhas,\n\nripas e entre outros, para manutenção das atividades de reformas\n\nprediais no município de Poço Dantas – PB, sendo o pagamento\n\nparcelado e a entrega a ser feita na sede do município de Poço Dantas\n\n– PB",
+            "empresa": "FRANCISCO ROCHA DANTAS ME",
+            "valor_total": "R$ 49,828.32"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 324655.51,
+        "empresas_mensais": [
+          {
+            "objeto": "Reforma da Escola Municipal José Pereira de Queiroz –\n\nDistrito de Tanques, Poço Dantas/PB",
+            "empresa": "JOSE ERINALDO\n\nOLIVEIRA COSTA LTDA",
+            "valor_total": "R$ 148,286.31"
+          },
+          {
+            "objeto": "AQUISIÇÃO COMPLEMENTAR DE MATERIAL DE\n\nLIMPEZA (ÁGUA SANITÁRIA)",
+            "empresa": "JOÃO VYCTOR FERNANDES DE FREITAS",
+            "valor_total": "R$ 27,094.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 820888.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de bandas musicais para as festividades\n\nalusivas ao tradicional São Pedro de Poço Dantas–PB, que ocorrerá no\n\ndia 29 de Junho de 2022",
+            "empresa": "B C M - PRODUÇÕES ARTISTICAS\n\nLTDA - ME",
+            "valor_total": "R$ 85,000.00"
+          },
+          {
+            "objeto": "Contratação de bandas musicais para as festividades\n\nalusivas ao tradicional São Pedro de Poço Dantas–PB, que ocorrerá no\n\ndia 29 de Junho de 2022",
+            "empresa": "REAL\n\nPRODUCOES E EVENTOS LTDA",
+            "valor_total": "R$ 85,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 195261.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 69000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para o fornecimento de internet\n\ncom fibra óptica na sede e zona rural de município de Poço Dantas –\n\nPB",
+            "empresa": "POPULINE TELECOM SERVICOS DE\n\nTELECOMUNICACOES LTDA",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 789587.6000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 137435.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 195350.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 225704.12,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais esportivos destinado à secretaria de\nEsporte e Cultura, para atender às demandas da Escolinha do Futuro\n\ndo Município de Poço Dantas – PB",
+            "empresa": "ALLYSON CARLOS DA SILVA LUCENA",
+            "valor_total": "R$ 28,025.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 1058000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 5470865.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 145,
+        "num_contratos": 139,
+        "total_gasto": 18887254.98
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 19,
+        "total_gasto": 1314871.21,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustível para abastecimento dos carros do\n\nmunicípio de Poço Dantas – PB na capital do estado da Paraíba, João\n\nPessoa",
+            "empresa": "BEZERRA E LUCENA LTDA.",
+            "valor_total": "R$ 40,258.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 4173335.48,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação dos Serviços\n\nAdvocatícios de Assessoria e Consultoria Jurídica para a Câmara\n\nMunicipal de Poço Dantas/PB",
+            "empresa": "HERLESON ALMEIDA\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação dos\n\nServiços Advocatícios de Assessoria e Consultoria Jurídica para a\n\nCâmara Municipal de Poço Dantas/PB",
+            "empresa": "HERLESON ALMEIDA\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 17,
+        "total_gasto": 1656613.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um carro tipo van 0km para atendimento das\n\ndemandas do município de Poço Dantas–PB",
+            "empresa": "MAIS\n\nTRUCK COMERCIO DE CAMINHOES LTDA",
+            "valor_total": "R$ 330,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 2455075.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 250837.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação temporária de serviços jurídicos técnicos\n\nespecializados na área de direito tributário",
+            "empresa": "SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA AUGUSTO SANTOS",
+            "valor_total": "R$ 2,407.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 927976.22,
+        "empresas_mensais": [
+          {
+            "objeto": "Propositura de análise pormenorizada do passivo fiscal\n\nprevidenciário do regime geral de previdência social (RGPS) e regime\n\npróprio de previdência social (rpps) do município de poço dantas – pb,\n\nnos últimos 5 (cinco) anos, bem como em toda a sua relação creditícia\n\ncom a receita federal do brasil e com a procuradoria da fazenda\n\nnacional",
+            "empresa": "PAIVA & BARROS\n\nSOCIEDADE DE ADVOGADOS",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 328993.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de vestuário destinado aos alunos da rede\n\nmunicipal de Poço Dantas–PB",
+            "empresa": "FRANCITONIO ALVES FERREIRA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 611400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de licença de\nuso e locação de software de gestão pública municipal para serem\nutilizados na prefeitura municipal de Poço Dantas–PB",
+            "empresa": "PUBLIC\nSOFTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 57,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 27932.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 276500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1392855.76,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículos 0km, para atender as necessidades da\nsecretaria de saúde do município de Poço Dantas – PB",
+            "empresa": "DICAL-DISTRIBUIDORA DE\nVEICULOS CAJAZEIRAS LTDA",
+            "valor_total": "R$ 236,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 4133678.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 118,
+        "num_contratos": 149,
+        "total_gasto": 25459889.410000004
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 22,
+        "total_gasto": 1846793.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 1711290.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 19,
+        "total_gasto": 1291962.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 882087.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 515469.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Confecção de placas indicativas de sinalização para a sede e zona\nrural do Município de Poço Dantas–PB",
+            "empresa": "MOREIRA E COSTA IMPRESSAO DE\n\nMATERIAL PUBLICITARIO LTDA",
+            "valor_total": "R$ 115,600.00"
+          },
+          {
+            "objeto": "Confecção de placas indicativas de sinalização para a sede\n\ne zona rural do Município de Poço Dantas–PB",
+            "empresa": "MOREIRA E COSTA IMPRESSAO DE\n\nMATERIAL PUBLICITARIO LTDA",
+            "valor_total": "R$ 115,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 4160254.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Reforma e ampliação da Escola Municipal Agrimar Peixoto\n\ndo Distrito de São João Bosco, município de Poço Dantas–PB",
+            "empresa": "A L S CONSTRUCOES, SERVICOS E\n\nEVENTOS EIRELI",
+            "valor_total": "R$ 731,091.89"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 204197.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 827485.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 20,
+        "total_gasto": 6904501.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 2285390.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE UM VEÍCULO 0 KM, TIPO\n\nUTILITÁRIO PARA ATENDER O MUNICÍPIO DE POÇO\n\nDANTAS",
+            "empresa": "RIO VALE\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 282,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 696777.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de preço para Aquisição de material esportivo para\n\natender as necessidades do município de Poço Dantas–PB, conforme\n\ntermo de referência",
+            "empresa": "RG MAGAZINE LTDA",
+            "valor_total": "R$ 92,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

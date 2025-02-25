@@ -1,0 +1,378 @@
+{
+  "id": "areia-de-baraunas",
+  "nome": "Areia de Baraúnas",
+  "detalhe": {
+    "2022": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 29,
+        "num_contratos": 21,
+        "total_gasto": 4591511.13
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 2843157.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo novo, Zero Km, destinado a atender\n\nas necessidades da Prefeitura Municipal de Areia de Baraúnas/PB",
+            "empresa": "COPAUTO COMERCIO\n\nPATOENSE DE AUTOMOTORES LTDA",
+            "valor_total": "R$ 89,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 85000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Veículo Automotivo do tipo Van Destinado ao\n\nAtendimento das Atividades da Secretaria de Educação da Prefeitura\n\nMunicipal de Areia de Baraúnas–PB",
+            "empresa": "MEIRA KATIA ALVES\n\nDE FARIAS",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 449575.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 492000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação uma máquina PC, montada sobre esteira, concha\nde capacidade de no mínimo 1,80 m3, capacidade operacional para\nigual ou superior a 22 toneladas, lança igual ou superior a 09 metros",
+            "empresa": "A EMPRESA: T\nA FRANCA SERVICOS",
+            "valor_total": "R$ 209,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 721779.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 31980.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 56,
+        "num_contratos": 31,
+        "total_gasto": 6583289.17
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 1794000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada e Gradual de Combustíveis,\n\ndestinados aos veículos de propriedade da Prefeitura, Contratados,\n\nlocados, à disposição ou vinculados a atividade pública do Município\n\nde Areia de Baraúnas – PB, durante o exercício de 2023",
+            "empresa": "s,\n\nlocados, à disposição ou vinculados a atividade pública do Município\n\nde Areia de Baraúnas",
+            "valor_total": "R$ 1,794,000.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada e Gradual de Combustíveis,\n\ndestinados aos veículos de propriedade da Prefeitura, Contratados,\n\nlocados, à disposição ou vinculados a atividade pública do Município\n\nde Areia de Baraúnas – PB, durante o exercício de 2023",
+            "empresa": "POSTO MARTINS\n\nCOMERCIO DE COMBUSTIVEIS EIRELI",
+            "valor_total": "R$ 1,794,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1046131.0000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 13,
+        "total_gasto": 1181409.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 1024249.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 444068.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 436211.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 625240.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 2280630.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Locação de\n\nMáquina para realização de Corte de Terra na Zona Rural do\n\nMunicípio de Areia de Baraúnas – PB, durante o exercício de 2024",
+            "empresa": "J M LOCADORA E\n\nSERVICO LTDA",
+            "valor_total": "R$ 161,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 97,
+        "num_contratos": 111,
+        "total_gasto": 15490308.97
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 1677337.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 2585513.05,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS DE VEICULOS PARA\n\nMANUTENÇÃO PREVENTIVA E CORRETIVA DOS VEICULOS\n\nDA FROTA DA PREFEITURA DE AREIA DE BARAÚNAS - PB",
+            "empresa": "HB AUTOPECAS\n\nCOMERCIO DE PECAS E SERVICOS LTDA",
+            "valor_total": "R$ 49,510.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS MECANICOS ESPECIALIZADOS NA\n\nIDENTIFICAÇÃO, MANUTENÇÃO E CORREÇÃO DE\n\nDEFEITOS APRESENTADOS NOS MAIS DIVERSOS VEICULOS\n\nSOB CUIDADOS DA PREFEITURA DE AREIA DE BARAÚNAS -\n\nPB",
+            "empresa": "HB AUTOPECAS\n\nCOMERCIO DE PECAS E SERVICOS LTDA",
+            "valor_total": "R$ 49,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 2202263.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 30,
+        "total_gasto": 3211400.25,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS\n\nPREVENTIVAS PARA MANUTENÇÃO E CONSERVAÇÃO DA\n\nFROTA DE VEÍCULOS PRÓPRIOS, LOCADOS E MAQUINAS\n\nPESADAS DA PREFEITURA DE AREIA DE BARAÚNAS – PB",
+            "empresa": "A NORDESTINA\n\nDISTRIBUIDORA DE PECAS LTDA",
+            "valor_total": "R$ 1,200,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS\n\nPREVENTIVAS PARA MANUTENÇÃO E CONSERVAÇÃO DA\n\nFROTA DE VEÍCULOS PRÓPRIOS, LOCADOS E MAQUINAS\n\nPESADAS DA PREFEITURA DE AREIA DE BARAÚNAS – PB",
+            "empresa": "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA",
+            "valor_total": "R$ 1,200,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS\n\nPREVENTIVAS PARA MANUTENÇÃO E CONSERVAÇÃO DA\n\nFROTA DE VEÍCULOS PRÓPRIOS, LOCADOS E MAQUINAS\n\nPESADAS DA PREFEITURA DE AREIA DE BARAÚNAS – PB",
+            "empresa": "HB AUTOPECAS\n\nCOMERCIO DE PECAS E SERVICOS LTDA",
+            "valor_total": "R$ 1,200,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS PARA MANUTENÇÃO E CONSERVAÇÃO DA\n\nFROTA DE VEÍCULOS PRÓPRIOS, LOCADOS E MAQUINAS\n\nPESADAS DA PREFEITURA DE AREIA DE BARAÚNAS – PB",
+            "empresa": "HB AUTOPECAS\n\nCOMERCIO DE PECAS E SERVICOS LTDA",
+            "valor_total": "R$ 361,100.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS PARA MANUTENÇÃO E CONSERVAÇÃO DA\n\nFROTA DE VEÍCULOS PRÓPRIOS, LOCADOS E MAQUINAS\n\nPESADAS DA PREFEITURA DE AREIA DE BARAÚNAS – PB",
+            "empresa": "CEARA DIESEL MECANICA GERAL\n\nLTDA",
+            "valor_total": "R$ 361,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 379165.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 836107.62,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Construção para Conservação e\n\nManutenção dos prédios públicos do Município Areia de Baraúnas –\n\nPB",
+            "empresa": "CT Nº 00097/2024 -\n\n19.07.24 até 19.07.25 - 49.407.706 ROBSON LEITE DE CALDAS -\n\nR$ 147.383,90; CT Nº 00098/2024 - 19.07.24 até 19.07.25 - EPI\n\nEMPRESA DE IRRIGACAO LTDA",
+            "valor_total": "R$ 594,696.40"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE APARELHOS DE AR–\n\nCONDICIONADO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO DO MUNICIPO DE AREIA DE\n\nBARAÚNAS/PB, NOS TERMOS DO CONVÊNIO 041/2024 DA\n\nSECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "P.A.S. & SANTANA\n\nLTDA",
+            "valor_total": "R$ 66,110.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE APARELHOS DE AR–\n\nCONDICIONADO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO DO MUNICIPO DE AREIA DE\n\nBARAÚNAS/PB, NOS TERMOS DO CONVÊNIO 041/2024 DA\n\nSECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "REPREMIG\n\nREPRESENTACAO E COMERCIO DE MINAS GERAIS LTDA -\n\nR$ 9.996,00.\n\n\n\nAreia de Baraúnas",
+            "valor_total": "R$ 66,110.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 105987.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 685391.0800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE ASSENTAMENTO DE PISO\n\nINTERTRAVADO EM CANTEIROS NO MUNICÍPIO DE AREIA\n\nDE BARAÚNAS/PB",
+            "empresa": "RAUL VICTOR\n\nVALENTIM DE SENA",
+            "valor_total": "R$ 155,783.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 45650.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE DEDETIZAÇÃO, DESRATIZAÇÃO,\n\nDESCUPINIZAÇÃO, DESINSETIZAÇÃO E DESALOJAMENTO\n\nDE AVES E MORCEGOS NAS ÁREAS INTERNAS E EXTERNAS\n\nDAS UNIDADES BÁSICAS DE SAÚDE, SECRETARIA E\n\nDEPÓSITO, ATENDENDO AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DE AREIA DE BARAÚNAS – PB",
+            "empresa": "ROBSON SULLIVAN\n\nRIBEIRO NOGUEIRA",
+            "valor_total": "R$ 18,150.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 66320.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE APARELHOS DE AR–\nCONDICIONADO PARA ATENDER AS NECESSIDADES DA\nSECRETARIA DE EDUCAÇÃO DO MUNICIPO DE AREIA DE\nBARAÚNAS/PB, NOS TERMOS DO CONVÊNIO 041/2024 DA\nSECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "REPREMIG\nREPRESENTACAO E COMERCIO DE MINAS GERAIS LTDA -\nR$ 11.011,20; CT Nº 00125/2024 - 25.11.24 - CANAPU\nCOMERCIO DE DISTRIBUI????O LTDA",
+            "valor_total": "R$ 66,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1414543.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

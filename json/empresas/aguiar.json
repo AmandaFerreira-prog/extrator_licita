@@ -1,0 +1,273 @@
+{
+  "id": "aguiar",
+  "nome": "Aguiar",
+  "detalhe": {
+    "2023": {
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do cantor e compositor FABRICIO\n\nRODRIGUES E BANDA",
+            "empresa": "IVANILDO DE OLIVEIRA FARIAS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "BANDA MUSICAL BRASAS DO FORRÓ",
+            "empresa": "BRASAS DO FORRÓ COMÉRCIO E LOCAÇÃO\n\nDE MATERIAL LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 25,
+        "total_gasto": 1807460.21
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 50100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para a locação de\n\nestrutura para as festividades do João Pedro, no município de Aguiar-\n\nPB",
+            "empresa": "JC PRODUÇÕES ESTRUTURA E LOCAÇÃO\n\nLTDA",
+            "valor_total": "R$ 50,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 144000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 176000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETIFICA E SERVIÇOS LTDA, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETIFICA E SERVIÇOS LTDA, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETIFICA E SERVIÇOS LTDA, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "ERIVAM IDELFONSO ME, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "ERIVAM IDELFONSO ME, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "ERIVAM IDELFONSO ME, cadastrada no",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GIPAGEL AUTO PEÇAS",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GIPAGEL AUTO PEÇAS",
+            "valor_total": "R$ 161,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para\n\ncontratação de empresa do ramo pertinente para aquisição de peças\n\npor maior desconto, para manutenção de veículos de grande e\n\npequeno porte pertencentes ao município de Aguiar-PB",
+            "empresa": "GIPAGEL AUTO PEÇAS",
+            "valor_total": "R$ 161,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 103775.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para manutenção preventiva e\n\ncorretiva dos ônibus escolar a medida de suas necessidades,\ndestinados a Secretaria de Educação",
+            "empresa": "BOM SUCESSO MIDIA DIGITAL SERVIÇOS\nDE COMUNICAÇÃO MULTIMIDIA LTDA ME",
+            "valor_total": "R$ 44,975.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 269106.16000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 1064479.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 3184298.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 146,
+        "num_contratos": 127,
+        "total_gasto": 18828039.919999998
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 1457136.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 2427993.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para aquisição de computadores de\n\nmesa e impressoras destinados aos Centros de Especialidades\n\nOdontológicos – CEO, para a utilização do prontuário eletrônico do\n\ncidadão – PEC, atendendo a Portaria nº 4.658/2022 e Nota Técnica nº\n\n36/2022-CGSB/DESF/SAPS/MS, do Ministério da Saúde, durante o\n\nexercício de 2024, destinados a Secretaria de Saúde e Meio Ambiente",
+            "empresa": "CENTERDATA ANALISE DE SISTEMAS E\n\nSERVIÇOS DE INFORMÁTIVA EIRELI, cadastrada no",
+            "valor_total": "R$ 16,920.00"
+          },
+          {
+            "objeto": "O fornecimento de Medicamentos de Farmácia",
+            "empresa": "DENISE WANESKA DE OLIVEIRA COSTA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de óleos lubrificantes e filtros, com entrega e\n\ntroca na cidade de Aguiar, durante o exercício de 2024, destinados aos\n\nveículos pertencentes ao município, aos locados ou a disposição, para\n\nmanutenção das atividades de todas as secretarias, a medida de suas\n\nnecessidades",
+            "empresa": "JOSÉ CLAUDIO BATISTA BEZERRA",
+            "valor_total": "R$ 316,460.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 1267952.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa do ramo pertinente para a locação\nde softwares do sistema de contabilidade pública, folha de pagamento,\n\nsistema do portal da transparência, portal do servidor, sistema de\n\narrecadação tributária, portal do contribuinte, sistema de controle de\nfrota, portal de transparecia da frota e sistema de farmácia básica",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA,\n\ncadastrada no",
+            "valor_total": "R$ 58,190.00"
+          },
+          {
+            "objeto": "Fornecimento de refeições na cidade de Aguiar, destinados\n\naos profissionais da secretaria de administração, secretaria de\n\ndesenvolvimento humano e cidadania, secretaria de cultura, esportes e\n\nturismo, atendendo solicitação da secretaria de administração, a\n\nmedida de suas necessidades, durante o exercício de 2024",
+            "empresa": "MARIA DA CONCEIÇÃO BATISTA",
+            "valor_total": "R$ 117,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 1866670.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados em\n\nassessoria e consultoria jurídica, na área de direito administrativo,\n\nconstitucional, bem como na elaboração de peças em matéria de\n\nadministração em geral, atendendo as necessidades da Secretaria de\n\nEducação do Município de Aguiar – PB",
+            "empresa": "PAULO ITALO DE OLIVEIRA VILAR\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 40000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 30,
+        "total_gasto": 4122504.12,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO\n\nPERTINENTE PARA PRESTAR OS SERVIÇOS DE\n\nCONFECÇÕES DE PRÓTESES DENTÁRIAS, ATENDENDO A\n\nPORTARIA Nº 1.924/2034, PORTARIA DE CONSOLIDAÇÃO Nº\n06/2017, NOTA TÉCNICA Nº 20/2021 CGSB/DESF/SAPS/MS,\n\nSOLICITAÇÃO DA SECRETARIA DE SAÚDE E MEIO\n\nAMBIENTE PARA O MUNICÍPIO DE AGUIAR – PB",
+            "empresa": "JOAQUIM BRASILINO DE SOUSA",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 16,
+        "total_gasto": 2868553.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviço técnico de terceiros, pessoas jurídicas,\n\ncom à finalidade de desempenhar monitoramento, planejamento,\n\navaliação e orientação do gerenciamento das políticas públicas de\n\nassistência social e assessoria jurídica, no âmbito dos serviços,\n\nprogramas e gestão do suas, no município de Aguiar – PB, bem como\n\nos serviços relacionados na proposta de preços apresentada",
+            "empresa": "ARAÚJO ASSESSORIA, CONSULTORIA E\n\nSERVIÇOS JURIDICOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 649090.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 207889.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 435953.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A LOCAÇÃO DE ESTRUTURA PARA AS FESTIVIDADES\n\nDO MUNICÍPIO DE AGUIAR –PB",
+            "empresa": "J C PRODUÇÕES ESTRUTURAS E LOCAÇÃO\n\nLTDA",
+            "valor_total": "R$ 124,860.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 300000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

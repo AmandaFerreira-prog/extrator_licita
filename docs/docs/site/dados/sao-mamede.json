@@ -3,31 +3,49 @@
   "nome": "São Mamede",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 51229.05,
         "top_3_empresas": [
-          "G M RANGEL\nCOMBUSTIVEIS LTDA/POSTO GIPAGEL",
-          "s, locados a disposição ou vinculados a\natividades pública do Município de São Mamede",
-          "EDUCA - Assessoria\nEducacional Ltda"
+          "PAULO\nRICARDO PINHEIRO DE LIMA"
         ],
         "top_3_objetos": [
-          "Aquisição de Combustíveis,\nLubrificantes e Filtros, destinados aos veículos de propriedade da\nPrefeitura, contratados, locados a disposição ou vinculados a\natividades pública do Município de São Mamede – PB;",
-          "Realização\nde Concurso Público de Provas e Títulos para provimento de cargos\nefetivos;"
+          "Contratação de empresa especializada para serviços de\nperfuração e detonação com o emprego de materiais explosivos e\nacessórios, para desmontar 213,90m³ de rocha, bem como realizar\no desmonte de matacões e derrubadas das pedras, que terá\ndescarga dos resíduos provenientes da limpeza onde deverá ser\nlançada em um local indicado pela secretaria de obras, dentro dos\nlimites territoriais do Município",
+          "Contratação de empresa(s) para fornecimento de forma\nparcelada de ALIMENTOS NÃO PERECIVEIS, MATERIAL\nDE HIGIENE E LIMPEZA, PRODUTOS DE PANIFICAÇÃO,\nCARNES, PEIXES, FRANGOS E DERIVADOS destinados a\nMerenda Escolar, Programa Brasil Alfabetizado; CRAS, PETI,\nBolsa Família, Pró-Jovem e para atender as demais secretarias do\nmunicípio durante o exercício de 2014"
         ]
       },
       "resumo": {
-        "num_diarios": 30,
-        "num_contratos": 1,
-        "total_gasto": 90000.0
+        "num_diarios": 29,
+        "num_contratos": 13,
+        "total_gasto": 1169868.9000000001
       },
-      "2": {
-        "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 90000.0,
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 753084.0,
+        "top_3_empresas": [
+          "CONSERV"
+        ],
+        "top_3_objetos": [
+          "Perfuração e instalação de 10 (dez) poços tubulares /Convênio nº\n0228/2009/FUNASA/MS/PMSM – PB,"
+        ]
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": [
+          "Aquisição de Peças, Assessórios e Serviços para\nmanutenção dos novos veículos adquiridos e locados pela Prefeitura\nMunicipal de São Mamede – PB: 1º Secretaria de Saúde: Veículo\nVW/Novo Gol 1.0, Placa NPW-4671/PB e Veículo VW/Kombi, Placa\nNPY-9722/PB, 2º Secretaria de Educação: Veículo Caminhonete\nVW/Amarok CD 4x4, Placa OGA-9144, 3º Gabinete do Prefeito:\nVeículo caminhonete VW/Amarok CD 4x4, Placa OGD-3860, de\nacordo com a proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº\n003/2014"
+        ]
       },
       "3": {
         "num_diarios": 3,
@@ -43,31 +61,19 @@
           "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nANA CLAUDIA BRASIL DE MEDEIROS – ME, CNPJ:\n08.272.332/0001-37, ,"
         ]
       },
-      "4": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 90000.0,
+        "top_3_empresas": [
+          "A EMPRESA: SOTERO\nCONTABILIDADE PÚBLICA LTDA"
+        ],
         "top_3_objetos": [
-          "Aquisição de Peças, Assessórios e Serviços para\nmanutenção dos novos veículos adquiridos e locados pela Prefeitura\nMunicipal de São Mamede – PB: 1º Secretaria de Saúde: Veículo\nVW/Novo Gol 1.0, Placa NPW-4671/PB e Veículo VW/Kombi, Placa\nNPY-9722/PB, 2º Secretaria de Educação: Veículo Caminhonete\nVW/Amarok CD 4x4, Placa OGA-9144, 3º Gabinete do Prefeito:\nVeículo caminhonete VW/Amarok CD 4x4, Placa OGD-3860, de\nacordo com a proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº\n003/2014"
+          "Contratação Direta de Empresa de\n\nContabilidade Pública para Prestação de Serviços Técnicos\nEspecializados em Assessoria e Consultoria Contábil para todos os\nórgãos da administração direta e indireta da Prefeitura de São\nMamede - PB, através da empresa SOTERO CONTABILIDADE\nPÚBLICA LTDA – ME , CNPJ: 19.406.302/0001-92; Fundamento\nLEGAL : Arts"
         ]
       },
-      "5": {
-        "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 1,
+      "1": {
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -112,8 +118,8 @@
       },
       "11": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 275555.85,
         "top_3_empresas": [
           "A EMPRESA NASA",
           "ANTONIO DE\nARAÚJO AMORIM",
@@ -136,20 +142,20 @@
     "2015": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 201920.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 64,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 41,
+        "total_gasto": 3860755.32
       },
       "2": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 104056.31,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -162,8 +168,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 760841.4199999999,
         "top_3_empresas": [
           "EVERTON DE\nOLIVEIRA ARAÚJO",
           "SEBASTIÃO\nMEDEIROS GAMBARRA"
@@ -175,8 +181,8 @@
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 21,
+        "total_gasto": 408800.0,
         "top_3_empresas": [
           "MARIA LÚCIA\nCAMINHA DA SILVA",
           "JOSELENE MARIA\nDE ARAÚJO",
@@ -189,15 +195,15 @@
       },
       "6": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 125000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 789942.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -221,8 +227,8 @@
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 142936.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -235,8 +241,8 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 1327259.07,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -258,8 +264,8 @@
       },
       "resumo": {
         "num_diarios": 33,
-        "num_contratos": 2,
-        "total_gasto": 710786.24
+        "num_contratos": 20,
+        "total_gasto": 2420311.1999999997
       },
       "2": {
         "num_diarios": 7,
@@ -270,8 +276,8 @@
       },
       "3": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 641855.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -284,8 +290,8 @@
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 498426.86,
         "top_3_empresas": [
           "A EMPRESA MARTINS\nCONSTRUÇÕES EIRELI"
         ],
@@ -295,8 +301,8 @@
       },
       "6": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 396941.43,
         "top_3_empresas": [
           "A EMPRESA AREA\nBADALADA EVENTOS LTDA",
           "A EMPRESA PEGADA DE\nBARÃO",
@@ -317,8 +323,8 @@
       },
       "9": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 39740.0,
         "top_3_empresas": [
           "PAULO SÉRGIO DE\nSOUTO"
         ],
@@ -328,8 +334,8 @@
       },
       "10": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 81674.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -342,8 +348,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 514946.24,
+        "num_contratos": 5,
+        "total_gasto": 565833.56,
         "top_3_empresas": [
           "MARTINS CONSTRUÇÕES EIRELI"
         ],
@@ -360,8 +366,8 @@
       },
       "resumo": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 7,
+        "total_gasto": 1973243.0
       },
       "2": {
         "num_diarios": 1,
@@ -372,10 +378,16 @@
       },
       "3": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 1486790.0,
+        "top_3_empresas": [
+          "SANDRO ROZANEO\nCAMPOS DE FIGUEIREDO (POSTO SÃO SEBASTIÃO)",
+          "SEBASTIAO SILVINO\nDOS SANTOS"
+        ],
+        "top_3_objetos": [
+          "Contratação para o fornecimento parcelado de combustíveis\ne lubrificantes para uso nos veículos da frota pública do Município de\nSão Sebastião do Umbuzeiro/PB",
+          "Registro de preços para futura e eventual contratação da\nlocação de veículos para atender as necessidades das secretarias do\nMunicípio de São Sebastião do Umbuzeiro/PB, conforme planilha\norçamentária"
+        ]
       },
       "5": {
         "num_diarios": 5,
@@ -402,8 +414,8 @@
       },
       "8": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 486453.0,
         "top_3_empresas": [
           "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
           "GMP MÁQUINAS E\nEQUIPAMENTOS",
@@ -426,8 +438,8 @@
     "2018": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 1321272.76,
         "top_3_empresas": [
           "TOP PEÇAS\nVIDRO CENTRO AUTOMOTIVO LTDA",
           "TACIANO TÔNI\nSERAFIM TEIXEIRA"
@@ -438,13 +450,13 @@
       },
       "resumo": {
         "num_diarios": 72,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 99,
+        "total_gasto": 9387199.97
       },
       "2": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 2417429.4,
         "top_3_empresas": [
           "C.PINHEIRO e\nCIA LTDA",
           "FORTUNATO\nVICENTE FERREIRA JUNIOR",
@@ -457,8 +469,8 @@
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 21,
+        "total_gasto": 1589323.42,
         "top_3_empresas": [
           "FERNANDO\nFRANCO DE CARVALHO",
           "UDI",
@@ -471,15 +483,15 @@
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 296122.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 652107.34,
         "top_3_empresas": [
           "RITA DE\nANDRADE VIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
           "ODONTOMED\nCOMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES\nLTDA",
@@ -493,38 +505,39 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 284535.0,
         "top_3_empresas": [
           "FIORI\nVEÍCULOS S.A"
         ],
         "top_3_objetos": [
           "Aquisição de 01(uma) ambulância tipo A furgonete FIAT\nFIORINO HAD WORKING 1.4 FLEX, para atender as necessidades\nda Secretaria de Saúde da Prefeitura Municipal de São Mamede,\nconforme especificações constantes no Termo de Referência e em\nconformidade com o Termo de Compromisso n.º\n2514901712261715843, conforme proposta de preço, tipo menor\npreço global, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
-          "Aquisição de 01(uma) ambulância tipo A FIAT/DUCATO\nCARGO 2.3 DIESEL, Simples Remoção Tipo Furgão para atender as\nnecessidades da Secretaria de Saúde da Prefeitura Municipal de São\nMamede, conforme especificações constantes no Termo de Referência\ne em conformidade com a Proposta n.º 04223.191000/1170-4,\nconforme proposta de preço, tipo menor preço global, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº"
+          "Aquisição de 01(uma) ambulância tipo A FIAT/DUCATO\nCARGO 2.3 DIESEL, Simples Remoção Tipo Furgão para atender as\nnecessidades da Secretaria de Saúde da Prefeitura Municipal de São\nMamede, conforme especificações constantes no Termo de Referência\ne em conformidade com a Proposta n.º 04223.191000/1170-4,\nconforme proposta de preço, tipo menor preço global, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+          "AQUISIÇÃO DE FORMA PARCELADA DE GLP PARA\nATENDER AS NECESSIDADES DA PREFEITURA"
         ]
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 500600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 125698.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 2200112.05,
         "top_3_empresas": [
           "EXPEDITO\n\nVIEIRA DE SOUSA DANTAS",
           "ALDO\n\nFABRIZIO DUTRA DANTAS",
-          "LIDINALDO\n\nAZEVEDO DA SILVA 03650613441"
+          "LIDINALDO\n\nAZEVEDO DA SILVA"
         ],
         "top_3_objetos": [
           "Aquisição de Equipamentos, Materiais Permanentes e\n\nMobiliários para atender as necessidades da Instituição de Longa\n\nPermanência para Idosos do Município de São Mamede, nos termos\n\ndo Convênio n.º 0049/2018/SEDS-PB/PMSM, dos itens 2, 3, 5 e 7,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
@@ -557,37 +570,37 @@
     "2019": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 24,
+        "total_gasto": 1998753.5199999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 95,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 94,
+        "num_contratos": 115,
+        "total_gasto": 12466074.639999995
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 1746318.4200000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 21,
+        "total_gasto": 2181072.22,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 358321.0,
         "top_3_empresas": [
           "SOTERO CONTABILIDADE\n\nPÚBLICA LTDA",
-          "JOÃO LOPES DE SOUSA NETO,"
+          "JOÃO LOPES DE SOUSA NETO"
         ],
         "top_3_objetos": [
           "Contratação Direta de Empresa para Prestação de Serviços\nTécnicos Especializados em Assessoria e Consultoria Contábil,\n\natravés da SOTERO CONTABILIDADE PÚBLICA LTDA – ME,\n\nCNPJ: 19.406.302/0001-92",
@@ -596,15 +609,15 @@
       },
       "5": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 2841648.32,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 149177.0,
         "top_3_empresas": [
           "AGS\nCOMÉRCIO E SERVIÇOS LTDA",
           "CAVALCANTI\nPRIMO VEÍCULOS LTDA"
@@ -615,16 +628,16 @@
         ]
       },
       "7": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 165329.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1236454.54,
         "top_3_empresas": [
           "AG\nCONSTRUTORA E SERVIÇOS LTDA"
         ],
@@ -634,15 +647,15 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1229724.54,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 345595.58,
         "top_3_empresas": [
           "CAVALCANTI\nPRIMO VEÍCULOS LTDA",
           "P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES",
@@ -656,8 +669,8 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 190000.0,
         "top_3_empresas": [
           "UNIDAS\nVEÍCULOS E SERVIÇOS LTDA"
         ],
@@ -667,8 +680,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 23680.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -676,8 +689,8 @@
     "2020": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 18,
+        "total_gasto": 1612656.68,
         "top_3_empresas": [
           "A EMPRESA ODONTOMED\nCOMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES\nLTDA",
           "A EMPRESA FARMAGUEDES\nCOMÉRCIO DE PRODUTOS FARMACÊUTICOS MÉDICOS\nE HOSPITALARES",
@@ -688,28 +701,28 @@
         ]
       },
       "resumo": {
-        "num_diarios": 73,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 72,
+        "num_contratos": 82,
+        "total_gasto": 12624981.32
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 28,
+        "total_gasto": 3399829.4699999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 122413.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 902986.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -722,8 +735,8 @@
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 794071.45,
         "top_3_empresas": [
           "NÓBREGA E\n\nSOUZA CONSTRUÇÕES LTDA"
         ],
@@ -733,13 +746,13 @@
         ]
       },
       "7": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 998164.11,
         "top_3_empresas": [
-          "EMPORIUM\nCONSTRUTORA COMÉRCIO E SERVIÇOS LTDA, inscrita no",
-          "GAMA DIESEL\nLTDA, inscrita no",
-          "LS TRATOR\nASAP COMÉRCIO DE MÁQUINAS LTDA, inscrita no"
+          "EMPORIUM\nCONSTRUTORA COMÉRCIO E SERVIÇOS LTDA",
+          "GAMA DIESEL\nLTDA",
+          "LS TRATOR\nASAP COMÉRCIO DE MÁQUINAS LTDA"
         ],
         "top_3_objetos": [
           "Aquisição Veículos tipo Caminhão Toco, Marca Iveco,\nModelo: TECTOR 9-190, CARROCERIA DE MADEIRA PATENSE\ne demais especificações constantes do Item 01 do Termo de\nReferência, para atender as necessidades da Prefeitura Municipal de\n\nSão Mamede, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Eletrônico Nº",
@@ -749,8 +762,8 @@
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1254296.56,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -763,15 +776,15 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 3395939.9499999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 144624.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -786,20 +799,20 @@
     "2021": {
       "1": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 1523961.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
-        "num_contratos": 6,
-        "total_gasto": 547977.75
+        "num_diarios": 122,
+        "num_contratos": 191,
+        "total_gasto": 25673792.48
       },
       "2": {
-        "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 11,
+        "num_contratos": 60,
+        "total_gasto": 3093372.89,
         "top_3_empresas": [
           "A EMPRESA FORNECEDORA\nAGRICOLA COMERCIO E SERVICOS LTDA",
           "A EMPRESA GIPAGEL AUTO\nPEÇAS LTDA",
@@ -813,8 +826,8 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 32,
+        "total_gasto": 2382829.89,
         "top_3_empresas": [
           "M.S.S.CAMPOS/CAMPOS\nCONSULTORIA"
         ],
@@ -824,38 +837,38 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 2384779.87,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 1,
-        "total_gasto": 54460.55,
+        "num_contratos": 15,
+        "total_gasto": 2074325.29,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 1274919.41,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 363061.0,
+        "num_contratos": 11,
+        "total_gasto": 865800.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1012504.71,
         "top_3_empresas": [
-          "SARAH MARIA BERNARDINO\nTAVARES 12144301476"
+          "SARAH MARIA BERNARDINO\nTAVARES"
         ],
         "top_3_objetos": [
           "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM\nSAÚDE NA ATENÇÃO BÁSICA E NA OPERACIONALIZAÇÃO\nDE PROGRAMAS E DE PROJETOS JUNTO AO CONSELHO\nMUNICIPAL DE SAÚDE, NO MONITORAMENTO DOS\nSISTEMAS DE INFORMATIZAÇÃO DA SAÚDE, TAIS COMO:\nEGESTOR, SAIPS, E-SUS, SISMOB E FNS"
@@ -863,10 +876,10 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 4,
-        "total_gasto": 130456.2,
+        "num_contratos": 11,
+        "total_gasto": 9824825.119999997,
         "top_3_empresas": [
-          "A EMPRESA: CONSTRUTORA\n\nAPODI EIRELI, devidamente inscrita no"
+          "A EMPRESA: CONSTRUTORA\n\nAPODI EIRELI, devidamente"
         ],
         "top_3_objetos": [
           "Contratação de Empresa para Execução de Serviços de\n\nReforma do Hospital no Município de São Mamede - PB, nos termos\n\ndo Contrato de Repasse n.º 1063259-09/2018 e conforme projeto\n\nbásico de engenharia"
@@ -874,8 +887,8 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 15530.0,
         "top_3_empresas": [
           "A EMPRESA GIPAGEL AUTO\n\nPEÇAS LTDA",
           "Material de Consumo;\n\n02.081"
@@ -886,15 +899,15 @@
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 107949.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1112995.3,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -902,10 +915,10 @@
     "2022": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 100,
+        "total_gasto": 9909618.069999997,
         "top_3_empresas": [
-          "RENOVAR\n\nCONSTRUCOES E SERVIÇOS LTDA, inscrita no"
+          "RENOVAR\n\nCONSTRUCOES E SERVIÇOS LTDA"
         ],
         "top_3_objetos": [
           "Contratação de Empresa para Execução de Serviços de\n\nReforma da Policlínica no Município de São Mamede - PB, nos\n\ntermos do Contrato de Repasse n.º 1063243-63/2018 e conforme\n\nprojeto básico de engenharia"
@@ -913,22 +926,22 @@
       },
       "resumo": {
         "num_diarios": 79,
-        "num_contratos": 10,
-        "total_gasto": 650981.48
+        "num_contratos": 197,
+        "total_gasto": 20063340.960000005
       },
       "2": {
         "num_diarios": 5,
-        "num_contratos": 3,
-        "total_gasto": 108547.48,
+        "num_contratos": 13,
+        "total_gasto": 1650854.3699999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 2121115.05,
         "top_3_empresas": [
-          "CONSTRUTORA APODI EIRELI, devidamente\n\ninscrita no",
+          "CONSTRUTORA APODI EIRELI, devidamente",
           "do instrumento Contratual a ASSOCIAÇÃO DE\n\nPROTEÇÃO A MATERNIDADE E A INFÂNCIA DE SÃO\n\nMAMEDE, como sede na Avenida Normando Araújo, n.º 243, Bairro\n\nCentro, São Mamede",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e"
         ],
@@ -936,8 +949,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1144499.99,
         "top_3_empresas": [
           "AG\n\nCONSTRUTORA E SERVIÇOS LTDA"
         ],
@@ -947,29 +960,29 @@
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 1179251.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 241934.0,
+        "num_contratos": 15,
+        "total_gasto": 1564146.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 629983.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 898758.6,
         "top_3_empresas": [
           "CONCRETISA\n\nCONSTRUTORA EIRELI"
         ],
@@ -979,15 +992,15 @@
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 255096.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 300500.0,
+        "num_contratos": 7,
+        "total_gasto": 452409.81,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1000,8 +1013,8 @@
       },
       "12": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 257608.87,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -1009,31 +1022,31 @@
     "2023": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 14,
-        "total_gasto": 2294555.72,
+        "num_contratos": 113,
+        "total_gasto": 14941362.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 117,
-        "num_contratos": 59,
-        "total_gasto": 8875007.780000001
+        "num_diarios": 116,
+        "num_contratos": 271,
+        "total_gasto": 42198492.449999996
       },
       "2": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 225009.13,
         "top_3_empresas": [
-          "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES 12144301476, inscrita no"
+          "A EMPRESA SARAH MARIA\n\nBERNARDINO TAVARES"
         ],
         "top_3_objetos": [
           "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EM\n\nSAÚDE NA ATENÇÃO BÁSICA E NA OPERACIONALIZAÇÃO\n\nDE PROGRAMAS E DE PROJETOS JUNTO AO CONSELHO\n\nMUNICIPAL DE SAÚDE NO QUE SE REFERE AO\n\nMONITORAMENTO DOS SISTEMAS DE INFORMATIZAÇÃO\n\nDA SAÚDE, TAIS COMO: EGESTOR, SAIPS, DIGISUS E FNS"
         ]
       },
       "3": {
-        "num_diarios": 8,
-        "num_contratos": 12,
-        "total_gasto": 376910.0,
+        "num_diarios": 7,
+        "num_contratos": 17,
+        "total_gasto": 414163.0,
         "top_3_empresas": [
           "LINNIKER DAVID MEDEIROS GALDINO -"
         ],
@@ -1043,8 +1056,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 3,
-        "total_gasto": 166400.0,
+        "num_contratos": 17,
+        "total_gasto": 852034.0,
         "top_3_empresas": [
           "YASMIN PONTES DA SILVA",
           "A NOVA SOLUCAO LTDA",
@@ -1054,15 +1067,15 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 3,
-        "total_gasto": 491696.7,
+        "num_contratos": 31,
+        "total_gasto": 6840831.24,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 9,
-        "total_gasto": 3461681.89,
+        "num_contratos": 25,
+        "total_gasto": 7276214.5600000005,
         "top_3_empresas": [
           "FORTCON SERVIÇOS DE SEGURANÇA\n\nELETRONICA LTDA -",
           "SOL SERVIÇOS DE TELEVISÃO LTDA",
@@ -1076,8 +1089,8 @@
       },
       "7": {
         "num_diarios": 14,
-        "num_contratos": 4,
-        "total_gasto": 936582.48,
+        "num_contratos": 10,
+        "total_gasto": 7391548.97,
         "top_3_empresas": [
           "Geraldo Daniel de Lima",
           "e\nempresa"
@@ -1088,15 +1101,15 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 510045.82,
+        "num_contratos": 15,
+        "total_gasto": 1136054.53,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 2,
-        "total_gasto": 186710.16,
+        "num_contratos": 12,
+        "total_gasto": 1553829.2899999998,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa para execução de obra de\n\nengenharia para construção de creche padrão com capacidade para 50\n\ncrianças conforme projeto Paraíba primeira infância, termo de\n\nconvênio 507/2021, conforme condições, quantidades e exigências\n\nestabelecidas neste Edital e seus anexos"
@@ -1104,15 +1117,15 @@
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 25460.0,
+        "num_contratos": 4,
+        "total_gasto": 82179.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 16120.0,
+        "num_contratos": 2,
+        "total_gasto": 397120.7,
         "top_3_empresas": [
           "ERLY AVELINO DOS SANTOS FILHO"
         ],
@@ -1120,8 +1133,8 @@
       },
       "12": {
         "num_diarios": 14,
-        "num_contratos": 4,
-        "total_gasto": 408845.01,
+        "num_contratos": 19,
+        "total_gasto": 1088145.01,
         "top_3_empresas": [
           "DICAL"
         ],
@@ -1134,11 +1147,11 @@
     "2024": {
       "1": {
         "num_diarios": 16,
-        "num_contratos": 12,
-        "total_gasto": 5689001.86,
+        "num_contratos": 74,
+        "total_gasto": 15798194.099999998,
         "top_3_empresas": [
-          "MARCOS ROMERO DE ARAUJO\n\n11892658852",
-          "MARCOSUEL DOS SANTOS LIMA\n\n13341325425",
+          "MARCOS ROMERO DE ARAUJO",
+          "MARCOSUEL DOS SANTOS LIMA",
           "51.195.285 MARIO JANIO SIPRIANO DE\n\nARAUJO"
         ],
         "top_3_objetos": [
@@ -1149,13 +1162,13 @@
       },
       "resumo": {
         "num_diarios": 137,
-        "num_contratos": 60,
-        "total_gasto": 13764858.180000002
+        "num_contratos": 296,
+        "total_gasto": 49977259.87
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 9,
-        "total_gasto": 595043.6,
+        "num_contratos": 63,
+        "total_gasto": 8498481.2,
         "top_3_empresas": [
           "A EMPRESA SEGURITY SAÚDE\nE SEGURANÇA DO TRABALHO LTDA",
           "ANDRE RICARDO FIGUEIREDO DE\nANDRADE",
@@ -1167,10 +1180,10 @@
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 12,
-        "total_gasto": 813868.0,
+        "num_contratos": 37,
+        "total_gasto": 2664091.42,
         "top_3_empresas": [
-          "JOSE IVAN DAS SANTOS MACEDO\n\n33087601420",
+          "JOSE IVAN DAS SANTOS MACEDO",
           "A EMPRESA LINNIKER DAVID\n\nMEDEIROS GALDINO",
           "A EMPRESA APICE\n\nCONSULTORIAS E CAPACITACOES LTDA"
         ],
@@ -1181,8 +1194,8 @@
       },
       "4": {
         "num_diarios": 15,
-        "num_contratos": 5,
-        "total_gasto": 420040.0,
+        "num_contratos": 21,
+        "total_gasto": 4528978.3,
         "top_3_empresas": [
           "ANTONIO AECIO DA SILVA",
           "F L DA SILVA NETO LTDA",
@@ -1194,8 +1207,8 @@
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 7,
-        "total_gasto": 3047121.0,
+        "num_contratos": 22,
+        "total_gasto": 5222774.86,
         "top_3_empresas": [
           "RENOVAR CONSTRUCOES E SERVICOS\n\nLTDA"
         ],
@@ -1206,7 +1219,7 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "CL CONSTRUÇÕES E SERVICOS LTDA,\n\ninscrita no"
+          "CL CONSTRUÇÕES E SERVICOS LTDA"
         ],
         "top_3_objetos": [
           "Constitui objeto do presente ADITAMENTO ao\n\nContrato nº 04.0001/2024 de 15 de Abril de 2024, resultante da\n\nCONCORRÊNCIA ELETRÔNICA nº 001/2024, acrescendo o"
@@ -1214,15 +1227,15 @@
       },
       "7": {
         "num_diarios": 13,
-        "num_contratos": 4,
-        "total_gasto": 1543719.49,
+        "num_contratos": 14,
+        "total_gasto": 2399478.75,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 13,
-        "num_contratos": 3,
-        "total_gasto": 387437.82999999996,
+        "num_contratos": 20,
+        "total_gasto": 6941115.58,
         "top_3_empresas": [
           "S R DOS SANTOS COMERCIO E SERVICO\n\nLTDA"
         ],
@@ -1232,8 +1245,8 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 97125.5,
+        "num_contratos": 22,
+        "total_gasto": 975628.18,
         "top_3_empresas": [
           "54.774.879 FRANKLEYSON DA SILVA\n\nBRASILEIRO",
           "Torre Construção e Consultoria em\n\nEngenharia Eireli",
@@ -1246,10 +1259,10 @@
       },
       "10": {
         "num_diarios": 13,
-        "num_contratos": 5,
-        "total_gasto": 768910.9,
+        "num_contratos": 17,
+        "total_gasto": 1480666.94,
         "top_3_empresas": [
-          "AG CONSTRUTORA E SERVIÇOS LTDA,\n\ninscrita no"
+          "AG CONSTRUTORA E SERVIÇOS LTDA"
         ],
         "top_3_objetos": [
           "Constitui objeto do presente ADITAMENTO DE\n\nREEQUILÍBRIO FINANCEIRO ao Contrato nº 000178/2023,\n\nresultante da CONCORRÊNCIA ELETRÔNICA nº 0009/2024,\n\nacrescendo o"
@@ -1257,8 +1270,8 @@
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 389340.0,
+        "num_contratos": 3,
+        "total_gasto": 1248179.0,
         "top_3_empresas": [
           "A EMPRESA:\n\nON-HIGHWAY BRASIL LTDA",
           "Debora Rocha Costa"
@@ -1269,30 +1282,30 @@
       },
       "12": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 13250.0,
+        "num_contratos": 3,
+        "total_gasto": 219671.54,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 836,
-    "num_contratos": 138,
-    "total_gasto": 24639611.43,
+    "num_diarios": 831,
+    "num_contratos": 1332,
+    "total_gasto": "181.815.320,11",
     "top_5_empresas": {
       "GIPAGEL AUTO\nPEÇAS LTDA": 2,
       "MARTINS CONSTRUÇÕES EIRELI": 2,
       "CAVALCANTI\nPRIMO VEÍCULOS LTDA": 2,
-      "G M RANGEL\nCOMBUSTIVEIS LTDA/POSTO GIPAGEL": 1,
-      "s, locados a disposição ou vinculados a\natividades pública do Município de São Mamede": 1
+      "PAULO\nRICARDO PINHEIRO DE LIMA": 1,
+      "CONSERV": 1
     },
     "top_5_objetos": {
-      "Aquisição de Combustíveis,\nLubrificantes e Filtros, destinados aos veículos de propriedade da\nPrefeitura, contratados, locados a disposição ou vinculados a\natividades pública do Município de São Mamede – PB;": 1,
-      "Realização\nde Concurso Público de Provas e Títulos para provimento de cargos\nefetivos;": 1,
-      "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nCHARLES RICELLE DE MORAIS SOUTO – ME, CNPJ:\n09.413.345/0001-41, ,": 1,
-      "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nANA CLAUDIA BRASIL DE MEDEIROS – ME, CNPJ:\n08.272.332/0001-37, ,": 1,
-      "Aquisição de Peças, Assessórios e Serviços para\nmanutenção dos novos veículos adquiridos e locados pela Prefeitura\nMunicipal de São Mamede – PB: 1º Secretaria de Saúde: Veículo\nVW/Novo Gol 1.0, Placa NPW-4671/PB e Veículo VW/Kombi, Placa\nNPY-9722/PB, 2º Secretaria de Educação: Veículo Caminhonete\nVW/Amarok CD 4x4, Placa OGA-9144, 3º Gabinete do Prefeito:\nVeículo caminhonete VW/Amarok CD 4x4, Placa OGD-3860, de\nacordo com a proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº\n003/2014": 1
+      "Contratação de empresa especializada para serviços de\nperfuração e detonação com o emprego de materiais explosivos e\nacessórios, para desmontar 213,90m³ de rocha, bem como realizar\no desmonte de matacões e derrubadas das pedras, que terá\ndescarga dos resíduos provenientes da limpeza onde deverá ser\nlançada em um local indicado pela secretaria de obras, dentro dos\nlimites territoriais do Município": 1,
+      "Contratação de empresa(s) para fornecimento de forma\nparcelada de ALIMENTOS NÃO PERECIVEIS, MATERIAL\nDE HIGIENE E LIMPEZA, PRODUTOS DE PANIFICAÇÃO,\nCARNES, PEIXES, FRANGOS E DERIVADOS destinados a\nMerenda Escolar, Programa Brasil Alfabetizado; CRAS, PETI,\nBolsa Família, Pró-Jovem e para atender as demais secretarias do\nmunicípio durante o exercício de 2014": 1,
+      "Perfuração e instalação de 10 (dez) poços tubulares /Convênio nº\n0228/2009/FUNASA/MS/PMSM – PB,": 1,
+      "Aquisição de Peças, Assessórios e Serviços para\nmanutenção dos novos veículos adquiridos e locados pela Prefeitura\nMunicipal de São Mamede – PB: 1º Secretaria de Saúde: Veículo\nVW/Novo Gol 1.0, Placa NPW-4671/PB e Veículo VW/Kombi, Placa\nNPY-9722/PB, 2º Secretaria de Educação: Veículo Caminhonete\nVW/Amarok CD 4x4, Placa OGA-9144, 3º Gabinete do Prefeito:\nVeículo caminhonete VW/Amarok CD 4x4, Placa OGD-3860, de\nacordo com a proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº\n003/2014": 1,
+      "Aquisição de Gêneros Alimentícios para: a\nMerenda Escolar; Programa São Mamede sem Fome; Ações,\nAtividades e Programas das Secretarias Municipais; Material de\nConsumo, de Limpeza e Higiene para todas as Secretarias Municipais\nda Prefeitura de São Mamede – PB, PARTES: Prefeitura Municipal\nDe São Mamede – PB, CNPJ: 08.922.718/0001-47, E A EMPRESA:\nCHARLES RICELLE DE MORAIS SOUTO – ME, CNPJ:\n09.413.345/0001-41, ,": 1
     }
   }
 }

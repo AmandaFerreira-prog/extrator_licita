@@ -12,13 +12,13 @@
       },
       "resumo": {
         "num_diarios": 37,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 60,
+        "total_gasto": 5692419.129999999
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 3607850.07,
         "top_3_empresas": [
           "A EMPRESA:\nBEETHOVEN DOS SANTOS DA SILVA",
           "A EMPRESA:\nJOSÉ NERGINO SOBREIRA/PJS DISTRIBUIDORA",
@@ -32,19 +32,19 @@
       },
       "3": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 422471.95999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 304503.0,
         "top_3_empresas": [
           "EVERTON DE\nOLIVEIRA ARAÚJO",
           "P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES, CPNJ:\n13.045.626/0001-66.",
-          "EGILDO\nMARIANO DUARTE, portador do"
+          "EGILDO\nMARIANO DUARTE"
         ],
         "top_3_objetos": [
           "Aquisição de material de consumo de informática e\nprestação de serviços de recargas de cartuchos e toner e de\nmanutenção de impressoras e computadores de todas as secretarias da\nprefeitura de Santa Terezinha-PB e Fundos Municipais de Saúde e\nAssistência Social, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
@@ -54,8 +54,8 @@
       },
       "5": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 86800.0,
         "top_3_empresas": [
           "A EMPRESA:\nGIPAGEL AUTO PEÇAS LTDA",
           "A EMPRESA:\nCILMARA M P L MEDEIROS SERVIÇOS AUTOMOTIVOS"
@@ -67,22 +67,22 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 141207.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 230704.64,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 562931.72,
         "top_3_empresas": [
           "UDI",
           "ALBINY\nLUCIANO DE ARAÚJO AMORIM",
@@ -96,8 +96,8 @@
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 117800.0,
         "top_3_empresas": [
           "TESLA SAUDE\n\nE SERVIÇOS LTDA",
           "COMERCIAL\nSANT’ANA VEICULOS E PEÇAS LTDA"
@@ -109,8 +109,8 @@
       },
       "10": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 36935.77,
         "top_3_empresas": [
           "A EMPRESA:\nUNITINTAS UNIVERSO DAS TINTAS LTDA"
         ],
@@ -127,8 +127,8 @@
       },
       "12": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 181214.85,
         "top_3_empresas": [
           "ALEXANDRE\nLAURENTINO DA SILVA EIRELI",
           "SN FESTAS E\nLOCAÇÕES LTDA",
@@ -144,8 +144,8 @@
     "2018": {
       "1": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1922680.55,
         "top_3_empresas": [
           "Material de Consumo; 3390.39 99 Outros\nServiços de Terceiros",
           "Material de Consumo;\n3390.39 99 Outros Serviços de Terceiros",
@@ -158,21 +158,21 @@
         ]
       },
       "resumo": {
-        "num_diarios": 56,
-        "num_contratos": 6,
-        "total_gasto": 745436.0
+        "num_diarios": 55,
+        "num_contratos": 108,
+        "total_gasto": 7397222.55
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 1,
-        "total_gasto": 15900.0,
+        "num_contratos": 20,
+        "total_gasto": 1486100.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 2,
-        "total_gasto": 120000.0,
+        "num_contratos": 9,
+        "total_gasto": 1558354.0,
         "top_3_empresas": [
           "LARMED DISTRIBUIDORA DE\nMEDICAMENTOS E MATERIAL MÉDICO HOSPITALAR\nLTDA"
         ],
@@ -183,22 +183,22 @@
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 1,
-        "total_gasto": 536.0,
+        "num_contratos": 24,
+        "total_gasto": 357801.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 18,
+        "total_gasto": 196867.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 286000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -211,36 +211,36 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 83164.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 83500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 600066.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 609000.0,
+        "num_contratos": 3,
+        "total_gasto": 627000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 195688.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -248,34 +248,34 @@
     "2019": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 1923215.83,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 73,
-        "num_contratos": 2,
-        "total_gasto": 399312.3
+        "num_contratos": 83,
+        "total_gasto": 5658297.229999998
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 2,
-        "total_gasto": 399312.3,
+        "num_contratos": 6,
+        "total_gasto": 968161.29,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 1055508.56,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 577377.65,
         "top_3_empresas": [
           "e o Município.\n\n11.3",
           "será o Regime Geral de Previdência Social, conforme o disposto no § 13\n\ndo art. 40, da Constituição da República, e art. 8º da Lei Complementar nº100/2007.\n11.4"
@@ -284,8 +284,8 @@
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 98322.88,
         "top_3_empresas": [
           "A EMPRESA:\nPHARMAPLUS LTDA",
           "Material de Consumo; 10 301 1007 2024\nManutenção de Outros Programas de Atenção Básica do SUS -\nELEMENTO DE DESPESA",
@@ -297,15 +297,15 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 462907.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 57710.0,
         "top_3_empresas": [
           "Material de Consumo; 12 368 1012 2065\n\nManutenção de Outros Programas do FNDE",
           "Material de Consumo; 12 361 1012 2068\n\nAtividades do FUNDEB",
@@ -317,8 +317,8 @@
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 106104.0,
         "top_3_empresas": [
           "DORIS FIUZA\n\nCONSULTORIA E ASSESSORIA EIRELI"
         ],
@@ -328,15 +328,15 @@
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 72500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 288798.70999999996,
         "top_3_empresas": [
           "A EMPRESA\nLUAN FORRO ESTILIZADO SHOWS EVENTOS E\nSERVIÇOS LTDA"
         ],
@@ -347,15 +347,15 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 30843.309999999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 16848.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -363,20 +363,20 @@
     "2020": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 250000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 66,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 79,
+        "total_gasto": 7752668.350000001
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 38,
+        "total_gasto": 3664921.5500000003,
         "top_3_empresas": [
           "ALEXSANDRO\nLACERDA DE CALDAS"
         ],
@@ -386,8 +386,8 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 2076281.47,
         "top_3_empresas": [
           "A EMPRESA:\nMAIS TRUCK COMÉRCIO DE CAMINHÕES LTDA",
           "A EMPRESA:\nANA LUCIA ANGELO JERONIMO GUEDES",
@@ -399,43 +399,43 @@
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 31500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 139044.98,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 564222.1900000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 846324.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 67275.49,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 96297.97,
         "top_3_empresas": [
           "SETHA CONSTRUÇÕES E SERVIÇOS LTDA"
         ],
@@ -445,8 +445,8 @@
       },
       "12": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 16800.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de Gêneros Alimentícios e Kit de Limpeza para\n\ndistribuição a pessoas carentes do Município"
@@ -462,19 +462,25 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 31,
-        "num_contratos": 6,
-        "total_gasto": 747339.83
+        "num_diarios": 30,
+        "num_contratos": 28,
+        "total_gasto": 1324539.83
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 22,
+        "total_gasto": 577200.0,
+        "top_3_empresas": [
+          "FLAVIO RODRIGUES CLAUDINO",
+          "MARIA NILZA SOARES\n\nDE SOUSA",
+          "ROGÉRIO PEREIRA CLEMENTINO"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE PESSOA FÍSICA E OU JURIDICA\n\nPARA LOCAÇÃO DE VEÍCULOS TIPO PASSEIO E\n\nUTILITÁRIOS DE PEQUENO E GRANDE PORTE PARA\n\nATENDER AS NECESSIDADES DO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE – PB"
+        ]
       },
       "5": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -540,7 +546,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 39,
+        "num_diarios": 37,
         "num_contratos": 6,
         "total_gasto": 3254538.93
       },
@@ -572,7 +578,7 @@
         ]
       },
       "5": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 1,
         "total_gasto": 1198665.61,
         "top_3_empresas": [],
@@ -586,7 +592,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -635,8 +641,8 @@
       },
       "resumo": {
         "num_diarios": 85,
-        "num_contratos": 131,
-        "total_gasto": 11018707.78
+        "num_contratos": 136,
+        "total_gasto": 11332757.78
       },
       "2": {
         "num_diarios": 5,
@@ -662,7 +668,7 @@
         "total_gasto": 2473900.0,
         "top_3_empresas": [
           "OUTROS SERVIÇOS DE TERCEIROS",
-          "BRUNO BERNARDO\n\nFERREIRA 06057509471",
+          "BRUNO BERNARDO\n\nFERREIRA",
           "OUTROS\n\nSERVIÇOS DE TERCEIROS"
         ],
         "top_3_objetos": [
@@ -672,15 +678,15 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 20,
-        "total_gasto": 1990915.3599999999,
+        "num_contratos": 21,
+        "total_gasto": 2040915.3599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 51,
-        "total_gasto": 695926.0900000001,
+        "num_contratos": 53,
+        "total_gasto": 815926.0900000001,
         "top_3_empresas": [
           "RANIERI NOBREGA\n\nFERREIRA"
         ],
@@ -692,8 +698,8 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 16,
-        "total_gasto": 866542.98,
+        "num_contratos": 17,
+        "total_gasto": 891542.98,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -733,8 +739,8 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 119050.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -760,9 +766,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 50,
-        "num_contratos": 64,
-        "total_gasto": 11254886.34
+        "num_diarios": 49,
+        "num_contratos": 78,
+        "total_gasto": 13220491.44
       },
       "2": {
         "num_diarios": 3,
@@ -798,8 +804,8 @@
         "num_contratos": 7,
         "total_gasto": 2993842.15,
         "top_3_empresas": [
-          "OUTROS SERVIÇOS DE\n\nTERCEIROS",
           "OUTROS SERVIÇOS DE TERCEIROS",
+          "OUTROS SERVIÇOS DE\n\nTERCEIROS",
           "MATERIAL DE\n\nCONSUMO 02.020 SECRETARIA DE FINANÇAS\n\n04.123.1002.2011"
         ],
         "top_3_objetos": [
@@ -809,8 +815,8 @@
       },
       "6": {
         "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 1574831.99,
+        "num_contratos": 4,
+        "total_gasto": 1693981.99,
         "top_3_empresas": [
           "MATERIAL DE\n\nCONSUMO. 02.041 FUNDO MUNICIPAL DE SAUDE 10 301 1007\n2018 Manutenção das Ações e Serviços Públicos de Saúde",
           "MATERIAL DE CONSUMO.\n\nVIGÊNCIA: até 26/06/2025.\n\nPARTES CONTRATANTES: Prefeitura Municipal de Santa\nTeresinha e: CT Nº 00166/2024 - 26.06.24 - ORTOSHOP\n\nCOMERCIO LTDA-ME",
@@ -818,27 +824,28 @@
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE MATERIAL E INSUMOS\n\nODONTOLÓGICOS PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA TEREZINHA\n\n– PB",
-          "CREDENCIAMENTO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS MÉDICOS EM REGIME DE\n\nPLANTÕES A SERVIÇO DA SECRETARIA DE SAÚDE,\nDESTINADOS A ATENDIMENTO NO HOSPITAL MUNICIPAL\n\nCAPITÃO JOÃO DANTAS ROTHÉA NO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE/PB"
+          "CREDENCIAMENTO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS MÉDICOS EM REGIME DE\n\nPLANTÕES A SERVIÇO DA SECRETARIA DE SAÚDE,\nDESTINADOS A ATENDIMENTO NO HOSPITAL MUNICIPAL\n\nCAPITÃO JOÃO DANTAS ROTHÉA NO MUNICÍPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE/PB",
+          "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE UNIFORME\nPERSONALIZADO PARA ATENDER AS NECESSIDADES DA\n\nBANDA MUSICAL DE SÃO JOÃO DO RIO DO PEIXE/PB"
         ]
       },
       "7": {
         "num_diarios": 4,
-        "num_contratos": 24,
-        "total_gasto": 1207174.55,
+        "num_contratos": 28,
+        "total_gasto": 1358677.95,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 7,
-        "num_contratos": 3,
-        "total_gasto": 1302315.65,
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 1904347.3499999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 4,
-        "num_contratos": 5,
-        "total_gasto": 507937.4,
+        "num_contratos": 6,
+        "total_gasto": 692857.4,
         "top_3_empresas": [
           "CAPITAL\n\nDISTRIBUIDORA DE VEICULOS LTDA"
         ],
@@ -848,15 +855,15 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 664000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 122000.0,
         "top_3_empresas": [
           "CAIXA\nECONÔMICA FEDERAL"
         ],
@@ -866,8 +873,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 10,
-        "total_gasto": 2468745.6,
+        "num_contratos": 11,
+        "total_gasto": 2590745.6,
         "top_3_empresas": [
           "CAIXA\n\nECONÔMICA FEDERAL"
         ],
@@ -878,9 +885,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 437,
-    "num_contratos": 215,
-    "total_gasto": 27420221.18,
+    "num_diarios": 432,
+    "num_contratos": 578,
+    "total_gasto": "55.632.935,24",
     "top_5_empresas": {
       "OUTROS SERVIÇOS DE TERCEIROS": 2,
       "OUTROS\n\nSERVIÇOS DE TERCEIROS": 2,

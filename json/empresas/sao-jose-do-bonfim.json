@@ -1,0 +1,379 @@
+{
+  "id": "sao-jose-do-bonfim",
+  "nome": "São José do Bonfim",
+  "detalhe": {
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 2597631.82,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;",
+            "empresa": "MIRACI LUCIO DA SILVA",
+            "valor_total": "R$ 28,875.00"
+          },
+          {
+            "objeto": "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;",
+            "empresa": "e\n\nMiraci Lucio da Silva",
+            "valor_total": "R$ 28,875.00"
+          },
+          {
+            "objeto": "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;",
+            "empresa": "PANIFICADORA POPULAR EIRELI, (CNPJ nº\n\n41.665.433/0001-43);",
+            "valor_total": "R$ 189,082.84"
+          },
+          {
+            "objeto": "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;",
+            "empresa": "e Geoni Ferreira Maia",
+            "valor_total": "R$ 189,082.84"
+          },
+          {
+            "objeto": "Contratação aquisição\n\ngradativa de material de construção;",
+            "empresa": "JORGE CARLOS DE OLIVEIRA",
+            "valor_total": "R$ 90,114.42"
+          },
+          {
+            "objeto": "Contratação aquisição\n\ngradativa de material de construção;",
+            "empresa": "e\n\nAugusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 90,114.42"
+          },
+          {
+            "objeto": "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+            "empresa": "M A DANTAS MERCADINHO SÃO\n\nSEBASTIÃO, (CNPJ nº 12.160.512/0001-02);",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+            "empresa": "e\n\nMarcos Antônio Dantas",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+            "empresa": "M A DANTAS\n\nMERCADINHO SÃO SEBASTIÃ\n\n\n\nEXTRATO DO CONTRATO ADMINISTRATIVO Nº 058/2024\n\nATA DE REGISTRO DE PREÇOS Nº 191/2023\n\nPREGÃO ELETRÔNICO Nº 004/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+            "empresa": "M A DANTAS MERCADINHO SÃO\n\nSEBASTIÃO, (CNPJ nº 12.160.512/0001-02);",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+            "empresa": "e\n\nMarcos Antônio Dantas",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição gradativa de gêneros\n\nalimentícios destinados à merenda escolar;",
+            "empresa": "PANIFICADORA POPULAR EIRELI",
+            "valor_total": "R$ 59,780.80"
+          },
+          {
+            "objeto": "aquisição gradativa de gêneros\n\nalimentícios destinados à merenda escolar;",
+            "empresa": "e\n\nGeoni Ferreira Maia",
+            "valor_total": "R$ 59,780.80"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;",
+            "empresa": "AUGUSTO JORGE SARAIVA\n\nDE OLIVEIRA (CNPJ nº 36.786.488/0001-71);",
+            "valor_total": "R$ 122,488.70"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;",
+            "empresa": "e Augusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 122,488.70"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;",
+            "empresa": "AUGUSTO JORGE SARAIVA\n\nDE OLIVEIRA (CNPJ nº 36.786.488/0001-71);",
+            "valor_total": "R$ 49,560.61"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;",
+            "empresa": "e Augusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 49,560.61"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 129,
+        "num_contratos": 342,
+        "total_gasto": 46991741.20000001
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 44,
+        "total_gasto": 13457108.930000002,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+            "empresa": "R5 SOLUCOES EM\n\nSAUDE LTDA (CNPJ Nº 33\n\n\n\nEXTRATO DO CONTRATO ADMINISTRATIVO Nº 073/2024\n\nATA DE REGISTRO DE PREÇOS Nº 042/2022\n\nPREGÃO PRESENCIAL N° 026/2022",
+            "valor_total": "R$ 36,342.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+            "empresa": "R5 SOLUCOES EM SAUDE LTDA (CNPJ nº\n\n33.853.517/0001-82);",
+            "valor_total": "R$ 36,342.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+            "empresa": "e\n\nAmaro Alves Saturnino Junior",
+            "valor_total": "R$ 36,342.00"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+            "valor_total": "R$ 4,041.29"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "e\n\nJoão Eufrázio de Medeiros Neto",
+            "valor_total": "R$ 4,041.29"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+            "valor_total": "R$ 3,593.68"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "e João Eufrázio de Medeiros Neto",
+            "valor_total": "R$ 3,593.68"
+          },
+          {
+            "objeto": "Registro de Preço para possível aquisição gradativa de material de uso\n\nhospitalar;",
+            "empresa": "BIOMED DISTRIBUIDORA\n\nHOSPITALAR E LABORATORIAL NOSSA SENHORA DA\n\nCONCEIÇÃO LTDA",
+            "valor_total": "R$ 2,866.50"
+          },
+          {
+            "objeto": "Registro de Preço para possível aquisição gradativa de material de uso\n\nhospitalar;",
+            "empresa": "e Aquiles Augusto\n\nRezende de Araújo",
+            "valor_total": "R$ 2,866.50"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+            "valor_total": "R$ 184,033.10"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "e\n\nJoão Eufrázio de Medeiros Neto",
+            "valor_total": "R$ 184,033.10"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+            "valor_total": "R$ 10,572.00"
+          },
+          {
+            "objeto": "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+            "empresa": "e João Eufrázio de Medeiros Neto -\n\nPela",
+            "valor_total": "R$ 10,572.00"
+          },
+          {
+            "objeto": "Registro de Preço para\n\npossível aquisição gradativa de material de uso hospitalar;",
+            "empresa": "RITA DE ANDRADE VIEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de Preço para\n\npossível aquisição gradativa de material de uso hospitalar;",
+            "empresa": "e Rita de Andrade Vieira",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+            "empresa": "R5 SOLUCOES EM SAUDE LTDA (CNPJ nº\n\n33.853.517/0001-82);",
+            "valor_total": "R$ 21,607.21"
+          },
+          {
+            "objeto": "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+            "empresa": "e\n\nAmaro Alves Saturnino Junior",
+            "valor_total": "R$ 21,607.21"
+          },
+          {
+            "objeto": "aquisição gradativa de medicamentos\n\ninjetáveis;",
+            "empresa": "R5 SOLUCOES EM SAUDE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição gradativa de medicamentos\n\ninjetáveis;",
+            "empresa": "e Amaro Alves Saturnino Junior",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de Preço para\n\npossível aquisição gradativa de material de expediente;",
+            "empresa": "PAPELARIA SANTA DULCE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Registro de Preço para\n\npossível aquisição gradativa de material de expediente;",
+            "empresa": "e Caio Sérgio Damasceno de Araújo",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 37,
+        "total_gasto": 8472227.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de veículo tipo ônibus (48 lugares) com\n\nmotorista para a Secretaria de Ação Social do Município de São José\n\ndo Bonfim/PB no atendimento a Lei Municipal 655/2021",
+            "empresa": "CICERO COSTA DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 38,
+        "total_gasto": 9840226.88,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 36\n\n\n\nfardamento para Secretaria Municipal de Educação,",
+            "empresa": "EMANUEL BORGES DANTAS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 36\n\n\n\nfardamento para Secretaria Municipal de Educação,",
+            "empresa": "e\n\nEmanuel Borges Dantas,",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 57,
+        "total_gasto": 4032441.64,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB",
+            "empresa": "- A&L\n\nComercio De Alimentos LTDA",
+            "valor_total": "R$ 739,923.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB",
+            "empresa": "- A&L\n\nComercio De Alimentos LTDA",
+            "valor_total": "R$ 739,923.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB",
+            "empresa": "- A&L\n\nComercio De Alimentos LTDA",
+            "valor_total": "R$ 739,923.00"
+          },
+          {
+            "objeto": "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB",
+            "empresa": "",
+            "valor_total": "R$ 664,208.16"
+          },
+          {
+            "objeto": "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB",
+            "empresa": "",
+            "valor_total": "R$ 664,208.16"
+          },
+          {
+            "objeto": "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB",
+            "empresa": "valor total: R$ 332.104,08\n\n\n\nSão José do Bonfim",
+            "valor_total": "R$ 664,208.16"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 192146.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 1512961.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 47,
+        "total_gasto": 4323197.21,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição e instalação de equipamentos e câmeras de\nsegurança eletrônica para as praças da zona urbana e rural destinadas\n\na atender a demanda do Município de São José do Bonfim/PB; CNPJ\n\nnº 08.882.862/0001-05 e a empresa: – AUDAZ SEGURANÇA, CNPJ\nnº 06.070.309/0001-34,",
+            "empresa": "– AUDAZ SEGURANÇA",
+            "valor_total": "R$ 17,235.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 1066243.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-GWC INDUSTRIA,\n\nIMPORTACAO E DISTRIBUICAO DE ELETRONICOS LTDA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-JOSIVAN\n\nMELQUIADES NOBREGA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "- MULTFORTE\n\nCOMERCIO E SUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-REPREMIG\n\nREPRESENTACAO E COMERCIO DE MINAS GERAIS LTDA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-SINCES\n\nTECNOLOGIA COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-TAMA DISTRIBUIDORA\n\nDE INFORMATICA LTDA",
+            "valor_total": "R$ 324,524.90"
+          },
+          {
+            "objeto": "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB",
+            "empresa": "-YUMI SOLUCOES\n\nTECNOLOGICAS LTDA",
+            "valor_total": "R$ 324,524.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 1261201.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 29215.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 207140.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

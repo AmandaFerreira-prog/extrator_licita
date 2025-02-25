@@ -1,0 +1,793 @@
+{
+  "id": "serra-redonda",
+  "nome": "Serra Redonda",
+  "detalhe": {
+    "2021": {
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 399900.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 77,
+        "num_contratos": 57,
+        "total_gasto": 6156051.59
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 526084.28,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SHOW ARTISITICO COM PINGO\nSANFONEIRO PARA EVENTUAL LIVE SOLIDARIA DA\nPAROQUIA SÃO PEDRO DE SERRA REDONDA/PB, NO DIA 29\nDE JUNHO DE 2021 A PARTIR DAS 20:00 HORAS",
+            "empresa": "JOSEMAR CAMPOS SOUZA",
+            "valor_total": "R$ 2,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 3152528.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 359674.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\nPARA MODERNIZAÇÃO DO GINÁSIO DE ESPORTES DESTE\nMUNICIPIO",
+            "empresa": "TORRES\nCONSTRUCOES LTDA",
+            "valor_total": "R$ 221,808.08"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 457899.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 200625.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 967508.9099999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nPRESTAÇÃO DE SERVIÇOS DE CONSULTORIA PARA\n\nADEQUAÇÃO, E REVISÃO E OU REVOGAÇÃO PARCIAL\n\nOU TOTAL DO CÓDIGO TRIBUTÁRIO MUNICIPAL",
+            "empresa": "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTÃOEMPRESARIAL E PUBLICA\n\nLTDA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 91830.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 15,
+        "total_gasto": 2091085.65,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE IMOVEL SITUADO NA RUA 30 DE\n\nDEZEMBRO PARA FUNCIONAMENTO DE DUAS SALAS\n\nANEXO A DISPOSIÇÃO DA SECRETARIA DE EDUCAÇÃO",
+            "empresa": "ANTONIO FRANCISCO DE ARAUJO",
+            "valor_total": "R$ 9,600.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE IMOVEL SITUADO NO SITIO TIGRE\n\nPARA FUNCIONAMENTO DP PSF DO SITIO TIGRE A\n\nDISPOSIÇÃO DA SECRETARIA DE SAUDE",
+            "empresa": "MARIA ADELINA DAS MERCÊS",
+            "valor_total": "R$ 3,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 118,
+        "num_contratos": 182,
+        "total_gasto": 46279772.07000001
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 17,
+        "total_gasto": 2552346.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 48,
+        "total_gasto": 5575396.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "DIMALAB ELETRONICS DO BRASIL EIRELI",
+            "valor_total": "R$ 146,686.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "E J DA SILVA & SILVA\n\nPRODUTOS LABORATORIAIS LTDA.",
+            "valor_total": "R$ 146,686.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "VS COSTA & CIA LTDA",
+            "valor_total": "R$ 146,686.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "CIRURGICA CAMPINENSE LTDA -\n\nR$ 99.517,60; CT Nº 00117/2022",
+            "valor_total": "R$ 146,686.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "CT Nº 00118/2022",
+            "valor_total": "R$ 146,686.50"
+          },
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA PARA A PRESTAÇÃO\n\nDE SERVIÇOS DE RECAPAGEM DE PNEUS PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "PNEUMAX RECONDICIONADORA\n\nLTDA",
+            "valor_total": "R$ 176,780.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 1676956.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS PROJETADOS PARA\n\nSUPRIR A DEMANDA DA SECRETARIA DE ASSISTENCIA\n\nSOCIAL DO MUNICÍPIO DE SERRA REDONDA – PB",
+            "empresa": "GABRIELA LIMA DA\n\nSILVA TAVARES",
+            "valor_total": "R$ 35,250.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTIVEL GASOLINA\n\nCOMUM, OLEO S10 E GAS DE COZINHA, DESTINADOS A\n\nDIVERSAS SECRETARIAS DO MUNICIPIO",
+            "empresa": "POSTO BELL COMERCIO DE\n\nCOMBUSTIVES LTDA",
+            "valor_total": "R$ 1,342,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 29,
+        "total_gasto": 17920287.400000002,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\n\nDIVERSAS SECRETARIAS DO MUNICIPIO DE SERRA\n\nREDONDA/PB",
+            "empresa": "INDUSTRIA E\n\nCOMERCIO DE PRODUTOS DE LIMPEZA CAMPINENSE LTDA",
+            "valor_total": "R$ 263,203.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\n\nDIVERSAS SECRETARIAS DO MUNICIPIO DE SERRA\n\nREDONDA/PB",
+            "empresa": "CT Nº 00066/2022",
+            "valor_total": "R$ 263,203.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\n\nDIVERSAS SECRETARIAS DO MUNICIPIO DE SERRA\n\nREDONDA/PB",
+            "empresa": "CT Nº 00067/2022 -\n\n30.05.22",
+            "valor_total": "R$ 263,203.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 1878193.7999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 1827433.42,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULOS 0KM DESTINADOS A\n\nSECRETARIA DE SAUDE, EDUCAÇÃO E ASSISTENCIA\n\nSOCIAL DO MUNICIPIO DE SERRA REDONDA/PB",
+            "empresa": "FIORI\n\nVEICOLO S.A",
+            "valor_total": "R$ 930,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE VEICULOS 0KM DESTINADOS A\n\nSECRETARIA DE SAUDE, EDUCAÇÃO E ASSISTENCIA\n\nSOCIAL DO MUNICIPIO DE SERRA REDONDA/PB",
+            "empresa": "TERRA DO SOL COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 930,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA DE UMA EDIFICAÇÃO DESTINADO AO\n\nFUNCIONAMENTO DE UMA UNIDADE BÁSICA DE SAÚDE\n\nNO SITIO ENGENHO NOVO ZONA RURAL DE SÃO JOÃO DO\n\nRIO DO PEIXE-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São João do\n\nRio do Peixe e: CT Nº 00206/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA E AMPLIAÇÃO DA E.M.E.I.F PROFESSORA\n\nAURILIA BRECKENFELD DANTAS NO MUNICIPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São João do\n\nRio do Peixe e: CT Nº 00206/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA DE UMA EDIFICAÇÃO DESTINADO AO\n\nFUNCIONAMENTO DE UMA UNIDADE BÁSICA DE SAÚDE\n\nNO SITIO ENGENHO NOVO ZONA RURAL DE SÃO JOÃO DO\n\nRIO DO PEIXE-PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nSão João do Rio do Peixe e: CT Nº 00190/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA E AMPLIAÇÃO DA E.M.E.I.F PROFESSORA\n\nAURILIA BRECKENFELD DANTAS NO MUNICIPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE-PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nSão João do Rio do Peixe e: CT Nº 00190/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 246342.61,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE EXCUÇÃO E\n\nCONTROLE EM PRESTAÇÃO DE CONTAS DOS CONVENIOS\n\nESTADUAIS E FEDERAIS, JUNTO AO SICONV, SUASWEB,\n\nSIGPC/FNDE, SIGPACTO/ESTADO E DEMAIS PRESTAÇÕES\n\nDE CONTAS FISICAS FUNASA, INTEGRAÇÃO, DNOCS,\n\nENTRE OUTRAS DESTE MUNICIPIO",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Serra Redonda e: CT Nº 00066/2021 -\n\nPrestcontas Assessoria e Consultoria Em Gestao Empresarial e\n\nPublica Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 529415.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MATERIAL ELÉTRICO PARA DIVERSAS\n\nSECRETARIAS DO MUNICIPIO DE SERRA REDONDA/PB",
+            "empresa": "REJANE DALVA\n\nDA SILVA JAPIASSU",
+            "valor_total": "R$ 435,015.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 7546209.779999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PASTILHAS DE CERAMICAS\n\nDESTINADAS A SECRETARIA DE INFRA ESTRUTURA DESTE\n\nMUNICIPIO",
+            "empresa": "CASA\n\nDA CONSTRUCAO LTDA",
+            "valor_total": "R$ 53,961.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 1534120.68,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO de empresa, para fornecimento de link\n\ndedicado com manutenção a rede mundial de computadores –internet\n\nbanda larga ilimitada visando o atendimento das necessidades da\nprefeituramunicipal, secretarias e fundos municipais de Serra\n\nRedonda/PB",
+            "empresa": "MATHEUS JATOBA BRANDAO",
+            "valor_total": "R$ 39,708.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 2901985.35,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELA DE GENEROS\n\nALIMENTICIOS DESTINADOS A MERENDA ESCOLAR E\n\nDIVERSAS SECRETARIAS DO MUNICIPIO",
+            "empresa": "JOSE DE ARIMATEA DA SILVA",
+            "valor_total": "R$ 818,013.60"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 26,
+        "total_gasto": 7078222.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 126,
+        "num_contratos": 253,
+        "total_gasto": 50230972.68
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 2453023.07,
+        "empresas_mensais": [
+          {
+            "objeto": "ADEQUAÇÃO E/OU RECUPERAÇÃO DE ESTRADAS\n\nVICINAIS NA ZONA RURAL – LOCALIDADE: MUNICIPIO DE\n\nSERRA REDONDA – PB, ZONA RURAL, COMUNIDADE DOS\nMATIAS",
+            "empresa": "CATAO\nBONGIOVI COMERCIO E SERVICOS EIRELI",
+            "valor_total": "R$ 379,029.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 26,
+        "total_gasto": 2053185.51,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE DIVERSOS BRINQUEDOS A SEREM\n\nDESTINADOS A SECRETARIA DE ASSISTENCIA SOCIAL\n\nDESTE MUNICIPIO",
+            "empresa": "CAVALCANTE SOUTO ARTIGOS DE\n\nPAPELARIA LTDA",
+            "valor_total": "R$ 53,346.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 2526028.16,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "CT Nº 00033/2023",
+            "valor_total": "R$ 195,115.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "CT Nº 00034/2023",
+            "valor_total": "R$ 195,115.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "CT Nº 00035/2023",
+            "valor_total": "R$ 195,115.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "CT Nº\n\n00036/2023",
+            "valor_total": "R$ 195,115.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "ALEF SILVA DOS\n\nSANTOS",
+            "valor_total": "R$ 195,115.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR E DO EMPREENDEDOR FAMILIAR\n\nRURAL, DESTINADO AO ATENDIMENTO AO PROGRAMA\n\nNACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE",
+            "empresa": "DOMINGOS DA SILVA",
+            "valor_total": "R$ 195,115.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 59,
+        "total_gasto": 4415311.09,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\nDO SÃO JOÃO \"FORROJÃO\" 2023 COM O SHOW DA BANDA\nFORRÓ DOS 3, COM RECONHECIMENTO PÚBLICO NOTÁVEL\nPARA A FESTA DO DIA 24 DE JUNHO DE 2023",
+            "empresa": "JONAS QUEIROZ\nDA SILVA",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\nCOMEMORAÇÕES DO SÃO JOÃO \"FORROJÃO\" 2023 COM O\nSHOW DA BANDA FORRÓ DOS 3, COM RECONHECIMENTO\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 24 DE JUNHO DE\n2023",
+            "empresa": "JONAS QUEIROZ\nDA SILVA",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1295600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS EM LOCAÇÃO DE\n\nESTRUTURA (TENDAS) PARA IMPLANTAÇÃO E EXECUÇÃO\n\nDESTA PREFEITURA",
+            "empresa": "MASSARANDUBA LOCACAO E DESENVOLVIMENTO DE\n\nPROGRAMAS EIRELI",
+            "valor_total": "R$ 502,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 1630095.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DA ESCOLA JOAQUIM JOVINO\n\nDE LIMA, NA COMUNIDADE DO LIVRAMENTO, MUNICÍPIO\n\nDE SÃO JOSÉ DE PRINCESA-PB",
+            "empresa": "A EMPRESA: TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI-",
+            "valor_total": "R$ 107,951.70"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDOS SERVIÇOS DE DESMATAMENTO LATERAL/ROÇADA\n\nMANUAL DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO\n\nJOSÉ DE PRINCESA - PB",
+            "empresa": "A EMPRESA:\n\nJOSÉ ROMERIO FERREIRA DE SOUSA/BERLIMP",
+            "valor_total": "R$ 49,832.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 25,
+        "total_gasto": 7977827.989999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE COSTURAS E\n\nCONFECÇÕES DE ROUPAS DIVERSAS DESTINADAS AOS\n\nEVENTOS E PROJETOS DESENVOLVIDOS POR DIVERSAS\n\nSECRETARIAS, CONJUNTO COM AS UNIDADES ESCOLARES\n\nDA REDE MUNICIPAL DE EDUCAÇÃO, COSTURAS E\n\nCONFECÇÕES DE ROUPAS DO FARDAMENTO DA BANDA\n\nFILARMONICA DESTE MUNICIPIO",
+            "empresa": "NATIENE LEANDRO\n\nDA SILVA",
+            "valor_total": "R$ 46,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 1174093.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação dos Serviços de obras Especializadas para\nReforma e ampliação da Escola José Gil Xavier Farias do Município\nde Vista Serrana/PB",
+            "empresa": "- Meta Construções Locações e Serviços LTDA",
+            "valor_total": "R$ 436,093.44"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO\nNO POVOADO CACHOEIRA DE MINAS ZONA RURAL, RUA\nJOSÉ DE SIQUEIRA LOPES E RUA JOSÉ FERREIRA DA LUZ\nNO MUNICÍPIO DE SÃO JOSÉ DE PRINCESA/PB, CONFORME\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\nPROJETO DE ENGENHARIA E NOS TERMOS DO CR N.º\n1054539-46/2018, SICONV Nº 868798",
+            "empresa": "Construtora Apodi Eireli",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 52800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 1117691.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 26,
+        "total_gasto": 18457093.669999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE MATERIAL DE EXPEDIENTE PARA\nDIVERSAS SECRETARIAS DO MUNICIPIO",
+            "empresa": "CAVALCANTE\nSOUTO ARTIGOS DE PAPELARIA LTDA",
+            "valor_total": "R$ 118,852.08"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS DE INFORMATICA\nDESTINADOS A DIVERSAS SECRETARIAS DESTE\nMUNICIPIO",
+            "empresa": "SETGRAF COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 56,960.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 5229276.87,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL HIDRÁULICO\n\nDESTINADOS A SECRETARIA DE INFRA ESTRUTURA DO\n\nMUNICIPIO",
+            "empresa": "JULIA\n\nKAROLINE VERISSIMO DA COSTA",
+            "valor_total": "R$ 55,733.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 113,
+        "num_contratos": 289,
+        "total_gasto": 47556333.539999984
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 31,
+        "total_gasto": 4030135.73,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE CRECHE TIPO B PROJETO\n\nPADRÃO INTEGRA PARAÍBA, COM BASE NO PROOGRAMA\n\nPARAIBA INFANCIA",
+            "empresa": "CATAO BONGIOVI COMERCIO E\n\nSERVICOS EIRELI",
+            "valor_total": "R$ 1,200,770.86"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnicos\n\nespecializados na área jurídica, visando à defesa dos interesses do\n\nMunicípio nas Ações que versam sobre a responsabilização por\n\nirregularidades na execução de convênios públicos, através do\n\ningresso da competente ação para suspensão de inadimplências, bem\n\ncomo nas demandas que tramitam na Cidade de João Pessoa,\n\nespecificamente nos Tribunais de Justiça do Estado da Paraíba, e\n\nTribunal Regional Federal da 5ª Região, com todas as medidas\n\njudiciais cabíveis, conforme o caso",
+            "empresa": "RODRIGO MAIA ADVOCACIA",
+            "valor_total": "R$ 96,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços técnicos\n\nespecializados na área jurídica, visando à defesa dos interesses do\n\nMunicípio nas Ações que versam sobre a responsabilização por\n\nirregularidades na execução de convênios públicos, através do\n\ningresso da competente ação para suspensão de inadimplências, bem\n\ncomo nas demandas que tramitam na Cidade de João Pessoa,\n\nespecificamente nos Tribunais de Justiça do Estado da Paraíba, e\n\nTribunal Regional Federal da 5ª Região, com todas as medidas\n\njudiciais cabíveis, conforme o caso",
+            "empresa": "RODRIGO MAIA ADVOCACIA",
+            "valor_total": "R$ 96,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE EM\n\nGERAL PARA ATENDER AS NECESSIDADES DO MUNICÍPIO\n\nDE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "ELIANE DO\n\nNASCIMENTO CAMPOS ME",
+            "valor_total": "R$ 656,100.98"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE EM\n\nGERAL PARA ATENDER AS NECESSIDADES DO MUNICÍPIO\n\nDE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº\n\n00004/2024",
+            "valor_total": "R$ 656,100.98"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE EM\n\nGERAL PARA ATENDER AS NECESSIDADES DO MUNICÍPIO\n\nDE SÃO JOÃO DO RIO DO PEIXE–PB",
+            "empresa": "CT Nº 00009/2024",
+            "valor_total": "R$ 656,100.98"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 2576219.7199999997,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "DANILO JOSE MARTINS DA SILVA\n\nCOMERCIO DE AUTO PEÇAS E PNEUS LTDA-ME",
+            "valor_total": "R$ 127,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "e\n\nDanilo José Martins da Silva -Contratado.\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 127,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "JP AUTO PEÇAS LTDA (OLIVEIRA AUTO\n\nPEÇAS",
+            "valor_total": "R$ 37,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "e\n\nManoel Firmino Júnior",
+            "valor_total": "R$ 37,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 37,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "O CEARENSE DISTRIBUIDORA DE PEÇAS\n\nLTDA",
+            "valor_total": "R$ 106,650.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "e\n\nFrancisco Marques Clementino",
+            "valor_total": "R$ 106,650.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS GENUÍNAS DE 1º LINHA\n\nPARA MANUTENÇÃO DOS VEÍCULOS DA FROTA DO\n\nMUNICÍPIO DE SÃO JOSÉ DE PRINCESA – PB",
+            "empresa": ".\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 106,650.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 48,
+        "total_gasto": 9884502.790000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS EM MÃO DE OBRA E MANUTENÇÃO DOS\n\nVEICULOS DA FROTA LINHA LEVE DESTE MUNICIPO",
+            "empresa": "BRAV\n\nTRATORES LTDA",
+            "valor_total": "R$ 59,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em locação de\n\nmicro–ônibus, para atender às necessidades da Diversas Secretarias\n\ndeste Municipio",
+            "empresa": "NOVO HORIZONTE\n\nSERVICO DE TRANSPORTE DE PASSAGEIROS LTDA",
+            "valor_total": "R$ 59,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 39,
+        "total_gasto": 3939147.3299999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Apresentação de dm Show Artístico da\n\nCantora Gisele Sousa, nas Festividades Tradicionais do Dia 31 de\n\nMaio, no Município de São José de Princesa/PB",
+            "empresa": "A EMPRESA:\n\nPAJEU ENTRETENIMENTO & LOCAÇÃO LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de Apresentação de dm Show Artístico da\n\nCantora Gisele Sousa, nas Festividades Tradicionais do Dia 31 de\n\nMaio, no Município de São José de Princesa/PB",
+            "empresa": "e\n\nEmpresa",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de Apresentação de dm Show Artístico do\n\nCantor Renato Andrade, nas Festividades Tradicionais do Dia 31 de\n\nMaio, no Município de São José de Princesa/PB",
+            "empresa": "A EMPRESA:\n\nRENATO SIQUEIRA CARLOS DE ANDRADE-ME",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de Apresentação de dm Show Artístico do\n\nCantor Renato Andrade, nas Festividades Tradicionais do Dia 31 de\n\nMaio, no Município de São José de Princesa/PB",
+            "empresa": "e\n\nEmpresa",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "CHAMAMENTO PÚBLICO NA FORMA DE\n\nCREDENCIAMENTO DE PESSOA JURÍDICA PARA\n\n\"PRESTAÇÃO DE CONSULTAS MÉDICAS ESPECIALIZADAS E\n\nEXAMES MÉDICOS\", PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO",
+            "empresa": "S: Total Saúde Médicos Especializados",
+            "valor_total": "R$ 378,480.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\n\nconstrução uma quadra coberta na comunidade Patos de Irerê no\n\nMunicípio de São José de Princesa, conforme projeto de engenharia e\n\nnos termos do convênio N.º 0296/2021",
+            "empresa": "Torre Construção e Consultoria em\n\nEngenharia EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\n\nconstrução uma quadra coberta na comunidade Patos de Irerê no\n\nMunicípio de São José de Princesa, conforme projeto de engenharia e\n\nnos termos do convênio N.º 0296/2021",
+            "empresa": ".\n\nSão José de Princesa",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 32,
+        "total_gasto": 5723550.54,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nPAVIMENTAÇÃO EM PARALELEPÍPEDO DAS RUAS\n\nPROJETADAS I E II LOCALIZADAS NA ZONA URBANA DO\n\nMUNICÍPIO DE SERRA REDONDA – PB",
+            "empresa": "R & S ENGENHARIA E CONSULTORIA\n\nEIRELI",
+            "valor_total": "R$ 222,551.00"
+          },
+          {
+            "objeto": "Contratação direta através de empresário exclusivo dos serviços\n\nartísticos de apresentação musical, dos artistas ZÉ DE FREITAS,\n\nJEFINHO ATUALIZADO, LUAN PAKERÔ E DA BANDA\n\nFARRA DE BAKANA, para exibição nas festividades do\n\n“FORROJÃO 2024” em praça pública na cidade de São João do Rio\n\ndo Peixe/PB",
+            "empresa": "ZÉ DE FREITAS R$ 15.000,00; JEFINHO\n\nATUALIZADO R$ 5.000,00; BANDA FARRA DE BAKANA R$\n\n25.000,00)\n\n\n\nSão João Rio do Peixe",
+            "valor_total": "R$ 122,000.00"
+          },
+          {
+            "objeto": "Contratação direta através de empresário exclusivo dos\n\nserviços artísticos de apresentação musical, dos artistas ZÉ DE\n\nFREITAS, JEFINHO ATUALIZADO, LUAN PAKERÔ E DA\n\nBANDA FARRA DE BAKANA, para exibição nas festividades do\n\n“FORROJÃO 2024” em praça pública na cidade de São João do Rio\n\ndo Peixe/PB",
+            "empresa": "ZÉ DE FREITAS R$ 15.000,00; JEFINHO\n\nATUALIZADO R$ 5.000,00; BANDA FARRA DE BAKANA R$\n\n25.000,00)\n\n\n\nSão João Rio do Peixe",
+            "valor_total": "R$ 122,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS, DESTINADOS AOS\n\nVEÍCULOS DA SECRETARIA DE SAÚDE DO MUNICÍPIO DE\n\nSÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "A EMPRESA\n\nFLÁVIO AUTO PEÇAS LTDA-ME",
+            "valor_total": "R$ 58,610.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS, DESTINADOS AOS\n\nVEÍCULOS DA SECRETARIA DE SAÚDE DO MUNICÍPIO DE\n\nSÃO JOSÉ DE PRINCESA – PB",
+            "empresa": "FLÁVIO LOCIO DA SILVA representante legal.\n\n\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 58,610.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDOS SERVIÇOS DE DESMATAMENTO LATERAL/ROÇADA\n\nMANUAL DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO\n\nJOSÉ DE PRINCESA – PB",
+            "empresa": "A EMPRESA JOSÉ\n\nROMERIO FERREIRA DE SOUSA/BERLIMP",
+            "valor_total": "R$ 54,739.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 22,
+        "total_gasto": 1853361.6999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 28,
+        "total_gasto": 3393840.94,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE EXCUÇÃO E\n\nCONTROLE EM PRESTAÇÃO DE CONTAS DOS CONVENIOS\n\nESTADUAIS E FEDERAIS, JUNTO AO SICONV, SUASWEB,\n\nSIGPC/FNDE, SIGPACTO/ESTADO E DEMAIS PRESTAÇÕES\n\nDE CONTAS FISICAS FUNASA, INTEGRAÇÃO, DNOCS,\n\nENTRE OUTRAS DESTE MUNICIPIO",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Serra Redonda e: CT Nº 00066/2021 -\n\nPrestcontas Assessoria e Consultoria Em Gestao Empresarial e\n\nPublica Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\n\nDE SERVIÇOS DE IMPLANTAÇÃO DE 01 (UMA)\n\nSUBESTAÇÃO ELÉTRICA TRIFÁSICA AEREA DE 112,5 KVA\n\n380/220V, COM FORNECIMENTO E INSTALAÇÃO DE REDE\n\nDE DISTRIBUIÇÃO DE MÉDIA TENSÃO, INSTALAÇÃO DE\n\nREDE DE BAIXA TENSÃO, INSTALAÇÃO DE QUADROS DE\n\nDISTRIBUIÇÃO, INSTALAÇÃO DE INFRAESTRUTURA EM\n\nLETRODUTOS, SERVIÇO DE TRANSPORTE DE CAMINHÃO\n\nGUINDASTE (TIPO MUCK), ESCAVAÇÃO DE VALAS E\n\nIMPLANTAÇÃO DE POSTES NOVOS PARA ATENDER AO\n\nHOSPITAL CAP",
+            "empresa": "ELETROLUZ\n\nCOMERCIO DE MATERIAIS ELETRICOS EIRELI",
+            "valor_total": "R$ 225,792.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS PARA ATENDER AS\n\nNECESSIDADES DA FROTA VEICULAR DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DE PRINCESA - PB",
+            "empresa": "DANILO JOSE MARTINS DA SILVA\n\nCOMERCIO DE AUTO PECAS E PNEUS LTDA-ME",
+            "valor_total": "R$ 93,100.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS PARA ATENDER AS\n\nNECESSIDADES DA FROTA VEICULAR DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DE PRINCESA - PB",
+            "empresa": "Danilo José\n\nMartins da Silva.\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 93,100.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS PARA ATENDER AS\n\nNECESSIDADES DA FROTA VEICULAR DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DE PRINCESA - PB",
+            "empresa": "O CEARENSE DISTRIBUIDORA DE PEÇAS\n\nLTDA",
+            "valor_total": "R$ 93,100.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS PARA ATENDER AS\n\nNECESSIDADES DA FROTA VEICULAR DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DE PRINCESA - PB",
+            "empresa": "Francisco Marques\n\nClementino.\n\nDATA E ASSINATURA: São José de Princesa",
+            "valor_total": "R$ 93,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 19,
+        "total_gasto": 2412406.35,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de obra de\n\nengenharia para pavimentação de estradas vicinais no município de\n\nSão João do Rio do Peixe-PB, conforme condições, quantidades e\n\nexigências estabelecidas neste Edital e seus anexos",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de São João do Rio do Peixe e: CT Nº\n\n00069/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 63570.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÕES DE SERVIÇOS DE ASSESSORIA,\n\nACOMPANHAMENTO,GEOREFENCIAMENTO E ENVIO DE\n\nINFORMAÇÕES NO SISTEMA GEOPB JUNTO A PREFEITURA\n\nMUNCIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "SAMARA MENDES\n\nBATISTA LIRA",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÕES DE SERVIÇOS DE ASSESSORIA,\n\nACOMPANHAMENTO,GEOREFENCIAMENTO E ENVIO DE\n\nINFORMAÇÕES NO SISTEMA GEOPB JUNTO A PREFEITURA\n\nMUNCIPAL DE SÃO JOÃO DO RIO DO PEIXE",
+            "empresa": "SAMARA MENDES\n\nBATISTA LIRA",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 1506905.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 41,
+        "total_gasto": 6943416.57,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

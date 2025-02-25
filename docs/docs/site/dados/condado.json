@@ -197,9 +197,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 72,
-        "num_contratos": 105,
-        "total_gasto": 7943982.739999998
+        "num_diarios": 70,
+        "num_contratos": 92,
+        "total_gasto": 6166150.85
       },
       "2": {
         "num_diarios": 6,
@@ -225,8 +225,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 11,
-        "total_gasto": 1692871.8900000001,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -238,9 +238,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 7,
-        "num_contratos": 2,
-        "total_gasto": 84960.0,
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -266,7 +266,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 3,
         "total_gasto": 429000.0,
         "top_3_empresas": [],
@@ -312,9 +312,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 95,
-        "num_contratos": 127,
-        "total_gasto": 8298229.470000001
+        "num_diarios": 93,
+        "num_contratos": 120,
+        "total_gasto": 7919425.200000001
       },
       "2": {
         "num_diarios": 5,
@@ -339,15 +339,15 @@
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 15,
-        "total_gasto": 1065245.4,
+        "num_contratos": 17,
+        "total_gasto": 1081869.2999999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 5,
-        "num_contratos": 17,
-        "total_gasto": 1053932.3900000001,
+        "num_contratos": 8,
+        "total_gasto": 658504.22,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -373,7 +373,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -395,7 +395,7 @@
         ]
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 14,
         "total_gasto": 595697.0,
         "top_3_empresas": [
@@ -418,9 +418,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 84,
-        "num_contratos": 128,
-        "total_gasto": 10624136.93
+        "num_diarios": 83,
+        "num_contratos": 130,
+        "total_gasto": 13179836.930000002
       },
       "2": {
         "num_diarios": 9,
@@ -431,8 +431,8 @@
       },
       "3": {
         "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 2394723.54,
+        "num_contratos": 6,
+        "total_gasto": 4950423.54,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -485,7 +485,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 6,
         "total_gasto": 357480.0,
         "top_3_empresas": [],
@@ -516,8 +516,8 @@
       },
       "resumo": {
         "num_diarios": 87,
-        "num_contratos": 149,
-        "total_gasto": 12748000.99
+        "num_contratos": 134,
+        "total_gasto": 11720216.39
       },
       "2": {
         "num_diarios": 6,
@@ -535,8 +535,8 @@
       },
       "4": {
         "num_diarios": 10,
-        "num_contratos": 15,
-        "total_gasto": 1027784.6,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -634,9 +634,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 88,
-        "num_contratos": 179,
-        "total_gasto": 12373082.46
+        "num_diarios": 87,
+        "num_contratos": 186,
+        "total_gasto": 12522096.809999999
       },
       "2": {
         "num_diarios": 7,
@@ -647,10 +647,18 @@
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 8149.8,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 8,
+        "total_gasto": 157164.15,
+        "top_3_empresas": [
+          "BIOSUL PRODUTOS\nDIAGNOSTICOS LTDA",
+          "CT Nº\n00045/2024 - 18.03.24 - MARQ TECH COMERCIO E SERVICOS\nLTDA",
+          "DIAGFARMA\nCOMERCIO E SERVICOS DE PRODUTOS HOSPITALARES E\nLAB"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para fornecimento parcelado de\nMATERIAIS DE USO LABORATORIAL para suprir as\nnecessidades da Secretaria Municipal de saúde de Jericó–PB",
+          "Contratação de empresa para execução de Obra para\nConstrução de Escola de 04 (Quatro) salas de aula, através do\nConvenio nº 382/2021, Conforme Projeto Básico",
+          "Escolha de proposta mais vantajosa para contratação por\ndispensa de licitação de empresa para prestação de serviços técnicos\nespecializados no apoio administrativo junto ao departamento de\nconvênios federais e prestação de contas do município de Jericó/PB"
+        ]
       },
       "4": {
         "num_diarios": 11,
@@ -696,7 +704,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -726,9 +734,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 521,
-    "num_contratos": 873,
-    "total_gasto": 63486390.32,
+    "num_diarios": 515,
+    "num_contratos": 847,
+    "total_gasto": "63.006.683,91",
     "top_5_empresas": {
       "JOSENILDO ARAÚJO SILVA": 2,
       "ROTINEY JANES ROCHA DA\nSILVA": 2,

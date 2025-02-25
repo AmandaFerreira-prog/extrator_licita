@@ -3,8 +3,8 @@
   "nome": "Princesa Isabel",
   "detalhe": {
     "2014": {
-      "2": {
-        "num_diarios": 2,
+      "8": {
+        "num_diarios": 7,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -12,18 +12,11 @@
       },
       "resumo": {
         "num_diarios": 35,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 2,
+        "total_gasto": 101250.0
       },
-      "4": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 1,
+      "7": {
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -36,15 +29,22 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "7": {
-        "num_diarios": 4,
+      "5": {
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "8": {
-        "num_diarios": 7,
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -59,8 +59,8 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 101250.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -89,8 +89,8 @@
       },
       "resumo": {
         "num_diarios": 62,
-        "num_contratos": 1,
-        "total_gasto": 7716.0
+        "num_contratos": 9,
+        "total_gasto": 390887.65
       },
       "2": {
         "num_diarios": 3,
@@ -112,8 +112,8 @@
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 141000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -133,8 +133,8 @@
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 9600.0,
         "top_3_empresas": [
           "CLASSIC CONSTRUÇÕES E EMPREENDIMENTOS"
         ],
@@ -144,8 +144,8 @@
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 232571.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -209,7 +209,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 65,
+        "num_diarios": 63,
         "num_contratos": 2,
         "total_gasto": 435505.38
       },
@@ -274,11 +274,19 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 1,
         "total_gasto": 33000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          ": JOSÉ DUARTE RIBEIRO",
+          ": ESTELITA SOUSA COSTA MUNIZ",
+          ": T. M. LACAVA DE CARVALHO SEQUEIRA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL DE CONSUMO PARA\nATENDER DIVERSOS SETORES DA PREFEITURA",
+          "Aquisição de medicamentos de referência, genéricos e\nsimilares para atender a usuários do SUS com base na listagem de A a\nZ da ABC Farma/Guia da Farmácia",
+          "Contratação de empresa especializada, para prestação de\nserviços de execução do evento denominado “SÃO JOÃO DE\nPRINCESA ISABEL 2016”, a ser realizada nos dias 22/06/2016 a\n23/06/2016, com fornecimento de toda a estrutura, equipamentos, mão\nde obra e todo material necessário à execução do evento com 02 dias\nde atrações"
+        ]
       },
       "11": {
         "num_diarios": 6,
@@ -288,7 +296,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -298,22 +306,26 @@
     "2017": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 42000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 110,
-        "num_contratos": 112,
-        "total_gasto": 15981747.01
+        "num_diarios": 107,
+        "num_contratos": 134,
+        "total_gasto": 17639000.970000003
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 1,
+        "total_gasto": 1500.0,
+        "top_3_empresas": [
+          "A.O.S. SOFTWARE LTDA"
+        ],
+        "top_3_objetos": [
+          "Licença de Software de\nContabilidade integrado com Licitação; VIGÊNCIA: 02 de fevereiro a\n03 de março de 2017;"
+        ]
       },
       "3": {
         "num_diarios": 7,
@@ -324,15 +336,15 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 387538.6,
+        "num_contratos": 6,
+        "total_gasto": 1106163.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 9,
-        "num_contratos": 2,
-        "total_gasto": 1217638.09,
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1997086.95,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -351,7 +363,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 6,
         "total_gasto": 303207.72,
         "top_3_empresas": [
@@ -392,15 +404,15 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 828753.23,
+        "num_contratos": 20,
+        "total_gasto": 944433.23,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Prestar os seguintes serviços:\nConstrução da entrada do Matadouro no Município (Lote I);\nPintura e Reforma da Secretária de Saúde no Município (Lote II);\nPintura e Reforma do CAPS I no Município (Lote III);\nPintura e Reforma do CAPS III no Município (Lote IV);\nReforma e Pintura do CEO no Município (Lote V);\nPintura e Reforma do centro de imagens no Município (Lote VI);\nPintura e Reforma do SAMU no Município (Lote VII);\nPintura e Reforma da UBS da Lagoa de São João no Município (Lote\nVIII);\nPintura e Reforma da UBS Centro I no Município (Lote IX);\nPintura e Reforma da UBS Cruzeiro no Município (Lote X);\nPintura e Reforma da UBS na Lagoa da Cruz no Município (Lote XI);\nPintura e Reforma da UBS no bairro São Francisco no Município\n(Lote XII);\nPintura e Reforma da UBS Maia no Município (Lote XIII);\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 28\n\n\nPintura e Reforma da UBS Padre Ibiapina no Município (Lote XIV);\nReforma e Adaptação da UBS da Escorregada no Município (Lote\nXV);\nReforma e Adaptação da UBS da Lagoa da Fazenda no Município\n(Lote XVI), conforme planilhas orçamentárias de custos"
         ]
       },
       "12": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 25,
         "total_gasto": 2713178.39,
         "top_3_empresas": [],
@@ -410,54 +422,56 @@
     "2018": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 189946.0,
+        "num_contratos": 8,
+        "total_gasto": 291946.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 109,
-        "num_contratos": 184,
-        "total_gasto": 25768416.979999993
+        "num_diarios": 107,
+        "num_contratos": 207,
+        "total_gasto": 25365142.41999999
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 14,
-        "total_gasto": 471867.11,
+        "num_contratos": 22,
+        "total_gasto": 641267.11,
         "top_3_empresas": [
           "Manoel dos Santos",
-          "Ciro Cavalcante da Silva Neto"
+          "Ciro Cavalcante da Silva Neto",
+          "TÁCIO REGES DANTAS"
         ],
         "top_3_objetos": [
           "Contratação de uma pessoa jurídica prestar o fornecimento\nparcelada de materiais de limpeza e utensílios, destinados as escolas,\ncreche, Programas Sociais, e demais Secretarias deste município",
-          "Contratação de uma pessoa jurídica para prestar serviço no\ntransporte de passageiros (Equipe dos PSF), para atender os PSF dos\nSítios: Lagoa da Cruz, Cachoeira de Minas, Várzea e as comunidades\ndos Sítios circunvizinhos que são atendidos por estas unidades"
+          "Contratação de uma pessoa jurídica para prestar serviço no\ntransporte de passageiros (Equipe dos PSF), para atender os PSF dos\nSítios: Lagoa da Cruz, Cachoeira de Minas, Várzea e as comunidades\ndos Sítios circunvizinhos que são atendidos por estas unidades",
+          "execução os serviços de facilitador de\natividades físicas, recreações e modalidades esportivas destinadas aos\nusuários do CRAS; VIGÊNCIA: 01 de março de 2018 a 31 de\ndezembro de 2018; DOTAÇÃO ORÇAMENTÁRIA: 02 14 08 244\n0020 2143 - MANUT"
         ]
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 1,
-        "total_gasto": 169050.0,
+        "num_contratos": 4,
+        "total_gasto": 200040.32,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 59,
-        "total_gasto": 15581919.16,
+        "num_contratos": 60,
+        "total_gasto": 15588579.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 12,
-        "total_gasto": 716202.05,
+        "num_contratos": 13,
+        "total_gasto": 724102.9500000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 2007034.2,
+        "num_contratos": 9,
+        "total_gasto": 2062234.2,
         "top_3_empresas": [
           "Man Latin America Indústria e Comércio de\nVeículos Ltda"
         ],
@@ -467,42 +481,40 @@
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 17,
-        "total_gasto": 1125271.43,
+        "num_contratos": 29,
+        "total_gasto": 1362226.15,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 15,
-        "num_contratos": 9,
-        "total_gasto": 591971.99,
+        "num_contratos": 10,
+        "total_gasto": 1299971.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
-        "num_contratos": 8,
-        "total_gasto": 1669036.74,
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 201036.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 21,
-        "total_gasto": 1518440.3800000001,
+        "num_contratos": 23,
+        "total_gasto": 1720059.8800000001,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de uma pessoa jurídica para prestar serviço na\n\nReforma da UBS no Sítio Cachoeira de Minas no Município de\n\nPrincesa Isabel - PB"
         ]
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 23,
-        "total_gasto": 1304161.3800000001,
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 850161.38,
         "top_3_empresas": [
-          ") e o Sr. Israel Pontes Moura",
-          ").\n\n\n\nPrincesa Isabel - PB, 22 de Novembro de 2018\n\n\n\nRICARDO PEREIRA DO NASCIMENTO\nPrefeito\n\n\n\nPREFEITURA MUNICIPAL DE PRINCESA ISABEL\n\n\nRATIFICAÇÃO E ADJUDICAÇÃO",
-          ").\n\n\n\nPrincesa Isabel - PB, 31 de Novembro de 2018\n\n\n\nRICARDO PEREIRA DO NASCIMENTO\nPrefeito\n\n\n\nPREFEITURA MUNICIPAL DE PRINCESA ISABEL\n\n\nRATIFICAÇÃO E ADJUDICAÇÃO"
+          "Yan Phillipe Angelim Vieira-ME"
         ],
         "top_3_objetos": [
           "Contratação direta da pessoa jurídica OLIVEIRA\n\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA",
@@ -521,23 +533,25 @@
     "2019": {
       "1": {
         "num_diarios": 4,
-        "num_contratos": 3,
-        "total_gasto": 73374.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 4,
+        "total_gasto": 175094.53999999998,
+        "top_3_empresas": [
+          "ALVES\n\nCONSTRUÇÕES LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada para execução dos\n\nserviços da obra de construção de uma academia da saúde, no\n\nMunicípio de São Sebastião do Umbuzeiro - PB, conforme Projeto\n\nBásico de Engenharia"
+        ]
       },
       "resumo": {
-        "num_diarios": 131,
-        "num_contratos": 105,
-        "total_gasto": 19195292.150000002
+        "num_diarios": 129,
+        "num_contratos": 123,
+        "total_gasto": 19848637.959999997
       },
       "2": {
         "num_diarios": 11,
         "num_contratos": 2,
         "total_gasto": 36000.0,
-        "top_3_empresas": [
-          ").\n\nPrincesa Isabel"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação direta ao senhor Leonardo Cândido\nAlbuquerque Ferreira, brasileiro, casado, advogado inscrito na OAB\nsob nº",
           "Contratação de serviços de consultoria e assessoria técnica\nespecializada na área de Contabilidade Geral, compreendendo a\nelaboração computadorizada dos balancetes mensais, elaboração da\nprestação de Contas anual, bem como atendimento das notificações\nmensais do Tribunal de Contas do Estado da Paraíba, para a Câmara\nMunicipal de Princesa Isabel – PB, durante o exercício financeiro de\n\n2019, para a Câmara Municipal de Princesa Isabel, durante o período\nde Fevereiro a Dezembro de 2019",
@@ -546,8 +560,8 @@
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 944438.5,
+        "num_contratos": 13,
+        "total_gasto": 1036547.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -560,18 +574,17 @@
       },
       "5": {
         "num_diarios": 15,
-        "num_contratos": 18,
-        "total_gasto": 5455629.92,
+        "num_contratos": 21,
+        "total_gasto": 5983727.34,
         "top_3_empresas": [
-          ": M. K. DE AZEVEDO ARAUJO DUTRA\nDANTAS",
-          ").\n\nPrincesa Isabel"
+          ": M. K. DE AZEVEDO ARAUJO DUTRA\nDANTAS"
         ],
         "top_3_objetos": [
           "Contratação de uma pessoa jurídica para prestar\nfornecimento de ventiladores de parede para atender as necessidades\ndas diversas Secretarias do Município de Princesa Isabel/PB,\nconforme especificações descritas no termo de referência"
         ]
       },
       "6": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 15,
         "total_gasto": 2597740.51,
         "top_3_empresas": [],
@@ -579,8 +592,8 @@
       },
       "7": {
         "num_diarios": 11,
-        "num_contratos": 8,
-        "total_gasto": 950519.42,
+        "num_contratos": 10,
+        "total_gasto": 1362753.77,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -589,7 +602,6 @@
         "num_contratos": 17,
         "total_gasto": 1743341.4100000001,
         "top_3_empresas": [
-          ").\n\nPrincesa Isabel",
           "AVIOES DO FORRO GRAVACOES E EDICOES\nMUSICAIS LTDA",
           "Mundo Livre Motors LTDA"
         ],
@@ -618,10 +630,10 @@
       },
       "11": {
         "num_diarios": 15,
-        "num_contratos": 16,
-        "total_gasto": 4378803.87,
+        "num_contratos": 19,
+        "total_gasto": 4543468.32,
         "top_3_empresas": [
-          "GKM Construções Serviços Eirelei-ME,",
+          "GKM Construções Serviços Eirelei-ME",
           "GR Construtora Eireli"
         ],
         "top_3_objetos": [
@@ -630,11 +642,16 @@
         ]
       },
       "12": {
-        "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 2834346.26,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 2188866.31,
+        "top_3_empresas": [
+          "CONSTRUTORA TRIUNFO EIRELI"
+        ],
+        "top_3_objetos": [
+          "SERVIÇOS DE REFORMA DA ESCOLA MUNICIPAL\nMARIA MARQUES II NO MUNICÍPIO DE SÃO JOSÉ DA\nLAGOA TAPADA",
+          "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE EQUIPAMENTOS DESTINADOS A CÂMARA MUNICIPAL\nDE SÃO JOSÉ DO BREJO DO CRUZ-PB, CONFORME TERMO\nDE REFERENCIA"
+        ]
       }
     },
     "2020": {
@@ -646,27 +663,27 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 124,
-        "num_contratos": 114,
-        "total_gasto": 32009028.64999999
+        "num_diarios": 122,
+        "num_contratos": 124,
+        "total_gasto": 32413937.08999999
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 16,
-        "total_gasto": 332923.91,
+        "num_contratos": 18,
+        "total_gasto": 602269.83,
         "top_3_empresas": [
-          ").\n\nPrincesa Isabel",
           "RICARDO\nROCHA ALVES",
-          "D.\nHENRIQUES MORAIS PACHECO"
+          "D.\nHENRIQUES MORAIS PACHECO",
+          "AMADEU SILVA"
         ],
         "top_3_objetos": [
+          "Aquisição gradativa de\nmaterial de limpeza, higiene pessoal e descartáveis;",
           "Realização de 01\nshow artístico no dia 24 de Fevereiro de 2020, do Cantor Harry\nEstigado, com duração mínima de 2h (duas horas), dentro das\nfestividades do Tradicional Carnaval de Princesa Isabel",
-          "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, da Banda Forró do Dono, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
-          "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, do Cantor Luan Douglas, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel"
+          "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, da Banda Forró do Dono, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel"
         ]
       },
       "3": {
-        "num_diarios": 11,
+        "num_diarios": 9,
         "num_contratos": 4,
         "total_gasto": 895667.3,
         "top_3_empresas": [],
@@ -677,8 +694,7 @@
         "num_contratos": 3,
         "total_gasto": 10266252.290000001,
         "top_3_empresas": [
-          "TORRE CONSTRUÇÃO E CONSULTORIA EM\nENGENHARIA EIRELI",
-          ").\n\nPrincesa Isabel"
+          "TORRE CONSTRUÇÃO E CONSULTORIA EM\nENGENHARIA EIRELI"
         ],
         "top_3_objetos": [
           "prestar serviço de engenharia de caráter emergencial na\nampliação de instalações hospitalares para acomodação de leitos,\nconsultórios e demais setores necessários, para atendimento regional\nda população necessitada para o combate e prevenção do COVID-19\nno Hospital Regional de Princesa Isabel/PB"
@@ -690,7 +706,6 @@
         "total_gasto": 7683989.0600000005,
         "top_3_empresas": [
           "LENI\n\nGOMES OBERLAENDER",
-          ").\n\n\n\nPrincesa Isabel",
           "B2\n\nCONSTRUÇÕES EIRELI"
         ],
         "top_3_objetos": [
@@ -699,16 +714,17 @@
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 18,
-        "total_gasto": 4837934.159999999,
+        "num_contratos": 19,
+        "total_gasto": 4879284.159999999,
         "top_3_empresas": [
-          ").\n\n\n\nPrincesa Isabel",
           "AUDECY BELARMINO DE OLIVEIRA ME",
-          "TORRE CONSTRUÇÃO E CONSULTORIA EM\n\nENGENHARIA EIRELI"
+          "TORRE CONSTRUÇÃO E CONSULTORIA EM\n\nENGENHARIA EIRELI",
+          "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA"
         ],
         "top_3_objetos": [
           "Contratação direta da pessoa jurídica Audecy Belarmino de\n\nOliveira, CNPJ: 09.082.111/0001-69, para prestar fornecimento de\n\ncestas básicas para distribuição gratuita no mês de julho à pessoas\n\nnecessitadas, devido aos problemas causados pelo Covid-19",
-          "Contratação de pessoa(s) jurídica(s) para prestar serviço de\n\nengenharia em várias UBS‟s, Centros de Atendimento Psicossociais,\n\nSAMU e Academias de Saúde, em diversas localidades no Município\n\nde Princesa Isabel/PB, conforme planilhas de custo"
+          "Contratação de pessoa(s) jurídica(s) para prestar serviço de\n\nengenharia em várias UBS‟s, Centros de Atendimento Psicossociais,\n\nSAMU e Academias de Saúde, em diversas localidades no Município\n\nde Princesa Isabel/PB, conforme planilhas de custo",
+          "Aquisição Gradativa de Cestas Básicas;"
         ]
       },
       "7": {
@@ -720,11 +736,10 @@
       },
       "8": {
         "num_diarios": 13,
-        "num_contratos": 8,
-        "total_gasto": 1890881.1,
+        "num_contratos": 13,
+        "total_gasto": 1957356.1,
         "top_3_empresas": [
           "CANON MEDICAL SYSTEMS DO BRASIL LTDA",
-          ").\n\nPrincesa Isabel",
           "Rejane Medeiros Gomes Santos"
         ],
         "top_3_objetos": [
@@ -759,8 +774,8 @@
       },
       "12": {
         "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 750636.25,
+        "num_contratos": 8,
+        "total_gasto": 778373.77,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -774,18 +789,18 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 172,
-        "num_contratos": 202,
-        "total_gasto": 25106667.970000003
+        "num_diarios": 170,
+        "num_contratos": 217,
+        "total_gasto": 26342889.76
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 14,
-        "total_gasto": 460250.67,
+        "num_contratos": 20,
+        "total_gasto": 1114506.73,
         "top_3_empresas": [
-          ").\n\nPrincesa Isabel",
           "Feliciano\nIsidio da Silva",
-          "João\nClementino da Silva"
+          "João\nClementino da Silva",
+          "Maria da\nConceição"
         ],
         "top_3_objetos": [
           "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
@@ -795,8 +810,8 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 4,
-        "total_gasto": 364300.0,
+        "num_contratos": 5,
+        "total_gasto": 389500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -817,12 +832,12 @@
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 7,
-        "total_gasto": 406333.17,
+        "num_contratos": 10,
+        "total_gasto": 510241.17,
         "top_3_empresas": [
-          ").\n\nPrincesa Isabel",
           "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
-          "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI"
+          "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
+          "CONSTRUTORA J. GALDINO EIRELI"
         ],
         "top_3_objetos": [
           "Contratação de empresa prestadora de serviços de\nengenharia para construção de pavimento em paralelepípedo e piso\nintertravado com bloco sextavado e rede hidro sanitária em torno da\nPrefeitura de Princesa Isabel na Rua Pedro Sobreira, conforme\nplanilhas de custo",
@@ -831,9 +846,9 @@
         ]
       },
       "6": {
-        "num_diarios": 14,
-        "num_contratos": 8,
-        "total_gasto": 278201.82,
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 522359.98,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -846,19 +861,19 @@
       },
       "8": {
         "num_diarios": 20,
-        "num_contratos": 30,
-        "total_gasto": 3477834.0500000003,
+        "num_contratos": 31,
+        "total_gasto": 3674834.0500000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 19,
-        "num_contratos": 54,
-        "total_gasto": 1733479.74,
+        "num_contratos": 57,
+        "total_gasto": 1745179.31,
         "top_3_empresas": [
           "José Murilo de Medeiros",
           "R$363.748,85.\n\nReferente aos item(s): 1",
-          ").\n\nPrincesa Isabel"
+          "CRM Comercial Ltda"
         ],
         "top_3_objetos": [
           "Prestar o fornecimento parcelado de\n\nmateriais de informática para atender as necessidades das diversas\n\nSecretarias do Município de Princesa Isabel, conforme termo de\n\nreferência",
@@ -880,11 +895,10 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 22,
         "total_gasto": 4073311.0399999996,
         "top_3_empresas": [
-          ").\n\n\n\nPrincesa Isabel",
           "VL\n\nTECNOLOGICA LTDA",
           "Antônio Rialtoam de Araújo"
         ],
@@ -896,12 +910,11 @@
     },
     "2022": {
       "1": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 22,
         "total_gasto": 1832889.2200000002,
         "top_3_empresas": [
           "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI.\n\nValor: R$ 26.802,56 (vinte e seis mil oitocentos e dois reais e\n\ncinquenta e seis centavos).",
-          ").\n\n\n\nPrincesa Isabel - PB, 19 de Janeiro de 2022\n\nRICARDO PEREIRA DO NASCIMENTO\n\nPrefeito\n\n\n\nPREFEITURA DE PRINCESA ISABEL\n\n\nRATIFICAÇÃO E ADJUDICAÇÃO DA DISPENSA Nº 010/2022\n\n\nNos termos dos elementos constantes da respectiva Exposição de\n\nMotivos que instrui o processo e observado o parecer da Assessoria\n\nJurídica, referente a Dispensa de Licitação nº DV00010/2022, que\n\nobjetiva: Contratação de empresa especializadas para comercialização\n\nde porta e portões em material de alumínio em geral para a Secretaria\n\nMunicipal de Saúde de Princesa Isabel - PB; RATIFICO o\n\ncorrespondente procedimento e ADJUDICO o seu",
           "VL.\n\nTECNO ENGENHARIA LTDA. Valor: R$ 16.900,00 (dezesseis mil\n\ne novecentos reais)."
         ],
         "top_3_objetos": [
@@ -911,9 +924,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 186,
-        "num_contratos": 253,
-        "total_gasto": 30330312.099999994
+        "num_diarios": 184,
+        "num_contratos": 255,
+        "total_gasto": 30702494.059999995
       },
       "2": {
         "num_diarios": 12,
@@ -933,8 +946,7 @@
         "num_contratos": 14,
         "total_gasto": 387849.19999999995,
         "top_3_empresas": [
-          "JOSE\n\nROBERTO RODRIGUES DA SILVA 05137570400",
-          ").\n\n\n\nPrincesa Isabel"
+          "JOSE\n\nROBERTO RODRIGUES DA SILVA"
         ],
         "top_3_objetos": [
           "Contratação de empresa especializada,\n\nem caráter de urgência, para prestar serviços de engenharia na\n\nReforma de Grupo Escolar localizado na Av",
@@ -954,14 +966,16 @@
       },
       "5": {
         "num_diarios": 17,
-        "num_contratos": 34,
-        "total_gasto": 917682.8899999999,
+        "num_contratos": 36,
+        "total_gasto": 1290332.89,
         "top_3_empresas": [
           "Pharmaplus Ltda",
-          "R$ 33.000,00 (trinta e três mil reais),\n\nreferente aos itens: 17, 22, 28, 29, 35, 39, 45, 54, 63 e 65."
+          "R$ 33.000,00 (trinta e três mil reais),\n\nreferente aos itens: 17, 22, 28, 29, 35, 39, 45, 54, 63 e 65.",
+          "RISONALDO SILVA DA\n\nROCHA & CIA LTDA"
         ],
         "top_3_objetos": [
-          "Prestar o fornecimento parcelada de medicamentos para Farmácia\n\nMunicipal para atender os pacientes que utilizam os serviços de saúde:\n\nPosto de Saúde, UPA, Hospital Regional, Unidades de Acolhimentos\n\ne CAPS"
+          "Prestar o fornecimento parcelada de medicamentos para Farmácia\n\nMunicipal para atender os pacientes que utilizam os serviços de saúde:\n\nPosto de Saúde, UPA, Hospital Regional, Unidades de Acolhimentos\n\ne CAPS",
+          "Aquisição de medicamentos éticos, genéricos e Similares\n\nde \"A\" a \"Z\" para Secretaria Municipal de Saúde, por meio de maior\n\ndesconto percentual sobre a tabela oficial da câmara de regulação do\n\nmercado de medicamentos da agência nacional de vigilância sanitária\n\n(CMED/ANVISA)"
         ]
       },
       "6": {
@@ -1015,37 +1029,34 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 14,
-        "num_contratos": 9,
-        "total_gasto": 510563.35,
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 450095.31000000006,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 18,
-        "num_contratos": 8,
-        "total_gasto": 2706875.38,
+        "num_contratos": 10,
+        "total_gasto": 2766875.38,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 15,
-        "num_contratos": 14,
-        "total_gasto": 5529387.58,
-        "top_3_empresas": [
-          "RENATO\nEDUARDO MARQUES ASSESSORIA E CONSULTORIA",
-          ").\n\nPrincesa Isabel"
-        ],
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 5490387.58,
+        "top_3_empresas": [],
         "top_3_objetos": [
-          "Contratação de serviços técnicos especializados em\nConsultoria em licitação, à Comissão Permanente de Licitação e\nórgãos da administração em todas suas fases seguindo tanto a Lei\n8.666/16, quanto a 14.133/21 e ainda no uso de sistemas e softwares\npara elaboração, condução e gerenciamento e transparência de\nprocedimentos licitatórios, presencialeeletrônico e ainda elaboração\nrelatórios de diligências realizados pela comissão com base em dados\nfornecidos por ela"
+          "Contratação de empresa especializada em prestação de\n\nserviços na confecção de fardamentos e acessórios de segurança para\n\nos agentes e diretores de fiscalização de Trânsito do Município de\n\nPrincesa Isabel/PB"
         ]
       },
       "resumo": {
-        "num_diarios": 196,
-        "num_contratos": 210,
-        "total_gasto": 25845267.66999999
+        "num_diarios": 191,
+        "num_contratos": 205,
+        "total_gasto": 25526223.12999999
       },
       "2": {
         "num_diarios": 12,
@@ -1055,14 +1066,14 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 42,
         "total_gasto": 2304180.6399999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 10,
         "total_gasto": 193950.0,
         "top_3_empresas": [],
@@ -1078,11 +1089,11 @@
         ]
       },
       "6": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 8,
         "total_gasto": 547265.08,
         "top_3_empresas": [
-          "Athyla Wesley Cavalcante Alves-MEI,",
+          "Athyla Wesley Cavalcante Alves-MEI",
           "R$ 84.200,00\n\n(oitenta e quatro mil e duzentos reais), ref. Aos itens: 1, 3, e 4.",
           "Eduardo Marques da Silva-EPP."
         ],
@@ -1093,9 +1104,9 @@
         ]
       },
       "7": {
-        "num_diarios": 19,
-        "num_contratos": 13,
-        "total_gasto": 1907982.9100000001,
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1627938.37,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1161,9 +1172,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 153,
-        "num_contratos": 223,
-        "total_gasto": 56410218.77
+        "num_diarios": 150,
+        "num_contratos": 206,
+        "total_gasto": 54867105.59
       },
       "2": {
         "num_diarios": 11,
@@ -1180,12 +1191,11 @@
         ]
       },
       "3": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 4,
         "total_gasto": 201564.0,
         "top_3_empresas": [
-          "NP\nTECNOLOGIA E GESTAO DE DADOS LTDA",
-          ").\n\nPrincesa Isabel"
+          "NP\nTECNOLOGIA E GESTAO DE DADOS LTDA"
         ],
         "top_3_objetos": [
           "Contratação de empresa para fornecimento de materiais\npara iluminação pública do Município de Princesa Isabel",
@@ -1193,7 +1203,7 @@
         ]
       },
       "4": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 23,
         "total_gasto": 4763124.76,
         "top_3_empresas": [],
@@ -1224,9 +1234,9 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 12,
-        "num_contratos": 18,
-        "total_gasto": 4808113.18,
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 3265000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1272,15 +1282,15 @@
     }
   },
   "resumo": {
-    "num_diarios": 1343,
-    "num_contratos": 1406,
-    "total_gasto": 231090172.68,
+    "num_diarios": 1320,
+    "num_contratos": 1484,
+    "total_gasto": "233.633.074,01",
     "top_5_empresas": {
-      ").\n\nPrincesa Isabel": 11,
-      ").\n\n\n\nPrincesa Isabel": 4,
+      ": JOSÉ DUARTE RIBEIRO": 2,
       "Pharmaplus Ltda": 2,
       "Luzia Pereira da Silva-ME": 2,
-      "Maria Clebia Rodrigues Pereira-ME": 2
+      "Maria Clebia Rodrigues Pereira-ME": 2,
+      ": S J PRODUÇÃO MUSICAL E EVENTOS\nLTDA": 1
     },
     "top_5_objetos": {
       "Contratação de empresa especializada para prestar serviço\n\nde engenharia na construção 01 (uma) creche padrão no Bairro Maia,\n\nconforme planilhas": 2,

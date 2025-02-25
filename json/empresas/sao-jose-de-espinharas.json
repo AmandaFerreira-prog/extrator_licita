@@ -1,0 +1,342 @@
+{
+  "id": "sao-jose-de-espinharas",
+  "nome": "São José de Espinharas",
+  "detalhe": {
+    "2015": {
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Reforma e Ampliação da E.M.E.F - Escola Municipal de\nEnsino Fundamental Professor Pedro Torres, localizada na\nComunidade Ipueira Comprida, Zona Rural do Município de São José\nde Espinharas – PB",
+            "empresa": "S & M\nCONSTRUÇÕES E RODOVIAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação Direta de Profissional para a Prestação de\nServiços de Assessoria e Consultoria Jurídica-Administrativa aos\nÓrgãos da Prefeitura, além de assessoramento direto o Chefe do Poder\nExecutivo Municipal em todos os assuntos jurídico – administrativo\ndo Município de São José de Espinharas – PB, para os serviços de\nassessoria e consultoria descritas na requisição do Secretário de\nAdministração do Município de São José de Espinharas - PB , através\ndo Sr",
+            "empresa": "VILSON\nLACERDA BRASILEIRO",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de Serviços\nTécnicos Contábeis com especialização em Contabilidade e Gestão\nPública, o qual registra, analisa e interpreta os dados contábeis de\ntodos os órgãos da administração direta e indireta da Prefeitura de São\nJosé de Espinharas – PB, através da empresa SOTERO\nCONTABILIDADE PÚBLICA LTDA – ME , inscrita no CNPJ sob\no nº 19.406.302/0001-92, com sede a Rua Galim Assis, nº 150,\nCentro, Patos – PB, CEP: 58.700-480, representada pela sua\nSócia/Responsável Técnica a Sra",
+            "empresa": "A EMPRESA:\nSOTERO CONTABILIDADE PÚBLICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, óleos e lubrificantes,\ndestinados aos veículos de propriedade da Prefeitura, Contratados,\nlocados, à disposição ou vinculados a atividade pública do Município\nde São José de Espinharas – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ALMEIDA E LEITE COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, óleos e lubrificantes,\ndestinados aos veículos de propriedade da Prefeitura, Contratados,\nlocados, à disposição ou vinculados a atividade pública do Município\nde São José de Espinharas – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "s,\nlocados, à disposição ou vinculados a atividade pública do Município\nde São José de Espinharas",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 19,
+        "num_contratos": 2,
+        "total_gasto": 77400.0
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 23400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 25,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 498030.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 514995.5
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 16965.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 282014.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 120,
+        "num_contratos": 110,
+        "total_gasto": 4651677.54
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 72000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM ASSESSORIA\nE CONSULTORIA CONTÁBIL JUNTO A CÂMARA MUNICIPAL\nDE SÃO JOSÉ DE ESPINHARAS",
+            "empresa": "SOUSA\nCONTABILIDADE PUBLICA LTDA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 30,
+        "total_gasto": 2272019.0999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E\n\nCONSULTORIA JURÍDICA A CÂMARA MUNICIPAL DE SÃO\n\nJOSÉ DE ESPINHARAS",
+            "empresa": "GOMES E\n\nTIBURTINO ADVOGADOS LTDA",
+            "valor_total": "R$ 38,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 455000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peças para veículos leves, ônibus e outros\n\nveículos das diversas secretarias do município de São José de\n\nEspinharas – PB e dos Fundos Municipais de Saúde e Assistência\n\nSocial",
+            "empresa": "GIPAGEL AUTO\n\nPECAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças para veículos leves, ônibus e outros\n\nveículos das diversas secretarias do município de São José de\n\nEspinharas – PB e dos Fundos Municipais de Saúde e Assistência\n\nSocial",
+            "empresa": "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de peças para veículos leves, ônibus e outros\n\nveículos das diversas secretarias do município de São José de\n\nEspinharas – PB e dos Fundos Municipais de Saúde e Assistência\n\nSocial",
+            "empresa": "VENCEREMOS AUTO PECAS\n\nCOMERCIO A VAREJO LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 573094.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 139278.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação Direta acima indicada, que objetiva:\nContratação de Serviços Técnicos no Acompanhamento de Obras de\n\nInfra Estrutura Urbana, Habitação, Esporte, Lazer e Saúde Pública,\n\nConsultoria e Assistência Técnica junto a órgãos concernentes dos\n\nconvênios firmados com outros órgãos da Administração Federal e\nEstadual (Caixa Econômica Federal – GIDUR, FUNASA, Governo do\n\nEstado da Paraíba – SUPLAN, SEPLAG, SEC",
+            "empresa": "HABITAR FF CONSTRUÇÕES\n\nE INCORPORAÇÕES LIMITADA",
+            "valor_total": "R$ 27,000.00"
+          },
+          {
+            "objeto": "contratação de serviços comuns de instalação, manutenção preventiva\n\ne corretiva de ar-condicionado com o fornecimento de\n\npeças/materiais,",
+            "empresa": "empresa RYAN CANDIDO\nBRAGA",
+            "valor_total": "R$ 52,278.00"
+          },
+          {
+            "objeto": "contratação de serviços comuns de instalação, manutenção preventiva\n\ne corretiva de ar-condicionado com o fornecimento de\n\npeças/materiais,",
+            "empresa": "e Ryan Candido Braga",
+            "valor_total": "R$ 52,278.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 13,
+        "total_gasto": 83526.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 205823.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 99695.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 91060.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 324166.27,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

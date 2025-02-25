@@ -1,0 +1,429 @@
+{
+  "id": "areial",
+  "nome": "Areial",
+  "detalhe": {
+    "2021": {
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 219500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 42,
+        "num_contratos": 57,
+        "total_gasto": 1221855.51
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 42,
+        "total_gasto": 421190.95999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 190218.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 266227.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 124719.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 1635645.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 132,
+        "num_contratos": 237,
+        "total_gasto": 17451068.53999999
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1686360.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para o fornecimento de\ncombustíveis e derivados de petróleo destinados ao abastecimento\ne/ou utilização em veículos, máquinas e equipamentos rodoviários\noficiais e/ou à serviço da Municipalidade via locação",
+            "empresa": "SOUZAUTO LUB COMERCIO DE\nLUBRIFICANTES EIRELI",
+            "valor_total": "R$ 827,180.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 21,
+        "total_gasto": 1929879.7999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1702632.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 854974.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 1370995.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresas para o fornecimento de material\n\nde limpeza destinado às diversas secretarias e departamentos do\n\nmunicipio de Areial",
+            "empresa": "MC ALIMENTOS MINIMERCADO\n\nEIRELI",
+            "valor_total": "R$ 208,173.00"
+          },
+          {
+            "objeto": "Contratação de empresas para o fornecimento de material\n\nde limpeza destinado às diversas secretarias e departamentos do\n\nmunicipio de Areial",
+            "empresa": "OLIVEIRA\n\n& EULALIO PRODUTOS DE LIMPEZA LTDA",
+            "valor_total": "R$ 208,173.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A PRESTAÇÃO DE SERVIÇO DE CONFECÇÃO DE\n\nPRÓTESES DENTÁRIAS PARA ATENDER AOS USUÁRIOS DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "CARLOS ROBERTO PEREIRA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 180,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 2061891.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 279604.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 354000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 107,
+        "total_gasto": 1473521.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 47,
+        "total_gasto": 1642128.1099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 2459436.1399999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do Setor Artístico para\n\napresentação da Banda \"Calcinha Preta\" no dia 31 de dezembro de\n\n2022 , festa de réveillon realizada em praça pública",
+            "empresa": "FAZMIDIA\n\nPUBLICIDADE E EVENTOS LTDA",
+            "valor_total": "R$ 250,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 2784773.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de\nempresa do ramo de engenharia para reforma e ampliação das\nUnidades Básicas de Saúde do Município, conforme especificações do\nProjeto Básico",
+            "empresa": "DELGADO\nSERVICOS E CONSTRUCOES LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 145,
+        "num_contratos": 107,
+        "total_gasto": 16335728.510000002
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 19,
+        "total_gasto": 3189399.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 14,
+        "total_gasto": 3794581.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 268852.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 2396709.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 153000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 1334358.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo, tipo utilitário picape, \"0\"km (zero\nquilômetro), para o atendimento das necessidades da Secretaria de\n\nEducação",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 207,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 819525.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 511049.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 20979.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 762500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico para\n\napresentação da banda \"MONICA ALMEIDA\" no dia 10 de\n\ndezembro de 2023, durante os festejos em comemoração ao\n\naniversário de emancipação política do município, realizados em\n\npraça pública",
+            "empresa": "32.925.181 MONICA ALMEIDA DA\n\nCONCEICAO",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 300000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional do setor artístico para\napresentação da banda \"FORRÓ DOS PLAYS\" no dia 31 de janeiro\nde 2023, durante os festejos de Réveillon do município, realizados em\npraça pública",
+            "empresa": "SHOW PREMIUM EMPREENDIMENTOS\nCULTURAIS LTDA",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico para\napresentação da banda \"ADUÍLIO MENDES\" no dia 31 de dezembro\nde 2023, durante os festejos de Réveillon do município, realizados em\npraça pública",
+            "empresa": "ANTONIO ADUILIO RODRIGUES\nMENDES",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "Contratação de profissional do setor artístico para\napresentação da banda \"ELIANE RAINHA\" no dia 31 de dezembro\nde 2023, durante os festejos de Réveillon do município, realizados em\npraça pública",
+            "empresa": "AMANDA FAUSTINO DE LIMA\nPARENTE LIMITADA",
+            "valor_total": "R$ 120,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 17,
+        "total_gasto": 2632995.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 128,
+        "num_contratos": 100,
+        "total_gasto": 14067575.030000001
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 236011.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material escolar e de expediente destinado ao\natendimento das necessidades das diversas secretarias, departamentos\ne fundos municipais",
+            "empresa": "CAVALCANTE SOUTO ARTIGOS DE\nPAPELARIA LTDA",
+            "valor_total": "R$ 126,011.00"
+          },
+          {
+            "objeto": "Aquisição de material escolar e de expediente destinado ao\natendimento das necessidades das diversas secretarias, departamentos\ne fundos municipais",
+            "empresa": "CAMPO ATACADO E VAREJO ESPORTIVO LTDA",
+            "valor_total": "R$ 126,011.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 46,
+        "total_gasto": 3220596.1500000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 489378.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 723348.0,
+        "empresas_mensais": [
+          {
+            "objeto": "ADESÃO A ATA DE REGISTRO DE PREÇOS DA\n\nLICITAÇÃO DE NÚMERO 06/2023 QUE TEM POR OBJETO A\n\nEVENTUAL AQUISIÇÃO DE ÔNIBUS RURAL ESCOLAR DO\nTIPO ORE 2 E ORE 3, PELOS ESTADOS, DISTRITO FEDERAL E\n\nMUNICIPIOS, PARA O TRANPORTE ESCOLAR DIÁRIO DE\n\nESTUDANTES DAS REDES PÚBLICAS DE ENSINO, NO\n\nÂMBITO DO PROGRAMA CAMINHOS DA ESCOLA",
+            "empresa": "ON-HIGHWAY BRASIL LTDA.",
+            "valor_total": "R$ 469,499.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 1630201.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de tecidos para confecção de uniformes\n\nescolares, da rede municipal de ensino",
+            "empresa": "RV\nCOMERCIO E SERVICOS ADMINISTRATIVOS LTDA",
+            "valor_total": "R$ 47,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 2163979.2199999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para a construção de\nquadra esportiva coberta na Escola Municipal de Ensino Fundamental\n\nJoão Izidro",
+            "empresa": "VERSATTA SERVICOS E\n\nCONSTRUCOES EIRELI",
+            "valor_total": "R$ 479,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 62100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO\n\nDE EMPRESA PARA EXECUÇÃO DE SERVIÇOS DE\n\nIMPLANTAÇÃO DE PAVIMENTAÇÃO NO PERÍMETRO\n\nURBANO DESTE MUNICÍPIO",
+            "empresa": "LCB CONSTRUCAO E INCORPORACAO\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 1166640.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nESPECIALIZADA EM INSTALAÇÕES DE PAINÉIS SOLARES\n\nPRA CAMÂRA NUNICIPAL DE AREIAL CONFROME TERMO\n\nDE REFERÊNCIA",
+            "empresa": "RENOVE ELETRICA",
+            "valor_total": "R$ 24,696.00"
+          },
+          {
+            "objeto": "CONTRAÇÃO DE EMPRESA PARA FORNECIMENTO\n\nE INSTALAÇÃO DE SISTEMA DE CAMERAS PARA CÂMARA\n\nMUNICIPAL DE AREIAL CONFORME TERMO DE REFRÊNCIA",
+            "empresa": "RENOVE ELETRICA",
+            "valor_total": "R$ 18,612.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 1742325.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

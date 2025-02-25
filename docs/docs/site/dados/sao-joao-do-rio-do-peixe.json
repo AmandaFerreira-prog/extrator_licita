@@ -5,8 +5,8 @@
     "2021": {
       "4": {
         "num_diarios": 5,
-        "num_contratos": 16,
-        "total_gasto": 7623340.14,
+        "num_contratos": 39,
+        "total_gasto": 13504846.14,
         "top_3_empresas": [
           "CASA DO ELETRICISTA DO AGRICULTOR LTDA\n\nME",
           "ELETROLUZ\n\nCOMERCIO DE MATERIAIS ELETRICOS EIRELI",
@@ -19,8 +19,8 @@
       },
       "resumo": {
         "num_diarios": 22,
-        "num_contratos": 148,
-        "total_gasto": 30790574.42
+        "num_contratos": 171,
+        "total_gasto": 36672080.42000001
       },
       "5": {
         "num_diarios": 3,
@@ -101,14 +101,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 25,
-        "num_contratos": 261,
-        "total_gasto": 48965616.52
+        "num_diarios": 23,
+        "num_contratos": 260,
+        "total_gasto": 44894789.82
       },
       "3": {
         "num_diarios": 3,
-        "num_contratos": 7,
-        "total_gasto": 1103464.4,
+        "num_contratos": 9,
+        "total_gasto": 1198857.7,
         "top_3_empresas": [
           "DICAL\nDISTRIBUIDORA DE VEÍCULOS CAJAZEIRAS LTDA"
         ],
@@ -165,7 +165,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 14,
         "total_gasto": 2286710.16,
         "top_3_empresas": [
@@ -173,13 +173,13 @@
           "S & S\n\nPRODUCOES DE SHOWS E ENTRETENIMENTO LTDA"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE\n\nZEZO , COM RECONHECIMENTO PÚBLICO NOTÁVEL PARA\n\nA FESTA DO DIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO\n\nDE SÃO JOÃO DO RIO DO PEIXE",
           "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE ZEZO , COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
-          "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE\n\nMICHELE ANDRADE COM DURAÇÃO DE 120 (CENTO E\n\nVINTE) MINUTOS DE SHOW, COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE"
+          "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\n\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\n\nDA EMANCIPAÇÃO POLÍTICA COM APRESENTAÇÃO DE\n\nMICHELE ANDRADE COM DURAÇÃO DE 120 (CENTO E\n\nVINTE) MINUTOS DE SHOW, COM RECONHECIMENTO\n\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 07 DE OUTUBRO\n\nDE 2022 NO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+          "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\n\nCOMEMORAÇÕES DA EMANCIPAÇÃO POLÍTICA COM\n\nAPRESENTAÇÃO DE MICHELE ANDRADE COM DURAÇÃO\n\nDE 120 (CENTO E VINTE) MINUTOS DE SHOW, COM\n\nRECONHECIMENTO PÚBLICO NOTÁVEL PARA A FESTA DO\n\nDIA 07 DE OUTUBRO DE 2022 NO MUNICÍPIO DE SÃO JOÃO\n\nDO RIO DO PEIXE"
         ]
       },
       "10": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 3,
         "total_gasto": 3606081.0,
         "top_3_empresas": [
@@ -193,21 +193,23 @@
       },
       "11": {
         "num_diarios": 1,
-        "num_contratos": 24,
-        "total_gasto": 10030614.08,
+        "num_contratos": 21,
+        "total_gasto": 5864394.08,
         "top_3_empresas": [
           "; c",
-          "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente.",
-          "pela inexecução total ou parcial do contrato; d"
+          "pela inexecução total ou parcial do contrato; d",
+          "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.\n\nApós a aplicação de quaisquer das penalidades previstas, realizar–se–á comunicação escrita ao Contratado, e publicado na imprensa oficial,\n\nexcluídas as penalidades de advertência e multa de mora quando for o caso, constando o fundamento legal da punição, informando ainda que o fato\n\nserá registrado e publicado no cadastro correspondente."
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE PESSOA JURÍDICA PARA AQUISIÇÃO DE PEÇAS PARA TODOS VEÍCULOS LEVES, PESADOS E\n\nMÁQUINAS PESADAS, ALÉM DE PRESTAÇÃO DE SERVIÇOS DE MECÂNICA, ELÉTRICA, LANTERNAGEM RECARGA E/OU\n\nSUBSTITUIÇÃO DE EXTINTORES",
           "AQUISIÇÃO PARCELADA DIÁRIAMENTE DE REMÉDIOS GENÉRICOS, ÉTICOS, SIMILARES E ALIMENTOS ESPECIAIS\n\nPOR MAIOR DESCONTO CONFORME SOLICITAÇÃO DA SECRETARIA MUNICPAL DE SAÚDE DE SÃO JOÃO DO RIO DO PEIXE",
-          "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE"
+          "CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARE DE AUTOMAÇÃO CONFORME TERMO DE\n\nREFERÊNCIA PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE",
+          "AQUISIÇÃO PARCELADA DE ITENS UTILITÁRIOS, UTENSÍLIOS DOMÉSTICOS, HIGIENE PESSOAL E\n\nELETRODOMÉSTICOS PARA ATENDER PARA ATENDER AS NECESSIDADE DO MUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE"
         ]
       },
       "12": {
         "num_diarios": 4,
+        "num_contratos": 13,
+        "total_gasto": 1096066.0,
         "top_3_empresas": [
           "; c",
           "pela inexecução total ou parcial do contrato; d",
@@ -215,16 +217,14 @@
         ],
         "top_3_objetos": [
           "Locação de duas grades aradoras com no mínimo 14 discos de 26 polegadas (cada) visando o corte de terras de agricultores da Agricultura\n\nFamiliar do Município de São João do Rio do Peixe–PB"
-        ],
-        "num_contratos": 13,
-        "total_gasto": 1096066.0
+        ]
       }
     },
     "2023": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 25,
-        "total_gasto": 10807212.84,
+        "num_contratos": 23,
+        "total_gasto": 8455069.14,
         "top_3_empresas": [
           "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
           "; c",
@@ -235,9 +235,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 35,
-        "num_contratos": 216,
-        "total_gasto": 44576337.7
+        "num_diarios": 34,
+        "num_contratos": 213,
+        "total_gasto": 40927494.0
       },
       "2": {
         "num_diarios": 2,
@@ -307,19 +307,6 @@
           "AQUISIÇÃO DE MATERIAL PERMANENTE E\n\nEQUIPAMENTO PARA ATENDER A ATENÇÃO BÁSICA EM\n\nSAUDE BUCAL NO MUNICIPIO DE SÃO JOÃO DO RIO DO\n\nPEIXE–PB"
         ]
       },
-      "7": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [
-          "A EMPRESA: TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI-",
-          "A EMPRESA:\n\nJOSÉ ROMERIO FERREIRA DE SOUSA/BERLIMP, inscrita no"
-        ],
-        "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DA ESCOLA JOAQUIM JOVINO\n\nDE LIMA, NA COMUNIDADE DO LIVRAMENTO, MUNICÍPIO\n\nDE SÃO JOSÉ DE PRINCESA-PB",
-          "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDOS SERVIÇOS DE DESMATAMENTO LATERAL/ROÇADA\n\nMANUAL DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO\n\nJOSÉ DE PRINCESA - PB"
-        ]
-      },
       "8": {
         "num_diarios": 2,
         "num_contratos": 6,
@@ -356,8 +343,8 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 51,
-        "total_gasto": 12695373.6,
+        "num_contratos": 50,
+        "total_gasto": 11398673.6,
         "top_3_empresas": [
           "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.",
           "; c",
@@ -377,14 +364,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 21,
-        "num_contratos": 105,
-        "total_gasto": 28006078.359999996
+        "num_diarios": 19,
+        "num_contratos": 99,
+        "total_gasto": 26607909.249999996
       },
       "2": {
         "num_diarios": 2,
-        "num_contratos": 14,
-        "total_gasto": 9541812.54,
+        "num_contratos": 13,
+        "total_gasto": 8784395.629999999,
         "top_3_empresas": [
           "JOSE DE SOUZA SÁ",
           "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.",
@@ -396,8 +383,8 @@
       },
       "3": {
         "num_diarios": 3,
-        "num_contratos": 17,
-        "total_gasto": 2621431.75,
+        "num_contratos": 15,
+        "total_gasto": 2241531.75,
         "top_3_empresas": [
           "ELIANE DO NASCIMENTO CAMPOS\n\nME",
           "LRF DISTRIBUIDORA LTDA",
@@ -408,7 +395,7 @@
         ]
       },
       "4": {
-        "num_diarios": 2,
+        "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -416,19 +403,26 @@
       },
       "5": {
         "num_diarios": 4,
-        "num_contratos": 33,
-        "total_gasto": 6870534.05,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 36,
+        "total_gasto": 7039484.05,
+        "top_3_empresas": [
+          ". PARTES\nCONTRATANTES: Prefeitura Municipal de São João do Rio do\nPeixe e: CT Nº 00270/2023 - M L S - Construcao Civil Ltda",
+          "Torre Construção e Consultoria em\nEngenharia EIRELI",
+          ".\nSão José de Princesa"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA JURIDICA\nESPECIALIZADA PARA CONSTRUÇÃO DE GINASIO\nPOLIESPORTIVO NA COMUNIDADE DE BANDARRA ZONA\nRURAL DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB,\nCONFORME O CONVENIO 0352/2022 E QUANTIDADES\nESTABELECIDAS NESTE EDITAL E SEUS ANEXOS",
+          "Contratação de empresa para execução dos serviços de\nconstrução uma quadra coberta na comunidade Patos de Irerê no\nMunicípio de São José de Princesa, conforme projeto de engenharia e\nnos termos do convênio N.º 0296/2021"
+        ]
       },
       "6": {
         "num_diarios": 2,
-        "num_contratos": 11,
-        "total_gasto": 461966.4,
+        "num_contratos": 7,
+        "total_gasto": 306498.2,
         "top_3_empresas": [
-          "MANUEL FERNANDES NETO & CIA LTDA",
           "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\n\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
-          "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a"
+          "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
+          "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente."
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE PRODUTOS AGROPECUÁRIOS EM GERAL PARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nAGRICULTURA E INFRAESTRUTURA DA PREFEITURA MUNICIPAL DE SÃO JOÃO DO RIO DO PEIXE–PB"
@@ -436,8 +430,8 @@
       },
       "7": {
         "num_diarios": 1,
-        "num_contratos": 3,
-        "total_gasto": 176112.0,
+        "num_contratos": 2,
+        "total_gasto": 117408.0,
         "top_3_empresas": [
           "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
           "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
@@ -456,8 +450,8 @@
       },
       "11": {
         "num_diarios": 1,
-        "num_contratos": 3,
-        "total_gasto": 646890.0,
+        "num_contratos": 2,
+        "total_gasto": 431260.0,
         "top_3_empresas": [
           "ou por acordo entre as partes, nos casos e condições previstas nos Arts. 124 a 136 e sua extinção, formalmente motivada nos autos do\n\nprocesso, assegurados o contraditório e a ampla defesa, ocorrerá nas hipóteses e disposições dos Arts. 137 a 139, todos da Lei 14.133/21.",
           "será responsabilizado administrativamente, facultada a defesa no prazo legal do interessado, pelas infrações previstas no Art. 155, da\n\nLei 14.133/21 e serão aplicadas, na forma, condições, regras, prazos e procedimentos definidos nos Arts. 156 a 163, do mesmo diploma legal, as\n\nseguintes sanções: a",
@@ -466,26 +460,19 @@
         "top_3_objetos": [
           "AQUISIÇÃO DE MUDAS, PLANTAS ORNAMENTAIS DE ESPÉCIES VARIADAS, FORRAÇÕES VEGETAIS E INSUMOS\n\nCORRELATOS COM A FINALIDADE DE ATENDER DE FORMA PARCELADA E DE ACORDO COM AS NECESSIDADES DESTE\n\nMUNICÍPIO DE SÃO JOÃO DO RIO DO PEIXE"
         ]
-      },
-      "12": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 103,
-    "num_contratos": 730,
-    "total_gasto": 152338607.0,
+    "num_diarios": 98,
+    "num_contratos": 743,
+    "total_gasto": "149.102.273,49",
     "top_5_empresas": {
       "; c": 10,
       "pela inexecução total ou parcial do contrato; d": 9,
       "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\n\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n\n8.666/93.": 4,
-      "EVERALDO FERREIRA DE ALMEIDA ME": 2,
-      "ou por acordo entre as partes, nos casos previstos no Art. 65 e será rescindido, de pleno direito, conforme o disposto nos Arts. 77, 78 e\n79, todos da Lei 8.666/93; e realizado na forma de fornecimento parcelada.\nA supressão do item registrado poderá ser total ou parcial, a critério do gerenciador do sistema, considerando-se o disposto no Art. 15, § 4º, da\n8.666/93.": 2
+      "vier a fazer jus, acrescido de juros moratórios de 1% (um por cento) ao mês, ou,\n\nquando for o caso, cobrado judicialmente.": 3,
+      "EVERALDO FERREIRA DE ALMEIDA ME": 2
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM FORNECIMENTO DE MATERIAL ELÉTRICO PARA ATENDER AS\n\nNECESSIDADES DO MUNICIPIO DE SÃO JOÃO DO RIO DO PEIXE–PB": 1,

@@ -1,0 +1,1344 @@
+{
+  "id": "alagoa-nova",
+  "nome": "Alagoa Nova",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 20,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 19,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 11,
+        "total_gasto": 794560.33,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO DE\nPRÓTESES DENTÁRIAS PARA ATENDER AOS USUÁRIOS DO\nSISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "HELDER DE LIMA VIANA",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\nLOCAÇÃO DE SISTEMA DO E–SIC (SISTEMA ELETRÔNICO\nDE INFORMAÇÃO AO CIDADÃO); LICENCIAMENTO E\nHOSPEDAGEM DO PORTAL DA TRANSPARÊNCIA E DO\nPORTAL INSTUTICIONAL E SERVIÇO DE CONSULTORIA DE\nACOMPANHAMENTO PARA CUMPRIMENTO DOS ÍNDICES\nDE TRANSPARÊNCIA NA PREFEITURA MUNICIPAL DE\nALAGOA NOVA – PB",
+            "empresa": "SOGO TECNOLOGIA E SERVIÇOS LTDA",
+            "valor_total": "R$ 15,600.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE COMBUSTÍVEIS, EM\nCARÁTER DE URGÊNCIA, PARA ATENDER AS\nNECESSIDADES IMEDIATAS DESTA PREFEITURA",
+            "empresa": "JAIME T. MOURA E\nCIA LTDA",
+            "valor_total": "R$ 106,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL MÉDICO\nHOSPITALAR, EM CARÁTER DE URGÊNCIA, PARA ATENDER\nAS NECESSIDADES IMEDIATAS DA SECRETARIA DE SAÚDE",
+            "empresa": "EUROMED\nCOMERCIO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 125,315.64"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL\nODONTOLÓGICO, EM CARÁTER DE URGÊNCIA, PARA\nATENDER AS NECESSIDADES IMEDIATAS DESTA\nPREFEITURA",
+            "empresa": "SAUDE DENTAL COMERCIO E\nREPRESENTACAO LTDA;",
+            "valor_total": "R$ 34,774.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS, EM\nCARÁTER DE URGÊNCIA, PARA ATENDER AS\nNECESSIDADES IMEDIATAS DA SECRETARIA DE SAÚDE",
+            "empresa": "EUROMED COMERCIO DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 141,314.97"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE IMPLANTAÇÃO E MANUTENÇÃO DE\nPRONTUÁRIO ELETRÔNICO NAS UNIDADES BÁSICAS DE\nSAÚDE DESTE MUNICÍPIO",
+            "empresa": "EDER BATISTA DE\nSOUSA",
+            "valor_total": "R$ 37,140.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS\nTÉCNICOS CONTÁBEIS ESPECIALIZADOS NA ELABORAÇÃO\nDOS BALANCETES MENSAIS, COM TODOS OS\nDEMONSTRATIVOS E ANEXOS EXIGIDOS PELAS NORMAS\nDO TCE/PB, PARECERES ESPECIALIZADOS CONTÁBEIS E\nFINANCEIROS, ESCLARECIMENTOS SOBRE ASSUNTOS\nFISCAIS, FINANCEIROS E TRABALHISTAS INERENTES À\nEXECUÇÃO DO SERVIÇO",
+            "empresa": "ASTEC GROUP\nCONTADORES ASSOCIADOS S/S LTDA",
+            "valor_total": "R$ 97,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA\nJURÍDICA COM PROFISSIONAIS DE NOTÓRIA\nESPECIALIZAÇÃO PARA OS SERVIÇOS PERANTE A\nTRIBUNAIS E ASSESSORIA AO GABINETE DO PREFEITO\nDESTE MUNICÍPIO",
+            "empresa": "PAULO ITALO DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\nOLIVEIRA VILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 48,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\nESPECIALIZADOS DE CONSULTORIA E ASSESSORIA PARA\nPLANEJAMENTO, ELABORAÇÃO, GERENCIAMENTO E\nACOMPANHAMENTO DE PROJETOS NAS ESFERAS FEDERAL\nE ESTADUAL PARA ESTE MUNICÍPIO",
+            "empresa": "SME\nSERVICOS ESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 99,
+        "num_contratos": 235,
+        "total_gasto": 23671803.88
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 411455.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 45,
+        "total_gasto": 4828373.52,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "A COSTA COMERCIO ATACADISTA DE\nPRODUTOS FARMACEUTICOS LTDA",
+            "valor_total": "R$ 1,154,271.77"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 1,154,271.77"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 1,154,271.77"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "NNMED - DISTRIBUICAO,\nIMPORTACAO E EXPORTACAO DE MEDICAMENTOS LTDA -\nR$ 100.527,95; CT Nº 00065/2021 - 27.04.21 - DIST. DE\nMEDICAMENTOS BACKES EIRELI ME",
+            "valor_total": "R$ 1,154,271.77"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "ALLFAMED COMERCIO ATACADISTA\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 1,154,271.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 2887797.2800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE MÁQUINAS PESADAS PARA\nREALIZAÇÃO DE SERVIÇOS DE REMOÇÃO DE RESÍDUOS,\nNIVELAMENTO, TERRAPLANAGEM, ARAÇÃO DE TERRA\nE AFINS PARA ATENDER AS NECESSIDADES DESTE\nMUNICÍPIO",
+            "empresa": "ANDRE LUIZ\nGOMES DA SILVA",
+            "valor_total": "R$ 240,800.00"
+          },
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA\nPARA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÕES DE\nPRÓTESES DENTÁRIAS PARA ATENDER OS USUÁRIOS\nDO SISTEMA MUNICIPAL DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "HELDER DE LIMA VIANA",
+            "valor_total": "R$ 69,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1088680.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 2200407.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 38,
+        "total_gasto": 3549539.15,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA\nPARA A REALIZAÇÃO DE EXAMES DE IMAGEM PARA\nATENDER O SISTEMA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "IMAGO\nDIAGNOSTICO POR IMAGEM AVANCADO LTDA",
+            "valor_total": "R$ 1,027,483.00"
+          },
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA\nPARA A REALIZAÇÃO DE EXAMES DE IMAGEM PARA\nATENDER O SISTEMA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "POLIVIDA CLINICA\nDE SAUDE POPULAR LTDA",
+            "valor_total": "R$ 1,027,483.00"
+          },
+          {
+            "objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA\nPARA A REALIZAÇÃO DE EXAMES DE IMAGEM PARA\nATENDER O SISTEMA DE SAÚDE DESTE MUNICIPIO",
+            "empresa": "CT Nº 00147/2021",
+            "valor_total": "R$ 1,027,483.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PREMOLDADOS E\nAREIA PARA ATENDER AS NECESSIDADES DESTE\nMUNICÍPIO",
+            "empresa": "FRANCISCO DE ASSIS BEZERRA MONTEIRO",
+            "valor_total": "R$ 1,333,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PREMOLDADOS E\nAREIA PARA ATENDER AS NECESSIDADES DESTE\nMUNICÍPIO",
+            "empresa": "NAURIELIO\nFRUTUOSO NOGUEIRA",
+            "valor_total": "R$ 1,333,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE BRINQUEDOS DIDÁTICOS PARA\nAS ESCOLAS DE EDUCAÇÃO INFANTIL DA REDE\nMUNICIPAL DE ENSINO, CONFORME TERMO DE\nCOMPROMISSO PAR Nº 201406587 – FNDE/MEC",
+            "empresa": "MONICA R. DE MELLO FARIA ME",
+            "valor_total": "R$ 14,137.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE BRINQUEDOS DIDÁTICOS PARA\nAS ESCOLAS DE EDUCAÇÃO INFANTIL DA REDE\nMUNICIPAL DE ENSINO, CONFORME TERMO DE\nCOMPROMISSO PAR Nº 201406587 – FNDE/MEC",
+            "empresa": "FLASH PRESTACAO DE SERVICOS\nEIRELI",
+            "valor_total": "R$ 14,137.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ÁGUA DE POÇO ARTESIANO\nPRÓPRIO, CAPTADA POR CARROS PIPA COM TANQUE\nCOM CAPACIDADE MÍNIMA DE 7.000 L, PARA ATENDER\nAS NECESSIDADES DA SECRETARIA MUNICIPAL DE\nAGRICULTURA",
+            "empresa": "WAGNER DAMIÃO DE SOUZA",
+            "valor_total": "R$ 18,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO EMERGENCIAL DE EMPRESA\nPARA A REALIZAÇÃO DE EXAMES LABORATORIAIS\nPARA ATENDER O SISTEMA DE SAÚDE DO MUNICIPIO",
+            "empresa": "PRO EXAME LABORATORIO DE\nANALISES CLINICAS S/C LTDA",
+            "valor_total": "R$ 351,633.75"
+          },
+          {
+            "objeto": "CONTRATAÇÃO EMERGENCIAL DE EMPRESA\nPARA A REALIZAÇÃO DE EXAMES LABORATORIAIS\nPARA ATENDER O SISTEMA DE SAÚDE DO MUNICIPIO",
+            "empresa": "INOVE SERVICO DE DIAGNOSTICO\nLTDA",
+            "valor_total": "R$ 351,633.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ÓLEOS\nLUBRIFICANTES E AFINS PARA ATENDER AS\nNECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "JAIME\nT. MOURA E CIA LTDA",
+            "valor_total": "R$ 16,928.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE CONFECÇÃO\nDE MATERIAL GRÁFICO DE COMUNICAÇÃO VISUAL\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "MARCELO ARAUJO DOS SANTOS",
+            "valor_total": "R$ 17,275.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 15,
+        "total_gasto": 1827063.52,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE TUBOS DE\n\nCONCRETO PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "FRANCISCO DE ASSIS\n\nBEZERRA MONTEIRO",
+            "valor_total": "R$ 32,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 29,
+        "total_gasto": 1747497.42,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "VIA\n\nNOVITA LTDA ME",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "ASSUNPCAO TEC COMERCIO DE EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "AZUS COPY CENTER\n\nCOMERCIO E SERVIOS LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº 00193/2021 - 18.10.21 - L P\n\nEQUIPAMENTOS",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "ONLY STYLE COMERCIAL DE PRODUTOS ELETRÔNICOS -\n\nR$ 17.740,00; CT Nº 00195/2021 - 18.10.21 - SEVENTEC\n\nTECNOLOGIA E INFORMATICA LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "LS SERVIÇOS DE INFORMÁTICA E\n\nELETR??NICA LTDA-EPP",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "CT Nº\n\n00198/2021 - 18.10.21 - MULTFORTE COMERCIO E\n\nSUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "ELETROPECAS TI COMERCIAL -\n\nEIRELI",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "R.N.\n\nBALTAZAR - COMERCIO DE INFORMATICA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "TYCO SERVICOS E COMERCIO\n\nDE INFORMATICA EIRELI",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "LICITAR COMERCIO E\n\nSERVIÇO EIRELI",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "PUHLTECH INFORMATICA LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "DARLU INDÚSTRIA TÊXTIL LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "DISTRIBUIDORA DE\n\nPRODUTOS AGRESTE MERIDIONAL LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "INSTRUTHERM INSTRUMENTOS DE\n\nMEDICAO LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E SUPRIMENTOS\n\nDE INFORMATICA PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": "REPREMIG REPRESENTACAO E COMERCIO DE MINAS\n\nGERAIS LTDA",
+            "valor_total": "R$ 1,475,672.48"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 535971.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\nDE REFORMA DO GINÁSIO ALÍPIO BEZERRA DE MELO",
+            "empresa": "CONSTRUTORA EDFFICAR EIRELI",
+            "valor_total": "R$ 461,712.56"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 30,
+        "total_gasto": 3800458.88,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\n\nDE PAVIMENTAÇÃO EM LADEIRAS NA ZONA RURAL NO\n\nMUNICÍPIO DE ALAGOA NOVA/PB",
+            "empresa": "E.P.S. SERVICOS\n\nDE CONSTRUCOES EIRELI",
+            "valor_total": "R$ 372,617.77"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\n\nDE PAVIMENTAÇÃO DE DIVERSAS RUAS NO CONJUNTO\n\nMAZAGÃO – II ETAPA – NO MUNICÍPIO DE ALAGOA\n\nNOVA/PB",
+            "empresa": "E.P.S. SERVICOS\n\nDE CONSTRUCOES EIRELI",
+            "valor_total": "R$ 366,129.54"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 1219990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 139,
+        "num_contratos": 325,
+        "total_gasto": 43211362.6
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2613071.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA A UNIDADE MISTA DE SÁUDE\n\nCONFORME PROPOSTA Nº 11838.096000/1210–04 –\n\nMINISTÉRIO DA SAÚDE PARA ATENDER AS NECESSIDADES\n\nDO SISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "CELERA TECNOLOGIA EM EQUIPAMENTOS MÉDICOS LTDA\n\nME",
+            "valor_total": "R$ 26,411.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA A UNIDADE MISTA DE SÁUDE\n\nCONFORME PROPOSTA Nº 11838.096000/1210–04 –\n\nMINISTÉRIO DA SAÚDE PARA ATENDER AS NECESSIDADES\n\nDO SISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nME",
+            "valor_total": "R$ 26,411.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 76,
+        "total_gasto": 11852191.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 38,
+        "total_gasto": 4918275.78,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "MARCELO SIMONI",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "A VIEIRA SERVI??OS -\n\nR$ 2.112,50; CT Nº 00162/2022",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "RB\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 6\n\n\n\nCOMUNICACAO VISUAL EIRELI",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "JRDSA GRAFICA, EDITORA E\n\nFABRICACAO DE PAPEIS EIRELI",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "MARIA HELOYSA\n\nMARTINS GOUVEIA",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL GRÁFICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº\n\n00167/2022",
+            "valor_total": "R$ 569,702.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES, MASSAS,\n\nEMBUTIDOS, REFRIGERANTES E LATICÍNIOS PARA\n\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "MARIA\n\nDO SOCORRO SANTOS BASILIO",
+            "valor_total": "R$ 416,298.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES, MASSAS,\n\nEMBUTIDOS, REFRIGERANTES E LATICÍNIOS PARA\n\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "MARIA CELI MONTEIRO",
+            "valor_total": "R$ 416,298.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 27,
+        "total_gasto": 4249286.529999999,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE 01 (UM) VEÍCULO TIPO CAMINHÃO\n\nCOM COMPACTADOR DE LIXO DESTINADO À COLETA DE\n\nRESÍDUOS SÓLIDOS PARA ATENDER AS NECESSIDADES\n\nDESTE MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal\n\nde Alagoa Nova e: CT Nº 00129/2021",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 3324006.62,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOS PICK UP CABINE DUPLA\n\n0 KM PARA ATENDER UNIDADES BÁSICAS DE SAÚDE\n\nCONFORME PROPOSTA Nº 11838.096000/1210–08 –\n\nMINISTÉRIO DA SAÚDE",
+            "empresa": "FIORI\n\nVEICOLO S.A",
+            "valor_total": "R$ 846,800.00"
+          },
+          {
+            "objeto": "Registro de preço para a aquisição de 4 Motocicletas\n\nON/OFF ROAD para patrulhamento afim de atender as demandas\n\ndesse Município",
+            "empresa": "NOVO RUMO - MOTORES E PECAS LTDA.",
+            "valor_total": "R$ 78,760.00"
+          },
+          {
+            "objeto": "Registro de preço para a aquisição de 4 Motocicletas\n\nON/OFF ROAD para patrulhamento afim de atender as demandas\n\ndesse Município",
+            "empresa": "NOVO RUMO - MOTORES E PECAS\n\nLTDA.",
+            "valor_total": "R$ 78,760.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 523596.14,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE VEÍCULO TIPO: CARRO-PIPA,\n\nCOM TANQUE COM CAPACIDADE MÍNIMA DE 7 (SETE) M³\n\nDE ÁGUA, COM MOTORISTA, PARA EXECUÇÃO DO\n\nABASTECIMENTO DE ÁGUA POTÁVEL PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nURBANA E RURAL ATINGIDA PELA ESTIAGEM DESTE\n\nMUNICÍPIO",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Alagoa Nova\n\ne: CT Nº 00011/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENÇÃO BÁSICA EM SAUDE BUCAL\n\nCONFORME PROPOSTA Nº: 11838.096000/1210–09 –\n\nMINISTÉRIO DA SAÚDE PARA ATENDER AS NECESSIDADES\n\nDO SISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA - ME",
+            "valor_total": "R$ 24,929.02"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENÇÃO BÁSICA EM SAUDE BUCAL\n\nCONFORME PROPOSTA Nº: 11838.096000/1210–09 –\n\nMINISTÉRIO DA SAÚDE PARA ATENDER AS NECESSIDADES\n\nDO SISTEMA MUNICIPAL DE SAÚDE",
+            "empresa": "CT Nº 00234/2022 - 27.07.22 - MIAMIMED\n\nPRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 24,929.02"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 68,
+        "total_gasto": 6797230.67,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\n\nDE REFORMA DO GINÁSIO ALÍPIO BEZERRA DE MELO",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Alagoa Nova\n\ne: CT Nº 00214/2021",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXCLUSIVA PARA\n\nREALIZAÇÃO DE SHOW ARTÍSTICO MUSICAL DO ARTISTA\n\n\"LUKA BASS\" NA FESTA DE EMANCIPAÇÃO 2022 NO DIA 05\n\nDE SETEMBRO DE 2022 NESTE MUNICÍPIO",
+            "empresa": "SIM\n\nSERVICOS DE ORGANIZACAO DE FESTAS, EVENTOS E\n\nFORMATURAS LTDA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MÉDICOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE SAUDEJUNTO A MEDICAL SERVICOS MEDICOS E\n\nHOSPITALARES LTDA, CONFORME CHAMADA PÚBLICA Nº\n\n00004/2022",
+            "empresa": "MEDICAL SERVICOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 54,600.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS MÉDICOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE SAUDEJUNTO A NOELISSON CRISOSTOMO DE OLIVEIRA\n\nMARQUES, CONFORME CHAMADA PÚBLICA Nº 00004/2022",
+            "empresa": "NOELISSON CRISOSTOMO DE OLIVEIRA MARQUES",
+            "valor_total": "R$ 590,550.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE\n\nDESINSETIZAÇÃO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "KATARINE AMERICA LIMA",
+            "valor_total": "R$ 7,650.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULO TIPO VAN, 0 KM, COM\n\nCAPACIDADE PARA 15 PASSAGEIROS E 1 ACESSIBILIDADE,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE, CONFORME TERMO DE\n\nCOMPROMISSO PAR Nº: 11838.096000/1220–03, MINISTÉRIO\n\nDA SAÚDE",
+            "empresa": "AUDAX CAMINHOES LTDA",
+            "valor_total": "R$ 309,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE UM VEÍCULO TIPO CAMINHÃO DE\n\nPEQUENO PORTE, 0 KM, PARA ATENDER AS NECESSIDADES\n\nDO MATADOURO PÚBLICO DESTE MUNICÍPIO, CONFORME\n\nCONVÊNIO Nº: 0059/2022 – SECRETARIA DE ESTADO DO\n\nDESENVOLVIMENTO E DA ARTICULAÇÃO MUNICIPAL",
+            "empresa": "AUDAX CAMINHOES LTDA",
+            "valor_total": "R$ 255,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE UM VEÍCULO TIPO VAN, COM\n\nCAPACIDADE MÍNIMA DE 20 PASSAGEIROS E 01\n\nCONDUTOR, 0 KM PARA TRANSPORTE DE PACIENTES\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 16\n\n\n\nDESTE MUNICÍPIO, CONFORME CONVÊNIO Nº: 0060/2022 –\n\nSECRETARIA DE ESTADO DO DESENVOLVIMENTO E DA\n\nARTICULAÇÃO MUNICIPAL",
+            "empresa": "AUDAX CAMINHOES LTDA",
+            "valor_total": "R$ 338,900.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXCLUSIVA PARA\n\nREALIZAÇÃO DE SHOW ARTÍSTICO MUSICAL DO ARTISTA\n\n\"PADRE NILSON NUNES\" NA FESTA DE EMANCIPAÇÃO 2022\n\nNO DIA 03 DE SETEMBRO DE 2022 NESTE MUNICÍPIO",
+            "empresa": "FILHOS DA LUZ COMUNICACOES\n\nLTDA",
+            "valor_total": "R$ 17,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 1909451.6600000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 26,
+        "total_gasto": 1290815.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 2707159.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE DOIS ÔNIBUS RURAL ESCOLAR\n(ORE) PARA TRANSPORTE DIÁRIO DE ESTUDANTES",
+            "empresa": "VOLKSWAGEN TRUCK & BUS INDUSTRIA E COMERCIO DE\nVEICULOS LTDA",
+            "valor_total": "R$ 830,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE RETROESCAVADEIRA PARA O\nMUNICÍPIO DE ALAGOA NOVA–PB – CONVÊNIO Nº\n901592/2020",
+            "empresa": "CONVÊNIO Nº\n901592/2020. FUNDAMENTO LEGAL: Pregão Eletrônico nº\n00081/2022. DOTAÇÃO: CONVÊNIO Nº 901592/2020–MAPA/\nRECURSOS PRÓPRIOS. VIGÊNCIA: até 24/08/2023.PARTES\nCONTRATANTES: Prefeitura Municipal de Alagoa Nova e: CT Nº\n00359/2022",
+            "valor_total": "R$ 445,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1806287.8900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 21,
+        "total_gasto": 4704668.58,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES, MASSAS,\nEMBUTIDOS, REFRIGERANTES E LATICÍNIOS PARA\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\nDESTE MUNICÍPIO",
+            "empresa": "MARIA CELI MONTEIRO",
+            "valor_total": "R$ 462,680.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ÁGUA MINERAL SEM\nGÁS E GÁS DE COZINHA GLP PARA ATENDER A DEMANDA\nDAS SECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "R P\nCOMERCIO DE GAS LTDA",
+            "valor_total": "R$ 408,725.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 121,
+        "num_contratos": 347,
+        "total_gasto": 51135484.120000005
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 48,
+        "total_gasto": 9610095.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 58,
+        "total_gasto": 10887570.69,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO E INSTALAÇÃO DE EQUIPAMENTOS DE\n\nSONORIZAÇÃO, ILUMINAÇÃO E INFRAESTRUTURA: PALCO\n\nSOM, TENDA, DISCIPLINADOR E GERADOR PARA ATENDER\n\nAS FESTIVIDADES PROMOVIDAS POR ESTE MUNICÍPIO",
+            "empresa": "STUDIO NIGHT PALCO E\n\nSONORIZACAO LTDA",
+            "valor_total": "R$ 1,418,465.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS ORIGINAIS E\n\nGENUÍNAS PARA MANUTENÇÃO PREVENTIVA E\n\nCORRETIVA DA FROTA DE VEÍCULOS E MÁQUINAS\n\nPERTENCENTES A ESTE MUNICÍPIO",
+            "empresa": "O\n\nCEARENSE DISTRIBUIDORA DE PECAS LTDA",
+            "valor_total": "R$ 3,140,536.42"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS ORIGINAIS E\n\nGENUÍNAS PARA MANUTENÇÃO PREVENTIVA E\n\nCORRETIVA DA FROTA DE VEÍCULOS E MÁQUINAS\n\nPERTENCENTES A ESTE MUNICÍPIO",
+            "empresa": "H R PNEUS PECAS ACESSORIOS\n\nE SERVICOS LTDA",
+            "valor_total": "R$ 3,140,536.42"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS ORIGINAIS E\n\nGENUÍNAS PARA MANUTENÇÃO PREVENTIVA E\n\nCORRETIVA DA FROTA DE VEÍCULOS E MÁQUINAS\n\nPERTENCENTES A ESTE MUNICÍPIO",
+            "empresa": "CT Nº 00123/2023\n\n- 23.03.23 - PNEUMAX LTDA",
+            "valor_total": "R$ 3,140,536.42"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PEÇAS ORIGINAIS E\n\nGENUÍNAS PARA MANUTENÇÃO PREVENTIVA E\n\nCORRETIVA DA FROTA DE VEÍCULOS E MÁQUINAS\n\nPERTENCENTES A ESTE MUNICÍPIO",
+            "empresa": "CT Nº 00125/2023 - 23.03.23 -\n\nAUTO CAR COMERCIO DE PECAS E SERVICOS\n\nAUTOMOTIVOS LTDA",
+            "valor_total": "R$ 3,140,536.42"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEIXE CONGELADO EM\n\nEMBALAGEM DE 1 KG, PARA DISTRIBUIÇÃO GRATUITA A\n\nPOPULAÇÃO CARENTE, POR OCASIÃO DA COMEMORAÇÃO\n\nDA “SEMANA SANTA – ANO 2023” DO MUNICÍPIO DE\n\nALAGOA NOVA – PB",
+            "empresa": "MATA NORTE ALIMENTOS LTDA",
+            "valor_total": "R$ 45,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 81,
+        "total_gasto": 10794816.64,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "CENTRO ESPECIALIZADO EM\n\nNUTRICAO ENTERAL E PARENTERAL - CENEP LTDA",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "XAND`S COMERCIAL\n\nDE ALIMENTOS EIRELI",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "CT Nº\n\n00208/2023 - 17.04.23 - PAULO MATIAS DE ARAUJO",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "SOS COMERCIO DE\n\nMATERIAIS MEDICOS HOSPITALARES EIRELI",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "ONATO COMERCIO DE\n\nALIMENTOS LTDA",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "JOSE CLAUDIO AQUINO HERMINIO",
+            "valor_total": "R$ 2,583,380.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "MICHAEL GOMES MARTINS DE SOUZA",
+            "valor_total": "R$ 2,583,380.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 17,
+        "total_gasto": 2947881.6500000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS\n\nDE SAÚDE, COMPREENDENDO A REALIZAÇÃO DE\n\nCONSULTAS AMBULATORIAIS EM ATENÇÃO\n\nESPECIALIZADA, EXAMES ESPECIALIZADOS, LAUDOS,\n\nPROCEDIMENTOS CIRÚRGICOS ELETIVOS E OUTROS\n\nPROCEDIMENTOS EM ATENÇÃO ESPECIALIZADA PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE SAUDE\n\nDESTE MUNICÍPIO JUNTO A NUCLEO DE OFTALMOLOGIA\n\nFRANCISCO PINTO LTDA, CONFORME CHAMADA PÚBLICA\n\nNº 00003/2023",
+            "empresa": "NUCLEO DE OFTALMOLOGIA\n\nFRANCISCO PINTO LTDA",
+            "valor_total": "R$ 153,795.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 27,
+        "total_gasto": 2286882.62,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONCLUSÃO\n\nDA QUADRA ESCOLAR COBERTA 002/2013 - ESCOLA\n\nFERNANDO CUNHA LIMA",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Alagoa Nova e: CT Nº 00066/2023 - Mendonca e Silva\n\nConstrucoes e Locacoes Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 1972389.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 33,
+        "total_gasto": 1887680.7200000002,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "MD MATERIAL HOSPITALAR EIRELI\n\n- R$ 63.277,00; CT Nº 00308/2023 - 24.08.23 - CIR??RGICA\n\nMONTEBELLO LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "CT Nº 00311/2023 - 24.08.23 -\n\nEMPRESA CONQUISTA DISTRIBUIDORA DE\n\nMEDICAMENTOS E PRODUTOS HOSPITALARES EIRELI",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "INOVAMED\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "NNMED - DISTRIBUICAO, IMPORTACAO E EXPORTACAO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "EXPRESS\n\nDISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "FARMACIA MATRIZ LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "ENDOMED COMERCIO E\n\nREPRESENTAÇÕES DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE SAÚDE CONFORME CONVÊNIO Nº 0029/2023\n\nDO GOVERNO DO ESTADO DA PARAÍBA",
+            "empresa": "MCW PRODUTOS\n\nMEDICOS E HOSPITALARES",
+            "valor_total": "R$ 517,952.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE INSTITUIÇÃO ESPECIALIZADA\n\nPARA COORDENAÇÃO, SUPERVISÃO E EXECUAÇÃO DA 8ª\n\nETAPA DO CAMPEONATO PARAIBANO DE MOTOCROSS\n\n2023 A SER REALIZADO NESTE MUNICÍPIO",
+            "empresa": "FEDERACAO PARAIBANA DE MOTOCICLISMO",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 2554586.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 483246.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 1766127.6400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "NILDO FREITAS DANTAS",
+            "valor_total": "R$ 152,396.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "MICROTECNICA INFORMATICA\n\nLTDA",
+            "valor_total": "R$ 152,396.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "M FELIPE\n\nGALVAO",
+            "valor_total": "R$ 152,396.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "M.A.\nDISTRIBUIDORA COMERCIO E SERVICO LTDA",
+            "valor_total": "R$ 152,396.54"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE PARA\n\nATENDER AS NECESSIDADES DE DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "NOVA MIX LTDA",
+            "valor_total": "R$ 152,396.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 1239537.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 2092601.54,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS DE\n\nA A Z DA LINHA FARMA ATRAVÉS DA OFERTA DE MAIOR\n\nPORCENTAGEM DE DESCONTO SOBRE A TABELA ABC\n\nFARMA PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "REDE DOUTOR FARMA COMERCIO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 143,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 327,
+        "total_gasto": 58856817.940000005
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 29,
+        "total_gasto": 2755059.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES MASSAS\n\nEMBUTIDOS REFRIGERANTES E LATICÍNIOS PARA\n\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "MONTEIRO ATAIDE COMERCIO DE\n\nPRODUTOS ALIMENTICIOS LTDA",
+            "valor_total": "R$ 470,842.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES MASSAS\n\nEMBUTIDOS REFRIGERANTES E LATICÍNIOS PARA\n\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "DELICIAS DO TRIGO LTDA",
+            "valor_total": "R$ 470,842.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE PÃES MASSAS\n\nEMBUTIDOS REFRIGERANTES E LATICÍNIOS PARA\n\nATENDER A DEMANDA DAS DIVERSAS SECRETARIAS\n\nDESTE MUNICÍPIO",
+            "empresa": "JCASIF COMERCIO\n\nVAREJISTA DE CEREAIS LTDA",
+            "valor_total": "R$ 470,842.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 51,
+        "total_gasto": 13395999.38,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PREMOLDADOS PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "FRANCISCO DE ASSIS\n\nBEZERRA MONTEIRO",
+            "valor_total": "R$ 194,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEIXE CONGELADO PARA\n\nDISTRIBUIÇÃO GRATUITA A POPULAÇÃO CARENTE, POR\n\nOCASIÃO DA “ SEMANA SANTA – ANO 2024”",
+            "empresa": "MATA\n\nNORTE ALIMENTOS LTDA",
+            "valor_total": "R$ 41,250.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "MAXIMA A DE LIMA DANTAS",
+            "valor_total": "R$ 855,311.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "PAULO MATIAS DE\n\nARAUJO",
+            "valor_total": "R$ 855,311.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "JOSE\n\nCLAUDIO AQUINO HERMINIO",
+            "valor_total": "R$ 855,311.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GÊNEROS\n\nALIMENTICIOS PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "MICHAEL GOMES MARTINS DE SOUZA",
+            "valor_total": "R$ 855,311.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXCLUSIVA PARA\n\nREALIZAÇÃO DE SHOW ARTÍSTICO MUSICAL DE \"REY\n\nVAQUEIRO\" NA FESTA DO PRODUTOR RURAL 2024 NO DIA\n\n26 DE ABRIL DE 2024 NESTE MUNICÍPIO",
+            "empresa": "REY\n\nVAQUEIRO SHOWS LTDA",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXCLUSIVA PARA\n\nREALIZAÇÃO DE SHOW ARTÍSTICO MUSICAL DE \"A\n\nVONTADE\" NA FESTA DO PRODUTOR RURAL 2024 NO DIA\n\n27 DE ABRIL DE 2024 NESTE MUNICÍPIO",
+            "empresa": "ULTRA\n\nPROMOCOES E EVENTOS LTDA",
+            "valor_total": "R$ 500,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 28,
+        "total_gasto": 4562515.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 39,
+        "total_gasto": 8202770.469999999,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS TIPO CAMINHÃO PIPA\nDESTINADO PARA ATENDER AS NECESSIDADES DESTE\nMUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nAlagoa Nova e: CT Nº 00351/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E\nCONSULTORIA JURÍDICA RELATIVA AOS ÓRGÃOS DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\nCONTROLE EXTERNO (TRIBUNAIS DE JUSTIÇA) E\nELABORAÇÃO DE ATOS REFERENTES AO PROCESSO\nLEGISLATIVO PARA A PREFEITURA MUNICIPAL DE\nALAGOA NOVA",
+            "empresa": "MURILO DUARTE SOCIEDADE\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 32,000.00"
+          },
+          {
+            "objeto": "CONSTRUÇÃO DE UMA ACADEMIA AO AR LIVRE\n(ACADEMIA POPULAR) CONFORME CONVÊNIO N°\n0244/2022-SEDAM",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nAlagoa Nova e: CT Nº 00281/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\nDE PAVIMENTAÇÃO DE DIVERSAS RUAS NO CONJUNTO\nMAZAGÃO - III ETAPA - NO MUNICÍPIO DE ALAGOA\nNOVA/PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nAlagoa Nova e: CT Nº 00345/2023 - Monteiro Engenharia Ltda -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 27,
+        "total_gasto": 7270351.959999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA EXCLUSIVA PARA\n\nREALIZAÇÃO DE SHOW ARTÍSTICO MUSICAL DE \"GITANA\nPIMENTEL\" NA FESTA SÃO JOÃO NA PRAÇA 2024 NO DIA 30\n\nDE JUNHO DE 2024 NESTE MUNICÍPIO",
+            "empresa": "19.135.174 GITANA HENRIQUES PIMENTEL",
+            "valor_total": "R$ 5,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 53,
+        "total_gasto": 7136949.609999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nCONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE -\n\nCONVÊNIO Nº 11838.0960001/19-002",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Alagoa Nova e: CT Nº 00228/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PAVIMENTAÇÃO EM PARALELEPÍPEDO EM\n\nDIVERSAS RUAS E LADEIRAS NA ZONA RURAL - ALAGOA\nNOVA/PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Alagoa Nova\ne: CT Nº 00155/2024 - Empreendimentos e Negocios Mvm Ltda -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 31,
+        "total_gasto": 5896620.88,
+        "empresas_mensais": [
+          {
+            "objeto": "ADEQUAÇÃO DE ESTRADAS VICINAIS NO\n\nMUNICÍPIO DE ALAGOA NOVA - PB (PAVIMENTAÇÃO EM\n\nTRECHOS 01, 02, E 03 DA SERRA DO BOA VISTA - SÍTIO BOA\n\nVISTA) CONFORME CONTRATO DE REPASSE Nº 1086282-\n\n58/2022 - 938813",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Alagoa Nova e: CT Nº 00196/2024",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 29,
+        "total_gasto": 6002478.74,
+        "empresas_mensais": [
+          {
+            "objeto": "AMPLIAÇÃO E REFORMA DA UNIDADE BÁSICA DE\n\nSAÚDE JOSEFA DELFINO DA CONCEIÇÃO - SÍTIO\n\nGAMELEIRA, CONFORME PROPOSTA 11838.0960001/22-010",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Alagoa Nova\n\ne: CT Nº 00340/2023 - Ajcl Construcoes Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "CENTRAL DO CONSTRUTOR\n\nCOMERCIO VAREJISTA DE MATERIAIS DE CONSTRU????O\n\nLTDA",
+            "valor_total": "R$ 370,465.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nCONSTRUÇÃO PARA ATENDER AS NECESSIDADES DESTE\n\nMUNICÍPIO",
+            "empresa": "BRITO\n\nLYRA COMERCIO DE MATERIAIS EM GERAL LTDA",
+            "valor_total": "R$ 370,465.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "ELETRO CENTER LTDA",
+            "valor_total": "R$ 658,010.62"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00309/2024 -\n\n23.09.24 - EREPROT COMERCIO DE EQUIPAMENTOS DE\n\nPROTECAO INDIVIDUAL LTDA",
+            "valor_total": "R$ 658,010.62"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAL ELÉTRICO\n\nPARA ATENDER AS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "KAIROS ELETRICA E ELETRONICA\n\nINDUSTRIAL LTDA",
+            "valor_total": "R$ 658,010.62"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE DE ATENÇÃO ESPECIALIZADA, CONFORME\n\nPROPOSTA Nº: 11838096000123002 – MINISTÉRIO DA SAÚDE",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA - ME",
+            "valor_total": "R$ 139,086.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE DE ATENÇÃO ESPECIALIZADA, CONFORME\n\nPROPOSTA Nº: 11838096000123002 – MINISTÉRIO DA SAÚDE",
+            "empresa": "CT Nº 00314/2024 - 23.09.24 -\n\nNORDESTE MEDICAL, REPRESENTACAO, IMPORTACAO E\n\nEXPORTACAO DE PRODUTOS HOSPITALARE",
+            "valor_total": "R$ 139,086.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE DE ATENÇÃO ESPECIALIZADA, CONFORME\n\nPROPOSTA Nº: 11838096000123002 – MINISTÉRIO DA SAÚDE",
+            "empresa": "C E C IMPORTACAO E\n\nCOMERCIO DE PRODUTOS MEDICOS LTDA",
+            "valor_total": "R$ 139,086.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE DE ATENÇÃO ESPECIALIZADA, CONFORME\n\nPROPOSTA Nº: 11838096000123002 – MINISTÉRIO DA SAÚDE",
+            "empresa": "AMB DISTRIBUIDORA DE\n\nMEDICAMENTO E MATERIAIS HOSPITALARES LTDA",
+            "valor_total": "R$ 139,086.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nUNIDADE DE ATENÇÃO ESPECIALIZADA, CONFORME\n\nPROPOSTA Nº: 11838096000123002 – MINISTÉRIO DA SAÚDE",
+            "empresa": "CATFELLI DESIGN\n\nCOMERCIO LTDA",
+            "valor_total": "R$ 139,086.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 344018.0,
+        "empresas_mensais": [
+          {
+            "objeto": "EXECUÇÃO DE SERVIÇOS DE REFORMA PARA\n\nCONCLUSÃO DO AUDITÓRIO DA ESCOLA VIOLETA COSTA -\n\nALAGOA NOVA-PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nAlagoa Nova e: CT Nº 00135/2024 - Evoengenharia e Construcoes\n\nLtda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GRAMA NATURAL PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO",
+            "empresa": "SEF\n\nCOMEX LTDA",
+            "valor_total": "R$ 83,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 264667.15,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE CRECHE COM CAPACIDADE PARA 100 (CEM) CRIANÇAS,\nCOM BASE NO PROGRAMA PARAÍBA PRIMEIRA INFÂNCIA,\n\nCONFORME CONVÊNIO Nº 0415/2021 - SEE",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Alagoa Nova e: CT Nº\n\n00337/2023 - Mendonca e Silva Construcoes e Locacoes Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 22,
+        "total_gasto": 932784.95,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA APOIO À\n\nPRODUÇÃO PARA O MUNICÍPIO DE ALAGOA NOVA -\n\nRETROESCAVADEIRA - CONFORME CONVÊNIO Nº\n\n942851/2023 - MINISTÉRIO DA INTEGRAÇÃO E DO\n\nDESENVOLVIMENTO REGIONAL",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Alagoa Nova e: CT Nº 00172/2024",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE AR MEDICINAL,\n\nOXIGÊNIO E AFINS E LOCAÇÃO DE CONCENTRADOR DE\n\nOXIGÊNIO PARA ATENDER AS NECESSIDADES DO SISTEMA\n\nDE SAÚDE DESTE MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Alagoa Nova e: CT Nº 00110/2024 - B2g\n\nCainfotec Comprime Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE COLETA,\n\nTRANSPORTE, TRATAMENTO E DESTINAÇÃO FINAL DAS\n\nCINZAS DE RESÍDUOS PROVENIENTES DOS SERVIÇOS DE\n\nSAÚDE DESTE MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nAlagoa Nova e: CT Nº 00092/2024 - Cril Empreendimento Ambiental\n\nLtda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE IMPRESSORAS MULTIFUNCIONAL\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nADMINISTRAÇÃO DESTE MUNICÍPIO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Alagoa Nova e: CT Nº\n\n00370/2023 - Azus Copy Center Comercio e Servios Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AMPLIAÇÃO E REFORMA DA UNIDADE BÁSICA DE\n\nSAÚDE ANTÔNIO CLEMENTINO DA SILVA SÍTIO BRÁS,\n\nCONFORME PROPOSTA 11838.0960001/22–006",
+            "empresa": "POLYEFE\n\nCONSTRUCOES, LIMPEZA E CONSERVACAO EIRELI",
+            "valor_total": "R$ 171,340.61"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

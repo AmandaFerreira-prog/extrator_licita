@@ -3,22 +3,70 @@
   "nome": "Picuí",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 59100.0,
-        "top_3_empresas": [
-          "MAURÍCIO DOS SANTOS FERREIRA DE\nVASCONCELOS",
-          "FRANCISCO DE ASSIS BEZERRA"
-        ],
-        "top_3_objetos": [
-          "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA"
-        ]
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 12,
+        "total_gasto": 2696332.4200000004,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 199,
-        "num_contratos": 412,
-        "total_gasto": 18441067.770000003
+        "num_diarios": 191,
+        "num_contratos": 416,
+        "total_gasto": 18218315.540000003
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 43,
+        "total_gasto": 3046332.36,
+        "top_3_empresas": [
+          "CONSTRUTORA COSTA DO SOL LTDA."
+        ],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 130,
+        "total_gasto": 1018352.7000000005,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 50,
+        "total_gasto": 2017623.2500000002,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 128,
+        "total_gasto": 1894984.6900000004,
+        "top_3_empresas": [
+          "ROBERTO CARLOS\nCAVALCANTE ME",
+          "ROBERTO DE ARAÚJO LIMA",
+          "BRUNA LUANA DA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE VEÍCULOS PARA ATENDER AS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE\nINFRAESTRUTURA, CONFORME DISPOSIÇÕES DO TERMO\nDE REFERÊNCIA",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE PROCEDIMENTOS DE PATOLOGIA\nCLÍNICA, EM NÍVEL LABORATORIAL, DE MÉDIA E ALTA\nCOMPLEXIDADE, CONFORME ESPECIFICAÇÕES DO TERMO\nDE REFERÊNCIA",
+          "AQUISIÇÃO DE IMPRESSORA MULTIFUNCIONAL\nCOM SISTEMA DE ABASTECIMENTO CONTÍNUO DE TINTA\nNÃO APARENTE E SENSOR SONORO DE NIVEL DE TINTA,\nPARA SUPRIR AS NECESSIDADES DA ADMINISTRAÇÃO\nMUNICIPAL, CONFORME DISPOSIÇÕES DO TERMO DE\nREFERENCIA"
+        ]
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 3131377.8099999996,
+        "top_3_empresas": [
+          "U. S. MATIC INDÚSTRIA E\nCOMÉRCIO DE EQUIPAMENTOS DE IRRIGAÇÃO S/A",
+          "MARCOS AURÉLIO DE OLIVEIRA\n- R$ 738.621,00\nCT Nº 00020/2014 - 20.03.14 - REMIR AUTO PEÇAS &\nACESSÓRIOS LTDA ME",
+          "W. M. COMERCIO DE\nCOMBUSTÍVEIS LTDA"
+        ],
+        "top_3_objetos": [
+          "IMPLANTAÇÃO DE SISTEMAS COLETIVOS DE\nCAPTAÇÃO, ARMAZENAMENTO E DISTRIBUIÇÃO DE ÁGUA\nPARA O CONSUMO HUMANO, EM COMUNIDADES RURAIS\n\nDO MUNICIPIO DE PICUÍ, EM ATENDIMENTO AO TERMO DE\nCOMPROMISSO Nº 037/2013, QUE ENTRE SI CELEBRAM A\nSUDENE E O MUNICIPIO DE PICUÍ",
+          "AQUISIÇÃO DE COMBUSTÍVEL, FILTROS E\nLUBRIFICANTES, DE FORMA PARCELADA, PARA ATENDER\nAS NECESSIDADES DOS VEÍCULOS DA FROTA MUNICIPAL E\nVEÍCULOS AGREGADOS, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO TERMO DE REFERÊNCIA",
+          "CONTRATAÇÃO DE EMPRESA DE CONSTRUÇÃO\nCIVIL, PARA EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE\nUMA BIBLIOTECA NO MUNICÍPIO DE PICUÍ, CONFORME\nPROJETO BÁSICO"
+        ]
       },
       "2": {
         "num_diarios": 14,
@@ -27,61 +75,23 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "3": {
-        "num_diarios": 16,
-        "num_contratos": 16,
-        "total_gasto": 3131377.8099999996,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 18,
-        "num_contratos": 128,
-        "total_gasto": 1894984.6899999995,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 17,
-        "num_contratos": 41,
-        "total_gasto": 1831698.25,
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 59100.0,
         "top_3_empresas": [
-          "LOPEL - LOPES PEREIRA ENGENHARIA LTDA"
-        ],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 17,
-        "num_contratos": 134,
-        "total_gasto": 1366945.7000000002,
-        "top_3_empresas": [
-          "ALEXANDRE LAURENTINO DA\nSILVA",
-          "T. D. DE L. MEDEIROS EVENTOS"
+          "MARCOS AURELIO DE OLIVEIRA",
+          "W. M. COMERCIO DE COMBUSTÍVEIS LTDA.",
+          "ROSILENE DA SILVA SANTOS"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE SHOW ARTISTICO DA BANDA\n“FERRO NA BONECA” PARA ABRILHANTAR OS FESTEJOS\nJUNINOS DE PICUÍ - “FORROZÃO DO POVO 2014”, NO DIA\n28/06/2014, NA PRAÇA DE EVENTOS",
-          "CONTRATAÇÃO DE SHOW ARTÍSTICO DO CANTOR\n“ADONIS Jr.” PARA ABRILHANTAR OS FESTEJOS JUNINOS\nDE PICUÍ - “FORROZÃO DO POVO 2014”, NO DIA 29/06/2014,\nNA PRAÇA DE EVENTOS",
-          "CONTRATAÇÃO DE SHOW ARTÍSTICO DO CANTOR\n“NIEDSON LUA” PARA ABRILHANTAR OS FESTEJOS\nJUNINOS DE PICUÍ - “FORROZÃO DO POVO 2014”, NO DIA\n28/06/2014, NA PRAÇA DE EVENTOS"
+          "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA"
         ]
       },
-      "7": {
-        "num_diarios": 19,
-        "num_contratos": 43,
-        "total_gasto": 3046332.36,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
-        "num_diarios": 20,
-        "num_contratos": 12,
-        "total_gasto": 2696332.4200000004,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
       "9": {
-        "num_diarios": 20,
-        "num_contratos": 10,
-        "total_gasto": 1210909.75,
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 1150825.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -93,7 +103,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 8,
         "total_gasto": 758895.1900000001,
         "top_3_empresas": [],
@@ -109,21 +119,21 @@
     },
     "2015": {
       "1": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 16,
         "total_gasto": 25231.93,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 186,
-        "num_contratos": 225,
-        "total_gasto": 2808843.2400000086
+        "num_diarios": 180,
+        "num_contratos": 233,
+        "total_gasto": 2967325.610000011
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 6,
-        "total_gasto": 5022.43,
+        "num_contratos": 10,
+        "total_gasto": 34142.43,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -153,7 +163,7 @@
         ]
       },
       "6": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 18,
         "total_gasto": 436011.81999999995,
         "top_3_empresas": [],
@@ -161,13 +171,13 @@
       },
       "7": {
         "num_diarios": 17,
-        "num_contratos": 34,
-        "total_gasto": 532330.8400000001,
+        "num_contratos": 38,
+        "total_gasto": 638005.8400000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 2,
         "total_gasto": 1580.0,
         "top_3_empresas": [
@@ -176,29 +186,29 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 14,
-        "num_contratos": 15,
-        "total_gasto": 291208.74,
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 311296.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 15,
-        "num_contratos": 38,
-        "total_gasto": 297708.4999999997,
+        "num_diarios": 14,
+        "num_contratos": 34,
+        "total_gasto": 291597.8199999998,
         "top_3_empresas": [
-          "Maria Rejane Dantas de Medeiros",
-          "Marta Maria da Silva Cruz",
+          "Izabella Katarine Medeiros Almeida.",
+          "Paula Minelle de Medeiros Gomes",
           "Aislan Henrique Bezerra Pinheiro"
         ],
         "top_3_objetos": [
-          "Prestação de serviços de Professor de deste município",
-          "Prestação de serviços de Professor, deste município",
-          "Prestação de serviços de Médico no PSF( Programa de Saúde\nda Família, deste município"
+          "Prestação de Serviços de Professor, deste Município",
+          "Prestação de serviços de Professor deste município",
+          "Prestação de serviços de Professor, deste município"
         ]
       },
       "11": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 24,
         "total_gasto": 58842.56000000003,
         "top_3_empresas": [],
@@ -206,8 +216,8 @@
       },
       "12": {
         "num_diarios": 15,
-        "num_contratos": 20,
-        "total_gasto": 73264.19000000003,
+        "num_contratos": 22,
+        "total_gasto": 82974.19000000002,
         "top_3_empresas": [
           "José Janduhy de Oliveira Filho",
           "Ekissia Kelli Araújo dos Santos"
@@ -227,17 +237,17 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 209,
-        "num_contratos": 246,
-        "total_gasto": 9418624.129999999
+        "num_diarios": 206,
+        "num_contratos": 266,
+        "total_gasto": 11450581.219999999
       },
       "2": {
         "num_diarios": 15,
         "num_contratos": 20,
         "total_gasto": 315770.0,
         "top_3_empresas": [
-          "AMSTERDA MARYLAND CUNHA\nDA SILVA 00016286405",
-          "ANTONIO ALVES DA SILVA\n05741808425",
+          "AMSTERDA MARYLAND CUNHA\nDA SILVA",
+          "ANTONIO ALVES DA SILVA",
           "ERIVALDO EVANGELISTA\nPORTO"
         ],
         "top_3_objetos": [
@@ -277,20 +287,20 @@
       },
       "6": {
         "num_diarios": 18,
-        "num_contratos": 17,
-        "total_gasto": 2302434.6999999997,
+        "num_contratos": 21,
+        "total_gasto": 2339674.6999999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 18,
-        "num_contratos": 28,
-        "total_gasto": 673185.4400000001,
+        "num_contratos": 41,
+        "total_gasto": 1243499.3900000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 19,
+        "num_diarios": 17,
         "num_contratos": 22,
         "total_gasto": 1343675.04,
         "top_3_empresas": [
@@ -306,8 +316,8 @@
       },
       "9": {
         "num_diarios": 18,
-        "num_contratos": 23,
-        "total_gasto": 976268.8799999999,
+        "num_contratos": 26,
+        "total_gasto": 1121421.38,
         "top_3_empresas": [
           "EMILLY INDUSTRIA E\nCOMERCIO DE MOVEIS LTDA"
         ],
@@ -320,7 +330,7 @@
         "num_contratos": 24,
         "total_gasto": 685998.54,
         "top_3_empresas": [
-          "JOSEFA PEREIRA DA COSTA\n99227193472"
+          "JOSEFA PEREIRA DA COSTA"
         ],
         "top_3_objetos": []
       },
@@ -332,9 +342,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 12,
-        "total_gasto": 368822.54000000004,
+        "total_gasto": 1648073.18,
         "top_3_empresas": [
           "CONSTRUTORA AZEVEDO LTDA."
         ],
@@ -345,16 +355,16 @@
     },
     "2017": {
       "1": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 35,
         "total_gasto": 1617999.7399999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 233,
-        "num_contratos": 470,
-        "total_gasto": 18709305.419999987
+        "num_diarios": 229,
+        "num_contratos": 471,
+        "total_gasto": 19253298.17999999
       },
       "2": {
         "num_diarios": 16,
@@ -364,9 +374,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 20,
-        "num_contratos": 54,
-        "total_gasto": 1150138.3300000005,
+        "num_diarios": 19,
+        "num_contratos": 52,
+        "total_gasto": 1105138.3300000005,
         "top_3_empresas": [
           "POLYEFE CONSTRUÇÕES, LIMP. E CONSERV.\nLTDA"
         ],
@@ -376,8 +386,8 @@
       },
       "4": {
         "num_diarios": 16,
-        "num_contratos": 55,
-        "total_gasto": 1174074.3299999998,
+        "num_contratos": 58,
+        "total_gasto": 1763067.0899999999,
         "top_3_empresas": [
           "JRM DIAGNOSTICOS POR\nIMAGEM LTDA",
           "ROBERTO CARLOS CAVALCANTE ME",
@@ -412,12 +422,12 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 61,
         "total_gasto": 1891794.6399999997,
         "top_3_empresas": [
           "NELHA NEIDE DE OLIVEIRA\nRODRIGUES",
-          "JOSÉ GILVAN OLIVEIRA DA\nSILVA 91767733453"
+          "JOSÉ GILVAN OLIVEIRA DA\nSILVA"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE AVIAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
@@ -449,7 +459,7 @@
         ]
       },
       "10": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 31,
         "total_gasto": 2040036.6199999992,
         "top_3_empresas": [],
@@ -460,7 +470,7 @@
         "num_contratos": 12,
         "total_gasto": 640922.35,
         "top_3_empresas": [
-          "NOADYA DA SILVA ARAUJO\n07842537496",
+          "NOADYA DA SILVA ARAUJO",
           "SPORT'S MAGAZINE LTDA",
           "CT Nº 00262/2017"
         ],
@@ -487,14 +497,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 231,
-        "num_contratos": 367,
-        "total_gasto": 21573476.479999997
+        "num_diarios": 227,
+        "num_contratos": 376,
+        "total_gasto": 21586107.769999996
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 81,
-        "total_gasto": 4244681.95,
+        "num_contratos": 83,
+        "total_gasto": 4328142.95,
         "top_3_empresas": [
           "TECNOCENTER MATERIAIS\nMEDICOS HOSPITALARES LTDA",
           "WT DISTRIBUIDORA LTDA"
@@ -505,24 +515,28 @@
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 48,
-        "total_gasto": 2391791.05,
+        "num_contratos": 55,
+        "total_gasto": 2493511.2399999998,
         "top_3_empresas": [
           "DJC\nVIAGENS E TURISMO LTDA"
         ],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 20,
-        "num_contratos": 22,
-        "total_gasto": 559239.89,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 365789.88999999996,
+        "top_3_empresas": [
+          "WALBER CARLOS VIANA DE\nOLIVEIRA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO DE CONSERTO E REFORMA DE MESAS\nESCOLARES DA REDE MUNICIPAL DE ENSINO"
+        ]
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 21,
-        "total_gasto": 695547.3300000001,
+        "num_contratos": 23,
+        "total_gasto": 716447.43,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -531,9 +545,9 @@
         "num_contratos": 18,
         "total_gasto": 1599332.3699999999,
         "top_3_empresas": [
-          "ROSILDO DE LIMA SILVA",
           "JOSÉ\nRONALDO DE OLIVEIRA ME.",
-          "IRENE MACEDO BARROS 41605195472"
+          "IRENE MACEDO BARROS",
+          "CT Nº\n00199/2018"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇOS OBJETIVANDO\nÀ AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
@@ -576,7 +590,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 12,
         "total_gasto": 220361.81999999998,
         "top_3_empresas": [],
@@ -585,25 +599,25 @@
     },
     "2019": {
       "1": {
-        "num_diarios": 21,
-        "num_contratos": 31,
-        "total_gasto": 2280656.09,
+        "num_diarios": 20,
+        "num_contratos": 33,
+        "total_gasto": 2365656.09,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 236,
-        "num_contratos": 439,
-        "total_gasto": 16577724.53999999
+        "num_diarios": 233,
+        "num_contratos": 472,
+        "total_gasto": 19797168.359999985
       },
       "2": {
         "num_diarios": 21,
         "num_contratos": 69,
         "total_gasto": 2989833.6799999997,
         "top_3_empresas": [
-          "ALLYSSON TERCIO DE MACEDO\nARAUJO 11990567401",
-          "COMERCIO DE TECIDOS O RETALHAO EIRELI",
-          "LAEDSON VIEIRA SOARES\n07264021416"
+          "LAEDSON VIEIRA SOARES",
+          "ALLYSSON TERCIO DE MACEDO\nARAUJO",
+          "COMERCIO DE TECIDOS O RETALHAO EIRELI"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇO VISANDO\nFUTURA E EVENTUAL CONTRATAÇÃO DE MÃO DE OBRA\nVISANDO O FUNCIONAMENTO DO CENTRO MUNICIPAL DE\nCOMPOSTAGEM - FÁBRICA DE SOLOS DE PICUÍ-PB,\nCONFORME ESPECIFICAÇÕES CONSTANTES DO TERMO DE\nREFERÊNCIA",
@@ -613,8 +627,8 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 13,
-        "total_gasto": 594726.96,
+        "num_contratos": 17,
+        "total_gasto": 958748.5599999999,
         "top_3_empresas": [
           "ITYHY CONSULTORIA LTDA"
         ],
@@ -625,8 +639,8 @@
       },
       "4": {
         "num_diarios": 20,
-        "num_contratos": 57,
-        "total_gasto": 3227991.21,
+        "num_contratos": 71,
+        "total_gasto": 4964223.05,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -643,31 +657,31 @@
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 14,
-        "total_gasto": 478742.0,
+        "num_contratos": 16,
+        "total_gasto": 578200.88,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 22,
-        "num_contratos": 19,
-        "total_gasto": 1054716.65,
+        "num_diarios": 21,
+        "num_contratos": 23,
+        "total_gasto": 1386779.1500000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 21,
-        "num_contratos": 21,
-        "total_gasto": 773003.8200000001,
+        "num_contratos": 25,
+        "total_gasto": 1207198.82,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 21,
-        "num_contratos": 39,
-        "total_gasto": 552957.6799999999,
+        "num_diarios": 20,
+        "num_contratos": 42,
+        "total_gasto": 721431.6799999999,
         "top_3_empresas": [
-          "JOSÉ LIMA\n\nDA SILVA 99162369415"
+          "JOSÉ LIMA\n\nDA SILVA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE CARROS PIPA PARA\n\nATENDIMENTO EMERGENCIAL DA DEMANDA DE\n\nFORNECIMENTO D’ÁGUA DAS LOCALIDADES QUE FAZEM\n\nPARTE DA ÁREA DENMINADA CAATINGA II(DOIS) DO\n\nMUNICÍPIO, ATINGIDA PELA ESTIAGEM, ATINGIDA PELA\n\nESTIAGEM, CONFORME DECRETO ESTADUAL Nº 39.080, DE\n\n01/04/2019 E PORTARIA Nº 1.133 DE 03/05/2019 DA\n\nSECRETARIA NACIONAL DE PROTEÇÃO E DEFESA CIVIL"
@@ -702,21 +716,21 @@
     },
     "2020": {
       "1": {
-        "num_diarios": 19,
-        "num_contratos": 30,
-        "total_gasto": 5060574.159999999,
+        "num_diarios": 15,
+        "num_contratos": 20,
+        "total_gasto": 4283097.68,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 233,
-        "num_contratos": 185,
-        "total_gasto": 16108372.750000002
+        "num_diarios": 225,
+        "num_contratos": 174,
+        "total_gasto": 15058420.070000002
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 36,
-        "total_gasto": 1795659.78,
+        "num_contratos": 38,
+        "total_gasto": 2104918.08,
         "top_3_empresas": [
           "MATHEUS\nALMEIDA DE OLIVEIRA",
           "REVENDEDORA DE GÁS DO BRASIL\nLTDA.",
@@ -729,17 +743,17 @@
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 19,
-        "total_gasto": 1937471.79,
+        "num_contratos": 20,
+        "total_gasto": 2435471.79,
         "top_3_empresas": [
           "José Wesley Talysson Azevedo Silva"
         ],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 19,
-        "num_contratos": 24,
-        "total_gasto": 2977189.98,
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 1955455.4800000002,
         "top_3_empresas": [
           "CAMPO FELIZ\n\nCONSTRUCOES E SERVICOS LTDA",
           "VERTICALIZA CONSTRUÇÕES E SERVIÇOS LTDA"
@@ -767,7 +781,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 13,
         "total_gasto": 590209.4,
         "top_3_empresas": [],
@@ -775,13 +789,13 @@
       },
       "8": {
         "num_diarios": 19,
-        "num_contratos": 4,
-        "total_gasto": 239105.0,
+        "num_contratos": 3,
+        "total_gasto": 136105.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 4,
         "total_gasto": 599517.6699999999,
         "top_3_empresas": [
@@ -793,8 +807,8 @@
       },
       "10": {
         "num_diarios": 19,
-        "num_contratos": 7,
-        "total_gasto": 235175.02000000002,
+        "num_contratos": 8,
+        "total_gasto": 280175.02,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -806,7 +820,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 4,
         "total_gasto": 373347.49,
         "top_3_empresas": [],
@@ -816,29 +830,25 @@
     "2021": {
       "1": {
         "num_diarios": 18,
-        "num_contratos": 6,
-        "total_gasto": 779506.1900000001,
+        "num_contratos": 8,
+        "total_gasto": 794603.1900000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 235,
-        "num_contratos": 252,
-        "total_gasto": 15830067.49000001
+        "num_diarios": 231,
+        "num_contratos": 264,
+        "total_gasto": 19555054.790000014
       },
       "2": {
-        "num_diarios": 18,
-        "num_contratos": 11,
-        "total_gasto": 465166.45,
-        "top_3_empresas": [
-          "ADRIANO\nGOMES DE BARROS"
-        ],
-        "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE OXIGÊNIO, AR MEDICINAL E LOCAÇÃO\nDE CONCENTRADOR, MEDIANTE REQUISIÇÃO, CONFORME\nDISPOSIÇÕES DO TERMO DE REFERÊNCIA"
-        ]
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 422220.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 23,
         "total_gasto": 838624.49,
         "top_3_empresas": [],
@@ -850,8 +860,8 @@
         "total_gasto": 3212523.2899999996,
         "top_3_empresas": [
           "CARLOS JOMAR DE OLIVEIRA CJO",
-          "JARLIA DE MACEDO MEDEIROS\n\n09589779417",
-          "THIAGO ANDRADE DE OLIVEIRA 11995795488"
+          "JARLIA DE MACEDO MEDEIROS",
+          "CT Nº 00069/2021"
         ],
         "top_3_objetos": [
           "SISTEMA DE REGISTRO DE PREÇOS VISANDO\n\nFUTURO E EVENTUAL FORNECIMENTO DE REFEIÇÕES\n\nPRONTAS (PADRÃO SELV SERVICE), NA SEDE DO\n\nMUNICÍPIO E NOS DISTRITOS DE SERRA DOS BRANDÕES E\n\nSANTAS LUZIA, PARA SUPRIR AS NECESSIDADES DA\n\nADMINISTRAÇÃO MUNICIPAL, CONFORME DISPOSIÇÕES\n\nDO TERMO DE REFERÊNCIA",
@@ -871,15 +881,15 @@
       },
       "6": {
         "num_diarios": 18,
-        "num_contratos": 10,
-        "total_gasto": 654440.0,
+        "num_contratos": 14,
+        "total_gasto": 4015040.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 21,
-        "num_contratos": 19,
-        "total_gasto": 305960.74,
+        "num_diarios": 20,
+        "num_contratos": 22,
+        "total_gasto": 397420.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -899,9 +909,9 @@
         "num_contratos": 41,
         "total_gasto": 2103872.8600000003,
         "top_3_empresas": [
-          "ALEX SANTOS SOARES 08251868467",
-          "IVALTON OLIVEIRA DA SILVA\n\n08526867490",
-          "JOMAR ALVES DOS SANTOS 03468481489"
+          "ALEX SANTOS SOARES",
+          "CT Nº\n\n00208/2021",
+          "CT Nº 00209/2021"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE QUATRO CARROS PIPA, PARA\n\nATENDIMENTO EMERGENCIAL DA POPULAÇÃO DA ZONA\n\nRURAL E URBANA DO MUNICÍPIO, DESTINANDO–SE AO\n\nFORNECIMENTO DE ÁGUA NOS CHAFARIZES\n\nCOMUNITÁRIOS E CISTERNAS RURAIS"
@@ -918,8 +928,8 @@
       },
       "11": {
         "num_diarios": 18,
-        "num_contratos": 15,
-        "total_gasto": 1380275.77,
+        "num_contratos": 17,
+        "total_gasto": 1514872.11,
         "top_3_empresas": [
           "NILDO FREITAS DANTAS"
         ],
@@ -929,8 +939,8 @@
       },
       "12": {
         "num_diarios": 21,
-        "num_contratos": 13,
-        "total_gasto": 1331021.7700000003,
+        "num_contratos": 17,
+        "total_gasto": 1497202.1800000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -944,9 +954,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 235,
-        "num_contratos": 380,
-        "total_gasto": 30022572.900000036
+        "num_diarios": 231,
+        "num_contratos": 365,
+        "total_gasto": 29008444.130000036
       },
       "2": {
         "num_diarios": 20,
@@ -962,9 +972,9 @@
         ]
       },
       "3": {
-        "num_diarios": 18,
-        "num_contratos": 19,
-        "total_gasto": 1675075.4599999997,
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1838889.4599999997,
         "top_3_empresas": [
           "ULTRA\n\nSOLUCOES E SERVICOS LTDA."
         ],
@@ -972,24 +982,27 @@
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 49,
-        "total_gasto": 4095662.689999999,
+        "num_contratos": 45,
+        "total_gasto": 3566285.139999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 22,
-        "num_contratos": 44,
-        "total_gasto": 4264413.26,
+        "num_diarios": 21,
+        "num_contratos": 31,
+        "total_gasto": 3614548.0399999996,
         "top_3_empresas": [
-          "NGC\n\nCOMBUSTÍVEIS LTDA"
+          "NGC\n\nCOMBUSTÍVEIS LTDA",
+          "B C M -\n\nPRODUÇÕES ARTISTICAS LTDA"
         ],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação de estrutura completa de palco para as\n\nfestividades alusivas ao tradicional São Pedro de Poço Dantas–PB,\n\nque ocorrerá no dia 29 de Junho de 2022"
+        ]
       },
       "6": {
         "num_diarios": 16,
-        "num_contratos": 15,
-        "total_gasto": 544580.3899999999,
+        "num_contratos": 16,
+        "total_gasto": 545880.3899999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1020,14 +1033,14 @@
         "num_contratos": 34,
         "total_gasto": 2054363.2000000002,
         "top_3_empresas": [
-          "RAEDER\n\nWELLINGTON AZEVEDO 09215225412"
+          "RAEDER\n\nWELLINGTON AZEVEDO"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVIÇOS DE REVITALIZAÇÃO DE PLACAS\n\nDE INDICAÇÃO DE DESTINOS, IDENTIFICAÇÃO DE RUAS,\n\nSINALIZAÇÃO DE TRÂNSITO E MANUTENÇÃO DOS POSTES\n\nE CHAPAS DAS PLACAS"
         ]
       },
       "10": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 23,
         "total_gasto": 1483472.7400000005,
         "top_3_empresas": [
@@ -1055,7 +1068,7 @@
         ]
       },
       "12": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 7,
         "total_gasto": 454285.67,
         "top_3_empresas": [],
@@ -1077,9 +1090,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 237,
+        "num_diarios": 231,
         "num_contratos": 358,
-        "total_gasto": 19881404.24999995
+        "total_gasto": 23005504.57999995
       },
       "2": {
         "num_diarios": 18,
@@ -1096,21 +1109,21 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 17,
-        "num_contratos": 61,
-        "total_gasto": 2714987.4699999997,
+        "num_diarios": 16,
+        "num_contratos": 57,
+        "total_gasto": 2012147.8499999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 20,
-        "num_contratos": 16,
-        "total_gasto": 1309539.05,
+        "num_contratos": 18,
+        "total_gasto": 4761820.880000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 18,
+        "num_diarios": 16,
         "num_contratos": 11,
         "total_gasto": 433090.48,
         "top_3_empresas": [
@@ -1119,9 +1132,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 20,
-        "num_contratos": 20,
-        "total_gasto": 1361929.6699999997,
+        "num_diarios": 18,
+        "num_contratos": 26,
+        "total_gasto": 1738474.2099999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1134,8 +1147,8 @@
       },
       "9": {
         "num_diarios": 20,
-        "num_contratos": 4,
-        "total_gasto": 15531.28,
+        "num_contratos": 5,
+        "total_gasto": 29181.28,
         "top_3_empresas": [
           "MARIA\nELIZABETE ANDRIOLA DE ALMEIDA GONÇALVES",
           "Maria de Jesus de Azevedo Medeiros.",
@@ -1163,9 +1176,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 21,
-        "num_contratos": 8,
-        "total_gasto": 294424.43999999994,
+        "num_diarios": 20,
+        "num_contratos": 3,
+        "total_gasto": 278888.01999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -1173,8 +1186,8 @@
     "2024": {
       "1": {
         "num_diarios": 22,
-        "num_contratos": 25,
-        "total_gasto": 667063.88,
+        "num_contratos": 27,
+        "total_gasto": 911777.38,
         "top_3_empresas": [
           "FARIAS & VASCONCELOS\n\nADVOGADOS ASSOCIADOS",
           "FINANCE CONTABILIDADE\n\nLTDA",
@@ -1187,21 +1200,21 @@
         ]
       },
       "resumo": {
-        "num_diarios": 237,
-        "num_contratos": 104,
-        "total_gasto": 2237537.109999999
+        "num_diarios": 235,
+        "num_contratos": 119,
+        "total_gasto": 3470983.909999995
       },
       "2": {
-        "num_diarios": 17,
-        "num_contratos": 7,
-        "total_gasto": 1130133.01,
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 1614568.01,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 19,
-        "num_contratos": 36,
-        "total_gasto": 147542.65,
+        "num_diarios": 18,
+        "num_contratos": 35,
+        "total_gasto": 102042.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1236,8 +1249,8 @@
       },
       "7": {
         "num_diarios": 20,
-        "num_contratos": 4,
-        "total_gasto": 78092.72000000002,
+        "num_contratos": 10,
+        "total_gasto": 614291.02,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1271,30 +1284,30 @@
       },
       "12": {
         "num_diarios": 21,
-        "num_contratos": 3,
-        "total_gasto": 12235.220000000001,
+        "num_contratos": 4,
+        "total_gasto": 25835.22,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 2471,
-    "num_contratos": 3438,
-    "total_gasto": 171608996.08,
+    "num_diarios": 2419,
+    "num_contratos": 3514,
+    "total_gasto": "183.371.204,16",
     "top_5_empresas": {
-      "Maria Rejane Dantas de Medeiros": 2,
+      "Izabella Katarine Medeiros Almeida.": 2,
       "ROBERTO CARLOS CAVALCANTE ME": 2,
       "VERTICALIZA CONSTRUÇÕES E SERVIÇOS LTDA": 2,
       "MAXIMIANO ANTONIO DOS SANTOS NETO EIRELI": 2,
-      "MAURÍCIO DOS SANTOS FERREIRA DE\nVASCONCELOS": 1
+      "CONSTRUTORA COSTA DO SOL LTDA.": 1
     },
     "top_5_objetos": {
       "Prestação de serviços de Professor, deste município": 2,
+      "Prestação de serviços de Professor deste município": 2,
       "PRORROGAR PRAZO DE VIGÊNCIA CONTRATUAL": 2,
       "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE AVIAMENTOS, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DAS\nSECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA": 2,
-      "Prestação de serviços de Médico no SAMU, deste município": 2,
-      "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA": 1
+      "Prestação de serviços de Médico no SAMU, deste município": 2
     }
   }
 }

@@ -1,0 +1,428 @@
+{
+  "id": "olho-d'agua",
+  "nome": "Olho D'Água",
+  "detalhe": {
+    "2023": {
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 8,
+        "total_gasto": 1003465.7,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "FRAN INFORMATICA LTDA -",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "FRAN INFORMATICA LTDA -",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de\nempresa especializada para prestar serviços de locação de\nsoftwares de sistema gestão pública para manutenção das\natividades do município de Olho D’água-PB",
+            "empresa": "FRAN INFORMATICA LTDA -",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "PUBLIC SOFTWARES INFORMATICA LTDA",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "PUBLIC SOFTWARES INFORMATICA LTDA",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de\nempresa especializada para prestar serviços de locação de\nsoftwares de sistema gestão pública para manutenção das\natividades do município de Olho D’água-PB",
+            "empresa": "PUBLIC SOFTWARES INFORMATICA LTDA",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "ELMAR– PROCESSAMENTO DE DADOS\nEIRELI",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de empresa\nespecializada para prestar serviços de locação de softwares de\nsistema gestão pública para manutenção das atividades do\nmunicípio de Olho D’água-PB",
+            "empresa": "ELMAR– PROCESSAMENTO DE DADOS\nEIRELI",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "contratação de\nempresa especializada para prestar serviços de locação de\nsoftwares de sistema gestão pública para manutenção das\natividades do município de Olho D’água-PB",
+            "empresa": "ELMAR– PROCESSAMENTO DE DADOS\nEIRELI",
+            "valor_total": "R$ 95,640.00"
+          },
+          {
+            "objeto": "aquisição de matérias de expediente destinados a todas as\nsecretarias do município de Olho D’água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 307,954.70"
+          },
+          {
+            "objeto": "aquisição de matérias de expediente destinados a todas as\nsecretarias do município de Olho D’água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 307,954.70"
+          },
+          {
+            "objeto": "aquisição de matérias de expediente destinados a todas as\nsecretarias do município de Olho D’água-PB",
+            "empresa": "LUCIELDO MARIA DA SILVA-ME",
+            "valor_total": "R$ 307,954.70"
+          },
+          {
+            "objeto": "aquisição de matérias de expediente destinados a todas as\nsecretarias do município de Olho D’água-PB",
+            "empresa": "LUCIELDO MARIA DA SILVA-ME",
+            "valor_total": "R$ 307,954.70"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "BETHOVEN DOS SANTOS DA SILVA-EPP",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "BETHOVEN DOS SANTOS DA SILVA-EPP",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "BETHOVEN DOS SANTOS DA SILVA-EPP",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "BETHOVEN DOS SANTOS DA SILVA-EPP",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "JOAQUIM NETO DE MELO -ME",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "JOAQUIM NETO DE MELO -ME",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "JOAQUIM NETO DE MELO -ME",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "JOAQUIM NETO DE MELO -ME",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "J T A COMERCIO DE ARTIGOS\nDESCARTÁVEIS LTDA,",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "J T A COMERCIO DE ARTIGOS\nDESCARTÁVEIS LTDA,",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "J T A COMERCIO DE ARTIGOS\nDESCARTÁVEIS LTDA,",
+            "valor_total": "R$ 599,871.00"
+          },
+          {
+            "objeto": "aquisição de materiais de limpeza, higiene e descartáveis\ndestinados a diversas secretarias do município de Olho D ́água-PB",
+            "empresa": "J T A COMERCIO DE ARTIGOS\nDESCARTÁVEIS LTDA,",
+            "valor_total": "R$ 599,871.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 52,
+        "num_contratos": 30,
+        "total_gasto": 1975551.7
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 63779.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 255550.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de soro fisiológico destinado a secretaria de\n\nsaúde do município de Olho D’água-PB",
+            "empresa": "MED E FARMA DISTRIBUIDORA DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 181,350.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 449967.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 24610.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 138130.0,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de serviços especializados a ser prestado na\n\nrealização de exames por imagem (mamografia bilateral e unilateral),\n\npara atendimento aos usuários do SUS por intermédio da secretaria\n\nmunicipal de saúde de Olho D´Água-PB",
+            "empresa": "CITO MAMA SERVIÇOS DE DIAGNOSTICO\n\nPOR IMAGEM LTDA",
+            "valor_total": "R$ 9,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 23500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 16550.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 2295074.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 103,
+        "num_contratos": 151,
+        "total_gasto": 15482590.320000002
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 1249006.9,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL LOCALIZADO A RUA:\n\nJULIO MINERVINO DA SILVA, S/N, BAIRRO: CENTRO, CEP:\n\n58.760-000, NESTA CIDADE, DESTINADO AO\n\nFUNCIONAMENTO DA SEDE DAVIGILANCIA SANITARIA E\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 3\n\n\n\nVIGILANCIA AMBIENTAL DO MUNICIPIO DE OLHO DAGUA-\n\nPB",
+            "empresa": "GEINY JOSINO DE ALMEIDA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL LOCALIZADO A RUA:\n\nPROJETADA, S/N, BAIRRO: TRIANGULO, CEP: 58.760-000,\n\nNESTA CIDADE, DESTINADO AO FUNCIONAMENTO DA\n\nSEDE DO CONSELHO TUTELAR DO MUNICIPIO DE OLHO\n\nDAGUA-PB",
+            "empresa": "OSVALDO ABÍLIO SOARES",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL LOCALIZADO A RUA:\n\nJULIO MINERVINO, Nº 25, BAIRRO: CENTRO, CEP: 58.760-000,\n\nNESTA CIDADE, DESTINADO AO FUNCIONAMENTO DA\n\nSEDE DO DESTACAMENTO MILITAR DO MUNICIPIO DE\n\nOLHO DAGUA-PB",
+            "empresa": "SILVERIA LEITE COSTA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL LOCALIZADO A RUA:\n\nFASUTO DE ALMEIDA COSTA, Nº13, BAIRRO: CENTRO, CEP:\n\n58.760-000, NESTA CIDADE, DESTINADO AO\n\nFUNCIONAMENTO DE DEPÓSITO DE MATERIAIS DO\n\nMUNICIPIO DE OLHO DAGUA-PB",
+            "empresa": "JOSEFA BRUNO DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 3988161.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais de expediente destinados a todas as\n\nsecretarias do município de Olho D’água-PB",
+            "empresa": "NIVALDO FERREIRA DOS SANTOS JUNIOR-\n\nME",
+            "valor_total": "R$ 309,818.50"
+          },
+          {
+            "objeto": "aquisição de gêneros alimentícios destinados as diversas\n\nsecretarias do município de Olho D’água-PB",
+            "empresa": "JOAQUIM NETO DE MELO-ME",
+            "valor_total": "R$ 110,452.50"
+          },
+          {
+            "objeto": "aquisição de gêneros alimentícios destinados as diversas\n\nsecretarias do município de Olho D’água-PB",
+            "empresa": "JC DE OLIVEIRA DISTRIBUIDORA VIDA\n\nVERDE",
+            "valor_total": "R$ 31,240.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 2986938.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 45,
+        "total_gasto": 2238019.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 566933.6599999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa ou pessoa física para prestação de\n\nServiços de locação de veículos para o Município do Olho D‟água-\nPB, para atender a demanda do exercício de 2024",
+            "empresa": "MATEUS LEITE MAMEDE",
+            "valor_total": "R$ 13,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa física\n\npara prestação de Serviços de locação de veículos para o Município\n\ndo Olho D‟água-PB, para atender a demanda do exercício de 2024",
+            "empresa": "VICTOR RIAN DA COSTA VICENTE",
+            "valor_total": "R$ 11,700.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa\n\nfísica para prestação de Serviços de locação de veículos para o\n\nMunicípio do Olho D‟água-PB, para atender a demanda do exercício\nde 2024",
+            "empresa": "GERLANIO EMILIANO DA SILVA",
+            "valor_total": "R$ 60,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa\n\nfísica para prestação de Serviços de locação de veículos para o\n\nMunicípio do Olho D‟água-PB, para atender a demanda do exercício\n\nde 2024",
+            "empresa": "RICARDO MARTINS DE SOUSA-ME",
+            "valor_total": "R$ 27,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa física\n\npara prestação de Serviços de locação de veículos para o Município\n\ndo Olho D‟água-PB, para atender a demanda do exercício de 2024",
+            "empresa": "MARCILENE TIBURTINO LEITE",
+            "valor_total": "R$ 9,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa física\n\npara prestação de Serviços de locação de veículos para o Município\n\ndo Olho D‟água-PB, para atender a demanda do exercício de 2024",
+            "empresa": "WOSTON LUIZ DE OLIVEIRA",
+            "valor_total": "R$ 11,250.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa física\npara prestação de Serviços de locação de veículos para o Município\n\ndo Olho D‟água-PB, para atender a demanda do exercício de 2024",
+            "empresa": "JOSEAN GUILHERME DE FRANÇA-CPF nº\n\n154.045.224-70.",
+            "valor_total": "R$ 67,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa\nfísica para prestação de Serviços de locação de veículos para o\n\nMunicípio do Olho D‟água-PB, para atender a demanda do exercício\n\nde 2024",
+            "empresa": "JOSE AILTON PEREIRA FREITAS",
+            "valor_total": "R$ 17,550.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa física para\n\nprestação de Serviços de locação de veículos para o Município do\n\nOlho D‟água-PB, para atender a demanda do exercício de 2024",
+            "empresa": "JOSE VALDEBAN BRAZ",
+            "valor_total": "R$ 34,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa\n\nfísica para prestação de Serviços de locação de veículos para o\n\nMunicípio do Olho D‟água-PB, para atender a demanda do exercício\n\nde 2024",
+            "empresa": "RAIMUNDO ALVES DA SILVA",
+            "valor_total": "R$ 25,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa ou pessoa\n\nfísica para prestação de Serviços de locação de veículos para o\nMunicípio do Olho D‟água-PB, para atender a demanda do exercício\n\nde 2024",
+            "empresa": "ADRIANO SAMPAIO LEITE",
+            "valor_total": "R$ 27,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 279173.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento de pessoa Jurídica para posterior\n\ncontratação de serviços de Médico Plantonista para atender no centro\n\nde saúde Maxnoá Bizerra Leite do Município de Olho D’água-PB",
+            "empresa": "JOÃO LUCAS CALDAS MINERVINO LTDA -",
+            "valor_total": "R$ 96,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 395190.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 417116.32999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 254450.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 812525.38,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE\n\nSERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA\n\nJURÍDICA, VISANDO ASSESSORAR O MUNICÍPIO NA\n\nGESTÃO, ELABORAÇÃO DE AUDITORIAS E LAUDOS\n\nTÉCNICOS PARA A RECUPERAÇÃO DE CRÉDITOS,\n\nMEDIANTE A CONFERÊNCIA DAS FATURAS DE ENERGIA\n\nELÉTRICA DA ADMINISTRAÇÃO DIRETA E INDIRETA DO\n\nMUNICÍPIO, ELABORAÇÃO DE MEMORIAL DE CÁLCULO DE\n\nCONSUMO E POTÊNCIA DO PARQUE DE ILUMINAÇÃO\n\nPÚBLICA, A APURAÇÃO DO MODELO TARIFÁRIO\n\nAPLICADO EM CADA UNIDADE CONSUMIDORA, ASSIM\n\nCOMO VERIFICAÇÃO DE POSSÍVEIS ISENÇÕES INDEVIDAS\n\nE/OU NÃO REPASSE DA CONTRIBUIÇÃO DE ILUMINAÇÃO\n\nPÚBLICA (CIP) E/OU NÃO RECOLHIMENTO DO ISS DOS\n\nPRESTADORES DE SERVIÇOS DO SETOR ELÉTRICO,\n\nVISANDO A REPETIÇÃO DE INDÉBITOS DECORRENTES DE\n\nCOBRANÇAS INDEVIDAS (A MAIOR) NAS CONTAS DE\n\nENERGIA ELÉTRICA DE TITULARIDADE DO MUNICÍPIO DE\n\nSÃO JOÃO DO RIO DO PEIXE – PB",
+            "empresa": "RUDA PEREIRA BRASIL\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 781,285.38"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA\n\nJURÍDICA, VISANDO ASSESSORAR O MUNICÍPIO NA\n\nGESTÃO, ELABORAÇÃO DE AUDITORIAS E LAUDOS\n\nTÉCNICOS PARA A RECUPERAÇÃO DE CRÉDITOS,\n\nMEDIANTE A CONFERÊNCIA DAS FATURAS DE ENERGIA\n\nELÉTRICA DA ADMINISTRAÇÃO DIRETA E INDIRETA DO\n\nMUNICÍPIO, ELABORAÇÃO DE MEMORIAL DE CÁLCULO DE\n\nCONSUMO E POTÊNCIA DO PARQUE DE ILUMINAÇÃO\n\nPÚBLICA, A APURAÇÃO DO MODELO TARIFÁRIO\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 33\n\n\n\nAPLICADO EM CADA UNIDADE CONSUMIDORA, ASSIM\n\nCOMO VERIFICAÇÃO DE POSSÍVEIS ISENÇÕES INDEVIDAS\n\nE/OU NÃO REPASSE DA CONTRIBUIÇÃO DE ILUMINAÇÃO\n\nPÚBLICA (CIP) E/OU NÃO RECOLHIMENTO DO ISS DOS\n\nPRESTADORES DE SERVIÇOS DO SETOR ELÉTRICO,\n\nVISANDO A REPETIÇÃO DE INDÉBITOS DECORRENTES DE\n\nCOBRANÇAS INDEVIDAS (A MAIOR) NAS CONTAS DE\n\nENERGIA ELÉTRICA DE TITULARIDADE DO MUNICÍPIO DE\n\nSÃO JOÃO DO RIO DO PEIXE – PB",
+            "empresa": "RUDA PEREIRA BRASIL\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 781,285.38"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

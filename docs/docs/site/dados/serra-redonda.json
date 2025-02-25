@@ -5,20 +5,20 @@
     "2021": {
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 399900.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 81,
-        "num_contratos": 27,
-        "total_gasto": 4987759.79
+        "num_diarios": 77,
+        "num_contratos": 57,
+        "total_gasto": 6156051.59
       },
       "6": {
-        "num_diarios": 12,
-        "num_contratos": 7,
-        "total_gasto": 324184.28,
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 526084.28,
         "top_3_empresas": [
           "JOSEMAR CAMPOS SOUZA"
         ],
@@ -28,36 +28,40 @@
       },
       "7": {
         "num_diarios": 11,
-        "num_contratos": 2,
-        "total_gasto": 3105128.52,
+        "num_contratos": 4,
+        "total_gasto": 3152528.52,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 11,
-        "num_contratos": 2,
-        "total_gasto": 72000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 5,
+        "total_gasto": 359674.6,
+        "top_3_empresas": [
+          "TORRES\nCONSTRUCOES LTDA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\nPARA MODERNIZAÇÃO DO GINÁSIO DE ESPORTES DESTE\nMUNICIPIO"
+        ]
       },
       "9": {
         "num_diarios": 11,
-        "num_contratos": 3,
-        "total_gasto": 260860.0,
+        "num_contratos": 9,
+        "total_gasto": 457899.18,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 142735.5,
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 200625.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 8,
-        "num_contratos": 11,
-        "total_gasto": 991021.01,
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 967508.9099999999,
         "top_3_empresas": [
           "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTÃOEMPRESARIAL E PUBLICA\n\nLTDA"
         ],
@@ -66,7 +70,7 @@
         ]
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 1,
         "total_gasto": 91830.48,
         "top_3_empresas": [],
@@ -89,30 +93,38 @@
         ]
       },
       "resumo": {
-        "num_diarios": 121,
-        "num_contratos": 123,
-        "total_gasto": 20714927.75
+        "num_diarios": 118,
+        "num_contratos": 182,
+        "total_gasto": 46279772.07000001
       },
       "2": {
         "num_diarios": 12,
-        "num_contratos": 14,
-        "total_gasto": 1613161.1300000001,
+        "num_contratos": 17,
+        "total_gasto": 2552346.38,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 17,
-        "total_gasto": 814516.2,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 48,
+        "total_gasto": 5575396.0,
+        "top_3_empresas": [
+          "DIMALAB ELETRONICS DO BRASIL EIRELI",
+          "E J DA SILVA & SILVA\n\nPRODUTOS LABORATORIAIS LTDA.",
+          "VS COSTA & CIA LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nLABORATORIAL PARA ATENDER AS NECESSIDADES DO\n\nSISTEMA MUNICIPAL DE SAÚDE",
+          "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nPAVIMENTAÇÃO EM PARALELEPÍPEDOS PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO",
+          "CONTRATAÇAO DE EMPRESA PARA A PRESTAÇÃO\n\nDE SERVIÇOS DE RECAPAGEM DE PNEUS PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO"
+        ]
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 1461750.0,
+        "num_contratos": 6,
+        "total_gasto": 1676956.0,
         "top_3_empresas": [
-          "GABRIELA LIMA DA\n\nSILVA TAVARES 07382517470",
+          "GABRIELA LIMA DA\n\nSILVA TAVARES",
           "POSTO BELL COMERCIO DE\n\nCOMBUSTIVES LTDA"
         ],
         "top_3_objetos": [
@@ -121,9 +133,9 @@
         ]
       },
       "5": {
-        "num_diarios": 13,
-        "num_contratos": 16,
-        "total_gasto": 1608879.1300000001,
+        "num_diarios": 12,
+        "num_contratos": 29,
+        "total_gasto": 17920287.400000002,
         "top_3_empresas": [
           "INDUSTRIA E\n\nCOMERCIO DE PRODUTOS DE LIMPEZA CAMPINENSE LTDA",
           "CT Nº 00066/2022",
@@ -135,23 +147,24 @@
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 9,
-        "total_gasto": 1624193.7999999998,
+        "num_contratos": 17,
+        "total_gasto": 1878193.7999999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 12,
-        "total_gasto": 2757433.42,
+        "num_contratos": 10,
+        "total_gasto": 1827433.42,
         "top_3_empresas": [
           "FIORI\n\nVEICOLO S.A",
           "TERRA DO SOL COMERCIO DE VEICULOS LTDA",
-          ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São João do\n\nRio do Peixe e: CT Nº 00206/2022 - T a Franca Serviços - 1º Aditivo\n\n- acréscimo de 45,63% - equivalente a R$ 96.033,35. O valor\n\nconsolidado passa para R$ 306.486,40. ASSINATURA: 27.07.22\n\n\n\nESTADO DA PARAÍBA\n\nMUNICÍPIO DE SERRA REDONDA\n\n\n\nPREFEITURA MUNICIPAL DE SERRA REDONDA\n\nATA DE REGISTRO DE PREÇOS Nº: 11 00011/2022\n\n\n\nATA DE REGISTRO DE PREÇOS Nº: 11 00011/2022\n\n\nAos 27 dias do mês de Julho de 2022, na sede da Comissão Permanente de Licitação da Prefeitura Municipal de Serra Redonda, Estado da Paraíba,\n\nlocalizada na Rua Dom Adauto - Centro - Serra Redonda - PB, nos termos da Lei Federal nº 10.520, de 17 de Julho de 2002 e subsidiariamente a Lei\n\nFederal nº 8.666, de 21 de Junho de 1993; Lei Complementar nº 123, de 14 de Dezembro de 2006; Decreto Federal nº 3.555, de 08 de Agosto de\n\n2000; Decreto Federal nº 7.892, de 23 de Janeiro de 2013; e legislação pertinente, consideradas as alterações posteriores das referidas normas; e,\n\nainda, conforme a classificação da proposta apresentada no Pregão Presencial nº 00011/2022 que objetiva o registro de preços para: AQUISIÇÃO\n\nDE VEICULOS 0KM DESTINADOS A SECRETARIA DE SAUDE, EDUCAÇÃO E ASSISTENCIA SOCIAL DO MUNICIPIO DE SERRA\n\nREDONDA/PB; resolve registrar o preço nos seguintes termos:\n\n\n\nÓrgão e/ou entidade integrante da presente Ata de Registro de Preços: PREFEITURA MUNICIPAL DE SERRA REDONDA -"
+          ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de São João do\n\nRio do Peixe e: CT Nº 00206/2022"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE VEICULOS 0KM DESTINADOS A\n\nSECRETARIA DE SAUDE, EDUCAÇÃO E ASSISTENCIA\n\nSOCIAL DO MUNICIPIO DE SERRA REDONDA/PB",
-          "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA DE UMA EDIFICAÇÃO DESTINADO AO\n\nFUNCIONAMENTO DE UMA UNIDADE BÁSICA DE SAÚDE\n\nNO SITIO ENGENHO NOVO ZONA RURAL DE SÃO JOÃO DO\n\nRIO DO PEIXE-PB"
+          "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA DE UMA EDIFICAÇÃO DESTINADO AO\n\nFUNCIONAMENTO DE UMA UNIDADE BÁSICA DE SAÚDE\n\nNO SITIO ENGENHO NOVO ZONA RURAL DE SÃO JOÃO DO\n\nRIO DO PEIXE-PB",
+          "CONTRATAÇÃO DE EMPRESA PRA EXECUÇÃO DE\n\nREFORMA E AMPLIAÇÃO DA E.M.E.I.F PROFESSORA\n\nAURILIA BRECKENFELD DANTAS NO MUNICIPIO DE SÃO\n\nJOÃO DO RIO DO PEIXE-PB"
         ]
       },
       "8": {
@@ -178,8 +191,8 @@
       },
       "10": {
         "num_diarios": 11,
-        "num_contratos": 10,
-        "total_gasto": 3532044.78,
+        "num_contratos": 14,
+        "total_gasto": 7546209.779999999,
         "top_3_empresas": [
           "CASA\n\nDA CONSTRUCAO LTDA"
         ],
@@ -199,7 +212,7 @@
         ]
       },
       "12": {
-        "num_diarios": 11,
+        "num_diarios": 9,
         "num_contratos": 12,
         "total_gasto": 2901985.35,
         "top_3_empresas": [
@@ -222,14 +235,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 129,
-        "num_contratos": 164,
-        "total_gasto": 26633293.529999997
+        "num_diarios": 126,
+        "num_contratos": 253,
+        "total_gasto": 50230972.68
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 16,
-        "total_gasto": 2267543.07,
+        "num_contratos": 22,
+        "total_gasto": 2453023.07,
         "top_3_empresas": [
           "CATAO\nBONGIOVI COMERCIO E SERVICOS EIRELI"
         ],
@@ -240,8 +253,8 @@
       },
       "3": {
         "num_diarios": 15,
-        "num_contratos": 14,
-        "total_gasto": 1581417.0,
+        "num_contratos": 26,
+        "total_gasto": 2053185.51,
         "top_3_empresas": [
           "CAVALCANTE SOUTO ARTIGOS DE\n\nPAPELARIA LTDA"
         ],
@@ -251,9 +264,9 @@
         ]
       },
       "4": {
-        "num_diarios": 10,
-        "num_contratos": 17,
-        "total_gasto": 2575897.16,
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 2526028.16,
         "top_3_empresas": [
           "CT Nº 00033/2023",
           "CT Nº 00034/2023",
@@ -266,10 +279,15 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 41,
-        "total_gasto": 3777276.09,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 59,
+        "total_gasto": 4415311.09,
+        "top_3_empresas": [
+          "JONAS QUEIROZ\nDA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA A REALIZAÇÃO DE\nSHOW EM PRAÇA PÚBLICA ALUSIVAS AS COMEMORAÇÕES\nDO SÃO JOÃO \"FORROJÃO\" 2023 COM O SHOW DA BANDA\nFORRÓ DOS 3, COM RECONHECIMENTO PÚBLICO NOTÁVEL\nPARA A FESTA DO DIA 24 DE JUNHO DE 2023",
+          "CONTRATAÇÃO DE EMPRESA PARA A\nREALIZAÇÃO DE SHOW EM PRAÇA PÚBLICA ALUSIVAS AS\nCOMEMORAÇÕES DO SÃO JOÃO \"FORROJÃO\" 2023 COM O\nSHOW DA BANDA FORRÓ DOS 3, COM RECONHECIMENTO\nPÚBLICO NOTÁVEL PARA A FESTA DO DIA 24 DE JUNHO DE\n2023"
+        ]
       },
       "6": {
         "num_diarios": 9,
@@ -284,18 +302,24 @@
         ]
       },
       "7": {
-        "num_diarios": 11,
-        "num_contratos": 7,
-        "total_gasto": 761900.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 1630095.8,
+        "top_3_empresas": [
+          "A EMPRESA: TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI-",
+          "A EMPRESA:\n\nJOSÉ ROMERIO FERREIRA DE SOUSA/BERLIMP"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DA ESCOLA JOAQUIM JOVINO\n\nDE LIMA, NA COMUNIDADE DO LIVRAMENTO, MUNICÍPIO\n\nDE SÃO JOSÉ DE PRINCESA-PB",
+          "CONTRATAÇÃO DE EMPRESA PARA REALIZAÇÃO\n\nDOS SERVIÇOS DE DESMATAMENTO LATERAL/ROÇADA\n\nMANUAL DE ESTRADAS VICINAIS NO MUNICÍPIO DE SÃO\n\nJOSÉ DE PRINCESA - PB"
+        ]
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 7,
-        "total_gasto": 819679.22,
+        "num_contratos": 25,
+        "total_gasto": 7977827.989999999,
         "top_3_empresas": [
-          "NATIENE LEANDRO\n\nDA SILVA 10844541494"
+          "NATIENE LEANDRO\n\nDA SILVA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE SERVIÇOS DE COSTURAS E\n\nCONFECÇÕES DE ROUPAS DIVERSAS DESTINADAS AOS\n\nEVENTOS E PROJETOS DESENVOLVIDOS POR DIVERSAS\n\nSECRETARIAS, CONJUNTO COM AS UNIDADES ESCOLARES\n\nDA REDE MUNICIPAL DE EDUCAÇÃO, COSTURAS E\n\nCONFECÇÕES DE ROUPAS DO FARDAMENTO DA BANDA\n\nFILARMONICA DESTE MUNICIPIO"
@@ -303,8 +327,8 @@
       },
       "9": {
         "num_diarios": 11,
-        "num_contratos": 5,
-        "total_gasto": 838093.44,
+        "num_contratos": 11,
+        "total_gasto": 1174093.44,
         "top_3_empresas": [
           "- Meta Construções Locações e Serviços LTDA",
           "Construtora Apodi Eireli"
@@ -323,16 +347,16 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 11,
-        "num_contratos": 14,
-        "total_gasto": 3570838.02,
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 1117691.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 12,
-        "num_contratos": 4,
-        "total_gasto": 2014027.28,
+        "num_contratos": 26,
+        "total_gasto": 18457093.669999998,
         "top_3_empresas": [
           "CAVALCANTE\nSOUTO ARTIGOS DE PAPELARIA LTDA",
           "SETGRAF COMERCIO E SERVICOS LTDA"
@@ -346,8 +370,8 @@
     "2024": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 6,
-        "total_gasto": 3223056.87,
+        "num_contratos": 7,
+        "total_gasto": 5229276.87,
         "top_3_empresas": [
           "JULIA\n\nKAROLINE VERISSIMO DA COSTA"
         ],
@@ -357,24 +381,28 @@
       },
       "resumo": {
         "num_diarios": 113,
-        "num_contratos": 167,
-        "total_gasto": 26902294.12
+        "num_contratos": 289,
+        "total_gasto": 47556333.539999984
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 24,
-        "total_gasto": 3278034.75,
+        "num_contratos": 31,
+        "total_gasto": 4030135.73,
         "top_3_empresas": [
-          "CATAO BONGIOVI COMERCIO E\n\nSERVICOS EIRELI"
+          "CATAO BONGIOVI COMERCIO E\n\nSERVICOS EIRELI",
+          "RODRIGO MAIA ADVOCACIA",
+          "ELIANE DO\n\nNASCIMENTO CAMPOS ME"
         ],
         "top_3_objetos": [
-          "CONSTRUÇÃO DE CRECHE TIPO B PROJETO\n\nPADRÃO INTEGRA PARAÍBA, COM BASE NO PROOGRAMA\n\nPARAIBA INFANCIA"
+          "Contratação de empresa para prestação de serviços técnicos\n\nespecializados na área jurídica, visando à defesa dos interesses do\n\nMunicípio nas Ações que versam sobre a responsabilização por\n\nirregularidades na execução de convênios públicos, através do\n\ningresso da competente ação para suspensão de inadimplências, bem\n\ncomo nas demandas que tramitam na Cidade de João Pessoa,\n\nespecificamente nos Tribunais de Justiça do Estado da Paraíba, e\n\nTribunal Regional Federal da 5ª Região, com todas as medidas\n\njudiciais cabíveis, conforme o caso",
+          "CONSTRUÇÃO DE CRECHE TIPO B PROJETO\n\nPADRÃO INTEGRA PARAÍBA, COM BASE NO PROOGRAMA\n\nPARAIBA INFANCIA",
+          "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE EM\n\nGERAL PARA ATENDER AS NECESSIDADES DO MUNICÍPIO\n\nDE SÃO JOÃO DO RIO DO PEIXE–PB"
         ]
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 2319450.0,
+        "num_contratos": 10,
+        "total_gasto": 2576219.7199999997,
         "top_3_empresas": [
           ".\n\nDATA E ASSINATURA: São José de Princesa",
           "DANILO JOSE MARTINS DA SILVA\n\nCOMERCIO DE AUTO PEÇAS E PNEUS LTDA-ME",
@@ -386,8 +414,8 @@
       },
       "4": {
         "num_diarios": 13,
-        "num_contratos": 26,
-        "total_gasto": 4436190.5,
+        "num_contratos": 48,
+        "total_gasto": 9884502.790000001,
         "top_3_empresas": [
           "BRAV\n\nTRATORES LTDA",
           "NOVO HORIZONTE\n\nSERVICO DE TRANSPORTE DE PASSAGEIROS LTDA"
@@ -399,8 +427,8 @@
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 26,
-        "total_gasto": 3441169.1799999997,
+        "num_contratos": 39,
+        "total_gasto": 3939147.3299999996,
         "top_3_empresas": [
           "e\n\nEmpresa",
           "A EMPRESA:\n\nPAJEU ENTRETENIMENTO & LOCAÇÃO LTDA",
@@ -414,38 +442,45 @@
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 15,
-        "total_gasto": 3722899.63,
+        "num_contratos": 32,
+        "total_gasto": 5723550.54,
         "top_3_empresas": [
-          "R & S ENGENHARIA E CONSULTORIA\n\nEIRELI"
+          "R & S ENGENHARIA E CONSULTORIA\n\nEIRELI",
+          "ZÉ DE FREITAS R$ 15.000,00; JEFINHO\n\nATUALIZADO R$ 5.000,00; BANDA FARRA DE BAKANA R$\n\n25.000,00)\n\n\n\nSão João Rio do Peixe",
+          "A EMPRESA\n\nFLÁVIO AUTO PEÇAS LTDA-ME"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA\n\nPAVIMENTAÇÃO EM PARALELEPÍPEDO DAS RUAS\n\nPROJETADAS I E II LOCALIZADAS NA ZONA URBANA DO\n\nMUNICÍPIO DE SERRA REDONDA – PB",
-          "CONTRATAÇÃO DE SHOW ARTISTICO MUSICAL\n\nPARA FESTIVIDADES DO FORRÓ DO PADRE 2024, COM\n\nATRAÇÃO MUSICAL BOB LEO MERCADORIA NO DIA 28 DE\n\nJUNHO DE 2024"
+          "CONTRATAÇÃO DE SHOW ARTISTICO MUSICAL\n\nPARA FESTIVIDADES DO FORRÓ DO PADRE 2024, COM\n\nATRAÇÃO MUSICAL BOB LEO MERCADORIA NO DIA 28 DE\n\nJUNHO DE 2024",
+          "Contratação direta através de empresário exclusivo dos serviços\n\nartísticos de apresentação musical, dos artistas ZÉ DE FREITAS,\n\nJEFINHO ATUALIZADO, LUAN PAKERÔ E DA BANDA\n\nFARRA DE BAKANA, para exibição nas festividades do\n\n“FORROJÃO 2024” em praça pública na cidade de São João do Rio\n\ndo Peixe/PB"
         ]
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 1266645.02,
+        "num_contratos": 22,
+        "total_gasto": 1853361.6999999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 10,
-        "num_contratos": 6,
-        "total_gasto": 2029356.3,
+        "num_contratos": 28,
+        "total_gasto": 3393840.94,
         "top_3_empresas": [
-          ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Serra Redonda e: CT Nº 00066/2021 -\n\nPrestcontas Assessoria e Consultoria Em Gestao Empresarial e\n\nPublica Ltda"
+          ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Serra Redonda e: CT Nº 00066/2021 -\n\nPrestcontas Assessoria e Consultoria Em Gestao Empresarial e\n\nPublica Ltda",
+          "ELETROLUZ\n\nCOMERCIO DE MATERIAIS ELETRICOS EIRELI",
+          "DANILO JOSE MARTINS DA SILVA\n\nCOMERCIO DE AUTO PECAS E PNEUS LTDA-ME"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE EXCUÇÃO E\n\nCONTROLE EM PRESTAÇÃO DE CONTAS DOS CONVENIOS\n\nESTADUAIS E FEDERAIS, JUNTO AO SICONV, SUASWEB,\n\nSIGPC/FNDE, SIGPACTO/ESTADO E DEMAIS PRESTAÇÕES\n\nDE CONTAS FISICAS FUNASA, INTEGRAÇÃO, DNOCS,\n\nENTRE OUTRAS DESTE MUNICIPIO"
+          "AQUISIÇÃO DE PEÇAS PARA ATENDER AS\n\nNECESSIDADES DA FROTA VEICULAR DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE SÃO JOSÉ DE PRINCESA - PB",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE EXCUÇÃO E\n\nCONTROLE EM PRESTAÇÃO DE CONTAS DOS CONVENIOS\n\nESTADUAIS E FEDERAIS, JUNTO AO SICONV, SUASWEB,\n\nSIGPC/FNDE, SIGPACTO/ESTADO E DEMAIS PRESTAÇÕES\n\nDE CONTAS FISICAS FUNASA, INTEGRAÇÃO, DNOCS,\n\nENTRE OUTRAS DESTE MUNICIPIO",
+          "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\n\nDE SERVIÇOS DE IMPLANTAÇÃO DE 01 (UMA)\n\nSUBESTAÇÃO ELÉTRICA TRIFÁSICA AEREA DE 112,5 KVA\n\n380/220V, COM FORNECIMENTO E INSTALAÇÃO DE REDE\n\nDE DISTRIBUIÇÃO DE MÉDIA TENSÃO, INSTALAÇÃO DE\n\nREDE DE BAIXA TENSÃO, INSTALAÇÃO DE QUADROS DE\n\nDISTRIBUIÇÃO, INSTALAÇÃO DE INFRAESTRUTURA EM\n\nLETRODUTOS, SERVIÇO DE TRANSPORTE DE CAMINHÃO\n\nGUINDASTE (TIPO MUCK), ESCAVAÇÃO DE VALAS E\n\nIMPLANTAÇÃO DE POSTES NOVOS PARA ATENDER AO\n\nHOSPITAL CAP"
         ]
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 13,
-        "total_gasto": 1091586.3499999999,
+        "num_contratos": 19,
+        "total_gasto": 2412406.35,
         "top_3_empresas": [
           ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de São João do Rio do Peixe e: CT Nº\n\n00069/2023"
         ],
@@ -466,37 +501,37 @@
       },
       "11": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 1360345.0,
+        "num_contratos": 10,
+        "total_gasto": 1506905.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 13,
-        "num_contratos": 27,
-        "total_gasto": 669990.52,
+        "num_contratos": 41,
+        "total_gasto": 6943416.57,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 444,
-    "num_contratos": 481,
-    "total_gasto": 79238275.19,
+    "num_diarios": 434,
+    "num_contratos": 781,
+    "total_gasto": "150.223.129,88",
     "top_5_empresas": {
       ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Serra Redonda e: CT Nº 00066/2021 -\n\nPrestcontas Assessoria e Consultoria Em Gestao Empresarial e\n\nPublica Ltda": 2,
       "JOSEMAR CAMPOS SOUZA": 1,
+      "TORRES\nCONSTRUCOES LTDA": 1,
       "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTÃOEMPRESARIAL E PUBLICA\n\nLTDA": 1,
-      "ANTONIO FRANCISCO DE ARAUJO": 1,
-      "MARIA ADELINA DAS MERCÊS": 1
+      "ANTONIO FRANCISCO DE ARAUJO": 1
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE SERVIÇOS DE EXCUÇÃO E\n\nCONTROLE EM PRESTAÇÃO DE CONTAS DOS CONVENIOS\n\nESTADUAIS E FEDERAIS, JUNTO AO SICONV, SUASWEB,\n\nSIGPC/FNDE, SIGPACTO/ESTADO E DEMAIS PRESTAÇÕES\n\nDE CONTAS FISICAS FUNASA, INTEGRAÇÃO, DNOCS,\n\nENTRE OUTRAS DESTE MUNICIPIO": 2,
       "CONTRATAÇÃO DE SHOW ARTISITICO COM PINGO\nSANFONEIRO PARA EVENTUAL LIVE SOLIDARIA DA\nPAROQUIA SÃO PEDRO DE SERRA REDONDA/PB, NO DIA 29\nDE JUNHO DE 2021 A PARTIR DAS 20:00 HORAS": 1,
+      "CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA\nPARA MODERNIZAÇÃO DO GINÁSIO DE ESPORTES DESTE\nMUNICIPIO": 1,
       "CONTRATAÇÃO DE EMPRESA PARA\n\nPRESTAÇÃO DE SERVIÇOS DE CONSULTORIA PARA\n\nADEQUAÇÃO, E REVISÃO E OU REVOGAÇÃO PARCIAL\n\nOU TOTAL DO CÓDIGO TRIBUTÁRIO MUNICIPAL": 1,
-      "LOCAÇÃO DE IMOVEL SITUADO NA RUA 30 DE\n\nDEZEMBRO PARA FUNCIONAMENTO DE DUAS SALAS\n\nANEXO A DISPOSIÇÃO DA SECRETARIA DE EDUCAÇÃO": 1,
-      "LOCAÇÃO DE IMOVEL SITUADO NO SITIO\n\nQUEIMADAS AREA RURAL DISTRITAL, PARA\n\nFUNCIONAMENTO DO CAMPO DE FUTEBOL DO DISTRITO\n\nDE QUEIMADAS A DISPOSIÇÃO DA SECRETARIA DE\n\nESPORTES": 1
+      "LOCAÇÃO DE IMOVEL SITUADO NA RUA 30 DE\n\nDEZEMBRO PARA FUNCIONAMENTO DE DUAS SALAS\n\nANEXO A DISPOSIÇÃO DA SECRETARIA DE EDUCAÇÃO": 1
     }
   }
 }

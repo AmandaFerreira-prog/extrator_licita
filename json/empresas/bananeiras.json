@@ -1,0 +1,139 @@
+{
+  "id": "bananeiras",
+  "nome": "Bananeiras",
+  "detalhe": {
+    "2024": {
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 15,
+        "total_gasto": 1801043.8,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MANILHAS E CALHAS DE\n\nCONCRETO PARA SECRETARIA DE INFRAESTRUTURA\n\nDESTINADO AO MUNICÍPIO DE BANANEIRAS–PB",
+            "empresa": "FASE MATERIAIS ELETRICO E DE\n\nCONSTRUCAO EM GERAL",
+            "valor_total": "R$ 479,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 35,
+        "num_contratos": 65,
+        "total_gasto": 9792799.07
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 1151734.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FRUTAS E VERDURAS DESTINDO A\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE BANANEIRAS–\n\nPB",
+            "empresa": "52.255.496 MANOEL MESSIAS\n\nANSELMO DANTAS DA SILVA",
+            "valor_total": "R$ 114,934.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FRUTAS E VERDURAS DESTINDO A\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE BANANEIRAS–\n\nPB",
+            "empresa": "52.255.496 MANOEL MESSIAS\n\nANSELMO DANTAS DA SILVA",
+            "valor_total": "R$ 114,934.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 1895950.56,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA LOCAÇÃO COM MANUTENÇÃO PREVENTIVA E\n\nCORRETIVA E FORNECIMENTO DE REAGENTES PARA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 13\n\n\n\nREALIZAÇÃO DE EXAMES DE ANÁLISES CLÍNICAS, PARA\n\nSUPRIR AS NECESSIDADES DO LABORATÓRIO DESTE\n\nMUNICÍPIO, ATRAVÉS DA SECRETARIA MUNICIPAL DE\n\nSAÚDE DE BANANEIRAS",
+            "empresa": "INNOVA DIAGNOSTICA COMERCIO E\n\nREPRESENTACOES EIRELI",
+            "valor_total": "R$ 941,999.76"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 321005.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE\nEMPRESA ESPECIALIZADA PARA OS SERVIÇOS DE\n\nLOCAÇÃO, MONTAGEM E DESMONTAGEM DE ESTRUTURA\n\nPARA EVENTOS",
+            "empresa": "DENISE\n\nMOURA DO NASCIMENTO",
+            "valor_total": "R$ 321,005.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 5,
+        "total_gasto": 1281697.98,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO E\n\nMANUTENÇÃO MENSAL DE SISTEMA DE ADMINISTRAÇÃO\n\nTRIBUTÁRIA MUNICIPAL, COMPREENDENDO AS ÁREAS\n\nIMOBILIÁRIA, MOBILIÁRIA, NOTA FISCAL DE SERVIÇO\nELETRÔNICA, DECLARAÇÃO DIGITAL MENSAL DE\n\nSERVIÇO, ARRECADAÇÃO, FISCALIZAÇÃO, GERENCIAL,\n\nGERAL E DE SEGURANÇA DE SISTEMAS PARA SUBSIDIAR A\n\nARRECADAÇÃO DOS TRIBUTOS E TAXAS MUNICIPAIS",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Bananeiras e: CT Nº\n00117/2021 - Tinus Informática Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 973580.77,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE BISCOITO E SALGADOS PARA SUPRIR AS\n\nNECESSIDADES DE DIVERSAS SECRETÁRIAS DO\n\nMUNICÍPIO DE BANANEIRAS–PB",
+            "empresa": "MARIA DOS ANJOS ALEXANDRE DE\n\nLIMA",
+            "valor_total": "R$ 117,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE BISCOITO E SALGADOS PARA\n\nSUPRIR AS NECESSIDADES DE DIVERSAS SECRETÁRIAS DO\n\nMUNICÍPIO DE BANANEIRAS–PB",
+            "empresa": "MARIA DOS ANJOS ALEXANDRE DE\n\nLIMA",
+            "valor_total": "R$ 117,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 212500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DE SERVICOS DE COLETA, GERENCIAMENTO\n\nDE TRANSPORTE E TRATAMENTO DE RESIDUOS SOLIDOS\n\nPERIGOSOS POR DESTRUIÇÃO TERMICA (INCINERAÇÃO) E\n\nDESTINAÇÃO FINAL DAS CINZAS DOS RESIDUOS\n\nPROVENIENTES DOS SERVIÇOS DE SAÚDE DO MUNICIPIO\n\nDE BANANEIRAS–PB",
+            "empresa": "CRIL\n\nEMPREENDIMENTO AMBIENTAL LTDA",
+            "valor_total": "R$ 212,500.00"
+          },
+          {
+            "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA\n\nPRESTAÇÃO DE SERVIÇOS MÉDICOS PARA O HOSPITAL\n\nMUNICIPAL CLÓVIS BEZERRA, ATRAVÉS DE PLANTÕES\n\nMÉDICOS EM JORNADA DE 24 (VINTE E QUATRO) HORAS,\n\nSEMANAIS, FINAIS DE SEMANA (SÁBADOS E DOMINGOS) E\n\nFERIADOS, E DE ACORDO COM A NECESSIDADE DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE BANANEIRAS",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Bananeiras e:\n\nCT Nº 00247/2023 - Lbc Serviços Médicos Ltda - 1º Aditivo -\n\nprorroga o prazo por mais 12 meses. CT Nº 00248/2023 - Anne Lais\n\nRibeiro Teles Serviços Médicos - 1º Aditivo - prorroga o prazo por\n\nmais 12 meses. CT Nº 00249/2023 - Marcel Cavalcanti de\n\nAlbuquerque Freitas - 1º Aditivo - prorroga o prazo por mais 12\n\nmeses. CT Nº 00250/2023 - Marcio Cavalcanti de Albuquerque\n\nFreitas - 1º Aditivo - prorroga o prazo por mais 12 meses. CT Nº\n\n00251/2023 - Lh Serviços Médicos Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 432000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 23,
+        "total_gasto": 1723286.96,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÕES DE EMPRESAS DO SETOR\n\nARTÍSTICO PARA REALIZAÇÕES DE SHOWS PARA\n\nABRILHANTAR EVENTO FESTIVO EM COMEMORAÇÃO DA\n\nPADROEIRA DA CIDADE DE BANANEIRAS–PB, QUE SERÁ\n\nREALIZADO NOS DIAS 03, 04 E 05 DE JANEIRO DE 2024",
+            "empresa": "JEFFERSON BISMARCK ALVES SILVA -\n\nR$ 35.000,00; CT Nº 00314/2024 - 26.12.24 - GM MUSIC\n\nPRODUCOES E EVENTOS LTDA",
+            "valor_total": "R$ 40,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

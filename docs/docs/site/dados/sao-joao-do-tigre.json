@@ -5,15 +5,19 @@
     "2019": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 68501.95,
+        "top_3_empresas": [
+          "PAULA RIBEIRO DA\n\nSILVA-ME"
+        ],
+        "top_3_objetos": [
+          "REGISTRO DE PREÇO para fornecimento de materiais de\n\nexpediente e didáticos, destinados a manutenção de diversas\n\nsecretarias do Município de São José da Lagoa Tapada/PB"
+        ]
       },
       "resumo": {
         "num_diarios": 29,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 18,
+        "total_gasto": 715539.7999999999
       },
       "2": {
         "num_diarios": 1,
@@ -24,17 +28,29 @@
       },
       "3": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 25710.0,
+        "top_3_empresas": [
+          "MARIA NILZETE GOMES DA\n\nCOSTA (CPF nº 328.659.534-91);",
+          "JOÃO PINHEIROS GOMES",
+          "e Uermeson Dantas da Silva"
+        ],
+        "top_3_objetos": [
+          "serviços de Oficineiro\n\nde Corte, Costura e pintura de produtos de cama, mesa e banho a ser\n\nofertado para o grupo de mulheres (Elas á Luta) do CRAS; PERÍODO\n\nVIGENCIAL: 12 de março a 12 de julho de 2019; DOTAÇÃO\n\nORÇAMENTÁRIA: 02 14 08 244 0020 2081 - CRAS; ELEMENTO\n\nDE DESPESAS: 3.3.90.36.00 - O UTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA FÍSICA; FONTES:\n\n0.1.001/400.000;0.1.311/410.000;",
+          "Contratação gradativa de\n\nserviços funerários;"
+        ]
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 3,
+        "total_gasto": 166233.06,
+        "top_3_empresas": [
+          "EMPREITEIRA DE OBRAS CAICÓ\n\nLTDA",
+          "e José Alves Neto -\n\npela"
+        ],
+        "top_3_objetos": [
+          "execução dos serviços de Construção de\n\nprédio anexo ao Centro Municipal de Saúde para funcionamento\n\nde garagem da Secretaria Municipal de Saúde; VIGÊNCIA: termo\n\ninicial em cinco (05) dias após a ORDEM DE EXECUÇÃO DE\n\nSERVIÇOS e execução em noventa (90) dias;"
+        ]
       },
       "5": {
         "num_diarios": 1,
@@ -45,10 +61,14 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 7,
+        "total_gasto": 354709.69,
+        "top_3_empresas": [
+          "FARMAGUEDES\nCOMERCIO DE PRODUTOS FARMACEUTICOS, MEDICOS E\nHO"
+        ],
+        "top_3_objetos": [
+          "Registro de Preços para futura e eventual aquisição de\nmaterial odontológico, mediante solicitação periódica e entrega\nparcelada, em atendimento as demandas operacionais da Secretaria de\nSaúde deste Município"
+        ]
       },
       "7": {
         "num_diarios": 1,
@@ -59,8 +79,8 @@
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 76635.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -73,8 +93,8 @@
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 23749.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -89,29 +109,42 @@
     "2020": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 140000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 44,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 45,
+        "total_gasto": 2962770.2299999995
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 30,
+        "total_gasto": 2220086.27,
+        "top_3_empresas": [
+          "RUFINO &\nSILVA MERCADINHO E PAPELARIA LTDA",
+          "J ALVES DUTRA FILHO ME",
+          "e Karlyson Halyson\nSilva"
+        ],
+        "top_3_objetos": [
+          "REGISTRO DE PREÇOS para fornecimento diário e\nparcelado de material de limpeza destinado a atender as necessidades\nde diversas secretarias do município de São José da Lagoa Tapada-\nPB",
+          "Registro de Preço para possível\naquisição gradativa de baterias automotivas;",
+          "Registro de\nPreço para possível aquisição gradativa de baterias automotivas;"
+        ]
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 3,
+        "total_gasto": 217943.13,
+        "top_3_empresas": [
+          "MAN LATIN AMERICA INDÚSTRIA E\n\nCOMÉRCIO DE VEÍCULOS LTDA (CNPJ n° 06.020.318/0001-10);",
+          "e Adriana Cecconello"
+        ],
+        "top_3_objetos": [
+          "aquisição de aquisição de veículo de transporte escolar\n\ndiário de estudantes, denominado de Ônibus Rural Escolar (ORE);"
+        ]
       },
       "4": {
         "num_diarios": 2,
@@ -122,24 +155,40 @@
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 3,
+        "total_gasto": 265884.5,
+        "top_3_empresas": [
+          "MARCOS ANTONIO DANTAS",
+          "e Marcos Antônio Dantas",
+          "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA"
+        ],
+        "top_3_objetos": [
+          "Aquisição Gradativa de\n\nGêneros Alimentícios;",
+          "Aquisição Gradativa de Gêneros Alimentícios;",
+          "Aquisição\n\nGradativa de Gêneros Alimentícios;"
+        ]
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 80006.33,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "Contratação de serviços de Consultoria e Assessoria relativa\n\nàs áreas contábeis, financeiras e orçamentárias junto à Câmara\n\nMunicipal de São José da Lagoa Tapada-PB",
+          "Contratação de serviços de Assessoria técnica e Jurídica\n\njunto à Câmara Municipal de São José da Lagoa Tapada-PB"
+        ]
       },
       "7": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 1,
+        "total_gasto": 38850.0,
+        "top_3_empresas": [
+          "JOSELIA VERAS BRAGA",
+          "e Joselia Veras Braga"
+        ],
+        "top_3_objetos": [
+          "Contratação\n\ngradativa de refeições – almoço regional - acondicionadas em\n\nquentinhas.;"
+        ]
       },
       "10": {
         "num_diarios": 1,
@@ -159,64 +208,95 @@
     "2021": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 10,
+        "total_gasto": 738887.12,
+        "top_3_empresas": [
+          "DC DE ARAÚJO JUNIOR (CNPJ Nº\n08.175.043/0001-10);",
+          "e Davi Costa de Araújo Júnior",
+          "WITALO SARAIVA FARIAS"
+        ],
+        "top_3_objetos": [
+          "execução dos serviços de preparação\ne digitalização de documentos diversos; VIGÊNCIA: 01 de fevereiro\na 31 de dezembro de 2021;",
+          "execução\ndos serviços de lavagem dos veículos de grande porte e máquinas\npesadas que compõem a frota municipal; VIGÊNCIA: 01 de fevereiro\na 30 de novembro de 2021;",
+          "execução dos serviços de lavagem dos veículos de médio e pequeno\nporte que compõem a frota municipal; VIGÊNCIA: 01 de fevereiro a\n30 de novembro de 2021;"
+        ]
       },
       "resumo": {
-        "num_diarios": 75,
-        "num_contratos": 1,
-        "total_gasto": 4088.7
+        "num_diarios": 73,
+        "num_contratos": 47,
+        "total_gasto": 4359137.449999999
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 675042.6,
+        "top_3_empresas": [
+          "LUANA DANTAS COMERCIO\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\nEIRELI",
+          "e Edilson Bispo de Jesus"
+        ],
+        "top_3_objetos": [
+          "aquisição gradativa\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;"
+        ]
       },
       "3": {
-        "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 4088.7,
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 21088.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 343712.86,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 10,
+        "total_gasto": 926898.0,
+        "top_3_empresas": [
+          "CT Nº\n\n00026/2021 - 25.05.21 - HB AUTOPECAS COMERCIO DE PECAS\n\nE SERVICOS LTDA",
+          "SEMEA COMERCIO DE PECAS E SERVICOS PARA AUTOS\n\nLTDA",
+          "MARIA DO\n\nS. OLIVEIRA DE SIQUEIRA (CASA DO CAMINHONEIRO)"
+        ],
+        "top_3_objetos": [
+          "Registro de Preços para futura e eventual aquisição de\n\npeças para serem usadas nos veículos da frota pública do Município,\n\nconforme especificações técnicas constantes no termo de referência"
+        ]
       },
       "6": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 23875.0,
+        "top_3_empresas": [
+          "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+          "e João Eufrázio de Medeiros",
+          "RANIERE ARAÚJO DA SILVA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de\n\nEquipamentos de Proteção Individual  EPI‟S  para profissionais da\n\nsaúde nas ações de enfrentamento a covid 19; VIGÊNCIA: 17 de\n\njunho a 31 de dezembro de 2021; DOTAÇÃO ORÇAMENTÁRIA:\n\n02 13 10 122 0015 2093 0000 MANUTENÇÃO DO CENTRO DE\n\nATENDIMENTO AO COVID-19; Elemento de Despesa:\n\n3.3.90.30.00 MATERIAL DE CONSUMO; Fontes: 2\n\n0.1.214/340.214; 2 0.2.214/341.214/ Dotação Orçamentária: 02 13 10\n\n122 0015 2104 0000 MANUTENÇÃO DA SECRETARIA\n\nMUNICIPAL DE SAÚDE; Elemento de Despesa: 3.3.90.30.00\n\nMATERIAL DE CONSUMO; Fontes: 2 0.1.530/300.530; 2\n\n0.1.211/300.211/ Dotação Orçamentária: 02 13 10 122 0051 2011\n\n0000 MANUTENÇÃO DA ATENÇÃO ESPECIALIZADA EM\n\nSAÚDE AO EM; Elemento de Despesa: 3.3.90.30.00 MATERIAL\n\nDE CONSUMO; Fontes: 2 0.1.211/340.211; 2 0.1.214/340.214/\n\nDotação Orçamentária: 02 13 10 301 0048 2036 0000\n\nMANUTENÇÃO DAS UNIDADES BÁSICA DE SAÚDE – UBS;\n\nElemento de Despesa: 3.3.90.30.00 MATERIAL DE CONSUMO;\n\nFontes: 2 0.1.211/300.211; 3 2 0.1.214/300.214; 2 0.1.211/300.250/\n\nDotação Orçamentária: 02 13 10 301 0048 2097 0000 PROGRAMA\n\nSAÚDE NA ESCOLA – PSE; Elemento de Despesa: 3.3.90.30.00\n\nMATERIAL DE CONSUMO; Fonte: 2 0.1.214/300.214/ Dotação\n\nOrçamentária: 02 13 10 301 0048 2102 0000 MANUTENÇÃO DO\n\nPROGRAMA SAÚDE BUCAL; Elemento de Despesa: 3.3.90.30.00\n\nMATERIAL DE CONSUMO; Fonte: 2 0.1.214/300.214/ Dotação\n\nOrçamentária: 02 13 10 301 0048 2109 0000 MANUTENÇÃO DO\n\nPACS - AGENTES COM",
+          "execução\n\ndos serviços de fotografia e filmagem, para registro audiovisual de\n\nações das diversas Secretarias da Prefeitura Municipal de São José do\n\nBrejo do Cruz/PB; VIGÊNCIA: termo inicial na data da subscrição e\n\ntermo final em seis (06) meses;"
+        ]
       },
       "7": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 963375.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 1,
+        "total_gasto": 168365.9,
+        "top_3_empresas": [
+          "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+          "e\n\nJoão Eufrázio de Medeiros"
+        ],
+        "top_3_objetos": [
+          "Aquisição\n\ngradativa de material de uso hospitalar;"
+        ]
       },
       "9": {
         "num_diarios": 4,
@@ -227,20 +307,20 @@
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 453071.27,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 44821.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -250,41 +330,49 @@
     "2022": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1205740.1800000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 89,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 88,
+        "num_contratos": 64,
+        "total_gasto": 7124497.77
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 13,
+        "total_gasto": 2053967.22,
+        "top_3_empresas": [
+          "BOM JESUS COMÉRCIO DE\n\nCOMBUSTÍVEIS LTDA (CNPJ nº 12.231.572/0001-60);",
+          "e\n\nPaulo Cesar Galdino dos Santos",
+          "LICITAR COMERCIO E SERVICO\n\nEIRELI"
+        ],
+        "top_3_objetos": [
+          "Aquisição gradativa de gasolina comum;",
+          "Aquisição gradativa\n\nde materiais e equipamentos de informática;",
+          "Aquisição gradativa de materiais e equipamentos de informática;"
+        ]
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 407249.29,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 64476.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 1137123.1099999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -297,22 +385,22 @@
       },
       "7": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 380815.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 59308.14,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 104801.43,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -332,8 +420,8 @@
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 1711016.7000000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -341,153 +429,201 @@
     "2023": {
       "1": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 25,
+        "total_gasto": 3043336.9899999998,
+        "top_3_empresas": [
+          "JORGE CARLOS DE OLIVEIRA",
+          "LUANA DANTAS COMERCIO\n\nVAREJISTA DE PEÇAS PARA VEÍCULOS AUTOMOTORES\n\nEIRELI",
+          "e Edilson Bispo de Jesus"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para fornecimento diário e\n\nparcelado de gêneros alimentícios, destinado a atender as\n\nnecessidades de diversas secretarias do município de São José da\n\nLagoa Tapada–PB",
+          "aquisição gradativa de material de\n\nconstrução;",
+          "Aquisição gradativa\n\nde pneus, câmaras de ar e protetores certificados pelo IN METRO;"
+        ]
       },
       "resumo": {
-        "num_diarios": 145,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 143,
+        "num_contratos": 139,
+        "total_gasto": 12470039.790000001
       },
       "2": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 13,
+        "num_contratos": 27,
+        "total_gasto": 2480373.9800000004,
+        "top_3_empresas": [
+          "EMANUEL GOMES FERNANDES",
+          "e\n\nEmanuel Gomes Fernandes",
+          "MEDEIROS & FERNANDES\n\nARTIGOS ESPORTIVOS LTDA (CNPJ Nº 36.342.832/0001-33);"
+        ],
+        "top_3_objetos": [
+          "execução\n\ndos serviços locação de equipamentos para as festividades populares;\n\nVIGÊNCIA: 23 de fevereiro de 2023 a 31 de maio de 2023;",
+          "aquisição gradativa de material esportivo; VIGÊNCIA:\n\n23 de fevereiro de 2023 a 31 de dezembro 2023;",
+          "execução dos serviços\n\ndesinsetização, desratização e descupinização a serem realizados nas\n\náreas internas e externas dos prédios públicos; VIGÊNCIA: 23 de\n\nfevereiro a 31 de dezembro de 2023;"
+        ]
       },
       "3": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 20,
+        "total_gasto": 1628492.52,
+        "top_3_empresas": [
+          "PRONTOMENDES",
+          "CENTER DENT SERVIÇO DE PROTESE\n\nDENTARIA LTDA",
+          "TOP PEÇAS LTDA"
+        ],
+        "top_3_objetos": [
+          "Credenciamento, seleção e possível Contratação de\n\nprestadores de serviços para realização de procedimentos laboratoriais\n\nrelacionados à confecção e fornecimento personalizado de próteses\n\ntotais mandibulares e maxilares, próteses parciais removíveis\n\nmandibulares e maxilares",
+          "aquisição gradativa de lubrificantes,\n\naditivos e água destilada;",
+          "aquisição gradativa de lubrificantes, aditivos e água destilada;"
+        ]
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 663338.4400000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1000085.83,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1228003.88,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 1747486.9400000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 220689.58000000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 72930.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 67668.64,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 305632.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2024": {
       "1": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 4165746.65,
+        "top_3_empresas": [
+          "FARMAGUEDES - COMERCIO DE\n\nPRODUTOS FARMACEUTICOS MEDICOS E HOSPITALARES\n\nLTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de Medicamentos Psicotrópicos, constantes da\n\nLista de Medicamentos os quais constituem itens vitais para a\n\nmanutenção das atividades desenvolvidas pelo centro cirúrgico do\n\nmunicípio de são José da lagoa tapada/PB"
+        ]
       },
       "resumo": {
-        "num_diarios": 92,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 90,
+        "num_contratos": 73,
+        "total_gasto": 15486287.51
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 3565561.1100000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 2,
+        "total_gasto": 408778.0,
+        "top_3_empresas": [
+          "EMANOEL GOMES FERREIRA"
+        ],
+        "top_3_objetos": [
+          "Contratação de pessoa jurídica especializada em prestação\n\nde serviços de manutenção preventiva e corretiva do sistema de\n\nmonitoramento de segurança eletrônica do município de são José da\n\nlagoa tapada/PB"
+        ]
       },
       "4": {
-        "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 816528.9700000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 4926453.53,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 14,
+        "total_gasto": 802325.15,
+        "top_3_empresas": [
+          "ARAUJO ASSESSORIA, CONSULTORIA E\n\nSERVICOS JURIDICOS LTDA",
+          "LEONARDO MATIAS LEITE",
+          "LELEKA PRODUCOES E LOCACOES EIRELI"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para prestação de serviço técnico\n\nde terceiros, pessoa jurídica, com à finalidade de desempenhar\n\nmonitoramento, planejamento, avaliação e orientação do\n\ngerenciamento das políticas públicas de assistência social e assessoria\njurídica, no âmbito dos serviços, programas e gestão do suas, no\n\nmunicípio de são José da lagoa tapada/PB",
+          "Contratação de empresa especializada em prestação de\n\nserviço de marketing digital, para atender as necessidades da\n\nprefeitura municipal de são José da lagoa tapada/PB",
+          "Contratação de serviços de locação de estrutura (som,\n\niluminação), para as festividades Juninas do Município de São José da\n\nLagoa Tapada/PB"
+        ]
       },
       "7": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 5,
+        "total_gasto": 164000.0,
+        "top_3_empresas": [
+          "VAGNER RANGEL\n\nROCHA",
+          "FILHOS DA LUZ\n\nCOMUNICACOES LTDA",
+          "SFDZ PRODUCOES\n\nLTDA"
+        ],
+        "top_3_objetos": [
+          "Locação de imóvel que fica localizado na rua Francisca\n\ntomaz da silva, centro, são José da lagoa tapada, para atender\n\nfuncionamento da secretaria de cultura e turismo, do município de são\n\nJosé da lagoa tapada/PB",
+          "Contratação de show artístico do PADRE NILSON\n\nNUNES E BANDA, no dia 26 de julho de 2024 em praça pública,\n\nevento comemorativo aos 65 anos de emancipação política de são José\n\nda lagoa tapada/PB",
+          "Contratação de show artístico da (DJ DEB LIMA), no dia\n\n27 de julho de 2024 em praça pública, evento comemorativo aos 65\n\nanos de emancipação política de são José da lagoa tapada/PB"
+        ]
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 550993.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -507,10 +643,14 @@
       },
       "11": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 1,
+        "total_gasto": 85901.1,
+        "top_3_empresas": [
+          "CONSTRUTORA LCL LTDA"
+        ],
+        "top_3_objetos": [
+          "Reforma da Escola Municipal de ensino fundamental Iraci\nPereira de Sousa, objetivos a construção de muro de divisa,\nassentamento de janelas em todas as salas enclausuradas, pintura geral\ninterna e externa, mudança de layout para melhorar o espaço das salas\nde aula e administração, renovação dos banheiros de alunos, com\ninclusão de chuveiros e ducha higiênica, construção de um banheiro\npara funcionários, ampliação da cozinha com construção de despensa\nde utensílios e mantimentos, nivelamento do p"
+        ]
       },
       "12": {
         "num_diarios": 5,
@@ -522,10 +662,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 474,
-    "num_contratos": 1,
-    "total_gasto": 4088.7,
-    "top_5_empresas": {},
-    "top_5_objetos": {}
+    "num_diarios": 467,
+    "num_contratos": 386,
+    "total_gasto": "43.118.272,55",
+    "top_5_empresas": {
+      "e Edilson Bispo de Jesus": 2,
+      "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA": 2,
+      "PAULA RIBEIRO DA\n\nSILVA-ME": 1,
+      "MARIA NILZETE GOMES DA\n\nCOSTA (CPF nº 328.659.534-91);": 1,
+      "JOÃO PINHEIROS GOMES": 1
+    },
+    "top_5_objetos": {
+      "REGISTRO DE PREÇO para fornecimento de materiais de\n\nexpediente e didáticos, destinados a manutenção de diversas\n\nsecretarias do Município de São José da Lagoa Tapada/PB": 1,
+      "serviços de Oficineiro\n\nde Corte, Costura e pintura de produtos de cama, mesa e banho a ser\n\nofertado para o grupo de mulheres (Elas á Luta) do CRAS; PERÍODO\n\nVIGENCIAL: 12 de março a 12 de julho de 2019; DOTAÇÃO\n\nORÇAMENTÁRIA: 02 14 08 244 0020 2081 - CRAS; ELEMENTO\n\nDE DESPESAS: 3.3.90.36.00 - O UTROS SERVIÇOS DE\n\nTERCEIROS - PESSOA FÍSICA; FONTES:\n\n0.1.001/400.000;0.1.311/410.000;": 1,
+      "Contratação gradativa de\n\nserviços funerários;": 1,
+      "execução dos serviços de Construção de\n\nprédio anexo ao Centro Municipal de Saúde para funcionamento\n\nde garagem da Secretaria Municipal de Saúde; VIGÊNCIA: termo\n\ninicial em cinco (05) dias após a ORDEM DE EXECUÇÃO DE\n\nSERVIÇOS e execução em noventa (90) dias;": 1,
+      "Registro de Preços para futura e eventual aquisição de\nmaterial odontológico, mediante solicitação periódica e entrega\nparcelada, em atendimento as demandas operacionais da Secretaria de\nSaúde deste Município": 1
+    }
   }
 }

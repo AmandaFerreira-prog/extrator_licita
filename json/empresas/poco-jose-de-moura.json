@@ -1,0 +1,27 @@
+{
+  "id": "poco-jose-de-moura",
+  "nome": "Poço José de Moura",
+  "detalhe": {
+    "2024": {
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

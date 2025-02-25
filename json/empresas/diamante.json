@@ -1,0 +1,706 @@
+{
+  "id": "diamante",
+  "nome": "Diamante",
+  "detalhe": {
+    "2020": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 430266.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para\nexecução dos serviços de engenharia na Construção de um Ginásio de\nEsportes, na Rua Laura da Costa Mangueira, visando atender as\nnecessidades da Rede de Ensino Municipal do Município de Diamante\n- PB, através do Convênio nº 0454/2019/SEECT/PB/PMD/PB,",
+            "empresa": "SOMOS CONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 430,266.74"
+          },
+          {
+            "objeto": "Contratação de empresa para\nexecução dos serviços de engenharia na Construção de um Ginásio de\nEsportes, na Rua Laura da Costa Mangueira, visando atender as\nnecessidades da Rede de Ensino Municipal do Município de Diamante\n- PB, através do Convênio nº 0454/2019/SEECT/PB/PMD/PB,",
+            "empresa": ".\n\nDiamante",
+            "valor_total": "R$ 430,266.74"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 796348.49
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 366081.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\nengenharia na pavimentação em paralelepípedo, assentado em colchão\nde areia rejuntado com cimento em diversas Ruas da sede do\nmunicípio quais sejam: Rua Professor José Marques, Av",
+            "empresa": "OBRAPLAN EMPRESA DE LIMPEZA E\nCONSERVACAO URBANA LTDA",
+            "valor_total": "R$ 262,119.75"
+          },
+          {
+            "objeto": "Contratação de empresa para execução dos serviços de\nengenharia na pavimentação em paralelepípedo, assentado em colchão\nde areia rejuntado com cimento em diversas Ruas da sede do\nmunicípio quais sejam: Rua Professor José Marques, Av",
+            "empresa": ".\n\nDiamante",
+            "valor_total": "R$ 262,119.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 54,
+        "num_contratos": 1,
+        "total_gasto": 150000.0
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 150000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 211200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestar serviços de\n\ncorte de terra no Município De Emas–PB",
+            "empresa": "MARIA LIANI LEONARDO",
+            "valor_total": "R$ 91,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 95,
+        "num_contratos": 20,
+        "total_gasto": 2276944.9299999997
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 1111442.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRESTADORA DE\nSERVIÇOS PARA REALIZAÇÃO DE EXAMES\nLABORATORIAIS, PARA À EXECUÇÃO DOS SERVIÇOS DE\nACORDO COM A DEMANDA DE EXAMES, DESTINADOS A\nSECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICIPIO DE\nEMAS–PB",
+            "empresa": "POLICLINICA POPULAR PATOENSE LTDA",
+            "valor_total": "R$ 419,712.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PRESTADORA DE\nSERVIÇOS PARA REALIZAÇÃO DE EXAMES\nLABORATORIAIS, PARA À EXECUÇÃO DOS SERVIÇOS DE\nACORDO COM A DEMANDA DE EXAMES, DESTINADOS A\nSECRETÁRIA MUNICIPAL DE SAÚDE DO MUNICIPIO DE\nEMAS–PB",
+            "empresa": "UDI PATOS SERVICOS E PRODUTOS\nMEDICOS LTDA",
+            "valor_total": "R$ 419,712.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\nDE UNIFORMES DESTINADOS AOS MEREDEIROS LOTADAS\nNAS ESCOLAS DA REDE MUNICIPAL DE ENSINO DO\nMUNICIPIO DE EMAS–PB",
+            "empresa": "UZE BRINDES E UNIFORMES\nLTDA",
+            "valor_total": "R$ 35,750.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\nDE UNIFORMES DESTINADOS AOS MEREDEIROS LOTADAS\nNAS ESCOLAS DA REDE MUNICIPAL DE ENSINO DO\nMUNICIPIO DE EMAS–PB",
+            "empresa": "VINICK\nJUAZEIRO FARDAMENTOS LTDA",
+            "valor_total": "R$ 35,750.00"
+          },
+          {
+            "objeto": "Contratação empresa (FARMÁCIA) para fornecimento de\nmedicamentos que não constam na farmácia básica deste município,\npara doação a pessoas carentes do município de Emas –PB",
+            "empresa": "SANDRA MARIA VENANCIO DOS SANTOS",
+            "valor_total": "R$ 655,980.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 5700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 64539.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 55430.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "FARMAGUEDES COMERCIO DE\n\nPRODUTOS FARMACEUTICOS, MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED T/A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\n\nMEDICO HOSPITALARES LTDA - ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "T.F. ALEXANDRE DISTRIBUIDORA DE\n\nMEDICAMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de material odontológico, destinados\n\nas Unidades de Saúde, vinculados aos programas, Fundo Municipal de\n\nSaúde e Secretaria de Saúde do município de Diamante/PB, até 31 de\n\ndezembro de 2022, dentro dos prazos e normas da Lei 10.520 de julho\n\nde 2002 e o Decreto Regulamentar Federal n° 10.024 de setembro de\n\n2019",
+            "empresa": "IN-DENTAL PRODUTOS MEDICOS E\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 311034.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 517599.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para a realização de\n\nserviços de execução e controle de prestações de contas dos convênios\n\nfederais e estaduais, junto a Plataforma Novo Mais Brasil,\n\nSUASWEB, SIGPC/FNDE, SGIPACTO/ESTADO e demais\n\nprestações de contas físicas Funasa, Integração, Dnocs, entre outras\n\ndeste município de Diamante/PB, que obedecerá às disposições da lei\n\nfederal nº 10.520, de 17/01/2002, aplicando-se, subsidiariamente, no\n\ncouber, a lei 8.666, de 21/06/93, com suas alterações posteriores",
+            "empresa": "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTÃO EMPRESARIAL E PÚBLICA\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em serviço de\n\nlocação de palco tipo II, sonorização, tipo II, gerador de 180kva e\n\nbanheiros químicos para a festa de emancipação do município de\n\nDiamante/PB, que obedecerá às disposições da Lei Federal nº 10.520,\n\nde 17/01/2002, Lei Complementar 123, de 14 de dezembro de 2006,\n\naplicando-se, subsidiariamente, no couber, a Lei 8.666, de 21/06/93 e\n\n10.520/2002, com suas alterações posteriores",
+            "empresa": "K E SERVICOS & ORGANIZACAO DE\n\nEVENTOS EIRELI–",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 24,
+        "total_gasto": 1636026.8399999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 521300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 116416.33,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação e fretamento de veículo do tipo (Van e\n\ncaminhoneta cabine dupla) com condutor para transportes de\n\nestudantes e professores da rede pública, da segunda as sextas feira,\n\naté 31 de dezembro de 2023, que obedecerá às disposições da Lei\n\nFederal nº 10.520, de 17/01/2002, o Decreto Regulamentar n° 10.024\n\nde setembro de 2019, aplicando-se, subsidiariamente, no couber, a Lei\n\n8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "ANTÔNIO NOGUEIRA DE FRANÇA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação e fretamento de veículo do tipo (Van e\n\ncaminhoneta cabine dupla) com condutor para transportes de\n\nestudantes e professores da rede pública, da segunda as sextas feira,\n\naté 31 de dezembro de 2023, que obedecerá às disposições da Lei\n\nFederal nº 10.520, de 17/01/2002, o Decreto Regulamentar n° 10.024\n\nde setembro de 2019, aplicando-se, subsidiariamente, no couber, a Lei\n\n8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "JOSÉ FELIX DE LIMA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 107499.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 85342.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 68872.52,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de peças (1ª linha) para veículos\n\nautomotores e maquinas, usadas para manutenção preventiva e\n\ncorretiva da frota, que obedecerá às disposições da Lei Federal nº\n\n10.520, de 17/01/2002, o Decreto Regulamentar n° 10.024 de\n\nsetembro de 2019, aplicando-se, subsidiariamente, no couber, a Lei\n\n8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "GRANPECAS - COMERCIO E\n\nDISTRIBUICAO DE PECAS, RETIFICA E SERVICOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de peças (1ª linha) para veículos\n\nautomotores e maquinas, usadas para manutenção preventiva e\n\ncorretiva da frota, que obedecerá às disposições da Lei Federal nº\n\n10.520, de 17/01/2002, o Decreto Regulamentar n° 10.024 de\n\nsetembro de 2019, aplicando-se, subsidiariamente, no couber, a Lei\n\n8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "GIPAGEL AUTO PECAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de peças (1ª linha) para veículos\n\nautomotores e maquinas, usadas para manutenção preventiva e\n\ncorretiva da frota, que obedecerá às disposições da Lei Federal nº\n\n10.520, de 17/01/2002, o Decreto Regulamentar n° 10.024 de\n\nsetembro de 2019, aplicando-se, subsidiariamente, no couber, a Lei\n\n8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "CICERO RODRIGUES DA SILVA (AUTO\n\nPECAS RODRIGUES)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 50586.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa visando a execução de obra na\n\nimplantação de pavimentação em vias publicas urbanas no município\n\nde Diamante – PB, através do Contrato de Repasse nº 1054437-\n\n70/SICONV Nº 868529 e contra partida do município, em\n\nconformidade com a Lei nº 8.666, de 21 de junho de 1.993 e\n\nalterações posteriores\n\nRECURSOS: Próprios e/ou Programas e convênios",
+            "empresa": "M T PROJETOS E SERVIÇOS DE\n\nENGENHARIA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Construção de complexo esportivo no município de\n\nDiamante-PB, através do programa esporte, cidadania e\n\ndesenvolvimento, sob o Contrato de Repasse nº 1083800-33/SICONV\n\nNº 930623/2022e contra partida do município, de acordo com o edital\n\nrespectivo e a lei 8.666/93 e alterações posteriores",
+            "empresa": "FAJ CONSTRUTORA EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 686009.95,
+        "empresas_mensais": [
+          {
+            "objeto": "A Contratação de empresa para operacionalização do\nsistema de contabilidade, a fim de suprir as necessidades da Prefeitura\nMunicipal de Diamante-PB em conformidade com o Artigo 24, inciso\nII, da Lei 8.666, de 21 de junho de 1993 e suas alterações posteriores",
+            "empresa": "WAGNER SANTANA DA SILVA",
+            "valor_total": "R$ 18,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 691632.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 119,
+        "num_contratos": 40,
+        "total_gasto": 3619524.72
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 1152011.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 25000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "A aquisição de material permanente para atender as\nnecessidades do município de Diamante – PB, que obedecerá às\ndisposições do art",
+            "empresa": "RODRIGO INACIO DE ARAUJO GOMES\nME (RD MOVEIS)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "A aquisição de carteira escolar universitária para suprir a\nnecessidade da secretaria de educação do município de Diamante-PB,\nque obedecerá às disposições do art",
+            "empresa": "DIVINA COMERCIO DE MOVEIS E\nEQUIPAMENTOS PARA ESCRITORIO LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 637533.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 10195.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação De Serviços De Motorista Para Manutenção\n\nDas Atividades Da Secretaria De Transporte E Trânsito Do Município\n\nDe Emas–PB",
+            "empresa": "EXPEDITO DANIEL DA SILVA",
+            "valor_total": "R$ 10,195.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 584772.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 120362.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 97700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 9200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 3562.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 287555.33,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de empresa\n\nespecializada para prestação de serviços mecânicos para suprir a\n\nnecessidade da frota do município de Diamante/PB, que obedecerá às\n\ndisposições, da Lei Federal nº14.133 de 01 de abril de 2021",
+            "empresa": "SUELITON LOPES",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

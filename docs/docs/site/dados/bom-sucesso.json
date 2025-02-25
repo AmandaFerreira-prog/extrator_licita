@@ -4,14 +4,14 @@
   "detalhe": {
     "2022": {
       "10": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 1,
         "total_gasto": 15600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 26,
+        "num_diarios": 25,
         "num_contratos": 9,
         "total_gasto": 1403623.81
       },
@@ -39,16 +39,16 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 131,
-        "num_contratos": 135,
-        "total_gasto": 17076726.46
+        "num_diarios": 130,
+        "num_contratos": 143,
+        "total_gasto": 19164167.779999997
       },
       "2": {
         "num_diarios": 15,
         "num_contratos": 41,
         "total_gasto": 5296374.6899999995,
         "top_3_empresas": [
-          "JOAO PAULO HENRIQUE DE ALMEIDA\n12029760420"
+          "JOAO PAULO HENRIQUE DE ALMEIDA"
         ],
         "top_3_objetos": [
           "Contratação de empresas Regionais para o fornecimento\n\nparcelado de KITS DE ENXOVAL, visando atender as necessidades\nda Secretaria Municipal de Assistência Social do município de Bom\n\nSucesso/PB, conforme termo de referencia"
@@ -56,8 +56,8 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 23,
-        "total_gasto": 2216212.79,
+        "num_contratos": 25,
+        "total_gasto": 3786168.39,
         "top_3_empresas": [
           "RAMON C MONTEIRO LTDA"
         ],
@@ -79,7 +79,7 @@
         ]
       },
       "5": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 9,
         "total_gasto": 1107274.12,
         "top_3_empresas": [
@@ -118,8 +118,8 @@
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 9,
-        "total_gasto": 1085991.3699999999,
+        "num_contratos": 15,
+        "total_gasto": 1603477.0899999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -162,8 +162,8 @@
       },
       "resumo": {
         "num_diarios": 154,
-        "num_contratos": 150,
-        "total_gasto": 29346395.749999996
+        "num_contratos": 151,
+        "total_gasto": 29630451.749999996
       },
       "2": {
         "num_diarios": 9,
@@ -209,8 +209,8 @@
       },
       "6": {
         "num_diarios": 15,
-        "num_contratos": 26,
-        "total_gasto": 5406559.74,
+        "num_contratos": 27,
+        "total_gasto": 5690615.74,
         "top_3_empresas": [
           "WJE\nENGENHARIA E CONSTRUCAO LTDA"
         ],
@@ -277,11 +277,11 @@
     }
   },
   "resumo": {
-    "num_diarios": 311,
-    "num_contratos": 294,
-    "total_gasto": 47826746.02,
+    "num_diarios": 309,
+    "num_contratos": 303,
+    "total_gasto": "50.198.243,34",
     "top_5_empresas": {
-      "JOAO PAULO HENRIQUE DE ALMEIDA\n12029760420": 1,
+      "JOAO PAULO HENRIQUE DE ALMEIDA": 1,
       "RAMON C MONTEIRO LTDA": 1,
       "HILDERLAN DE SA V\n\nDA SILVA": 1,
       "FRANCISCA\n\nADELIA FORMIGA BARRADO": 1,

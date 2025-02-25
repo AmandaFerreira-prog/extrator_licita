@@ -1,0 +1,547 @@
+{
+  "id": "livramento",
+  "nome": "Livramento",
+  "detalhe": {
+    "2021": {
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 440950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 69,
+        "total_gasto": 6435080.5
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 130476.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 259635.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 19,
+        "total_gasto": 1690429.1799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 104623.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 23,
+        "total_gasto": 1296949.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 1749850.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB",
+            "empresa": "AGNUS COMERCIO DE MAQUINAS E\n\nEQUIPAMENTOS EIRELI.",
+            "valor_total": "R$ 17,150.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB",
+            "empresa": "JB CARDOSO SERVIÇO E TRANSPORTE\n\nLTDA.",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB",
+            "empresa": "NEVALTO DE SOUSA PEREIRA",
+            "valor_total": "R$ 106,570.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB",
+            "empresa": "NOVA CONQUISTA COMÉRCIO DE\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 200,189.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB",
+            "empresa": "AUDIOFRAHM INDUSTRIA E COMERCIO\n\nDE ELETROELETRONICOS EIRELI.",
+            "valor_total": "R$ 2,758.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB",
+            "empresa": "GASKAM COMERCIO E CONSTRUCAO\n\nCIVIL EIRELI",
+            "valor_total": "R$ 8,555.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB",
+            "empresa": "JOSIVAN MELQUIADES NOBREGA",
+            "valor_total": "R$ 35,077.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB",
+            "empresa": "REDE DE NEGÓCIOS EM TECNOLOGIA\n\nLTDA-ME",
+            "valor_total": "R$ 5,040.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB",
+            "empresa": "JOSIVAN MELQUIADES NOBREGA",
+            "valor_total": "R$ 110,788.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB",
+            "empresa": "JOSIVAN MELQUIADES NOBREGA",
+            "valor_total": "R$ 110,788.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB",
+            "empresa": "JOSIVAN MELQUIADES NOBREGA",
+            "valor_total": "R$ 110,788.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB",
+            "empresa": "JOSIVAN MELQUIADES NOBREGA",
+            "valor_total": "R$ 110,788.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 66310.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 695856.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 87,
+        "num_contratos": 11,
+        "total_gasto": 1851774.22
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 97500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 551345.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamento e material permanente para\n\nunidade básica de saúde ESF III Dr",
+            "empresa": "MULTFORTE COMERCIO E SUPRIMENTOS DE\nINFORMATICA LTDA",
+            "valor_total": "R$ 3,685.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 275093.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 364887.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 98739.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 403065.77,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais\n\ndescartáveis para atender a demanda das diversas secretárias deste\n\nmunicípio, conforme termo de referência",
+            "empresa": "Jairo Aldafran da Silva Moraes-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais\n\ndescartáveis para atender a demanda das diversas secretárias deste\n\nmunicípio, conforme termo de referência",
+            "empresa": "R$ 47.237,75\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 3\n\n\n\n(quarenta e sete mil, duzentos e trinta e sete reais, setenta e cinco\n\ncentavos).",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais\n\ndescartáveis para atender a demanda das diversas secretárias deste\n\nmunicípio, conforme termo de referência",
+            "empresa": "Jairo Aldafran da Silva Moraes-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais\n\ndescartáveis para atender a demanda das diversas secretárias deste\n\nmunicípio, conforme termo de referência",
+            "empresa": "R$ 47.237,75\n\n(quarenta e sete mil, duzentos e trinta e sete reais, setenta e cinco\n\ncentavos).",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços na realização de 01\n(um) Show dos cantores “Iguinho e Lulinha”, no dia 13 de dezembro\nde 2022, com duração mínima de 01h:40min (uma hora e quarenta\nminutos), em via pública, dentro das festividades da Tradicional Festa\nde Emancipação Política do Município de Livramento-PB",
+            "empresa": "I L Shows Ltda-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de 01\n(um) Show dos cantores “Iguinho e Lulinha”, no dia 13 de dezembro\nde 2022, com duração mínima de 01h:40min (uma hora e quarenta\nminutos), em via pública, dentro das festividades da Tradicional Festa\nde Emancipação Política do Município de Livramento-PB",
+            "empresa": "R$ 80.000,00 (oitenta mil reais), pelo uma única\napresentação). Vigência: Será Até 30/03/2023, podendo ser\nprorrogado por iguais períodos, caso seja necessário. Recurso:\nPróprios da Prefeitura de Livramento, diversos e custeio (500 e 669).\nForma de pag.: A partir da assinatura deste de forma parcelada até a\ndata da realização do show, podendo ainda ser em até trinta dias após.\nDotação: QDD/2022. Partes ass.: Ernandes B. Nóbrega (Pela\ncontratante) e Sr. Alberto Salomão Cavalcanti Simões (pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 61142.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados em\n\nConsultoria em licitação, à Comissão Permanente de Licitação e\n\nórgãos da administração em todas suas fases seguindo tanto a Lei\n\n8.666/16, quanto a 14.133/21 e ainda no uso de sistemas e softwares\n\npara elaboração, condução e gerenciamento e transparência de\n\nprocedimentos licitatórios, presencialeeletrônico",
+            "empresa": "RENATO EDUARDO MARQUES ASSESSORIA E\n\nCONSULTORIA",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 86,
+        "num_contratos": 45,
+        "total_gasto": 5078265.22
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 819443.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma pessoa jurídica para prestar serviço de\n\nhoras/maquina, com tratores agrícolas com grades aradoras a serem\n\nutilizados nos cortes de terra dos agricultores do nosso município",
+            "empresa": "BOMSUCESSO CONSTRUCOES E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 228,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 1185542.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 704830.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 955498.4199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios destinados ao Preparo\n\nda Merenda Escolar da Rede Municipal de Ensino do Município de\n\nLivramento – PB",
+            "empresa": "J.T.A. COMERCIO DE ARTIGOS DESCARTAVEIS\n\nLTDA",
+            "valor_total": "R$ 38,382.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 584900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa detentora da exclusividade da Banda\n\nOs 03 do Nordeste, para realização de Show Artísitico no dia 25 de\n\njunho de 2023, dentro das Festividades da Tradicional Festa de São\n\nJoão do Município de Livramento",
+            "empresa": "F. MIX EMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa detentora da exclusividade da Artista\n\nMichele Andrade, para realização de Show Artísitico no dia 24 de\n\njunho de 2023, dentro das Festividades da Tradicional Festa de São\n\nJoão do Município de Livramento",
+            "empresa": "XT ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 130,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa detentora da exclusividade da Artista\n\nEliane, A Rainha do Forró, para realização de Show Artísitico no dia\n\n25 de junho de 2023, dentro das Festividades da Tradicional Festa de\n\nSão João do Município de Livramento",
+            "empresa": "AMANDA FAUSTINO DE LIMA PARENTE\n\nLIMITADA",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa detentora do registro da Banda Gil\n\nMendes, para realização de Show Artísitico no dia 23 de junho de\n\n2023, dentro das Festividades da Tradicional Festa de São João do\n\nMunicípio de Livramento",
+            "empresa": "G M GRAVACOES E EDICOES MUSICAIS LTDA",
+            "valor_total": "R$ 70,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de leiloeiro oficial para realização de leilão\n\ndestinado à alienação de veículos inservíveis de propriedade da\nPrefeitura Municipal de Livramento",
+            "empresa": "MARCO TÚLIO MONTENEGRO CAVALCANTI\n\nDIAS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 84850.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestar serviço de mão de\n\nobra mecânica para os veículos próprios e locados da frota municipal\n\nos quais tenha direito por força contratual",
+            "empresa": "Contrato Nº 096/2023; Assinatura: 15.08.23, Vencedor: 50.730.553\n\nJAILDES TORRES VILAR",
+            "valor_total": "R$ 84,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 68156.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\n\nRAMO PARA MARCAÇÃO E PERFURAÇÃO DE POÇOS\n\nARTESIANO TUBULAR PROFUNDO NAS DIVERSAS\n\nCOMUNIDADES DO NOSSO MUNICÍPIO",
+            "empresa": "HARPIA EMPREENDIMENTOS EIRELI;",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 273044.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 348000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma\npessoa jurídica para prestar serviços de engenharia na Construção de\numa Creche (Tipo A) compacidade para 100 (cem) crianças, em\ntempo integral, conforme Convenio (SEECT-PB) Nº 443/2021",
+            "empresa": "TORRE CONSTRUÇÃO E CONSULTORIA EM\nENGENHARIA EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 90,
+        "num_contratos": 81,
+        "total_gasto": 12542219.050000003
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 255696.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 556522.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 2517599.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 2115418.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 2144360.2800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da Banda Limão com Mel para as Festividades\nda tradicional Festa de São João do Município de Livramento – PB",
+            "empresa": "SUPERNOVA PRODUCOES E EVENTOS LTDA",
+            "valor_total": "R$ 150,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 724412.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 255073.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento de\n\nMedicamentos da ABCFarma para atender nas necessidades da\n\nSecretaria de Saúde do Município de livramento, conforme termo de\n\nreferência",
+            "empresa": "TRQ LIMA VITURINO & CIA LTDA",
+            "valor_total": "R$ 298.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO\n\nDE VEÍCULO UTILITÁRIO DO TIPO SUV (VIATURA DE\n\nPOLICIAMENTO DE USO OPERACIONAL) PARA ATENDER\n\nAS NECESSIDADES DA GUARDA MUNICIPAL DE\n\nPREFEITURA MUNICIPAL DE PATOS/PB",
+            "empresa": "COSTEIRA LOCADORA DE VEICULOS\n\nEIRELI.",
+            "valor_total": "R$ 82,680.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nCONSULTORIA TÉCNICA DE ENGENHARIA CIVIL PARA\n\nOS SERVIÇOS DE FISCALIZAÇÃO DE OBRAS PÚBLICAS\n\nCONVENIADAS COM O ESTADO E COM A UNIÃO, A\n\nCARGO DA SECRETARIA MUNICIPAL DE\n\nINFRAESTRUTURA DE PATOS/PB",
+            "empresa": "CONOBRE ENGENHARIA CONSTRUCAO\n\nE COMERCIO LTDA",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1026880.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 677959.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 2268295.81,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de\n\numa pessoa jurídica para prestar serviços de engenharia na Construção\n\nde uma Creche (Tipo A) compacidade para 100 (cem) crianças, em\n\ntempo integral, conforme Convenio (SEECT-PB) Nº 443/2021",
+            "empresa": "TORRE CONSTRUÇÃO E CONSULTORIA EM\n\nENGENHARIA EIRELI",
+            "valor_total": "R$ 229,772.24"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

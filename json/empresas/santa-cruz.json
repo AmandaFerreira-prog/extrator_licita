@@ -1,0 +1,394 @@
+{
+  "id": "santa-cruz",
+  "nome": "Santa Cruz",
+  "detalhe": {
+    "2023": {
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 21,
+        "total_gasto": 2358914.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 87,
+        "num_contratos": 112,
+        "total_gasto": 11656072.329999998
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 24,
+        "total_gasto": 1738296.9000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS A SEREM PRESTADOS NA COLETA,\n\nTRANSPORTE E INCINERAÇÃO, DESTINO FINAL DO LIXO\n\nHOSPITALAR DAS UNIDADES DE SAÚDE DA REDE\n\nMUNICIPAL DE SANTA CRUZ/PB",
+            "empresa": "TRASH COLETA E INCINERACAO DE\n\nLIXO HOSPITALAR LTDA",
+            "valor_total": "R$ 17,325.00"
+          },
+          {
+            "objeto": "FORNECIMENTO E AQUISIÇÃO DE ÁGUA MINERAL\n\nOU ADICIONADA DE SAIS E GARRAFÕES CAPACIDADE\n\nPARA 20 LITROS, PARA ATENDER A DEMANDA DAS\n\nDIVERSAS SECRETARIAS DO MUNICÍPIO DE SANTA\n\nCRUZ/PB",
+            "empresa": "JOSE PEREIRA DA SILVA",
+            "valor_total": "R$ 15,750.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1012378.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 669119.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 529046.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE ESTRUTURA PARA REALIZAÇÃO\n\nDAS FESTIVIDADES DO TRADICIONAL SÃO JOÃO DE\n\nSANTA CRUZ/PB",
+            "empresa": "J M DOS SANTOS PROMOÇÕES E\n\nEVENTOS",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL\n\n\"EMILIANO PORDEUS\" , PARA ANIMAR A FESTA DE SÃO\n\nJOÃO DO DIA 23 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB",
+            "empresa": "CESAR GUIMARAES SARMENTO",
+            "valor_total": "R$ 4,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL GILSON\n\nMANIA, ATRAVÉS DE EMPRESÁRIO DETENTOR DOS\n\nDIREITOS DE EXCLUSIVIDADE, PARA ANIMAR A FESTA DE\n\nSÃO JOÃO DO DIA 24 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB",
+            "empresa": "LELEKA PRODUÇÕES LTDA",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL\n\nRICARDINHO SHOW PARA ANIMAR A FESTA DE SÃO JOÃO\n\nDO DIA 24 DE JUNHO DO CORRENTE ANO, NO MUNICÍPIO\n\nDE SANTA CRUZ/PB",
+            "empresa": "RICARDO GOMES FREITAS",
+            "valor_total": "R$ 4,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL\n\n\"BIGUINHO SHOW & JOABSON DO ACORDEON\", PARA\n\nANIMAR A FESTA DE SÃO JOÃO DO DIA 23 DE JUNHO DO\n\nCORRENTE ANO, NO MUNICÍPIO DE SANTA CRUZ/PB",
+            "empresa": "EVERTON GOMES PEREIRA",
+            "valor_total": "R$ 4,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1393450.0,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE COMBUSTÍVEIS\n\nPARA O ABASTECIMENTO DA FROTA (PROPRIA E LOCADA)\n\nDO MUNICÍPIO DE SANTA CRUZ/PB, QUANDO EM\n\nDESLOCAMENTO PARA CAPITAL OU OUTRAS\n\nLOCALIDADES",
+            "empresa": "NOVA CAMPINA COMERCIO DE\n\nCOMBUSTIVEL LTDA",
+            "valor_total": "R$ 370,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 96850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 1002754.76,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "APOGEU CENTER COMERCIAL DE\n\nPRODUTOS\n\nHOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 358,155.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "BIOMED\n\nDISTRIBUIDORA HOSPITALAR E LABORATORIAL NOSSA\n\nSENHORA",
+            "valor_total": "R$ 358,155.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "FARMAGUEDES COM. DE PROD.\n\nFARMACÊUTICOS,\n\nMÉD. E HOSP. LTDA",
+            "valor_total": "R$ 358,155.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MÉDICO-HOSPITALARES Ltda.-\n\nME",
+            "valor_total": "R$ 358,155.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "ODONTOMED T/A LTDA",
+            "valor_total": "R$ 358,155.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL\n\nODONTOLÓGICO PARA ATENDER A\n\nDEMANDA DA REDE MUNICIPAL DE SAÚDE DE SANTA\n\nCRUZ/PB",
+            "empresa": "CT Nº\n\n00106/2023 - 10.07.23 - EMIGE\n\nMATERIAIS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 358,155.66"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1661717.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa de advocacia para prestar serviços\n\nde assessoria e consultoria Jurídica no âmbito da Secretaria Municipal\n\nde Administração de Santa Cruz – PB, ofertando serviços\n\nmultiprofissionais, com elaboração de pareceres técnicos, análises de\n\nrequerimentos e acompanhamento das demandas em geral do referido\n\nórgão",
+            "empresa": "OZORIO NONATO DE ABRANTES NETO\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 914055.05,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Veículos Leves para Suprir as Necessidades\n\ndas Diversas Secretarias do Municipal de Santa Cruz/PB",
+            "empresa": "FIORI\n\nVEICOLO S.A",
+            "valor_total": "R$ 106,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 279490.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 330775.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 83,
+        "num_contratos": 130,
+        "total_gasto": 11032088.9
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 484576.78,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL MEDICO\n\nHOSPITALAR PARA ATENDER A DEMANDA DA\n\nSACRETARIA DE SAÚDE MUNICIPAL DE SANTA CRUZ PARA\n\nO ANO DE 2024",
+            "empresa": "BIOMED DISTRIBUIDORA\n\nHOSPITALAR E LABORATORIAL NOSSA SENHORA",
+            "valor_total": "R$ 355,912.78"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL MEDICO\n\nHOSPITALAR PARA ATENDER A DEMANDA DA\n\nSACRETARIA DE SAÚDE MUNICIPAL DE SANTA CRUZ PARA\n\nO ANO DE 2024",
+            "empresa": "ODONTOMED\n\nCOMERCIO DE PRODUTOS MÉDICO-HOSPITALARES Ltda.-\n\nME",
+            "valor_total": "R$ 355,912.78"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL MEDICO\n\nHOSPITALAR PARA ATENDER A DEMANDA DA\n\nSACRETARIA DE SAÚDE MUNICIPAL DE SANTA CRUZ PARA\n\nO ANO DE 2024",
+            "empresa": "K.C.R.S.\n\nCOMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 355,912.78"
+          },
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE MATERIAL MEDICO\n\nHOSPITALAR PARA ATENDER A DEMANDA DA\n\nSACRETARIA DE SAÚDE MUNICIPAL DE SANTA CRUZ PARA\n\nO ANO DE 2024",
+            "empresa": "HOSPHARMA COMERCIO\n\nATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO\n\nHOSPITALARES E D",
+            "valor_total": "R$ 355,912.78"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE REFEIÇÕES\n\nPRONTAS ( ALMOÇO E JANTAR) PARA ATENDER A\n\nDEMANDA DA PREFEITURA MUNICIPAL DE SANTA CRUZ\n\nNO ANO DE 2024, CONFORME TERMO DE REFERENCIA",
+            "empresa": "FRANCISCO FRAGOSO\n\nDOS SANTOS",
+            "valor_total": "R$ 86,664.00"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADO DE REFEIÇÕES\n\nPRONTAS ( ALMOÇO E JANTAR) PARA ATENDER A\n\nDEMANDA DA PREFEITURA MUNICIPAL DE SANTA CRUZ\n\nNO ANO DE 2024, CONFORME TERMO DE REFERENCIA",
+            "empresa": "GABRIEL SOARES BATISTA",
+            "valor_total": "R$ 86,664.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 397425.5,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE MEDICAMENTOS\n\nINJETÁVEIS PARA ATENDER A DEMANDA DA REDE\n\nMUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 126,572.00"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE MEDICAMENTOS\n\nINJETÁVEIS PARA ATENDER A DEMANDA DA REDE\n\nMUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "MD MATERIAL HOSPITALAR EIRELI\n\n- R$ 1.883,00; CT Nº 00024/2024 - 20.03.24 - DISTRIBUIDORA DE\n\nMEDICAMENTOS BACKES LTDA",
+            "valor_total": "R$ 126,572.00"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE MEDICAMENTOS\n\nINJETÁVEIS PARA ATENDER A DEMANDA DA REDE\n\nMUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "EXPRESS DISTRIBUIDORA DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 126,572.00"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE MEDICAMENTOS\n\nINJETÁVEIS PARA ATENDER A DEMANDA DA REDE\n\nMUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "CT Nº 00027/2024",
+            "valor_total": "R$ 126,572.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 2937365.37,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Execução dos\n\nServiços de Pavimentação de Diversas Ruas no Município de Santa\n\nCruz/PB, conforme CR Nº 1082462–32/2021",
+            "empresa": "Template Serviços de Engenharia e\n\nConstrução Ltda.",
+            "valor_total": "R$ 470,524.57"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para Execução dos\n\nServiços de Pavimentação de Diversas Ruas no Município de Santa\n\nCruz/PB, conforme CR Nº 1076522–44/2021",
+            "empresa": "Template Servicos de Engenharia e\n\nConstrução Ltda.",
+            "valor_total": "R$ 280,895.73"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 746599.3,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL \"FERRO\n\nNA BONECA\", PARA ANIMAR A FESTA DE SÃO JOÃO DO\n\nDIA 21 DE JUNHO DO CORRENTE ANO, COM 2 HORAS DE\n\nDURAÇÃO, NO MUNICÍPIO DE SANTA CRUZ/PB",
+            "empresa": "FERRO NA BONECA PROMOCOES\n\nARTISTICAS LTDA",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 11,
+        "total_gasto": 557851.19,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL\n\n\"KACETEIROS DO FORRÓ\", PARA ANIMAR A FESTA DE SÃO\nJOÃO DO DIA 22 DE JUNHO DO CORRENTE ANO, NO\n\nMUNICÍPIO DE SANTA CRUZ/PB",
+            "empresa": "FRANCISCO FERRONY CELESTINO NOGUEIRA",
+            "valor_total": "R$ 4,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA ATRAÇÃO MUSICAL \"FORRÓ\n\nTORA CHINELA\", PARA ANIMAR A FESTA DE SÃO JOÃO DO\n\nDIA 21 DE JUNHO DO CORRENTE ANO, NO MUNICÍPIO DE\nSANTA CRUZ/PB",
+            "empresa": "RUAN FERREIRA DOS SANTOS",
+            "valor_total": "R$ 8,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 2782945.91,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO PARCELADA DE MEDICAMENTOS\n\nDE FARMÁCIA BÁSICA PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 77,699.50"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADA DE MEDICAMENTOS\n\nDE FARMÁCIA BÁSICA PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "CIRURGICA MONTEBELLO LTDA -\n\nR$ 3.125,00; CT Nº 00070/2024 - 23.05.24 - DISTRIBUIDORA DE\n\nMEDICAMENTOS BACKES LTDA",
+            "valor_total": "R$ 77,699.50"
+          },
+          {
+            "objeto": "FORNECIMENTO PARCELADA DE MEDICAMENTOS\n\nDE FARMÁCIA BÁSICA PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA MUNICIPAL DE SAÚDE DE SANTA CRUZ/PB",
+            "empresa": "HOSPHARMA COMERCIO\n\nATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO\n\nHOSPITALARES E D",
+            "valor_total": "R$ 77,699.50"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE FARDAMENTOS\n\nPARA SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS\n\nDO MUNICIPIO DE SANTA CRUZ–PB",
+            "empresa": "A L DA SILVA\n\nCONFECCOES",
+            "valor_total": "R$ 72,813.25"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE FARDAMENTOS\n\nPARA SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS\n\nDO MUNICIPIO DE SANTA CRUZ–PB",
+            "empresa": "JRT\n\nCONFEC????ES LTDA",
+            "valor_total": "R$ 72,813.25"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE FARDAMENTOS\n\nPARA SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS\n\nDO MUNICIPIO DE SANTA CRUZ–PB",
+            "empresa": "CT Nº 00094/2024 - 10.07.24 -\n\nRIOLLI&LIMA UNIFORMES LTDA",
+            "valor_total": "R$ 72,813.25"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE FARDAMENTOS\n\nPARA SUPRIR AS DEMANDAS DAS DIVERSAS SECRETARIAS\n\nDO MUNICIPIO DE SANTA CRUZ–PB",
+            "empresa": "A NOVA SOLU????O EIRELI",
+            "valor_total": "R$ 72,813.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 20,
+        "total_gasto": 549643.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 149886.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 1354167.5899999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 546965.0,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE ÓLEOS, FILTROS E\n\nLUBRIFICANTES PARA MANUTENÇÃO DOS VEÍCULOS DAS\n\nLINHAS LEVE E PESA, PERTENCENTES AO MUNICÍPIO DE\n\nSANTA CRUZ/PB, COM TROCA NA PRÓPRIA LOJA DO\n\nFORNECEDOR",
+            "empresa": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+            "valor_total": "R$ 287,145.00"
+          },
+          {
+            "objeto": "FORNECIMENTO GRADUAL DE ÓLEOS, FILTROS E\n\nLUBRIFICANTES PARA MANUTENÇÃO DOS VEÍCULOS DAS\n\nLINHAS LEVE E PESA, PERTENCENTES AO MUNICÍPIO DE\n\nSANTA CRUZ/PB, COM TROCA NA PRÓPRIA LOJA DO\n\nFORNECEDOR",
+            "empresa": "REJANE CASIMIRO DE OLIVEIRA MENDES",
+            "valor_total": "R$ 287,145.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 193887.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

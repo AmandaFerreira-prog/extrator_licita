@@ -1,0 +1,468 @@
+{
+  "id": "alagoa-grande",
+  "nome": "Alagoa Grande",
+  "detalhe": {
+    "2022": {
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 257511.38999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 70,
+        "num_contratos": 58,
+        "total_gasto": 13568597.28
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 19,
+        "total_gasto": 2561616.3899999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Serviços de 1.000 horas/máquinas de trator de\n\npneus com grade aradora de 14 discos, com combustível e operador\n\npor conta da contratada",
+            "empresa": "JOSÉ PAULO LIRA SEGUNDO-ME",
+            "valor_total": "R$ 180,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 619946.02,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais de expedientes, para atender as\n\nnecessidades da Secretaria de Educação do Município de Alagoa\n\nGrande",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 948.25"
+          },
+          {
+            "objeto": "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Reforma das Unidades de Saúde das\n\nComunidades Rurais de Caiana dos Crioulos e Caiana dos Mares, no\n\nMunicípio de Alagoa Grande’",
+            "empresa": "SOBRAL CONSTRUTORA LTDA",
+            "valor_total": "R$ 159,226.97"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1280959.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Recapeamento Asfáltico sobre Calçamentos em\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 13\n\n\n\nParalelepípedos das Ruas: Pres",
+            "empresa": "CONSTRUTORA GURGEL SOARES LTDA",
+            "valor_total": "R$ 716,969.21"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 974611.51,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação das atrações musicais: Filipe Santos e Nathan\n\nVinícius, para realização de apresentações artísticas em praça pública,\n\nno dia 26 de julho de 2022, durante as festividades de Emancipação\n\nPolítica da cidade de Alagoa Grande",
+            "empresa": "FERREIRA PRODUÇÕES, LOCAÇÕES E\n\nSERVIÇOS EIRELI",
+            "valor_total": "R$ 28,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 388525.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 2023050.0,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de um Aparelho de Raio-X analógico, marca\n\nVMI TECNOLOGIAS, modelo APOLO S, para o Hospital Municipal\n\nOswaldo Trigueiro de Albuquerque Melo da cidade de Alagoa\n\nGrande",
+            "empresa": "VMI TECNOLOGIAS LTDA",
+            "valor_total": "R$ 165,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 76517.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 1502495.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 3883364.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 2980241.0999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis e derivados, para abastecimento\nda frota de veículos da Prefeitura de Alagoa Grande, e veículos\nlocados",
+            "empresa": "ALBUQUERQUE CABRAL AUTO POSTO DE\nCOMBUSTÍVEIS EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 102,
+        "num_contratos": 87,
+        "total_gasto": 31359909.470000006
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 2793427.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis e derivados, para abastecimento\n\nda frota de veículos da Prefeitura de Alagoa Grande, e veículos\n\nlocados",
+            "empresa": "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI",
+            "valor_total": "R$ 1,960,739.00"
+          },
+          {
+            "objeto": "Aquisição de combustíveis e derivados, para abastecimento\n\nda frota de veículos da Prefeitura de Alagoa Grande, e veículos\n\nlocados",
+            "empresa": "CARNEIRO DO NASCIMENTO COMERCIO DE\n\nPECAS PARA VEICULOS AUTOMOTORES LTDA",
+            "valor_total": "R$ 133,040.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 17,
+        "total_gasto": 2329278.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "CAPRIBOM COOPERATIVA DOS\n\nPRODUTORES RURAIS DE MONTEIRO LTDA",
+            "valor_total": "R$ 49,000.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "GERALDO JOSÉ JANUÁRIO",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "GUIMARIM TOLEDO SALES JÚNIOR",
+            "valor_total": "R$ 19,986.12"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "IVANILDO PEDRO DA SILVA",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "MARIA DO CARMO MELO DA SILVA",
+            "valor_total": "R$ 9,386.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "SILVANA DA SILVA OLIVEIRA",
+            "valor_total": "R$ 16,100.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "GILBERTO JOÃO ALBUQUERQUE DE\n\nARAÚJO",
+            "valor_total": "R$ 19,562.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "ANDRÉ ALVES SILVESTRE",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "JOZANIEL RIBEIRO DA SILVA",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "JOSÉ EDNALDO MARQUES DANTAS",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "SEVERINO DO RAMO BARBOSA",
+            "valor_total": "R$ 19,199.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar,\n\npara alimentação escolar dos alunos da rede de educação básica\n\npública no Município de Alagoa Grande",
+            "empresa": "MÔNICA OLEGÁRIO MOREIRA",
+            "valor_total": "R$ 19,434.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 5477664.52,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de medicamentos",
+            "empresa": "A. COSTA\n\nCOMERCIO ATAC DE PRODUTOS FARMACEUTICOS LTDA -",
+            "valor_total": "R$ 4,068,600.42"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR\n\nDESTINADOS AOS AGENTES COMUNITÁRIOS DE SAÚDE",
+            "empresa": "EQUIPASAUDE PRODUTOS PARA SAUDE LTDA.",
+            "valor_total": "R$ 32,580.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de limpeza, para atender\n\nas necessidades as diversas secretarias do município de Alagoa\n\nGrande",
+            "empresa": "MAIOR CLEAN COMÉRCIO VAREJISTA DE\n\nINSTRUMENTOS CIRÚRGICOS EIRELI",
+            "valor_total": "R$ 411,684.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 10619324.98,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais de limpeza, para atender\n\nas necessidades as diversas secretarias do município de Alagoa\n\nGrande",
+            "empresa": "MATHEUS S CABRAL-ME",
+            "valor_total": "R$ 16,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1465639.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do cantor Nathan Vinícius, para realização de\n\numa apresentação artística no dia 26/07/2023, durante a Festa de\n\nEmancipação Política da cidade de Alagoa Grande",
+            "empresa": "F. MIX EMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 663507.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa de construção civil, para\nexecução das obras de Pavimentação de Vias Públicas no Perímetro\n\nUrbano do Município de Alagoa Grande (Ruas Vereador Zé Carlos de\n\nVasconcelos e Teófilo Rocha de Oliveira)",
+            "empresa": "SOBRAL CONSTRUTORA LTDA",
+            "valor_total": "R$ 239,507.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 492201.16,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE MÉDICO ODONTOLÓGICO",
+            "empresa": "MED & FARMA\n\nCOMERCIO ATACADISTA MEDICAMENTOS LTDA",
+            "valor_total": "R$ 30,118.10"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO PARA\n\nAQUISIÇÃO PARCELADA DE ALIMENTOS, NO SISTEMA DE\n\nREGISTRO DE PREÇOS, VISANDO CONTRATAÇÕES\n\nFUTURAS, DESTINADOS A ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE ALAGOA\n\nGRANDE, através do Contrato n.º 10043/2022, SEGUIDO DO\n\nContrato n.º 20003/2023, decorrente do Pregão Presencial SRP n.º\n\n10007/2022",
+            "empresa": "RAVILA COMÉRCIO\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 2032725.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 232133.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 1599277.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 674488.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 5470402.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de combustíveis e derivados, para abastecimento\n\nda frota de veículos da Prefeitura de Alagoa Grande e veículos\n\nlocados, durante o ano de 2024",
+            "empresa": "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI",
+            "valor_total": "R$ 2,081,270.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 124,
+        "num_contratos": 139,
+        "total_gasto": 54785415.86
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 683177.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 931002.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 10655075.84,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de materiais de limpeza, para atender\n\nas necessidades as diversas secretarias do município de Alagoa\n\nGrande",
+            "empresa": "MARIA CRISTIANE LEMOS DE ARAÚJO-ME",
+            "valor_total": "R$ 10,360.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de materiais de limpeza, para atender\n\nas necessidades as diversas secretarias do município de Alagoa\nGrande",
+            "empresa": "DIONAL DISTRIBUIDORA DE PRODUTOS\n\nLTDA",
+            "valor_total": "R$ 8,402.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 7347043.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1809118.6099999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa de construção civil, para\nexecução das obras de Conclusão da Construção do Estádio Municipal\n\n“O Chibatão” e Reforma do Estádio Municipal Genival Sales de\n\nAmorim, na cidade de Alagoa Grande",
+            "empresa": "CONSTRUTORA COSTA E SILVA LTDA",
+            "valor_total": "R$ 838,435.48"
+          },
+          {
+            "objeto": "Aquisição de materiais de expedientes, para atender as\n\nnecessidades da Secretaria de Educação do Município de Alagoa\n\nGrande",
+            "empresa": "MARIA CRISTIANE LEMOS DE ARAÚJO ME",
+            "valor_total": "R$ 111,532.70"
+          },
+          {
+            "objeto": "Aquisição de materiais de expedientes, para atender as\n\nnecessidades da Secretaria de Educação do Município de Alagoa\nGrande",
+            "empresa": "A M TAVARES LTDA",
+            "valor_total": "R$ 372.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 2839744.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um Ônibus Rural Escolar (ORE 1) –\n\ntransmissão mecânica, destinado ao transporte escolar no Município\n\nde Alagoa Grande",
+            "empresa": "VOLKSWAGEN TRUCK & BUS INDÚSTRIA E\nCOMÉRCIO DE VEÍCULOS LTDA",
+            "valor_total": "R$ 412,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1906921.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 1654260.8499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 5722018.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 10394521.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 20,
+        "total_gasto": 5372130.2299999995,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE",
+            "empresa": "EQUIPASAUDE PRODUTOS PARA SAUDE LTDA.",
+            "valor_total": "R$ 747,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

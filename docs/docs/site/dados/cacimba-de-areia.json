@@ -11,28 +11,28 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 36,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 35,
+        "num_contratos": 27,
+        "total_gasto": 2404314.89
       },
       "2": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 880350.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 102000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 444321.65,
         "top_3_empresas": [
           "A EMPRESA: P.A.S &\nSANTANA LTDA/REI DOS VENTILADORES, CPNJ:\n13.045.626/0001-66.",
           "A EMPRESA: SETHA\nCONSTRUÇÕES E SERVIÇOS LTDA"
@@ -43,8 +43,8 @@
       },
       "5": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 326001.57,
         "top_3_empresas": [
           "JOSENILDO LIMA DE\nSOUZA"
         ],
@@ -54,29 +54,29 @@
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 91460.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 9100.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 145000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 201581.66999999998,
         "top_3_empresas": [
           "A EMPRESA\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             8\n\nNÓBREGA E SOUZA CONSTRUÇÕES LTDA",
           "Obras e\nInstalações; 12 365 1052 1036 CONSTRUÇÃO OU MELHORIA\nEM ESCOLAS DE EDUCAÇÃO INFANTIL",
@@ -93,17 +93,10 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "11": {
-        "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
       "12": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 204500.0,
         "top_3_empresas": [
           "A EMPRESA ABEL\n\nDOS SANTOS DIAS"
         ],
@@ -121,42 +114,42 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 52,
-        "num_contratos": 1,
-        "total_gasto": 748000.0
+        "num_diarios": 50,
+        "num_contratos": 54,
+        "total_gasto": 7171215.23
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 1624511.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 1272624.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 1478890.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 467550.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 288000.0,
         "top_3_empresas": [
           "FIORI VEÍCULOS S.A"
         ],
@@ -167,8 +160,8 @@
       },
       "7": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 229536.03,
         "top_3_empresas": [
           "A EMPRESA ABEL\n\nDOS SANTOS DIAS",
           "A EMPRESA FLÁVIO\n\nJOSÉ MARCELINO REMÍGIO"
@@ -181,8 +174,8 @@
       },
       "8": {
         "num_diarios": 6,
-        "num_contratos": 1,
-        "total_gasto": 748000.0,
+        "num_contratos": 7,
+        "total_gasto": 941955.67,
         "top_3_empresas": [
           "JMSV\n\nCONSTRUÇÕES EIRELI"
         ],
@@ -192,8 +185,8 @@
       },
       "9": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 461106.25,
         "top_3_empresas": [
           "UDI"
         ],
@@ -209,7 +202,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -217,8 +210,8 @@
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 407040.57999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -226,10 +219,10 @@
     "2019": {
       "1": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 1765288.8900000001,
         "top_3_empresas": [
-          "A EMPRESA:\n\nGERALDO LETE DA NÓBREGA NETO/POSTO BEIRA RIO,",
+          "A EMPRESA:\n\nGERALDO LETE DA NÓBREGA NETO/POSTO BEIRA RIO",
           "s, locados a disposição ou\n\nvinculados a atividades pública do Município de Cacimba de Areia–\n\nPB, conforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº. 33/2018.\n\n\n\nFundamento LEGAL: Leis n.ºs 10.520/2002 e 8.666/93 e do\n\nDecreto Federal n° 3.555/2000.\n\n\n\nFONTE DE RECURSO E DOTAÇÃO ORÇAMENTÁRIA: Os\n\npagamentos das despesas decorrentes do fornecimento do"
         ],
         "top_3_objetos": [
@@ -238,16 +231,16 @@
       },
       "resumo": {
         "num_diarios": 39,
-        "num_contratos": 1,
-        "total_gasto": 234000.0
+        "num_contratos": 30,
+        "total_gasto": 5971715.920000001
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 234000.0,
+        "num_contratos": 9,
+        "total_gasto": 743727.03,
         "top_3_empresas": [
           "AD PROJETOS DE\n\nARQUITETURA E ENGENHARIA LTDA",
-          "Outros Serviços de Terceiro Pessoa Jurídica.\n\n\n\nVALOR GLOBAL R$ 20.150,00 (Vinte Mil Cento e Cinquenta\n\nReais)\n\n\nVIGÊNCIA: 22/02/2019 À 22/06/2019\n\n\n\nDATA E ASSINATURA: Cacimba de Areia"
+          "Outros Serviços de Terceiro"
         ],
         "top_3_objetos": [
           "Prestação de Serviços especializados em elaboração de\n\nprojeto arquitetônico, técnico e orçamentário e especificações técnicas\n\ne modernização de infraestrutura esportiva no Ginásio Poliesportivo\n\n“O Rapaizinho” no Município de Cacimba de Areia"
@@ -255,22 +248,22 @@
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1633113.0300000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 431568.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1248018.97,
         "top_3_empresas": [
           "A EMPRESA\n\nBELLFORT CONSTRUTORA LTDA",
           "Obras e\nInstalações.\n\nVALOR GLOBAL: R$ 486.733,32 (Quatrocentos e Oitenta e Seis\n\nMil Setecentos e Trinta e Três Reais e Trinta e Dois Centavos)\n\nVIGÊNCIA: 28/05/2019 à 28/05/2020\n\n\nDATA E ASSINATURA: Cacimba de Areia",
@@ -284,8 +277,8 @@
       },
       "6": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 125000.0,
         "top_3_empresas": [
           "A EMPRESA\nSOLTEIRÕES DO FORRÓ GRAVAÇÕES E EDIÇÕES\nMUSICAIS LTDA",
           "A EMPRESA DAM"
@@ -318,8 +311,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 25000.0,
         "top_3_empresas": [
           "A EMPRESA\nRAILSON DINIZ VIEIRA/RAILSON PRODUÇÕES"
         ],
@@ -331,20 +324,20 @@
     "2020": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 1152700.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 60,
-        "num_contratos": 1,
-        "total_gasto": 216000.0
+        "num_diarios": 58,
+        "num_contratos": 40,
+        "total_gasto": 6803721.92
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 216000.0,
+        "num_contratos": 22,
+        "total_gasto": 2148838.0,
         "top_3_empresas": [
           "ALEXSANDRO LACERDA\nDE CALDAS",
           "necessita ser executado de forma\ncontínua, o que justifica a prorrogação do prazo de vigência do\ncontrato.\nParágrafo Primeiro"
@@ -353,25 +346,25 @@
       },
       "3": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 1384040.59,
         "top_3_empresas": [
-          "A EMPRESA: MARIA\nDO SOCORRO COSTA ALVES 03218050464",
-          "A EMPRESA:\nMARIANA GOMES FERREIRA 10949041475"
+          "A EMPRESA: MARIA\nDO SOCORRO COSTA ALVES",
+          "A EMPRESA:\nMARIANA GOMES FERREIRA"
         ],
         "top_3_objetos": [
           "Contratação de empresa especializada para Confecção de\nMateriais Gráficos e Impressos para todas as Secretarias Municipais\nda Prefeitura de Cacimba de Areia – PB, conforme proposta de preço,\ntipo menor preço por item, julgada vencedora pelo Pregoeiro, no\nprocesso Pregão Presencial Nº"
         ]
       },
       "4": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 214000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -379,8 +372,8 @@
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 556185.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -393,8 +386,8 @@
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 1255332.6800000002,
         "top_3_empresas": [
           "A EMPRESA\nCONSTRUTORA J. GALDINO EIRELI"
         ],
@@ -418,8 +411,8 @@
       },
       "11": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 92625.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -434,8 +427,8 @@
     "2021": {
       "1": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 108000.0,
         "top_3_empresas": [
           "RADSON DOS\nSANTOS LEITE"
         ],
@@ -445,13 +438,13 @@
       },
       "resumo": {
         "num_diarios": 51,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 59,
+        "total_gasto": 6751386.31
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 2224374.8799999994,
         "top_3_empresas": [
           "A EMPRESA:\n\nLUCIANO JOSE DE MORAIS",
           "A EMPRESA:\n\nEXEMPLARMED COMERCIO DE PRODUTOS HOSPITALARES\n\nLTDA - Tipo: Ltda/Eireli",
@@ -463,11 +456,11 @@
       },
       "3": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 16,
+        "total_gasto": 1714118.72,
         "top_3_empresas": [
           "A EMPRESA: MARIA\nDA GLORIA CABRAL COSTA VIEIRA",
-          "A EMPRESA:\nTHALES DE LAESSES HENRIQUES CHAVES 09233171477"
+          "A EMPRESA:\nTHALES DE LAESSES HENRIQUES CHAVES"
         ],
         "top_3_objetos": [
           "Aquisição de Material de Consumo e de Expediente para\ntodas as Secretarias Municipais da Prefeitura de Cacimba de Areia –\nPB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº"
@@ -475,8 +468,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 1116550.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -489,18 +482,18 @@
       },
       "6": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 28000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 886657.0900000001,
         "top_3_empresas": [
           "A EMPRESA:\n\nJOSIVAN MELQUIADES NÓBREGA",
-          "A EMPRESA: REDE\n\nDE NEGOCIO EM TECNOLOGIA LTDA-ME inscrita no"
+          "A EMPRESA: REDE\n\nDE NEGOCIO EM TECNOLOGIA LTDA-ME"
         ],
         "top_3_objetos": [
           "Aquisição de material de consumo de informática e\n\nprestação de serviços de recargas de cartuchos e toner e de\n\nmanutenção de impressoras e computadores de todas as secretarias da\n\nprefeitura de Cacimba de Areia – PB, conforme proposta de preço,\n\ntipo menor preço por item, julgada vencedora pelo Pregoeiro, no\n\nprocesso Pregão Presencial Nº"
@@ -515,8 +508,8 @@
       },
       "9": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 211200.0,
         "top_3_empresas": [
           "A EMPRESA:\n\nMD/CENTRAL DE LOCAÇÃO/ MONACI MARQUES\n\nCENTRAL DE LOCAÇÃO - LTDA"
         ],
@@ -526,8 +519,8 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 312051.0,
         "top_3_empresas": [
           "A EMPRESA: JV\nCOMERCIO DE COMBUSTIVEIS LTDA",
           "A EMPRESA:\nGRANPEÇAS"
@@ -539,8 +532,8 @@
       },
       "11": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 53202.65,
         "top_3_empresas": [
           "PAULO ÍTALO DE\nOLIVEIRA VILAR SOCIEDADE INDIVIDUAL DE\nADVOCACIA"
         ],
@@ -550,8 +543,8 @@
       },
       "12": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 97231.37,
         "top_3_empresas": [],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDOS SERVIÇOS DE REFORMA DA UNIDADE DE SAÚDE\nANCORA DO SÍTIO SERRA PRETA NO MUNICÍPIO DE\nCACIMBA DE AREIA/PB"
@@ -561,27 +554,27 @@
     "2022": {
       "1": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 331900.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 56,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_contratos": 108,
+        "total_gasto": 15248130.809999999
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 29,
+        "total_gasto": 3240950.3200000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 2355915.4,
         "top_3_empresas": [
           "CLAUDINEIA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 20\n\n\n\nLEITÃO MARTINS SATIRO/ISNEP ENGENHARIA",
           "A EMPRESA:\n\nJOSILENE SILVA MONTENEGRO"
@@ -594,8 +587,8 @@
       },
       "4": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 575201.1,
         "top_3_empresas": [
           "A EMPRESA:\n\nBEETHOVEN DOS SANTOS DA SILVA",
           "A EMPRESA:\n\nJOSILENE SILVA MONTENEGRO"
@@ -614,11 +607,11 @@
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 2202175.16,
         "top_3_empresas": [
           "A EMPRESA\n\nNIEMAIA CONSTRUÇÕES EIRELI",
-          "A EMPRESA J.\n\nGALDINO EIRELI-EPP, inscrita no"
+          "A EMPRESA J.\n\nGALDINO EIRELI-EPP"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇOS DE CONSTRUÇÃO DE CRECHE TIPO A COM\n\nCAPACIDADE PARA 100 (CEM) CRIANÇAS, COM BASE NO\n\nPROGRAMA PARAÍBA PRIMEIRA INFÂNCIA, NOS TERMOS\n\nDO CONVÊNIO N.º 0425/2021",
@@ -628,12 +621,12 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 1286698.78,
         "top_3_empresas": [
           "A EMPRESA\n\nIVANILDO DE OLIVEIRA FARIAS",
           "A EMPRESA DAE\n\nGRAVAÇÕES E EDIÇÕES MUSICAIS LTDA",
-          "A EMPRESA MZX\n\nENTRETENIMENTO E PRODUCOES DE EVENTOS LTDA,"
+          "A EMPRESA MZX\n\nENTRETENIMENTO E PRODUCOES DE EVENTOS LTDA"
         ],
         "top_3_objetos": [
           "Apresentação de Um Show Artístico da Banda Musical\n\nForró do Nosso Jeito, no dia 24 de agosto de 2022, em praça pública,\n\ndurante as festividades do João Pedro do Município de Cacimba de\n\nAreia - PB",
@@ -643,12 +636,12 @@
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 2168637.49,
         "top_3_empresas": [
           "A EMPRESA\n\nIVANILDO DE OLIVEIRA FARIAS",
           "A EMPRESA DAE\n\nGRAVAÇÕES E EDIÇÕES MUSICAIS LTDA",
-          "A EMPRESA MZX\n\nENTRETENIMENTO E PRODUCOES DE EVENTOS LTDA,"
+          "A EMPRESA MZX\n\nENTRETENIMENTO E PRODUCOES DE EVENTOS LTDA"
         ],
         "top_3_objetos": [
           "Apresentação de Um Show Artístico da Banda Musical\n\nForró do Nosso Jeito, no dia 24 de agosto de 2022, em praça pública,\n\ndurante as festividades do João Pedro do Município de Cacimba de\n\nAreia - PB",
@@ -658,13 +651,17 @@
       },
       "9": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 497044.56,
         "top_3_empresas": [
-          "A EMPRESA ERSEL\n\n– EMPRESA DE RECEBIMENTO DE RESIDUOS E\n\nSERVICOS DE LIMPEZA - ERSEL LTDA"
+          "A EMPRESA ERSEL\n\n– EMPRESA DE RECEBIMENTO DE RESIDUOS E\n\nSERVICOS DE LIMPEZA - ERSEL LTDA",
+          "(RECURSOS ORDINÁRIOS)",
+          "CLAUDINEIA\n\nLEITÃO MARTINS SÁTIRO"
         ],
         "top_3_objetos": [
-          "Contratação de empresa para realizar serviço de\n\nrecebimento tratamento e destinação final em aterro sanitário dos\n\nresíduos sólidos produzidos pelo município de Cacimba de Areia,\n\nsendo devidamente licenciado pela SUDEMA"
+          "Contratação de empresa para realizar serviço de\n\nrecebimento tratamento e destinação final em aterro sanitário dos\n\nresíduos sólidos produzidos pelo município de Cacimba de Areia,\n\nsendo devidamente licenciado pela SUDEMA",
+          "Locação de imóvel urbano (tipo GALPÃO) localizado na\n\nAv",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS DE\n\nARQUITETURA, URBANISMO, ENGENHARIA E\n\nTOPOGRAFIA"
         ]
       },
       "10": {
@@ -676,8 +673,8 @@
       },
       "11": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 48000.0,
         "top_3_empresas": [
           "PAULO ÍTALO DE\n\nOLIVEIRA VILAR SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA"
         ],
@@ -687,8 +684,8 @@
       },
       "12": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 2541608.0,
         "top_3_empresas": [
           "A EMPRESA:\n\nCOPAUTO COMERCIO PATOENSE DE AUTOMOTORES\n\nLTDA"
         ],
@@ -700,24 +697,24 @@
     "2023": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 478679.3,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 48,
-        "num_contratos": 1,
-        "total_gasto": 143000.0
+        "num_contratos": 82,
+        "total_gasto": 8160419.34
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 38,
+        "total_gasto": 1921807.2299999995,
         "top_3_empresas": [
           "A EMPRESA:\n\nEXPRESS DISTRIBUIDORA DE MEDICAMENTOS LTDA -\n\nME",
-          "A EMPRESA:\n\nPHARMAPLUS LTDA",
-          "A EMPRESA:\n\nODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\n\nHOSPITALARES LTDA"
+          "A EMPRESA:\n\nFARMAGUEDES COMERCIO DE PRODUTOS\n\nFARMACEUTICOS, MEDICOS E HOSPITALARES LTDA",
+          "A EMPRESA:\n\nPHARMAPLUS LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de medicamentos, para atender as necessidades\n\nda Secretaria Municipal de Saúde de Cacimba de Areia – PB",
@@ -727,8 +724,8 @@
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 3197255.5,
         "top_3_empresas": [
           "A EMPRESA:\n\nJOSILENE SILVA MONTENEGRO",
           "A EMPRESA:\n\nGIPAGEL AUTOPEÇAS LTDA",
@@ -742,10 +739,10 @@
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1308810.4100000001,
         "top_3_empresas": [
-          "A EMPRESA:\n\nDAMIAO BALDUINO DA NOBREGA COMBUSTIVEIS LTDA,"
+          "A EMPRESA:\n\nDAMIAO BALDUINO DA NOBREGA COMBUSTIVEIS LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de lubrificantes, destinados aos veículos de\n\npropriedade da Prefeitura do Município de Cacimba de Areia – PB"
@@ -753,8 +750,8 @@
       },
       "5": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 182500.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA\n\nELABORAÇÃO DO PLANO MUNICIPAL DE SANEAMENTO\n\nBÁSICO"
@@ -762,8 +759,8 @@
       },
       "6": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 607873.9,
         "top_3_empresas": [
           "A EMPRESA:\n\nJOSILENE SILVA MONTENEGRO",
           "A EMPRESA:\n\nBEETHOVEN DOS SANTOS DA SILVA"
@@ -775,8 +772,8 @@
       },
       "7": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 64800.0,
         "top_3_empresas": [
           "A EMPRESA ARAÚJO\n\nASSESSORIA, CONSULTORIA E SERVIÇOS JURIDICOS\n\nLTDA",
           "A EMPRESA\n\nCONSTRUTORA PLANAR ENGENHARIA EIRELI"
@@ -788,8 +785,8 @@
       },
       "8": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 8700.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -809,8 +806,8 @@
       },
       "11": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 143000.0,
+        "num_contratos": 4,
+        "total_gasto": 255090.0,
         "top_3_empresas": [
           "A EMPRESA:\n\nCOMERCIO DE VEICULOS SANTANA LTDA"
         ],
@@ -820,8 +817,8 @@
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 134903.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -829,20 +826,20 @@
     "2024": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 126600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 66,
-        "num_contratos": 1,
-        "total_gasto": 565331.07
+        "num_diarios": 65,
+        "num_contratos": 136,
+        "total_gasto": 14659020.549999999
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 2335121.0,
         "top_3_empresas": [
           "A EMPRESA\n\nJOSILENE SILVA MONTENEGRO",
           "A EMPRESA\n\nCABANA MAGAZINE LTDA",
@@ -856,15 +853,15 @@
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 25,
+        "total_gasto": 5918933.590000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 565331.07,
+        "num_contratos": 29,
+        "total_gasto": 2713109.7800000003,
         "top_3_empresas": [
           "A EMPRESA CANAPU\n\nCOMÉRCIO DE DISTRIBUIÇÃO LTDA",
           "A EMPRESA EPI\n\nEMPRESA DE IRRIGACAO LTDA",
@@ -878,8 +875,8 @@
       },
       "5": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 573024.0,
         "top_3_empresas": [
           "BANCO BRADESCO S.A",
           "A EMPRESA TUANNNA\n\nBEZERRA DE SOUZA",
@@ -892,16 +889,16 @@
         ]
       },
       "6": {
-        "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 138400.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 26,
+        "total_gasto": 2113912.02,
         "top_3_empresas": [
           "A EMPRESA RANIERI\n\nNÓBREGA FERREIRA/RANIERI PRODUÇÕES"
         ],
@@ -911,8 +908,8 @@
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 533067.5,
         "top_3_empresas": [
           "COPLAN\n\nCONTABILIDADE PUBLICA E EMPRESARIAL LTDA",
           "e Empresa",
@@ -925,8 +922,8 @@
       },
       "9": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 45300.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -939,8 +936,8 @@
       },
       "11": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 101552.66,
         "top_3_empresas": [
           "A EMPRESA SOLANGE\n\nAFONSO DE CARVALHO PEREIRA/DETUDO\n\nHOMECENTER",
           "A EMPRESA\n\nCARREIROSPORTS MATERIAL ESPORTIVO LTDA"
@@ -952,17 +949,17 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 408,
-    "num_contratos": 5,
-    "total_gasto": 1906331.07,
+    "num_diarios": 402,
+    "num_contratos": 536,
+    "total_gasto": "67.169.924,97",
     "top_5_empresas": {
       "A EMPRESA:\n\nJOSILENE SILVA MONTENEGRO": 4,
       "A EMPRESA ABEL\n\nDOS SANTOS DIAS": 2,

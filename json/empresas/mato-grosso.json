@@ -1,0 +1,271 @@
+{
+  "id": "mato-grosso",
+  "nome": "Mato Grosso",
+  "detalhe": {
+    "2023": {
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 1880786.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 82,
+        "num_contratos": 60,
+        "total_gasto": 6447230.31
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 1278152.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 1667771.21,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE ENFEITES JUNINOS PARA\n\nORNAMENTAÇÃO DE RUAS, PRAÇAS, AVENIDAS E PARQUE\n\nDO POVO PARA OS FESTEJOS JUNINOS EM COMEMORAÇÃO\n\nAO TRADICIONAL SÃO PEDRO DO MUNICÍPIO DE MATO\n\nGROSSO–PB",
+            "empresa": "R DE O LIMA",
+            "valor_total": "R$ 16,997.78"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 107421.28,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços diversos\n\njunto a equipe de comunicação da Prefeitura Municipal de Mato\n\nGrosso–PB",
+            "empresa": "ANTONIO CIRILO DE LIMA NETO",
+            "valor_total": "R$ 25,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 939251.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 383284.56999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresas regionais de acordo com Decreto\n\n001/2023 para fornecimento parcelado de materiais de expediente\n\npara suprir as necessidades das diversas secretarias do Município de\n\nMato Grosso–PB",
+            "empresa": "E.\n\nALVES DE FIGUEIREDO COSTA",
+            "valor_total": "R$ 53,334.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 19615.6,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇO DE CONFECÇÕES DE\n\nGALERIA DE FOTOS OFICIAIS E PRISMAS EM MÁRMORE E\n\nVIDRO, VISANDO ATENDER AS NECESSIDADES DESTE\n\nPODER LEGISLATIVO CÂMARA MUNICIPAL DE MATO\n\nGROSSO-PB",
+            "empresa": "FRANCISCO FABIO DA SILVA BARBOSA",
+            "valor_total": "R$ 7,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 61838.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 109109.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 25,
+        "total_gasto": 3995491.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 154,
+        "num_contratos": 123,
+        "total_gasto": 11207965.540000005
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 435509.41,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\nMEDICAMENTOS INJETÁVEIS para suprir as necessidades da\nSecretaria Municipal de Saúde de Mato Grosso–PB",
+            "empresa": "DISTRIBUIDORA DE MEDICAMENTOS BACKES LTDA",
+            "valor_total": "R$ 53,721.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\nMEDICAMENTOS INJETÁVEIS para suprir as necessidades da\nSecretaria Municipal de Saúde de Mato Grosso–PB",
+            "empresa": "MED & FARMA\nCOMERCIO ATACADISTA MEDICAMENTOS LTDA",
+            "valor_total": "R$ 53,721.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento parcelado de\nMEDICAMENTOS INJETÁVEIS para suprir as necessidades da\nSecretaria Municipal de Saúde de Mato Grosso–PB",
+            "empresa": "ST DISTRIBUIDORA DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 53,721.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 598982.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 16,
+        "total_gasto": 400861.99,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO PICKUP; CABINE\n\nESTENDIDA; CAPACIDADE MINIMA PARA 02 DOIS\n\nLUGARES",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO PICKUP; CABINE\n\nESTENDIDA; CAPACIDADE MINIMA PARA 02 DOIS\n\nLUGARES",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Mato Grosso\n\ne: CT Nº 00046/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de veículo tipo caminhão toco, com coletor\n\ncompactador de lixo acoplado de no mínimo 08m³ de capacidade",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de veículo tipo caminhão toco, com coletor\n\ncompactador de lixo acoplado de no mínimo 08m³ de capacidade",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Mato Grosso e: CT Nº 00047/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação de veículos\n\ndestinados a suprir as necessidades do Município de Mato Grosso-PB",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação de veículos\n\ndestinados a suprir as necessidades do Município de Mato Grosso-PB",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Mato Grosso e: CT Nº 00050/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "SELEÇÃO DE EMPRESA PARA EXECUÇÃO DE\n\nSERVIÇOS DE PAVIMENTAÇÃO NO MUNICIPIO DE MATO\n\nGROSSO-PB, CONFORME PROJETO BASICO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Mato Grosso e: CT Nº\n\n00051/2022 - Template Servicos de Engenharia e Construcao Ltda -\n\n5º Aditivo",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 16,
+        "total_gasto": 1459350.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 208700.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO DA\n\nCONSTRUÇÃO CIVIL PARA EXECUTAR OBRA DE\nCONSTRUÇÃO DE UMA CRECHE COM CAPACIDADE PARA\n\n100 ALUNOS NO MUNICÍPIO DE MATO GROSSO/PB,\n\nCONFORME PROJETO BÁSICO",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Mato Grosso e: CT Nº 00062/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 960697.14,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de assessoria e consultoria jurídica\n\nna análise e elaboração das prestações de contas; Atendimento das\n\nexigências dos órgãos de controle interno; Elaboração de pareceres e\n\nanálise de processos junto a Comissão Permanente de Licitaçôes do\nMunicípio de Mato Grosso-PB",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviço de assessoria e consultoria jurídica\n\nna análise e elaboração das prestações de contas; Atendimento das\n\nexigências dos órgãos de controle interno; Elaboração de pareceres e\n\nanálise de processos junto a Comissão Permanente de Licitaçôes do\nMunicípio de Mato Grosso-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Mato Grosso\ne: CT Nº 00072/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 76247.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 1074431.4200000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 1198727.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Adesão a Ata de Registro de Preços nº 00022/2024 do\n\nMunicípio de Jericó–PB que objetiva Registro de preço para futura e\n\neventual aquisição de materiais para execução de projetos\n\neducacionais de laboratório móveis matemática lúdicos e brinquedos",
+            "empresa": "MASTER BRINK BRINQUEDOS EDUCATIVOS LTDA",
+            "valor_total": "R$ 245,100.00"
+          },
+          {
+            "objeto": "Contratação de serviços de consultoria e assessoria jurídica\n\npara elaboração de pereceres junto ao Gabinete do Prefeito,\n\nacompanhamento das demandas e necessidades apresentadas pelas\n\nsecretarias municipais, representar o Município perante órgãos do\n\njudiciário e promover processos quando necessários assim como\n\noferecer defesa e seguir os processos existentes em 1º e 2º",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Mato Grosso\n\ne: CT Nº 00066/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 798965.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

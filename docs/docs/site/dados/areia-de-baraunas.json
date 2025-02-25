@@ -12,8 +12,8 @@
       },
       "resumo": {
         "num_diarios": 29,
-        "num_contratos": 18,
-        "total_gasto": 3377732.0
+        "num_contratos": 21,
+        "total_gasto": 4591511.13
       },
       "3": {
         "num_diarios": 5,
@@ -60,8 +60,8 @@
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 492000.0,
         "top_3_empresas": [
           "A EMPRESA: T\nA FRANCA SERVICOS"
         ],
@@ -92,8 +92,8 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 721779.13,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -101,15 +101,15 @@
     "2023": {
       "1": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 31980.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 56,
-        "num_contratos": 26,
-        "total_gasto": 5645051.17
+        "num_contratos": 31,
+        "total_gasto": 6583289.17
       },
       "2": {
         "num_diarios": 7,
@@ -125,8 +125,8 @@
       },
       "3": {
         "num_diarios": 7,
-        "num_contratos": 3,
-        "total_gasto": 139873.0,
+        "num_contratos": 7,
+        "total_gasto": 1046131.0000000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -197,8 +197,8 @@
     "2024": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 3,
-        "total_gasto": 2275230.0,
+        "num_contratos": 4,
+        "total_gasto": 2280630.0,
         "top_3_empresas": [
           "J M LOCADORA E\n\nSERVICO LTDA"
         ],
@@ -208,8 +208,8 @@
       },
       "resumo": {
         "num_diarios": 97,
-        "num_contratos": 110,
-        "total_gasto": 15484908.97
+        "num_contratos": 111,
+        "total_gasto": 15490308.97
       },
       "2": {
         "num_diarios": 14,
@@ -323,8 +323,8 @@
   },
   "resumo": {
     "num_diarios": 182,
-    "num_contratos": 154,
-    "total_gasto": 24507692.14,
+    "num_contratos": 163,
+    "total_gasto": "26.665.109,27",
     "top_5_empresas": {
       "HB AUTOPECAS\n\nCOMERCIO DE PECAS E SERVICOS LTDA": 2,
       "COPAUTO COMERCIO\n\nPATOENSE DE AUTOMOTORES LTDA": 1,

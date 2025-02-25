@@ -1,0 +1,1473 @@
+{
+  "id": "vieiropolis",
+  "nome": "Vieirópolis",
+  "detalhe": {
+    "2021": {
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 2608670.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos, material médico-hospitalar\n\ndestinado a Sec de Saúde e demanda judicial\n\nVencedores: - FARMÀCIA CORAÇÂO DE JESUS-FRANCISCA\n\nMARIA DE MOURA SOUSA com o",
+            "empresa": "FARMÀCIA CORAÇÂO DE JESUS-FRANCISCA\n\nMARIA DE MOURA SOUSA",
+            "valor_total": "R$ 555,000.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, material médico-hospitalar\n\ndestinado a Sec de Saúde e demanda judicial",
+            "empresa": "FARMÀCIA CORAÇÂO DE JESUS-FRANCISCA\n\nMARIA DE MOURA SOUSA",
+            "valor_total": "R$ 555,000.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,\n\nVencedores:\n\n- ESTAÇÃO DA CONSTRUÇÃO COMERCIO EIRELI - ME com o",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA",
+            "valor_total": "R$ 2,053,670.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA",
+            "valor_total": "R$ 2,053,670.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 37",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA",
+            "valor_total": "R$ 2,053,670.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,\n\nVencedores:\n\n- ESTAÇÃO DA CONSTRUÇÃO COMERCIO EIRELI - ME com o",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO EIRELI -\n\nME",
+            "valor_total": "R$ 2,053,670.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO EIRELI -\n\nME",
+            "valor_total": "R$ 2,053,670.00"
+          },
+          {
+            "objeto": "Aquisição de Material de construção, elétrico e hidráulico à\n\ntodas as Secretaria da Prefeitura Municipal de Vieirópolis,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 37",
+            "empresa": "ESTAÇÃO DA CONSTRUÇÃO COMERCIO EIRELI -\n\nME",
+            "valor_total": "R$ 2,053,670.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 75,
+        "num_contratos": 111,
+        "total_gasto": 10108115.040000001
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 795220.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 22,
+        "total_gasto": 1238015.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 20,
+        "total_gasto": 1031825.62,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação para fornecimento de concreto industrial usinado\n\ncom bombeamento e aplicação in loco destinado a PMV\n\nVencedores:\n\n- POLIMEXE CONCRETOS CONSTRUCOES E SERVICOS LTDA\n\ncom o",
+            "empresa": "POLIMEXE CONCRETOS CONSTRUCOES E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 98,640.00"
+          },
+          {
+            "objeto": "Contratação para fornecimento de concreto industrial usinado\n\ncom bombeamento e aplicação in loco destinado a PMV",
+            "empresa": "POLIMEXE CONCRETOS CONSTRUCOES E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 98,640.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis\n\nVencedores:\n\n- FLÁVIO AVELNO DE OLIVEIRA - ME com o",
+            "empresa": "FRANCISCO CARLOS LINHARES PEREIRA ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FRANCISCO CARLOS LINHARES PEREIRA ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FRANCISCO CARLOS LINHARES PEREIRA ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FRANCISCO CARLOS LINHARES PEREIRA ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis\n\nVencedores:\n\n- FLÁVIO AVELNO DE OLIVEIRA - ME com o",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA - ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA - ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA - ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "FLÁVIO AVELNO DE OLIVEIRA - ME",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis\n\nVencedores:\n\n- FLÁVIO AVELNO DE OLIVEIRA - ME com o",
+            "empresa": "PEDREIRAS CAPOEIRAS LTDA",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "PEDREIRAS CAPOEIRAS LTDA",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "PEDREIRAS CAPOEIRAS LTDA",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Aquisição de areia, cimento, pó de brita, e pedra de\n\nparalelepípedo destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "PEDREIRAS CAPOEIRAS LTDA",
+            "valor_total": "R$ 654,312.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico\n\nVencedores:\n\n- CONSULTEC - CONSULTORIA E PRESTACAO DE SERVICOS\n\nEM EDUCACAO E SAUDE LTDA com o",
+            "empresa": "MAXWELL DE OLIVEIRA BATISTA",
+            "valor_total": "R$ 144,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico",
+            "empresa": "MAXWELL DE OLIVEIRA BATISTA",
+            "valor_total": "R$ 144,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico",
+            "empresa": "MAXWELL DE OLIVEIRA BATISTA",
+            "valor_total": "R$ 144,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico\n\nVencedores:\n\n- CONSULTEC - CONSULTORIA E PRESTACAO DE SERVICOS\n\nEM EDUCACAO E SAUDE LTDA com o",
+            "empresa": "CONSULTEC - CONSULTORIA E PRESTACAO DE\n\nSERVICOS EM EDUCACAO E SAUDE LTDA",
+            "valor_total": "R$ 144,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico",
+            "empresa": "CONSULTEC - CONSULTORIA E PRESTACAO DE\n\nSERVICOS EM EDUCACAO E SAUDE LTDA",
+            "valor_total": "R$ 144,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço Informatização do Sistema de Saúde\n\nda Atenção Básica - SISAB, com o uso do Portuária Eletrônico",
+            "empresa": "CONSULTEC - CONSULTORIA E PRESTACAO DE\n\nSERVICOS EM EDUCACAO E SAUDE LTDA",
+            "valor_total": "R$ 144,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 912458.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para locação de software para\nauxiliar as atividades administrativa à cargo da PM de Vieirópolis\nVencedores:\n- PUBLIC SOFTWARE INFORMÁTICA LTDA com o",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA",
+            "valor_total": "R$ 197,928.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação de software para\nauxiliar as atividades administrativa à cargo da PM de Vieirópolis",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA",
+            "valor_total": "R$ 197,928.00"
+          },
+          {
+            "objeto": "Fornecimento de vidros para portas e janelas destinado ao\nmunicípio de Vieirópolis\nVencedores:\n- MARIA DA SOLIDADE CESAR FERNANDES com o",
+            "empresa": "MARIA DA SOLIDADE CESAR FERNANDES",
+            "valor_total": "R$ 198,000.00"
+          },
+          {
+            "objeto": "Fornecimento de vidros para portas e janelas destinado ao\nmunicípio de Vieirópolis",
+            "empresa": "MARIA DA SOLIDADE CESAR FERNANDES",
+            "valor_total": "R$ 198,000.00"
+          },
+          {
+            "objeto": "Aquisição de urnas funerária e translado destinado a doação à\ncomunidade carente de Vieirópolis\nVencedores:\n- MARIA DO SOCORRO ANDRADE LOPES - ME com o",
+            "empresa": "MARIA DO SOCORRO ANDRADE LOPES",
+            "valor_total": "R$ 311,900.00"
+          },
+          {
+            "objeto": "Aquisição de urnas funerária e translado destinado a doação à\ncomunidade carente de Vieirópolis",
+            "empresa": "MARIA DO SOCORRO ANDRADE LOPES",
+            "valor_total": "R$ 311,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 619760.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 2105809.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 17,
+        "total_gasto": 586071.06,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE ASSESSORIA CONTÁBIL, ENVOLVENDO:\n\nPREPARAÇÃO DE ORÇAMENTOS PÚBLICOS, REGISTRO DE\n\nESCRITURAÇÃO CONTÁBIL, ELABORAÇÃO DA FOLHA DE\n\nPAGAMENTO, ELABORAÇÃO DE BALANÇOS, BALANCETES\n\nMENSAIS, PRESTAÇÃO DE CONTAS ANUAIS E DEMAIS\n\nDEMONSTRATIVOS EXIGIDOS PELA LEGISLAÇÃO VIGENTE\n\nINERENTES A CONTABILIDADE DA CAMARA MUNICIPAL\n\nDE VIEIROPOLIS – PB",
+            "empresa": "EDVAM MOREIRA\n\nDE SENA",
+            "valor_total": "R$ 42,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO\n\nPARCELADA DE COMBUSTÍVEIS, ÁLCOOL, ÓLEOS\n\nLUBRIFICANTES E FILTROS DE COMBUSTÍVEL,\n\nDESTINADOS AS SECRETARIAS DE FINANÇAS,\n\nADMINISTRAÇÃO, EDUCAÇÃO E GABINETE DO PREFEITO\n\nDESTE MUNICÍPIO",
+            "empresa": "DERIVADOS DE PETROLEO CHABOCAO LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 210285.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 29,
+        "total_gasto": 3521586.11,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Comércio de Materiais Médicos Hospitalares Macrosul\n\nLtda",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS\n\nLTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS AGRESTE\n\nMERIDIONAL LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPITRONICA - COMERCIO DE EQUIPAMENTOS\n\nMEDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "HOSPTALAB COMERCIO DE MATERIAIS\n\nMEDICOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "M.K.R COMERCIO DE EQUIPAMENTOS EIRELI",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "Medic Produtos para Saúde Eireli",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTO MÉDICO\n\nHOSPITALARES LTDA-ME",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "PJS DISTRIBUIDORA - JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS\n\nVencedores:\n\n- Comércio de Materiais Médicos Hospitalares Macrosul Ltda com o",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E UTENSÍLIOS\n\nMÉDICOS HOSPITALARES, MOBILIÁRIO, AR\n\nCONDICIONADOS DESTINADO A PM DE VIEIRÓPOLIS",
+            "empresa": "WORKOUT COMERCIO DE PRODUTOS PARA\n\nSAÚDE LTDA",
+            "valor_total": "R$ 122,477.38"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 104,
+        "num_contratos": 164,
+        "total_gasto": 30412330.130000003
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 2633055.9,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO VEÍCULO TIPO AMBULÂNCIA SIMPLES\n\nREMOÇÃO TIPO \"A\" DESTINADO AO MUNICÍPIO DE\n\nVIEIRÓPOLIS\n\nVencedores:\n\n- IVECO MAIS TRUCK COMERCIO DE CAMINHÕES LTDA com\n\no",
+            "empresa": "IVECO MAIS TRUCK COMERCIO DE CAMINHÕES\n\nLTDA",
+            "valor_total": "R$ 528,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO VEÍCULO TIPO AMBULÂNCIA SIMPLES\n\nREMOÇÃO TIPO \"A\" DESTINADO AO MUNICÍPIO DE\n\nVIEIRÓPOLIS",
+            "empresa": "IVECO MAIS TRUCK COMERCIO DE CAMINHÕES\n\nLTDA",
+            "valor_total": "R$ 528,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 3326781.08,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULO SEMINOVO DE 7 LUGARES\n\nDEESTIANDO ANO 2021/2022 AO MUNICÍPIO DE VIEIR\n\n\n\nEXTRATO DE HOMOLOGAÇÃO\nPREGÃO N.º",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 233,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE VEICULO SEMINOVO DE 7 LUGARES\n\nDEESTIANDO ANO 2021/2022 AO MUNICÍPIO DE\n\nVIEIRÓPOLIS\n\nVencedores:\n\n- NOVOS TEMPOS COMERCIO DE VEICULOS LTDA com o",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 233,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE VEICULO SEMINOVO DE 7 LUGARES\n\nDEESTIANDO ANO 2021/2022 AO MUNICÍPIO DE\n\nVIEIRÓPOLIS",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS LTDA",
+            "valor_total": "R$ 233,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV\n\nVencedores:\n\n- FRUTA DOCE ALEXSANDRO GONCALVES DE ABRANTES\n\ncom o",
+            "empresa": "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV",
+            "empresa": "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV",
+            "empresa": "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV\n\nVencedores:\n\n- FRUTA DOCE ALEXSANDRO GONCALVES DE ABRANTES\n\ncom o",
+            "empresa": "SABOR DA FRUTA FABRICAÇÃO E CONSERVA\n\nDE FRUSTAS LTDA",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV",
+            "empresa": "SABOR DA FRUTA FABRICAÇÃO E CONSERVA\n\nDE FRUSTAS LTDA",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV",
+            "empresa": "SABOR DA FRUTA FABRICAÇÃO E CONSERVA\n\nDE FRUSTAS LTDA",
+            "valor_total": "R$ 270,750.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de gênero alimentícios perecíveis\n\ncarnes, frangos e derivados de animais destinado a PMV\n\nVencedores:\n\n- JUCELIO COSTA DE ARAUJO E CIA LTDA com o",
+            "empresa": "JUCELIO COSTA DE ARAUJO E CIA LTDA",
+            "valor_total": "R$ 682,100.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de gênero alimentícios perecíveis carnes,\n\nfrangos e derivados de animais destinado a PMV",
+            "empresa": "JUCELIO COSTA DE ARAUJO E CIA LTDA",
+            "valor_total": "R$ 682,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 2440135.54,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV\n\nVencedores:\n\n- FRUTA DOCE ALEXSANDRO GONCALVES DE ABRANTES,\n\nvencendo nos seguintes itens: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,\n\n14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31,\n\n32; Foi identificado uma erro de lançamento de",
+            "empresa": "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES, vencendo nos seguintes itens: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,\n\n11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,\n\n30, 31, 32; Foi identificado uma erro de lançamento de valor no item\n\n11 cenoura 2.000 KG– valor unitário R$ 8,25",
+            "valor_total": "R$ 388,235.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE GENEROS\n\nALIMENTÍCIOS TIPO HOTIFRUTI DESTINADO A TODAS AS\n\nSECRETARIAL DA PMV",
+            "empresa": "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES, vencendo nos seguintes itens: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,\n\n11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,\n\n30, 31, 32; Foi identificado uma erro de lançamento de valor no item\n\n11 cenoura 2.000 KG– valor unitário R$ 8,25",
+            "valor_total": "R$ 388,235.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA REFORMA DO MERCADO PÚBLICO NO\n\nMUNICÍPIO DE VIEIRÓPOLIS\n\nVencedores:\n\n- PARAHYBA SERVICOS E LOCACOES F.COSTA\n\nCONSTRUCOES, SERVICOS E LOCACOES EIRELI vencendo no\n\nítem: 1; perfazendo o",
+            "empresa": "PARAHYBA SERVICOS E LOCACOES F.COSTA\n\nCONSTRUCOES, SERVICOS E LOCACOES EIRELI",
+            "valor_total": "R$ 437,260.02"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA\n\nCIVIL PARA REFORMA DO MERCADO PÚBLICO NO\n\nMUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "PARAHYBA SERVICOS E LOCACOES F.COSTA\n\nCONSTRUCOES, SERVICOS E LOCACOES EIRELI",
+            "valor_total": "R$ 437,260.02"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 24,
+        "total_gasto": 2218248.45,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO SERVIÇOS DE PAVIMENTAÇÃO EM\n\nPARALELEPÍPEDOS ÁREAS RURAIS EM CACHOEIRA DE\n\nCIMA DO MUNICÍPIO DE VIERÓPOLIS\n\n\n\nVencedores: - MACÁRIO PRE MOLDADOS E METALURGICA\n\nLTDA vencendo no ítem: 1; perfazendo o",
+            "empresa": "MACÁRIO PRE MOLDADOS E METALURGICA\n\nLTDA",
+            "valor_total": "R$ 241,483.45"
+          },
+          {
+            "objeto": "CONTRATAÇÃO SERVIÇOS DE PAVIMENTAÇÃO EM\n\nPARALELEPÍPEDOS ÁREAS RURAIS EM CACHOEIRA DE\n\nCIMA DO MUNICÍPIO DE VIERÓPOLIS",
+            "empresa": "MACÁRIO PRE MOLDADOS E METALURGICA\n\nLTDA",
+            "valor_total": "R$ 241,483.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 15,
+        "total_gasto": 2338543.16,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE IMPRESSÃO\n\nPRETO-BRANCO E COLORIDA, CÓPIA E ENCARDENAÇÃO\n\nDESTINADO A REDE DE ENSINO MUNICIPAL DE\n\nVIEIRÓPOLIS",
+            "empresa": "INOVE GRÁFICA E EDITORA ME",
+            "valor_total": "R$ 49,840.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE IMPRESSÃO PRETO-\n\nBRANCO E COLORIDA, CÓPIA E ENCARDENAÇÃO\n\nDESTINADO A REDE DE ENSINO MUNICIPAL DE\n\nVIEIRÓPOLIS",
+            "empresa": "INOVE GRÁFICA E EDITORA ME",
+            "valor_total": "R$ 49,840.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de cestas básicas para atender as\n\nnecessidades das pessoas carentes à cargo da PMV\n\nVencedores: - FRANCISCO FILHO LOPES MARTINS vencendo no\n\nítem: 1; perfazendo o",
+            "empresa": "FRANCISCO FILHO LOPES MARTINS",
+            "valor_total": "R$ 212,260.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de cestas básicas para atender as\n\nnecessidades das pessoas carentes à cargo da PMV",
+            "empresa": "FRANCISCO FILHO LOPES MARTINS",
+            "valor_total": "R$ 212,260.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 3344990.8,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DIRETA CONTRATAÇÃO DE\n\nEMPRESA PARA PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE\n\nESTRUTURA TIPO PALCO, SOM, BANHEIRO, GERADOR,\n\nGRID E ILUMINAÇÃO PARA REALIZAÇÃO DA FESTA DE\n\nEMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "RUAN ENTRETENIMENTO E\n\nLOCACOESCNPJ nº 45.866.426/0001-60",
+            "valor_total": "R$ 98,180.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nCONFECÇÃO DE FARDAMENTO DESTINADO A PREFEITURA\n\nDO MUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "GRAFICA ATUAL",
+            "valor_total": "R$ 96,829.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nCONFECÇÃO DE FARDAMENTO DESTINADO A PREFEITURA\n\nDO MUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "GRAFICA ATUAL",
+            "valor_total": "R$ 96,829.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nCONFECÇÃO DE FARDAMENTO DESTINADO A PREFEITURA\n\nDO MUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "GRAFICA ATUAL",
+            "valor_total": "R$ 96,829.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\n\nCONFECÇÃO DE FARDAMENTO DESTINADO A PREFEITURA\n\nDO MUNICÍPIO DE VIEIRÓPOLIS",
+            "empresa": "GRAFICA ATUAL",
+            "valor_total": "R$ 96,829.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 1846125.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 3235587.29,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata\n\nVencedores:\n\n- ALCIONE FERREIRA DANTAS com o",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "ALCIONE FERREIRA DANTAS",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata\n\nVencedores:\n\n- ALCIONE FERREIRA DANTAS com o",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          },
+          {
+            "objeto": "Contratação de farmácia para fornecimento de medicamentos\n\nde uso controlado, étnicos e genéricos com entegra imediata",
+            "empresa": "FAMARCIA CLÍNICA LTDA",
+            "valor_total": "R$ 1,280,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 2615440.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 2396023.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 16,
+        "total_gasto": 495812.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 38,
+        "total_gasto": 2974344.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços\ntécnica na área de Contabilidade Pública, na função de\nContabilista da Câmara Municipal de Vieirópolis",
+            "empresa": "EDVAM MOREIRA DE SENA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços\ntécnica na área de Contabilidade Pública, na função de\nContabilista da Câmara Municipal do Vieirópolis",
+            "empresa": "EDVAM MOREIRA DE SENA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços\ntécnica na área de Contabilidade Pública, na função de\nContabilista da Câmara Municipal de Vieirópolis",
+            "empresa": "EDVAM MOREIRA DE SENA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços\ntécnica na área de Contabilidade Pública, na função de\nContabilista da Câmara Municipal do Vieirópolis",
+            "empresa": "EDVAM MOREIRA DE SENA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO ADVOCATÍCIO\nPARA DEFESAS JUNTO AO TJPB E DEMAIS TRIBUNAIS A\nCARGO DA CÂMARA MUNICIPAL DE VIEIRÓPOLIS",
+            "empresa": "JOSÉ RIJALMA DE OLIVEIRA JÚNIOR , de OAB\nrespectivamente 17.339-PB,",
+            "valor_total": "R$ 42,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE CONSULTORIA E\nASSESSORIA EM PROCEDIMENTO LICITATÓRIO À\nCARGO DA CÂMARA MUNICIPAL DE VIEIRÓPOLIS",
+            "empresa": "SARMENTO SOLUCOES ADMINISTRATIVAS.",
+            "valor_total": "R$ 17,520.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇO DE APOIO\nADMINISTRATIVO À CARGO DA CÂMARA MUNICIPAL\nDE VIEIRÓPOLIS",
+            "empresa": "GERMANO ASSESSORIA ESPECIALIZADA.",
+            "valor_total": "R$ 17,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 104,
+        "num_contratos": 227,
+        "total_gasto": 27827413.69
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 135600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 75,
+        "total_gasto": 11160971.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 168445.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 33,
+        "total_gasto": 3403895.8200000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 37000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 318000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peças genuínas ou originais de 1ª linha para\nmanutenção preventiva e corretiva das máquinas agrícolas,\nimplementos, tratores e etc",
+            "empresa": "ANTONIO SUCUPIRA FILHO",
+            "valor_total": "R$ 264,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1886964.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE FARDAMENTO PARA ATENDER AS DIVERSAS\n\nSECRETARIAS DESTE MUNICIPAL",
+            "empresa": "RD COMERCIO E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 50,435.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1181978.31,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA O\nFORNECIMENTO DE MATERIAIS ODONTOLÓGICOS PARA\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE\nNESTE MUNICIPIO",
+            "empresa": "DENTALMED\nPRODUTOS PARA SAUDE LTDA.",
+            "valor_total": "R$ 158,871.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA O\nFORNECIMENTO DE MATERIAIS ODONTOLÓGICOS PARA\nATENDER AS DEMANDAS DA SECRETARIA DE SAÚDE\nNESTE MUNICIPIO",
+            "empresa": "MEDONTEC",
+            "valor_total": "R$ 158,871.50"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE PEÇAS E EXECUÇÃO DE SERVIÇOS\nPARA FROTA DE VEÍCULOS E MÁQUINAS PESADAS DESTE\nMUNICIPIO",
+            "empresa": "CT Nº 00133/2023 -\n15.09.23 até 15.09.24 - HB AUTOPECAS COMERCIO DE PECAS\nE SERVICOS LTDA",
+            "valor_total": "R$ 1,014,706.81"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 27,
+        "total_gasto": 2683965.9800000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 20,
+        "total_gasto": 2800084.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 1076163.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Adesão Ata de Registro Preço 10017/2023–PMA–PB que\n\nobjetiva aquisição de equipamentos permanente, móveis e de\n\ninformática destinado a Prefeitura Municipal de Vieirópolis",
+            "empresa": "AP TECH\n\nINFORMATICA COMERCIO LTDA",
+            "valor_total": "R$ 102,278.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nCAMERAS, BEM COMO A INSTALAÇÃO, MANUTENÇÃO\n\n(PREVENTIVA), DAS MESMAS NOS PRÉDIOS PÚBLICOS,\n\nDESTE MUNICIPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nSalgado de São Felix e: CT Nº 00077/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA VISANDO O\n\nREGISTRO DE PREÇO PARA DESOBSTRUÇÃO DE\n\nTUBULAÇÕES DE ESGOTO, LIMPEZA E ALUGUEL DE\n\nBANHEIROS QUÍMICOS PARA ESTE MUNICIPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal\n\nde Salgado de São Felix e: CT Nº 00177/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS EM LOCAÇÃO DE\n\nESTRUTURA PARA EVENTOS DESTE MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal\n\nde Salgado de São Felix e: CT Nº 00029/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 715942.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\n\nFORNECIMENTO DE ASSINATURA DE FERRAMENTA DE\n\nPESQUISA DE E COMPARAÇÃO DE PREÇOS PRATICADOS\n\nPELA ADMINISTRAÇÃO PÚBLICA, DE ACORDO COM AS\n\nINSTRUÇÕES NORMATIVAS Nº 73/2020 E Nº 65/2021",
+            "empresa": "NP TECNOLOGIA E GESTAO DE DADOS LTDA",
+            "valor_total": "R$ 11,960.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO\n\nDE PASSAGEM MOLHADA E ADEQUAÇÃO DE ACESSOS NO\n\nSITIO MARIA DE MELO NESTE MUNICIPIO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Salgado de São Felix e:\n\nCT Nº 00122/2023 - Trabes Construcoes e Servicos Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA DA\n\nSEDE DA SECRETARIA DE EDUCAÇÃO DESTE MUNICIPIO",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Salgado de São Felix e:\n\nCT Nº 00126/2023",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 116,
+        "num_contratos": 214,
+        "total_gasto": 39584635.86999999
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 710384.95,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO TÉCNICO ESPECIALIZADO PARA APOIO\nADMINISTRATIVO E ASSESSORIA EM LICITAÇÕES",
+            "empresa": "ZERO UM\nINFORMATICA COMERCIO E SERVICOS DE TI LTDA",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "SERVIÇO\nTÉCNICO ESPECIALIZADO PARA APOIO ADMINISTRATIVO\nE ASSESSORIA EM LICITAÇÕES",
+            "empresa": "ZERO UM\nINFORMATICA COMERCIO E SERVICOS DE TI LTDA",
+            "valor_total": "R$ 24,000.00"
+          },
+          {
+            "objeto": "SERVIÇO TÉCNICO ESPECIALIZADO PARA APOIO\nADMINISTRATIVO E ASSESSORIA EM LICITAÇÕES",
+            "empresa": "ZERO UM\nINFORMATICA COMERCIO E SERVICOS DE TI LTDA",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 277655.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 24,
+        "total_gasto": 7160738.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para Fornecimento parcelada de\n\ncombustíveis, lubrificantes, filtros destinado a todas as secretarias do\n\nMunicípio de Vieirópolis",
+            "empresa": "DERIVADOS DE\n\nPETROLEO CHABOCAO LTDA",
+            "valor_total": "R$ 2,934,880.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUSIÇÃO DE\n\nVEICULOS E MOTOCICLETAS ZERO KM, PARA O MUNICIPIO\n\nDE SALGADO DE SÃO FÉLIX",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 567,999.92"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 39,
+        "total_gasto": 12917275.219999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nVEICULOS PARA ATENDER AS DIVERSAS SECRETARIAS\n\nDESTE MUNICIPIO",
+            "empresa": "CT Nº\n\n00045/2024",
+            "valor_total": "R$ 1,013,475.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 27,
+        "total_gasto": 3915422.5200000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 1850048.6800000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "PHARMAPLUS LTDA",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "CT Nº\n\n00061/2024 - 04.07.24 - DROGAFONTE LTDA",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "NNMED DIST. IMP. EXP. DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00064/2024 -\n\n04.07.24 - DISTRIBUIDORA DE MEDICAMENTOS BACKES\n\nLTDA",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "EXPRESS\n\nDISTRIBUIDAROA DE MEDICAMENTOS",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MEDICAMENTOS DA FARMÁCIA BÁSICA,\n\nMEDICAMENTOS INJETÁVEIS E MEDICAMENTOS\nPSICOTRÓPICOS PARA ATENDER AS DEMANDAS DA\n\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "ALLFAMED CONERCIO ATACADISTA\n\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 216,874.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA NA\n\nESCOLA MUNICIPAL FRANCISCA MARCELINA SALES\n\nDESTE MUNICIPIO, CONFORME PLANILHA",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Salgado de São Felix e: CT Nº 00160/2023 -\n\nConstrutora e Engenharia Wf Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 35,
+        "total_gasto": 4565659.48,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de material de construção, hidráulico e\n\nelétrico destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "ESTACAO DA\n\nCONSTRUCAO COMERCIO DE MATERIAIS DE CONSTRUCAO\n\nLTDA",
+            "valor_total": "R$ 1,660,415.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de construção, hidráulico e\n\nelétrico destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "CENTRAL DO CONSTRUTOR -\n\nCOMERCIO VAREJISTA DE MATERIAIS DE CONSTRUCAO\n\nLTDA",
+            "valor_total": "R$ 1,660,415.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de construção, hidráulico e\n\nelétrico destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "ESTACAO\n\nDA CONSTRUCAO COMERCIO DE MATERIAIS DE\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 1,660,415.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de material de construção, hidráulico e\n\nelétrico destinado à Prefeitura Municipal de Vieirópolis",
+            "empresa": "CT\n\nNº 00047/2024 - 06.06.24 - VIMAC COMERCIO DE MATERIAIS\n\nDE CONSTRUCAO LTDA",
+            "valor_total": "R$ 1,660,415.60"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL DE EXPEDIENTE PARA ATENDER AS\n\nDIVERSAS SECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "FACILITA\n\nSERVICOS GERAIS LTDA.",
+            "valor_total": "R$ 202,280.73"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\n\nDE MATERIAL DE EXPEDIENTE PARA ATENDER AS\n\nDIVERSAS SECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "CT Nº 00096/2024",
+            "valor_total": "R$ 202,280.73"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 1702431.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 2356109.41,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 991536.51,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nVEÍCULO, TIPO ONIBUS “ RESERVA” , PARA TRANSPORTE\n\nDE ESTUDANTES DESTE MUNICIPIO",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Salgado de São Felix e: CT Nº 00137/2023 -\n\nJose Wilson Santos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE LOCAÇÃO DE CAMINHÃO\n\nCOMPACTADOR DE LIXO, PARA ATENDER A DEMANDA\n\nADMINISTRATIVA NO MUNICÍPIO DE SALGADO DE SÃO\n\nFÉLIX",
+            "empresa": "DIEGO DE\n\nSOUZA SANTOS",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 2421431.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

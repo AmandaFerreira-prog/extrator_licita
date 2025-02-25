@@ -1,0 +1,203 @@
+{
+  "id": "lastro",
+  "nome": "Lastro",
+  "detalhe": {
+    "2023": {
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 1533835.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 2748770.21
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 84858.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 1130076.65,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde gêneros alimentícios, destinados a manutenção das atividades de\ndiversas secretarias do Município de Lastro/PB",
+            "empresa": "SUPERMERCADO MOREIRA E MELO LTDA",
+            "valor_total": "R$ 709,270.65"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde gêneros alimentícios, destinados a manutenção das atividades de\ndiversas secretarias do Município de Lastro/PB",
+            "empresa": "THIAGO GOMES BARBOSA\nCOMERCIO",
+            "valor_total": "R$ 709,270.65"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 170000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos diversos, não padronizados, mediante solicitação\n\nperiódica, devendo a entrega ocorrer diariamente nos quantitativos\n\nsolicitados pela Secretaria de Saúde do Município de Lastro/PB",
+            "empresa": "F & A FARMACIA LTDA",
+            "valor_total": "R$ 170,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos diversos, não padronizados, mediante solicitação\n\nperiódica, devendo a entrega ocorrer diariamente nos quantitativos\n\nsolicitados pela Secretaria de Saúde do Município de Lastro/PB",
+            "empresa": "FARMACIA MOURA LTDA",
+            "valor_total": "R$ 170,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos diversos, não padronizados, mediante solicitação\n\nperiódica, devendo a entrega ocorrer diariamente nos quantitativos\n\nsolicitados pela Secretaria de Saúde do Município de Lastro/PB",
+            "empresa": "FRANCISCO ERIKY\n\nDE SA BRAGA",
+            "valor_total": "R$ 170,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 60,
+        "num_contratos": 57,
+        "total_gasto": 7055048.220000001
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 1333085.7,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de limpeza, de forma parcelada, destinados a manutenção\n\ndas atividades de diversas Secretarias do Município de Lastro/PB",
+            "empresa": "LETICIA\n\nGUIMARAES DAMIAO PINTO",
+            "valor_total": "R$ 358,867.70"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de limpeza, de forma parcelada, destinados a manutenção\n\ndas atividades de diversas Secretarias do Município de Lastro/PB",
+            "empresa": "SUPERMERCADO MOREIRA E MELO LTDA",
+            "valor_total": "R$ 358,867.70"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de limpeza, de forma parcelada, destinados a manutenção\n\ndas atividades de diversas Secretarias do Município de Lastro/PB",
+            "empresa": "THIAGO GOMES\n\nBARBOSA COMERCIO",
+            "valor_total": "R$ 358,867.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 30000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 482556.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 1813714.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 666625.7,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos, de forma parcelada, destinados a manutenção da\n\nFarmácia Básica do Município de Lastro/PB",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP.\n\nEXPORTAÇÃO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 419,089.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos, de forma parcelada, destinados a manutenção da\n\nFarmácia Básica do Município de Lastro/PB",
+            "empresa": "HOSPHARMA COMERCIO\n\nATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO\n\nHOSPITALARES E D",
+            "valor_total": "R$ 419,089.40"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde medicamentos, de forma parcelada, destinados a manutenção da\n\nFarmácia Básica do Município de Lastro/PB",
+            "empresa": "CT Nº 00097/2024 - 20.09.24 - DL\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 419,089.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 13,
+        "total_gasto": 985396.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde livros didáticos, destinados aos alunos da rede pública de ensino do\n\nMunicípio de Lastro",
+            "empresa": "GOMES&SILVA ASSESSORIA E\n\nCOMERCIO DE LIVROS LTDA",
+            "valor_total": "R$ 86,580.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 14653.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para prestação\n\nde serviços de elaboração de projetos de engenharia relativos às obras\n\na serem executadas no Município de Lastro/PB",
+            "empresa": "CLAUDINEIA\n\nLEITAO MARTINS SATIRO",
+            "valor_total": "R$ 14,653.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 1559017.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

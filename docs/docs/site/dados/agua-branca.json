@@ -5,8 +5,8 @@
     "2019": {
       "4": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 741800.0,
         "top_3_empresas": [
           "A EMPRESA ALISSON\nPAULINELE RIBEIRO ARAÚJO/FORRÓ TÔ DE CARA",
           "A EMPRESA DN\nPRODUÇÕES LTDA/ DEVINHO NOVAES",
@@ -20,64 +20,66 @@
       },
       "resumo": {
         "num_diarios": 63,
-        "num_contratos": 1,
-        "total_gasto": 28940.0
+        "num_contratos": 55,
+        "total_gasto": 3767833.9000000004
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 717354.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 194374.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 779846.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 681628.7,
         "top_3_empresas": [
-          "MURILO LAMARC GOMES\nMARTINS, portador do",
-          "EUREKA"
+          "MURILO LAMARC GOMES\nMARTINS",
+          "EUREKA",
+          "DISTRIBUIDORA MACBRAZ LTDA"
         ],
         "top_3_objetos": [
           "Contratação de Carro Pipa para abastecimento das Escolas\nda Rede Municipal e da Zona Rural do Município",
-          "Aquisição de kits didáticos (Itens 01 a 08) para melhoria\nde proficiência em Língua Portuguesa e Matemática, com vistas à\nmelhoria do desempenho de estudantes do ensino fundamental (anos\niniciais e anos finais) na Prova Brasil, em conformidade com o Termo\nde Compromisso n.º 201803763-8 PAR/MEC, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº"
+          "Aquisição de kits didáticos (Itens 01 a 08) para melhoria\nde proficiência em Língua Portuguesa e Matemática, com vistas à\nmelhoria do desempenho de estudantes do ensino fundamental (anos\niniciais e anos finais) na Prova Brasil, em conformidade com o Termo\nde Compromisso n.º 201803763-8 PAR/MEC, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+          "AQUISIÇÃO DE FARDAMENTO ESCOLAR PARA\nATENDER AS NECESSIDADES DA REDE MUNICIPAL DE\nENSINO DESTE MUNICIPIO"
         ]
       },
       "9": {
         "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 28940.0,
+        "num_contratos": 4,
+        "total_gasto": 123940.0,
         "top_3_empresas": [
-          "FRANCISCO DE SAULO\n\nMARÇAL BRASIL 08426099467",
+          "FRANCISCO DE SAULO\n\nMARÇAL BRASIL",
           "necessita ser executado de forma\n\ncontínua, o que justifica a prorrogação do prazo de vigência do\n\ncontrato.\n\n\n\nParágrafo Primeiro"
         ],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 151200.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 148200.0,
         "top_3_empresas": [
           "CRISTIANO FERNANDO\n\nDESÁ CARVALHO/CENTRO MÉDICO"
         ],
@@ -87,8 +89,8 @@
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 229490.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -96,81 +98,81 @@
     "2020": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 96256.70000000001,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de materiais e insumos odontológicos,\n\ndestinados ao PSF/ESF/MCAH/SUS – Programa da Saúde da Família\n\n/ Estratégia Saúde da Família /MédiaComplexidade Ambulatorial e\n\nHospitalar/ Sistema Único de Saúde da Prefeitura Municipal de Água\n\nBranca – PB, conforme proposta de preço, tipo menor preço por item,\n\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº"
         ]
       },
       "resumo": {
-        "num_diarios": 83,
-        "num_contratos": 2,
-        "total_gasto": 2933710.05
+        "num_diarios": 82,
+        "num_contratos": 107,
+        "total_gasto": 13870893.219999999
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 43,
+        "total_gasto": 3441671.099999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 7329.05,
+        "num_contratos": 25,
+        "total_gasto": 3846332.84,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 1224861.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 807509.5800000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 260317.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 2926381.0,
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 2943881.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 585600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 285574.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 227689.0,
         "top_3_empresas": [
           "CENTRO DE OLHOS DA\n\nPARAIBA LTDA",
-          "Outros Serviços\n\nde Terceiro Pessoa Jurídica.\n\n\n\nVALOR GLOBAL: R$ 98.115,00 (Noventa e Oito Mil Cinco e\n\nQuinze Reais).\n\n\nVIGÊNCIA: 15/10/2020 à 31/12/2020\n\n\n\nDATA E ASSINATURA: Água Branca"
+          "Outros Serviços\n\nde Terceiro"
         ],
         "top_3_objetos": [
           "Seleção e possível contratação de entidades públicas,\n\nfilantrópicas e/ou privadas prestadoras de serviços de saúde na área de\n\noftalmologia para realização de procedimentos cirúrgicos\n\ndiscriminados na “Tabela de Procedimentos, Medicamentos, Órteses e\n\nPróteses e Materiais Especiais (OPM) do Sistema Único de Saúde -\n\nSUS”"
@@ -178,8 +180,8 @@
       },
       "11": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 151200.0,
         "top_3_empresas": [
           "TERLANDIO PEREIRA\n\nVERAS",
           "MURILO LAMARC GOMES\n\nMARTINS"
@@ -192,12 +194,12 @@
     "2021": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 1067500.0,
         "top_3_empresas": [
           "s, locados, à disposição ou\nvinculados a atividade pública do Município de Água Branca",
-          "EDNAR FLORÊNCIO\nAZEVEDO, portador do",
-          "Outros serviços\nde terceiros pessoa jurídica.\n\nVALOR MENSAL: R$ 13.800,00 (Treze Mil e Oitocentos Reais)\nVALOR GLOBAL R$ 27.600,00 (Vinte e Sete Mil e Seiscentos\nReais)\n\nVIGÊNCIA: 05/01/2021 À 05/03/2021\n\nDATA E ASSINATURA: Água Branca"
+          "EDNAR FLORÊNCIO\nAZEVEDO",
+          "Outros serviços\nde terceiros"
         ],
         "top_3_objetos": [
           "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, Contratados, locados, à disposição ou\nvinculados a atividade pública do Município de Água Branca – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº",
@@ -206,14 +208,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 111,
-        "num_contratos": 22,
-        "total_gasto": 627650.0
+        "num_diarios": 110,
+        "num_contratos": 173,
+        "total_gasto": 15430189.99
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 2,
-        "total_gasto": 250000.0,
+        "num_contratos": 49,
+        "total_gasto": 4543915.51,
         "top_3_empresas": [
           "DEUSIVANE DOS SANTOS\n\nCAVALCANTI EIRELI"
         ],
@@ -223,11 +225,11 @@
       },
       "3": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 22,
+        "total_gasto": 2668120.56,
         "top_3_empresas": [
           "EMLURPE",
-          "Outros serviços de terceiros pessoa\n\njurídica.\n\n\n\nVALOR MENSAL: R$ 13.603,92 (Treze Mil Seiscentos e Três\n\nReais e Noventa e Dois Centavos).\n\n\nVALOR GLOBAL: R$ 163.247,04 (Cento e Sessenta e Três Mil\n\nDuzentos e Quarenta e Sete Reais e Quatro Centavos).\n\n\nVIGÊNCIA: 18/03/2021 à 18/03/2022\n\n\n\nDATA E ASSINATURA: Água Branca"
+          "Outros serviços de terceiros"
         ],
         "top_3_objetos": [
           "Contratação de empresa para o recebimento e destinação\n\nfinal de resíduos sólidos (lixo urbano) em aterro sanitário,\n\ndevidamente licenciado pelo órgão estadual competente"
@@ -235,8 +237,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 15,
-        "total_gasto": 156850.0,
+        "num_contratos": 24,
+        "total_gasto": 1567940.0,
         "top_3_empresas": [
           "s, locados, à\n\ndisposição ou vinculados a atividade pública do Município de Água\n\nBranca"
         ],
@@ -246,50 +248,52 @@
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 5,
-        "total_gasto": 220800.0,
+        "num_contratos": 29,
+        "total_gasto": 1497511.06,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 1066301.25,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 947883.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 74623.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 859929.76,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 488848.0,
         "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_objetos": [
+          "AQUISIÇÃO PARCELADA DE MATERIAL DE\n\nPAVIMENTAÇÃO EM PARALELEPÍPEDOS PARA ATENDER\n\nAS NECESSIDADES DESTE MUNICÍPIO"
+        ]
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 311737.33,
         "top_3_empresas": [
           "NAILDO CLARINDO DOS\nSANTOS/EDUCA MAIS"
         ],
@@ -299,8 +303,8 @@
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 335880.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -308,8 +312,8 @@
     "2022": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 59,
+        "total_gasto": 5604870.15,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de Empresa Especializada para Locação de\n\nMáquina para realização de Corte de Terra na Zona Rural do\n\nMunicípio de Água Branca - PB durante o exercício de 2022,\n\nconforme proposta de preço, tipo menor preço GLOBAL, julgada\n\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº"
@@ -317,13 +321,13 @@
       },
       "resumo": {
         "num_diarios": 88,
-        "num_contratos": 11,
-        "total_gasto": 157085.5
+        "num_contratos": 194,
+        "total_gasto": 19356770.62
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 3900051.2299999995,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de Pneus destinados à frota de veículos e\n\npatrulha mecanizada/máquinas pesadas da Prefeitura Municipal de\n\nÁgua Branca – PB, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
@@ -333,26 +337,26 @@
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 11,
-        "total_gasto": 157085.5,
+        "num_contratos": 18,
+        "total_gasto": 563696.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 1608694.7999999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 678105.86,
         "top_3_empresas": [
-          "JC\n\nENGENHARIA E PROJETOS LTDA, pessoa jurídica de direito\n\nprivado, inscrita no",
-          "EDNAR FLORÊNCIO\n\nAZEVEDO 04533508448",
-          "JOSÉ RIVONILDO DA SILVA,\n\nportador do"
+          "JC\n\nENGENHARIA E PROJETOS LTDA",
+          "EDNAR FLORÊNCIO\n\nAZEVEDO",
+          "JOSÉ RIVONILDO DA SILVA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DA UNIDADE BÁSICA DE\n\nSAÚDE JOSÉ LOUREDO GOMES NO MUNICÍPIO DE ÁGUA\n\nBRANCA - PB",
@@ -362,8 +366,8 @@
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 859520.0,
         "top_3_empresas": [
           "JAQUELINE DA SILVA\n\nBARBOSA"
         ],
@@ -374,15 +378,15 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 370672.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 32,
+        "total_gasto": 2357901.6099999994,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de Equipamento e material de consumo de\n\ninformática e prestação de serviços de recargas de cartuchos e toner\n\npara atender as necessidades de todas as secretarias da prefeitura de\n\nÁgua Branca – PB, conforme especificações constantes no Termo de\n\nReferência anexo ao Edital do processo licitatório modalidade de\n\nPREGÃO ELETRÔNICO N° 07/2022"
@@ -390,11 +394,11 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 2455355.23,
         "top_3_empresas": [
           "AURICÉLIA HERCULANO\n\nGOMES / RECANTO NORDESTINO",
-          "AUZINETE BATISTA DA\n\nCOSTA / CHACARA DO PEIXE, inscrita no",
+          "AUZINETE BATISTA DA\n\nCOSTA / CHACARA DO PEIXE",
           "MARIA DO SOCORRO\n\nFREITAS DA SILVA SOARES / CANTINHO CASEIRO"
         ],
         "top_3_objetos": [
@@ -404,8 +408,8 @@
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 176310.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de Empresa Especializada para transmissão\nde sinal de internet para todas as Secretarias, Diretorias e\nCoordenadorias da Prefeitura Municipal de Água Branca – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº"
@@ -413,15 +417,15 @@
       },
       "11": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 481592.95,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 300000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -429,34 +433,34 @@
     "2023": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 95,
+        "total_gasto": 10251206.060000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 91,
-        "num_contratos": 17,
-        "total_gasto": 206949.5
+        "num_diarios": 89,
+        "num_contratos": 268,
+        "total_gasto": 26227556.89999999
       },
       "2": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 503600.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 10,
-        "num_contratos": 17,
-        "total_gasto": 206949.5,
+        "num_diarios": 9,
+        "num_contratos": 51,
+        "total_gasto": 3269967.0500000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1562256.3,
         "top_3_empresas": [
           "MARIA CLEIDE ALVES\n\nBARBOSA"
         ],
@@ -466,10 +470,10 @@
       },
       "5": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 39,
+        "total_gasto": 4526029.72,
         "top_3_empresas": [
-          "JOSÉ MAX RODRIGUES\nSOARES, inscrita no"
+          "JOSÉ MAX RODRIGUES\nSOARES"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE APOIO\nADMINISTRATIVO À SECRETARIA DE SAÚDE DO\nMUNICÍPIO, NA ELABORAÇÃO DE PROJETOS TÉCNICOS E\nALIMENTAÇÃO DOS SISTEMAS DE SAÚDE"
@@ -477,29 +481,29 @@
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 568765.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 2239911.4000000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 1339088.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 571305.4,
         "top_3_empresas": [
           ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 216/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
           ".\n\n\nPREGÃO ELETRÔNICO N.º 12/2023\n\n\nEXTRATO DO CONTRATO N.º 217/2023\n\n\nPARTES: PREFEITURA MUNICIPAL DE ÁGUA BRANCA"
@@ -510,22 +514,22 @@
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 205020.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 415544.95999999996,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 774861.6699999999,
         "top_3_empresas": [
           "s, firmam o presente Termo\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\ndas partes, CONTRATANTE e",
           ".",
@@ -537,20 +541,20 @@
     "2024": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 3531309.85,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 87,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 86,
+        "num_contratos": 257,
+        "total_gasto": 26616846.120000005
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 45,
+        "total_gasto": 8489856.83,
         "top_3_empresas": [
           "A EMPRESA DICAL-\nDISTRIBUIDORA DE VEICULOS CAJAZEIRAS LTDA",
           "A EMPRESA UZE BRINDES E\nUNIFORMES LTDA"
@@ -562,10 +566,10 @@
       },
       "3": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 67,
+        "total_gasto": 2477067.9800000004,
         "top_3_empresas": [
-          "A EMPRESA HARLEY\n\nCANDIDO LIMA 07858547461/CRIARTE",
+          "A EMPRESA HARLEY\n\nCANDIDO LIMA",
           "A EMPRESA RICARDO\n\nGOMES DA SILVA",
           "A EMPRESA TGM GRAFICA\n\nE EDITORA EIRELI."
         ],
@@ -576,10 +580,10 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 484382.08,
         "top_3_empresas": [
-          "EMERSON AUGUSTO DA\n\nSILVA 89241410400, inscrita no"
+          "EMERSON AUGUSTO DA\n\nSILVA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS EM SST – SEGURANÇA E\nSAÚDE DO TRABALHO, PARA ATENDER AS NECESSIDADES\n\nDA SECRETÁRIA MUNICIPAL DE ADMINISTRAÇÃO DE\n\nÁGUA BRANCA – PB"
@@ -587,22 +591,22 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 34,
+        "total_gasto": 2675236.59,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 872990.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 11,
+        "num_contratos": 37,
+        "total_gasto": 3173118.73,
         "top_3_empresas": [
           "A EMPRESA ENILSON DA\nSILVA ARAUJO SOUZA"
         ],
@@ -612,10 +616,10 @@
       },
       "8": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1739511.49,
         "top_3_empresas": [
-          "ON-HIGHWAY BRASIL LTDA,"
+          "ON-HIGHWAY BRASIL LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de 01 veículo de transporte escolar diário de\n\nestudantes, denominado de Ônibus Rural Escolar (ORE 3), para\n\natender as necessidades da Prefeitura Municipal de Água Branca- PB"
@@ -623,12 +627,12 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 2067119.6,
         "top_3_empresas": [
-          "A EMPRESA",
-          "A EMPRESA - - ACAT\n\nSOLUÇÕES E COMÉRCIO LTDA",
-          "A EMPRESA - MOVEPLAST\n\nINDUSTRIA DE MOVEIS LTDA"
+          "ACAT\n\nSOLUÇÕES E COMÉRCIO LTDA",
+          "GHPS\n\nBARRETO",
+          "JAMES DE\n\nOLIVEIRA-ME"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE MOBILIÁRIOS DIVERSOS PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÇÃO DA PREFEITURA DE ÁGUA BRANCA – PB",
@@ -637,8 +641,8 @@
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 456079.27,
         "top_3_empresas": [
           "A EMPRESA JAF\n\nCONSTRUCAO E CONSULTORIA LTDA"
         ],
@@ -648,15 +652,15 @@
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 635173.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 15000.0,
         "top_3_empresas": [
           "28.722.881 JACIARA MONALIZA\n\nARAUJO DA SILVA"
         ],
@@ -667,14 +671,14 @@
     }
   },
   "resumo": {
-    "num_diarios": 523,
-    "num_contratos": 53,
-    "total_gasto": 3954335.05,
+    "num_diarios": 518,
+    "num_contratos": 1054,
+    "total_gasto": "105.270.090,75",
     "top_5_empresas": {
       "A EMPRESA ALISSON\nPAULINELE RIBEIRO ARAÚJO/FORRÓ TÔ DE CARA": 1,
       "A EMPRESA DN\nPRODUÇÕES LTDA/ DEVINHO NOVAES": 1,
       "A EMPRESA IVANILDO DE\nOLIVEIRA FARIAS": 1,
-      "MURILO LAMARC GOMES\nMARTINS, portador do": 1,
+      "MURILO LAMARC GOMES\nMARTINS": 1,
       "EUREKA": 1
     },
     "top_5_objetos": {

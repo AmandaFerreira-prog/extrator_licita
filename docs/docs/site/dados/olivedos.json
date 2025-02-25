@@ -3,52 +3,22 @@
   "nome": "Olivedos",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 6,
-        "num_contratos": 3,
-        "total_gasto": 21000.0,
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 597115.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 63,
-        "num_contratos": 35,
-        "total_gasto": 2578011.11
+        "num_contratos": 36,
+        "total_gasto": 2638095.34
       },
-      "2": {
-        "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 71260.0,
-        "top_3_empresas": [
-          "GRÁFICA KRAUSE LTDA"
-        ],
-        "top_3_objetos": [
-          "Confecção de Material Gráfico"
-        ]
-      },
-      "3": {
-        "num_diarios": 9,
-        "num_contratos": 13,
-        "total_gasto": 851629.38,
-        "top_3_empresas": [
-          "RUI CARLOS GUIMARÃES\nJUNIOR",
-          "SETGRAF COMÉRCIO E\nSERVIÇOS LTDA"
-        ],
-        "top_3_objetos": [
-          "Contratação de empresas de Informáticas para suporte em\nmicro computadores, manutenção em máquinas de xerox e recarga e"
-        ]
-      },
-      "4": {
-        "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 221824.05,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 4,
-        "num_contratos": 3,
-        "total_gasto": 535585.34,
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 51193.69,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -59,32 +29,53 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "7": {
-        "num_diarios": 7,
-        "num_contratos": 2,
-        "total_gasto": 51193.69,
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 535585.34,
         "top_3_empresas": [
-          "VIRTUAL ENGENHARIA LTDA."
+          "ASSOCIAÇÃO TÉCNICO\nCIENTÍFICO ERNESTO LUIS DE O. JUNIOR"
         ],
         "top_3_objetos": [
-          "PRORROGAÇÃO de prazo por 180 dias, a partir de 02 de Junho de\n2014 a 29 de Novembro de 2014"
+          "Contratação de empresa especializada em realizar concurso\npúblico"
         ]
       },
-      "8": {
-        "num_diarios": 5,
-        "num_contratos": 2,
-        "total_gasto": 597115.65,
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 221824.05,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 851629.38,
         "top_3_empresas": [
-          "POLIGONAL PROJETOS E\nCONSTRUÇÕES LTDA"
+          "ARMANDO MOURA DE\nALMEIDA"
         ],
         "top_3_objetos": [
-          "CONSTRUÇÃO DE UMA QUADRA ESPORTIVA\nESCOLAR COBERTA COM VESTIÁRIO NA SEDE DO\nMUNICÍPIO DE OLIVEDOS/PB."
+          "Aquisições de gêneros alimentícios, mediante solicitação\nperiódica e entrega parcelada, em atendimento as demandas\noperacionais"
         ]
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 71260.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 21000.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "9": {
         "num_diarios": 2,
-        "num_contratos": 1,
-        "total_gasto": 47013.0,
+        "num_contratos": 2,
+        "total_gasto": 107097.23000000001,
         "top_3_empresas": [
           "SHOPPING DA ELETRICIDADE\nCOMERCIAL LTDA"
         ],
@@ -97,9 +88,8 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "e do outro lado, a Pessoa Física JOSENILDO\nOLIVEIRA LUCINDO residente a Rua: Jaime Cavalcante da\nSilva, sn",
-          "e do outro lado, a Pessoa Jurídica A.L.T.\nAIRES DE OLIVEIRA",
-          "e do\noutro lado, a Pessoa Física MARIA NAVEGANTE DA SILVA\nestabelecida a Rua: Dr. Hortêncio O. Carneiro, 554"
+          "e do outro lado, a",
+          "e do\noutro lado, a"
         ],
         "top_3_objetos": []
       },
@@ -136,8 +126,8 @@
       },
       "resumo": {
         "num_diarios": 63,
-        "num_contratos": 30,
-        "total_gasto": 3337968.48
+        "num_contratos": 33,
+        "total_gasto": 3617229.92
       },
       "2": {
         "num_diarios": 4,
@@ -161,8 +151,8 @@
       },
       "4": {
         "num_diarios": 10,
-        "num_contratos": 3,
-        "total_gasto": 603695.2,
+        "num_contratos": 4,
+        "total_gasto": 750795.2,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -197,8 +187,8 @@
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 1,
-        "total_gasto": 12000.0,
+        "num_contratos": 3,
+        "total_gasto": 144161.44,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -240,9 +230,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 65,
-        "num_contratos": 15,
-        "total_gasto": 2370682.8899999997
+        "num_diarios": 64,
+        "num_contratos": 16,
+        "total_gasto": 2462682.8899999997
       },
       "2": {
         "num_diarios": 5,
@@ -284,7 +274,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 1,
         "total_gasto": 41867.28,
         "top_3_empresas": [],
@@ -324,8 +314,8 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 92000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -343,9 +333,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 115,
-        "num_contratos": 78,
-        "total_gasto": 3991034.01
+        "num_diarios": 114,
+        "num_contratos": 80,
+        "total_gasto": 4036034.01
       },
       "2": {
         "num_diarios": 10,
@@ -356,8 +346,8 @@
       },
       "3": {
         "num_diarios": 14,
-        "num_contratos": 13,
-        "total_gasto": 305324.05,
+        "num_contratos": 15,
+        "total_gasto": 350324.05,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -366,7 +356,7 @@
         "num_contratos": 8,
         "total_gasto": 769801.22,
         "top_3_empresas": [
-          "DOUGLAS PEREIRA DE LIMA\n10453802451"
+          "DOUGLAS PEREIRA DE LIMA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE PESSOA FISICA OU JURIDICA\nPARA EXECUÇÃO DE SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADE DA\nSECRETARIA DE OBRAS E SERVIÇOS URBANO"
@@ -377,7 +367,7 @@
         "num_contratos": 16,
         "total_gasto": 703665.55,
         "top_3_empresas": [
-          "JOSE JOMARCIO COSTA SANTOS\n08293528486",
+          "JOSE JOMARCIO COSTA SANTOS",
           "ORTOSHOP COMERCIO LTDA -\nME",
           "JOSE ALVES NETO"
         ],
@@ -434,7 +424,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 2,
         "total_gasto": 68475.0,
         "top_3_empresas": [
@@ -457,8 +447,8 @@
       },
       "resumo": {
         "num_diarios": 95,
-        "num_contratos": 74,
-        "total_gasto": 5618728.2299999995
+        "num_contratos": 76,
+        "total_gasto": 5812178.2299999995
       },
       "2": {
         "num_diarios": 9,
@@ -476,7 +466,7 @@
         "num_contratos": 9,
         "total_gasto": 1014141.0,
         "top_3_empresas": [
-          "JOSE JOMARCIO COSTA SANTOS\n08293528486"
+          "JOSE JOMARCIO COSTA SANTOS"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA DESTINADA A\nAQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO DE FORMA\nPARCELADA",
@@ -485,8 +475,8 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 8,
-        "total_gasto": 304143.4,
+        "num_contratos": 10,
+        "total_gasto": 497593.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -593,7 +583,11 @@
         "num_diarios": 7,
         "num_contratos": 2,
         "total_gasto": 163817.89,
-        "top_3_empresas": [],
+        "top_3_empresas": [
+          "s, as partes assinaram o\n\npresente instrumento em 02 vias, de igual teor e para o mesmo efeito\n\nde direito, juntamente com 02 Testemunhas presenciais.\n\n\n\nOuro Velho - PB, 03 de maio de 2019.\n\nNATALIA CARNEIRO NUNES DE\n\nLIRA\nOSTO DE COMBUSTIVEL OURO VELHO LTDA",
+          "s, as partes assinaram o\n\npresente instrumento em 02 vias, de igual teor e para o mesmo efeito\n\nde direito, juntamente com 02 Testemunhas presenciais.\n\n\n\nOuro Velho",
+          "CARLOS EDUARDO FERREIRA DE\n\nMELO __________________________________\n\nAssessor Jurídico\nSecretário de Administração\n\n\n\nTESTEMUNHAS: ____________"
+        ],
         "top_3_objetos": []
       },
       "6": {
@@ -664,16 +658,16 @@
     },
     "2020": {
       "1": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 4,
         "total_gasto": 322950.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 97,
+        "num_diarios": 94,
         "num_contratos": 58,
-        "total_gasto": 7917999.74
+        "total_gasto": 7914499.74
       },
       "2": {
         "num_diarios": 9,
@@ -730,8 +724,8 @@
       },
       "8": {
         "num_diarios": 10,
-        "num_contratos": 5,
-        "total_gasto": 224924.0,
+        "num_contratos": 6,
+        "total_gasto": 327924.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -743,9 +737,9 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 6,
-        "num_contratos": 7,
-        "total_gasto": 174043.82,
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 67543.82,
         "top_3_empresas": [
           "A COSTA\nCOMÉRCIO ATACADISTA DE PRODUTOS FARMACEUTICOS\nLTDA",
           "CIRURGICA\nMONTEBELLO LTDA",
@@ -756,7 +750,7 @@
         ]
       },
       "11": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 148581.0,
         "top_3_empresas": [],
@@ -779,14 +773,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 99,
-        "num_contratos": 92,
-        "total_gasto": 12471867.61
+        "num_diarios": 94,
+        "num_contratos": 90,
+        "total_gasto": 9711050.399999999
       },
       "2": {
-        "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 924850.0,
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -805,7 +799,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 2,
         "total_gasto": 139500.0,
         "top_3_empresas": [],
@@ -826,9 +820,9 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 10,
-        "num_contratos": 12,
-        "total_gasto": 2804006.38,
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 968039.1699999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -973,9 +967,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 95,
-        "num_contratos": 32,
-        "total_gasto": 7726011.109999999
+        "num_diarios": 94,
+        "num_contratos": 37,
+        "total_gasto": 7992308.079999999
       },
       "2": {
         "num_diarios": 8,
@@ -1011,13 +1005,13 @@
       },
       "6": {
         "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 23760.0,
+        "num_contratos": 6,
+        "total_gasto": 290056.97,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 2,
         "total_gasto": 864731.13,
         "top_3_empresas": [],
@@ -1072,7 +1066,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 110,
+        "num_diarios": 109,
         "num_contratos": 63,
         "total_gasto": 10752208.81
       },
@@ -1109,7 +1103,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 10,
         "total_gasto": 730513.1,
         "top_3_empresas": [],
@@ -1160,22 +1154,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 996,
-    "num_contratos": 563,
-    "total_gasto": 68528403.96,
+    "num_diarios": 984,
+    "num_contratos": 575,
+    "total_gasto": "66.700.179,39",
     "top_5_empresas": {
       "ALISON PAULINELI DA SILVA\nPINTO": 3,
-      "GRÁFICA KRAUSE LTDA": 2,
       "SHOPPING DA ELETRICIDADE\nCOMERCIAL LTDA": 2,
-      "JOSE JOMARCIO COSTA SANTOS\n08293528486": 2,
-      "SHOPPING DA ELETRICIDADE COMERCIAL LTDA": 2
+      "JOSE JOMARCIO COSTA SANTOS": 2,
+      "SHOPPING DA ELETRICIDADE COMERCIAL LTDA": 2,
+      "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA": 2
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DOS SERVIÇOS CONTÁBEIS PARA\nACOMPANHAMENTO FINANCEIRO, ELABORAÇÃO DOS\nRELATÓRIOS CONTÁBEIS MENSAIS EXIGIDOS": 2,
-      "Confecção de Material Gráfico": 1,
-      "Contratação de empresas de Informáticas para suporte em\nmicro computadores, manutenção em máquinas de xerox e recarga e": 1,
-      "PRORROGAÇÃO de prazo por 180 dias, a partir de 02 de Junho de\n2014 a 29 de Novembro de 2014": 1,
-      "CONSTRUÇÃO DE UMA QUADRA ESPORTIVA\nESCOLAR COBERTA COM VESTIÁRIO NA SEDE DO\nMUNICÍPIO DE OLIVEDOS/PB.": 1
+      "Contratação de empresa especializada em realizar concurso\npúblico": 1,
+      "Aquisições de gêneros alimentícios, mediante solicitação\nperiódica e entrega parcelada, em atendimento as demandas\noperacionais": 1,
+      "COMPRA DE MATERIAL ELÉTRICO PARA A\nSECRETARIA DE OBRAS E SERVIÇOS URBANOS PARA\nSUPRIR DEMANDA DA ADMINISTRAÇÃO PÚBLICA DO\nMUNICÍPIO": 1,
+      "Fornecimento de refeições": 1
     }
   }
 }

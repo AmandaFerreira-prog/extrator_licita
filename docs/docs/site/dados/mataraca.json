@@ -3,27 +3,48 @@
   "nome": "Mataraca",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 13,
-        "num_contratos": 6,
-        "total_gasto": 1173182.6400000001,
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 135,
         "num_contratos": 121,
-        "total_gasto": 8864379.030000001
+        "total_gasto": 8864379.03
       },
-      "2": {
-        "num_diarios": 11,
-        "num_contratos": 9,
-        "total_gasto": 609638.03,
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 28,
+        "total_gasto": 959202.2000000001,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 780068.4,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 1381994.0500000003,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 41,
+        "total_gasto": 2060026.68,
         "top_3_empresas": [
-          "Astec Group Contadores Associados\nS/S Ltda"
+          "Rocha Papel e Variedade LTDA"
         ],
         "top_3_objetos": [
-          "Contratação de uma Empresa Especializada em Serviços\nTécnicos de Contabilidade para a Câmara Municipal do Mataraca"
+          "Aquisição de materiais de expediente destinados a atender a\nSecretaria de Saúde deste Município."
         ]
       },
       "3": {
@@ -33,46 +54,21 @@
         "top_3_empresas": [],
         "top_3_objetos": []
       },
-      "4": {
-        "num_diarios": 14,
-        "num_contratos": 41,
-        "total_gasto": 2060026.6799999997,
-        "top_3_empresas": [
-          "LIRA PESCADO LTDA"
-        ],
-        "top_3_objetos": [
-          "Aquisição de peixes para distribuição gratuita junto a\npopulação carente na semana santa neste município"
-        ]
-      },
-      "5": {
-        "num_diarios": 9,
-        "num_contratos": 10,
-        "total_gasto": 1381994.05,
-        "top_3_empresas": [
-          "MCG CONSTRUCOES LTDA"
-        ],
-        "top_3_objetos": [
-          "Contratação de uma empresa especializada em construção\ncivil, para construção do prédio da Unidade Básica de Saúde - UBS"
-        ]
-      },
-      "6": {
-        "num_diarios": 10,
-        "num_contratos": 5,
-        "total_gasto": 780068.4,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 13,
-        "num_contratos": 28,
-        "total_gasto": 959202.2000000001,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
+      "2": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 609638.03,
+        "top_3_empresas": [
+          "NEWTON NOBEL SOBREIRA\nVITA ADVOGADOS ASSOCIADOS"
+        ],
+        "top_3_objetos": [
+          "Prestação de serviços jurídicos em forma de\nassessoramento no Fundo Municipal de Saúde"
+        ]
+      },
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 1173182.6400000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -127,8 +123,8 @@
       },
       "resumo": {
         "num_diarios": 147,
-        "num_contratos": 111,
-        "total_gasto": 8099801.110000001
+        "num_contratos": 112,
+        "total_gasto": 8194561.170000001
       },
       "2": {
         "num_diarios": 16,
@@ -174,10 +170,14 @@
       },
       "8": {
         "num_diarios": 16,
-        "num_contratos": 12,
-        "total_gasto": 1333478.14,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 13,
+        "total_gasto": 1428238.2,
+        "top_3_empresas": [
+          "MM\nConstruções e Serviços Limitada"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa de engenharia civil para construção\nde polo da academia da saúde com área de 516,12m² situada à Rua\nInácio Clementino de Medeiros, s/n - Centro / São Sebastião de Lagoa\nde Roça-PB"
+        ]
       },
       "9": {
         "num_diarios": 8,
@@ -313,8 +313,8 @@
       },
       "resumo": {
         "num_diarios": 167,
-        "num_contratos": 139,
-        "total_gasto": 14245536.889999997
+        "num_contratos": 142,
+        "total_gasto": 14322576.889999997
       },
       "2": {
         "num_diarios": 16,
@@ -345,8 +345,8 @@
       },
       "5": {
         "num_diarios": 16,
-        "num_contratos": 23,
-        "total_gasto": 1441135.59,
+        "num_contratos": 26,
+        "total_gasto": 1518175.59,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -540,8 +540,8 @@
       },
       "resumo": {
         "num_diarios": 188,
-        "num_contratos": 155,
-        "total_gasto": 10301186.319999998
+        "num_contratos": 164,
+        "total_gasto": 10597110.879999997
       },
       "2": {
         "num_diarios": 18,
@@ -583,7 +583,7 @@
         "total_gasto": 260400.0,
         "top_3_empresas": [
           "F3\nENTRETERIMENTOS, LOCACOES E SERVIÇOS LTDA",
-          "GIULIANA PAULA\nSOUSA DE OLIVEIRA 05287803443",
+          "GIULIANA PAULA\nSOUSA DE OLIVEIRA",
           "RANNIERY GOMES DA\nTRINDADE"
         ],
         "top_3_objetos": [
@@ -629,8 +629,8 @@
       },
       "11": {
         "num_diarios": 15,
-        "num_contratos": 4,
-        "total_gasto": 283331.0,
+        "num_contratos": 13,
+        "total_gasto": 579255.5599999999,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aditar Aquisição parcelada de materiais de construções\n\ndiversos, destinados as secretaria deste Município, conforme prevista\n\nna Cláusula Quarta do contrato 00038/2019, ficando acrescido em\n\n25% (vinte e cinco por cento) alterando o"
@@ -662,8 +662,8 @@
       },
       "resumo": {
         "num_diarios": 168,
-        "num_contratos": 95,
-        "total_gasto": 11339622.660000002
+        "num_contratos": 97,
+        "total_gasto": 11494057.660000002
       },
       "2": {
         "num_diarios": 14,
@@ -742,8 +742,8 @@
       },
       "10": {
         "num_diarios": 12,
-        "num_contratos": 4,
-        "total_gasto": 34153.119999999995,
+        "num_contratos": 6,
+        "total_gasto": 188588.12,
         "top_3_empresas": [
           "MARIA DA PENHA DA SILVA DE\nAZEVEDO"
         ],
@@ -1213,21 +1213,21 @@
   },
   "resumo": {
     "num_diarios": 1853,
-    "num_contratos": 1373,
-    "total_gasto": 138424985.12,
+    "num_contratos": 1388,
+    "total_gasto": "139.047.144,74",
     "top_5_empresas": {
       "FABIO FREIRE COUTINHO": 2,
       "Floriano Bezerra da Silva": 2,
-      "Astec Group Contadores Associados\nS/S Ltda": 1,
-      "LIRA PESCADO LTDA": 1,
-      "MCG CONSTRUCOES LTDA": 1
+      "Rocha Papel e Variedade LTDA": 1,
+      "NEWTON NOBEL SOBREIRA\nVITA ADVOGADOS ASSOCIADOS": 1,
+      "Sara Cristina Pereira da Silva": 1
     },
     "top_5_objetos": {
       "Aquisição de materiais de consumo odontológicos\ndestinado ao programa de Saúde Bucal de Mataraca": 2,
-      "Contratação de uma Empresa Especializada em Serviços\nTécnicos de Contabilidade para a Câmara Municipal do Mataraca": 1,
-      "Aquisição de peixes para distribuição gratuita junto a\npopulação carente na semana santa neste município": 1,
-      "Contratação de uma empresa especializada em construção\ncivil, para construção do prédio da Unidade Básica de Saúde - UBS": 1,
-      "Contratação de uma empresa especializada para prestação\nde serviços funerários mediante solicitação": 1
+      "Aquisição de materiais de expediente destinados a atender a\nSecretaria de Saúde deste Município.": 1,
+      "Prestação de serviços jurídicos em forma de\nassessoramento no Fundo Municipal de Saúde": 1,
+      "Contratação de uma empresa especializada para prestação\nde serviços funerários mediante solicitação": 1,
+      "Fornecimento de lanches diversos e locação de mesas e\ncadeiras, destinados as secretarias deste Município": 1
     }
   }
 }

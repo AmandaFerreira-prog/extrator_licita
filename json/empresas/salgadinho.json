@@ -1,0 +1,620 @@
+{
+  "id": "salgadinho",
+  "nome": "Salgadinho",
+  "detalhe": {
+    "2021": {
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 30,
+        "num_contratos": 47,
+        "total_gasto": 3700756.12
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 14,
+        "total_gasto": 1057152.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 113787.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 216380.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 14,
+        "total_gasto": 1475316.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 315132.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 8,
+        "total_gasto": 522986.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 134000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Ambulância 0KM, destinado a Secretaria de\n\nSaúde do Município de Salgadinho–PB",
+            "empresa": "COPAUTO COMERCIO\n\nPATOENSE DE AUTOMOTORES LTDA",
+            "valor_total": "R$ 134,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 78,
+        "num_contratos": 83,
+        "total_gasto": 10757227.520000001
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1812817.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 174516.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 17,
+        "total_gasto": 335510.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 2155575.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Locação de Equipamentos de\n\nHematologia e de Bioquímica, para atender as necessidades da\n\nSecretaria de Saúde do Município de Salgadinho – PB",
+            "empresa": "PRO LABORATORIO COMERCIO\n\nE EQUIPAMENTOS PARA LABORATORIOS EIRELI",
+            "valor_total": "R$ 57,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 2989340.27,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Execução de Pavimentação e\n\nDrenagem em Paralelepípedos, no Município de Salgadinho–PB,\n\nreferente ao Contrato de Repasse nº 1075350–72/2021",
+            "empresa": "E&M ADMINISTRACAO DE\n\nIMOVEIS E CONSTRUCOES LTDA",
+            "valor_total": "R$ 240,710.32"
+          },
+          {
+            "objeto": "Contratação de Empresa para Execução de Pavimentação\n\nem Paralelepípedo e Drenagem no Povoado de Serraria e no Sítio\n\nOlho D’Água da Viração, no Município de Salgadinho – PB, referente\n\nao Contrato de Repasse nº 1077127–74/2021",
+            "empresa": "CONSTRUTORA REALIZAR\n\nEIRELI",
+            "valor_total": "R$ 356,221.39"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 912072.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 998258.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada na Prestação dos\n\nServiços de Exames laboratoriais, Destinado ao Atendimento das\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\n\nAtividades da Secretaria de Saúde da Prefeitura Municipal de\n\nSalgadinho–PB",
+            "empresa": "IGOR NOBREGA FERREIRA\n\nEIRELI",
+            "valor_total": "R$ 100,506.20"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada na Prestação dos\n\nServiços de Exames laboratoriais, Destinado ao Atendimento das\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\n\nAtividades da Secretaria de Saúde da Prefeitura Municipal de\n\nSalgadinho–PB",
+            "empresa": "POLICLINICA POPULAR PATOENSE LTDA",
+            "valor_total": "R$ 100,506.20"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada na Prestação dos\n\nServiços de Exames laboratoriais, Destinado ao Atendimento das\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\n\nAtividades da Secretaria de Saúde da Prefeitura Municipal de\n\nSalgadinho–PB",
+            "empresa": "UDI PATOS SERVICOS E PRODUTOS\n\nMEDICOS LTDA",
+            "valor_total": "R$ 100,506.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 953244.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada no Fornecimento\n\nParcelado de Material Odontológico Destinado ao Atendimento da\n\nSecretaria de Saúde da Prefeitura Municipal de Salgadinho–PB",
+            "empresa": "DENTAL R F COMERCIO DE\n\nPRODUTOS ODONTOLOGICOS LTDA",
+            "valor_total": "R$ 23,764.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 24208.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 267684.11,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Kit Biométrico para atender as necessidades\n\nda Prefeitura Municipal de Salgadinho – PB",
+            "empresa": "AKIYAMA S.A.",
+            "valor_total": "R$ 17,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 2030286.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Locação de\n\nMáquinas para realização de Corte de Terra na Zona Rural do\n\nMunicípio de Salgadinho – PB durante o exercício de 2023",
+            "empresa": "PAULO CESAR TAVARES\n\nCONSERVA",
+            "valor_total": "R$ 125,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 98,
+        "num_contratos": 142,
+        "total_gasto": 17659104.99
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 1262965.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada de Merenda Escolar Destinada ao\n\nAtendimento dos Alunos da Rede Pública de Ensino da Prefeitura\n\nMunicipal de Salgadinho–PB",
+            "empresa": "A EMPRESA BEETHOVEN\n\nDOS SANTOS DA SILVA",
+            "valor_total": "R$ 327,225.60"
+          },
+          {
+            "objeto": "Aquisição Parcelada de Merenda Escolar Destinada ao\n\nAtendimento dos Alunos da Rede Pública de Ensino da Prefeitura\n\nMunicipal de Salgadinho–PB",
+            "empresa": "A EMPRESA J.T.A.\n\nCOMERCIO DE ARTIGOS DESCARTAVEIS LTDA",
+            "valor_total": "R$ 9,500.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de Gêneros Alimentícios Não\n\nPerecíveis Destinado ao atendimento das Diversas Secretarias da\nPrefeitura Municipal de Salgadinho–PB",
+            "empresa": "A EMPRESA BEETHOVEN\n\nDOS SANTOS DA SILVA",
+            "valor_total": "R$ 377,335.50"
+          },
+          {
+            "objeto": "Aquisição Parcelada de Gêneros Alimentícios Perecíveis\n\n(Frios e Derivados) Destinados a Diversas Secretarias da Prefeitura do\n\nMunicípio de Salgadinho–PB",
+            "empresa": "A EMPRESA BEETHOVEN\n\nDOS SANTOS DA SILVA",
+            "valor_total": "R$ 288,425.20"
+          },
+          {
+            "objeto": "Contratação de Empresa na Aquisição Parcelada de\nMaterial (Descartável, Higiene e Limpeza) destinado a atender as\n\nnecessidades de Diversas Secretarias da Prefeitura Municipal de\n\nSalgadinho-PB",
+            "empresa": "A EMPRESA BEETHOVEN\n\nDOS SANTOS DA SILVA",
+            "valor_total": "R$ 236,759.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1957370.8599999999,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNO FORNECIMENTO PARCELADO DE MATERIAL DE\n\nCONSTRUÇÃO, ELÉTRICA E OUTROS, DESTINADO AO\n\nATENDIMENTO DAS DIVERSAS SECRETARIAS DA\n\nPREFEITURA MUNICIPAL DE SALGADINHO-PB",
+            "empresa": "A EMPRESA FLAVIO DE\n\nMEDEIROS NOBREGA MATERIAL DE CONSTRUCAO",
+            "valor_total": "R$ 11,180.25"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS TÉCNICOS DE CONSULTORIA EM SAÚDE E\n\nSEGURANÇA DO TRABALHO, PARA ATENDER AS\n\nNECESSIDADES DA PREFEITURA MUNICIPAL DE\n\nSALGADINHO – PB",
+            "empresa": "EDILAINE ALVES DOS SANTOS\n\nOLIVEIRA FERREIRA",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 2161348.72,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE CONJUNTOS ESCOLARES (MESA E\n\nCADEIRA) DO TIPO CJ6 ADULTO PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE EDUCAÇÃO DO\n\nMUNICÍPIO DE SALGADINHO–PB",
+            "empresa": "A EMPRESA JAMES DE\n\nOLIVEIRA",
+            "valor_total": "R$ 28,960.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 236619.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nNA PRESTAÇÃO DOS SERVIÇOS DE EMPENHO DAS\nDESPESAS JUNTO A SECRETARIA DE FINANÇAS DA\nPREFEITURA MUNICIPAL DE SALGADINHO-PB",
+            "empresa": "RONDINELLE MARQUES\nPEIXOTO",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nNA PRESTAÇÃO DE SERVIÇO DE TREINAMENTO,\nIMPLANTAÇÃO E SUPORTE TÉCNICO ESPECIALIZADO NO\nAPLICATIVO E-SUS/PEC - PRONTUARIO ELETRONICO DO\nCIDADÃO, COM O FORNECIMENTO EM COMODATO, DE\nIMPRESSORAS E DESKTOP/NOTEBOOKS/TABLETS,\nNECESSÁRIOS PARA O LANÇAMENTO DAS INFORMAÇÕES\nBEM COMO CONFIGURAÇÃO DO SERVIDOR,\nGERENCIMANTO E MONITORAMENTO DOS DADOS\nENVIADOS PARA O MINISTERIO DA SAUDE, DESTINADOS\nAS DUAS UBS DE RESPONSABILIDADE DA SECRETARIA DE\nSAÚDE DE SALGADINHO-PB",
+            "empresa": "EDER BATISTA DE SOUZA -\nME",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 524648.3200000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EVENTUAL AQUISIÇÃO DE SERVIÇOS DE\n\nSERRALHARIA E CONFECÇÃO DE ESTRUTURAS\n\nMETÁLICAS DIVERSAS, PARA ATENDER AS NECESSIDADES\n\nDE TODAS AS SECRETARIAS DO MUNICÍPIO DE\n\nSALGADINHO/PB",
+            "empresa": "JOSE RICARDO SILVA NENEN -\n\nR$ 43.250,00.\n\n\n\nSalgadinho",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nELABORAÇÃO DO PROJETO DE ENGENHARIA DE\n\nADEQUAÇÃO DE ESTRADAS VICINAIS, REFERENTE AO\n\nCONTRATO DE REPASSE Nº 11086037-74/2022 PELO\n\nMINISTÉRIO DA AGRICULTURA, PECUÁRIA E\n\nABASTECIMENTO PARA A PREFEITURA MUNICIPAL DE\n\nSALGADINHO – PB",
+            "empresa": "YAGO DIAS DE SOUSA",
+            "valor_total": "R$ 11,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de veículo destinado a atender as necessidades da\n\nSecretaria de Infraestrutura do município de Salgadinho – PB",
+            "empresa": "ISMAEL CARLOS CORREIA -\n\nR$ 34.800,00.\n\n\n\nSalgadinho",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 317671.99,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULOS 07 (SETE) LUGARES,\n\nTIPO MINIVAN, ZERO QUILOMETRO PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE SALGADINHO/PB",
+            "empresa": "PEDRAGON AUTOS LTDA",
+            "valor_total": "R$ 128,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 212940.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Carro Pipa destinado a atender as necessidades\n\nda Secretaria de Agricultura do município de Salgadinho – PB",
+            "empresa": "34.754.583 CHRISTIAN ACIOLE\n\nDE ARAUJO",
+            "valor_total": "R$ 26,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 1422023.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Unidade Móvel de Saúde conforme\n\nespecificações constante Termo de Referência e da Proposta FNS\n\n11321.779000/1230–01",
+            "empresa": "MAIS TRUCK COMERCIO DE\n\nCAMINHOES LTDA",
+            "valor_total": "R$ 390,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 19,
+        "total_gasto": 3662985.7800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A\n\nREALIZAÇÃO DE ATENDIMENTO E LAUDO DE 500\n\nUNIDADES DE ULTRASSONOGRAFIA (IN LOCO) PARA\n\nATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE\n\nSAUDE DE SALGADINHO – PB",
+            "empresa": "VIVA SERVICOS DE\n\nDIAGNOSTICOS POR IMAGEM LTDA",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 38,
+        "total_gasto": 3870245.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 2653226.8799999994,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA DO CENTRO DE\n\nCONVIVÊNCIA E FORTALECIMENTO DE VÍNCULO (SCFV)\n\nNO MUNICÍPIO DE SALGADINHO/PB, CONFORME PROJETO\n\nBÁSICO DE ENGENHARIA",
+            "empresa": "CONSTRUTORA REALIZAR\n\nEIRELI",
+            "valor_total": "R$ 80,136.26"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE PAVIMENTAÇÃO EM PARALELEPÍPEDO\n\nE DRENAGEM NO DISTRITO DE SÃO JOSÉ DA BATALHA,\n\nMUNICÍPIO DE SALGADINHO, NOS TERMOS DO CONTRATO\n\nDE REPASSE N.º 1084998–21/2022 E EM CONFORMIDADE\n\nCOM O PROJETO DE ENGENHARIA",
+            "empresa": "RENOVAR CONSTRUCOES E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 396,246.61"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 84,
+        "num_contratos": 153,
+        "total_gasto": 13254730.700000003
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 1207509.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Serviços Técnicos Especializados na área\n\njurídica, visando à defesa dos interesses do Município de Salgadinho–\n\nPB, nas ações que versam sobre a responsabilização do gestor por\n\nirregularidades na execução de convênios públicos através do ingresso\n\nda competente ação para suspensão de inadimplências, bem como nas\n\ndemandas que tramitam na cidade de João Pessoa, especificamente\n\nnos Tribunais de Justiça do Estado da Paraíba, no Tribunal de Contas\n\ndo Estado da Paraíba, Tribunal de Contas",
+            "empresa": "RODRIGO MAIA ADVOCACIA -\n\nR$ 48.000,00.\n\n\n\nSalgadinho",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 30,
+        "total_gasto": 2546516.89,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO PARCELADO DE ALIMENTOS NÃO\nPERECÍVEIS DO TIPO LEITES E SUPLEMENTOS ESPECIAIS\n\nDESTINADOS A ATENDER AS ATIVIDADES DAS\n\nSECRETARIAS DE SAÚDE DE SALGADINHO/PB",
+            "empresa": "ALEXANDRE ALAMARCK\n\nBARBOZA DINIZ EIRELI",
+            "valor_total": "R$ 56,562.35"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO PARCELADO DE FRALDAS DESCARTÁVEIS\n\nINFANTIS E GERIÁTRICAS PARA ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE SALGADINHO – PB",
+            "empresa": "ALEXANDRE ALAMARCK\n\nBARBOZA DINIZ EIRELI",
+            "valor_total": "R$ 55,197.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 27,
+        "total_gasto": 1512776.6,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DOS SERVIÇOS DE PLANEJAMENTO E\n\nORGANIZAÇÃO DO TURISMO DO MUNICÍPIO DE\n\nSALGADINHO–PB",
+            "empresa": "ECOGEO TURISMO\n\nCONSULTORIA E ASSESSORIA TECNICA LTDA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 1139091.9,
+        "empresas_mensais": [
+          {
+            "objeto": "APRESENTAÇÃO DE UM SHOW ARTÍSTICO DO\nCANTOR LUKAS FERNANDES, NO DIA 20 DE JUNHO DE 2024,\nEM PRAÇA PÚBLICA, NO DISTRITO DE SÃO JOSÉ DA\nBATALHA, DURANTE AS FESTIVIDADES JUNINAS DO\nMUNICÍPIO DE SALGADINHO – PB",
+            "empresa": "LUKAS FERNANDES\nPRODUCOES ARTISTICAS LTDA",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 51420.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DOS SERVIÇOS DE CONSULTORIA\n\nCONTÁBIL PARA A ELABORAÇÃO, GERAÇÃO E\n\nATUALIZAÇÃO DE FOLHA DE PAGAMENTO MENSAL E\n\nREGISTRO DOS SERVIDORES MUNICIPAIS JUNTO AO E–\n\nSOCIAL E SAGRES PESSOAL DO TRIBUNAL DE CONTAS DO\n\nESTADO DO MUNICÍPIO DE SALGADINHO – PB",
+            "empresa": "NILSANDRO LUIZ DE SOUSA\n\nLIMA",
+            "valor_total": "R$ 15,420.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1975300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE DEPÓSITO, DESTINAÇÃO E TRATAMENTO\n\nDOS RESÍDUOS SÓLIDOS, PRODUZIDOS PELO MUNICÍPIO D\n\nSALGADINHO – PB",
+            "empresa": "ECOSOLO GESTAO\n\nAMBIENTAL DE RESIDUOS LTDA",
+            "valor_total": "R$ 28,980.00"
+          },
+          {
+            "objeto": "ADESÃO A ATA DE REGISTRO DE PREÇOS PARA\n\nAQUISIÇÕES DE MATERIAL PEDAGÓGICO COMPLEMENTAR\n\nCOMPOSTO POR LIVROS PARADIDFÁTICOS E DE INCLUSÃO\n\nPARA ATENDER OS ALUNOS DA SECRETARIA DE\n\nEDUCAÇÃO DO MUNICIPIO DE BOM JESUS/PB",
+            "empresa": "EDUCARE EDITORA\n\nE DISTRIBUIDORA DE LIVROS LTDA",
+            "valor_total": "R$ 397,710.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 21,
+        "total_gasto": 646243.91,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "AC EQUIPAMENTOS E\n\nELETRODOMESTICOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "CT Nº 00158/2024 - 25.09.24 - B. D. R. COMERCIO DE\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "CT Nº\n\n00160/2024 - 25.09.24 - CAVALCANTE SOUTO ARTIGOS DE\n\nPAPELARIA LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "DANTAS ELETROMOVEIS E EQUIPAMENTOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "DIONAL\n\nDISTRIBUIDORA DE PRODUTOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "GWC INDUSTRIA, IMPORTACAO E\n\nDISTRIBUICAO DE ELETRONICOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "JAMES DE OLIVEIRA-ME",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "MARCOS JULIANO DA SILVA -\n\nR$ 6.599,00; CT Nº 00166/2024 - 25.09.24 - MARIA DO SOCORRO\n\nDE MEDEIROS FREITAS",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "CT Nº\n\n00168/2024 - 25.09.24 - MULTFORTE COMERCIO E\n\nSUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "RPS DISTRIBUIDORA DE PRODUTOS\n\nLIMITADA",
+            "valor_total": "R$ 130,793.91"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA CRECHE\n\nCOM CAPACIDADE PARA 100 CRIANÇAS NO MUNICÍPIO DE\n\nSALGADINHO – PB, NOS TERMOS DO CONVÊNIO Nº 60/2024\n\nDA SECRETARIA DE ESTADO DA EDUCAÇÃO",
+            "empresa": "TORRE\n\nFIT INDUSTRIAE COMERCIO PLANEJADOS LTDA",
+            "valor_total": "R$ 130,793.91"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 150000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 266500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1106144.8,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULOS NOVOS, 0 KM, PARA DE\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE SAÚDE DO MUNICÍPIO DE SALGADINHO – PB",
+            "empresa": "RIO VALE AUTOMOTORES\n\nLTDA",
+            "valor_total": "R$ 442,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

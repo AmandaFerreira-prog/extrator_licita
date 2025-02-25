@@ -1,0 +1,1160 @@
+{
+  "id": "bonito-de-santa-fe",
+  "nome": "Bonito de Santa Fé",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 159,
+        "num_contratos": 35,
+        "total_gasto": 1200044.08
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 187326.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 22000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 18,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 990718.0700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 91000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 137,
+        "num_contratos": 1,
+        "total_gasto": 91000.0
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 10,
+        "total_gasto": 180954.1
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 180954.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 127,
+        "num_contratos": 1,
+        "total_gasto": 106990.0
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 106990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 141,
+        "num_contratos": 8,
+        "total_gasto": 435330.0
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 360930.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 55000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 19400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Destinar-se a locação de maquina para reprografia de\ndocumentos para Secretarias Municipais, conforme descrito\nabaixo,totalizando o",
+            "empresa": "VERONICA FERREIRA DE FONTE-PAPELARIA\nSETA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços de coleta, transporte, incineração e destinação final de lixo\nhospitalar das Unidades de Saúde do Município de BONITO DE\nSANTA FÉ-PB –PB, conforme a descrição abaixo:\n\n\nITEM DESCRIÇÃO DO PRODUTO UNID",
+            "empresa": "TRASH COLETA E INCINERAÇÃO DE LIXO\nHOSPITALAR LTDA-ME,",
+            "valor_total": "R$ 4,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 144,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 131,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 546000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 200,
+        "num_contratos": 202,
+        "total_gasto": 11070730.520000001
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 36,
+        "total_gasto": 2441051.7299999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Emergencial de 1500 TESTES rápido para\n\ndetecção de IGG e IGM COVID - 19 para atender as necessidades da\n\nSecretaria Municipal de Saúde de Bonito de Santa Fé - PB",
+            "empresa": "H MED\n\nCOMERCIAL DE MEDICAMENTOS E MATERIAL\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 43,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 34,
+        "total_gasto": 1371584.2000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 15,
+        "total_gasto": 1370844.4499999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 28,
+        "total_gasto": 1643701.78,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para Merenda dos\nAlunos da Rede Municipal da Prefeitura de Bonito de Santa Fé – PB",
+            "empresa": "C. MENDES\nFEITOSA",
+            "valor_total": "R$ 2,135.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 114190.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 319311.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 48820.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL (PRÉDIO) NA CIDADE\nDE BONITO DE SANTA FÉ LOCALIZADO NA RUA JOÃO\nJUCIER DE OLIVEIRA, S/N, BAIRRO JARDIM DAS NEVES II,\nDESTINADO A GARAGEM MUNICIPAL",
+            "empresa": "MARIA SELMA\nPEREIRA DE OLIVEIRA FILHA",
+            "valor_total": "R$ 7,200.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL (PRÉDIO) NA CIDADE\nDE BONITO DE SANTA FÉ LOCALIZADO NA RUA JOÃO\nJUCIER DE OLIVEIRA, S/N, BAIRRO JARDIM DAS NEVES II,\nDESTINADO A GARAGEM MUNICIPAL",
+            "empresa": "Outros\nServiços de Terceiro",
+            "valor_total": "R$ 7,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 19,
+        "total_gasto": 452965.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 25,
+        "total_gasto": 859444.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 8,
+        "total_gasto": 1344560.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 558257.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 164139.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 182,
+        "num_contratos": 248,
+        "total_gasto": 20752335.52999999
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 57,
+        "total_gasto": 5713128.749999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 64,
+        "total_gasto": 2919363.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 41,
+        "total_gasto": 2166061.8899999997,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA TRANSMISSÃO DE SINAL DE INTERNET PARA TODAS\n\nAS SECRETARIAS, DIRETORIAS E COORDENADORIAS DA\n\nPREFEITURA MUNICIPAL DE BONITO DE SANTA FÉ – PB",
+            "empresa": "ADLLINK\n\nTELECOM PROVEDOR DE INTERNET LTDA",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nELABORAÇÃO DE PROJETOS COMPLEMENTARES, BÁSICOS\n\nE EXECUTIVOS, DE PAVIMENTAÇÃO EM PARALELEPÍPEDO\n\nDE DIVERSAS RUAS NO MUNICÍPIO DE BONITO DE SANTA\n\nFÉ COM RECURSOS DE CONVÊNIO FEDERAL MDR Nº\n\n923135/2021, DE PASSAGENS MOLHADAS EM\n\nCOMUNIDADES RURAIS DO MUNICÍPIO DE BONITO DE\n\nSANTA FÉ, DE CONSTRUÇÃO DA NOVA PRAÇA CORSINA\n\nARRUDA, DE REFORMA DE EDIFICAÇÕES COM OU SEM\n\nAMPLIAÇÃO PARA PRÉDIOS COM ÁREA ATÉ 300M², DA\n\nSEGUNDA ETAPA DA REFORMA E AMPLIAÇÃO DO CAMPO\n\nDE FUTEBOL NO MUNICÍPIO DE BONITO DE SANTA FÉ, DE\n\nINSTALAÇÕES ELÉTRICAS DE FORMA INDIVIDUALIZADA\n\n(INCLUSO LISTA DE MATERIAL, ORÇAMENTO E MEMORIAL\n\nDESCRITIVO) EM 42 BOX, 1 PRAÇA DE ALIMENTAÇÃO,\n\nHALLS DE CIRCULAÇÃO E BANHEIROS MASCULINO E\n\nFEMININO DO MERCADO PÚBLICO ALFREDO BARBOSA DE\n\nLIRA",
+            "empresa": "SBS PAIXÃO\n\nTERRA NOVA LTDA",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nELABORAÇÃO DE PROJETOS COMPLEMENTARES, BÁSICOS\n\nE EXECUTIVOS, DE PAVIMENTAÇÃO EM PARALELEPÍPEDO\n\nDE DIVERSAS RUAS NO MUNICÍPIO DE BONITO DE SANTA\n\nFÉ COM RECURSOS DE CONVÊNIO FEDERAL MDR Nº\n\n923135/2021, DE PASSAGENS MOLHADAS EM\n\nCOMUNIDADES RURAIS DO MUNICÍPIO DE BONITO DE\n\nSANTA FÉ, DE CONSTRUÇÃO DA NOVA PRAÇA CORSINA\n\nARRUDA, DE REFORMA DE EDIFICAÇÕES COM OU SEM\n\nAMPLIAÇÃO PARA PRÉDIOS COM ÁREA ATÉ 300M², DA\n\nSEGUNDA ETAPA DA REFORMA E AMPLIAÇÃO DO CAMPO\n\nDE FUTEBOL NO MUNICÍPIO DE BONITO DE SANTA FÉ, DE\n\nINSTALAÇÕES ELÉTRICAS DE FORMA INDIVIDUALIZADA\n\n(INCLUSO LISTA DE MATERIAL, ORÇAMENTO E MEMORIAL\n\nDESCRITIVO) EM 42 BOX, 1 PRAÇA DE ALIMENTAÇÃO,\n\nHALLS DE CIRCULAÇÃO E BANHEIROS MASCULINO E\n\nFEMININO DO MERCADO PÚBLICO ALFREDO BARBOSA DE\n\nLIRA",
+            "empresa": "Outros Serviços de Terceiro",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "RITA DE\n\nANDRADE VIEIRA",
+            "valor_total": "R$ 25,750.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "ODONTOMED\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 24\n\n\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nME | Tipo:",
+            "valor_total": "R$ 10,974.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "ANDRÉIA\n\nLORENZI",
+            "valor_total": "R$ 9,500.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "ASCLEPIOS\n\nEQUIPAMENTOS HOSPITALARES EIRELI | Tipo: ME",
+            "valor_total": "R$ 7,800.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "BHDENTAL\n\nCOMERCIAL EIRELI | Tipo:",
+            "valor_total": "R$ 9,525.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "Biomed\n\nDistribuidora Hospitalar e Laboratorial Nossa Senhora da Conceição\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 25\n\n\n\nLtda | Tipo: Ltda/Eireli",
+            "valor_total": "R$ 9,543.74"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "CMK\n\nAUTOMACAO COMERCIAL EIRELI | Tipo:",
+            "valor_total": "R$ 22,050.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "Comércio de\n\nMateriais Médicos Hospitalares Macrosul Ltda. | Tipo: Ltda/Eireli -\n\nLC123: Não",
+            "valor_total": "R$ 3,325.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "DISTRIBUIDORA\n\nDE PRODUTOS AGRESTE MERIDIONAL LTDA | Tipo: ME -\n\nLC123: Sim",
+            "valor_total": "R$ 12,392.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "EQUIPSUL\n\nCOMERCIO E ASSISTENCIA TECNICA DE EQUIPAMENTOS A\n\nSAUDE EIRELI | Tipo: Ltda/Eireli",
+            "valor_total": "R$ 3,180.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "Gqs Eletros e\n\nEquipamentos Ltda | Tipo:",
+            "valor_total": "R$ 12,150.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "Instramed Industria\n\nMédico Hospitalar Ltda | Tipo: Ltda/Eireli",
+            "valor_total": "R$ 26,672.50"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "K. C. R. Industria e\n\nComércio de Equipamentos Eireli",
+            "valor_total": "R$ 12,725.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "MEDIC\n\nMANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS EIRELI |\n\nTipo: ME",
+            "valor_total": "R$ 14,000.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos e Material Permanente para\n\natender as necessidades da Secretaria de Saúde do Município de\n\nBonito de Santa Fé – PB, no termos da proposta MS\n\n11494.230000/1150-02",
+            "empresa": "VRR DE SOUZA\n\nDISTRIBUIDORA DE ARTIGOS DE ESCRITORIO EIRELI | Tipo:",
+            "valor_total": "R$ 3,450.00"
+          },
+          {
+            "objeto": "APRESENTAÇÃO DE UM SHOW ARTÍSTICO DA\n\nBANDA MUSICAL LUKA BASS, NO DIA 12 DE JUNHO DE\n\n2022, EM PRAÇA PÚBLICA, DURANTE AS FESTIVIDADES\n\nJUNINAS DO TRADICIONAL, CULTURAL, FOLCLÓRICO,\n\nHISTÓRICO E TURÍSTICO “SANTO ANTÔNIO” DE BONITO DE\n\nSANTA FÉ”, COM APRESENTAÇÃ",
+            "empresa": "A EMPRESA SIM\n\nSERVICOS DE ORGANIZACAO DE FESTAS",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 22,
+        "total_gasto": 2853382.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 2649683.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 21,
+        "total_gasto": 165431.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 1250882.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 124500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 1876061.3499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 841400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 28300.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 46,
+        "total_gasto": 4822869.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 177,
+        "num_contratos": 206,
+        "total_gasto": 14002485.739999998
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 20,
+        "total_gasto": 1353400.6600000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 621894.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 1276880.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 25,
+        "total_gasto": 2422142.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 37,
+        "total_gasto": 507480.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 37,
+        "total_gasto": 1581477.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 989583.6100000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO DA\n\nCONSTRUÇÃO CIVIL PARA EXECUÇÃO DA OBRA DE\n\nCONSTRUÇÃO DA PRAÇA CORSINA ARRUDA NO\n\nMUNICÍPIO DE BONITO DE SANTA FÉ - PB",
+            "empresa": "A EMPRESA\n\nTRUST CONSTRUTORA LTDA",
+            "valor_total": "R$ 492,449.05"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EXECUÇÃO DOS SERVIÇOS DE REFORMA E\n\nAMPLIAÇÃO DA 2ª ETAPA DO CAMPO DE FUTEBOL NO\n\nMUNICIPIO DE BONITO DE SANTA FÉ - PB",
+            "empresa": "A EMPRESA\n\nPROJEMAQ CONSTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 217,667.28"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 111990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 211800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 16250.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 86716.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 186,
+        "num_contratos": 237,
+        "total_gasto": 17596153.060000006
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 1403124.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 61,
+        "total_gasto": 4867747.66,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE ADEQUAÇÃO/MELHORIAS DE\n\nESTRADAS VICINAIS NO MUNICÍPIO DE BONITO DE SANTA\n\nFÉ - PB, NOS TERMOS DO CONTRATO DE REPASSE 1082513-\n\n33/2022 - SICONV 927233/2022",
+            "empresa": "CONSTRUTORA\n\nCRAL SERVICOS LTDA",
+            "valor_total": "R$ 212,087.11"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 7,
+        "total_gasto": 728906.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 66,
+        "total_gasto": 4399841.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 417828.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 21,
+        "total_gasto": 909282.7700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 37,
+        "total_gasto": 1500038.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 621345.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 266100.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 2118000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE UM VEÍCULO AUTOMOTIVO\n\nUTILITÁRIO, TIPO PICK–UP STRADA VOLCANO CABINE\nDUPLA 1.3 8V AT FIAT, PARA REFORÇAR A FROTA DE\n\nVEÍCULOS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO\n\nDE BONITO DE SANTA FÉ/PB",
+            "empresa": "FIORI VEICOLO\nS.A",
+            "valor_total": "R$ 126,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 363937.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

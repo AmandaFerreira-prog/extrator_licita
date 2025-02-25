@@ -1,0 +1,532 @@
+{
+  "id": "matinhas",
+  "nome": "Matinhas",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 386450.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 132,
+        "num_contratos": 75,
+        "total_gasto": 7205258.580000001
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 27,
+        "total_gasto": 518614.80000000005,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO",
+            "empresa": "DENTALMED COMERCIO E\nREPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 5,973.15"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO",
+            "empresa": "L.M. LADEIRA & CIA LTDA-ME",
+            "valor_total": "R$ 3,295.95"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO",
+            "empresa": "MEDONTEC MANUTENÇÃO E\nREPARAÇÃO EM EQUIPAMENTOS MED. HOSP E\nODONTOLOGICO LTDA",
+            "valor_total": "R$ 63,370.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ODONTOLOGICO PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICIPIO",
+            "empresa": "NORDMARKET DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 11,425.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 2305795.5900000003,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DO SERVIÇO DE CONFECÇÃO\nDE PLACAS DE SINALIZAÇÃO, BANNERS, ETIQUETAS DE\nTOMBAMENTO, ADESIVOS E CARTAZES, PARA ATENDER\nA VÁRIAS SECRETARIAS DO MUNICÍPIO",
+            "empresa": "KROMME IMPRESSÃO DE MATERIAL PARA\nUSO INDUSTRIAL-LTDA-ME",
+            "valor_total": "R$ 158,185.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1489130.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTOS PARA ATENDER\nDIVERSAS SECRETARIAS DO MUNICIPIO",
+            "empresa": "LUCELIA MONTEIRO COSTA RIBEIRO",
+            "valor_total": "R$ 138,485.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 897451.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 120829.57999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GENEROS ALIMENTÍCIOS\n(PETI/PROJOVEM), JUNTO A SECRETARIA DE ASSISTÊNCIA\nSOCIAL DO MUNICÍPIO",
+            "empresa": "MEGA MASTER COMERCIAL DE\nALIMENTOS LTDA",
+            "valor_total": "R$ 42,760.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 278044.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 802441.5,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO TÉCNICO ESPECIALIZADO EM\nLICITAÇÕES PÚBLICAS, JUNTO A SECRETARIA DE\nFINANÇAS DO MUNICÍPIO",
+            "empresa": "GLAUCIENE PINHEIRO SANTOS -ME",
+            "valor_total": "R$ 42,000.00"
+          },
+          {
+            "objeto": "EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE 01\nUNIDADE ESCOLAR COM 06 SALAS DE AULA COM\nRECURSOS DO CONVENIO Nº 368/2013",
+            "empresa": "F&HOLANDA CONSTRUÇÕES EIRELI ME",
+            "valor_total": "R$ 639,441.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 89000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 317500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 104,
+        "num_contratos": 35,
+        "total_gasto": 1123033.8
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 15700.26,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO DE REFORMA DE 06 PNEUS 1400/24",
+            "empresa": "PARAÍBA RECONDICIONADORA DE PNEUS",
+            "valor_total": "R$ 7,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 11602.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA PARA\nATENDER A SECRETARIA DE ADMINISTRAÇÃO DO\nMUNICÍPIO",
+            "empresa": "INSTITUTO DE CIENCIA TECNOLOGIA\nINOVACAO CULTURA INCUBATIC",
+            "valor_total": "R$ 5,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 15816.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 106146.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 97620.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 362263.14,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE CAMISAS COM ESTAMPA PARA\nATENDER A SECRETARIA DE SAÚDE DO MUNICÍPIO",
+            "empresa": "ODETE FREIRE DE LIMA MELLO-ME",
+            "valor_total": "R$ 4,490.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 92680.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 210205.9,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS AUTOMOTIVAS PARA\nATENDER A SECRETARIA DE TRANSPORTES DO MUNICÍPIO",
+            "empresa": "HR PNEUS PEÇAS ACESSÓRIOS E SERVIÇOS\nLTDA",
+            "valor_total": "R$ 6,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 211000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 93,
+        "num_contratos": 58,
+        "total_gasto": 2526497.58
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 23444.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 39742.99,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO DE REFORMA DE PNEU PARA ATENDER\nA SECRETARIA DE TRANSPORTES DO MUNICÍPIO",
+            "empresa": "INDÚSTRIA DE ARTEFATOS DE BORRACHA,\nRECAPAGEM E RECICLAGEM DE PNEUS LTDA (PARAÍBA\nRECONDICIONADORA DE PNEUS)",
+            "valor_total": "R$ 7,950.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 160119.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 171010.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS",
+            "empresa": "JOÃO PAULO ARAÚJO DOS SANTOS",
+            "valor_total": "R$ 43,040.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS",
+            "empresa": "H. R. PNEUS PEÇAS ACESSÓRIOS E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 40,740.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 350720.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 771722.35,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\nATENDER VARIAS SECRETARIAS DO MUNICÍPIO",
+            "empresa": "MAXIMA DISTRIBUIDORA DE ALIMENTOS\nLTDA-ME",
+            "valor_total": "R$ 143,319.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO PARA ATENDER A\nSECRETARIA DE SAÚDE DO MUNICÍPIO",
+            "empresa": "VALDEMIR TEOFILO DA SILVA",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO PARA ATENDER A\nSECRETARIA DE SAÚDE DO MUNICÍPIO",
+            "empresa": "JOÃO FRANCISCO DA SILVA",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO PARA ATENDER A\nSECRETARIA DE SAÚDE DO MUNICÍPIO",
+            "empresa": "JAILTON DE SOUZA LIMA",
+            "valor_total": "R$ 5,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 638158.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS",
+            "empresa": "NNMED DISTRIBUIÇÃO IMPORTAÇÃO\nEXPORTAÇÃO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 82,077.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 25980.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nAPRESENTAÇÃO ARTÍSTICA DE SHOW DA BANDA\nCASCAVEL, DENTRO DAS FESTIVIDADES DO\nANIVERSARIO DA EMANCIPAÇÃO POLITICA DA CIDADE\nDE MATINHAS",
+            "empresa": "ROSILENE CANDIDO VIEIRA-ME",
+            "valor_total": "R$ 18,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 340100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nAPRESENTAÇÃO ARTÍSTICA DOS SHOWS DAS BANDAS\nAS MORENAS, CASCAVEL, FOFIM DO ACORDEON,\nSTELLA ALVES-FORRÓ DA LOIRINHA, KARKARÁ, KÁTIA\nCILENE E IGOR GUERRA, DENTRO DAS FESTIVIDADES\nDA FESTA DA LARANJA, PROMOVIDO PELA PREFEITURA\nMUNICIPAL DE MATINHAS",
+            "empresa": "ROSILENE CANDIDO VIEIRA-ME",
+            "valor_total": "R$ 161,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 5500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 1175919.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 135,
+        "num_contratos": 64,
+        "total_gasto": 4365777.75
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 426939.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 10,
+        "total_gasto": 631939.47,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE URNAS FUNERÁRIAS PARA\nATENDER A SECRETARIA DE AÇÃO SOCIAL DO MUNICÍPIO",
+            "empresa": "S. J. SERVIÇOS FUNERÁRIOS LTDA\n(FUNERÁRIA RENASCER)",
+            "valor_total": "R$ 178,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 439968.03,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE SANITÁRIOS QUÍMICOS E LIMPEZA\nDE FOSSAS SÉPTICAS",
+            "empresa": "ALEXANDRE LAURENTINO DA SILVA-ME",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 358880.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 274370.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA A EXECUÇÃO\nDOS SERVIÇOS DE DIGITAÇÃO, FATURAMENTO E\nPROCESSAMENTO DE DADOS DE TODOS OS PROGRAMAS\nDA SECRETARIA DE SAÚDE",
+            "empresa": "MARCELO ADRIANO BATISTA DA SILVA",
+            "valor_total": "R$ 33,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 139098.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 436760.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 338300.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 126804.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 16800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  }
+}

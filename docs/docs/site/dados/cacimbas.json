@@ -5,8 +5,8 @@
     "2022": {
       "5": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 612000.0,
         "top_3_empresas": [
           "A EMPRESA AUTO PEÇAS LEITE\n\nLTDA",
           "A EMPRESA VITTOR LUCAS\n\nPATRICIO ALMEIDA"
@@ -16,14 +16,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 66,
-        "num_contratos": 26,
-        "total_gasto": 51630.0
+        "num_diarios": 65,
+        "num_contratos": 124,
+        "total_gasto": 14067563.18
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 3226996.45,
         "top_3_empresas": [
           "PAULO ÍTALO DE OLIVEIRA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nVILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA"
         ],
@@ -32,44 +32,44 @@
         ]
       },
       "7": {
-        "num_diarios": 10,
-        "num_contratos": 21,
-        "total_gasto": 630.0,
+        "num_diarios": 9,
+        "num_contratos": 40,
+        "total_gasto": 1115998.15,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 2143851.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 42,
+        "total_gasto": 1624265.7199999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 15000.0,
+        "num_contratos": 2,
+        "total_gasto": 1266737.45,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 3747534.25,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 4,
-        "total_gasto": 36000.0,
+        "num_contratos": 9,
+        "total_gasto": 330180.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -77,24 +77,24 @@
     "2023": {
       "1": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 5793107.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 92,
-        "num_contratos": 12,
-        "total_gasto": 109000.0
+        "num_diarios": 89,
+        "num_contratos": 160,
+        "total_gasto": 17005842.93
       },
       "2": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 53,
+        "total_gasto": 3629944.94,
         "top_3_empresas": [
           "DK CONSTRUÇÕES EIRELI",
           "s, firmam o presente Termo\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
-          "WELLINGTON ANDRADE ROLIM,"
+          "WELLINGTON ANDRADE ROLIM"
         ],
         "top_3_objetos": [
           "LOCAÇÃO DE UM IMÓVEL NA CIDADE DE JOÃO\n\nPESSOA LOCALIZADO NA AVENIDA 12 DE OUTUBRO, 87,\n\nJAGUARIBE, PARA SERVIR A CASA DE APOIO AOS\nPACIENTES CARENTES E RESPECTIVOS ACOMPANHANTES,\n\nEM TRATAMENTO EM CLÍNICAS E HOSPITAIS EM JOÃO\n\nPESSOA",
@@ -103,11 +103,11 @@
       },
       "3": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 1719552.12,
         "top_3_empresas": [
           "DIVINA COMÉRCIO DE MÓVEIS\n\nE EQUIPAMENTOS PARA ESCRITÓRIO",
-          "CASA CENTER MATERIAIS DE\n\nCONSTRUCAO LTDA, inscrita no"
+          "CASA CENTER MATERIAIS DE\n\nCONSTRUCAO LTDA"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO",
@@ -117,8 +117,8 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 5,
-        "total_gasto": 45000.0,
+        "num_contratos": 16,
+        "total_gasto": 982856.3999999999,
         "top_3_empresas": [
           "MED & FARMA COMÉRCIO\n\nATACADISTA DE MEDICAMENTOS LTDA"
         ],
@@ -128,8 +128,8 @@
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 563900.0,
         "top_3_empresas": [
           "a empresa JUCIMARA\n\nCAVALCANTE ANDRANDE"
         ],
@@ -145,9 +145,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 5,
+        "num_contratos": 13,
+        "total_gasto": 571673.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -156,16 +156,16 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "SILVA E LEITE CONSTRUÇÕES E SERVIÇOS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 4\n\n\n\nLTDA, PARA CONTRATAÇÃO DE EMPRESA\n\nPARA EXECUÇÃO DOS SERVIÇOS DE\n\nLIMPEZA URBANA SENDO COLETA DE\n\nRESÍDIOUS SÓLIDOS URBANOS RESIDENCIAS\n\nE COMERCIAIS, VARRIÇÃO MANUAL, ROÇO-\n\nPODAS E SERVIÇOS DE PINTURA EM MEIOS\n\nFIOS DA CIDADE DE CACIMBAS-PB.\n\n\n\nCONTRATANTE: A PREFEITURA MUNICIPAL DE\n\nCACIMBAS, Estado da Paraíba, Pessoa Jurídica de Direito Público\n\nInterno, situada na Rua São José, 35 - Centro - CEP: 58.698-000 -\n\nCacimbas - PB, inscrita no",
+          "SILVA E LEITE CONSTRUÇÕES E SERVIÇOS\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 4\n\n\n\nLTDA, PARA CONTRATAÇÃO DE EMPRESA\n\nPARA EXECUÇÃO DOS SERVIÇOS DE\n\nLIMPEZA URBANA SENDO COLETA DE\n\nRESÍDIOUS SÓLIDOS URBANOS RESIDENCIAS\n\nE COMERCIAIS, VARRIÇÃO MANUAL, ROÇO-\n\nPODAS E SERVIÇOS DE PINTURA EM MEIOS\n\nFIOS DA CIDADE DE CACIMBAS-PB.\n\n\n\nCONTRATANTE: A PREFEITURA MUNICIPAL DE\n\nCACIMBAS, Estado da Paraíba",
           "SILVA E LEITE\n\nCONSTRUÇÕES E SERVIÇOS LTDA",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e"
         ],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 24000.0,
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 703765.84,
         "top_3_empresas": [
           "CITY CAR LOCADORA DE\nVEICULOS LTDA"
         ],
@@ -174,23 +174,23 @@
         ]
       },
       "10": {
-        "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 40000.0,
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1207749.8399999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 804374.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 1028918.0499999999,
         "top_3_empresas": [
           "JOSÉ BENTO ARAÚJO",
           "ELICA MARIA FERREIRA DE\nARAÚJO VILAR"
@@ -203,24 +203,24 @@
     "2024": {
       "1": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 20,
+        "total_gasto": 6307358.499999998,
         "top_3_empresas": [
-          "A EMPRESA L F C CONSTRUÇÕES\n\nLTDA, inscrita no"
+          "A EMPRESA L F C CONSTRUÇÕES\n\nLTDA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE UMA\n\nPASSAGEM MOLHADA NO SÍTIO DOIS UMBUZEIRO NO\n\nDISTRITO SÃO SEBASTIÃO AO SEDE DO MUNICÍPIO DE\n\nCACIMBAS"
         ]
       },
       "resumo": {
-        "num_diarios": 98,
-        "num_contratos": 6,
-        "total_gasto": 111600.0
+        "num_diarios": 97,
+        "num_contratos": 191,
+        "total_gasto": 21692957.959999993
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 3729633.29,
         "top_3_empresas": [
           "PAULO CESAR LEITE\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
@@ -229,9 +229,9 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 56000.0,
+        "num_diarios": 10,
+        "num_contratos": 31,
+        "total_gasto": 1834275.75,
         "top_3_empresas": [
           "NORCOL NORDESTE COMERCIO E\nSERVICOS LTDA",
           "A EMPRESA EXPRESSO JB\nTRANSPORTES E TURISMO LTDA",
@@ -245,8 +245,8 @@
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 15600.0,
+        "num_contratos": 51,
+        "total_gasto": 2457406.65,
         "top_3_empresas": [
           "A EMPRESA FUTURA\n\nCONSULTORIA E SERVIÇOS EIRELI"
         ],
@@ -256,8 +256,8 @@
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 32,
+        "total_gasto": 2202733.0,
         "top_3_empresas": [
           "CLAUDINEIA LEITÃO\n\nMARTINS SATIRO/ISNEP ENGENHARIA",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
@@ -267,8 +267,8 @@
       },
       "6": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 221288.22,
         "top_3_empresas": [
           "A EMPRESA 45.535.116 MARIA DAS\n\nGRAÇAS BATISTA DE LIMA SANTOS",
           "A EMPRESA CLEDSON LIMA\n\nALMEIDA/ EIXO SOLUCOES EM GESTAO PUBLICA"
@@ -280,33 +280,33 @@
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 2492879.49,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 510905.83,
         "top_3_empresas": [
-          "E-\n\nTICONS EMPRESA DE TECNOLOGIA DE\nINFORMAÇÃO & CONSULTORIA LTDA, PARA\n\nCONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO\n\nDE SOFTWARES DESTINADO AS ATIVIDADES\n\nDAS SECRETARIAS DE ADMINISTRAÇÃO E\nFINANÇAS DO MUNICÍPIO DE CACIMBAS/PB.\n\n\n\nCONTRATANTE: A PREFEITURA MUNICIPAL DE\n\nCACIMBAS, Estado da Paraíba, Pessoa Jurídica de Direito Público\nInterno, situada na Rua São José, 35 - Centro - CEP: 58.698-000 -\n\nCacimbas - PB, inscrita no",
-          "E-TICONS EMPRESA DE\n\nTECNOLOGIA DE INFORMAÇÃO & CONSULTORIA LTDA,\n\ninscrita no",
+          "E-\n\nTICONS EMPRESA DE TECNOLOGIA DE\nINFORMAÇÃO & CONSULTORIA LTDA, PARA\n\nCONTRATAÇÃO DOS SERVIÇOS DE LOCAÇÃO\n\nDE SOFTWARES DESTINADO AS ATIVIDADES\n\nDAS SECRETARIAS DE ADMINISTRAÇÃO E\nFINANÇAS DO MUNICÍPIO DE CACIMBAS/PB.\n\n\n\nCONTRATANTE: A PREFEITURA MUNICIPAL DE\n\nCACIMBAS, Estado da Paraíba",
+          "E-TICONS EMPRESA DE\n\nTECNOLOGIA DE INFORMAÇÃO & CONSULTORIA LTDA",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e"
         ],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 314143.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 687787.51,
         "top_3_empresas": [
           "AUDIJONES BERNARDO\nMENESES"
         ],
@@ -317,8 +317,8 @@
       },
       "11": {
         "num_diarios": 5,
-        "num_contratos": 3,
-        "total_gasto": 30000.0,
+        "num_contratos": 9,
+        "total_gasto": 178147.2,
         "top_3_empresas": [
           "57.275.115 EVERALDO DE LIMA\n\nARAUJO",
           "A EMPRESA 36.026.228 YARA\n\nKENNIA DA SILVA PONTES"
@@ -330,8 +330,8 @@
       },
       "12": {
         "num_diarios": 4,
-        "num_contratos": 1,
-        "total_gasto": 10000.0,
+        "num_contratos": 4,
+        "total_gasto": 756398.73,
         "top_3_empresas": [
           "ELIZANGELA NUNES DA\n\nSILVA",
           "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e",
@@ -342,9 +342,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 256,
-    "num_contratos": 44,
-    "total_gasto": 272230.0,
+    "num_diarios": 251,
+    "num_contratos": 475,
+    "total_gasto": "52.766.364,07",
     "top_5_empresas": {
       "s, firmam o presente Termo\n\nAditivo, em 02 (duas) vias de igual teor e forma, para que surtam um\n\nsó efeito, as quais, depois de lidas, são assinadas pelos representantes\n\ndas partes, CONTRATANTE e": 4,
       "A EMPRESA AUTO PEÇAS LEITE\n\nLTDA": 1,

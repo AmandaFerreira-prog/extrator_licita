@@ -1,0 +1,356 @@
+{
+  "id": "taperoa",
+  "nome": "Taperoá",
+  "detalhe": {
+    "2022": {
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 1121923.0
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 18,
+        "total_gasto": 1121923.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 18,
+        "total_gasto": 4224520.7,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\nFESTIVIDADES DO MUNICÍPIO DE TAPEROÁ – PB, DURANTE\nO EXERCÍCIO DE 2023",
+            "empresa": "A EMPRESA FLAUBER MAX DE\nOLIVEIRA SANTOS",
+            "valor_total": "R$ 666,680.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 125,
+        "num_contratos": 252,
+        "total_gasto": 20753478.230000004
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 27,
+        "total_gasto": 820782.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA EVENTUAL LOCAÇÃO, MONTAGEM E\n\nDESMONTAGEM DE ESTRUTURAS DE APOIO PARA AS\nFESTIVIDADES DO MUNICÍPIO DE TAPEROÁ – PB, DURANTE\n\nO EXERCÍCIO DE 2023",
+            "empresa": "A EMPRESA MODERNA LOCACAO E\n\nEMPREENDIMENTOS LTDA | Tipo: ME",
+            "valor_total": "R$ 24,840.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 30,
+        "total_gasto": 2067749.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 28,
+        "total_gasto": 1000565.31,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE GINASTICA E MUSCULAÇÃO ATRAVÉS DE\n\nPROFISSIONAIS HABILITADOS E EM LOCAL PRÓPRIO E\n\nADEQUADO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO",
+            "empresa": "A EMPRESA ACL ACADEMIA E\n\nSERVIÇOS DE NUTRIÇÃO LTDA",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE COFFE BREAK A SEREM SERVIDOS\n\nEM REUNIÕES, CONFRATENIZAÇÕES E EVENTOS\n\nPROMOVIDOS PELAS SECRETARIAS MUNICIPAIS DE\n\nTAPEROÁ",
+            "empresa": "A EMPRESA MARIA JORGE DA\n\nSILVA/DOCE MEL",
+            "valor_total": "R$ 42,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS DESCARTÁVEL\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE TAPEROÁ",
+            "empresa": "A EMPRESA GILMARA VILAR DA\n\nSILVA/MURILO EMBALAGENS",
+            "valor_total": "R$ 47,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS DE ENXOVAIS\n\nDESTINADOS AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DA PREFEITURA DE TAPEROÁ",
+            "empresa": "A EMPRESA RD COMÉRCIO E\n\nSERVIÇOS LTDA",
+            "valor_total": "R$ 49,402.50"
+          },
+          {
+            "objeto": "FORNECIMENTO DE LAUDOS DE\n\nELETROCARDIOGRAMA COM EQUIPAMENTO\n\nELETROCARDIÓGRAFO EM COMODATO, SISTEMA DE\n\nPRONTUÁRIO COM GERENCIAMENTO DE ECG E\n\nLICENÇA DE USO DO SOFTWARE AO CONTROLE DA\n\nGESTÃO NOS ATENDIMENTOS DOS PACIENTES\n\nCLÍNICOS E EMERGENCIAL",
+            "empresa": "A EMPRESA INSTITUTO MUNICIPAL\n\nDE ADMINISTRAÇÃO PÚBLICA",
+            "valor_total": "R$ 38,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO EMPRESA PARA PRESTAÇÃO\n\nDOS SERVIÇOS DE CONSULTORIA E ASSESSORIA EM\n\nSAÚDE NAS ATIVIDADES RELACIONADAS A ATENÇÃO\n\nBÁSICA E DE MÉDIA E ALTA COMPLEXIDADE PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE\n\nSAÚDE",
+            "empresa": "A EMPRESA JUCIMARA CAVALCANTE\n\nANDRADE/CICLICA SOLUÇÕES EM GESTÃO PÚBLICA",
+            "valor_total": "R$ 18,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 562660.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 44,
+        "total_gasto": 2674405.0599999996,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "IGOR MAX DIONIZIO SOBRAL",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "ANTONIO ARTHUR NEVES DE\n\nLUCENA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "FRANCISCO VILAR DA COSTA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "LOURIVAL BONIFÁCIO DE\n\nFARIAS FILHO",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "CORCINO FARIAS NETO",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULO TIPO CAMINHÃO\n\nEQUIPADOS COM PIPAS PARA ATENDER AS NECESSIDADES\n\nDE ABASTECIMENTO DE ÁGUA POR SITUAÇÃO\n\nEMERGENCIAL NESTE MUNICÍPIO",
+            "empresa": "DAMIÃO DE SOUZA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 28,
+        "total_gasto": 3006932.9400000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 28,
+        "total_gasto": 932865.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 123555.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 20,
+        "total_gasto": 3564716.27,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para execução dos Serviços de\n\npavimentação em paralelepípedo em diversas ruas do Município de\n\nTaperoá, conforme projeto básico de engenharia",
+            "empresa": "CONSTRUTORA E\n\nLOCADORA DOIS IRMÃOS LTDA",
+            "valor_total": "R$ 200,727.31"
+          },
+          {
+            "objeto": "Contratação de Empresa para execução dos Serviços\n\nde pavimentação em paralelepípedo em diversas ruas do\n\nMunicípio de Taperoá, conforme projeto básico de engenharia e\n\nContrato de Repasse Nº1079317-27/2021",
+            "empresa": "L F C\n\nCONSTRUÇÕES LTDA",
+            "valor_total": "R$ 429,110.41"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 1388759.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 385967.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 5652803.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 103,
+        "num_contratos": 102,
+        "total_gasto": 28136214.050000004
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 4299597.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 24,
+        "total_gasto": 2104086.6500000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nPAVIMENTAÇÃO DE RUAS NO MUNICPIO DE TAPEROÁ – PB\n, SENDO ELAS NO CONJUNTO GERALDO NOÉ: RUA ELIZIO\nRODRIGUES, RUA MOACIR NUNES, RUA PADRE RENATO DE\nMENEZES E RUA BALDOMIRO VILAR",
+            "empresa": "CONSTRUTORA APODI EIRELI",
+            "valor_total": "R$ 316,483.01"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 4882187.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 1329833.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEÍCULO SUV DE 07 LUGARES\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE TAPEROÁ",
+            "empresa": "RIO VALE\n\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 278,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1145008.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 1154563.9500000002,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nPAVIMENTAÇAO DE CANTEIROS NO MUNICÍPIO\nDETAPEROÁ/PB",
+            "empresa": "AMETISTA\n\nCONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 220,804.82"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDE PISTA DE CAMINHADA NO MUNICÍPIO DE TAPEROÁ/PB",
+            "empresa": "H & G CONSTRUTORA\n\nLTDA",
+            "valor_total": "R$ 220,324.13"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 882257.9,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA\n\nPARA PRESTAÇÃO DOS SERVIÇOS DE: a) PAGAMENTOS,\n\nCOM EXCLUSIVIDADES, DE SALÁRIOS, PROVENTOS E\n\nVENCIMENTOS, APOSENTADORIAS, PENSÕES E SIMILARES,\n\nDOS SERVIDORES OU EMPREGADOS PÚBLICOS ATIVOS,\n\nINATIVOS E PENSIONISTAS, DA ADMINISTRAÇÃO DIRETA E\n\nINDIRETA DO MUNICÍPIO DE SALGADO DE SÃO FÉLIX/PB,\n\nBEM COMO AQUELES ADMITIDOS DURANTE O PRAZO DE\n\nEXECUÇÃO DO CONTRATO; b)CENTRALIZAÇÃO, COM\n\nEXCLUSIVIDADE, DO PAGAMENTO DOS FORNECEDORES\n\nDE BENS, SERVIÇOS E INSUMOS; c) CONCESSÃO DE\n\nEMPRÉSTIMO CONSIGNADO, SEM EXCLUSIVIDADE, AOS\n\nSERVIDORES OU EMPREGADOS PÚBLICOS ATIVOS OU\n\nINATIVOS E PENSIONISTAS, DA ADMINISTRAÇÃO DIRETA E\n\nINDIRETA DO MUNICÍPIO DE SALGADO DE SÃO FÉLIX/PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Salgado de\n\nSão Felix e: CT Nº 00125/2019",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 1793903.6,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS E ELETRODOMÉSTICOS\n\nPARA ATENDER AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "E.TRIPODE\n\nCOMERCIO DE MOVEIS- ME",
+            "valor_total": "R$ 267,159.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MÓVEIS E ELETRODOMÉSTICOS\n\nPARA ATENDER AS NECESSIDADES DAS DIVERSAS\n\nSECRETARIAS DESTE MUNICÍPIO",
+            "empresa": "CT Nº 31103/2024 - 24.09.24\n\n- A BAGATOLI CONSTRUTORA & INCORPORADORA LTDA -\n\nR$ 26.200,00; CT Nº 31104/2024 - 24.09.24 - TS COMERCIO\n\nATACADISTA E VAREJISTA LTDA",
+            "valor_total": "R$ 267,159.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1662056.45,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA E\n\nAMPLIAÇÃO DA ESCOLA MUNICIPAL PEDRO DE FARIAS,\n\nNO MUNICÍPIO DE TAPEROÁ/PB",
+            "empresa": "CONSTRUTORA APODI\n\nEIRELI",
+            "valor_total": "R$ 1,080,218.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 1103415.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS DE USO\n\nPERMANENTE, CONFORME AS PROPOSTAS DE Nº\n\n11850.452000/1230–02 11850.452000/1220–05 e\n\n11850.452000/1220–13, DO MINISTERIO DA SAÚDE",
+            "empresa": "VIVAX INDUSTRIA E COMERCIO DE EQUIPAMENTOS",
+            "valor_total": "R$ 669,415.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS DE USO\n\nPERMANENTE, CONFORME AS PROPOSTAS DE Nº\n\n11850.452000/1230–02 11850.452000/1220–05 e\n\n11850.452000/1220–13, DO MINISTERIO DA SAÚDE",
+            "empresa": "NIPRO MEDICAL\n\nCORPORATION PRODUTOS MEDICOS LTDA.",
+            "valor_total": "R$ 669,415.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS DE USO\n\nPERMANENTE, CONFORME AS PROPOSTAS DE Nº\n\n11850.452000/1230–02 11850.452000/1220–05 e\n\n11850.452000/1220–13, DO MINISTERIO DA SAÚDE",
+            "empresa": "ENDOMED COMERCIO E\n\nREPRESENTAÇÕES DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 669,415.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 2126500.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

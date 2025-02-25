@@ -5,27 +5,43 @@
     "2024": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 5,
-        "total_gasto": 58500.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 21,
+        "total_gasto": 2597631.82,
+        "top_3_empresas": [
+          "M A DANTAS MERCADINHO SÃO\n\nSEBASTIÃO, (CNPJ nº 12.160.512/0001-02);",
+          "e\n\nMarcos Antônio Dantas",
+          "AUGUSTO JORGE SARAIVA\n\nDE OLIVEIRA (CNPJ nº 36.786.488/0001-71);"
+        ],
+        "top_3_objetos": [
+          "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;",
+          "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;",
+          "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;"
+        ]
       },
       "resumo": {
-        "num_diarios": 130,
-        "num_contratos": 279,
-        "total_gasto": 41843096.10000001
+        "num_diarios": 129,
+        "num_contratos": 342,
+        "total_gasto": 46991741.20000001
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 20,
-        "total_gasto": 11304392.98,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 44,
+        "total_gasto": 13457108.930000002,
+        "top_3_empresas": [
+          "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA",
+          "R5 SOLUCOES EM SAUDE LTDA (CNPJ nº\n\n33.853.517/0001-82);",
+          "e\n\nAmaro Alves Saturnino Junior"
+        ],
+        "top_3_objetos": [
+          "aquisição\n\ngradativa de medicamentos da farmácia básica;",
+          "aquisição gradativa de\n\nmedicamentos da farmácia básica;",
+          "Registro de Preço para possível aquisição gradativa de material de uso\n\nhospitalar;"
+        ]
       },
       "3": {
         "num_diarios": 14,
-        "num_contratos": 35,
-        "total_gasto": 8400877.55,
+        "num_contratos": 37,
+        "total_gasto": 8472227.55,
         "top_3_empresas": [
           "CICERO COSTA DA SILVA"
         ],
@@ -35,15 +51,20 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 36,
-        "total_gasto": 9798226.88,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 38,
+        "total_gasto": 9840226.88,
+        "top_3_empresas": [
+          "EMANUEL BORGES DANTAS",
+          "e\n\nEmanuel Borges Dantas,"
+        ],
+        "top_3_objetos": [
+          "Aquisição de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 36\n\n\n\nfardamento para Secretaria Municipal de Educação,"
+        ]
       },
       "5": {
         "num_diarios": 12,
-        "num_contratos": 55,
-        "total_gasto": 3968091.64,
+        "num_contratos": 57,
+        "total_gasto": 4032441.64,
         "top_3_empresas": [
           "- A&L\n\nComercio De Alimentos LTDA",
           "",
@@ -56,8 +77,8 @@
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 13,
-        "total_gasto": 162146.0,
+        "num_contratos": 14,
+        "total_gasto": 192146.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -70,8 +91,8 @@
       },
       "8": {
         "num_diarios": 12,
-        "num_contratos": 35,
-        "total_gasto": 4165024.88,
+        "num_contratos": 47,
+        "total_gasto": 4323197.21,
         "top_3_empresas": [
           "– AUDAZ SEGURANÇA"
         ],
@@ -84,7 +105,7 @@
         "num_contratos": 30,
         "total_gasto": 1066243.5,
         "top_3_empresas": [
-          "-GWC INDUSTRIA,\n\nIMPORTACAO E DISTRIBUICAO DE ELETRONICOS LTDA,",
+          "-GWC INDUSTRIA,\n\nIMPORTACAO E DISTRIBUICAO DE ELETRONICOS LTDA",
           "-JOSIVAN\n\nMELQUIADES NOBREGA",
           "- MULTFORTE\n\nCOMERCIO E SUPRIMENTOS DE INFORMATICA LTDA"
         ],
@@ -94,8 +115,8 @@
       },
       "10": {
         "num_diarios": 11,
-        "num_contratos": 29,
-        "total_gasto": 1220701.41,
+        "num_contratos": 30,
+        "total_gasto": 1261201.41,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de veículo 0km para o Município de São José do\n\nBonfim/PB conforme Proposta nº 12526.644000/1240-01 do\n\nMinistério da Saúde"
@@ -103,37 +124,37 @@
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 5990.0,
+        "num_contratos": 3,
+        "total_gasto": 29215.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 7,
-        "num_contratos": 3,
-        "total_gasto": 179940.0,
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 207140.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     }
   },
   "resumo": {
-    "num_diarios": 130,
-    "num_contratos": 279,
-    "total_gasto": 41843096.1,
+    "num_diarios": 129,
+    "num_contratos": 342,
+    "total_gasto": "46.991.741,20",
     "top_5_empresas": {
-      "CICERO COSTA DA SILVA": 1,
-      "- A&L\n\nComercio De Alimentos LTDA": 1,
-      "": 1,
-      "valor total: R$ 332.104,08\n\n\n\nSão José do Bonfim": 1,
-      "– AUDAZ SEGURANÇA": 1
+      "M A DANTAS MERCADINHO SÃO\n\nSEBASTIÃO, (CNPJ nº 12.160.512/0001-02);": 1,
+      "e\n\nMarcos Antônio Dantas": 1,
+      "AUGUSTO JORGE SARAIVA\n\nDE OLIVEIRA (CNPJ nº 36.786.488/0001-71);": 1,
+      "HOSP MEDICAL - COMERCIO DE\n\nMATERIAL MEDICO E MEDICAMENTOS HOSPITALARES\n\nLTDA": 1,
+      "R5 SOLUCOES EM SAUDE LTDA (CNPJ nº\n\n33.853.517/0001-82);": 1
     },
     "top_5_objetos": {
-      "Contratação de veículo tipo ônibus (48 lugares) com\n\nmotorista para a Secretaria de Ação Social do Município de São José\n\ndo Bonfim/PB no atendimento a Lei Municipal 655/2021": 1,
-      "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB": 1,
-      "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB": 1,
-      "Aquisição e instalação de equipamentos e câmeras de\nsegurança eletrônica para as praças da zona urbana e rural destinadas\n\na atender a demanda do Município de São José do Bonfim/PB; CNPJ\n\nnº 08.882.862/0001-05 e a empresa: – AUDAZ SEGURANÇA, CNPJ\nnº 06.070.309/0001-34,": 1,
-      "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB": 1
+      "Registro de preços para possível\n\naquisição gradativa de gêneros alimentícios;": 1,
+      "Registro de\n\npreços para possível aquisição gradativa de gêneros alimentícios\n\ndestinados à merenda escolar;": 1,
+      "aquisição\n\ngradativa de gêneros alimentícios destinados à merenda escolar;": 1,
+      "aquisição\n\ngradativa de medicamentos da farmácia básica;": 1,
+      "aquisição gradativa de\n\nmedicamentos da farmácia básica;": 1
     }
   }
 }

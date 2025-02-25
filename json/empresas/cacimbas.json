@@ -1,0 +1,390 @@
+{
+  "id": "cacimbas",
+  "nome": "Cacimbas",
+  "detalhe": {
+    "2022": {
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 8,
+        "total_gasto": 612000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peças automotivas para atender as\n\nnecessidades da Prefeitura Municipal de Cacimbas - PB, conforme\n\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\n\nPregoeiro, no processo Pregão Presencial nº",
+            "empresa": "A EMPRESA AUTO PEÇAS LEITE\n\nLTDA",
+            "valor_total": "R$ 148,000.00"
+          },
+          {
+            "objeto": "Aquisição de peças automotivas para atender as\n\nnecessidades da Prefeitura Municipal de Cacimbas - PB, conforme\n\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\n\nPregoeiro, no processo Pregão Presencial nº",
+            "empresa": "A EMPRESA VITTOR LUCAS\n\nPATRICIO ALMEIDA",
+            "valor_total": "R$ 175,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 65,
+        "num_contratos": 124,
+        "total_gasto": 14067563.18
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 3226996.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Escritório de Advocacia para Prestação de\n\nServiços de Assessoria e Consultoria Jurídica junto aos Tribunais\n\nEstaduais, Regionais e Federais e Órgão de Contas",
+            "empresa": "PAULO ÍTALO DE OLIVEIRA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 11\n\n\n\nVILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 40,
+        "total_gasto": 1115998.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 2143851.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 42,
+        "total_gasto": 1624265.7199999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 1266737.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 3747534.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 330180.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 5793107.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 160,
+        "total_gasto": 17005842.93
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 53,
+        "total_gasto": 3629944.94,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL NA CIDADE DE JOÃO\n\nPESSOA LOCALIZADO NA AVENIDA 12 DE OUTUBRO, 87,\n\nJAGUARIBE, PARA SERVIR A CASA DE APOIO AOS\nPACIENTES CARENTES E RESPECTIVOS ACOMPANHANTES,\n\nEM TRATAMENTO EM CLÍNICAS E HOSPITAIS EM JOÃO\n\nPESSOA",
+            "empresa": "WELLINGTON ANDRADE ROLIM",
+            "valor_total": "R$ 20,400.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE UM IMÓVEL NA CIDADE DE JOÃO\n\nPESSOA LOCALIZADO NA AVENIDA 12 DE OUTUBRO, 87,\n\nJAGUARIBE, PARA SERVIR A CASA DE APOIO AOS\nPACIENTES CARENTES E RESPECTIVOS ACOMPANHANTES,\n\nEM TRATAMENTO EM CLÍNICAS E HOSPITAIS EM JOÃO\n\nPESSOA",
+            "empresa": "WELLINGTON ANDRADE ROLIM",
+            "valor_total": "R$ 20,400.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA/PESSOA FÍSICA\nPARA ELABORAÇÃO DE PROJETO BÁSICO DE ENGENHARIA\n\nPARA EXECUÇÃO DOS SERVIÇOS DE TERRAPLANAGEM E\n\nDRENAGEM DA ESTRADA QUE LIGA O DISTRITO SÃO\n\nSEBASTIÃO AO SEDE DO MUNICÍPIO DE CACIMBAS VIA\nCOMUNIDADE SÃO GONÇALO",
+            "empresa": "JOSÉ ÉRICO COSTA LIRA",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 19,
+        "total_gasto": 1719552.12,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE EDUCAÇÃO",
+            "empresa": "DIVINA COMÉRCIO DE MÓVEIS\n\nE EQUIPAMENTOS PARA ESCRITÓRIO",
+            "valor_total": "R$ 33,700.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE REFORMA MESAS ESCOLARES, PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL\n\nDE EDUCAÇÃO",
+            "empresa": "DIVINA COMÉRCIO DE MÓVEIS\n\nE EQUIPAMENTOS PARA ESCRITÓRIO",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE OBRAS, URBANISMO E SANEAMENTO DA\n\nPREFEITURA DE CACIMBAS – PB",
+            "empresa": "CASA CENTER MATERIAIS DE\n\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 56,686.06"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 982856.3999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO DE SAÚDE TIPO\n\nVENTILADOR PULMONAR PARA ATENDER AS\n\nNECESSIDADE DA SECRETARIA MUNICIPAL DE CACIMBAS",
+            "empresa": "MED & FARMA COMÉRCIO\n\nATACADISTA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 38,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 563900.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA,\n\nPARA PRESTAR SERVIÇOS DE CONSULTORIA E\n\nASSESSORIA EM SAÚDE NAS ATIVIDADES RELACIONADAS\n\nA ATENÇÃO BÁSICA E DE MÉDIA COMPLEXIDADE NO\n\nMUNICÍPIO DE CACIMBAS - PB",
+            "empresa": "a empresa JUCIMARA\n\nCAVALCANTE ANDRANDE",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 13,
+        "total_gasto": 571673.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 703765.84,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DA EMPRESA PARA LOCAÇÃO\nDE 04 VEÍCULOS PARA ATENDER AS NECESSIDADES DA\nSECRETÁRIA MUNICIPAL DE SAÚDE DE CACIMBAS – PB",
+            "empresa": "CITY CAR LOCADORA DE\nVEICULOS LTDA",
+            "valor_total": "R$ 34,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1207749.8399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 804374.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 1028918.0499999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\nFamiliar e do empreendedor familiar rural destinado ao atendimento\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\nPNAE",
+            "empresa": "JOSÉ BENTO ARAÚJO",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura\nFamiliar e do empreendedor familiar rural destinado ao atendimento\ndo PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\nPNAE",
+            "empresa": "ELICA MARIA FERREIRA DE\nARAÚJO VILAR",
+            "valor_total": "R$ 39,999.90"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 20,
+        "total_gasto": 6307358.499999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE UMA\n\nPASSAGEM MOLHADA NO SÍTIO DOIS UMBUZEIRO NO\n\nDISTRITO SÃO SEBASTIÃO AO SEDE DO MUNICÍPIO DE\n\nCACIMBAS",
+            "empresa": "A EMPRESA L F C CONSTRUÇÕES\n\nLTDA",
+            "valor_total": "R$ 51,762.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 97,
+        "num_contratos": 191,
+        "total_gasto": 21692957.959999993
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 3729633.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 31,
+        "total_gasto": 1834275.75,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PNEUS PARA ATENDER AS\nNECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE\nDE CACIMBAS – PB",
+            "empresa": "NORCOL NORDESTE COMERCIO E\nSERVICOS LTDA",
+            "valor_total": "R$ 62,760.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE TRANSPORTE DOS ESTUDANTES\nUNIVERSITÁRIOS, PARA ATENDER AS NECESSIDADES DA\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DO MUNICIPÍO DE\nCACIMBAS - PB",
+            "empresa": "A EMPRESA EXPRESSO JB\nTRANSPORTES E TURISMO LTDA",
+            "valor_total": "R$ 56,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDOS SERVIÇOS EM SOLUÇÃO PARA PRONTUÁRIO\nELETRÔNICO, DO MINISTÉRIO DA SAÚDE PARA ATENDER\nAS NECESSIDADES DA SECRETÁRIA DE SAÚDE DO\nMUNICÍPIO DE CACIMBAS - PB",
+            "empresa": "SYSTECH SISTEMAS SERVIÇOS\nEM TECNOLOGIA DA INFORMAÇÃO LTDA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 51,
+        "total_gasto": 2457406.65,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM ASSESSORIA NA ÁREA DE EDUCAÇÃO QUE OFERECE\n\nOS SEGUINTES SERVIÇOS: ORGANIZAÇÃO\n\nADMINISTRATIVA DA SECRETARIA MUNICIPAL DE\n\nEDUCAÇÃO",
+            "empresa": "A EMPRESA FUTURA\n\nCONSULTORIA E SERVIÇOS EIRELI",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 32,
+        "total_gasto": 2202733.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 221288.22,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nSISTEMA DE ILUMINAÇÃO E SONORIZAÇÃO DE PEQUENO\n\nPORTE E TENDAS PARA ATENDER AS NECESSIDADES DA\n\nPREFEITURA DE CACIMBAS",
+            "empresa": "A EMPRESA 45.535.116 MARIA DAS\n\nGRAÇAS BATISTA DE LIMA SANTOS",
+            "valor_total": "R$ 53,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE EXECUÇÃO E\n\nACOMPANHAMENTO/MONITORAMENTO DO PRAD E\n\nRECUPERAÇÃO DA ÁREA DO ANTIGO LIXÃO DO\n\nMUNICÍPIO",
+            "empresa": "A EMPRESA CLEDSON LIMA\n\nALMEIDA/ EIXO SOLUCOES EM GESTAO PUBLICA",
+            "valor_total": "R$ 9,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 2492879.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 510905.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 314143.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 687787.51,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNERO ALIMENTÍCIO PARA\nATENDER AS NECESSIDADES DAS SECRETARIA\nMUNICIPAL DE SAÚDE DA PREFEITURA DE CACIMBAS –\nPB",
+            "empresa": "AUDIJONES BERNARDO\nMENESES",
+            "valor_total": "R$ 275,240.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE LIMPEZA E\nHIGIENE PARA ATENDER AS NECESSIDADES DAS\nSECRETARIA MUNICIPAL DE SAÚDE DA PREFEITURA DE\nCACIMBAS – PB",
+            "empresa": "AUDIJONES BERNARDO\nMENESES",
+            "valor_total": "R$ 109,469.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 178147.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Carro Pipa no",
+            "empresa": "57.275.115 EVERALDO DE LIMA\n\nARAUJO",
+            "valor_total": "R$ 10,060.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE LIVROS PARA O LABORATÓRIO DE\n\nCIÊNCIAS DO MUNICÍPIO DE CACIMBAS",
+            "empresa": "A EMPRESA 36.026.228 YARA\n\nKENNIA DA SILVA PONTES",
+            "valor_total": "R$ 48,583.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 756398.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

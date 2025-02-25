@@ -1,0 +1,775 @@
+{
+  "id": "bernardino-batista",
+  "nome": "Bernardino Batista",
+  "detalhe": {
+    "2018": {
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 64,
+        "num_contratos": 33,
+        "total_gasto": 817276.1
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 25000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 84035.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 90015.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 104660.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 4620.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 450968.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 57976.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 1129407.75,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde materiais didáticos e de expediente, destinados a manutenção de\n\ndiversas secretarias do município de Bernardino Batista/PB",
+            "empresa": "CT Nº\n\n00015/2019",
+            "valor_total": "R$ 21,772.55"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde materiais didáticos e de expediente, destinados a manutenção de\n\ndiversas secretarias do município de Bernardino Batista/PB",
+            "empresa": "CT Nº 00016/2019",
+            "valor_total": "R$ 21,772.55"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde materiais didáticos e de expediente, destinados a manutenção de\n\ndiversas secretarias do município de Bernardino Batista/PB",
+            "empresa": "CT Nº\n\n00020/2019",
+            "valor_total": "R$ 21,772.55"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de forma\n\nparcelada de pneus e acessórios novos de primeira linha de fabricação,\n\ndestinados a manutenção dos veículos pertencentes a Prefeitura\n\nMunicipal de Bernardino Batista/PB",
+            "empresa": "LUZIA DE AQUINO FERREIRA",
+            "valor_total": "R$ 28,199.44"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde materiais de construção, destinados a manutenção de bens imóveis\n\ndo município de Bernardino Batista/PB",
+            "empresa": "CONSTRUCENTER LTDA",
+            "valor_total": "R$ 25,908.17"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\n\nde armações oculares e confecção de lentes corretivas, destinadas aos\n\nestudantes matriculados na rede municipal de ensino e as pessoas\n\ncarentes do município de Bernardino Batista/PB",
+            "empresa": "PAULO CEZAR SILVA\n\nSAMPAIO-ME",
+            "valor_total": "R$ 21,547.50"
+          },
+          {
+            "objeto": "Contratação de empresa especializada de engenharia, para\n\nexecução de serviço de construção de muro de contorno para escola\n\nmunicipal tipo padrão FNDE localizada no Conjunto Mariz no\n\nmunicípio de Bernardino Batista/PB",
+            "empresa": "JONATAS DE SOUSA OLIVEIRA EIRELI",
+            "valor_total": "R$ 226,166.78"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 141,
+        "num_contratos": 140,
+        "total_gasto": 8206549.260000002
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 30,
+        "total_gasto": 403375.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2516450.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 360733.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+            "empresa": "FRANCISCO\nELVIRO FILHO",
+            "valor_total": "R$ 38,700.00"
+          },
+          {
+            "objeto": "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+            "empresa": "CT Nº 00068/2019 -\n25.03.19",
+            "valor_total": "R$ 38,700.00"
+          },
+          {
+            "objeto": "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+            "empresa": "CT Nº 00069/2019",
+            "valor_total": "R$ 38,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 27,
+        "total_gasto": 577948.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "ANTONIO ARNALDO PINHEIRO",
+            "valor_total": "R$ 55,956.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "MARIA SILVÉRIO BEZERRA",
+            "valor_total": "R$ 55,956.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "IRACEMA ROSENDO\nVASCONCELOS",
+            "valor_total": "R$ 55,956.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "JOÃO NATAZIANO PAULO",
+            "valor_total": "R$ 55,956.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "CT Nº\n00112/2019",
+            "valor_total": "R$ 55,956.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios diretamente da\nagricultura familiar e do empreendedor familiar rural, destinados a\natender as necessidades das escolas municipais de Bernardino\nBatista/PB",
+            "empresa": "CT Nº 00113/2019",
+            "valor_total": "R$ 55,956.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 13,
+        "total_gasto": 947455.2899999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 318403.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 1562156.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 149734.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 69252.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 114215.48999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 57415.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 34,
+        "total_gasto": 1883834.9099999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 140,
+        "num_contratos": 126,
+        "total_gasto": 6595769.169999999
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 1497100.1799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 930492.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 118800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para locação de uma caçamba,\ntrucada, com capacidade mínima de 12 m³, para atender as\nnecessidades da Secretaria de Obras e Serviços Urbanos, durante a\nexecução dos serviços de pavimentação em diversos logradouros do\nmunicípio de Bernardino Batista/PB",
+            "empresa": "JOSE VALDEMAR FILHO DUARTE -\nME",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 410448.07999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de luminárias equipadas com LED para atender a\n\ndemanda de Iluminação Pública no município de Bernardino\n\nBatista/PB",
+            "empresa": "DUTOFORT INDUSTRIA DE\n\nDERIVADOS DE PLASTICOS E COMERCIO EIRE",
+            "valor_total": "R$ 13,470.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 311791.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 153238.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "BETANIAMED COMERCIAL EIRELI",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "C.W.C. DISTRIBUIDORA LTDA",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "EDILANE CARVALHO\nARAUJO",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "JESSICA\nDE ARAGAO CAVALCANTE - ME",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "NKF-CONFECCOES LTDA",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "PAULO JOSÉ MAIA ESMERALDO\nSOBREIRA",
+            "valor_total": "R$ 73,248.80"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de proteção individual - EPI's,\ninsumos, materiais e demais equipamentos necessários ao\nenfrentamento do contágio do COVID-19 no município de Bernardino\nBatista/PB",
+            "empresa": "SAO\nJUDAS MATERIAIS MEDICOS LTDA",
+            "valor_total": "R$ 73,248.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 75100.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 776655.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 331393.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 39031.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 67883.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 158,
+        "num_contratos": 121,
+        "total_gasto": 6368902.579999999
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 857729.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 28,
+        "total_gasto": 1137509.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 510812.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 633938.0800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 1104829.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 314770.71,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de serviços de\n\nampliação da sede da Prefeitura Municipal de Bernardino Batista,\n\nmediante ajuste de mão de obra por tarefa, sem fornecimento de\n\nmateriais, nos termos da alínea \"d\" do inc",
+            "empresa": "CONSTRUTORA NOSSA\n\nSENHORA DA CONCEICAO EIRELI",
+            "valor_total": "R$ 7,914.21"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 126567.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 925669.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 35266.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 8500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 20,
+        "total_gasto": 713309.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 4,
+        "total_gasto": 51669.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 150,
+        "num_contratos": 202,
+        "total_gasto": 12884565.89
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1778728.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 48,
+        "total_gasto": 2783331.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 35000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 42,
+        "total_gasto": 1373125.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 398991.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de obra de\n\npavimentação em diversas ruas no município de Bernardino Batista",
+            "empresa": "CONSTRUTORA DOIS\n\nIRMÃOS LIMITADA ME",
+            "valor_total": "R$ 398,991.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 26,
+        "total_gasto": 1577481.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 1035042.27,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 33,
+        "total_gasto": 1574524.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 1058521.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 936243.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 281908.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 23,
+        "total_gasto": 3238331.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 157,
+        "num_contratos": 235,
+        "total_gasto": 16328900.09
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 104500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 1280606.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 53,
+        "total_gasto": 5279315.739999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 59,
+        "total_gasto": 2049717.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1209000.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 554183.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 19,
+        "total_gasto": 949235.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 98490.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA\nESPECIALIZADA PARA REALIZAÇÃO DE CONCURSO\nPÚBLICO PARA PROVIMENTO DE CARGOS EFETIVOS NA\nESTRUTURA ADMINISTRATIVA DO MUNICÍPIO",
+            "empresa": "IGETEC - INSTITUTO\nBRASILEIRO DE GESTÃO, EDUCACAO E TECNOLOGIA LTDA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 807630.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 414950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 342940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 29,
+        "total_gasto": 3562133.6999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 133,
+        "num_contratos": 197,
+        "total_gasto": 21134368.89
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 10370.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 1075214.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 54,
+        "total_gasto": 2958823.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 1984105.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 1004879.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 365300.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 34,
+        "total_gasto": 3614861.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 1172990.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 14,
+        "total_gasto": 2783573.2800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material para execução de projeto educacional\n\nde leitura para as unidades escolares do município de Bernardino\n\nBatista",
+            "empresa": "INOVE DIDATICA\n\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 369,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução de obra de reforma\n\nda Secretaria de Educação, sede do município de Bernardino Batista–\n\nPB",
+            "empresa": "INOVE DIDATICA\n\nDISTRIBUIDORA LTDA",
+            "valor_total": "R$ 369,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 18,
+        "total_gasto": 2602115.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

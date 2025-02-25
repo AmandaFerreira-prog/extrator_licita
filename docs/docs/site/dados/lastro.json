@@ -57,14 +57,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 61,
-        "num_contratos": 61,
-        "total_gasto": 8341988.720000001
+        "num_diarios": 60,
+        "num_contratos": 57,
+        "total_gasto": 7055048.220000001
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 11,
-        "total_gasto": 1831295.7,
+        "num_contratos": 10,
+        "total_gasto": 1333085.7,
         "top_3_empresas": [
           "LETICIA\n\nGUIMARAES DAMIAO PINTO",
           "SUPERMERCADO MOREIRA E MELO LTDA",
@@ -117,9 +117,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 6,
-        "num_contratos": 11,
-        "total_gasto": 1455356.2000000002,
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 666625.7,
         "top_3_empresas": [
           "NNMED DISTRIBUIÇÃO IMP.\n\nEXPORTAÇÃO DE MEDICAMENTOS LTDA",
           "HOSPHARMA COMERCIO\n\nATACADISTA DE MEDICAMENTOS, MATERIAIS MEDICO\n\nHOSPITALARES E D",
@@ -161,9 +161,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 78,
-    "num_contratos": 76,
-    "total_gasto": 11090758.93,
+    "num_diarios": 77,
+    "num_contratos": 72,
+    "total_gasto": "9.803.818,43",
     "top_5_empresas": {
       "SUPERMERCADO MOREIRA E MELO LTDA": 2,
       "THIAGO GOMES BARBOSA\nCOMERCIO": 1,

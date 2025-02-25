@@ -1,0 +1,1503 @@
+{
+  "id": "catingueira",
+  "nome": "Catingueira",
+  "detalhe": {
+    "2017": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 44,
+        "num_contratos": 76,
+        "total_gasto": 5287147.609999999
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 22,
+        "total_gasto": 2332142.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "MOISES\nURBANO DA SILVA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "MOISES\nURBANO DA SILVA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "MOISES\nURBANO DA SILVA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "MOISES\nURBANO DA SILVA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 21/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 21/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 21/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 21/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TACIANO TÔNI\nSERAFIM TEIXEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "TACIANO TÔNI\nSERAFIM TEIXEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TACIANO TÔNI\nSERAFIM TEIXEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "TACIANO TÔNI\nSERAFIM TEIXEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 22/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 22/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 22/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 22/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 02, 04, 15, 18, 20, 21, 37, 40\ne 41 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A SOARES DE\nMEDEIROS/MARCOP PNEUS",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 06, 07, 08, 09, 12, 13, 14,\n17, 22, 23, 24, 27, 30, 38 e 39 do termo de referência, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A SOARES DE\nMEDEIROS/MARCOP PNEUS",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 01, 05, 11, 29, 31, 32, 33, 34\ne 36 do Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A SOARES DE\nMEDEIROS/MARCOP PNEUS",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes destinados à frota\nde veículos e patrulha mecanizada/máquinas pesadas da Prefeitura\nMunicipal de Catingueira – PB, dos itens 03, 10, 16, 19, 25, 26, 28, 36\ndo Termo de Referência, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A SOARES DE\nMEDEIROS/MARCOP PNEUS",
+            "valor_total": "R$ 279,630.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 25/2017\nPREGÃO PRESENCIAL Nº 11/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 25/2017\nPREGÃO PRESENCIAL Nº 11/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CIRUFARMA\nCOMERCIAL LTDA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CIRUFARMA\nCOMERCIAL LTDA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 26/2017\nPREGÃO PRESENCIAL Nº 11/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": ".\nEXTRATO DO CONTRATO N.º 26/2017\nPREGÃO PRESENCIAL Nº 11/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FARMAGUEDES\nCOMÉRCIO DE PRODUTOS FARMACÊUTICOS MÉDICOS\nE HOSPITALARES",
+            "valor_total": "R$ 655,851.50"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, destinados ao\nPSF/ESF/MCAH/SUS – Programa da Saúde da Família / Estratégia\nSaúde da Família / Média Complexidade Ambulatorial e Hospitalar /\nSistema Único de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "FARMAGUEDES\nCOMÉRCIO DE PRODUTOS FARMACÊUTICOS MÉDICOS\nE HOSPITALARES",
+            "valor_total": "R$ 655,851.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 889280.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 25,
+        "total_gasto": 740512.85,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para transmissão de\nsinal de internet para todas as Secretarias, Diretorias e Coordenadorias\nda Prefeitura Municipal de Catingueira – PB, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: ANA ALICE\nNAZARIO DE OLIVEIRA ME",
+            "valor_total": "R$ 29,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 437386.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de informática para atender as\nnecessidades da Secretaria de Saúde da Prefeitura de Catingueira –\nPB, dos itens 7, 9, 11 e 12, conforme proposta de preço, tipo menor\npreço por item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: JOSIVAN\nMELQUIADES NÓBREGA",
+            "valor_total": "R$ 2,626.00"
+          },
+          {
+            "objeto": "Aquisição de material de informática para atender as\nnecessidades da Secretaria de Saúde da Prefeitura de Catingueira –\nPB, dos itens 1 e 2, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: M.K. DE\nAZEVEDO ARAÚJO DUTRA DANTAS",
+            "valor_total": "R$ 28,700.00"
+          },
+          {
+            "objeto": "Aquisição de material de informática para atender as\nnecessidades da Secretaria de Saúde da Prefeitura de Catingueira –\nPB, dos itens 3, 4, 5, 6, 8 e 10, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA: CENTRAL E\nPAPELARIA E COMÉRICO DE INFORMÁTICA EIRELI",
+            "valor_total": "R$ 15,070.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para Execução de\nserviços de coleta e transporte de lixo e entulhos e manutenção das\nvias públicas no Município de Catingueira",
+            "empresa": "JSA\nCONSTRUÇÕES LTDA",
+            "valor_total": "R$ 198,080.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 296340.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada em prestação de\nserviços de Locação de Estrutura de Apoio para as festividades do\nJoão Pedro do Município de Catingueira - PB, que será realizado em\npraça pública nos dias 28 e 29 de julho 2017, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nMASSARANDUBA LOCAÇÕES DE PALCOS EIRELI - LTDA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nForró Pegado, no dia 28 de julho de 2017, em praça pública, através\nde empresa de produção de eventos, durante a Tradicional, Cultural,\nhistórica e Turística festividade do João Pedro do Município de\nCatingueira - PB",
+            "empresa": "A EMPRESA AREA\nBADALADA EVENTOS LTDA",
+            "valor_total": "R$ 40,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 209990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 193180.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 118472.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para elaboração de projetos\nbásicos e executivos de engenharia e prestação de serviços de\nassessoria técnica na fiscalização e supervisão de obras e serviços,\nconforme Planilha Orçamentária e Especificações técnicas anexa ao\nEdital",
+            "empresa": "A EMPRESA: SERVICON",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para elaboração de projetos\nbásicos e executivos de engenharia e prestação de serviços de\nassessoria técnica na fiscalização e supervisão de obras e serviços,\nconforme Planilha Orçamentária e Especificações técnicas anexa ao\nEdital",
+            "empresa": "Outros Serviços de Terceiro",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 69843.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 13,
+        "total_gasto": 1722768.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 veículo Novo Gol Trendiline, 1.0 Total\n\nFlex, 2017/2018, Hatch, Zero Quilometro, Cor Sólida, para atender as\n\nnecessidades do Programa Bolsa Família da Prefeitura de Catingueira\n\n- PB, conforme proposta de preço, tipo menor preço global, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: COMERCIAL\n\nSANT’ANA VEICULOS E PEÇAS LTDA",
+            "valor_total": "R$ 42,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 73,
+        "num_contratos": 111,
+        "total_gasto": 8717888.440000001
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 19,
+        "total_gasto": 968396.3099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 30,
+        "total_gasto": 2714620.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 632070.6000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 875785.4299999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 1062103.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 200023.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada em prestação de\nserviços de Locação de Estrutura de Apoio para as festividades do\nJoão Pedro do Município de Catingueira - PB, que será realizado em\npraça pública nos dias 27 e 28 de julho 2018, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: AREA\nBADALADA EVENTOS LTDA",
+            "valor_total": "R$ 18,078.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 240320.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para realização de\nexames médicos laboratoriais, para atender as necessidades da\nSecretaria de Saúde da Prefeitura Municipal de Catingueira – PB,\nconforme proposta de preço, tipo menor preço por lote, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: IGOR NÓBREGA\nFERREIRA EIRELI",
+            "valor_total": "R$ 62,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 89100.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (Um) Veículo tipo Novo Gol 1.0\nTotalFlex 2018/2019, para o Programa da Saúde da Família/Atenção\nBásica da Prefeitura Municipal de Catingueira – PB, nos termos da\nProposta n.º 12401.524000/1170-01, conforme proposta de preço, tipo\nmenor preço global, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "A EMPRESA: COMERCIAL\nSANT’ANA VEICULOS E PEÇAS LTDA",
+            "valor_total": "R$ 40,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 89400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preço para futura e eventual Contratação de\n\nEmpresa para Confecção de Próteses Dentárias dentro do Programa\n\nBrasil Sorridente, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: CENTER DENT\n\nSERVIÇO DE PRÓTESE DENTÁRIA LTDA",
+            "valor_total": "R$ 89,400.00"
+          },
+          {
+            "objeto": "Registro de Preço para futura e eventual Contratação de\n\nEmpresa para Confecção de Próteses Dentárias dentro do Programa\n\nBrasil Sorridente, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "Outros Serviços de Terceiros",
+            "valor_total": "R$ 89,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 123300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 24,
+        "total_gasto": 1588819.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 81,
+        "num_contratos": 99,
+        "total_gasto": 9052327.989999998
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 32,
+        "total_gasto": 4028548.2600000007,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para Construção de Uma Escola\n\nPadrão com 6 salas de Aula no Município de Catingueira - PB, nos\n\ntermos do Convênio n.º 708/2017/SEE/PMC",
+            "empresa": "CONCRETISA\n\nCONSTRUTORA LIMITADA",
+            "valor_total": "R$ 1,128,143.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados (Item) 03),\n\npara atender as necessidades das Secretarias Municipais da Prefeitura\n\nde Catingueira, conforme proposta de preço, tipo menor preço,\n\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: P.A.S &\n\nSANTANA LTDA/REI DOS VENTILADORES, CPNJ:\n\n13.045.626/0001-66.",
+            "valor_total": "R$ 38,000.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados (Item 02),\n\npara atender as necessidades das Secretarias Municipais da Prefeitura\n\nde Catingueira, conforme proposta de preço, tipo menor preço,\n\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: MEIRE KARLA\n\nDE AZEVEDO ARAUJO DUTRA DANTAS, CPNJ:\n\n21.062.777/0001-50.",
+            "valor_total": "R$ 29,000.00"
+          },
+          {
+            "objeto": "Aquisição de aparelhos de ar condicionados (Item 01 e\n\n04), para atender as necessidades das Secretarias Municipais da\n\nPrefeitura de Catingueira, conforme proposta de preço, tipo menor\n\npreço, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: CANAPU\n\nCOMÉRCIO DE DISTRIBUIÇÃO LTDA",
+            "valor_total": "R$ 37,000.00"
+          },
+          {
+            "objeto": "Aquisição de Um Trator Agrícola sobre rodas modelo\n\nMF4290 tração 4x4, cabine com arcondicionado original de fábrica,\n\ntransmissão sincronizada 12x4 (12 machas a frente e 4 machas e ré),\n\npneu traseiro 18.4-34 R1, com lastro mecânico, com garantia de 12\n\nmeses, para atender as necessidades de Secretaria de Agricultura e\n\nDesenvolvimento Rural, conforme especificações constantes do\n\nTermo de Referência e em conformidade com o Contrato de Repasse\n\nn.º 01061674-85, conforme proposta de preço, tipo menor preço\n\nglobal, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: DAFONTE\n\nVEÍCULOS, TRATORES, PEÇAS E SERVIÇOS LTDA",
+            "valor_total": "R$ 185,000.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos, éticos, genéricos e similares,\n\nnão encontrados no posto de saúde do município, para a distribuição à\n\npopulação carente do município, através da secretaria da saúde\n\nconforme receita médica, considerando o maior preço máximo ao\n\nconsumidor da tabela oficial de preços de medicamentos da CMED,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: DANYLLO\n\nFIGUEIREDO DE ANDRADE",
+            "valor_total": "R$ 250,000.00"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\n\nConservação e Manutenção dos prédios públicos do Município de\n\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: C.PINHEIRO e\n\nCIA LTDA",
+            "valor_total": "R$ 35,400.49"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\n\nConservação e Manutenção dos prédios públicos do Município de\n\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: ANTÔNIO DE\n\nARAÚJO AMORIM EIRELI",
+            "valor_total": "R$ 31,037.97"
+          },
+          {
+            "objeto": "Aquisição de Material Elétrico para Iluminação Pública e\n\nConservação e Manutenção dos prédios públicos do Município de\n\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\n\nPresencial Nº",
+            "empresa": "A EMPRESA: CANAPU\n\nCOMÉRCIO DE DISTRIBUIÇÃO LTDA",
+            "valor_total": "R$ 62,418.10"
+          },
+          {
+            "objeto": "Aquisição de Material Construção para Conservação e\n\nManutenção dos prédios públicos do Município Catingueira - PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA: C.PINHEIRO e\n\nCIA LTDA",
+            "valor_total": "R$ 561,852.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 1407394.92,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para realização dos serviços de\nReforma do Campo de Futebol e Construção de Quadra Descoberta,\nnos termos do Contrato de Repasse n.º 1047935-42/2017",
+            "empresa": "CRUZEIRO DO\nSUL SERVIÇOS DE CONSTRUÇÕES LTDA ME",
+            "valor_total": "R$ 499,706.92"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 160963.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 585504.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para Construção de Uma Escola\nPadrão com 6 salas de Aula no Município de Catingueira - PB, nos\ntermos do Convênio n.º 708/2017/SEE/PMC",
+            "empresa": "CONCRETISA\nCONSTRUTORA LIMITADA",
+            "valor_total": "R$ 495,938.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 718486.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nCavalo de Pau, no dia 27 de julho de 2019, em praça pública, através\nde empresa de produção de eventos, durante a Tradicional, Cultural,\nhistórica e Turística festividade do João Pedro do Município de\nCatingueira - PB",
+            "empresa": "A EMPRESA DAM",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nCavaleiros do Forró, no dia 26 de julho de 2019, em praça pública,\natravés de empresa de produção de eventos, durante a Tradicional,\nCultural, histórica e Turística festividade do João Pedro do Município\nde Catingueira - PB",
+            "empresa": "A EMPRESA M.A.G\nPROMOÇÕES E EVENTOS EIRELI",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nCircuito Musical, no dia 26 de julho de 2019, em praça pública,\natravés de empresa de produção de eventos, durante a Tradicional,\nCultural, histórica e Turística festividade do João Pedro do Município\nde Catingueira - PB",
+            "empresa": "A EMPRESA F IVO MACEDO\nPRODUÇÃO DE EVENTOS E FESTAS",
+            "valor_total": "R$ 25,000.00"
+          },
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nKátia Cilene, no dia 27 de julho de 2019, em praça pública, através de\nempresa de produção de eventos, durante a Tradicional, Cultural,\nhistórica e Turística festividade do João Pedro do Município de\nCatingueira - PB",
+            "empresa": "A EMPRESA KATIA CILENE\nGRAVAÇÕES, EDIÇÕES MUSICAIS E EVENTOS LTDA",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 268178.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada em prestação de\nserviços de Locação de Estrutura de Apoio para as festividades do\nJoão Pedro do Município de Catingueira – PB, que será realizado em\npraça pública nos dias 26 e 27 de julho 2019, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "A EMPRESA:\nMASSARANDUBA LOCAÇÕES DE PALCOS EIRELI - LTDA",
+            "valor_total": "R$ 26,108.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 58473.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 235961.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1531993.06,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 71,
+        "num_contratos": 97,
+        "total_gasto": 8673604.149999999
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 30,
+        "total_gasto": 2440643.5500000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Reconstrução de Unidades\nHabitacional para Controle da Doença de Chagas no Município de\nCatingueira – PB, nos termos do Convênio n.º 1707/2017, celebrando\nentre a Prefeitura Municipal de Catingueira e a FUNASA",
+            "empresa": "F.J\nCONSTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 359,651.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 32,
+        "total_gasto": 3372172.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Parcelada de hortifrutigranjeiros e carnes,\ndestinados à merenda escolar e para o desenvolvimento das ações,\natividades e programas das Secretarias Municipais da Prefeitura de\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: SUENIO\nCAMPOS LEITE/FRIGORIFICO FREI DAMIÃO",
+            "valor_total": "R$ 111,880.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de hortifrutigranjeiros e carnes,\ndestinados à merenda escolar e para o desenvolvimento das ações,\natividades e programas das Secretarias Municipais da Prefeitura de\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\n\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: J. J\nDISTRIBUIDORA DE ALIMENTOS LTDA",
+            "valor_total": "R$ 59,152.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de hortifrutigranjeiros e carnes,\ndestinados à merenda escolar e para o desenvolvimento das ações,\natividades e programas das Secretarias Municipais da Prefeitura de\nCatingueira – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "A EMPRESA: FERNANDA DE\nOLIVEIRA MONTEIRO",
+            "valor_total": "R$ 68,384.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 338228.84,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS PARA TROCA DE\n\nSOLO NA RUA BASÍLIO LOPES",
+            "empresa": "CONSTRUTORA H S EIRELI",
+            "valor_total": "R$ 32,812.64"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 385158.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 308055.47000000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Uma Grade Aradora com controle remoto de\n14 discos e de Uma carreta agrícola com 02 eixos e capacidade de 04\ntoneladas, para atender as necessidades de Secretaria de Agricultura e\nDesenvolvimento Rural, conforme especificações constantes do\nTermo de Referência e em conformidade com o Contrato de Repasse\nn.º 01061674-85, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "A EMPRESA: KOHLER\nIMPLEMENTOS AGRICOLAS EIRELI",
+            "valor_total": "R$ 27,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 13500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 283852.39,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para execução dos serviços de\nConstrução de Rede de Esgoto na Rua Francisco Felix de Sousa",
+            "empresa": "CONSTRUTORA H S EIRELI",
+            "valor_total": "R$ 65,382.53"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 131399.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 150,
+        "num_contratos": 145,
+        "total_gasto": 11509014.549999999
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 33000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 209330.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO aos Contratos nº",
+            "empresa": "AUTO POSTO CATINGUEIRA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 1165409.05,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Combustível em caráter\n\nemergencial destinado a frota de veículos do Município de\n\nCatingueira - PB, enquanto transcorre um novo processo licitatório",
+            "empresa": "AUTO POSTO CATINGUEIRA LTDA",
+            "valor_total": "R$ 148,520.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 969314.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 784730.3200000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento parcelado de materiais e insumos\nhospitalares e laboratoriais, destinados a atender as necessidades da\nSecretaria de saúde do município de catingueira/PB",
+            "empresa": "ALMED ALDENIO DISTRIBUIDORA DE\nMEDICAMENTOS E MATERIAL MÉDICOS HOSPITALAR\nLTDA;",
+            "valor_total": "R$ 15,754.34"
+          },
+          {
+            "objeto": "Fornecimento parcelado de materiais e insumos\nhospitalares e laboratoriais, destinados a atender as necessidades da\nSecretaria de saúde do município de catingueira/PB",
+            "empresa": "CIRÚRGICA MONTEBELLO LTDA;",
+            "valor_total": "R$ 3.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\nvarrição de ruas, coleta e transporte de lixo doméstico e entulho no\nmunicípio de catingueira/PB",
+            "empresa": "GJT SERVIÇOS E LOCAÇÃO EIRELI;",
+            "valor_total": "R$ 577,097.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1861818.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 512379.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 27,
+        "total_gasto": 1620350.79,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa (FARMÁCIAS e/ou\n\nDROGARIAS) para fornecimento diário e parcelado de\n\nmedicamentos que não constam no rol da farmácia básica e para\n\natender os casos especiais e urgentes, destinados às pessoas carentes e\n\npacientes em situação de vulnerabilidade, pacientes graves e nos casos\n\nde urgência do município de CATINGUEIRA-PB",
+            "empresa": "ANDRÉ RICARDO FIGUEIREDO DE\n\nANDRADE",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo tem por objeto acrescer na CLÁUSULA TERCEIRA - O",
+            "empresa": "J A L Silva",
+            "valor_total": "R$ 6,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 16,
+        "total_gasto": 2694831.98,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços do programa de abastecimento\n\nD’Água através de carros pipa para atendimento emergencial da\n\npopulação da Zona Urbana atingida pela estiagem, com objetivo de\n\natender ao convenio nº 105/2021 firmado entre governo do Estado e a\n\nPrefeitura Municipal de Catingueira-PB",
+            "empresa": "Walber Marinho Medeiros,CPF:646.767.654-\n\n87,Rua Saulo de Queiroz Melo,101-JD Guanabara,Cep:58701-\n\n470,Patos-PB",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviços do programa de abastecimento\n\nD’Água através de carros pipa para atendimento emergencial da\n\npopulação da Zona Urbana atingida pela estiagem, com objetivo de\n\natender ao convenio nº 105/2021 firmado entre governo do Estado e a\n\nPrefeitura Municipal de Catingueira-PB",
+            "empresa": "Helena Anastácio de Araújo Quirino",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 663225.3,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nDIVERSOS, DESTINADOS A MANUTENÇÃO DA FARMÁCIA\n\nBÁSICA DO MUNICÍPIO, A CARGO DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE CATINGUEIRA-PB",
+            "empresa": "NN MED",
+            "valor_total": "R$ 1,995.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nDIVERSOS, DESTINADOS A MANUTENÇÃO DA FARMÁCIA\n\nBÁSICA DO MUNICÍPIO, A CARGO DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE CATINGUEIRA-PB",
+            "empresa": "ALMED ALDENIO DISTRIBUIDORA DE\n\nMEDICAMENTOS E MATERIAL MÉDICOS HOSPITALAR\n\nLTDA",
+            "valor_total": "R$ 4,140.00"
+          },
+          {
+            "objeto": "Aquisição de veículos novos, Zero Km, destinados a\n\natividades da Secretaria de Educação do Município de Catingueira/PB",
+            "empresa": "FAVORITA COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 130,000.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo tem por objeto o realinhamento para manutenção do equilíbrio financeiro do Contrato, acrescendo na clausula\n\nPrimeira, o",
+            "empresa": "DROGAFONTE LTDA",
+            "valor_total": "R$ 45,748.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 16,
+        "total_gasto": 863225.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 567099.09,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 179,
+        "num_contratos": 216,
+        "total_gasto": 25012195.52000001
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 4324654.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios (Perecíveis e\n\nnão perecíveis) destinados a merenda escolar da Rede Municipal de\n\nEnsino do Município de Catingueira- PB",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 204,645.50"
+          },
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios (Perecíveis e\n\nnão perecíveis) destinados a merenda escolar da Rede Municipal de\n\nEnsino do Município de Catingueira- PB",
+            "empresa": "EZEQUIAS VIEIRA DA SILVA",
+            "valor_total": "R$ 8,200.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios (Perecíveis e\n\nnão perecíveis) destinados a merenda escolar da Rede Municipal de\n\nEnsino do Município de Catingueira- PB",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 21,
+        "total_gasto": 2199763.12,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "ZIB COMERCIO E SERVIÇOS LTDA - Tipo:",
+            "valor_total": "R$ 54,324.48"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "ZIB COMERCIO E SERVIÇOS LTDA - Tipo:",
+            "valor_total": "R$ 54,324.48"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "ZIB COMERCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 54,324.48"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "ZIB COMERCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 54,324.48"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE",
+            "valor_total": "R$ 185,169.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE",
+            "valor_total": "R$ 185,169.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE",
+            "valor_total": "R$ 185,169.60"
+          },
+          {
+            "objeto": "Aquisição parcelada de aparelhos de Ares-condicionados,\n\ndestinados a atender as necessidades de todas as Secretarias do\n\nMunicípio de Catingueira/PB",
+            "empresa": "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE",
+            "valor_total": "R$ 185,169.60"
+          },
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao Contrato nº",
+            "empresa": "AUTO POSTO CATINGUEIRA LTDA,inscrito no",
+            "valor_total": "R$ 307,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 976934.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 1385108.68,
+        "empresas_mensais": [
+          {
+            "objeto": "fornecimento de material de expediente, para atender as\n\nnecessidades das secretarias do município de Catingueira/PB",
+            "empresa": "VINÍCIUS JOSÉ DA SILVA CAVALCANTI\n\nME",
+            "valor_total": "R$ 299,266.25"
+          },
+          {
+            "objeto": "fornecimento de material de expediente, para atender as\n\nnecessidades das secretarias do município de Catingueira/PB",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA ME",
+            "valor_total": "R$ 176,017.80"
+          },
+          {
+            "objeto": "fornecimento de pneus, câmaras de ar e protetores,\n\nconforme condições, quantidades e exigências estabelecidas neste\n\ninstrumento, para suprir as necessidades das secretarias municipais de\n\nCatingueira/PB",
+            "empresa": "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETÍFICA E SERVIÇOS LTDA",
+            "valor_total": "R$ 264,032.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 780019.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 44,
+        "total_gasto": 6735905.059999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 1842510.7900000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 45,
+        "total_gasto": 2591528.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um caminhão tipo basculante para a\n\nsecretaria de infraestrutura do Município de Catingueira/ PB, em\n\natendimento ao convênio 55414/2021 – PLATAFORMA MAIS\n\nBRASIL -925487/2021",
+            "empresa": "UNIDAS VEICULOS E SERVIÇOS LTDA",
+            "valor_total": "R$ 629,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 1883974.62,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao Contrato\nnº",
+            "empresa": "ANDRÉ RICARDO FIGUEIRÊDO DE\nANDRADE-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 876373.78,
+        "empresas_mensais": [
+          {
+            "objeto": "Alteração na cláusula terceira, visando acrescer o",
+            "empresa": "AMETISTA CONSTRUÇÕES E SERVIÇOS\n\nEIRELI-CNPJ nº 29.828.673/0001-16",
+            "valor_total": "R$ 207,588.68"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 848323.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta de empresa para prestar contratação de\nshow artístico da Banda/Artista “FORRÓ DO NOSSO JEITO DAS\nANTIGAS”, no dia 19 de janeiro de 2023, para o Evento tradicional,\ncultural, histórica e turística festividade do padroeiro de São Sebastião\ndo Município de Catingueira – PB",
+            "empresa": "IVANILDO DE OLIVEIRA FARIAS,\ncadastrada no",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 31,
+        "total_gasto": 2324621.8499999996,
+        "empresas_mensais": [
+          {
+            "objeto": "MATERIAL DE EXPEDIENTE,PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DO MUNICIPIO DE\nCATINGUEIRA-PB",
+            "empresa": "VINICIUS JOSÉ NOGUEIRA\nCAVALCANTI-ME",
+            "valor_total": "R$ 286,621.25"
+          },
+          {
+            "objeto": "credenciamento de farmácia para fornecimento de\nmedicamentos que não constam do rol da Farmácia Básica e por\nse tratarem de produtos para atendimento aos casos especiais e de\n\nemergência, destinados à população carente deste município de\nCatingueira-PB, para atender a demanda de 2023",
+            "empresa": "FARMACIA DROGARIA POPULAR LTDA,\ncadastrada no",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "credenciamento de farmácia para fornecimento de\nmedicamentos que não constam do rol da Farmácia Básica e por\nse tratarem de produtos para atendimento aos casos especiais e de\nemergência, destinados à população carente deste município de\nCatingueira-PB, para atender a demanda de 2023",
+            "empresa": "RICARDO DE MEDEIROS DIAS FILHO\n(LIDERPHARMA), cadastrada no",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "MATERIAL DE EXPEDIENTE,PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DO MUNICIPIO DE\nCATINGUEIRA-PB",
+            "empresa": "IRACI PALMEIRA DA COSTA SILVA ME",
+            "valor_total": "R$ 176,017.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 186,
+        "num_contratos": 200,
+        "total_gasto": 15013176.27
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 3281941.9299999997,
+        "empresas_mensais": [
+          {
+            "objeto": "é o Chamamento de interessados para apresentar projeto de\n\nvenda de gêneros alimentícios da agricultura familiar e do\nempreendedor familiar rural para de forma complementar atender ao\n\nprograma nacional de Alimentação Escolar/PNAE no município de\n\nCATINGUEIRA/PB",
+            "empresa": "ADRIANO LEONEL DE OLIVEIRA",
+            "valor_total": "R$ 4,960.00"
+          },
+          {
+            "objeto": "é o Chamamento de interessados para apresentar projeto\nde venda de gêneros alimentícios da agricultura familiar e do\n\nempreendedor familiar rural para de forma complementar atender ao\n\nprograma nacional de Alimentação Escolar/PNAE no município de\n\nCATINGUEIRA/PB",
+            "empresa": "MANOEL ALVES FILHO",
+            "valor_total": "R$ 34,142.00"
+          },
+          {
+            "objeto": "é o Chamamento de interessados para apresentar projeto\n\nde venda de gêneros alimentícios da agricultura familiar e do\n\nempreendedor familiar rural para de forma complementar atender ao\nprograma nacional de Alimentação Escolar/PNAE no município de\n\nCATINGUEIRA/PB.",
+            "empresa": "ANA LUCIA MENDES DE LIRA GOMES",
+            "valor_total": "R$ 4,041.00"
+          },
+          {
+            "objeto": "é o Chamamento de interessados para apresentar projeto\n\nde venda de gêneros alimentícios da agricultura familiar e do\n\nempreendedor familiar rural para de forma complementar atender ao\n\nprograma nacional de Alimentação Escolar/PNAE no município de\nCATINGUEIRA/PB.",
+            "empresa": "ASSOCIAÇÃO COMUNITARIA DOS\n\nPEQUENOS PRODUTORES RURAIS DE POÇOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição, de forma parcelada, de gêneros alimentícios\n\npara os alunos da Creche, Educação Infantil, Ensino Fundamental e\n\nEJA da Rede Municipal de Ensino de Catingueira-PB, durante 30 dias\n\ndo ano letivo de 2023, referente ao Programa Nacional de\nAlimentação Escolar, (PNAE) conforme condições e especificações\n\nconstantes no termo de referencia e Cardápio até que se conclua a\n\nlicitação, definitiva, para o fornecimento do mesmo objeto",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 22,293.21"
+          },
+          {
+            "objeto": "Aquisição, de forma parcelada, de gêneros alimentícios\npara os alunos da Creche, Educação Infantil, Ensino Fundamental e\n\nEJA da Rede Municipal de Ensino de Catingueira-PB, durante 30 dias\n\ndo ano letivo de 2023, referente ao Programa Nacional de\n\nAlimentação Escolar, (PNAE) conforme condições e especificações\nconstantes no termo de referencia e Cardápio até que se conclua a\n\nlicitação, definitiva, para o fornecimento do mesmo objeto",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO, -",
+            "valor_total": "R$ 40,768.34"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 31,
+        "total_gasto": 2265582.88,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "VIVA DISTRIBUIDORA DE PRODUTOS\n\nLTDA",
+            "valor_total": "R$ 1,790.50"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESOAL, SANEANTES E\n\nDESCARTÁVEIS, DESTINADOS A MANTER AS ATIVIDAES\n\nDE TODAS AS SECRETARIAS DE MUNICIPIO DE\n\nCATINGUEIRA/PB, CONFORME ESPECIFICAÇOES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "DENTAL HIGIX PRODUTOS\n\nODONTOLÓGICOS MÉDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 335.00"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "INDUSTRIA E COMERCIO DE PRODUTOS\n\nDE LIMPEZA CAMPINENSE LTDA",
+            "valor_total": "R$ 32,090.00"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "LPK LTDA",
+            "valor_total": "R$ 15,645.00"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "THALLES DE LAESSES HENRIQUES\n\nCHAVES",
+            "valor_total": "R$ 34,854.70"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "BEETHOVEN DOS SANTOS DA SILVA",
+            "valor_total": "R$ 245,006.90"
+          },
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao Contrato\n\nnº",
+            "empresa": "FF LOCADORA DE VEICULOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao Contrato\n\nnº 01.0134/2022 em vigor, com alteração na clausula terceira do\n\ncontrato, visando suprir um",
+            "empresa": "AMETISTA CONSTRUÇÕES E SERVIÇOS\n\nEIRELI",
+            "valor_total": "R$ 142,580.14"
+          },
+          {
+            "objeto": "AQUISIÇAO PARCELADA DE MATERIAIS DE\n\nLIMPEZA, HIGIENE PESSOAL, SANEANTES E\n\nDESCATÁRVEIS, DESTINADOS A MANTER AS\n\nATIVIDADES DE TODAS AS SECRETARIAS DO MUNICIPIO\n\nDE CATINGUEIRA/PB, CONFORME ESPECIFICAÇÕES DO\n\nEDITAL E SEUS ANEXOS",
+            "empresa": "TS COMERCIO ATACADISTA E\n\nVAREJISTA LTDA",
+            "valor_total": "R$ 50,799.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 860613.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 32,
+        "total_gasto": 2808294.0399999996,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\nODONTOLÓGICO PARA ATENDER A DEMANDA DA\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE CATINGUEIRA-\nPB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS\nMEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 5,233.05"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\nODONTOLÓGICO PARA ATENDER A DEMANDA DA\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE CATINGUEIRA-\nPB",
+            "empresa": "APOGEU CENTER COMERCIAL DE\nPRODUTOS\nHOSPITALARES E MEDICAMENTOS LTDA",
+            "valor_total": "R$ 9,549.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS\nODONTOLÓGICO PARA ATENDER A DEMANDA DA\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE CATINGUEIRA-\nPB",
+            "empresa": "ODONTOMED T/A LTDA",
+            "valor_total": "R$ 2,040.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 966642.98,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente ADITAMENTO ao Contrato\n\nnº",
+            "empresa": "RENOVAR CONSTRUÇÕES E SERVIÇOS\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "contratação de empresa especializada para prestar para\n\natuação direcionada no planejamento, execução e controle das contas\n\ndos convênios federais e estaduais, junto aos sistemas:\n\nTRANFEREGOV (SICONV), SIGPC, SGIPACTO, SUASWEB,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\n\nSIMEC, FUNASA, DNOCS e demais segmentos de prestações de\n\ncontas",
+            "empresa": "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTAO EMPRESARIAL E PUBLICA\n\nLTDA",
+            "valor_total": "R$ 24,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 11,
+        "total_gasto": 380565.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 400538.57999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de instrumentos musicais destinados a oficina\n\ncomplementar, fortalecimento, autonomia e ações dos adolescentes\n\nbeneficiários do programa do Bolsa família do município de\n\nCatingueira PB",
+            "empresa": "ALEXANDER DE AGUIAR GOMES",
+            "valor_total": "R$ 6,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 790726.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 72595.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\n\nserviços de manutenção e conservação das artérias urbanas do\n\nmunicípio de Catingueira-PB",
+            "empresa": "ULTRA SOLUÇÕES E SERVIÇOS - LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 206919.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 654133.88,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE 01 ( UM ) IMOVEL, LOCALIZADO A\nRUA INACIO FELIX DE OLIVEIRA S/N ; CENTRO ;\nCATINGUEIRA – PB DESTINADO AO FUNCIONAMENTO DA\nSEDE CASA CIDADÃ",
+            "empresa": "EWERTON HUESLLEY PEREIRA",
+            "valor_total": "R$ 9,600.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE REFORMA DAS INSTALAÇÕES\nFÍSICAS DO PRÉDIO SEDE DA CÂMARA MUNICIPAL DE\nCATINGUEIRA/PB",
+            "empresa": "50.190.760 ALINE MEDEIROS DOS\nSANTOS BORGES",
+            "valor_total": "R$ 47,382.13"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA AQUISIÇÃO\nDE KIT DO PROFESSOR COMPLEMENTAR PARA\nDISTRIBUIÇÃO AOS PROFESSORES LOCADOS NA REDE\nPUBLICA MUNICIPAL DE CATINGUEIRA/PB",
+            "empresa": "UZE BRINDES E UNIFORMES LTDA",
+            "valor_total": "R$ 17,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO DE ALIMENTAÇÃO E PRODUÇÃO DE EVENTO\nPARA AS FESTIVIDADES DA FESTA DE SÃO SEBASTIAO DO\nMUNICÍPIO DE CATINGUEIRA PB",
+            "empresa": "AREA BADALADA EVENTOS-LDA",
+            "valor_total": "R$ 15,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 18,
+        "total_gasto": 7432123.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de fornecimento parcelado de\n\nrefeições prontas e lanches destinados às atividades do Município de\n\nCatingueira-PB",
+            "empresa": "BAR RESTAURANTE OLIVEIRA",
+            "valor_total": "R$ 132,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 145,
+        "num_contratos": 142,
+        "total_gasto": 24082068.669999998
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 23,
+        "total_gasto": 3847260.34,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação empresa especializada para executar obra de\n\npavimentação e adequação de estradas vicinais no município de\n\nCatingueira-PB, atendendo o contrato de Repasse nº\n\n907765/2020/MDR/CAIXA",
+            "empresa": "B2 CONSTRUCOES EIRELI",
+            "valor_total": "R$ 166,834.11"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 22,
+        "total_gasto": 3630313.4099999997,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de materiais de construção para manutenção de\n\nvias públicas e imóveis do município de Catingueira-PB",
+            "empresa": "AZEVEDO COMERCIO VAREJISTA DE\n\nMATERIAIS DE CONSTRUCAO LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição de materiais de construção para manutenção de\n\nvias públicas e imóveis do município de Catingueira-PB",
+            "empresa": "LÚMEN DISTRIBUIDORA DE MATERIAIS\n\nELÉTRICOS LTDA",
+            "valor_total": "R$ 43,854.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 47,
+        "total_gasto": 6262409.78,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de materiais de construção para manutenção de\n\nvias públicas e imóveis do município de Catingueira-PB",
+            "empresa": "EMILIA GOMES DA SILVA SOUZA-ME",
+            "valor_total": "R$ 6,873.00"
+          },
+          {
+            "objeto": "aquisição de materiais de construção para manutenção de\n\nvias públicas e imóveis do município de Catingueira-PB",
+            "empresa": "C.PINHEIRO & CIA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo tem por objeto acrescer na\n\nCLÁUSULA QUINTA - O",
+            "empresa": "FERNANDA DE OLIVEIRA MONTEIRO",
+            "valor_total": "R$ 32,846.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 177105.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 666298.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 641423.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 812507.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento de pessoas jurídicas para posterior\n\ncontratação, mediante documentação, dos serviços especializados de\n\nFONOAUDIOLOGO, PSICÓLOGO e TERAPEUTA\n\nOCUPACIONAL, médica em consultas, atendendo a demanda da\n\nsecretaria de Saúde do Município de Catingueira-PB",
+            "empresa": "FRANCISCO CLEIDSON XAVIER DE\n\nLACERDA JUNIOR",
+            "valor_total": "R$ 40,907.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 142924.65,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo tem por objeto de acréscimo\n\ncontratual, acrescendo na clausula sexta, o",
+            "empresa": "KCL COSTA COMERCIO ATACADISTA DE\n\nMATERIAL HOSPITALAR",
+            "valor_total": "R$ 6,522.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 288723.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA A PRESTAÇÃO DE SERVIÇOS COM A\n\nORNAMENTAÇÃO NATALINA (NATAL LUZ) DE PRAÇAS E\n\nRUAS DA SEDE DO MUNICÍPIO DE CATINGUEIRA-PB",
+            "empresa": "ARNOR DANTAS FILHO",
+            "valor_total": "R$ 25,898.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 180980.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

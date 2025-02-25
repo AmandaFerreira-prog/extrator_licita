@@ -96,7 +96,7 @@
         "num_contratos": 6,
         "total_gasto": 166675.71000000002,
         "top_3_empresas": [
-          "SAMARA SUELHY GOMES DA SILVA\n\n08485721497"
+          "SAMARA SUELHY GOMES DA SILVA"
         ],
         "top_3_objetos": [
           "Reforma e Ampliação das placas de identificação das Ruas\n\ne Avenidas do Município de Igaracy – PB, todas Pintadas e\n\nAdesivadas e Aplicado o verniz PU 10.000 automotivo"
@@ -144,14 +144,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 162,
-        "num_contratos": 117,
-        "total_gasto": 15491060.74
+        "num_diarios": 159,
+        "num_contratos": 116,
+        "total_gasto": 14871459.24
       },
       "2": {
-        "num_diarios": 17,
-        "num_contratos": 21,
-        "total_gasto": 3714801.73,
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 3095200.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -160,14 +160,14 @@
         "num_contratos": 6,
         "total_gasto": 1415983.7000000002,
         "top_3_empresas": [
-          "GILVAN FELISMINO DA SILVA JUNIOR\n\n09051730403"
+          "GILVAN FELISMINO DA SILVA JUNIOR"
         ],
         "top_3_objetos": [
           "SERVIÇO DE APOIO, DESLOCAMENTO E\n\nASSISTENCIA A PACIENTES ENCAMINHADOS PELA\n\nSECRETARIA MUNICIPAL DE SAÚDE PARA TRATAMENTO\n\nNA CIDADE DE JOAO PESSOA – PB"
         ]
       },
       "4": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 27,
         "total_gasto": 1882582.07,
         "top_3_empresas": [
@@ -178,7 +178,7 @@
         ]
       },
       "5": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 12,
         "total_gasto": 1671969.71,
         "top_3_empresas": [],
@@ -219,7 +219,7 @@
         "num_contratos": 7,
         "total_gasto": 555345.3200000001,
         "top_3_empresas": [
-          "WALDIR SAULO CUNHA SANTOS\n\n05957015407"
+          "WALDIR SAULO CUNHA SANTOS"
         ],
         "top_3_objetos": [
           "aquisição de equipamentos para atendimento da educação\n\ninfantil e ensino fundamental da rede municipal de ensino de Igaracy–\n\nPB"
@@ -249,7 +249,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 123,
+        "num_diarios": 122,
         "num_contratos": 42,
         "total_gasto": 10317021.010000002
       },
@@ -268,7 +268,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 7,
         "total_gasto": 3065512.39,
         "top_3_empresas": [],
@@ -337,14 +337,14 @@
     }
   },
   "resumo": {
-    "num_diarios": 484,
-    "num_contratos": 297,
-    "total_gasto": 37582877.2,
+    "num_diarios": 480,
+    "num_contratos": 296,
+    "total_gasto": "36.963.275,70",
     "top_5_empresas": {
       "JOSÉ ILDON\n\nFERNANDES": 1,
-      "SAMARA SUELHY GOMES DA SILVA\n\n08485721497": 1,
+      "SAMARA SUELHY GOMES DA SILVA": 1,
       "VF SHOWS\n\nPRODUCOES LTDA": 1,
-      "GILVAN FELISMINO DA SILVA JUNIOR\n\n09051730403": 1,
+      "GILVAN FELISMINO DA SILVA JUNIOR": 1,
       "CENTROSOL ENGENHARIA LTDA": 1
     },
     "top_5_objetos": {

@@ -87,9 +87,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 102,
-        "num_contratos": 110,
-        "total_gasto": 4392440.34
+        "num_diarios": 101,
+        "num_contratos": 106,
+        "total_gasto": 4251325.84
       },
       "2": {
         "num_diarios": 9,
@@ -187,9 +187,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 325383.8,
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 184269.3,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -197,8 +197,8 @@
     "2020": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 22,
-        "total_gasto": 963764.48,
+        "num_contratos": 30,
+        "total_gasto": 1524225.88,
         "top_3_empresas": [
           "SILVANA ARAUJO MARIZ\n\nMEDEIROS",
           "BIOMED DISTRIBUIDORA\n\nHOSPITALAR LABORATORIAL N. S. C. LTDA"
@@ -209,9 +209,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 83,
-        "num_contratos": 65,
-        "total_gasto": 3588618.34
+        "num_diarios": 82,
+        "num_contratos": 73,
+        "total_gasto": 4149079.7399999998
       },
       "2": {
         "num_diarios": 9,
@@ -225,7 +225,7 @@
         ]
       },
       "3": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 10,
         "total_gasto": 209304.63,
         "top_3_empresas": [],
@@ -309,9 +309,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 69,
-        "num_contratos": 102,
-        "total_gasto": 3880071.5900000003
+        "num_diarios": 67,
+        "num_contratos": 100,
+        "total_gasto": 4766385.930000001
       },
       "3": {
         "num_diarios": 5,
@@ -321,9 +321,9 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 8,
-        "num_contratos": 11,
-        "total_gasto": 1148221.0999999999,
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 83102.2,
         "top_3_empresas": [
           "POSTO DE COMBUSTÍVEL FERREIRA EIRELI",
           "FARMÁCIA CORAÇÃO DE JESUS LTDA",
@@ -348,15 +348,15 @@
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 9,
-        "total_gasto": 179811.8,
+        "num_contratos": 10,
+        "total_gasto": 279811.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 12,
-        "num_contratos": 14,
-        "total_gasto": 361892.53,
+        "num_contratos": 15,
+        "total_gasto": 373642.44,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de pessoa jurídica para aquisição de\n\nmateriais de expediente para atender ao programa CRIANÇA\n\nFELIZ, com o objetivo de suprir as necessidades do município de\n\nNazarezinho-PB"
@@ -364,15 +364,15 @@
       },
       "8": {
         "num_diarios": 10,
-        "num_contratos": 21,
-        "total_gasto": 475635.2,
+        "num_contratos": 22,
+        "total_gasto": 2311602.41,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 3,
-        "total_gasto": 120000.0,
+        "num_contratos": 4,
+        "total_gasto": 123716.12,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de empresa especializada para prestação\n\nde serviços de Assessoria e Consultoria técnica em gestão da\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 20\n\n\n\nsaúde municipal nas áreas de planejamento, monitoramento,\n\ngestão, elaboração de projetos técnicos, com ênfase na atenção\n\nbásica, média e alta complexidade, vigilância em saúde e área\n\nafins, para atender as necessidades da secretaria de saúde do\n\nMunicípio de Nazarezinho-PB"
@@ -401,14 +401,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 50,
-        "num_contratos": 89,
-        "total_gasto": 3511356.06
+        "num_diarios": 48,
+        "num_contratos": 86,
+        "total_gasto": 3445516.06
       },
       "4": {
-        "num_diarios": 7,
-        "num_contratos": 13,
-        "total_gasto": 860425.5900000001,
+        "num_diarios": 6,
+        "num_contratos": 12,
+        "total_gasto": 826225.5900000001,
         "top_3_empresas": [
           "S:\n\nANTONIO BRAGA"
         ],
@@ -457,11 +457,11 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 7,
-        "num_contratos": 9,
-        "total_gasto": 229606.9,
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 197966.9,
         "top_3_empresas": [
-          "S:\n\nALEXSANDRO LOPES BEZERRA 11017445451"
+          "S:\n\nALEXSANDRO LOPES BEZERRA"
         ],
         "top_3_objetos": [
           "Contratação de empresa para aquisição parcelada de\n\nserviços de lavagem dos veículos pertencentes a Prefeitura de\n\nNazarezinho-PB"
@@ -502,14 +502,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 41,
-        "num_contratos": 43,
-        "total_gasto": 2124031.0300000003
+        "num_diarios": 40,
+        "num_contratos": 32,
+        "total_gasto": 1827794.03
       },
       "2": {
-        "num_diarios": 7,
-        "num_contratos": 22,
-        "total_gasto": 1071820.5,
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 775583.5,
         "top_3_empresas": [
           "S:\n\nDROGAFONTE LTDA",
           "S:\n\nLELEKA PRODUCOES E LOCACOES EIRELI"
@@ -559,7 +559,7 @@
         "num_contratos": 2,
         "total_gasto": 11949.0,
         "top_3_empresas": [
-          "S: ANTONIO LEONARDO FERREIRA SANTOS,"
+          "S: ANTONIO LEONARDO FERREIRA SANTOS"
         ],
         "top_3_objetos": [
           "Contratação de empresa para aquisição parcelada de\n\nitens de enxoval de bebê, com o objetivo de suprir as necessidades\n\ndo município de Nazarezinho-PB"
@@ -577,7 +577,7 @@
         "num_contratos": 1,
         "total_gasto": 372610.53,
         "top_3_empresas": [
-          "SPX CONSTRUCAO E SERVICOS LTDA,"
+          "SPX CONSTRUCAO E SERVICOS LTDA"
         ],
         "top_3_objetos": [
           "Contratação de empresa especializada para construção de\n\npassagens molhadas no município de Nazarezinho-PB"
@@ -595,7 +595,7 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 8,
         "total_gasto": 1510727.5,
         "top_3_empresas": [
@@ -606,7 +606,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 34,
+        "num_diarios": 32,
         "num_contratos": 25,
         "total_gasto": 2785431.93
       },
@@ -682,7 +682,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 1,
         "total_gasto": 127750.0,
         "top_3_empresas": [],
@@ -691,9 +691,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 419,
-    "num_contratos": 453,
-    "total_gasto": 21647944.51,
+    "num_diarios": 410,
+    "num_contratos": 441,
+    "total_gasto": "22.591.528,75",
     "top_5_empresas": {
       "BIOMED DISTRIBUIDORA\n\nHOSPITALAR LABORATORIAL N. S. C. LTDA": 2,
       "JOSÉ ELIFRAN ALVINO DE\n\nSOUSA": 1,

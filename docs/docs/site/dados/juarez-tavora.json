@@ -11,12 +11,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 78,
-        "num_contratos": 82,
-        "total_gasto": 9850410.910000004
+        "num_diarios": 76,
+        "num_contratos": 81,
+        "total_gasto": 9778410.910000004
       },
       "4": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 14,
         "total_gasto": 1056057.17,
         "top_3_empresas": [],
@@ -51,12 +51,15 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 5,
-        "num_contratos": 5,
-        "total_gasto": 322761.2,
-        "top_3_empresas": [],
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 250761.2,
+        "top_3_empresas": [
+          "ECOSOLO GUARABIRA GESTÃO\n\nAMBIENTAL DE RESÍDUOS LTDA"
+        ],
         "top_3_objetos": [
-          "Prorrogação, por 12 (doze) meses, do prazo de vigência do\n\nContrato de nº 61/2021, iniciando em 23 de agosto de 2022, até 22 de\n\nagosto de 2023, com acréscimo no"
+          "Contratação de Aterro Sanitário licenciado, para\n\nrecebimento e disposição final de resíduos sólidos urbanos produzidos\n\npelo Município de Juarez Távora, num total estimado de 1.200 (mil e\n\nduzentas) toneladas",
+          "Alterar a quantidade dos serviços\n\ncontratados, visando atender as necessidades do Município, bem como\n\na melhor adequação do projeto executivo que é fundamental para a\n\neficácia dos serviços oferecidos a comunidade, com acréscimo no"
         ]
       },
       "9": {
@@ -94,20 +97,20 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 3407478.9699999997,
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1868678.97,
         "top_3_empresas": [
-          "ALBUQUERQUE CABRAL AUTO POSTO DE\nCOMBUSTÍVEIS EIRELI"
+          "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI"
         ],
         "top_3_objetos": [
-          "Aquisição de combustíveis e derivados, para abastecimento\nda frota de veículos da Prefeitura de Juarez Távora, e veículos\nlocados"
+          "Aquisição de combustíveis e derivados, para abastecimento\n\nda frota de veículos da Prefeitura de Juarez Távora, e veículos\n\nlocados"
         ]
       },
       "resumo": {
-        "num_diarios": 101,
-        "num_contratos": 91,
-        "total_gasto": 18050237.0
+        "num_diarios": 99,
+        "num_contratos": 90,
+        "total_gasto": 16511437.0
       },
       "2": {
         "num_diarios": 9,
@@ -148,7 +151,7 @@
         "num_contratos": 2,
         "total_gasto": 331216.5,
         "top_3_empresas": [
-          "ADRIANO BATISTA DA SILVA SANTOS,"
+          "ADRIANO BATISTA DA SILVA SANTOS"
         ],
         "top_3_objetos": [
           "Contratação do cantor Vicente Nery, para realização de\n\numa apresentação artística no dia 15/07/2023, durante a Festa de\n\nEmancipação Política da cidade de Juarez Távora"
@@ -184,14 +187,14 @@
         "num_contratos": 5,
         "total_gasto": 977978.65,
         "top_3_empresas": [
-          "CEARA DIESEL MECÂNICA GERAL LTDA,"
+          "CEARA DIESEL MECÂNICA GERAL LTDA"
         ],
         "top_3_objetos": [
           "Contratação de horas de serviços de manutenção preventiva\ne corretiva e recuperação de veículos da Prefeitura Municipal de\n\nJuarez Távora"
         ]
       },
       "11": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 2,
         "total_gasto": 442749.32,
         "top_3_empresas": [],
@@ -207,14 +210,14 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 6,
         "total_gasto": 2559329.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 96,
+        "num_diarios": 95,
         "num_contratos": 88,
         "total_gasto": 14865396.249999998
       },
@@ -324,22 +327,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 275,
-    "num_contratos": 261,
-    "total_gasto": 42766044.16,
+    "num_diarios": 270,
+    "num_contratos": 259,
+    "total_gasto": "41.155.244,16",
     "top_5_empresas": {
       "DROGAFONTE LTDA": 1,
       "ALLMED DISTRIBUIDORA E COMÉRCIO DE\n\nPRODUTOS FARMACÊUTICOS LTDA": 1,
+      "ECOSOLO GUARABIRA GESTÃO\n\nAMBIENTAL DE RESÍDUOS LTDA": 1,
       "HUMBERTO RAMALHO TRIGUEIRO\n\nMENDES-ME": 1,
-      "ALBUQUERQUE CABRAL AUTO POSTO DE\nCOMBUSTÍVEIS EIRELI": 1,
-      "ROSICLÉIA DA SILVA LIMA": 1
+      "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI": 1
     },
     "top_5_objetos": {
       "Alterar a quantidade dos serviços\n\ncontratados, com acréscimo no": 1,
       "Aquisição parcelada de medicamentos, para atender as\n\nUnidades Básicas de Saúde do Município de Juarez Távora": 1,
-      "Prorrogação, por 12 (doze) meses, do prazo de vigência do\n\nContrato de nº 61/2021, iniciando em 23 de agosto de 2022, até 22 de\n\nagosto de 2023, com acréscimo no": 1,
-      "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Reforma e Ampliação da Escola Luís Ribeiro\n\nCoutinho na cidade de Juarez Távora": 1,
-      "Aquisição de combustíveis e derivados, para abastecimento\nda frota de veículos da Prefeitura de Juarez Távora, e veículos\nlocados": 1
+      "Contratação de Aterro Sanitário licenciado, para\n\nrecebimento e disposição final de resíduos sólidos urbanos produzidos\n\npelo Município de Juarez Távora, num total estimado de 1.200 (mil e\n\nduzentas) toneladas": 1,
+      "Alterar a quantidade dos serviços\n\ncontratados, visando atender as necessidades do Município, bem como\n\na melhor adequação do projeto executivo que é fundamental para a\n\neficácia dos serviços oferecidos a comunidade, com acréscimo no": 1,
+      "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Reforma e Ampliação da Escola Luís Ribeiro\n\nCoutinho na cidade de Juarez Távora": 1
     }
   }
 }

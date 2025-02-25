@@ -1,0 +1,1592 @@
+{
+  "id": "juripiranga",
+  "nome": "Juripiranga",
+  "detalhe": {
+    "2015": {
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 28,
+        "total_gasto": 2205617.67,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "ANTONIO PEREIRA DA COSTA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "SEVERINO LUIZ DA SILVA",
+            "valor_total": "R$ 19,998.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "WELLINGTON CARNEIRO DA SILVA",
+            "valor_total": "R$ 19,860.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "LUIZ GONÇALVES DE FARIAS FILHO",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "LUIZ GONÇALVES DE FARIAS",
+            "valor_total": "R$ 13,608.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "EDILENE PEREIRA DA COSTA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Contratação para aquisição de gêneros alimentícios,\noriginários do Programa de Agricultura Familiar e do Empreendedor\nFamiliar Rural, destinados à alimentação escolar dos alunos da Rede\nMunicipal de Ensino do Município de Juripiranga",
+            "empresa": "ANDRÉ ROCHA DOURADO",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 136,
+        "num_contratos": 97,
+        "total_gasto": 4840182.8999999985
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 55522.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 646905.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 658026.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 21,
+        "total_gasto": 697288.2599999999,
+        "empresas_mensais": [
+          {
+            "objeto": "execução de obras de recuperação de pavimentação em\nparalelepípedos e meio-fio de ruas e avenidas do Município de\nJuripiranga",
+            "empresa": "SINCON CONSTRUTORA EIRELI",
+            "valor_total": "R$ 62,484.00"
+          },
+          {
+            "objeto": "Serviços de Oficina autorizada para conserto e manutenção\ndo veículo Kombi Stand – Placa OGB-1258, com reposição de peças",
+            "empresa": "NOVA, VEÍCULOS, PEÇAS E SERVIÇOS LTDA",
+            "valor_total": "R$ 6,331.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 277235.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 70596.95,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais odontológicos, para atender as\nnecessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "ORTOSHOP COMÉRCIO LTDA",
+            "valor_total": "R$ 1,500.00"
+          },
+          {
+            "objeto": "Aquisição de materiais odontológicos, para atender as\nnecessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "DISMENE DISTRIBUIDORA DE\nMEDICAMENTOS DO NORDESTE LTDA",
+            "valor_total": "R$ 1,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais odontológicos, para atender as\nnecessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "CIRÚRGICA NORDESTINA DISTRIBUIDORA\nDE MATERIAIS MÉDICO CIRÚRGICO LTDA",
+            "valor_total": "R$ 1,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais odontológicos, para atender as\nnecessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "L. M. LADEIRA & CIA LTDA",
+            "valor_total": "R$ 2,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 6212.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 3000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação para execução de serviços de montagem e\ndesmontagem de ornamentação das principais Ruas, a principal\nAvenida Brasil, as praças 21 de Abril e Frei Damião e os Prédios\nPúblicos, para as festividades do Natal e Ano Novo do Município de\nJuripiranga, com fornecimento de material",
+            "empresa": "ESTEFANY PRYCILLA FELIX DE SOUZA\nFRAZÃO",
+            "valor_total": "R$ 3,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 219780.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 16,
+        "total_gasto": 1389770.12,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de um Trio Elétrico com Sistema de Sonorização e\ncondutor, para as festividades Carnavalescas na cidade de Juripiranga",
+            "empresa": "LOCOMOTIVA",
+            "valor_total": "R$ 27,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 180,
+        "num_contratos": 128,
+        "total_gasto": 5997690.270000001
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 34,
+        "total_gasto": 1650863.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 119549.54000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "fornecimento materiais para construção em geral,\ndestinados a Secretaria Municipal de Infraestrutura, para atender as\ndemandas das demais Unidades do Município de Juripiranga",
+            "empresa": "EVERALDO MARINHO DE ARAUJO-\nMAT.CONSTRUÇÃO",
+            "valor_total": "R$ 2,844.75"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 880918.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 776866.53,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais médicos hospitalares, para atender\nas necessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "APOGEU CENTER COMERCIAL DE\nPRODUTOS HOSPITALARES E MEDICAMENTOS LTDA",
+            "valor_total": "R$ 9,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais médicos hospitalares, para atender\nas necessidades dos Postos de Saúde do Município de Juripiranga",
+            "empresa": "DISMENE DISTRIBUIDORA DE\nMEDICAMENTOS DO NORDESTE LTDA",
+            "valor_total": "R$ 1,483.20"
+          },
+          {
+            "objeto": "Aquisição de equipamentos, instrumentos e materiais\nodontológicos, para atender as necessidades dos postos de Saúde\ndo Município de Juripiranga",
+            "empresa": "APOGEU CENTER COMERCIAL DE\nPRODUTOS HOSPITALARES E MEDICAMENTOS LTDA",
+            "valor_total": "R$ 10,000.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos, instrumentos e materiais\nodontológicos, para atender as necessidades dos postos de Saúde\ndo Município de Juripiranga",
+            "empresa": "COMÉRCIO E ASSISTTÊNCIA DE\nEQUIPAMENTOS ODOTOLÓGICOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "aquisição de instrumentos, equipamentos e materiais de\npróteses dentárias, para atender as necessidades do Centro de\nEspecialidades Odontológicas – CEO e dos postos de Saúde do\nMunicípio de Juripiranga",
+            "empresa": "APOGEU CENTER COMERCIAL DE\nPRODUTOS HOSPITALARES E MEDICAMENTOS LTDA",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 11,
+        "total_gasto": 110975.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 178699.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 592683.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 143410.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 97500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 20000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 36455.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da Banda Forró Bombar, para realizar uma\napresentação artística no dia 01/01/2017 durante a festa de réveillon\nna cidade de Juripiranga",
+            "empresa": "EDUARDO SEVERO DA SILVA",
+            "valor_total": "R$ 6,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 13,
+        "total_gasto": 526670.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais de construção em geral (materiais\nelétricos – lote 05), destinados a manutenção das atividades de\ndiversas Secretarias do Município de Juripiranga",
+            "empresa": "CENTER LUZ MATERIAIS ELÉTRICOS LTDA\n– ME",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais de construção em geral (materiais\nelétricos – lote 05), destinados a manutenção das atividades da\nSecretaria de saúde do Município de Juripiranga",
+            "empresa": "CENTER LUZ MATERIAIS ELÉTRICOS LTDA\n– ME",
+            "valor_total": "R$ 10,000.00"
+          },
+          {
+            "objeto": "Contratação de combustíveis por um período de dois (02)\nmeses ou 60 (sessenta) dias para os meses de Janeiro e Fevereiro de\n2017",
+            "empresa": "AUTO POSTO SERRA NEGRA LTDA",
+            "valor_total": "R$ 15,964.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 188,
+        "num_contratos": 241,
+        "total_gasto": 8314037.38
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 52,
+        "total_gasto": 1806647.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do Empresário Musical Paraibano JOSÉ\nROBERTO LIMA PEREIRA e a Banda Sonhos Dourados, para uma\núnica apresentação em 27/02/2017, durante o Carnaval 2017, no\nMunicípio de Juripiranga",
+            "empresa": "JOSÉ ROBERTO LIMA PEREIRA",
+            "valor_total": "R$ 2,500.00"
+          },
+          {
+            "objeto": "Contratação do empresário individual JOSÉ RODRIGUES\nDE OLIVERA NETO, “FORRÓ PRIVILLEGE”, para uma única\napresentação em 27/02/2017, durante o Carnaval 2017, no Município\nde Juripiranga,",
+            "empresa": "JOSÉ RODRIGUES DE OLIVEIRA NETO-MEI",
+            "valor_total": "R$ 2,000.00"
+          },
+          {
+            "objeto": "Contratação do Empresário Janio de Santana (empresário\nmusical) “PAGODE PINGA PURA”, para uma única apresentação\nem 28/02/2017, para uma única apresentação em 28/02/2017, durante\no Carnaval 2017, no Município de Juripiranga,",
+            "empresa": "JANIO DE SANTANA 011.185.684-19",
+            "valor_total": "R$ 2,000.00"
+          },
+          {
+            "objeto": "Aquisição de materiais esportivos, para diversas Secretarias\ndo Município de Juripiranga",
+            "empresa": "SPORTS MAGAZINE LTDA",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 51,
+        "total_gasto": 1832119.5399999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 22,
+        "total_gasto": 534993.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 18,
+        "total_gasto": 793624.6699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 11,
+        "total_gasto": 166336.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 36,
+        "total_gasto": 2044461.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\nserviços de coleta, transporte, tratamento e destinação final de\nresíduos de serviços de saúde e demais órgãos pertinentes, coleta de\nlixo hospitalar, contaminados e perfurocortantes de classificação A, B\ne E, para atender as necessidades da Secretaria Municipal de Saúde de\nJuripiranga",
+            "empresa": "SIM ENGENHARIA AMBIENTAL EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 169852.02000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\n\nserviços de coleta, transporte, tratamento e destinação final de\n\nresíduos de serviços de saúde e demais órgãos pertinentes, coleta de\n\nlixo hospitalar, contaminados e perfurocortantes de classificação A, B\n\ne E, para atender as necessidades da Secretaria Municipal de Saúde de\n\nJuripiranga",
+            "empresa": "SIM ENGENHARIA AMBIENTAL EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação do músico Regional (ZÉ GALDINO\n\nCIRANDEIRO), representada pelo Senhor José Galdino dos Santos,\n\npara realização de show musical, em praça pública, no dia 02/09/2017,\n\nem comemoração as Festividades do dia do FOLCLORE, no\n\nMunicípio de Juripiranga",
+            "empresa": "CPF: 996.318.908-30",
+            "valor_total": "R$ 2,414.00"
+          },
+          {
+            "objeto": "Contratação de Sistema de Sonorização Tipo I e\n\nIluminação, para as comemorações do dia do FOLCLORE, no dia 02\n\nde setembro, bem como para as festividades de Rua, no DIA DA\n\nINDEPENDÊNCIA (07 DE SETEMBRO), mais precisamente para\n\nos dias 07 e 08 de Setembro, a ocorrerem nesta Cidade, a serem\n\ninstalados na Avenida Brasil",
+            "empresa": "T BORGES MACHADO",
+            "valor_total": "R$ 4,300.00"
+          },
+          {
+            "objeto": "Aquisição de materiais de limpeza em geral e higiene\n\npessoal, para atender as necessidades das Escolas Municipais de\n\nEnsino Infantil e Fundamental, Creche, Secretaria de Administração,\n\nSecretaria de Planejamento, Secretaria de Infraestrutura e Secretaria\n\nde Desenvolvimento Social do Município de Juripiranga",
+            "empresa": "DANIEL COSTA DA SILVA",
+            "valor_total": "R$ 24,437.82"
+          },
+          {
+            "objeto": "Aquisição de materiais de limpeza, para atender as\n\nnecessidades da Secretaria de Saúde do Município de Juripiranga",
+            "empresa": "DANIEL COSTA DA SILVA",
+            "valor_total": "R$ 13,521.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 19594.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 138808.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 16,
+        "total_gasto": 267630.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 13300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Palco e Sistema de Som para as festividades do\n\nRéveillon 2017, no Município de Juripiranga",
+            "empresa": "T BORGES MACHADO",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\n\nserviços de show pirotécnico do Réveillon 2017, no Município de\n\nJuripiranga PB",
+            "empresa": "Givaldo J.da Silva Fogos de Artifícios",
+            "valor_total": "R$ 5,800.00"
+          },
+          {
+            "objeto": "Contratação do empresário (musical) Felipe Estandislau\n\nLisboa Lins “FELIPE FARRA”, para uma única apresentação no dia\n\n31/12/2017 durante as festividades de Réveillon no Município de\n\nJuripiranga",
+            "empresa": "FELIPE ESTANDISLAU LISBOA LINS",
+            "valor_total": "R$ 2,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 50,
+        "total_gasto": 2577309.0300000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços de fiscalização e segurança, com\n\nfiscais de conduta e coordenadores fardados, portando equipamentos\n\nnecessários à fiscalização de pessoas, durante a festa do Co-Padroeiro\n\nSão Sebastião, nos dias 02, 03 e 04 de fevereiro de 2018, no\n\nMunicípio de Juripiranga",
+            "empresa": "VICTOR HUGO FERREIRA PINTO",
+            "valor_total": "R$ 7,600.00"
+          },
+          {
+            "objeto": "Contratação de fornecimento ao Contratante das\n\npublicações que constarem nos seguintes Diários Eletrônicos: TJPB\n\n(Tribunal de Justiça do estado da Paraíba); TRT (Justiça do Trabalho,\n\n13ª Região); TRE (Tribunal Regional Eleitoral da Paraíba); JUSTIÇA\n\nFEDERAL (5ª Região); TCE-PB (Tribunal de Contas do Estado da\n\nParaíba); DO-PB (Diário Oficial do Estado da Paraíba) além dos\n\nDiários Eletrônicos Superiores: STJ (Superior Tribunal de Justiça);\n\nSTF (Supremo Tribunal Federal); TSE (Superior Tribunal Eleitoral);\n\nTRF5 (Tribunal Regional Federal – 5 Região); DOU (Diário Oficial\n\nda União) e TCU (Tribunal de Contas da União), em nome da\n\nprefeitura municipal de Juripiranga - PB, do Sr PAULO DALIA\n\nTEIXEIRA, prefeito constitucional do município e da procuradora\n\nGeral do município",
+            "empresa": "LUPA",
+            "valor_total": "R$ 2,811.00"
+          },
+          {
+            "objeto": "Contratação de fornecimento ao Contratante das\n\npublicações que constarem nos seguintes Diários Eletrônicos: TJPB\n\n(Tribunal de Justiça do estado da Paraíba); TRT (Justiça do Trabalho,\n\n13ª Região); TRE (Tribunal Regional Eleitoral da Paraíba); JUSTIÇA\n\nFEDERAL (5ª Região); TCE-PB (Tribunal de Contas do Estado da\n\nParaíba); DO-PB (Diário Oficial do Estado da Paraíba) além dos\n\nDiários Eletrônicos Superiores: STJ (Superior Tribunal de Justiça);\n\nSTF (Supremo Tribunal Federal); TSE (Superior Tribunal Eleitoral);\n\nTRF5 (Tribunal Regional Federal – 5 Região); DOU (Diário Oficial\n\nda União) e TCU (Tribunal de Contas da União), em nome da\n\nprefeitura municipal de Juripiranga - PB, do Sr PAULO DALIA\n\nTEIXEIRA, prefeito constitucional do município e da procuradora\n\nGeral do município",
+            "empresa": "das\n\npublicações que constarem nos seguintes Diários Eletrônicos: TJPB\n\n(Tribunal de Justiça do estado da Paraíba); TRT (Justiça do Trabalho,\n\n13ª Região); TRE (Tribunal Regional Eleitoral da Paraíba); JUSTIÇA\n\nFEDERAL (5ª Região); TCE-PB (Tribunal de Contas do Estado da\n\nParaíba); DO-PB (Diário Oficial do Estado da Paraíba) além dos\n\nDiários Eletrônicos Superiores: STJ (Superior Tribunal de Justiça);\n\nSTF (Supremo Tribunal Federal); TSE (Superior Tribunal Eleitoral);\n\nTRF5 (Tribunal Regional Federal",
+            "valor_total": "R$ 2,811.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 185,
+        "num_contratos": 279,
+        "total_gasto": 11914094.569999998
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 31,
+        "total_gasto": 1207080.28,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "MEDICAL MERCANTIL DE APARELHAGEM\nMÉDICA LTDA",
+            "valor_total": "R$ 8,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "DISMENE DISTRIBUIDORA DE\nMEDICAMENTOS DO NORDESTE LTDA-EPP",
+            "valor_total": "R$ 13,800.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "CIRURGICA MONTEBELLO LTDA",
+            "valor_total": "R$ 50,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "SUFRAMED COMÉRCIO DE MATERIAL\nMÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 119,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "VIDA DISTRIBUIDORA DO NORDESTE\nLTDA-ME",
+            "valor_total": "R$ 34,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\nhospitalares, para atender as necessidades dos Postos de Saúde e da\nPoliclínica do Município de Juripiranga",
+            "empresa": "APOGEU CENTER COMERCIAL DE\nPRODUTOS HOSPITALARES E MEDICAMENTOS LTDA-ME",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 31,
+        "total_gasto": 1433233.53,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peixes, para serem doados as famílias\ncarentes do Município de Juripiranga na Semana Santa",
+            "empresa": "FRIGORÍFICO FRANGO DOURADO LTDA",
+            "valor_total": "R$ 28,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 31,
+        "total_gasto": 446825.70000000007,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 158600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 557659.24,
+        "empresas_mensais": [
+          {
+            "objeto": "execução das obras de construção de pavimentação em\nparalelepípedos nas Ruas: Sete de Setembro, Clóvis Correia e trecho\nda Av",
+            "empresa": "MONTBRAVO CONSTRUÇÕES E SERVIÇOS\nEIRELI",
+            "valor_total": "R$ 281,694.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 340885.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução das obras de reforma com ampliação e\nrecuperação de muro das Escolas Municipais Maria José Borba e\nVereador José Grimaldo Tavares, no Município de Juripiranga",
+            "empresa": "MONTEBRAVO CONSTRUÇÕES E SERVIÇOS\nEIRELI",
+            "valor_total": "R$ 57,763.18"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de Equipamentos de\nInformática, para atender as necessidades da Prefeitura Municipal de\nJuripiranga",
+            "empresa": "S. F. S. COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 28,
+        "total_gasto": 3182400.8499999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 6617.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 30,
+        "total_gasto": 709370.16,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades de diversas\n\nSecretarias do Município de Juripiranga",
+            "empresa": "DELVALLE MATERIAIS ELÉTRICOS LTDA",
+            "valor_total": "R$ 8,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades de diversas\n\nSecretarias do Município de Juripiranga",
+            "empresa": "JSA COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 6,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades de diversas\n\nSecretarias do Município de Juripiranga",
+            "empresa": "CENTER LUZ MATERIAIS ELÉTRICOS EIRELI\n\n– ME",
+            "valor_total": "R$ 8,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades de diversas\n\nSecretarias do Município de Juripiranga",
+            "empresa": "CASA DA CONSTRUÇÃO LTDA",
+            "valor_total": "R$ 500.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades da Secretaria\n\nMunicipal de Saúde do Município de Juripiranga",
+            "empresa": "DELVALLE MATERIAIS ELÉTRICOS LTDA",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades da Secretaria\n\nMunicipal de Saúde do Município de Juripiranga",
+            "empresa": "JSA COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\n\nem geral, destinados a manutenção das atividades da Secretaria\n\nMunicipal de Saúde do Município de Juripiranga",
+            "empresa": "CENTER LUZ MATERIAIS ELÉTRICOS EIRELI\n\n– ME",
+            "valor_total": "R$ 2,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 20,
+        "total_gasto": 960267.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução das obras de reforma e ampliação da Escola\n\nMunicipal Vereador José Grimaldo Tavares, no Município de\n\nJuripiranga",
+            "empresa": "POLYEFECONSTRUÇÕES, LIMPEZA E\n\nCONSERVAÇÃO EIRELI",
+            "valor_total": "R$ 19,861.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 16,
+        "total_gasto": 333845.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 67,
+        "total_gasto": 3744049.7299999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para contratação de empresa para\n\nfornecimento de refeições, para atender visitantes de outros\n\nmunicípios, na finalidade de prestação de serviços diversos ao\n\nMunicípio de Juripiranga, ministrantes de cursos, palestras,\n\ntreinamentos, conferências, seminários, oficinas, Policiais Militares da\n\nUPO - Unidade de Policiamento Ostensivo e outros eventos correlatos\n\noferecidos, pelas Diversas Secretarias do Município de Juripiranga",
+            "empresa": "CARLOS UMBERTO PAULINO DE SANTANA",
+            "valor_total": "R$ 10,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 201,
+        "num_contratos": 251,
+        "total_gasto": 9519396.73
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 19,
+        "total_gasto": 292063.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 18,
+        "total_gasto": 408960.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do Senhor GERNELEZ MENINO DA SILVA,\n\nrepresentante da Revista Destaks “Sempre a Frente”, para cobertura e\n\npublicidade da Festa de São Sebastião, edição 2019, no Município de\n\nJuripiranga – PB",
+            "empresa": "GERNELEZ MENINO DA SILVA",
+            "valor_total": "R$ 1,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 300270.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 36,
+        "total_gasto": 1051065.69,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução das obras de pavimentação em paralelepípedos\nnas localidades: Rua Ascendino da Costa Leite, Interligação da Rua\nNova Rondônia para Rua Ascendino da Costa Leite, Interligação da\nAscendino da Costa Leite para Rua da Jurema e continuação da Av",
+            "empresa": "MONTEBRAVO CONSTRUÇÕES E SERVIÇOS\nEIRELI",
+            "valor_total": "R$ 279,042.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 18,
+        "total_gasto": 805313.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 269024.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de transporte de água potável em\nbaldes com capacidade de 20 litros, para abastecimento das escolas da\nRede Municipal de Ensino e órgãos da Secretaria Municipal de\nDesenvolvimento Social (SCFV) do Município de Juripiranga",
+            "empresa": "ALDEMBERG DA SILVA(MEI)",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\nem geral, destinados a manutenção das atividades das diversas\nSecretarias do Município de Juripiranga",
+            "empresa": "CANAPÚ COMÉRCIO DE DISTRIBUIÇÃO\nEIRELI",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\nem geral, destinados a manutenção das atividades das diversas\nSecretarias do Município de Juripiranga",
+            "empresa": "CENTER LUZ MATERIAIS ELÉTRICOS EIRELI\n– ME",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\nem geral, destinados a manutenção das atividades das diversas\nSecretarias do Município de Juripiranga",
+            "empresa": "JSA COMÉRCIO E SERVIÇOS LTDA",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\nem geral, destinados a manutenção das atividades das diversas\nSecretarias do Município de Juripiranga",
+            "empresa": "THOMAS JOSÉ BELTRÃO DE ARAÚJO\nALBUQUERQUE",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais elétricos\nem geral, destinados a manutenção das atividades das diversas\nSecretarias do Município de Juripiranga",
+            "empresa": "GERALDO VIDAL DA NÓBREGA",
+            "valor_total": "R$ 5,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 258787.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais didáticos\ne de expediente, para atender as necessidades das Escolas e\nSecretarias do Município de Juripiranga",
+            "empresa": "MARCELA ELIZABETE DE MIRANDA\nBATISTA SANTOS SOUTO",
+            "valor_total": "R$ 24,877.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 112004.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 22,
+        "total_gasto": 261027.49,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de materiais de limpeza, de forma emergencial,\npara atender as necessidades das Secretarias de Administração,\nEducação, Desenvolvimento Social e Cultura do Município de\nJuripiranga",
+            "empresa": "COMERCIAL ITAMBÉ LTDA.",
+            "valor_total": "R$ 6,892.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 368160.22000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 1648670.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 49,
+        "total_gasto": 2722671.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para aquisição de combustíveis,\n\nlubrificantes e derivados, para abastecimento da frota de veículos da\n\nSecretaria Municipal de Saúde do Município de Juripiranga",
+            "empresa": "AUTO POSTO SERRA NEGRA LTDA",
+            "valor_total": "R$ 100,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de combustíveis,\n\nlubrificantes e derivados, para abastecimento da frota de veículos da\n\nPrefeitura de Juripiranga",
+            "empresa": "AUTO POSTO SERRA NEGRA LTDA",
+            "valor_total": "R$ 200,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais de\n\nlimpeza em geral e higiene pessoal, para atender as necessidades das\n\nEscolas Municipais de Ensino Infantil e Fundamental, Creche,\n\nSecretaria de Administração, Secretaria de Planejamento, Secretaria\n\nde Infraestrutura, Secretaria de Cultura e Secretaria de\n\nDesenvolvimento Social do Município de Juripiranga",
+            "empresa": "NEVALTO DE SOUSA PEREIRA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais de\n\nlimpeza em geral e higiene pessoal, para atender as necessidades das\n\nEscolas Municipais de Ensino Infantil e Fundamental, Creche,\n\nSecretaria de Administração, Secretaria de Planejamento, Secretaria\n\nde Infraestrutura, Secretaria de Cultura e Secretaria de\n\nDesenvolvimento Social do Município de Juripiranga",
+            "empresa": "CAVALCANTE & CIA LTDA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais de\n\nlimpeza em geral e higiene pessoal, para atender as necessidades das\n\nEscolas Municipais de Ensino Infantil e Fundamental, Creche,\n\nSecretaria de Administração, Secretaria de Planejamento, Secretaria\n\nde Infraestrutura, Secretaria de Cultura e Secretaria de\n\nDesenvolvimento Social do Município de Juripiranga",
+            "empresa": "J. B. G. DA SILVA",
+            "valor_total": "R$ 5,000.00"
+          },
+          {
+            "objeto": "Registro de Preços, para futura e eventual Prestação de\n\nServiços de exames de Ultrassonografia, para atender os pacientes do\n\nmunicípio de Juripiranga",
+            "empresa": "JOSÉ EURIDES LIBERALINO",
+            "valor_total": "R$ 117,870.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 175,
+        "num_contratos": 185,
+        "total_gasto": 7257324.369999999
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 883969.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Medicamentos Injetáveis, de forma\nemergencial, para atender as necessidades da Unidade Mista de Saúde\ne Unidades Básicas de Saúde, do Município de Juripiranga",
+            "empresa": "SUFRAMED COMERCIAL DE MATERIAL\nMÉDICO HOSPITALAR LTDA.",
+            "valor_total": "R$ 63,739.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 1079922.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 667363.0700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 34920.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 366178.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (um) Triturador (Tro3000nr 13hp), para\n\nresíduo orgânico, com base para motor diesel/gasolina e motor\n\nBuffalo à diesel modelo BFDE 13.0 ou Motor diesel Toyama TDE130\n\nEXP, ambos com partida elétrica, bateria e refrigerado a ar, para\n\natender as necessidades da Unidade de Gerenciamento de Resíduos\n\nSólidos Urbanos (Unidade de Triagem, Compostagem e Disposição\n\nFinal dos Rejeitos), localizado no Sítio Salgado (Zona Rural), do\n\nMunicípio de Juripiranga – PB",
+            "empresa": "LABOREMUS INDÚSTRIA E COMÉRCIO DE\n\nMÁQUINAS AGRÍCOLAS LTDA.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 25,
+        "total_gasto": 476334.35,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preços, para a aquisição de materiais\n\nhospitalares, para atender as necessidades dos Postos de Saúde e da\n\nPoliclínica do Município de Juripiranga",
+            "empresa": "ORTOSHOP COMÉRCIO LTDA",
+            "valor_total": "R$ 14,077.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 258072.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 58706.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material hospitalar, de forma emergencial,\nespecificamente de Toucas Descartáveis, 400 (quatrocentos) pacotes,\ncontendo 100 unidades cada pacote e Propés, 400 (quatrocentos)\npacotes, contendo 100 unidades cada pacote, destinados a todos os\nprofissionais pertencentes à Secretaria Municipal de Saúde, do\nMunicípio de Juripiranga – PB, que atuam na linha de frente em suas\ntarefas, no combate ao Covid-19, através de Dispensa com o\nfundamento proposto no artigo 24, inciso IV, da Lei no 8.666/93, c/c\ncom o que dispõe o art",
+            "empresa": "ATACAMED COMÉRCIO DE PRODUTOS\nFARMACÊUTICOS E HOSPITALARES LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Medicamentos injetáveis, de forma\nemergencial, destinados ao Centro de Atendimento e Enfrentamento\nao covid-19, pertencente à Secretaria Municipal de Saúde, do\nMunicípio de Juripiranga - PB, através de Dispensa com o\nfundamento proposto no artigo 24, inciso IV, da Lei no 8.666/93, c/c\ncom o que dispõe o art",
+            "empresa": "SUFRAMED COMÉRCIO DE MATERIAL\nMÉDICO HOSPITALAR LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de materiais elétricos, de forma emergencial,\npara o conserto das instalações elétricas da Escola Municipal de\nEnsino Fundamental Salvino João Pereira, do Município de\nJURIPIRANGA-PB",
+            "empresa": "ELETROPOLO ELETRICIDADE LTDA.",
+            "valor_total": "R$ 8,706.10"
+          },
+          {
+            "objeto": "Aquisição de 02 (dois) aparelhos CPAP RVC, destinados\nao Centro de Atendimento e Enfrentamento ao Covid-19, pertencente\nà Secretaria Municipal de Saúde, do Município de Juripiranga – PB,\natravés de Dispensa com o fundamento proposto no artigo 24, inciso\nIV, da Lei no 8.666/93, c/c com o que dispõe o art",
+            "empresa": "SAÚDE MÉDICA COMÉRCIO LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de 01 (um) aparelho CPAP RVC, destinado ao\nCentro de Atendimento e Enfrentamento ao Covid-19, pertencente à\nSecretaria Municipal de Saúde, do Município de Juripiranga – PB,\natravés de Dispensa com o fundamento proposto no artigo 24, inciso\nIV, da Lei no 8.666/93, c/c com o que dispõe o art",
+            "empresa": "SAÚDE MÉDICA COMÉRCIO LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 149995.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material hospitalar, de forma emergencial,\nespecificamente de 1.000 (mil) unidades de Coletores\nPerfurocortantes (7lts) e de 1.300 (mil e trezentas) unidades de\nColetores Perfurocortantes (13lts), ambos da marca DESCARBOX,\ndestinados ao Laboratório de Análises Clínica, UBS I, UBS II, UBS\nIII, UBS IV, UBS V, Centro de Atendimento e Enfrentamento ao\nCovid-19, Unidade Mista de Saúde e a Ambulância especifica do\nCentro do Covid-19, pertencentes à Secretaria de Saúde, do Município\nde Juripiranga – PB, através de Dispensa com o fundamento proposto\nno artigo 24, inciso IV, da Lei no 8.666/93, c/c com o que dispõe o\nart",
+            "empresa": "SUFRAMED COMÉRCIO DE MATERIAL\nMÉDICO HOSPITALAR LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição e Instalação de 02 (duas) Cabines de\nDesinfecção Individual (higienização), por pulverização automática,\ncontra o vírus da Covid-19, sendo uma para o Prédio da Prefeitura, e\noutra para a Unidade Mista de Saúde do Município de Juripiranga –\nPB, contendo bicos aspersores importados, em latão cromado, com\nabertura de 0.3mm, com sistema anti-gotejamento que apenas\npulveriza e não deixando molhar, cobertura de policarbonato, Material\nleve e ao mesmo tempo robusto, deixando um aspecto requintado ao\nproduto, estrutura em aço carbono ou inox da linha 300, tratamento\nanticorrosivo e de aderência da tinta antes da pintura automotiva para\nos boxes em aço carbono, placa eletrônica que comanda o sistema de\naspersão através de um sensor de ultima geração, através de Dispensa\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 14\n\n\ncom o fundamento proposto no artigo 24, inciso IV, da Lei no\n8.666/93, c/c com o que dispõe o art",
+            "empresa": "KONECTA CONSULT SERVIÇOS LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição e Instalação de 01 (uma) Cabine de Desinfecção\nIndividual (higienização), por pulverização automática, contra o vírus\nda Covid-19, destinada para a Unidade Mista de Saúde do Município\nde Juripiranga – PB, contendo bicos aspersores importados, em latão\ncromado, com abertura de 0.3mm, com sistema anti-gotejamento que\napenas pulveriza e não deixando molhar, cobertura de policarbonato,\nMaterial leve e ao mesmo tempo robusto, deixando um aspecto\nrequintado ao produto, estrutura em aço carbono ou inox da linha 300,\ntratamento anticorrosivo e de aderência da tinta antes da pintura\nautomotiva para os boxes em aço carbono, placa eletrônica que\ncomanda o sistema de aspersão através de um sensor de ultima\ngeração, através de Dispensa com o fundamento proposto no artigo\n24, inciso IV, da Lei no 8.666/93, c/c com o que dispõe o art",
+            "empresa": "KONECTA CONSULT SERVIÇOS LTDA.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição e Instalação de 01 (uma) Cabine de Desinfecção\nIndividual (higienização), por pulverização automática, contra o vírus\nda Covid-19, destinado para o Prédio da Prefeitura, contendo bicos\naspersores importados, em latão cromado, com abertura de 0.3mm,\ncom sistema anti-gotejamento que apenas pulveriza e não deixando\nmolhar, cobertura de policarbonato, Material leve e ao mesmo tempo\nrobusto, deixando um aspecto requintado ao produto, estrutura em aço\ncarbono ou inox da linha 300, tratamento anticorrosivo e de aderência\nda tinta antes da pintura automotiva para os boxes em aço carbono,\nplaca eletrônica que comanda o sistema de aspersão através de um\nsensor de ultima geração, através de Dispensa com o fundamento\nproposto no artigo 24, inciso IV, da Lei no 8.666/93, c/c com o que\ndispõe o art",
+            "empresa": "KONECTA CONSULT SERVIÇOS LTDA.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 356000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 203192.59999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 138,
+        "num_contratos": 96,
+        "total_gasto": 5425045.95
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 25,
+        "total_gasto": 342748.57999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de imóvel situado no endereço á Avenida Brasil, nª\n269 no Município de Juripiranga- PB, para abrigar as instalações do\nArquivo Público do Município",
+            "empresa": "MARIA DAS GRAÇAS CORREIA TAVARES",
+            "valor_total": "R$ 708.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 31,
+        "total_gasto": 1756093.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente Pregão, a locação de veículos,\npara atender as necessidades do Município de Juripiranga-PB,\nconforme especificações técnicas constantes nos Anexos I do Edital, o\nqual integra este acordo para todos os fins legais, independentemente\nde transcrição",
+            "empresa": "Empresa DNA PRODUÇÕES, LOCAÇÕES E\nSERVIÇOS",
+            "valor_total": "R$ 255,484.80"
+          },
+          {
+            "objeto": "Constitui objeto do presente Pregão, a locação de veículos,\npara atender as necessidades do Município de Juripiranga-PB,\nconforme especificações técnicas constantes nos Anexos I do Edital, o\nqual integra este acordo para todos os fins legais, independentemente\nde transcrição",
+            "empresa": "Empresa DNA PRODUÇÕES, LOCAÇÕES E\nSERVIÇOS",
+            "valor_total": "R$ 158,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1173034.49,
+        "empresas_mensais": [
+          {
+            "objeto": "Do presente Termo de Contrato é a Aquisição de Materiais de\n\nConsumo Odontológico, por dispensa de licitação para o Fundo\n\nMunicipal Saúde de Juripiranga-PB",
+            "empresa": "MEDONTEC",
+            "valor_total": "R$ 31,931.89"
+          },
+          {
+            "objeto": "Do presente Termo de Contrato é a Aquisição de\n\nEquipamentos Odontológico, por dispensa de licitação para o Fundo\n\nMunicipal Saúde de Juripiranga-PB",
+            "empresa": "MEDONTEC",
+            "valor_total": "R$ 5,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 559458.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 57513.39,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "CLINICA MEDICA DERMACARDIO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "2º Via",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "GINECOPREV CLINICA DE\nGINECOLOGIA, OBSTRETICIA E COLPOSCOPIA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "2º Via",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "HSM2 CASA DE SAUDE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao\nCREDENCIAMENTO de profissionais médicos, pessoa física ou\njurídica, para a prestação de serviços de saúde e apoio diagnóstico, em\n\náreas diversas, em caráter complementar à rede municipal de saúde,\ninclusive nas Unidades de Saúde da Família, a fim de atender os\npacientes da Secretaria Municipal de Saúde do Município de\nJuripiranga - PB",
+            "empresa": "HSM2 CASA DE SAUDE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "contratação de empresa especializada para o serviço de\nRecuperação de Caixa D’água Na Rua Minas Gerais, por dispensa de\nlicitação, nos termos da Lei nº 8.666/93, de 21 de junho de 1993,\nconforme especificações e quantitativos estabelecidos no Termo de\nReferência",
+            "empresa": "R R DE ALMEIDA e com nome fantasia\n(LOCADORA UNIVERSAL)",
+            "valor_total": "R$ 32,513.39"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 364590.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 63492.979999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 31514.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 312920.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 721679.1900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 42000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 530184.4199999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 161,
+        "num_contratos": 91,
+        "total_gasto": 14747004.860000003
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 151754.83000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 1299173.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1602857.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 144561.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 193303.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 718421.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 13,
+        "total_gasto": 5831216.399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 937598.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços com confecções de blusas\n\npersonalizadas, em atenção a Secretaria Educação do Município de\n\nJuripiranga/PB, conforme especificações e quantitativos constantes no\n\npresente processo de dispensa",
+            "empresa": "EDVALDO B SILVA ESTAMPARIA\n\nCOMERCIO E INDÚSTRIA DE CONFECÇÕES",
+            "valor_total": "R$ 15,950.00"
+          },
+          {
+            "objeto": "O presente Chamamento Público é destinado ao CREDENCIAMENTO DE PRESTADORES DE SERVIÇOS MÉDICOS EM PLANTÃO\n\nDE 24 HORAS COMPLEMENTARES DE SAÚDE, PARA A REALIZAÇÃO DE PLANTÕES MÉDICOS NA ESPECIALIDADE DE\n\nEMERGENCIALISTA NAS ÁREAS DE CLÍNICAS MÉDICAS, de forma complementarem ao SISTEMA ÚNICO DE SAÚDE nos termos da\n\nlegislação específica e pelos PREÇOS REFERÊNCIAL DO MUNICÍPIO",
+            "empresa": "MCA SERVIÇOS MEDICOS LTDA com seu nome fantasia (MCA MEDICAL)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 588427.9099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 1607493.6800000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 1142011.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 1157285.54,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para a aquisição de\neletrodomésticos destinados a secretaria de Educação do\nMunicípio de Juripiranga-PB, nos termos da Lei nº 8.666/93, de\n21 de junho de 1993, conforme especificações e quantitativos\nestabelecidos no Termo de Referência",
+            "empresa": "L. SILVA MARQUES COMERCIO DE\nALIMENTOS, com seu nome fantasia (QUALYMAX)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 148,
+        "num_contratos": 36,
+        "total_gasto": 2702638.5700000003
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 62265.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa visando a aquisição parcelada de\nmateriais de construção, elétricos, hidráulicos, ferragens e ferramentas\n\nos mesmos destinados à manutenção dos diversos prédios públicos\n\ndeste Município, especificações e quantidades constantes Anexo I –\n\nTermo de Referência deste Edital, através de Registro de Preços,\nconforme detalhamento apresentado na Cláusula Segunda e\n\nespecificações constantes do Edital do Processo Licitatório nº\n\n035/2022, Pregão Eletrônico nº 011/2022, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\nCONTRATO Nº 017/2023.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa visando a aquisição parcelada de\n\nmateriais de construção, elétricos, hidráulicos, ferragens e ferramentas\n\nos mesmos destinados à manutenção dos diversos prédios públicos\ndeste Município, especificações e quantidades constantes Anexo I –\n\nTermo de Referência deste Edital, através de Registro de Preços,\n\nconforme detalhamento apresentado na Cláusula Segunda e\n\nespecificações constantes do Edital do Processo Licitatório nº\n035/2022, Pregão Eletrônico nº 011/2022, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\nCONTRATO Nº 021/2023.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "A prestação de serviços de coleta, transporte, tratamento e\n\ndestinação final de Resíduos de Serviços de Saúde, assim definidos\n\npela Resolução n° 358/05 do CONAMA e RDC ANVISA n°\n\n222/2018, pela CONTRATADA no município de Juripiranga/PB",
+            "empresa": "no município de Juripiranga/PB.\n\n\nCONTRATO Nº 004/2023.",
+            "valor_total": "R$ 1,280.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 94150.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto do presente contrato a Contratação de\n\npessoa jurídica de notória especialização no assessoramento,\n\nconsultoria e acompanhamento nas ações administrativas e\n\njudiciais que envolvam a Administração Pública Municipal de\n\nJuripiranga- PB",
+            "empresa": "Johnson Abrantes",
+            "valor_total": "R$ 66,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "O objeto da presente dispensa é a escolha da proposta mais\n\nvantajosa para a Contratação de empresa para a prestação de serviços\n\nde manutenção preventiva e corretiva, nos equipamentos médico-\n\nhospitalares e odontológicos, nas diversas unidades que compõem o\n\nFundo Municipal de Saúde de Juripiranga/PB",
+            "empresa": "MEDONTEC",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Este Termo de Contrato tem como objeto a locação de\n\nimóvel situado no endereço, Avenida Nossa Senhora da Soledade,\n\nnº 89, Conjunto Habitacional José Joaquim Pereira,\n\nJuripiranga/PB, CEP: 58.330-000, para abrigar as instalações do\n\nARQUIVO PÚBLICO do Município do Município de\n\nJuripiranga/PB",
+            "empresa": "Otavio Pedro da Silva, brasileiro",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 1097416.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Item Convênio Descrição Marca / Modelo Qtd",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Item Convênio Descrição Marca / Modelo Qtd",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 65000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\n\nserviços de Segurança desarmada para os eventos festivos no\n\nMunicípio de Juripiranga/PB",
+            "empresa": "AL-ACCOUNTING LTDA",
+            "valor_total": "R$ 29,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 1458.33,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 73543.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 125784.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 25735.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em serviço de\nplanejamento, organização, execução e correção das provas para\nrealização de Concurso Público de Provas e Títulos para provimento\ndos cargos criados no quadro permanente de pessoal da\nAdministração Pública Municipal de Juripiranga-PB, visando a\nabertura de concurso público",
+            "empresa": "EDUCA ASSESSORIA EDUCACIONAL LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 146,
+        "num_contratos": 29,
+        "total_gasto": 4911006.029999999
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 2718790.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto da presente licitação é a Contratação de empresa especializada visando à\n\nconstrução de uma unidade básica de Saúde, no município de Juripiranga-PB, tudo conforme\n\nas condições, quantidades e exigências estabelecidas neste Edital e seus anexos",
+            "empresa": "SERRA CONSTRUÇÕES E SERVIÇOS LTDA com seu nome fantasia (SERRA CONSTRUÇÕES)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 2,
+        "total_gasto": 133300.97999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 30000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na prestação de\n\nserviços de Assessoria e Consultoria de serviços correlatos em matéria\n\nambiental no Município de Juripiranga/PB",
+            "empresa": "THAYSA CAROLAYNE P DA SILVA com seu nome\n\nfantasia (MARDOLL CONSULTORIA AMBIENTAL)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 135647.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\n\npavimentação em paralelepípedo e drenagem (10 ruas) no\n\nmunicípio de Juripiranga, vinculado ao Contrato de Repasse Nº\n\n1087487-182023-943710, conforme condições, quantidades e\nexigências estabelecidas neste Edital e seus anexos",
+            "empresa": "B2 CONSTRUCOES LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 46587.37,
+        "empresas_mensais": [
+          {
+            "objeto": "Primeiro Termo Aditivo ao Contrato de Empresa,\n\nContratação de empresa especializada visando à Construção de uma\n\nQuadra Society, onde a mesma tem por objetivo a promoção ao\n\nesporte e lazer da população município, conforme as condições,\n\nquantidades e exigências estabelecidas neste Edital e seus anexos,\n\noriundo do Processo na modalidade Tomada de Preços nº 004/2022,\n\ncom vigência até 10/01/2024",
+            "empresa": "(B2 CONSTRUÇÕES)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para aquisição de 06 (Seis)\n\nveículos 0 km: Sendo 02 (Dois) Veículos do Tipo Minivan, 03\n\n(Três) veículos Ambulância do Tipo A e 01 (um) veículos do Tipo\n\nMicro Ônibus Executivo, para atendimentos das necessidades do\n\nMunicípio de Juripiranga– PB, conforme especificações e\n\nquantitativos constantes do Termo de Referência, Anexo I deste\n\nEdital",
+            "empresa": "GAMA DIESEL LTDA, com seu nome fantasia\n\n(GAMA DIESEL)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para aquisição de 06 (Seis)\n\nveículos 0 km: Sendo 02 (Dois) Veículos do Tipo Minivan, 03\n\n(Três) veículos Ambulância do Tipo A e 01 (um) veículos do Tipo\n\nMicro Ônibus Executivo, para atendimentos das necessidades do\n\nMunicípio de Juripiranga– PB, conforme especificações e\n\nquantitativos constantes do Termo de Referência, Anexo I deste\n\nEdital",
+            "empresa": "BRANDÃO AUTOMOVEIS LTDA, com seu nome\n\nfantasia (BRANDÃO AUTOMOVEIS)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para aquisição de 06 (Seis)\n\nveículos 0 km: Sendo 02 (Dois) Veículos do Tipo Minivan, 03\n\n(Três) veículos Ambulância do Tipo A e 01 (um) veículos do Tipo\n\nMicro Ônibus Executivo, para atendimentos das necessidades do\n\nMunicípio de Juripiranga– PB, conforme especificações e\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 18\n\n\n\nquantitativos constantes do Termo de Referência, Anexo I deste\n\nEdital",
+            "empresa": "FIORI VEICOLO S.A",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto o Registro de Preços\n\npara a futura e eventual Aquisição de 09 (Nove) veículos zero\n\nquilômetro, sendo 04 (Quatro) Veículos tipo passeio, 02 (Dois)\n\nVeículos furgão original de fábrica, 0 km, adap",
+            "empresa": "MABELE VEICULOS ESPECIAIS LTDA com seu\n\nnome fantasia (MABELE VEICULOS ESPECIAIS)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 1338040.2599999998,
+        "empresas_mensais": [
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 086/2024.",
+            "valor_total": "R$ 533,568.58"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 085/2024.",
+            "valor_total": "R$ 45,719.60"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 091/2024.",
+            "valor_total": "R$ 69,244.65"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 087/2024.",
+            "valor_total": "R$ 230,245.76"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 088/2024.",
+            "valor_total": "R$ 420,390.25"
+          },
+          {
+            "objeto": "A presente licitação tem como objeto a Formalização de Ata\n\nRegistro de Preços visando à contratação de empresa para aquisição\n\nde Materiais de Construção, Elétricos, Hidráulicos, Ferragens e\n\nFerramentas, de forma parcelada por um período de 12 meses que\n\nserão destinados à manutenção dos diversos prédios públicos deste\n\nMunicípio, conforme detalhamento apresentado na Cláusula Segunda\n\ne especificações constantes do Edital do Processo Licitatório nº\n\n067/2023, Pregão Eletrônico nº 014/2023, e da proposta da\n\nCONTRATADA",
+            "empresa": ".\n\n\n\nCONTRATO Nº 089/2024.",
+            "valor_total": "R$ 28,371.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 508639.49999999994,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de assessoramento em elaboração de\n\nprojetos técnicos e habitacionais, operacionalizando a Plataforma +\n\nBrasil, SISMOB e FNS- Fundo Nacional de Saúde, do Ministério da\n\nSaúde, e SIMEC do Ministério da Educação, com formalização de\n\nprojetos junto a esses respectivos sistemas, acompanhamentos de\n\ncontratos, convênios e prestação de contas junto à Caixa Econômica\n\nFederal e órgãos vinculados á Administração Federal",
+            "empresa": "pagará ao\n\nCONTRATADO o valor de R$ 2.500,00 (dois mil e quinhentos reais),\n\nem 12 (doze) parcelas iguais, no prazo máximo de 30 (trinta) dias\n\núteis, contados da data de assinatura do contrato.\n\nPRAZO DO CONTRATO: 12 (Doze) meses.\n\nDOTAÇÃO ORÇAMENTÁRIA:\nAs despesas decorrentes da presente contratação correrão à conta de\n\nrecursos específicos consignados no Orçamento Geral do Município\n\ndeste exercício, na dotação abaixo discriminada:\n\n02.030 Secretaria Municipal de Planejamento e Administração\n\n122 0003 2004 Manutenção das Atividades da Sec. de\n\nPlanejamento e Administração\n\n3390.39 99 Outros Serviços de Terceiros",
+            "valor_total": "R$ 2,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

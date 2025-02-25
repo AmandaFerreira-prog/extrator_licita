@@ -11,7 +11,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 36,
+        "num_diarios": 35,
         "num_contratos": 65,
         "total_gasto": 2305987.53
       },
@@ -23,7 +23,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 25,
         "total_gasto": 968721.38,
         "top_3_empresas": [],
@@ -108,7 +108,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 38,
+        "num_diarios": 37,
         "num_contratos": 99,
         "total_gasto": 4613899.050000001
       },
@@ -215,7 +215,7 @@
         ]
       },
       "12": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 2,
         "total_gasto": 113850.0,
         "top_3_empresas": [],
@@ -231,9 +231,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 59,
-        "num_contratos": 107,
-        "total_gasto": 6064463.45
+        "num_diarios": 58,
+        "num_contratos": 108,
+        "total_gasto": 6201963.45
       },
       "2": {
         "num_diarios": 2,
@@ -252,8 +252,8 @@
       },
       "3": {
         "num_diarios": 8,
-        "num_contratos": 7,
-        "total_gasto": 91605.58,
+        "num_contratos": 8,
+        "total_gasto": 229105.58000000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -293,7 +293,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 10,
         "total_gasto": 423918.0,
         "top_3_empresas": [],
@@ -353,8 +353,8 @@
       },
       "resumo": {
         "num_diarios": 73,
-        "num_contratos": 199,
-        "total_gasto": 25981710.060000002
+        "num_contratos": 200,
+        "total_gasto": 26088278.060000002
       },
       "4": {
         "num_diarios": 7,
@@ -384,8 +384,8 @@
       },
       "6": {
         "num_diarios": 6,
-        "num_contratos": 31,
-        "total_gasto": 11894450.0,
+        "num_contratos": 32,
+        "total_gasto": 12001018.0,
         "top_3_empresas": [
           "LUCAS GOMES DA SILVA SOCIEDADE\n\nINDIVIDUAL DE ADVOCACIA , de OAB respectivamente\n\n23.902-PB",
           "IMPRESS MMD SERV. MÍDIA DIGITAL EIRELI"
@@ -657,7 +657,7 @@
         "total_gasto": 639563.48,
         "top_3_empresas": [
           "MARIA KELMA DANTAS PINTO",
-          "JEFERSON DA SILVA FIRMINO 10062136437",
+          "JEFERSON DA SILVA FIRMINO",
           "LELEKA\n\nPRODUCOES E LOCACOES LTDA"
         ],
         "top_3_objetos": [
@@ -672,8 +672,8 @@
         "total_gasto": 3024624.69,
         "top_3_empresas": [
           "JOSÉ ARNALDO CALUETA",
-          "MARCELO GARCIA DE QUEIROGA 07526012451",
-          "MARCELO GARCIA DE\n\nQUEIROGA 07526012451"
+          "MARCELO GARCIA DE\n\nQUEIROGA",
+          "MARCELO GARCIA DE QUEIROGA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE SERVIÇO PARA MANUTENÇÃO\n\nE REPAROS EM MARCENARIA, SOLDAS E TORNEARIA\n\nPARA MANUTENÇÃO DE ESTRUTRAS METALICAS E EM\n\nMADEIRA À CARGO DA PREFEITURA MUNICIPAL DE\n\nAPARECIDA",
@@ -707,7 +707,7 @@
         "num_contratos": 41,
         "total_gasto": 939986.3999999999,
         "top_3_empresas": [
-          "MARCOS ANTONIO\n\nFERREIRA DE SOUZA 03656185433"
+          "MARCOS ANTONIO\n\nFERREIRA DE SOUZA"
         ],
         "top_3_objetos": [
           "Contratação de pessoa jurídica especializada para a\n\nprestação dos serviços continuados de manutenção preventiva e\n\ncorretiva de ar condicionado, bem como refrigeradores, freezers e\n\nbebedouros, incluindo os materiais e equipamentos necessários à\n\nmanutenção, para atender as necessidades da Prefeitura Municipal de\n\nAparecida"
@@ -718,7 +718,7 @@
         "num_contratos": 24,
         "total_gasto": 3349932.36,
         "top_3_empresas": [
-          "MARIA\n\nLEDA GONZAGA 27668762434"
+          "MARIA\n\nLEDA GONZAGA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE SERVIÇO MECÂNICO PARA\n\nMANUTENÇÃO VEICULO TIPO MOTOCICLETAS COM\n\nREPOSIÇÃO DE PEÇAS À CARGO DA PREFEITURA\n\nMUNICIPAL DE APARECIDA"
@@ -766,9 +766,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 87,
-        "num_contratos": 305,
-        "total_gasto": 61408370.39000001
+        "num_diarios": 86,
+        "num_contratos": 296,
+        "total_gasto": 59770762.29000001
       },
       "2": {
         "num_diarios": 5,
@@ -786,9 +786,9 @@
         ]
       },
       "3": {
-        "num_diarios": 7,
-        "num_contratos": 39,
-        "total_gasto": 1248397.0,
+        "num_diarios": 6,
+        "num_contratos": 38,
+        "total_gasto": 1220797.0,
         "top_3_empresas": [
           "ALANA AGUDELO DE CARVALHO",
           "EDSON ALVES DE\nARAÚJO",
@@ -802,8 +802,8 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 31,
-        "total_gasto": 2919472.1,
+        "num_contratos": 19,
+        "total_gasto": 851244.0,
         "top_3_empresas": [
           "SOARES\n\nADVOCACIA & CONSULTORIA JURIDICA"
         ],
@@ -869,8 +869,8 @@
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 6,
-        "total_gasto": 532310.24,
+        "num_contratos": 10,
+        "total_gasto": 990530.24,
         "top_3_empresas": [
           ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nAparecida e: CT Nº 00180/2023"
         ],
@@ -902,7 +902,7 @@
         "total_gasto": 10993861.0,
         "top_3_empresas": [
           "MARCELO AUGUSTO MEDEIROS E SILVA LTDA",
-          "DANIEL ALEXANDRE ALVES\n\n10238511480",
+          "DANIEL ALEXANDRE ALVES",
           ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Aparecida e:\n\nCT Nº 00178/2023"
         ],
         "top_3_objetos": [
@@ -914,9 +914,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 449,
-    "num_contratos": 1416,
-    "total_gasto": 194394828.94,
+    "num_diarios": 445,
+    "num_contratos": 1409,
+    "total_gasto": "193.001.288,84",
     "top_5_empresas": {
       "FRANCISCO CARLOS LINHARES\nPEREIRA": 1,
       "I F DA COSTA & CIA LTDA": 1,

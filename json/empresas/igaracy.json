@@ -1,0 +1,349 @@
+{
+  "id": "igaracy",
+  "nome": "Igaracy",
+  "detalhe": {
+    "2021": {
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 15962.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 34,
+        "num_contratos": 13,
+        "total_gasto": 1114245.2600000002
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 990601.8200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 107680.64000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 243300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE TRATOR TRAÇADO COM GRADE\n\nARADOURA CP, MP MINIMO 16 DISCOS, PARA CORTE DE\n\nTERRAS DE AGRICULTORES E PRODUTOS RURAIS PARA\n\nPLANTIL DE ALIMENTOS DE SUBSTANCIA, PAGO POR\n\nHORA TRABLHADA",
+            "empresa": "JOSÉ ILDON\n\nFERNANDES",
+            "valor_total": "R$ 15,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 165,
+        "num_contratos": 125,
+        "total_gasto": 10660550.190000003
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1564995.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 18,
+        "total_gasto": 1307198.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 1055387.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 15,
+        "total_gasto": 2177153.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 83600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 493110.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 166675.71000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Reforma e Ampliação das placas de identificação das Ruas\n\ne Avenidas do Município de Igaracy – PB, todas Pintadas e\n\nAdesivadas e Aplicado o verniz PU 10.000 automotivo",
+            "empresa": "SAMARA SUELHY GOMES DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 1008005.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1325659.1800000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 980612.0,
+        "empresas_mensais": [
+          {
+            "objeto": "À APRESENTAÇÃO ARTISITICA E SHOW, NA\n\nCIDADE DE IGARACY PB, QUE SE RALIZAR NO DIA 21 DE\nDEZEMBRO DE 2022, COM DURAÇÃO DE SHOW 1:30H COM\n\nVITOR FERNANDES E BANDA EM COMEMORAÇÃO DE\n\nEMANCIPAÇÃO POLITÍCA DO MUNICIPIO DE IGARACY PB",
+            "empresa": "VF SHOWS\n\nPRODUCOES LTDA",
+            "valor_total": "R$ 152,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 254852.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1397548.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 159,
+        "num_contratos": 116,
+        "total_gasto": 14871459.24
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 3095200.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 1415983.7000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇO DE APOIO, DESLOCAMENTO E\n\nASSISTENCIA A PACIENTES ENCAMINHADOS PELA\n\nSECRETARIA MUNICIPAL DE SAÚDE PARA TRATAMENTO\n\nNA CIDADE DE JOAO PESSOA – PB",
+            "empresa": "GILVAN FELISMINO DA SILVA JUNIOR",
+            "valor_total": "R$ 19,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 27,
+        "total_gasto": 1882582.07,
+        "empresas_mensais": [
+          {
+            "objeto": "INSTALAÇÃO DE SISTEMAS FOTOVOLTAICOS\n\nPARA ATENDER A REDE DE ENSINO PÚBLICO MUNICIPAL\n\nDE IGARACY PB, VISANDO GERAR ENERGIA LIMPA E\n\nREDUZIR OS CUSTOS COM ENERGIA ELÉTRICA",
+            "empresa": "CENTROSOL ENGENHARIA LTDA",
+            "valor_total": "R$ 312,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 1671969.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 1849690.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 1505712.1099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 131409.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 17780.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 555345.3200000001,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de equipamentos para atendimento da educação\n\ninfantil e ensino fundamental da rede municipal de ensino de Igaracy–\n\nPB",
+            "empresa": "WALDIR SAULO CUNHA SANTOS",
+            "valor_total": "R$ 244,930.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 1270853.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 77384.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 42,
+        "total_gasto": 10317021.010000002
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 185767.94,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 230681.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 3065512.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 3920889.9800000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 245500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 999716.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 414000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 340000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SHOW ARTÍSTICO DE\n\nRANNIERY GOMES E BANDA, NO 19 DE DEZEMBRO DE 2024\n\nEM PRAÇA PÚBLICA, TRADICIONAL FESTA EMANCIPAÇÃO\n\nPOLITICA DO MUNICÍPIO DE IGARACY PB",
+            "empresa": "RANNIERY GOMES SHOWS E\n\nEVENTOS LTDA. ME",
+            "valor_total": "R$ 40,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 854952.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

@@ -4,88 +4,71 @@
   "detalhe": {
     "2021": {
       "8": {
-        "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 174790.0,
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 24,
-        "num_contratos": 3,
-        "total_gasto": 324790.0
-      },
-      "9": {
-        "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 150000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "10": {
-        "num_diarios": 5,
+        "num_diarios": 2,
         "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "11": {
-        "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "12": {
-        "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "total_gasto": 0
       }
     },
     "2022": {
       "1": {
-        "num_diarios": 11,
-        "num_contratos": 9,
-        "total_gasto": 599100.0,
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 185950.0,
         "top_3_empresas": [
-          "MARIA LIANI LEONARDO"
+          "NUCLEO REGIONAL DO INSTITUTO\nEUVALDO LODI PARAIBA"
         ],
         "top_3_objetos": [
-          "Contratação de empresa especializada para prestar serviços de\n\ncorte de terra no Município De Emas–PB"
+          "Contratação de serviços de agente de integração de estágio,\ncom a finalidade de concessão de oportunidades de estágios\nsupervisionados a estudantes de Educação superior, ensino médio,\ntécnico, pertencentes ao município de Emas –PB"
         ]
       },
       "resumo": {
-        "num_diarios": 125,
-        "num_contratos": 181,
-        "total_gasto": 22697486.48
+        "num_diarios": 38,
+        "num_contratos": 88,
+        "total_gasto": 10531772.06
       },
       "2": {
-        "num_diarios": 16,
-        "num_contratos": 37,
-        "total_gasto": 6274065.14,
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 1614727.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 14,
-        "num_contratos": 32,
-        "total_gasto": 2672207.1599999997,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 940221.0,
+        "top_3_empresas": [
+          "RODRIGO ALVARENGA\n\nRIBEIRO",
+          "ALEX VINICIUS SOARES FERNANDES"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para coletar notícias gerais e atos\n\ninstitucionais ao município e seus órgãos vinculados em jornais,\n\ndiários oficiais, e afins ( mídia eletrônica, impressa) a serem\n\npublicados em outros veículos de comunicação (redes sociais,\n\nrevistas, mídias áudios, fotos, vídeos)",
+          "Contratação de empresa para prestação de serviços de\n\ncriação de mídias sociais e designer de peças gráficos/ visual e artes\n\ndigitais para a prefeitura municipal de EMAS–PB",
+          "Contratação de empresa para fornecimento de\n\nHORTIFRUTS para a manutenção de das secretárias solicitantes no\n\nmunicípio de EMAS–PB"
+        ]
       },
       "4": {
-        "num_diarios": 8,
-        "num_contratos": 29,
-        "total_gasto": 5179421.52,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 3220221.76,
+        "top_3_empresas": [
+          "FUNDACAO JOAO KENNEDY GOMES BATISTA"
+        ],
+        "top_3_objetos": [
+          "Contratação de rádio comunitária para divulgação de atos\ninstitucional da Prefeitura Municipal de Emas–PB"
+        ]
       },
       "5": {
-        "num_diarios": 12,
-        "num_contratos": 13,
-        "total_gasto": 3061282.96,
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 2106070.3,
         "top_3_empresas": [
           "FRANCISCO JUNIOR DE ABREU"
         ],
@@ -94,29 +77,29 @@
         ]
       },
       "6": {
-        "num_diarios": 13,
-        "num_contratos": 26,
-        "total_gasto": 1332912.1,
+        "num_diarios": 4,
+        "num_contratos": 18,
+        "total_gasto": 917515.4,
         "top_3_empresas": [
-          "LUMIART\n\nCOMERCIO E SERVICOS LTDA",
           "LUMIART COMERCIO E SERVICOS\n\nLTDA",
-          "DELVALLE MATERIAIS ELETRICOS\n\nLTDA"
+          "DELVALLE MATERIAIS ELETRICOS\n\nLTDA",
+          "LUMIART\n\nCOMERCIO E SERVICOS LTDA"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB"
         ]
       },
       "7": {
-        "num_diarios": 14,
-        "num_contratos": 25,
-        "total_gasto": 2769879.4,
+        "num_diarios": 4,
+        "num_contratos": 18,
+        "total_gasto": 1499626.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 13,
-        "num_contratos": 2,
-        "total_gasto": 30100.0,
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 15050.0,
         "top_3_empresas": [
           "GIVANILDO ABILIO DOS SANTOS"
         ],
@@ -125,212 +108,46 @@
         ]
       },
       "9": {
-        "num_diarios": 10,
-        "num_contratos": 4,
-        "total_gasto": 535859.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "10": {
-        "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 242659.2,
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [
-          "DANIELE APARECIDA PEREIRA DE\nSOUSA",
-          "B. DANIEL INFORMATICA- ME",
-          "CT Nº 00130/2022 - 20.10.22"
+          "ALISON DE\n\nSOUZA LEITE",
+          "ALISON DE SOUZA LEITE"
         ],
         "top_3_objetos": [
-          "Contratação de empresa especializada na realização de\ntreinamentos/ Palestras e formações para a secretaria municipal de\nsaúde de EMAS-PB",
-          "Aquisição de equipamentos e material permanente para\nunidade de atenção especializada em saúde no município de EMAS–\n\nPB, atendendo a proposta de aquisição de equipamento/ Material\nPermanente N° DA PROPOSTA: 11655.026000/1220–04"
+          "CONTRATAÇÃO DO ARTISTA ALISSIN VIEIRA E\n\nBANDA PARA SE APRESENTAR DURANTE A FESTA DA\n\nPADROEIRA SANTA TEREZINHA NO MUNICIPIO DE EMAS–\n\nPB",
+          "CONTRATAÇÃO DE EMPRESA PARA PRESTAR\n\nSERVIÇOS DE LOCAÇÃO DE ESTRUTURA PARA\n\nREALIZAÇÃO DA FESTA DA PADROEIRA SANTA\n\nTEREZINHA NO MUNICIPIO DE EMAS–PB"
         ]
       },
-      "11": {
+      "10": {
         "num_diarios": 1,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 32390.0,
         "top_3_empresas": [
-          "FF\n\nLOCADORA DE VEICULOS EIRELI"
+          "AMAMEDICAL SOLUCOES EM SAUDE\n\nEIRELI",
+          "CT\n\nN°00127/2022- 19.10.2022 - INSTRAMED INDUSTRIAL MÉDICO\n\nHOSPITALAR LTDA"
         ],
         "top_3_objetos": [
-          "Contratação de empresa especializada para prestar serviços\n\nde abastecimento de água por meio de caminhão tanque com\n\ncapacidade de 9.000 lt, para atender o abastecimento do município de\n\nEmas-PB"
+          "Aquisição de equipamentos e material permanente para\n\nunidade de atenção especializada em saúde no município de EMAS–\n\nPB, atendendo a proposta de aquisição de equipamento/ Material\n\nPermanente N° DA PROPOSTA: 11655.026000/1220–04"
         ]
-      },
-      "12": {
-        "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      }
-    },
-    "2023": {
-      "1": {
-        "num_diarios": 7,
-        "num_contratos": 6,
-        "total_gasto": 6291330.0,
-        "top_3_empresas": [
-          "Emas",
-          "CLINICA DE\nDIAGNÓSTICO POR IMAGEM EIRELI",
-          "ADAILTON\nFERNANDES MACHADO"
-        ],
-        "top_3_objetos": [
-          "Contratação de empresa\nespecializada para prestar serviços de consultas médicas\nespecializadas para o município de EMAS-PB FUNDAMENTO\nLEGAL: Pregão Presencial: nº 00001/2023",
-          "Aquisição de\nCombustíveis destinados ao abastecimento da frota de veículos\npróprios e locados da administração pública municipal de EMAS-PB;"
-        ]
-      },
-      "resumo": {
-        "num_diarios": 126,
-        "num_contratos": 14,
-        "total_gasto": 7487114.3
-      },
-      "2": {
-        "num_diarios": 14,
-        "num_contratos": 5,
-        "total_gasto": 976000.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
-        "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": [
-          "Contratação dos serviços de instrutor de Banda Marcial\n\nincluindo aulas práticas e teóricas com finalidade de manter a Banda\n\nMarcial Oficial do Município De EMAS-PB DISPENSA Nº\n\n00017/2023"
-        ]
-      },
-      "5": {
-        "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 219784.3,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "8": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "9": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "10": {
-        "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "11": {
-        "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "12": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
       }
     },
     "2024": {
-      "1": {
-        "num_diarios": 17,
-        "num_contratos": 6,
-        "total_gasto": 3959932.1999999997,
-        "top_3_empresas": [],
-        "top_3_objetos": [
-          "Contratação de empresa especializada para fornecimento de\n\ngêneros alimentícios destinados a merenda escolar para atender a rede\n\nmunicipal de ensino do município de emas atendendo a demanda do\n\nexercício de 2024"
-        ]
-      },
-      "resumo": {
-        "num_diarios": 130,
-        "num_contratos": 38,
-        "total_gasto": 10233877.8
-      },
-      "2": {
-        "num_diarios": 14,
-        "num_contratos": 7,
-        "total_gasto": 3306521.69,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
-        "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 45019.0,
-        "top_3_empresas": [],
-        "top_3_objetos": [
-          "Aquisição de material de expediente para diversas\n\nsecretarias do município de EMAS–PB"
-        ]
-      },
-      "4": {
-        "num_diarios": 10,
-        "num_contratos": 4,
-        "total_gasto": 678076.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 10195.2,
-        "top_3_empresas": [
-          "EXPEDITO DANIEL DA SILVA"
-        ],
-        "top_3_objetos": [
-          "Contratação de empresa (oficina mecânica) para prestação\n\nde serviços de manutenção e reparação mecânica de veículos próprios,\n\nleves e pesados da frota municipal do município de Emas-PB",
-          "Contratação De Serviços De Motorista Para Manutenção\n\nDas Atividades Da Secretaria De Transporte E Trânsito Do Município\n\nDe Emas–PB",
-          "Aquisição de gêneros alimentícios para atender diversas\n\nsecretarias do município de Emas-PB"
-        ]
-      },
-      "6": {
-        "num_diarios": 14,
-        "num_contratos": 7,
-        "total_gasto": 704100.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
       "7": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 8,
         "total_gasto": 658594.71,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
+      "resumo": {
+        "num_diarios": 50,
+        "num_contratos": 12,
+        "total_gasto": 1530033.71
+      },
       "8": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 1,
         "total_gasto": 193800.0,
         "top_3_empresas": [],
@@ -374,22 +191,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 405,
-    "num_contratos": 236,
-    "total_gasto": 40743268.58,
+    "num_diarios": 90,
+    "num_contratos": 100,
+    "total_gasto": "12.061.805,77",
     "top_5_empresas": {
-      "MARIA LIANI LEONARDO": 1,
-      "FRANCISCO JUNIOR DE ABREU": 1,
-      "LUMIART\n\nCOMERCIO E SERVICOS LTDA": 1,
-      "LUMIART COMERCIO E SERVICOS\n\nLTDA": 1,
-      "DELVALLE MATERIAIS ELETRICOS\n\nLTDA": 1
+      "NUCLEO REGIONAL DO INSTITUTO\nEUVALDO LODI PARAIBA": 1,
+      "RODRIGO ALVARENGA\n\nRIBEIRO": 1,
+      "ALEX VINICIUS SOARES FERNANDES": 1,
+      "FUNDACAO JOAO KENNEDY GOMES BATISTA": 1,
+      "FRANCISCO JUNIOR DE ABREU": 1
     },
     "top_5_objetos": {
-      "Contratação de empresa especializada para prestar serviços de\n\ncorte de terra no Município De Emas–PB": 1,
-      "Contratação de uma empresa especializada para prestação\n\nde serviços gerenciamento e manutenção de prontuário eletrônico do\n\ncidadão E– SUAS AB DEC, E–SUA AB território": 1,
-      "AQUISIÇÃO DE MATERIAIS ELÉTRICOS A SEREM\n\nUTILIZADOS NA MANUTENÇÃO DA ILUMINAÇÃO PÚBLICA\n\nDO MUNICÍPIO DE EMAS–PB": 1,
-      "Contratação de empresa para fornecimento de manilha em\n\nconcreto armado de 30cm para obras de escoamento e drenagem de\n\nágua no município de EMAS–PB": 1,
-      "Contratação de empresa especializada na realização de\ntreinamentos/ Palestras e formações para a secretaria municipal de\nsaúde de EMAS-PB": 1
+      "Contratação de serviços de agente de integração de estágio,\ncom a finalidade de concessão de oportunidades de estágios\nsupervisionados a estudantes de Educação superior, ensino médio,\ntécnico, pertencentes ao município de Emas –PB": 1,
+      "Contratação de empresa para coletar notícias gerais e atos\n\ninstitucionais ao município e seus órgãos vinculados em jornais,\n\ndiários oficiais, e afins ( mídia eletrônica, impressa) a serem\n\npublicados em outros veículos de comunicação (redes sociais,\n\nrevistas, mídias áudios, fotos, vídeos)": 1,
+      "Contratação de empresa para prestação de serviços de\n\ncriação de mídias sociais e designer de peças gráficos/ visual e artes\n\ndigitais para a prefeitura municipal de EMAS–PB": 1,
+      "Contratação de empresa para fornecimento de\n\nHORTIFRUTS para a manutenção de das secretárias solicitantes no\n\nmunicípio de EMAS–PB": 1,
+      "Contratação de rádio comunitária para divulgação de atos\ninstitucional da Prefeitura Municipal de Emas–PB": 1
     }
   }
 }

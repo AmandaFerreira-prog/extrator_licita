@@ -1,0 +1,1789 @@
+{
+  "id": "conceicao",
+  "nome": "Conceição",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 286285.2,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE TUBOS, TIPO\nMANILHAS, EM CONCRETO PARA A PREFEITURA\nMUNICIPAL DE CONCEIÇÃO - PB",
+            "empresa": "MARIA ANDREIA LIRA LEITE -\nME",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\nFOTOGRAFIA ÁEREA DO MUNICÍPIO DE CONCEIÇÃO - PB,\nCOM FORNECIMENTO DE UMA AMPLIAÇÃO",
+            "empresa": "ADS FOTOGRAFIAS E\nCOMUNICAÇÃO LTDA",
+            "valor_total": "R$ 2,790.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 112,
+        "num_contratos": 47,
+        "total_gasto": 5964209.91
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 251300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 7284.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 03 (TRÊS) COPIADORAS\nMULTIFUNCIONAL LASER DE ALTA VELOCIDADE PARA\nFICAR A DISPOSIÇÃO DAS SECRETARIAS DE...",
+            "empresa": "DATASONIC INDUSTRIA E\nDISTRIBUIÇÃO DE ELETRONICOS LTDA",
+            "valor_total": "R$ 7,284.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1649744.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 992426.1900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 544931.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE ASSESSORIA DE IMPRENSA, A FIM DE\nPRESTAR PUBLICIDADE INSTITUCIONAL DA PREFEITURA\nMUNICIPAL DE CONCEIÇÃO - PB",
+            "empresa": "FRANCISCO PEIXOTO JUNIOR -\nME",
+            "valor_total": "R$ 2,896.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 7200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 1994178.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 230860.91,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS DE CONSUMO, DO TIPO\nUTENSILIOS DE CONZINHA, A SEREM UTULIZADOS NAS\nUNIDADES BÁSICAS DE SAÚDE DO M",
+            "empresa": "PRESENTES E UTILIDADES LTDA",
+            "valor_total": "R$ 6,746.81"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 4404333.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA TODAS\nAS SECRETARIAS, ÓRGÃOS E PROGRAMAS DA PREFEITURA\nMUNICIPAL DE CONCEIÇÃO - PB",
+            "empresa": "A3 GRÁFICA E EDITORA LTDA -\nME",
+            "valor_total": "R$ 964,610.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 104,
+        "num_contratos": 13,
+        "total_gasto": 9420953.68
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 187896.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 1735931.8399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 2505422.9699999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução dos serviços de implantação de pavimentação em\nvias publicas urbanas no município de Conceição/PB (RUA ELIAS\nMIGUEL DE SOUSA, RUA JOÃO JUVENAL, RUA RAIMUNDA\nLEITE SOBRINHO, RUA PREF",
+            "empresa": "ROMA CONSTRUÇÕES E MANUTENÇÃO\nLTDA",
+            "valor_total": "R$ 714,188.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 338152.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRATAÇÃO DE EMRPESA ESPECIALIZADA\nNO RAMO DA CONSTRUÇÃO CIVIL PARA REALIZAÇÃO\nDOS SERVIÇOS DE REFORMA EM 10 (DEZ) ESCOLAS DA\nREDE PÚBLICA MUNICIPAL DE ENSINO LOCALIZADAS\nNA ZONA RURAL DO MUNICÍPIO DE CONCEIÇÃO - PB",
+            "empresa": "SERRA CONSTRUÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\nRAMO DA CONSTRUÇÃO CIVIL, PARA A CONSTRUÇÃO\nDE UMA ACADEMIA DE SAÚDE, MODALIDADE\nAMPLIADA, NO BAIRRO NOSSA SENHORA DE FÁTIMA NO\nMUNICÍPIO DE CONCEIÇÃO - PB",
+            "empresa": "DEL ENGENHARIA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 249216.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 1014708.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 99,
+        "num_contratos": 37,
+        "total_gasto": 4349547.67
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 491352.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS ADVOGATÍCIOS\nESPECIALIZADOS PARA ATUAÇÃO JUNTO A COMARCA\nLOCAL E PARA ATENDER AS PESSOAS CARENTES QUE\nPROCURAM O SETOR JURÍDICO DO MUNICÍPIO DE\nCONCEIÇÃO - PB",
+            "empresa": "LOPES&LEITE",
+            "valor_total": "R$ 35,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 594174.1599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 69680.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 31500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 2014932.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de pães, bolos, biscoitos, salgados, para a\nmanutenção das ações, programas e atividades de todas as secretarias\ndo município de Conceição – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "PANIFICADORA\nMENINO DEUS LIMEIRA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 37200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 63000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 33000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 21,
+        "num_contratos": 1,
+        "total_gasto": 624659.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 155,
+        "num_contratos": 117,
+        "total_gasto": 11694218.479999997
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 3729916.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 20,
+        "total_gasto": 1866174.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peixe fresco filé de peixe para todas as\nSecretarias, Órgãos e Programas da Prefeitura Municipal de\nConceição - PB",
+            "empresa": "VALDENICE MOTA DA SILVA\nRAMALHO",
+            "valor_total": "R$ 170,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços de assessoria contábil ao setor\npessoal, com individualização de GFIP, REMAG, DIRF, RAIS e\nacompanhamento da regularidade da empresa junto a Receita Federal,\nPrevidenciária e Caixa Econômica Federal, para a Prefeitura\nMunicipal de Conceição/PB",
+            "empresa": "ROGÉRIO LACERDA ESTRELA\nALVES",
+            "valor_total": "R$ 21,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa técnica especializada para\nprocessamento e destinação final dos resíduos sólidos urbanos do\nMunicípio de Conceição - PB",
+            "empresa": "WM ENGENHARIA E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 285,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 1194969.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 28,
+        "total_gasto": 2422491.9000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA CONSTRUÇÃO DE ESCOLA DE 02 (DUAS) SALAS DE\nAULA LOCALIZADA NA RUA PROJETADA, S/N, DISTRITO\nVIDEO, CONCEIÇÃO - PB",
+            "empresa": "LK CONSTRUÇÕES E\nINCORPORAÇÕES LTDA-EPP",
+            "valor_total": "R$ 249,883.95"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 100164.79000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 563340.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 126309.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 434194.33,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de construção, hidráulico e elétrico\npara todas as Secretarias, Órgãos e Programas da Prefeitura Municipal\nde Conceição - PB",
+            "empresa": "IZAURA PEREIRA RAMALHO -\nME",
+            "valor_total": "R$ 207,004.70"
+          },
+          {
+            "objeto": "Aquisição de material de construção, hidráulico e elétrico\npara todas as Secretarias, Órgãos e Programas da Prefeitura Municipal\nde Conceição - PB",
+            "empresa": "DIAS\nCOMERCIO VAR. DE FERRAGENS E MAT. DE CONST. LTDA -\nME",
+            "valor_total": "R$ 207,004.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 548352.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 83647.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de itens de iluminação natalina e demais\n\nmateriais elétricos necessários a serem utilizados na decoração do\nNatal 2017 do Município de Conceição - PB",
+            "empresa": "ANTONIO DE ARAUJO AMORIM EIRELI",
+            "valor_total": "R$ 7,118.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 1160380.42,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 149,
+        "num_contratos": 185,
+        "total_gasto": 18016433.219999995
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 29,
+        "total_gasto": 3333895.8000000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de prestação de serviços no fornecimento de\nrefeições prontas para atender a demanda da Secretaria Municipal de\nSaúde de Conceição - PB",
+            "empresa": "JOSÉ NILTON DOS SANTOS",
+            "valor_total": "R$ 63,360.00"
+          },
+          {
+            "objeto": "Contratação de prestação de serviços no fornecimento de\nrefeições prontas para atender a demanda da Secretaria Municipal de\nSaúde de Conceição - PB",
+            "empresa": "LUCIVÂNIA\nVIRGULINO DA COSTA",
+            "valor_total": "R$ 63,360.00"
+          },
+          {
+            "objeto": "Aquisição de produtos de panificação (Pães, Bolos e\nBiscoitos) para todas as Secretarias, Órgãos e Programas da Prefeitura\nMunicipal de Conceição - PB",
+            "empresa": "PANIFICADORA MENINO DEUS\nLIMEIRA LTDA",
+            "valor_total": "R$ 58,500.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Água Mineral e Gás de Cozinha\n(GLP) para todas as Secretarias, Órgãos e Programas da Prefeitura\nMunicipal de Conceição - PB.",
+            "empresa": "EDNALDO LOPES LEITE",
+            "valor_total": "R$ 88,000.00"
+          },
+          {
+            "objeto": "Aquisição de combustíveis (gasolina comum, óleo diesel\ncomum e óleo diesel S-10) destinados ao abastecimento dos veículos\nque viajam para as cidades de João Pessoa, Campina Grande e\nadjacências, sejam próprios, locados ou a disposição da Prefeitura\nMunicipal de Conceição - PB",
+            "empresa": "POSTO DIESEL SÃO\nJOSÉ LTDA",
+            "valor_total": "R$ 382,400.00"
+          },
+          {
+            "objeto": "Contratação de veículos para ficarem a disposição das\nSecretarias de Infraestrutura e Urbanismo e de Agricultura e Meio\nAmbiente do Município de Conceição - PB",
+            "empresa": "OUTROS SERVIÇOS DE\nTERCEIROS",
+            "valor_total": "R$ 71,500.00"
+          },
+          {
+            "objeto": "Contratação de veículos para ficarem a disposição das\nSecretarias de Infraestrutura e Urbanismo e de Agricultura e Meio\nAmbiente do Município de Conceição - PB",
+            "empresa": "EVILAZIO ALVES MARINHO",
+            "valor_total": "R$ 71,500.00"
+          },
+          {
+            "objeto": "Contratação de Horas Máquina com Trator de Pneu para\ncorte de terras destinadas as atividades da Secretaria de Agricultura\ndeste Município",
+            "empresa": "Allan de Sousa Leite",
+            "valor_total": "R$ 28,070.00"
+          },
+          {
+            "objeto": "Contratação de serviço de assessoria técnica permanente -\nmodalidade - para gestão SUS, nas áreas de planejamento, gestão de\nprojetos técnicos em saúde, para atender as necessidades da Secretaria\nMunicipal de Saúde de Conceição - PB",
+            "empresa": "ITYHY\nCONSULTORIA LTDA",
+            "valor_total": "R$ 7,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE 500 (QUINHENTOS) KILOS DE CABO\nDE ALUMÍNIO COM ALMA DE AÇO (CAA) 2AWG, PARA\nCOMPLEMENTAÇÃO DOS SERVIÇOS NO AÇUDE DO\nDISTRITO DE MATA GRANDE NO MUNICÍPIO DE\nCONCEIÇÃO - PB",
+            "empresa": "PEPE & MALU - COMERCIO DE\nMATERIAL DE CONSTRUCAO LTDA",
+            "valor_total": "R$ 7,950.00"
+          },
+          {
+            "objeto": "Aquisição de tecidos e produtos de malharia para as\nSecretarias de Educação, Saúde e Ação Social do Município de\nConceição - PB",
+            "empresa": "JANIO TRIGUEIRO MARTINS",
+            "valor_total": "R$ 7,872.70"
+          },
+          {
+            "objeto": "Aquisição de peixe fresco e filé de peixe para todas as\nSecretarias, Órgãos e Programas da Prefeitura Municipal de\nConceição - PB",
+            "empresa": "VALDENICE MOTA DA SILVA RAMALHO",
+            "valor_total": "R$ 184,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 1967049.86,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos psicotrópicos para atender as\nnecessidades da Secretaria de Saúde do Município de Conceição - PB",
+            "empresa": "ULTRAMEGA DISTRIBUIDORA\nHOSPITALAR LTDA",
+            "valor_total": "R$ 484,139.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 678700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 45,
+        "total_gasto": 1569819.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 20,
+        "total_gasto": 635818.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Gás de Cozinha (GLP) para todas\n\nas Secretarias, Órgãos e Programas da Prefeitura Municipal de\n\nConceição - PB",
+            "empresa": "JOSE PEREIRA DE\n\nSOUZA",
+            "valor_total": "R$ 7,700.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para realização de\n\ncurso de atendimento Pré - Hospitalar - A.P.H, para os profissionais\n\nda saúde do Município de Conceição/PB",
+            "empresa": "CTE CENTRO TECNICO DE\n\nENSINO EM SAUDE LTDA",
+            "valor_total": "R$ 4,000.00"
+          },
+          {
+            "objeto": "Locação de imóvel situado à Dr",
+            "empresa": "FRANCISCO HELTON HOLANDA DA\n\nSILVA",
+            "valor_total": "R$ 18,900.00"
+          },
+          {
+            "objeto": "Aquisição de Material Permanente (móveis, equipamentos\n\nelétricos e eletrônicos) para as Secretarias, Órgãos e Programas da\n\nPrefeitura Municipal de Conceição - PB",
+            "empresa": "JOSE ROZENILDO LEITE MANIÇOBA",
+            "valor_total": "R$ 430,878.00"
+          },
+          {
+            "objeto": "Aquisição de Material Permanente (móveis, equipamentos\n\nelétricos e eletrônicos) para as Secretarias, Órgãos e Programas da\n\nPrefeitura Municipal de Conceição - PB",
+            "empresa": "XAVIER AFREU DE\n\nASSIS",
+            "valor_total": "R$ 430,878.00"
+          },
+          {
+            "objeto": "Aquisição de Material Permanente (móveis, equipamentos\n\nelétricos e eletrônicos) para as Secretarias, Órgãos e Programas da\n\nPrefeitura Municipal de Conceição - PB",
+            "empresa": "CT Nº 14403/2018 -\n\n13.06.18",
+            "valor_total": "R$ 430,878.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 1008489.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 19,
+        "total_gasto": 3073690.31,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 1599898.13,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "LAIRTON VITORINO DE SOUSA -\nR$ 19.825,00; CT Nº 50302/2018",
+            "valor_total": "R$ 19,675.00"
+          },
+          {
+            "objeto": "Contratação de empresa para veiculação em mídia televisa\npara divulgação dos atos administrativos da Prefeitura Municipal de\nConceição/PB",
+            "empresa": "EMPRESA DE\nTELEVISAO JOAO",
+            "valor_total": "R$ 7,980.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gás de Cozinha (GLP) para todas\nas Secretarias, Órgãos e Programas da Prefeitura Municipal de\nConceição - PB",
+            "empresa": "JOSE PEREIRA DE SOUZA",
+            "valor_total": "R$ 9,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 700067.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 1020325.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Técnico em Engenharia, para os serviços de\n\nassistência técnica, fiscalização e acompanhamento de obras das\n\ndiversas secretarias do Município de Conceição/PB",
+            "empresa": "NÁDJA MUNIZ DA COSTA\n\nANGELO",
+            "valor_total": "R$ 5,298.00"
+          },
+          {
+            "objeto": "Aquisição de itens de iluminação natalina e demais\n\nmateriais elétricos necessários a serem utilizados na decoração do\n\nNatal 2018 do Município de Conceição - PB",
+            "empresa": "NORDIFE MATERIAIS\n\nELETRICOS LTDA",
+            "valor_total": "R$ 4,840.90"
+          },
+          {
+            "objeto": "Contratação de empresa para manutenção, instalação,\n\nconserto e reposição de peças de ar condicionado para as diversas\n\nsecretaria do Município de Conceição/PB",
+            "empresa": "PATOENSE REFRIGERACAO\n\nLTDA",
+            "valor_total": "R$ 17,180.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em formação para\n\nEducação de Jovens e Adultos (EJA), no município de Conceição/PB",
+            "empresa": "FUTURA CONSULTORIA E\n\nSERVIÇOS EIRELI",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 1268299.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 779849.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 163,
+        "num_contratos": 201,
+        "total_gasto": 15659121.83
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 1788188.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 57,
+        "total_gasto": 4218646.2,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de medicamento para atender as necessidades da\nSecretaria Municipal de Saúde de Conceição - PB",
+            "empresa": "ALMED - ALDENIO\nDIST. DE MED. E MAT. MED-HOSPITALAR LTDA",
+            "valor_total": "R$ 892,000.00"
+          },
+          {
+            "objeto": "aquisição de medicamento para atender as necessidades da\nSecretaria Municipal de Saúde de Conceição - PB",
+            "empresa": "SUFRAMED\nCOMERCIO DE MATERIAL MÉDICO HOSPITALAR",
+            "valor_total": "R$ 892,000.00"
+          },
+          {
+            "objeto": "Aquisição de medicamento psicotrópicos para atender as\nnecessidade da Secretaria de Saúde do Município de Conceição/PB",
+            "empresa": "ULTRAMEGA DISTRIBUIDORA\nHOSPITALAR LTDA",
+            "valor_total": "R$ 17,435.60"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "FRANCISCO EVERTON LACERDA\nDE FIGUEIREDO",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "GERSON CARLOS VITORINO DOS SANTOS",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "JOSÉ SOARES DAS NEVES",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "MARIA XAVIER DA\nSILVA",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "SILVIA\nMARA XAVIER DA SILVA LIMA",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "SILDERLÂNIA XAVIER DA SILVA",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "VILANI VICENTE DA\nSILVA",
+            "valor_total": "R$ 111,431.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB",
+            "empresa": "MARIA\nANDRADE DE OLIVEIRA SOUSA",
+            "valor_total": "R$ 111,431.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 42,
+        "total_gasto": 2294462.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de som e gerador para a festividade de 1º\n\nMaio, em comemoração ao dia do Trabalhador no Município de\n\nConceição/PB",
+            "empresa": "JOSEFA ROBERTO ALVES",
+            "valor_total": "R$ 4,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 600790.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação Artística do Banda Wallas Arrais para\napresentação nas Tradicionais Festividades do São João 2019, do\nMunicípio de Conceição - PB, o artista se apresentará no dia\n21/06/2019, no período da noite, com duração mínima de show de\n01:30hs/min",
+            "empresa": "R F COMUNICACAO E\nPROMOCAO LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "contratação de profissionais especializado na área médica\npara prestação de serviços consultas, exames entre outros serviços\npara o Município de Conceição/PB",
+            "empresa": "CLIMEDE DIAGNOSTICOS LTDA\n– ME",
+            "valor_total": "R$ 15,040.00"
+          },
+          {
+            "objeto": "contratação de profissionais especializado na área médica\npara prestação de serviços consultas, exames entre outros serviços\npara o Município de Conceição/PB",
+            "empresa": "Climede Diagnosticos LTDA",
+            "valor_total": "R$ 15,040.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 596452.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB",
+            "empresa": "FRANCISCO\nALDSANDRO PONCIANO",
+            "valor_total": "R$ 9,450.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 12,
+        "total_gasto": 1412124.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 805546.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 153560.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de software para atender o sistema de\n\ncontabilidade e folha de pagamento e realização dos serviços de\n\natualização do portal da transparência para a Câmara Municipal de\n\nConceição-PB– PB",
+            "empresa": "Public Software Informática LTDA",
+            "valor_total": "R$ 20,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 648327.2999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para implantação de\npavimentação de via(s) pública urbana no Município de\nConceição/PB, conforme planilha orçamentária e o contrato de\nrepasse nº",
+            "empresa": "J. W. CONSTRUTORA LTDA - W.\nP. CONSTRUTORA",
+            "valor_total": "R$ 271,758.59"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para implantação de\npavimentação de via(s) pública urbana no Município de\nConceição/PB, conforme planilha orçamentária e o contrato de\nrepasse nº",
+            "empresa": "J. W.  Construtora LTDA",
+            "valor_total": "R$ 271,758.59"
+          },
+          {
+            "objeto": "Aquisição de equipamentos permanentes para atender as\nnecessidades das Unidades de Saúde do Município de Conceição/PB",
+            "empresa": "RACHEL DE SA BARRETO\nCALLOU",
+            "valor_total": "R$ 16,753.98"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para realização de\ncurso introdutório e orientação da politica nacional de atenção básica\n(PNAB), do ministério da saúde para qualificar os profissionais que\ningressam para o trabalho na atenção primária, com objetivo de\naprimorar a assistência prestada à população coberta pela estratégia de\nsaúde da família do município de Conceição/PB",
+            "empresa": "CONSULTEC",
+            "valor_total": "R$ 8,499.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 764299.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1596875.32,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MANGUEIRA DE LED DESTINADA\nAO MUNICÍPIO DE CONCEIÇÃO - PB",
+            "empresa": "SILVANIA LEITE DE CARVALHO\nARAÚJO ME",
+            "valor_total": "R$ 8,830.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 36,
+        "total_gasto": 2570000.04,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de imóvel situado à Dr",
+            "empresa": "FRANCISCO HELTON HOLANDA\n\nDA SILVA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 191,
+        "num_contratos": 218,
+        "total_gasto": 13901980.489999998
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 496613.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 1339440.3599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 29,
+        "total_gasto": 3945938.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 635658.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 599815.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de insumo (teste rápido COVID-19\n\nIGG/IGM) para atender a necessidade da secretaria de saúde e órgãos\n\nvisando o enfrentamento da pandemia do COVID-19 no Município de\n\nConceição/PB",
+            "empresa": "MATERIAL DE CONSUMO.\n\nVIGÊNCIA: até 26/09/2020.\n\nPARTES CONTRATANTES: Prefeitura Municipal de Conceição e:\n\nCT Nº 33601/2020",
+            "valor_total": "R$ 37,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 42,
+        "total_gasto": 504256.87000000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 30,
+        "total_gasto": 1629800.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 17,
+        "total_gasto": 807887.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 502900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 571326.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de horas máquina (trator), destinadas á\npulverização e desinfecção de ruas e avenidas do município de\nConceição-PB no combate a COVID-19",
+            "empresa": "OUTROS SERVIÇOS\nDE TERCEIROS",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 298344.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 1279237.1400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação Emergencial de serviços de recargas de cilindros\n\nde oxigênio medicinal, para os órgãos vinculados a Secretaria de\n\nSaúde no município de Conceição-PB",
+            "empresa": "(S): EDIVAN BORGES DE SOUSA",
+            "valor_total": "R$ 49,948.00"
+          },
+          {
+            "objeto": "Aquisição emergencial de combustíveis (gasolina comum\n\ne óleo diesel S10) destinados ao abastecimento dos veículos e\n\nmáquinas pesadas (locados, contratados, vinculados e/ou a disposição)\n\nda Prefeitura Municipal de Conceição-PB",
+            "empresa": "s, vinculados e/ou a disposição)\n\nda Prefeitura Municipal de Conceição-PB.\n\nPARTES:\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE CONCEIÇÃO\n\n- PB",
+            "valor_total": "R$ 106,036.00"
+          },
+          {
+            "objeto": "Aquisição emergencial de combustíveis (gasolina comum\n\ne óleo diesel S10) destinados ao abastecimento dos veículos e\n\nmáquinas pesadas (locados, contratados, vinculados e/ou a disposição)\n\nda Prefeitura Municipal de Conceição-PB",
+            "empresa": "(S): LUCENA COMBUSTIVEIS LTDA",
+            "valor_total": "R$ 106,036.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO EMERGENCIAL DE EMPRESA\n\nPARA PRESTAÇÃO DE SERVIÇOS DE TRANSMISSÃO DE\n\nINTERNET PARA TODAS AS SECRETARIAS, ÓRGÃOS E\n\nPROGRAMAS DA PREFEITURA MUNICIPAL DE CONCEIÇÃO\n\n– PB",
+            "empresa": "(S): VALEFIBRA TELECOM SERVIÇOS DE\n\nTELECOMUNICAÇÕES LTDA",
+            "valor_total": "R$ 28,710.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO AQUISIÇÃO EMERGENCIAL DE\n\nPNEUS DESTINADOS AOS VEÍCULOS QUE COMPÕEM A\n\nFROTA DO MUNICÍPIO DE CONCEIÇÃO – PB",
+            "empresa": "(S): LUZIA DE AQUINO FERREIRA",
+            "valor_total": "R$ 36,065.00"
+          },
+          {
+            "objeto": "Contratação emergencial de empresa visando a coleta e\n\ntransporte de lixo domiciliar, coleta e transporte de resíduos de\n\npodação, varrição manual de ruas, avenidas, praças e becos\n\npavimentados, capinagem e corte de árvores, inclusive carga e\n\ndescarga, pintura a cal em meio-fio de ruas, lavagem e desinfecção de\n\nvias, pátios de feiras-livres e mercado público do Município de\n\nConceição – PB",
+            "empresa": "(S): ECCAL CONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 731,934.64"
+          },
+          {
+            "objeto": "AQUISIÇÃO EMERGENCIAL DE MEDICAMENTOS\n\nQUE NÃO COMPÕE O ELENCO DE ASSISTÊNCIA\n\nFARMACÊUTICA BÁSICA, COM O MAIOR PERCENTUAL DE\n\nDESCONTO, CONSTANTES NA TABELA CMED/ANVISA\n\nPARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL\n\nDE SAÚDE DE CONCEIÇÃO-PB",
+            "empresa": "(S): HENRIQUE CELSO CIRILO FERREIRA\n\nJUNIOR",
+            "valor_total": "R$ 90,000.00"
+          },
+          {
+            "objeto": "Aquisição emergencial de frutas e verduras para todas as\n\nsecretarias, Órgãos e Programas da Prefeitura Municipal de\n\nConceição-PB",
+            "empresa": "(S): JANNY CLAIR VIEIRA MANGUEIRA DE\n\nSOUSA",
+            "valor_total": "R$ 17,160.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 208,
+        "num_contratos": 151,
+        "total_gasto": 15554030.09
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 243200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 16,
+        "total_gasto": 2402903.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 1708478.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de veículo com Carroceria Aberta para ficar a\n\ndisposição da Secretaria de Infraestrutura e Urbanismo do Município\n\nde Conceição/PB",
+            "empresa": "OUTROS SERVIÇOS\n\nDE TERCEIROS",
+            "valor_total": "R$ 44,400.00"
+          },
+          {
+            "objeto": "Contratação de veículo com Carroceria Aberta para ficar a\n\ndisposição da Secretaria de Infraestrutura e Urbanismo do Município\n\nde Conceição/PB",
+            "empresa": "DAMIÃO IZIDRO XIBARRA",
+            "valor_total": "R$ 44,400.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Medicamentos que não compõe o\n\nelenco de assistência farmacêutica básica, com o maior percentual de\n\ndesconto, constantes na Tabela CMED/ANVISA para atender a\n\ndemanda da Secretaria Municipal de Saúde de Conceição - PB",
+            "empresa": "HENRIQUE CELSO CIRILO FERREIRA\n\nJUNIOR",
+            "valor_total": "R$ 600,000.00"
+          },
+          {
+            "objeto": "Aquisição de material permanente, tipo mobília (móveis e\n\neletrodomésticos), para todas as secretarias, órgãos e programas da\n\nPrefeitura Municipal de Conceição/PB",
+            "empresa": "(S):",
+            "valor_total": "R$ 14,573.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 7,
+        "total_gasto": 242159.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 1506833.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Serviços Técnicos de Engenharia (Técnico\nem Estradas ou Engenharia) para elaboração de projetos e alimentação\ndo GEO OBRAS do TCE/PB e outros serviços de obras e engenharia\nque corresponder a Prefeitura Municipal de Conceição/PB",
+            "empresa": "(S): NADJA MUNIZ DA COSTA ANGELO",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestação de\nserviços de manutenção corretiva, com troca e reposição de peças do\nveículo modelo Sprinter, placa OXO-5622, pertencente ao Fundo\nMunicipal de Saúde do município de Conceição/PB",
+            "empresa": "(S): - UNIDAS VEICULOS E SERVICO LTDA,\nRua Av Dep. Raimundo Asfora, 1380, Campina Grande,",
+            "valor_total": "R$ 15,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 11,
+        "total_gasto": 2859600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 17,
+        "total_gasto": 2133945.7399999998,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS NA ASSESSORIA DE RECURSOS\nHUMANOS, DE ELABORAÇÃO DA FOLHA DE PAGAMENTO,\nACOMPANHAMENTO DA IMPLEMENTAÇÃO DA\nOBRIGATORIEDADE DO ESOCIA, GERAÇÃO DE\nINFORMAÇÕES PARA O TCE/PB DE FORMA EM SAGRES ON-\nLINE DA CÂMARA MUNICIPAL DE CONCEIÇÃO – PB",
+            "empresa": "DANTAS CONSULTORIA E TECNOLOGIA DA\nINFORMACAO LTDA",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS CONTÁBEIS NA ASSESSORIA AO\nSETOR DE RECURSOS HUMANOS, COM AS INFORMAÇÕES\nEM GFIP, RAIS, DIRF, DCTF, BEM COMO,\nACOMPANHAMENTO DA REGULARIDADE DA EMPRESA\nJUNTO AOS ÓRGÃOS FISCALIZADORES DA CÂMARA\nMUNICIPAL DE CONCEIÇÃO – PB",
+            "empresa": "ASSCON - ASSESSORIA CONTABIL LTDA",
+            "valor_total": "R$ 12,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEL (GASOLINA\nCOMUM) DESTINADO AO ABASTECIMENTO DO VEÍCULO\nDA PRESIDÊNCIA DA CÂMARA MUNICIPAL DE\nVEREADORES DE CONCEIÇÃO – PB",
+            "empresa": "VALDOMIRO TAVARES LUCENA",
+            "valor_total": "R$ 12,500.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE SOFTWARES PARA\nADMINISTRAÇÃO PÚBLICA: SISTEMA DE CONTABILIDADE,\nFOLHA DE PAGAMENTO E PORTAL DA TRANSPARÊNCIA,\nPARA A CÂMARA MUNICIPAL DE CONCEIÇÃO – PB",
+            "empresa": "PUBLIC SOFTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 8,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 382198.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 5,
+        "total_gasto": 470850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 29,
+        "total_gasto": 378415.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "JAILSON PEREIRA DA SILVA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "RAIMUNDO LEITE DE\n\nARAÚJO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "ANTONIO\n\nBATISTA DE SOUSA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº\n\n95705/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº 95706/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº 95707/2021 -\n\n04.11.21",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "GUILHERME JOSE\n\nMARTIRIO DE LIMA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "FRANCINILDO CARLO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº\n\n95711/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CIRIACO BERTO DA\n\nSILVA NETO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "FRANCIALDA LIMEIRA LEITE",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "FABICIANO BATISTA CABRAL",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "JOSÉ ORLANDO BERTO DA SILVA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "MARCELO AUGUSTO\n\nDOS SANTOS SILVA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "LUAN BENIGNO DO NASCIMENTO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CICERO ALVES AUGUSTINHO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "JOSE ALEXANDRE\n\nSIQUEIRA GALDINO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT\n\nNº 95721/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº 95722/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº 95723/2021 -\n\n04.11.21",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "CT Nº\n\n95724/2021",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "JOSE EMILIO DOS\n\nSANTOS",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "ANTONIO\n\nHENRIQUE RIBEIRO",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+            "empresa": "FRANCINEUDO XAVIER JUCA",
+            "valor_total": "R$ 236,415.00"
+          },
+          {
+            "objeto": "Contratação de treinamento sobre a nova lei de licitações,\n\nvisando a capacitação dos servidores que atuam nos procedimentos\n\nlicitatórios",
+            "empresa": "MARTINS E CHIANCA SOCIEDADE DE\n\nADVOGADOS, Av Marechal Deodoro da Fonseca, 46, Centro, João",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de treinamento sobre a nova lei de licitações,\n\nvisando a capacitação dos servidores que atuam nos procedimentos\n\nlicitatórios",
+            "empresa": "CEP: 58.040-140",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 15,
+        "total_gasto": 1946210.0399999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material permanente, do tipo mobília (móveis\ne equipamentos) para as secretarias, órgãos e programas da Prefeitura\nMunicipal de Conceição – PB",
+            "empresa": "INTELIGÊNCIA COMÉRCIO DE\nEQUIPAMENTOS E SERVIÇOS EIRELLI",
+            "valor_total": "R$ 230,349.20"
+          },
+          {
+            "objeto": "Aquisição de material permanente, do tipo mobília (móveis\ne equipamentos) para as secretarias, órgãos e programas da Prefeitura\nMunicipal de Conceição – PB",
+            "empresa": "CT\nNº 96002/2021 - 13.12.21 - LS SERVI??OS DE INFORMÁTICA E\nELETR??NICA LTDA-EPP",
+            "valor_total": "R$ 230,349.20"
+          },
+          {
+            "objeto": "Aquisição de material permanente, do tipo mobília (móveis\ne equipamentos) para as secretarias, órgãos e programas da Prefeitura\nMunicipal de Conceição – PB",
+            "empresa": "CT Nº 96004/2021",
+            "valor_total": "R$ 230,349.20"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 5,
+        "total_gasto": 984707.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 213,
+        "num_contratos": 183,
+        "total_gasto": 24010554.58000001
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 4428225.3100000005,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA,\n\nPARA EXECUÇÃO DOS SERVIÇOS DE REVITALIZAÇÃO COM\n\nEMASSAMENTO E PINTURA DA CÂMARA MUNICIPAL DE\n\nCONCEIÇÃO – PB",
+            "empresa": "MENDES & FERREIRA CONSTRUCOES\n\nLTDA",
+            "valor_total": "R$ 32,023.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE PEÇAS PARA MANUTENÇÃO\n\nCORRETIVA DOS ÔNIBUS ESCOLARES DO MUNICÍPIO DE\n\nCONCEIÇÃO – PB",
+            "empresa": "GIPAGEL AUTOPECAS LTDA",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MANILHAS DESTINADAS A\n\nATENDER DEMANDA DA SECRETARIA DE\n\nINFRAESTRUTURA, PARA UTILIZAÇÃO NAS OBRAS E\n\nSERVIÇOS DE ENGENHARIA DA PREFEITURA\n\nMUNICIPAL DE CONCEIÇÃO-PB",
+            "empresa": "ATLAS PRE-MOLDADOS E CONSTRUTORA\n\nLTDA",
+            "valor_total": "R$ 15,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 58,
+        "total_gasto": 2935159.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 2693700.2,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CONFECÇÃO DE QUADRO\n\nOFICIAL DO PREFEITO MUNICIPAL NO TAMANHO 40X50CM,\n\nCOM MOLDURA METÁLICA DE ALUMÍNIO, INCLUINDO\n\nSERVIÇOS FOTOGRÁFICOS COM DESLOCAMENTO DE\n\nESTÚDIO MÓVEL, E PRODUÇÃO DE FOTOS, PARA\n\nDISTRIBUIÇÃO EM DIRETORIAS E GABINETES DE TODAS\n\nAS INSTITUIÇÕES E ÓRGÃOS MUNICIPAIS",
+            "empresa": "JG PRODUÇÕES E DESIGN LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE OBRA DE CONSTRUÇÃO DE UNIDADE BÁSICA DE\n\nSAÚDE (UBS) – PORTE I – NA SEDE DO MUNICÍPIO DE\n\nCONCEIÇÃO/PB\n\nPROCEDIMENTO LICITATÓRIO: TOMADA DE PREÇOS Nº\n\n0009/2019\n\nDOTAÇÃO:\n\nMinistério da Saúde – Proposta 05497.410000/1190-02\n\n02.100 FUNDO MUNICIPAL DE SAÚDE E CONTRAPARTIDA\n\nDA PREFEITURA MUNICIPAL DE CONCEIÇÃO – 06.001 –\n\nFUNDO MUNICIPAL DE SAÚDE – 10 301 1012 1017 BLOCO DE\n\nESTRTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE\n\nSAÚDE – ATENÇAO PRIMARIA – ELEMENTO DE DESPESA -\n\n4490.51 99 1214 Obras e Instalações\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\n\nCONTRATADO: CONSTRUTORA TRIUNFO EIRELI, CNPJ Nº\n\n18.578.731/0001-84",
+            "empresa": "CONSTRUTORA TRIUNFO EIRELI",
+            "valor_total": "R$ 143,975.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 4,
+        "total_gasto": 320688.1,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DO SERVIÇO DE APOIO E\n\nACOMPANHAMENTO AOS PACIENTES FORA DE DOMICILIO\n\nQUE NECESSITAM DE APOIO QUANDO DA REALIZAÇÃO DE\n\nACOMPANHAMENTO NA CIDADE DE JOÃO PESSOA - PB",
+            "empresa": "JOSEFA EDILMA DOS SANTOS SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PRESTAÇÃO DE SERVIÇOS DE COLETA, TRANSPORTE\n\nE TRATAMENTO TÉRMICO POR INCINERAÇÃO E\n\nDESTINAÇÃO FINAL DAS CINZAS DOS RESÍDUOS DOS\n\nSERVIÇOS DE SAÚDE (RSS) NA PREFEITURA DE\n\nCONCEIÇÃO/PB",
+            "empresa": "TRASH COLETA E INCINERAÇAO DE LIXO\n\nHOSPITALAR LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\n\nSERVIÇOS MÉDICOS PARA DIVERSAS ESPECIALIDADES\n\nVISANDO ATENDER AS NECESSIDADES DA SECRETARIA\n\nDE SAÚDE DO MUNICÍPIO DE CONCEIÇÃO-PB",
+            "empresa": "CLINICA MEDICA SANTA TEREZINHA LTDA",
+            "valor_total": "R$ 120,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 19,
+        "num_contratos": 7,
+        "total_gasto": 265997.25,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE HORA\n\nMÁQUINA, DO TIPO TRATOR DE PNEU COM GRADE\n\nARADORA, PARA CORTE DE TERRA DOS PEQUENOS\n\nAGRICULTORES DO MUNICÍPIO DE CONCEIÇÃO – PB",
+            "empresa": "JOAO DE SOUSA RAMOS",
+            "valor_total": "R$ 19,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 837210.56,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ADEQUAÇÃO DA ESTRADA VICINAL NO MUNICÍPIO\n\nDE CONCEIÇÃO/PB, CONFORME PLANILHA\n\nORÇAMENTÁRIA E O CONTRATO DE REPASSE N°\n\n879190/2018/MAPA/CAIXA",
+            "empresa": "07.000",
+            "valor_total": "R$ 77,738.43"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ADEQUAÇÃO DA ESTRADA VICINAL NO MUNICÍPIO\n\nDE CONCEIÇÃO/PB, CONFORME PLANILHA\n\nORÇAMENTÁRIA E O CONTRATO DE REPASSE N°\n\n879190/2018/MAPA/CAIXA",
+            "empresa": "CONSTRUTORA TRIUNFO EIRELI",
+            "valor_total": "R$ 77,738.43"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA ADEQUAÇÃO DA ESTRADA VICINAL NO MUNICÍPIO\n\nDE CONCEIÇÃO/PB, CONFORME PLANILHA\n\nORÇAMENTÁRIA E O CONTRATO DE REPASSE N°\n\n879190/2018/MAPA/CAIXA",
+            "empresa": "CONSTRUTORA TRIUNFO EIRELI",
+            "valor_total": "R$ 77,738.43"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 22,
+        "num_contratos": 11,
+        "total_gasto": 1762713.2199999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 3834555.71,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇO DE RECADASTRAMENTO\n\nIMOBILIÁRIO E ELABORAÇÃO DA PLANTA GENÉRICA DE",
+            "empresa": "PUBLIC SOLUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 66,870.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 11,
+        "total_gasto": 2984091.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA REFORMA E\nADEQUAÇÃO DA NOVA EDIFICAÇÃO DO ARQUIVO E\nCONSTRUÇÃO DE PASSARELA DA CÂMARA MUNICIPAL DE\nCONCEIÇÃO – PB",
+            "empresa": "ECOPAV CONSTRUTORA LTDA",
+            "valor_total": "R$ 70,017.96"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 5,
+        "total_gasto": 366422.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 31,
+        "total_gasto": 2597083.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 288968.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 198,
+        "num_contratos": 128,
+        "total_gasto": 14075211.259999998
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 867484.3200000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 00013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n08.943.227/0001-82\n\nCONTRATADO: FRANCINEUDO XAVIER JUCA – CPF/MF:\n\n752.968.454-04\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0034/2022, por mais 12 (doze) meses,\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "FRANCINEUDO XAVIER JUCA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\nCONTRATADO: IVANILDO CARDOSO LAURENO - CPF:\n\n033.196.154-75\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0044/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "IVANILDO CARDOSO LAURENO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 0013/2022\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\n\nCONTRATADO: FRANCISCO EVERTON DE OLIVEIRA\n\nDUARTE - CPF: 131.689.654-48\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0037/2022, por mais 12 (doze) meses,\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "FRANCISCO EVERTON DE OLIVEIRA\n\nDUARTE",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\nPRESENCIAL Nº 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\n\nCONTRATADO: MARCIO SILVA PEREIRA – CPF/MF:\n080.159.984-92\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\nvigência do contrato nº 0062/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "MARCIO SILVA PEREIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n08.943.227/0001-82\n\nCONTRATADO: MIGUEL DA SILVA ALVES – CPF/MF:\n\n046.623.914-90\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0063/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "MIGUEL DA SILVA ALVES",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n08.943.227/0001-82\n\nCONTRATADO: RIVAMBERG DA SILVA FURTADO –\n\nCPF/MF: 097.554.254-03\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\n\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0065/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "RIVAMBERG DA SILVA FURTADO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL Nº 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\n\nCONTRATADO: CRISSOSTONO ENESIO DE LACERDA –\n\nCPF/MF: 063.358.044-92\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0073/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "CRISSOSTONO ENESIO DE LACERDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\n\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\n\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\nPRESENCIAL 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\n\nCONTRATADO: FRANCINILDO CARLO - CPF/MF nº\n061.943.714-63\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0035/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "FRANCINILDO CARLO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA OU JURÍDICA\nPARA FORNECIMENTO DE VEÍCULOS COM MOTORISTA\n\nPARA PRESTAÇÃO DE SERVIÇOS NO TRANSPORTE\n\nESCOLAR DOS ALUNOS DA REDE PÚBLICA DE ENSINO DO\n\nMUNICÍPIO DE CONCEIÇÃO/PB\nPROCEDIMENTO DE CONTRATAÇÃO: PREGÃO\n\nPRESENCIAL 0013/2022\n\nCONTRATANTE: MUNICÍPIO DE CONCEIÇÃO-PB, CNPJ:\n\n08.943.227/0001-82\nCONTRATADO: RAIMUNDO LEITE DE ARAÚJO - CPF/MF nº\n\n029.365.494-85\n\nOBJETO DA ALTERAÇÃO CONTRATUAL:\nDA PRORROGAÇÃO CONTRATUAL\nO presente Termo Aditivo tem por objetivo prorrogar o prazo de\n\nvigência do contrato nº 0064/2022, por mais 12 (doze) meses,\n\npermanecendo vigente até 17 de fevereiro de 2024",
+            "empresa": "RAIMUNDO LEITE DE ARAÚJO",
+            "valor_total": "R$ 27,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 10,
+        "total_gasto": 499475.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 28,
+        "total_gasto": 3471623.4,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DOS SERVIÇOS TÉCNICOS DE\n\nTECNOLOGIA EM INFORMÁTICA PARA O\n\nDESENVOLVIMENTO, IMPLANTAÇÃO, PERSONALIZAÇÃO E\n\nALIMENTAÇÃO DO SISTEMA DE APOIO AO PROCESSO\n\nLEGISLATIVO (SAPL) NA PLATAFORMA INTERLEGIS NA\n\nCÂMARA MUNICIPAL DE CONCEIÇÃO – PB",
+            "empresa": "JOAO MANUEL DIAS DE SOUASA NETO",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE ÁGUA MINERAL,\n\nGÊNEROS ALIMENTÍCIOS E MATERIAL DE LIMPEZA PARA\n\nATENDER A DEMANDA DA CÂMARA MUNICIPAL DE\n\nCONCEIÇÃO – PB",
+            "empresa": "EDNALDO LOPES LEITE",
+            "valor_total": "R$ 29,906.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 19,
+        "total_gasto": 3068159.9699999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 855916.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 1479353.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 312990.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 990280.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 112000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 2128960.8499999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 47,
+        "total_gasto": 5642695.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 202,
+        "num_contratos": 128,
+        "total_gasto": 32992041.28
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 202567.5,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO EMERGENCIAL DE COMBUSTÍVEL\n(GASOLINA COMUM E ÓLEO DIESEL S-10), DESTINADOS AO\nABASTECIMENTO DOS VEÍCULOS VINCULADOS AO FUNDO\nMUNICIPAL, SEJAM LOCADOS, CONTRATADOS,\nVINCULADOS OU A DISPOSIÇÃO DA ATIVIDADE PÚBLICA E\nDO FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE\nCONCEIÇÃO – PB",
+            "empresa": "S,\nVINCULADOS OU A DISPOSIÇÃO DA ATIVIDADE PÚBLICA E\nDO FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE\nCONCEIÇÃO",
+            "valor_total": "R$ 202,567.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO EMERGENCIAL DE COMBUSTÍVEL\n(GASOLINA COMUM E ÓLEO DIESEL S-10), DESTINADOS AO\nABASTECIMENTO DOS VEÍCULOS VINCULADOS AO FUNDO\nMUNICIPAL, SEJAM LOCADOS, CONTRATADOS,\nVINCULADOS OU A DISPOSIÇÃO DA ATIVIDADE PÚBLICA E\nDO FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE\nCONCEIÇÃO – PB",
+            "empresa": "POSTO DE COMBUSTIVEIS MANIÇOBA\nLTDA",
+            "valor_total": "R$ 202,567.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 5,
+        "total_gasto": 455195.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 1464175.33,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em implantação\n\ne suporte de sistemas informatizados para utilização dos\n\ndepartamentos internos suprindo as necessidades das Secretarias\n\ndo Município de Conceição-PB",
+            "empresa": "R PAZ DOS SANTOS CONSULTORIA E\n\nASSESSORIA EM GESTAO PUBLICA",
+            "valor_total": "R$ 25,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE LOCAÇÃO DE SISTEMAS DE GESTÃO\n\nPÚBLICA PARA SEREM UTILIZADOS NA PREFEITURA\n\nMUNICIPAL DE CONCEIÇÃO/PB",
+            "empresa": "PUBLIC SOFTWARE INFORMÁTICA LTDA",
+            "valor_total": "R$ 53,340.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 3146920.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 1247134.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 1,
+        "total_gasto": 58727.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 20,
+        "total_gasto": 9454244.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 2649272.0700000003,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPREA PARA PRESTAÇÃO\n\nDOS SERVIÇOS DE PLANEJAMENTO, ORGANIZAÇÃO E\n\nEXECUÇÃO DO SETEMBRO DAS CORES (AMARELO) PARA\n\nATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE\n\nSAÚDE DE CONCEIÇÃO – PB",
+            "empresa": "S: MARKA NEGOCIOS E EVENTOS LTDA",
+            "valor_total": "R$ 19,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 794960.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 2004529.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 5871619.46,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA PAVIMENTAÇÃO ASFÁLTICA NO MUNICÍPIO DE\n\nCONCEIÇÃO- PB, EM VIAS URBANAS DO MUNICÍPIO DE\n\nCONCEIÇÃO/PB, CONFORME OS CONTRATOS DE REPASSE\n\nNº CTT 1085156-89 - CV 939768 - 2023, CTT 1085731-85 - CV\n\n939918 - 2023 E CTT 1086453-81 - CV 940263 - 2023, ORIUNDOS\n\nDO MINISTÉRIO DO DESENVOLVIMENTO REGIONAL",
+            "empresa": "S: BMC BRASIL MINERAÇÃO E\n\nCONSTRUÇÃO LTDA",
+            "valor_total": "R$ 1,969,519.46"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

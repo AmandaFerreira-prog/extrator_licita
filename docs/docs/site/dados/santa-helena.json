@@ -55,13 +55,13 @@
       },
       "resumo": {
         "num_diarios": 61,
-        "num_contratos": 149,
-        "total_gasto": 10745581.09
+        "num_contratos": 150,
+        "total_gasto": 10802581.09
       },
       "2": {
         "num_diarios": 9,
-        "num_contratos": 12,
-        "total_gasto": 1524324.5,
+        "num_contratos": 13,
+        "total_gasto": 1581324.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -166,8 +166,8 @@
   },
   "resumo": {
     "num_diarios": 71,
-    "num_contratos": 172,
-    "total_gasto": 13118757.73,
+    "num_contratos": 173,
+    "total_gasto": "13.175.757,73",
     "top_5_empresas": {
       "A L S\n\nCONSTRUCOES, SERVICOS E EVENTOS EIRELI": 1,
       "T. A. FRANÇA SERVIÇOS": 1,

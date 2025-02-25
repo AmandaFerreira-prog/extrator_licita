@@ -1,0 +1,1305 @@
+{
+  "id": "montadas",
+  "nome": "Montadas",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 844181.9700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 26,
+        "total_gasto": 4510308.3100000005
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 1114493.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 1119145.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 762764.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REFORMA DA ESCOLA MUNICIPAL DE ENSINO\nFUNDAMENTAL ERASMO DE ARAÚJO SOUSA NA SEDE DO\nMUNICÍPIO NO EXERCÍCIO DE 2014",
+            "empresa": "ZENAIDE & PORTO\nCONSTRUÇÕES LTDA",
+            "valor_total": "R$ 137,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 120999.0,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS (CARRO-PIPA) PARA O\nTRANSPORTE DE AGUA POTÁVEL PARA CONSUMO\nHUMANO E PARA ABASTECIMENTO EMERGENCIAL",
+            "empresa": "LEONARDO NEVES COSTA",
+            "valor_total": "R$ 57,600.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE VEÍCULOS (CARRO-PIPA) PARA O\nTRANSPORTE DE AGUA POTÁVEL PARA CONSUMO\nHUMANO E PARA ABASTECIMENTO EMERGENCIAL",
+            "empresa": "SAULO BAZILIO ALVES",
+            "valor_total": "R$ 57,600.00"
+          },
+          {
+            "objeto": "FORNECIMENTO DE CARTUCHOS E TONER\nREMANOFATURADOS PARA ATENDIMENTO DAS\nNECESSIDADES DAS SECRETARIAS E DEPARTAMENTOS DA\nPREFEITURA M UNICIPAL",
+            "empresa": "RAFAEL MELO DA COSTA",
+            "valor_total": "R$ 63,399.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 548725.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 526485.78,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS DE CONSULTORIA, ASSESSORIA EM\nPRESTAÇÃO DE CONTAS E ACOMPANHAMENTO NOS",
+            "empresa": "ALISON PAULINELI DA SILVA\nPINTO",
+            "valor_total": "R$ 21,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 124,
+        "num_contratos": 53,
+        "total_gasto": 6332911.649999999
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 120000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 1303314.5100000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 276400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 402410.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 268230.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\nEXAMES EM VÍDEOS, PARA ATENDIMENTO AOS\nPACIENTES DO MUNICÍPIO EM CLÍNICA ESPECIALIZADA",
+            "empresa": "CLINICA RADIOLÓGICA DR.\nWANDERLEY LTDA",
+            "valor_total": "R$ 75,860.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1083848.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 699468.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 1420395.4099999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de Professor de deste município",
+            "empresa": "Maria Rejane Dantas de Medeiros",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Professor, deste município",
+            "empresa": "Marta Maria da Silva Cruz",
+            "valor_total": "R$ 1,799.91"
+          },
+          {
+            "objeto": "Prestação de serviços de Médico no PSF( Programa de Saúde\nda Família, deste município",
+            "empresa": "Aislan Henrique Bezerra Pinheiro",
+            "valor_total": "R$ 1,255.43"
+          },
+          {
+            "objeto": "Prestação de serviços de Odontólogo do Programa de Saúde\nda Família – PSF, deste município",
+            "empresa": "Danilo Gomes Marinho.",
+            "valor_total": "R$ 1,255.43"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 232358.27,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 774020.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 110,
+        "num_contratos": 17,
+        "total_gasto": 1925411.87
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 400935.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 54900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 300547.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 125298.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 37548.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 57632.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 142128.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 32400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 152,
+        "num_contratos": 47,
+        "total_gasto": 3984560.6999999997
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 16000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 51200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 78800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 1485750.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 426707.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 505185.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 640344.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 99461.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 363429.2,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "ALFA\nELETROMOVEIS E EQUIPAMENTOS",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "ALFA\nELETROMOVEIS E EQUIPAMENTOS",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "CBV CIRURGICA BOA VISTA COM.\nLTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "CBV CIRURGICA BOA VISTA COM.\nLTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "DENTALMED COMERCIO E REPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "DENTALMED COMERCIO E REPRESENTAÇÕES LTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "GQS ELETROS E\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "GQS ELETROS E\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "CT\nNº 00061/2017",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "CT\nNº 00061/2017",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "CT Nº 00062/2017",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "CT Nº 00062/2017",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL PERMANENTE\nMOBILIARIO E ELETRODOMESTICOS,AQUISIÇÃO DE\nMATERIAL PERMANENTE - EQUIPAMENTOS MEDICO\nHOSPITALARES DIVERSOS",
+            "empresa": "CT Nº 00063/2017",
+            "valor_total": "R$ 245,734.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\nPERMANENTE 24490008",
+            "empresa": "CT Nº 00063/2017",
+            "valor_total": "R$ 245,734.20"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 317682.75,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em implantação e\nsuporte de sistemas informatizados para utilização na Câmara\nMunicipal de Montadas.",
+            "empresa": "PUBLIC SOFTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 9,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 54000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 118,
+        "num_contratos": 35,
+        "total_gasto": 2820261.62
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 810204.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 156490.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 169876.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 645364.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 127600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS\n\nDE INTERNET BANDA LARGA FULL - DUPLEX PARA\n\nATENDER NECESSIDADES DESTA ENTIDADE",
+            "empresa": "POINT TELECOM SERVIÇOS\n\nLTDA",
+            "valor_total": "R$ 53,400.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE FATURAMENTO,\n\nDIGITAÇÃO, PROCESSAMENTO, TRANSMISSÃO,\n\nACOMPANHAMENTO E MANUTENÇÃO DE BANCO DE\n\nDADOS DOS SISTEMAS DE INFORMAÇÃO DE SAÚDE",
+            "empresa": "FABRICIO RIBEIRO DINIZ",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 465038.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 320687.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 35000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 109,
+        "num_contratos": 55,
+        "total_gasto": 4699782.38
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 2230081.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 88341.98000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 78380.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS DE LIMPEZA E\n\nHIGIENE HOSPITALAR, VISANDO ATENDER DEMANDAS DA\n\nSECRETARIA DE SAUDE DO MUNICIPIO E DIVERSAS\n\nSECRETARIAS",
+            "empresa": "CIRURGICA OLIVEIRA PRODUTOS CIRURGICOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 380415.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 93090.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 74128.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 85875.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 719800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 188500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 761170.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 72000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CARRO-PIPA PARA\n\nABASTECIMENTO DE ÁGUA, VISANDO A EXECUÇÃO DE\n\nSOCORRO E ASSISTÊNCIA ÀS VÍTIMAS DA SECA OCORRIDA\n\n,PARA O ATENDIMENTO EMERGENCIAL DA POPULAÇÃO\n\nDA ZONA URBANA ATINGIDA PELA ESTIAGEM",
+            "empresa": "JURANDY DA SILVA",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE CARRO-PIPA PARA\n\nABASTECIMENTO DE ÁGUA, VISANDO A EXECUÇÃO DE\n\nSOCORRO E ASSISTÊNCIA ÀS VÍTIMAS DA SECA OCORRIDA\n\n,PARA O ATENDIMENTO EMERGENCIAL DA POPULAÇÃO\n\nDA ZONA URBANA ATINGIDA PELA ESTIAGEM",
+            "empresa": "SAULO BAZILIO ALVES",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 121,
+        "num_contratos": 23,
+        "total_gasto": 2181430.4
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 155866.7,
+        "empresas_mensais": [
+          {
+            "objeto": "ASSESSORIA E CONSULTORIA JURÍDICA\nESPECIALIZADA, PARA AUXILIAR AS ATIVIDADES\nLEGISLATIVAS",
+            "empresa": "SANDRO ANDREY OLIVEIRA SANTOS\nSOCIEDADE INDIVIDUAL DE ADVOCA",
+            "valor_total": "R$ 42,000.00"
+          },
+          {
+            "objeto": "SERVIÇOS DE ASSESSORIA E CONSULTORIA\nTÉCNICA ESPECIALIZADA NA ÁREA DE CONTABILIDADE\nPÚBLICA, FINANCEIRA, ORÇAMENTÁRIA, PATRIMONIAL\nADMINISTRATIVA E DE PESSOAL",
+            "empresa": "BCR CONTABILIDADE\nPUBLICA LTDA",
+            "valor_total": "R$ 52,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 55250.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 365685.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1515828.2000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 16800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 100200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 149,
+        "num_contratos": 64,
+        "total_gasto": 4853597.9799999995
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 2120755.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE CARRO–PIPA PARA\nABASTECIMENTO DE ÁGUA, VISANDO A EXECUÇÃO DE\nSOCORRO E ASSISTÊNCIA ÀS VÍTIMAS DA SECA , ATRAVÉS\nDO DEPARTAMENTO DE AGRICULTURA DA PREFEITURA\nMUNICIPAL DE MONTADAS, BASEDADO NNO DECRETO\nESTADUAL 40.645 DE 15 DE OUTUBRO DE 2020",
+            "empresa": "JURANDY DA SILVA",
+            "valor_total": "R$ 100,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 130361.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 565253.65,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE VEICULO TIPO PASSEIO,\n\nDESTINADA AO GABINETE DO PREFEITO",
+            "empresa": "ULTRA\n\nSOLUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 42,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 47200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 257711.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 669876.35,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE AGUA POTAVEL E GAS DE\n\nCOZINHA COM 13 KG E BOTIJÕES PARA DIVERSAS\n\nSECRETARIAS DO MUNICIPIO",
+            "empresa": "JORGE EMMANUEL\n\nDA SILVA SEIXAS",
+            "valor_total": "R$ 11,250.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 96606.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 108000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 428712.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 328921.04000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 2548203.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 134,
+        "num_contratos": 92,
+        "total_gasto": 11404891.72
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 35,
+        "total_gasto": 2799143.92,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE IMOVEL PARA SERVI DE DEPOSITO\n\nPARA SECRETARIA DE EDUCAÇÃO",
+            "empresa": "GENILSON SOARES",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 1398394.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 20,
+        "total_gasto": 1478516.5999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "NUZIA LEILA DUTRA DA SILVA\n\nDANTAS",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "DENTEMED EQUIPAMENTOS ODONTOLOGICOS LTDA-EPP -\n\nR$ 42.958,06; CT Nº 00063/2022 - 28.04.22 - ODONTOMED\n\nCOMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA -\n\nME",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "RITA DE\n\nANDRADE VIEIRA - ME",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "CT Nº 00066/2022 - 28.04.22 - MULTFORTE\n\nCOMERCIO E SUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "GERALDO VIDAL DA\n\nNOBREGA",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "HDX\n\nCOMERCIAL EIRELI",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "MEDIC MANUTEN????O E REPARA????O DE EQUIPAMENTOS\n\nEIRELI",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "M CARREGA\n\nCOM??RCIO DE PRODUTOS HOSPITALARES",
+            "valor_total": "R$ 53,163.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTO E MATERIAL\n\nPERMANENTE PARA UNIDADE BÁSICA DE SAÚDE",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS\n\nAGRESTE MERIDIONAL LTDA",
+            "valor_total": "R$ 53,163.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 1328980.1600000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 856320.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 98049.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 67750.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 26690.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 752317.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 50525.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE\n\nTIPO I -",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMontadas e: CT Nº 00081/2022",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONCLUSÃO DA QUADRA COBERTA COM\n\nVESTUARIOS - DO MUNICIPIO DE MONTADA -",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Montadas e:\n\nCT Nº 00078/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 16,
+        "total_gasto": 3341574.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 150,
+        "num_contratos": 81,
+        "total_gasto": 10393711.28
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 16,
+        "total_gasto": 2352767.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 1746184.48,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇAO\n\nPAVIMENTAÇÃO ASFÁLTICA NO MUNICÍPIO DE\n\nMONTADAS – PB",
+            "empresa": "CLPT CONSTRUTORA\n\nLTDA",
+            "valor_total": "R$ 287,794.02"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1327194.4000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE\n\nTIPO I -",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMontadas e: CT Nº 00081/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 79890.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA CONFECÇÃO E FIXAÇÃO DE ADESIVOS, BANNER E\nDIVERSOS MATERIAS DESTINADAS A DIVERSAS\nSECRETARIAS DESTE MUNICIPIO",
+            "empresa": "CARLOS ROBERTO BATISTA COSTA -\nME",
+            "valor_total": "R$ 51,090.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 213126.96000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 66240.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE\n\nTIPO I -",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nMontadas e: CT Nº 00081/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 92000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 1174733.4200000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 18,
+        "total_gasto": 1998442.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 130,
+        "num_contratos": 117,
+        "total_gasto": 12174781.450000003
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 202614.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 163812.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 238148.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 52,
+        "total_gasto": 6208261.279999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 469530.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 1595758.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE VEICULOS 0KM DESTINADOS AO\nFUNDO MUNICIPAL DE SAUDE/PB",
+            "empresa": "FIORI\n\nVEICOLO S.A",
+            "valor_total": "R$ 424,950.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 243055.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 57850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 775439.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 202868.86,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECUÇAO PAVIMENTAÇÃO ASFÁLTICA NO MUNICÍPIO\n\nDE MONTADAS – PB",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 49\n\n\n\nMunicipal de Montadas e: CT Nº 00096/2022 - CLPT\n\nCONSTRUTORA LTDA",
+            "valor_total": "R$ 63,969.11"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECURÇÃO DA CONSTRUÇÃO DA CENTRAL DE\n\nVELÓRIOS EM MONTADAS/PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Montadas e:\n\nCONTRATO Nº 00103/2024-CPL",
+            "valor_total": "R$ 57,269.92"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nEXECURÇÃO DA REFORMA DO PRÉDIO DA PREFEITURA\n\nMUNICIPAL DE MONTADAS",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Montadas e:\n\nCONTRATO Nº 00122/2024-CPL - WD INCORPORACAO,\n\nCONSTRUCAO E SERVICOS LTDA",
+            "valor_total": "R$ 81,629.83"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 19000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

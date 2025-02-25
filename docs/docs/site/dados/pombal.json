@@ -3,76 +3,6 @@
   "nome": "Pombal",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 19,
-        "num_contratos": 6,
-        "total_gasto": 1956141.26,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "resumo": {
-        "num_diarios": 240,
-        "num_contratos": 157,
-        "total_gasto": 8704079.97
-      },
-      "2": {
-        "num_diarios": 20,
-        "num_contratos": 10,
-        "total_gasto": 512195.69999999995,
-        "top_3_empresas": [
-          "RIO VALE AUTOMOTORES LTDA"
-        ],
-        "top_3_objetos": [
-          "AQUISIÇÃO DE UM(1) VEICULO 0KM DESTINADO A\nSECRETARIA DE INFRESTRUTURA DESTE MUNICIPIO DE\nPOMBAL-PB"
-        ]
-      },
-      "3": {
-        "num_diarios": 19,
-        "num_contratos": 8,
-        "total_gasto": 641695.9,
-        "top_3_empresas": [],
-        "top_3_objetos": [
-          "CONTRATAÇÃO DE EMPRESA OU PESSOA FISICA\nPARA LOCAÇÃO DE (01) UM GEREDOR DE ENERGIA\nELETRICA PARA UPA(UNIDADE DE PONTO ATENDIMENTO)\nDESTE MUNICIPIO"
-        ]
-      },
-      "4": {
-        "num_diarios": 19,
-        "num_contratos": 35,
-        "total_gasto": 1004589.5299999999,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 21,
-        "num_contratos": 16,
-        "total_gasto": 397614.77,
-        "top_3_empresas": [
-          "RADAMES DUARTE\nALVES"
-        ],
-        "top_3_objetos": [
-          "LOCAÇÃO DE UM VEICULO DESTINADO A\nMANUTENÇÃO DA SECRETARIA DO MEIO AMBIENTE\nDESTE MUNICIPIO"
-        ]
-      },
-      "6": {
-        "num_diarios": 18,
-        "num_contratos": 16,
-        "total_gasto": 396543.4,
-        "top_3_empresas": [
-          "IRIS DA ASSUNÇÃO LIMA CRUZ -\nR$ 3.000,00\nCT Nº 00154/2014",
-          "MARIA DO LIVRAMENTO\nMEDEIROS",
-          "MARIA INEZ DIONIZIO\nFERNANDES"
-        ],
-        "top_3_objetos": [
-          "CONTRATAÇÃO DE PROFISSIONAIS HABILITADOS\nPARA EXECUTAR OFICINAIS DE TINTURA EM TECIDO E EM\nTELA, BORDADO"
-        ]
-      },
-      "7": {
-        "num_diarios": 20,
-        "num_contratos": 9,
-        "total_gasto": 778015.1,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
       "8": {
         "num_diarios": 21,
         "num_contratos": 20,
@@ -87,10 +17,81 @@
           "CONTRATAÇÃO DE PESSOA JURIDICA PARA A\nLOCAÇÃO DE VEICULOS PARA TRANSPORTAR ALUNOS\nDA REDE MUNICIPAL DE EDUCAÇÃO DA PREFEITURA\nDE POMBAL-PB"
         ]
       },
+      "resumo": {
+        "num_diarios": 235,
+        "num_contratos": 158,
+        "total_gasto": 9253386.73
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 13,
+        "total_gasto": 1342938.86,
+        "top_3_empresas": [
+          "Mario Fernandes de Melo"
+        ],
+        "top_3_objetos": [
+          "Constitui objeto do presente instrumento, a mudança de\ninstalação de funcionamento do PRO JOVEM ADOLESCENTE,\npara a partir desta data, ter funcionamento o CONSELHO\nTUTELAR, para atender as conveniências da Prefeitura\nMunicipal, com base nas Leis Federais nº 8.666, de 21 de Junho de\n1993, e nº 8.958, de 20 de Dezembro de 1994"
+        ]
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 16,
+        "total_gasto": 396543.4,
+        "top_3_empresas": [
+          "FRANCISCO DE ASSIS\nGARCIA GUIMARAES",
+          "FRANCISCO DE ASSIS\nSANTOS",
+          "JERDY NOBREGA DE\nARAUJO"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA OU PESSOA FISICA\nPARA PRESTAÇÃO DE SERVIÇOS DIVERSOS PARA\nATENDER A DEMANDA DE DIVERSAS SECRETARIAS DESTE\nMUNICIPIO"
+        ]
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 211689.77000000002,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 35,
+        "total_gasto": 1004589.53,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 8,
+        "total_gasto": 641695.9,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "2": {
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 512195.69999999995,
+        "top_3_empresas": [
+          "; ARMAZEM OLIVEIRA CONSTRUÇÃO E\nIRREGAÇÃO LTDA",
+          "Contratado;\nARMAZEM OLIVEIRA CONSTRUÇÃO E IRREGAÇÃO LTDA"
+        ],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 6,
+        "total_gasto": 1956141.26,
+        "top_3_empresas": [
+          "BASE MAQUINAS E\nIMPLEMENTOS AGRÍCOLAS LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MAQUINAS E\nEQUIPAMENTOSAGRÍCOLASDESTINADO\nAPREFEITURAMUNICIPAL POMBAL-PB CONFORME\nCONTRATO DO REPASSE Nº 0369340-09/2011/MDA/CAIXA"
+        ]
+      },
       "9": {
         "num_diarios": 22,
-        "num_contratos": 5,
-        "total_gasto": 283425.1,
+        "num_contratos": 11,
+        "total_gasto": 453733.1,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -106,7 +107,7 @@
         ]
       },
       "11": {
-        "num_diarios": 20,
+        "num_diarios": 17,
         "num_contratos": 4,
         "total_gasto": 48600.0,
         "top_3_empresas": [
@@ -138,14 +139,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 233,
-        "num_contratos": 254,
-        "total_gasto": 21979676.62999999
+        "num_diarios": 207,
+        "num_contratos": 251,
+        "total_gasto": 24272817.499999993
       },
       "2": {
-        "num_diarios": 16,
-        "num_contratos": 46,
-        "total_gasto": 2300704.65,
+        "num_diarios": 15,
+        "num_contratos": 44,
+        "total_gasto": 2784384.65,
         "top_3_empresas": [
           "AMTAP"
         ],
@@ -154,16 +155,16 @@
         ]
       },
       "3": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 13,
         "total_gasto": 1052423.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 17,
-        "num_contratos": 27,
-        "total_gasto": 2173322.5,
+        "num_diarios": 15,
+        "num_contratos": 30,
+        "total_gasto": 2541660.5,
         "top_3_empresas": [
           "CLAUDIA PATRICIA FERREIRA DOS SANTOS",
           "LENILDA DA SILVA ARAUJO DANTAS",
@@ -176,9 +177,9 @@
         ]
       },
       "5": {
-        "num_diarios": 19,
-        "num_contratos": 18,
-        "total_gasto": 2406967.25,
+        "num_diarios": 18,
+        "num_contratos": 20,
+        "total_gasto": 2567271.75,
         "top_3_empresas": [
           "VANILDA SOARES DA SILVA",
           "SOLO NETWORK BRASIL LTDA",
@@ -191,7 +192,7 @@
         ]
       },
       "6": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 40,
         "total_gasto": 5004074.140000001,
         "top_3_empresas": [
@@ -202,9 +203,9 @@
         ]
       },
       "7": {
-        "num_diarios": 21,
-        "num_contratos": 26,
-        "total_gasto": 2371779.35,
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 2906761.4299999997,
         "top_3_empresas": [
           "AVANDIR MONTEIRO\nNOBRE",
           "FRANCINALDO\nFAUTINO SOARES",
@@ -215,25 +216,25 @@
         ]
       },
       "8": {
-        "num_diarios": 20,
+        "num_diarios": 18,
         "num_contratos": 12,
-        "total_gasto": 844680.44,
+        "total_gasto": 1508374.78,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 20,
-        "num_contratos": 21,
-        "total_gasto": 1101924.78,
+        "num_diarios": 12,
+        "num_contratos": 18,
+        "total_gasto": 1013776.73,
         "top_3_empresas": [],
         "top_3_objetos": [
           "AQUISIÇÃO DE PEÇAS PARA TRATOR DE ESTEIRA\nNEW HOLLAND MODELO D.150 B, CHASSI\nHBZN150BLCAC000186"
         ]
       },
       "10": {
-        "num_diarios": 21,
-        "num_contratos": 24,
-        "total_gasto": 739366.33,
+        "num_diarios": 19,
+        "num_contratos": 25,
+        "total_gasto": 919366.3300000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -245,25 +246,25 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 22,
-        "num_contratos": 15,
-        "total_gasto": 2176983.79,
+        "num_diarios": 19,
+        "num_contratos": 13,
+        "total_gasto": 2167273.79,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2016": {
       "1": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 39,
         "total_gasto": 2593026.81,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 229,
-        "num_contratos": 242,
-        "total_gasto": 18823764.189999998
+        "num_diarios": 217,
+        "num_contratos": 224,
+        "total_gasto": 17816983.64
       },
       "2": {
         "num_diarios": 20,
@@ -290,7 +291,7 @@
         ]
       },
       "4": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 27,
         "total_gasto": 1110522.13,
         "top_3_empresas": [
@@ -305,8 +306,8 @@
       },
       "5": {
         "num_diarios": 20,
-        "num_contratos": 21,
-        "total_gasto": 2077411.78,
+        "num_contratos": 22,
+        "total_gasto": 2864651.78,
         "top_3_empresas": [
           "MARIA DO CARMO ELIDA\nDANTAS PEREIRA"
         ],
@@ -315,9 +316,9 @@
         ]
       },
       "6": {
-        "num_diarios": 18,
-        "num_contratos": 24,
-        "total_gasto": 927686.0,
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 890446.0,
         "top_3_empresas": [
           "CONSBRASIL",
           "KQL CONSTRUTORA EIRELE"
@@ -325,18 +326,18 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 20,
-        "num_contratos": 34,
-        "total_gasto": 1668441.52,
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 1422664.11,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 24,
         "total_gasto": 1968882.79,
         "top_3_empresas": [
-          "ALMEIDA NETO ADVOGADO ASSOCIADOS ,\ninscrita no",
+          "ALMEIDA NETO ADVOGADO ASSOCIADOS",
           ", 20%\ndo valor obtido no êxito da demanda , que está estimado em R$\n2.500.000,00 (dois milhões e quinhentos mil reais) de honorários ,\npagos quando lograr êxito.\nData de Assinatura: 30/08/2016\nVigência: O presente contrato terá vigência a partir da assinatura do\ncontrato e perdurará até o trânsito em julgado das demandas judiciais\ne /ou enquanto houver recursos /créditos a serem compensados\nadministrativamente junto a RFB.\n\nPublique-se,\n\nPombal"
         ],
         "top_3_objetos": [
@@ -344,14 +345,14 @@
         ]
       },
       "9": {
-        "num_diarios": 17,
-        "num_contratos": 7,
-        "total_gasto": 202252.5,
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 53500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 14,
+        "num_diarios": 11,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -359,15 +360,15 @@
       },
       "11": {
         "num_diarios": 19,
-        "num_contratos": 6,
-        "total_gasto": 152470.0,
+        "num_contratos": 7,
+        "total_gasto": 161470.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 20,
-        "num_contratos": 5,
-        "total_gasto": 1402357.5399999998,
+        "num_diarios": 19,
+        "num_contratos": 4,
+        "total_gasto": 31106.9,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -381,14 +382,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 216,
-        "num_contratos": 123,
-        "total_gasto": 13737860.079999996
+        "num_diarios": 210,
+        "num_contratos": 137,
+        "total_gasto": 14402631.219999997
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 6,
-        "total_gasto": 513601.0,
+        "num_contratos": 13,
+        "total_gasto": 1463632.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -400,21 +401,14 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 16,
-        "num_contratos": 9,
-        "total_gasto": 1551967.76,
-        "top_3_empresas": [
-          "CARLA REGINA DE ALMEIDA FREIRA",
-          "LAISE DE LIMA E SILVA",
-          "ODONTOMED COMERCIO DE PRODUTOS\nMEDICO HOSPITALARES LTDA ME"
-        ],
-        "top_3_objetos": [
-          "PRESTAÇÃO DE SERVIÇOS DE CONFECÇÕES DE\nPRÓTESES DENTÁRIAS TOTAIS E PARCIAIS, SUPERIORES\nE INFERIORES - (PRÓTESE TOTAL MANDICULAR /\nTOTAL MAXILAR / PARCIAL MANDICULAR REMOVIVEL\nE/OU PRÓTESES CORONÁRIAS / INTRARRADICULARES FIXAS / ADESIVAS (POR ELEMENTO)",
-          "AQUISIÇÃO PARCELADA DE MATERIAL\nODONTOLOGICO E INSUMOS PARA ATENDER AS UBS,\nCEO, E DEMAIS SETORES A CARGO DA SECRETARIA\nMUNICIPAL DE SAÚDE DO MUNICIPIO DE POMBAL"
-        ]
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 1085389.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 12,
         "total_gasto": 1802661.0,
         "top_3_empresas": [],
@@ -428,23 +422,23 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 12,
         "total_gasto": 1270328.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 22,
-        "num_contratos": 22,
-        "total_gasto": 2684580.3600000003,
+        "num_diarios": 21,
+        "num_contratos": 25,
+        "total_gasto": 2827199.2600000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 18,
-        "num_contratos": 12,
-        "total_gasto": 1666784.7799999998,
+        "num_contratos": 14,
+        "total_gasto": 1705484.7799999998,
         "top_3_empresas": [
           "ERIVANIO ELPIDIO BEZERRA",
           "CASA ALMEIDA IRRIGAÇÃO LTDA ME",
@@ -471,7 +465,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 18,
+        "num_diarios": 16,
         "num_contratos": 4,
         "total_gasto": 56498.0,
         "top_3_empresas": [],
@@ -480,7 +474,7 @@
     },
     "2018": {
       "1": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 21,
         "total_gasto": 3573974.85,
         "top_3_empresas": [
@@ -491,14 +485,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 222,
-        "num_contratos": 145,
-        "total_gasto": 12131419.379999995
+        "num_diarios": 218,
+        "num_contratos": 161,
+        "total_gasto": 17051390.019999992
       },
       "2": {
-        "num_diarios": 18,
-        "num_contratos": 18,
-        "total_gasto": 1510932.3900000001,
+        "num_diarios": 17,
+        "num_contratos": 19,
+        "total_gasto": 1506171.3900000001,
         "top_3_empresas": [
           "INECARDIO SERVIÇO DE DIAGNOSTICO MEDICO\nESPECIALIZADO LTDA",
           "OSEAS MARTINS FERREIRA"
@@ -510,8 +504,8 @@
       },
       "3": {
         "num_diarios": 19,
-        "num_contratos": 21,
-        "total_gasto": 2198713.41,
+        "num_contratos": 23,
+        "total_gasto": 2227101.41,
         "top_3_empresas": [
           "FRANCISCO RODRIGUES DOS SANTOS",
           "LEOCÁDIA FERREIRA DE ALMEIDA"
@@ -523,20 +517,20 @@
       },
       "4": {
         "num_diarios": 18,
-        "num_contratos": 10,
-        "total_gasto": 214589.95,
+        "num_contratos": 12,
+        "total_gasto": 1122277.45,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 16,
-        "num_contratos": 4,
-        "total_gasto": 47620.0,
+        "num_contratos": 5,
+        "total_gasto": 57620.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 8,
         "total_gasto": 1275608.0899999999,
         "top_3_empresas": [],
@@ -544,8 +538,8 @@
       },
       "7": {
         "num_diarios": 21,
-        "num_contratos": 16,
-        "total_gasto": 312520.57999999996,
+        "num_contratos": 17,
+        "total_gasto": 330520.57999999996,
         "top_3_empresas": [
           "LINCOLN DAVID FORMIGA MOURA",
           "JOSÉ MANOEL DA SILVA"
@@ -555,7 +549,7 @@
         ]
       },
       "8": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 11,
         "total_gasto": 149872.8,
         "top_3_empresas": [],
@@ -563,8 +557,8 @@
       },
       "9": {
         "num_diarios": 16,
-        "num_contratos": 9,
-        "total_gasto": 193042.5,
+        "num_contratos": 10,
+        "total_gasto": 1661042.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -581,8 +575,8 @@
       },
       "11": {
         "num_diarios": 19,
-        "num_contratos": 10,
-        "total_gasto": 2382143.3800000004,
+        "num_contratos": 18,
+        "total_gasto": 4874799.52,
         "top_3_empresas": [
           "JOÃO PAULO DE PAIVA TRIGUEIRO"
         ],
@@ -595,7 +589,7 @@
         "num_contratos": 5,
         "total_gasto": 54010.33,
         "top_3_empresas": [
-          "ROSSIVAL FARIAS DE ANDRADE\n\n07630000430"
+          "ROSSIVAL FARIAS DE ANDRADE"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO PARCELADA DE FOGOS DE\n\nARTIFÍCIOS, PARA ABRILHANTAR AS FESTIVIDADES DE\n\nREVEILLON/2019\n\n\n\nCONTRATO Nº 0407/2018\n\nCONTRATADA: ROSSIVAL FARIAS DE ANDRADE\n\n07630000430\n\nCNPJ: 19.112.081/0001-40\n\nPRAZO: 28/01/2019"
@@ -605,34 +599,34 @@
     "2019": {
       "1": {
         "num_diarios": 19,
-        "num_contratos": 9,
-        "total_gasto": 1620066.23,
+        "num_contratos": 12,
+        "total_gasto": 1853399.56,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 231,
-        "num_contratos": 145,
-        "total_gasto": 22682462.829999994
+        "num_diarios": 211,
+        "num_contratos": 135,
+        "total_gasto": 20774140.87
       },
       "2": {
         "num_diarios": 18,
-        "num_contratos": 8,
-        "total_gasto": 596519.6,
+        "num_contratos": 10,
+        "total_gasto": 636569.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 19,
-        "num_contratos": 17,
-        "total_gasto": 5556608.63,
+        "num_diarios": 18,
+        "num_contratos": 13,
+        "total_gasto": 5192587.03,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 19,
-        "num_contratos": 10,
-        "total_gasto": 2614331.75,
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 1203499.9100000001,
         "top_3_empresas": [
           "MERIANE ERICA AMBROZIO DOS SANTOS\n\nEVANGELISTA SERVICOS"
         ],
@@ -654,30 +648,36 @@
         ]
       },
       "6": {
-        "num_diarios": 17,
-        "num_contratos": 19,
-        "total_gasto": 1545460.55,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 13,
+        "num_contratos": 17,
+        "total_gasto": 1446001.6700000002,
+        "top_3_empresas": [
+          "ECO VIDA ENGENHARIA LTDA",
+          "ALEXANDRE LAURENTINO DA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA REALIZAÇÃO DE SERVIÇOS TOPOGRÁFICOS",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA LOCAÇÃO DE ESTRUTURA PARA EVENTOS E\nFESTAS TRADICIONAIS DO MUNICÍPIO DE POMBAL"
+        ]
       },
       "7": {
-        "num_diarios": 22,
-        "num_contratos": 26,
-        "total_gasto": 2200138.6999999997,
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 1878076.1999999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 21,
-        "num_contratos": 12,
-        "total_gasto": 1026970.0,
+        "num_diarios": 20,
+        "num_contratos": 8,
+        "total_gasto": 592775.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 20,
-        "num_contratos": 7,
-        "total_gasto": 2145110.8099999996,
+        "num_diarios": 19,
+        "num_contratos": 8,
+        "total_gasto": 2159341.8099999996,
         "top_3_empresas": [
           "CONSULTORIA E CONSTRUÇÕES SANTA\nLUZIA LTDA"
         ],
@@ -686,7 +686,7 @@
         ]
       },
       "10": {
-        "num_diarios": 18,
+        "num_diarios": 16,
         "num_contratos": 5,
         "total_gasto": 29144.0,
         "top_3_empresas": [],
@@ -700,37 +700,37 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 20,
+        "num_diarios": 18,
         "num_contratos": 14,
-        "total_gasto": 3472997.49,
+        "total_gasto": 3907631.02,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2020": {
       "1": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 14,
         "total_gasto": 2927399.85,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 231,
-        "num_contratos": 205,
-        "total_gasto": 30910106.790000003
+        "num_diarios": 224,
+        "num_contratos": 213,
+        "total_gasto": 30462498.41
       },
       "2": {
-        "num_diarios": 18,
-        "num_contratos": 35,
-        "total_gasto": 3457524.15,
+        "num_diarios": 16,
+        "num_contratos": 32,
+        "total_gasto": 2714125.6500000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 21,
-        "num_contratos": 37,
-        "total_gasto": 6369369.32,
+        "num_diarios": 19,
+        "num_contratos": 40,
+        "total_gasto": 6027013.97,
         "top_3_empresas": [
           "S DE A FERREIRA & CIA LTDA",
           "E. BERNARDO DE SOUZA"
@@ -742,8 +742,8 @@
       },
       "4": {
         "num_diarios": 20,
-        "num_contratos": 27,
-        "total_gasto": 3642019.5,
+        "num_contratos": 30,
+        "total_gasto": 3713829.5,
         "top_3_empresas": [
           "PAULO DE TARSO DE MEDEIROS\n\nUGULINO",
           "NNMED-DISTRIBUIÇÃO, IMPORTAÇÃO E\n\nEXPORTAÇÃO DE MEDICAMENTOS LTDA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 15",
@@ -785,7 +785,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 3,
         "total_gasto": 131310.34,
         "top_3_empresas": [
@@ -799,15 +799,15 @@
       },
       "9": {
         "num_diarios": 21,
-        "num_contratos": 7,
-        "total_gasto": 2142225.19,
+        "num_contratos": 9,
+        "total_gasto": 2431154.19,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 18,
-        "num_contratos": 13,
-        "total_gasto": 2176202.64,
+        "num_diarios": 17,
+        "num_contratos": 14,
+        "total_gasto": 2198674.64,
         "top_3_empresas": [],
         "top_3_objetos": [
           "AQUISIÇÃO, EM CARÁTER EMERGENCIAL, DE\nEPI´S PARA ENFRETAMENTO DA PANDEMIA COVID-19"
@@ -815,8 +815,8 @@
       },
       "11": {
         "num_diarios": 17,
-        "num_contratos": 3,
-        "total_gasto": 117069.98,
+        "num_contratos": 4,
+        "total_gasto": 295379.45,
         "top_3_empresas": [
           "RICARDO GOMES DA SILVA."
         ],
@@ -826,8 +826,8 @@
       },
       "12": {
         "num_diarios": 21,
-        "num_contratos": 16,
-        "total_gasto": 1086462.8,
+        "num_contratos": 17,
+        "total_gasto": 1163087.8,
         "top_3_empresas": [
           "WESLEY EMANUEL SOARES NOGUEIRA"
         ],
@@ -836,16 +836,16 @@
     },
     "2021": {
       "1": {
-        "num_diarios": 20,
-        "num_contratos": 16,
-        "total_gasto": 4364509.58,
+        "num_diarios": 19,
+        "num_contratos": 14,
+        "total_gasto": 4349412.58,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 244,
-        "num_contratos": 150,
-        "total_gasto": 37256519.53000001
+        "num_diarios": 230,
+        "num_contratos": 135,
+        "total_gasto": 31862807.380000006
       },
       "2": {
         "num_diarios": 19,
@@ -855,7 +855,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 16,
         "total_gasto": 9950344.329999998,
         "top_3_empresas": [],
@@ -876,9 +876,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 17,
-        "num_contratos": 10,
-        "total_gasto": 5430888.78,
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 2070288.78,
         "top_3_empresas": [
           "ANTONIO CEZAR LOPES UGULINO"
         ],
@@ -888,9 +888,9 @@
         ]
       },
       "7": {
-        "num_diarios": 21,
-        "num_contratos": 11,
-        "total_gasto": 4072953.47,
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 4024993.47,
         "top_3_empresas": [
           "VIDA BIOTECNOLOGIA LTDA",
           "WESLEY EMANUEL SOARES NOGUEIRA"
@@ -908,7 +908,7 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 21,
+        "num_diarios": 18,
         "num_contratos": 8,
         "total_gasto": 1924577.47,
         "top_3_empresas": [
@@ -921,23 +921,23 @@
         ]
       },
       "10": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 6,
         "total_gasto": 151828.83,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 20,
-        "num_contratos": 9,
-        "total_gasto": 570379.76,
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 435783.42000000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 23,
-        "num_contratos": 13,
-        "total_gasto": 2192132.51,
+        "num_diarios": 21,
+        "num_contratos": 7,
+        "total_gasto": 356673.7,
         "top_3_empresas": [
           "O TAMBORIM DE OURO EIRELI"
         ],
@@ -955,32 +955,32 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 238,
-        "num_contratos": 147,
-        "total_gasto": 33209454.000000007
+        "num_diarios": 226,
+        "num_contratos": 142,
+        "total_gasto": 29238033.840000004
       },
       "2": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 7,
         "total_gasto": 735190.48,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 23,
-        "num_contratos": 16,
-        "total_gasto": 9255024.879999999,
+        "num_diarios": 21,
+        "num_contratos": 13,
+        "total_gasto": 6609530.88,
         "top_3_empresas": [
-          "ALISSON DA COSTA PEREIRA 11026234409"
+          "ALISSON DA COSTA PEREIRA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS RELACIONADOS A\n\nINSTALAÇÃO, MANUTENÇÃO E REPAROS DE AR\n\nCONDICIONADO"
         ]
       },
       "4": {
-        "num_diarios": 19,
-        "num_contratos": 18,
-        "total_gasto": 3372448.6500000004,
+        "num_diarios": 18,
+        "num_contratos": 17,
+        "total_gasto": 3345354.45,
         "top_3_empresas": [
           "TIAGO FERNANDES BARBOSA"
         ],
@@ -989,16 +989,16 @@
         ]
       },
       "5": {
-        "num_diarios": 22,
-        "num_contratos": 11,
-        "total_gasto": 1001576.38,
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 701576.38,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 18,
-        "num_contratos": 15,
-        "total_gasto": 910602.5300000001,
+        "num_diarios": 17,
+        "num_contratos": 14,
+        "total_gasto": 909302.5300000001,
         "top_3_empresas": [
           "José Nilson Silva de Assis"
         ],
@@ -1040,7 +1040,7 @@
         ]
       },
       "10": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 8,
         "total_gasto": 3450514.48,
         "top_3_empresas": [
@@ -1053,9 +1053,9 @@
         ]
       },
       "11": {
-        "num_diarios": 19,
-        "num_contratos": 5,
-        "total_gasto": 981328.06,
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 1041796.1000000001,
         "top_3_empresas": [
           "PREMOL INDÚSTRIA E COMÉRCIO DE\n\nPREMOLDADOS LTDA",
           "FORMIGA E FREITAS CONSTRUÇÕES E\n\nSERVIÇOS LTDA"
@@ -1066,25 +1066,29 @@
         ]
       },
       "12": {
-        "num_diarios": 21,
-        "num_contratos": 8,
-        "total_gasto": 4958024.35,
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 3900024.35,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 21,
-        "num_contratos": 13,
-        "total_gasto": 4037581.0900000003,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_diarios": 20,
+        "num_contratos": 14,
+        "total_gasto": 4076581.0900000003,
+        "top_3_empresas": [
+          "RENATO\nEDUARDO MARQUES ASSESSORIA E CONSULTORIA"
+        ],
+        "top_3_objetos": [
+          "Contratação de serviços técnicos especializados em\nConsultoria em licitação, à Comissão Permanente de Licitação e\nórgãos da administração em todas suas fases seguindo tanto a Lei\n8.666/16, quanto a 14.133/21 e ainda no uso de sistemas e softwares\npara elaboração, condução e gerenciamento e transparência de\nprocedimentos licitatórios, presencialeeletrônico e ainda elaboração\nrelatórios de diligências realizados pela comissão com base em dados\nfornecidos por ela"
+        ]
       },
       "resumo": {
-        "num_diarios": 253,
-        "num_contratos": 127,
-        "total_gasto": 32897278.310000002
+        "num_diarios": 218,
+        "num_contratos": 114,
+        "total_gasto": 26372586.940000005
       },
       "2": {
         "num_diarios": 17,
@@ -1098,9 +1102,9 @@
         ]
       },
       "3": {
-        "num_diarios": 23,
-        "num_contratos": 7,
-        "total_gasto": 4019406.27,
+        "num_diarios": 21,
+        "num_contratos": 6,
+        "total_gasto": 1388006.27,
         "top_3_empresas": [
           "MODELLINA INDÚSTRIA E COMÉRCIO DE\n\nCONFECÇÕES LTDA",
           "HIPER REAL HIPERMERCADO LTDA"
@@ -1111,9 +1115,9 @@
         ]
       },
       "4": {
-        "num_diarios": 18,
-        "num_contratos": 9,
-        "total_gasto": 4260144.71,
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 4137552.4399999995,
         "top_3_empresas": [
           "CENTER LUZ SERVICOS E COMERCIO DE\n\nMATERIAL ELETRICO LTDA"
         ],
@@ -1122,23 +1126,23 @@
         ]
       },
       "5": {
-        "num_diarios": 22,
-        "num_contratos": 12,
-        "total_gasto": 4752931.95,
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1255650.12,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 17,
-        "num_contratos": 6,
-        "total_gasto": 1430352.05,
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 1426072.05,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 19,
-        "num_contratos": 30,
-        "total_gasto": 680737.2699999999,
+        "num_diarios": 14,
+        "num_contratos": 28,
+        "total_gasto": 584237.2699999999,
         "top_3_empresas": [
           "LOJAS MARTINS LTDA"
         ],
@@ -1147,37 +1151,37 @@
         ]
       },
       "8": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 8,
         "total_gasto": 1634989.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 22,
-        "num_contratos": 4,
-        "total_gasto": 2154528.1799999997,
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 2140878.1799999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 21,
-        "num_contratos": 3,
-        "total_gasto": 165032.26,
+        "num_diarios": 18,
+        "num_contratos": 2,
+        "total_gasto": 162100.26,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 24,
+        "num_diarios": 23,
         "num_contratos": 8,
         "total_gasto": 112155.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 26,
-        "num_contratos": 10,
-        "total_gasto": 1821264.4900000002,
+        "num_diarios": 23,
+        "num_contratos": 7,
+        "total_gasto": 1626209.22,
         "top_3_empresas": [
           "RUBENS CASTILHO NUNES DINIZ JUNIOR\nME"
         ],
@@ -1203,9 +1207,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 271,
-        "num_contratos": 94,
-        "total_gasto": 30822862.540000003
+        "num_diarios": 257,
+        "num_contratos": 107,
+        "total_gasto": 28536654.17
       },
       "2": {
         "num_diarios": 19,
@@ -1215,7 +1219,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 22,
+        "num_diarios": 21,
         "num_contratos": 2,
         "total_gasto": 546600.76,
         "top_3_empresas": [
@@ -1228,18 +1232,18 @@
         ]
       },
       "4": {
-        "num_diarios": 23,
-        "num_contratos": 13,
-        "total_gasto": 2047599.47,
+        "num_diarios": 22,
+        "num_contratos": 15,
+        "total_gasto": 2587599.4699999997,
         "top_3_empresas": [
           "(a) em unidade pública de\n\neducação municipal, por prazo determinado, tendo em vista a\n\nexistência de vaga e a ausência de concurso público/processo seletivo\nvigente, até que seja realizado o referido certame, circunstância essa\n\ncom previsão na legislação municipal.\n\nFundamento Legal Art. 2º, inc. XII da LM nº 1084/2001 e alt post.\n\nValor Mensal 4.474,09\nDuração do Contrato 06 meses\n\nData Início"
         ],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 23,
-        "num_contratos": 8,
-        "total_gasto": 2420342.0,
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 2376550.0,
         "top_3_empresas": [
           "FRANCILEIDE GOMES DE ALMEIDA",
           "JOAO VYCTOR FERNANDES DE FREITAS",
@@ -1263,23 +1267,23 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 24,
-        "num_contratos": 12,
-        "total_gasto": 7230465.16,
+        "num_diarios": 22,
+        "num_contratos": 10,
+        "total_gasto": 2973735.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 20,
-        "num_contratos": 1,
-        "total_gasto": 66500.0,
+        "num_diarios": 19,
+        "num_contratos": 18,
+        "total_gasto": 1609613.18,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 20,
-        "num_contratos": 5,
-        "total_gasto": 596113.21,
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 540913.6599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1298,9 +1302,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 29,
-        "num_contratos": 3,
-        "total_gasto": 423115.39,
+        "num_diarios": 28,
+        "num_contratos": 2,
+        "total_gasto": 409515.39,
         "top_3_empresas": [
           "ULISSES CAVALCANTE SOARES NETO\n\nGRAFITTE"
         ],
@@ -1311,22 +1315,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 2608,
-    "num_contratos": 1789,
-    "total_gasto": 263155484.25,
+    "num_diarios": 2453,
+    "num_contratos": 1777,
+    "total_gasto": "250.043.930,72",
     "top_5_empresas": {
       "JOSE FREITAS": 2,
       "OSEAS MARTINS FERREIRA": 2,
       "WESLEY EMANUEL SOARES NOGUEIRA": 2,
-      "RIO VALE AUTOMOTORES LTDA": 1,
-      "RADAMES DUARTE\nALVES": 1
+      "FRANCISCO CRISTIANO SOARES MACEDO": 1,
+      "Sr. ALBERTO BANDEIRA SEGUNDO": 1
     },
     "top_5_objetos": {
-      "AQUISIÇÃO DE UM(1) VEICULO 0KM DESTINADO A\nSECRETARIA DE INFRESTRUTURA DESTE MUNICIPIO DE\nPOMBAL-PB": 1,
-      "CONTRATAÇÃO DE EMPRESA OU PESSOA FISICA\nPARA LOCAÇÃO DE (01) UM GEREDOR DE ENERGIA\nELETRICA PARA UPA(UNIDADE DE PONTO ATENDIMENTO)\nDESTE MUNICIPIO": 1,
-      "LOCAÇÃO DE UM VEICULO DESTINADO A\nMANUTENÇÃO DA SECRETARIA DO MEIO AMBIENTE\nDESTE MUNICIPIO": 1,
-      "CONTRATAÇÃO DE PROFISSIONAIS HABILITADOS\nPARA EXECUTAR OFICINAIS DE TINTURA EM TECIDO E EM\nTELA, BORDADO": 1,
-      "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO MÉDICO ESPECIALISTA, INTERESSADO EM\nPARTICIPAR DE FORMA COMPLEMENTAR PARA ATUAR\nJUNTO A SECRETARIA DE SAÚDE DO MUNICÍPIO DE\nPOMBAL –PB": 1
+      "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇO MÉDICO ESPECIALISTA, INTERESSADO EM\nPARTICIPAR DE FORMA COMPLEMENTAR PARA ATUAR\nJUNTO A SECRETARIA DE SAÚDE DO MUNICÍPIO DE\nPOMBAL –PB": 1,
+      "CONTRATAÇÃO DE PESSOA JURIDICA PARA A\nLOCAÇÃO DE VEICULOS PARA TRANSPORTAR ALUNOS\nDA REDE MUNICIPAL DE EDUCAÇÃO DA PREFEITURA\nDE POMBAL-PB": 1,
+      "Constitui objeto do presente instrumento, a mudança de\ninstalação de funcionamento do PRO JOVEM ADOLESCENTE,\npara a partir desta data, ter funcionamento o CONSELHO\nTUTELAR, para atender as conveniências da Prefeitura\nMunicipal, com base nas Leis Federais nº 8.666, de 21 de Junho de\n1993, e nº 8.958, de 20 de Dezembro de 1994": 1,
+      "CONTRATAÇÃO DE EMPRESA OU PESSOA FISICA\nPARA PRESTAÇÃO DE SERVIÇOS DIVERSOS PARA\nATENDER A DEMANDA DE DIVERSAS SECRETARIAS DESTE\nMUNICIPIO": 1,
+      "AQUISIÇÃO DE MAQUINAS E\nEQUIPAMENTOSAGRÍCOLASDESTINADO\nAPREFEITURAMUNICIPAL POMBAL-PB CONFORME\nCONTRATO DO REPASSE Nº 0369340-09/2011/MDA/CAIXA": 1
     }
   }
 }

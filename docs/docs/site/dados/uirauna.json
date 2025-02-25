@@ -36,7 +36,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 192,
+        "num_diarios": 188,
         "num_contratos": 36,
         "total_gasto": 7903265.3
       },
@@ -55,7 +55,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 17,
+        "num_diarios": 15,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -104,7 +104,7 @@
         ]
       },
       "9": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 6,
         "total_gasto": 332828.0,
         "top_3_empresas": [],
@@ -118,7 +118,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -141,9 +141,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 199,
-        "num_contratos": 214,
-        "total_gasto": 20567766.810000002
+        "num_diarios": 198,
+        "num_contratos": 212,
+        "total_gasto": 20238441.630000003
       },
       "2": {
         "num_diarios": 15,
@@ -153,19 +153,11 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 14,
-        "num_contratos": 3,
-        "total_gasto": 383557.96,
-        "top_3_empresas": [
-          "CONSTRUTORA DOIS IRMÃOS",
-          "JAQUELINE\n\nFERREIRA AQUINO",
-          "JAQUELINE FERREIRA AQUINO"
-        ],
-        "top_3_objetos": [
-          "Contratação de empresa para execução de serviço de\n\nGrades Metálicas nas janelas da UBS Centro e Garrafão com\n\nconstrução da base do muro da UBS do Garrafão no Município de\n\nUiraúna",
-          "Fornecimento parcelado e diário de Material de Expediente,\n\ndestinados às atividades das secretarias deste município/PB",
-          "Aquisição de Material Escolar, destinado a Secretaria de\n\nEducação do Município de Uiraúna - PB"
-        ]
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 54232.78,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "4": {
         "num_diarios": 17,
@@ -256,9 +248,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 182,
-        "num_contratos": 283,
-        "total_gasto": 31357944.220000003
+        "num_diarios": 180,
+        "num_contratos": 279,
+        "total_gasto": 31125110.220000003
       },
       "2": {
         "num_diarios": 16,
@@ -282,16 +274,16 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 13,
         "total_gasto": 1146178.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 13,
-        "num_contratos": 4,
-        "total_gasto": 342734.0,
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 315000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -343,15 +335,15 @@
       },
       "12": {
         "num_diarios": 21,
-        "num_contratos": 25,
-        "total_gasto": 1776421.0,
+        "num_contratos": 22,
+        "total_gasto": 1571321.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2021": {
       "1": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 4,
         "total_gasto": 928840.0,
         "top_3_empresas": [
@@ -362,14 +354,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 220,
-        "num_contratos": 348,
-        "total_gasto": 38269840.739999995
+        "num_diarios": 216,
+        "num_contratos": 345,
+        "total_gasto": 38213428.739999995
       },
       "2": {
         "num_diarios": 19,
-        "num_contratos": 13,
-        "total_gasto": 999868.0,
+        "num_contratos": 15,
+        "total_gasto": 1077868.0,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Registro de Preço para aquisição de suprimentos alimentares,\nhigiene e higiene pessoal destinado atendimento às famílias e aos\nindivíduos em situação de vulnerabilidade e risco social decorrente do\nCOVID-19, para atender o Serviço de Acolhimento Institucional e em\natendimento no Serviço de Proteção Social Especial para Pessoas com\nDeficiência, Idosas e suas Famílias do município de Uiraúna"
@@ -397,7 +389,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 20,
+        "num_diarios": 19,
         "num_contratos": 71,
         "total_gasto": 6886860.0600000005,
         "top_3_empresas": [],
@@ -437,8 +429,8 @@
       },
       "10": {
         "num_diarios": 16,
-        "num_contratos": 36,
-        "total_gasto": 4293092.13,
+        "num_contratos": 38,
+        "total_gasto": 4308092.13,
         "top_3_empresas": [
           "CS - CASA SOARES - DEUSDETE SOARES DA\n\nSILVA",
           "FRANCISCO ROCHA DANTAS ME",
@@ -451,20 +443,21 @@
         ]
       },
       "11": {
-        "num_diarios": 16,
-        "num_contratos": 24,
-        "total_gasto": 1446711.54,
+        "num_diarios": 14,
+        "num_contratos": 16,
+        "total_gasto": 1266599.54,
         "top_3_empresas": [
-          "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLELEKA PRODUÇÕES E LOCAÇÕES EIRELI ME"
+          "RODOAP CALDERARIA INDUSTRIAL LTDA"
         ],
         "top_3_objetos": [
-          "CONTRATAÇÃO DIRETA DE EMPRESA\n\nESPECIALIZADA PARA LOCAÇÃO DE PALCO E SOM\n\nRELATIVO A ESTRUTURA FÍSICA DA FESTA DE\n\nEMANCIPAÇÃO POLÍTICA DO MUNICÍPIO DE UIRAÚNA-PB"
+          "REGISTRO DE PREÇO PARA AQUISIÇÃO DE UMA\n\nCARROCERIA TIPO BAÚ TÉRMICO DESTINADO À\n\nPREFEITURA MUNICIPAL DE UIRAÚNA-PB",
+          "O objeto da presente licitação consiste na aquisição de\n\nmaterial de construção para suprir as necessidades da Câmara\n\nMunicipal de Uiraúna, conforme especificações constantes no edital,\n\nconforme especificações constantes no Termo de Referência Anexo I"
         ]
       },
       "12": {
         "num_diarios": 18,
-        "num_contratos": 10,
-        "total_gasto": 1128176.7000000002,
+        "num_contratos": 11,
+        "total_gasto": 1158876.7000000002,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -472,20 +465,20 @@
     "2022": {
       "1": {
         "num_diarios": 18,
-        "num_contratos": 10,
-        "total_gasto": 2820502.41,
+        "num_contratos": 11,
+        "total_gasto": 2853502.41,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 213,
-        "num_contratos": 259,
-        "total_gasto": 114397133.04999998
+        "num_diarios": 207,
+        "num_contratos": 324,
+        "total_gasto": 116083218.93999998
       },
       "2": {
-        "num_diarios": 18,
-        "num_contratos": 37,
-        "total_gasto": 15776583.3,
+        "num_diarios": 17,
+        "num_contratos": 39,
+        "total_gasto": 15796073.3,
         "top_3_empresas": [
           "DI DINAH COMERCIO DE ROUPAS EIRELI",
           "J DE FONTE RANGEL EIRELI"
@@ -498,8 +491,8 @@
       },
       "3": {
         "num_diarios": 19,
-        "num_contratos": 37,
-        "total_gasto": 15515425.02,
+        "num_contratos": 44,
+        "total_gasto": 15719240.02,
         "top_3_empresas": [
           "FARMÁCIA BOM JESUS",
           "FARMÁCIA 1º DE MAIO",
@@ -511,9 +504,9 @@
         ]
       },
       "4": {
-        "num_diarios": 17,
-        "num_contratos": 52,
-        "total_gasto": 16890497.29,
+        "num_diarios": 16,
+        "num_contratos": 60,
+        "total_gasto": 17403997.529999997,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nSUZANY SOBREIRA DE ANDRADE SILVA",
           "NOBREGA & ASSIS SERVIÇOS DE\n\nENGENHARIA LTDA-ME"
@@ -525,15 +518,15 @@
       },
       "5": {
         "num_diarios": 18,
-        "num_contratos": 26,
-        "total_gasto": 32107687.84,
+        "num_contratos": 34,
+        "total_gasto": 32297350.84,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 18,
-        "num_contratos": 15,
-        "total_gasto": 13340987.68,
+        "num_diarios": 17,
+        "num_contratos": 23,
+        "total_gasto": 13420372.2,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nIUCARA CRISTINA ALVES DE OLIVEIRA",
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nJULIO CLOVES BRASIL VIEIRA",
@@ -547,8 +540,8 @@
       },
       "7": {
         "num_diarios": 20,
-        "num_contratos": 21,
-        "total_gasto": 6286080.6,
+        "num_contratos": 31,
+        "total_gasto": 6474821.0,
         "top_3_empresas": [
           "LUCAS ART‟S BRINDES PERSONALIZADOS"
         ],
@@ -558,8 +551,8 @@
       },
       "8": {
         "num_diarios": 20,
-        "num_contratos": 21,
-        "total_gasto": 1289210.35,
+        "num_contratos": 26,
+        "total_gasto": 1352434.0,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nMN TECNOLOGIA E TREINAMENTO LTDA"
         ],
@@ -569,22 +562,22 @@
       },
       "9": {
         "num_diarios": 18,
-        "num_contratos": 2,
-        "total_gasto": 820892.58,
+        "num_contratos": 7,
+        "total_gasto": 956255.58,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 18,
-        "num_contratos": 16,
-        "total_gasto": 5929043.98,
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 5978454.58,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 13,
-        "num_contratos": 7,
-        "total_gasto": 188775.0,
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 257220.0,
         "top_3_empresas": [
           "ACM"
         ],
@@ -594,17 +587,17 @@
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 15,
-        "total_gasto": 3431447.0,
+        "num_contratos": 18,
+        "total_gasto": 3573497.48,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
-        "num_diarios": 21,
-        "num_contratos": 6,
-        "total_gasto": 1374995.83,
+        "num_diarios": 20,
+        "num_contratos": 10,
+        "total_gasto": 1440274.83,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nCARLOS ALBERTO FIGUEIREDO BARBOSA"
         ],
@@ -613,14 +606,14 @@
         ]
       },
       "resumo": {
-        "num_diarios": 218,
-        "num_contratos": 531,
-        "total_gasto": 191025604.39000005
+        "num_diarios": 214,
+        "num_contratos": 589,
+        "total_gasto": 191832679.55000004
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 22,
-        "total_gasto": 6457194.3100000005,
+        "num_contratos": 35,
+        "total_gasto": 6822082.31,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nLUTTY COMERCIO DE GAS LTDA",
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\nROMUALDO DE ALMEIDA BRAGA",
@@ -633,16 +626,16 @@
         ]
       },
       "3": {
-        "num_diarios": 20,
-        "num_contratos": 17,
-        "total_gasto": 13335295.27,
+        "num_diarios": 19,
+        "num_contratos": 24,
+        "total_gasto": 13473846.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 17,
-        "num_contratos": 28,
-        "total_gasto": 9473257.25,
+        "num_contratos": 36,
+        "total_gasto": 9622194.25,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nA CAMPONESA FARMACIA VETERINARIA EIRELI",
           "GILVAN MOREIRA DUARTE JUNIOR",
@@ -656,8 +649,8 @@
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 99,
-        "total_gasto": 52424787.73,
+        "num_contratos": 100,
+        "total_gasto": 52441407.73,
         "top_3_empresas": [
           "2L ENGENHARIA E PROJETOS LTDA -\nR$ 461.460,00\n\nUiraúna",
           "FRANCISCO AURIAN RIBEIRO",
@@ -671,15 +664,15 @@
       },
       "6": {
         "num_diarios": 18,
-        "num_contratos": 46,
-        "total_gasto": 12524722.82,
+        "num_contratos": 52,
+        "total_gasto": 12630541.82,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 19,
-        "num_contratos": 35,
-        "total_gasto": 17423281.74,
+        "num_contratos": 46,
+        "total_gasto": 18717709.36,
         "top_3_empresas": [
           "S: Prefeitura Municipal de Uiraúna-PB e a empresa\n\nODINILDO QUEIROGA DE SOUSA ME"
         ],
@@ -689,16 +682,16 @@
         ]
       },
       "8": {
-        "num_diarios": 19,
-        "num_contratos": 68,
-        "total_gasto": 15442811.049999999,
+        "num_diarios": 18,
+        "num_contratos": 67,
+        "total_gasto": 13960996.129999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 15,
-        "num_contratos": 67,
-        "total_gasto": 15822516.82,
+        "num_diarios": 14,
+        "num_contratos": 69,
+        "total_gasto": 15849766.82,
         "top_3_empresas": [
           "M F A CAVALCANTI\nENGENHARIA"
         ],
@@ -708,8 +701,8 @@
       },
       "10": {
         "num_diarios": 17,
-        "num_contratos": 40,
-        "total_gasto": 7392710.95,
+        "num_contratos": 43,
+        "total_gasto": 7451270.95,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de serviço técnico especializados de\n\nengenheiro para promover a realização do projeto básico e executivo,\n\ncom todo detalhamento, para 2ª fase de reforma e adequação do\n\nprédio onde funciona a Câmara Municipal"
@@ -717,8 +710,8 @@
       },
       "11": {
         "num_diarios": 21,
-        "num_contratos": 35,
-        "total_gasto": 27643647.579999994,
+        "num_contratos": 39,
+        "total_gasto": 27712206.079999994,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -741,20 +734,20 @@
     "2024": {
       "1": {
         "num_diarios": 21,
-        "num_contratos": 27,
-        "total_gasto": 6638123.82,
+        "num_contratos": 28,
+        "total_gasto": 6644873.82,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 226,
-        "num_contratos": 444,
-        "total_gasto": 164163270.83
+        "num_diarios": 225,
+        "num_contratos": 446,
+        "total_gasto": 164220020.83
       },
       "2": {
         "num_diarios": 17,
-        "num_contratos": 18,
-        "total_gasto": 2216590.0,
+        "num_contratos": 19,
+        "total_gasto": 2266590.0,
         "top_3_empresas": [
           ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Uirauna e: CT Nº\n\n00066/2023 - Motiva Construcoes e Servicos Ltda",
           "MARCOS OLIVEIRA\n\nCONTABILIDADE CONSULTORIA E ASSESSORIA LTDA",
@@ -802,7 +795,7 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 21,
+        "num_diarios": 20,
         "num_contratos": 18,
         "total_gasto": 7867474.91,
         "top_3_empresas": [
@@ -864,9 +857,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 1466,
-    "num_contratos": 2117,
-    "total_gasto": 568830738.13,
+    "num_diarios": 1444,
+    "num_contratos": 2233,
+    "total_gasto": "570.762.078,00",
     "top_5_empresas": {
       "SERV DE APOIO AS MICRO E PEQ EMP DA PARAIBA SEBRAE\nPB": 1,
       "J. ALENCAR CIA": 1,

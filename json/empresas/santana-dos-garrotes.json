@@ -1,0 +1,648 @@
+{
+  "id": "santana-dos-garrotes",
+  "nome": "Santana Dos Garrotes",
+  "detalhe": {
+    "2021": {
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 41864.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 60,
+        "num_contratos": 45,
+        "total_gasto": 5505997.82
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução dos serviços da manutenção de diversas ruas na\ncidade para festa de Nossa Senhora de Santana, localizadas no\nmunicípio de Santana dos Garrotes/PB, dentro dos prazos e normas da\nLei nº 8.666/93 de 21/06/1993 e suas alterações posteriores",
+            "empresa": "DEL ENGENHARIA EIRELI ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 236897.99,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução dos serviços da Reforma da Escola Municipal\n\nSinharinha de Azevedo, localizada no município de Santana dos\n\nGarrotes/PB, dentro dos prazos e normas da Lei nº 8.666/93 de\n\n21/06/1993 e suas alterações posteriores",
+            "empresa": "MENDES E FERREIRA CONSTRUÇÕES\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O presente contrato tem por objetivo a Execução dos\n\nserviços da Reforma da Escola Municipal do Ensino Infantil e\n\nFundamental JULIO LAURINDO DE ALMEIDA localizada no\n\nmunicípio de Santana dos Garrotes/PB, dentro dos prazos e normas da\n\nLei nº 8.666/93 de 21/06/1993 e suas alterações posteriores",
+            "empresa": "CONSTRUTORA DAKI EIRELI",
+            "valor_total": "R$ 86,608.49"
+          },
+          {
+            "objeto": "Prorrogação do prazo de contratação de empresa\n\nespecializada para realização de oficinas de cursos e prestação de\n\nserviços de capacitações e treinamentos para os servidores municipais\n\nde saúde, na Implantação do Programa Educação em Saúde Ambiental\n\nem MHCDC: Educando para a Melhoria da saúde da população na\n\nredução das causas de adoecimento e redução dos riscos de infestação\n\npor triatomíneos nas comunidades rurais do município de Santana dos\n\nGarrotes/PB, nos termos da Lei Federal nº 10.520, de 17/01/2002,\n\nDecreto Federal nº 3.555, de 08/08/2000, Lei Complementar 123, de\n\n14 de dezembro de 2006, aplicando-se, subsidiariamente, no couber, a\n\nLei 8.666, de 21/06/93, com suas alterações posteriores",
+            "empresa": "VALDILENY DANTAS DE MEDEIROS\n\nGOMES",
+            "valor_total": "R$ 150,289.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 17,
+        "total_gasto": 1679770.67,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de material de expediente e consumo\nem geral, destinados a todos os órgãos e secretarias, do município de\nSantana dos Garrotes/PB, com vigência até dia 31 de Dezembro de\n2021, obedecendo às disposições da Lei Federal nº 10.520 de\n17/01/2002; Decreto Federal nº 3.555, de 08/08/2000; Lei\nComplementar 123, de 14 de dezembro de 2006, aplicando-se\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 23\n\n\nsubsidiariamente, no couber, a Lei 8.666, de 21/06/93, com suas\nalterações posteriores",
+            "empresa": "FRANCISCO FLORENTINO DE SOUZA -\nME / MIQUEIAS CENTER",
+            "valor_total": "R$ 189,545.00"
+          },
+          {
+            "objeto": "Contratação de serviços para recarga de tonner e\ncartuchos, destinados às todas as secretarias do Município de Santana\ndos Garrotes- PB, com vigência até dia 31 de Dezembro de 2021,\nobedecendo às disposições da Lei Federal nº 10.520 de 17/01/2002;\nDecreto Federal nº 3.555, de 08/08/2000; Lei Complementar 123, de\n14 de dezembro de 2006, aplicando-se subsidiariamente, no couber, a\nLei 8.666, de 21/06/93, com suas alterações posteriores",
+            "empresa": "EVALDO FERREIRA DE ALBUQUERQUE",
+            "valor_total": "R$ 16,240.00"
+          },
+          {
+            "objeto": "Contratação de consultoria jurídica especializada para\nauxiliar a secretária de educação do município de Santana dos\nGarrotes-PB, no tocante as exigências do novo FUNDEB, a Lei\n14.113/2020, tais como, elaboração de projetos de lei; planejamento\ndos recursos do VAAT, orientação a correta aplicação dos índices\nconstitucionais, acompanhamento junto ao FNDE, e, demais ações\njurídico administrativas que se fizerem necessárias",
+            "empresa": "EMPRESA ALVES MOREIRA SOCIEDADE\nINDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1337049.5099999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução dos serviços das Reforma da Escola Municipal\n\ndo Ensino Infantil e Fundamental PE ANCHIETA localizada no\n\nmunicípio de Santana dos Garrotes/PB, dentro dos prazos e normas da\n\nLei nº 8.666/93 de 21/06/1993 e suas alterações posteriores",
+            "empresa": "CONSTRUTORA DAKI EIRELI",
+            "valor_total": "R$ 127,614.21"
+          },
+          {
+            "objeto": "Execução dos serviços da Reforma da Escola Municipal\n\nSinharinha de Azevedo, localizada no município de Santana dos\n\nGarrotes/PB, dentro dos prazos e normas da Lei nº 8.666/93 de\n\n21/06/1993 e suas alterações posteriores",
+            "empresa": "MENDES E FERREIRA CONSTRUÇÕES LTDA\n\n– ME",
+            "valor_total": "R$ 168,330.11"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 775774.1199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de profissional ou empresa especializada para\n\nexecução de serviços de formações/palestras/orientações com uso de\n\nprotocolo para volta às aulas pós-pandemia do coronavírus, tendo\n\ncomo público alvo: profissionais da educação - professores, auxiliares\n\nde serviços gerais, vigilantes, coordenadores, merendeiras/ auxiliares\n\nde cozinha, que obedecerá às disposições do art",
+            "empresa": "RONIEVONDE OLIVEIRA FELIX ME -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 659475.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para fornecimento\nContratação visando aquisição de veículos automotores,\ndestinados a atender as necessidades do município de Santana dos\nGarrotes/PB, que obedecerá às disposições de Lei Federal nº 10.520,\nde 17/01/2002, Decreto Federal nº 3.555, de 08/08/2000, Lei\nComplementar 123, de 14 de dezembro de 2006, aplicando-se,\nsubsidiariamente no couber a Lei 8.666, de 21/06/93, com suas\nalterações posteriores",
+            "empresa": "COPAUTO COMERCIO PATOENSE DE\nAUTOMOTORES LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 775166.09,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Máquinas agrícolas com tração 4x4, com\ngrade de no mínimo 14 (Quatorze) discos, para o corte de terras com\nestimativa de 150 (Cento e cinquenta) horas, beneficiando os\npequenos produtores rurais do Município de Santana dos Garrotes –\nPB, incluindo operador, combustível, transporte e manutenção total da\nmáquina, durante o período que houver demanda apresentada pelo\nmunicípio, poderá ser solicitado pelo município o uso de mais uma\nmáquina acompanhada de grade aradora, obedecidas as configurações\nmínimas aqui exigidas, que obedecerá às disposições do art",
+            "empresa": "N & R LOCAÇÃO DE VEÍCULOS\nCONSULTORIA AMBIENTAL E REPRESENTAÇÕES EIRELI\n–",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 869788.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento parcelado de peças junto ao mercado\n\nparalelo e contratação de serviços técnicos especializados de mecânica\n\nem geral, destinados a veículos oficiais diversos da Prefeitura\n\nMunicipal de Santana dos Garrotes/PB, obedecidas as configurações\n\nmínimas aqui exigidas, que obedecerá às disposições do art",
+            "empresa": "FRANCISCO RAIMUNDO FILHO",
+            "valor_total": "R$ 26,400.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecer (aluguel) Software\n\nde Controle de Combustível 100% WEB, com integração no posto de\n\nCombustível licitado (contratado), bem como acesso na nossa\n\nsecretaria de Controle Interno, comunicando simultaneamente, com\n\nvista a disponibilizar a entidade pública mecanismos de controle para\n\nprevenção de erros, fraudes e desperdícios, trazendo benefícios e o\n\ncorreto atendimento a população do município de Santana dos\n\nGarrotes – PB, em conformidade com o Artigo 24', inciso II, da Lei\n\n8.666, de 21 de junho de 1993 e suas alterações posteriores",
+            "empresa": "MIKAEL CRISPIM VIEIRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 133,
+        "num_contratos": 77,
+        "total_gasto": 17917982.45
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 8,
+        "total_gasto": 430259.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 1543621.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 980235.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 200765.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada no fornecimento de\n\ntendas feiras para acomodar os feirantes beneficiários da agricultura\n\nfamiliar rural",
+            "empresa": "ALL IN\n\nEMPREENDIMENTOS & CONSTRUCOES EIRELI",
+            "valor_total": "R$ 8,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 3956928.86,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 2732760.41,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de uma VAN OKM do tipo micro-ônibus,\n\nfabricação nacional, motorização mínima de 2.3, diesel, 04 cilindros,\n\ncom capacidade mínima de 15 + 01 lugares para atender as\n\nnecessidades do município de Santana dos garrotes/PB, conforme\n\nespecificações constantes no termo de referência do edital, que\n\nobedecerá às disposições da Lei Federal nº 10.520, de 17/01/2002, o\n\nDecreto Regulamentar n° 10.024 de setembro de 2019, aplicando-se,\n\nsubsidiariamente, no couber, a Lei 8.666, de 21/06/93 com suas\n\nalterações posteriores\n\nFONTE DE RECURSOS -Recursos próprios/Programas/Convênios",
+            "empresa": "COMERCIO DE VEÍCULOS SANTANA\n\nLTDA",
+            "valor_total": "R$ 296,990.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 2309778.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Realinhamento dos preços contratados - nos limites\n\npermitidos por lei, em função do reajuste/supressão de preço de",
+            "empresa": "s - nos limites\n\npermitidos por lei, em",
+            "valor_total": "R$ 2,264,963.18"
+          },
+          {
+            "objeto": "Realinhamento dos preços contratados - nos limites\n\npermitidos por lei, em função do reajuste/supressão de preço de",
+            "empresa": ".\n\n\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE SANTANA\n\nDOS GARROTES/PB\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22\n\n\n\nCONTRATADO: POSTO LOPES LTDA",
+            "valor_total": "R$ 2,264,963.18"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 4506725.880000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 387120.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 1994249.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 113,
+        "num_contratos": 77,
+        "total_gasto": 12719191.89
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 17,
+        "total_gasto": 1373180.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 3341662.9200000004,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de um veículo furgão original de fábrica, 0\n\n(zero) km, adaptado para ambulância simples remoção para atender as\n\nnecessidades da Secretaria de Saúde do município de Santana dos\n\nGarrotes - PB, que obedecerá às disposições da Lei Federal nº 10.520,\n\nde 17/01/2002, o Decreto Regulamentar n° 10.024 de setembro de\n\n2019, aplicando-se, subsidiariamente, no couber, a Lei 8.666, de\n\n21/06/93 com suas alterações posteriores",
+            "empresa": "COMERCIO DE VEICULOS SANTANA\n\nLTDA",
+            "valor_total": "R$ 293,560.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1449403.1500000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para realização do show do show\n\nartístico de WALKIRIA SANTOS para apresentar-se no dia 23 de\n\njulho de 2023 no evento denominado “FESTIVIDADES EM\n\nALUSÃO A FESTA DE SENHORA SANT’ANA” no município de\n\nSantana dos Garrotes/PB, com duração de 1:40 (Uma hora e quarenta\n\nminutos), começando a partir das 00:01 (zero horas e um minuto), de\n\nacordo com as normas da Lei nº 8.666/93 e suas alterações\n\nposteriores",
+            "empresa": "V B SANTOS ENTRETENIMENTOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para realização do show artístico\n\nde LUKA BASS para apresentar-se no dia 22 de julho de 2023 no\n\nevento denominado “FESTIVIDADES EM ALUSÃO A FESTA\n\nDE SENHORA SANT’ANA” no município de Santana dos\n\nGarrotes/PB, com duração de 1:40 (Uma hora e quarenta minutos), a\n\npartir das 16:00 (dezesseis) horas, de acordo com as normas da Lei nº\n\n8.666/93 e suas alterações posteriores",
+            "empresa": "SIM SERVICOS DE ORGANIZACAO DE\n\nFESTAS, EVENTOS E FORMATURAS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para realização do show artístico\n\nde WALLAS ARRAIS para apresentar-se no dia 23 de julho de 2023\n\nno evento denominado “FESTIVIDADES EM ALUSÃO A FESTA\n\nDE SENHORA SANT’ANA” no município de Santana dos\n\nGarrotes/PB, com duração de 1:40 (Uma hora e quarenta minutos),\n\ncomeçando a partir das 02:30 (duas horas e trinta minutos), de acordo\n\ncom as normas da Lei nº 8.666/93 e suas alterações posteriores",
+            "empresa": "ZEROFURO EVENTOS E PRODUÇÕES\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição de gêneros\n\nalimentícios da agricultura familiar para alimentação escolar;\n\nVIGÊNCIA: 27 de abril a 31 de dezembro de 2023;",
+            "empresa": "EDILENE LUCIO DE ANDRADE\n\n(CPF nº 095.777.324-29);",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição de gêneros\n\nalimentícios da agricultura familiar para alimentação escolar;\n\nVIGÊNCIA: 27 de abril a 31 de dezembro de 2023;",
+            "empresa": "e Edilene Lúcio de Andrade",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição de gêneros alimentícios da\n\nagricultura familiar para alimentação escolar; VIGÊNCIA: 27 de abril\n\na 31 de dezembro de 2023;",
+            "empresa": "JOÃO NUNES (CPF nº\n\n395.049.214-34);",
+            "valor_total": "R$ 20,812.60"
+          },
+          {
+            "objeto": "aquisição de gêneros alimentícios da\n\nagricultura familiar para alimentação escolar; VIGÊNCIA: 27 de abril\n\na 31 de dezembro de 2023;",
+            "empresa": "e João Nunes",
+            "valor_total": "R$ 20,812.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 2094572.56,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços de Saúde e Segurança do Trabalho\nna elaboração do PCMSO (Programa de Controle Médico de Saúde\nOcupacional); PGR (Programa de Gerenciamento de Riscos)\nconforme determinado pela NR 01 do Ministério do Trabalho e\nLTCAT (Laudo Técnico das Condições Ambientais do Trabalho) em\ntotal conformidade com a IN 128/2022 e Decreto 3.048/99 da\nPrevidência Social, bem como, a responsabilidade dos envios dos\neventos de SST (S-2210; S-2220; S-2240) no E-social, que obedecerá\nàs disposições do art",
+            "empresa": "ALFENGER ENGENHARIA SERVICOS E\nCONSULTORIA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 10,
+        "total_gasto": 903740.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 652640.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestar os\n\nserviços de consultoria, e assessoria na execução dos cronogramas e\n\nprojetos voltados a municipalização do trânsito do Município de SÃO\n\nJOSE DA LAGOA TAPADA–PB",
+            "empresa": "PROJETRAN CONSULTORIA E ASSESSORIA\n\nDE TRANSITO LTDA",
+            "valor_total": "R$ 16,500.00"
+          },
+          {
+            "objeto": "Aquisição de veículos 0KM destinados a Secretaria de\n\nSaúde do município São José da Lagoa Tapada/PB",
+            "empresa": "TERRA DO SOL COMERCIO DE VEICULOS\n\nLTDA",
+            "valor_total": "R$ 131,000.00"
+          },
+          {
+            "objeto": "Aquisição de veículos 0KM – Primeiro Licenciamento,\n\npara atendimento a Secretaria de Saúde do município São José da\n\nLagoa Tapada/PB",
+            "empresa": "NOVOS TEMPOS COMERCIO DE VEICULOS\n\nLTDA",
+            "valor_total": "R$ 130,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para locações de\n\nestrutura para eventos, som, iluminação, gerador, painel de Led e\n\nserviços de montagem de estruturas, por ocasião da tradicional festa\n\nde emancipação politica do Município de São Jose da Lagoa Tapada-\n\nPB",
+            "empresa": "LELEKA PRODUCOES E LOCACOES EIRELI",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 31661.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 13.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 100625.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de\n\nempresa especializada no fornecimento de Fardamentos;",
+            "empresa": "RIOLLI & LIMA UNIFORMES\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de\n\nempresa especializada no fornecimento de Fardamentos;",
+            "empresa": "Samir Ribeiro de Lima",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 682257.25,
+        "empresas_mensais": [
+          {
+            "objeto": "O acréscimo da CLAUSULA 07- DOTAÇÃO\n\nORÇAMENTÁRIA, que tem como objeto a reforma do Núcleo de\n\nAssistência Infantil localizado na Rua Severino Teotônio no\n\nmunicípio de Santana dos Garrotes - PB, dentro dos prazos e normas\n\nda Lei nº 8.666/93 de 21/06/1993 e suas alterações posteriores",
+            "empresa": "CONSTRUTORA DAKI LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 95186.28,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em serviço de\nretroescavadeira para a melhoria das estradas vicinais do município,\ncom todas as despesas de operador, manutenção e combustível por\nconta da contratada para o município de Santana dos Garrotes/PB, em\nconformidade com o Artigo 24, inciso II, da Lei 8.666, de 21 de junho\nde 1993 e suas alterações posteriores",
+            "empresa": "para o município de Santana dos Garrotes/PB, em\nconformidade com o Artigo 24, inciso II, da Lei 8.666, de 21 de junho\nde 1993 e suas alterações posteriores.\n\nRECURSOS: Próprios e/ou programas.\nCONTRATANTE: PREFEITURA MUNICIPAL DE SANTANA\nDOS GARROTES/PB.\nCONTRATADO: MENDES E FERREIRA CONSTRUÇÕES\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 4114036.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços de manutenção e instalação de ar-condicionado\n\nnos diversos órgãos e secretarias do município de Santana dos\n\nGarrotes/PB, que obedecerá às disposições do art",
+            "empresa": "52.064.652 MANOEL SOARES DA SILVA -\n\nMN SOARES REFRIGERACAO E CLIMATIZACAO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de Serviços\n\nTécnicos Especializados no acompanhamento da gestão do Sistema\n\núnico de Assistência Social - SUAS e do Cadastro Único e Programa\n\nBolsa Família e da Rede de serviços Socioassistenciais, junto à\n\nSecretaria Municipal de Assistência Social do município de Santana\n\ndos Garrotes - PB, que obedecerá às disposições do art",
+            "empresa": "MSS CAMPOS",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviço de apoio\n\nadministrativo junto ao Fundo Municipal de Saúde do Município de\n\nSantana dos Garrotes/PB, que obedecerá às disposições do art",
+            "empresa": "HELIO MONTEIRO CAMPOS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 137,
+        "num_contratos": 114,
+        "total_gasto": 14340465.560000002
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 75350.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços de reforma das escolas E.M.E.I.F Júlio Laurindo,\n\nDistrito de Pitombeira de Dentro; E.M.E.I.F Antônio Juvino dos\n\nSantos, Sítio Cabaceiras; e E.M.E.I.F Pe",
+            "empresa": "J ANDRADE LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Serviços de reforma do PSF do Distrito de Serra Branca,\n\njunto a Secretaria de Saúde do município de Santana dos Garrotes/PB,\n\nque obedecerá às disposições do art",
+            "empresa": "J ANDRADE LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 2131693.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios para atender\n\nas necessidades da Prefeitura Municipal de Santana dos Garrotes/PB,\npara o consumo previsto até 31 de dezembro de 2024, que obedecerá a\n\nLei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "KANIA COMERCIO DE PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 14,250.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de medicamentos por solicitação\n\nexcepcional mediante apresentação de maior desconto proporcional\n\ncom os preços da tabela exigido pela CMED ou ABC Farma (de\n\nacordo com o que tiver o menor preço no dia da aquisição do\nmedicamento), no atendimento as necessidades da Secretaria de Saúde\n\ndo município de Santana dos Garrotes/PB, para o consumo previsto\n\naté 31 de dezembro de 2024, que obedecerá a Lei Federal nº 14.133 de\n\n01 de abril de 2021",
+            "empresa": "FARMACIA FREI DAMIAO LTDA",
+            "valor_total": "R$ 127,113.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 41,
+        "total_gasto": 2634925.1999999993,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 926761.5800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para construção das\n\narquibancadas, cabines e iluminação com instalação de uma\n\nsubestação aérea de 112,5 KVA do campo de futebol no município de\n\nSantana dos Garrotes - PB, que obedecerá a Lei Federal nº 14.133 de\n01 de abril de 2021",
+            "empresa": "J ANDRADE LTDA",
+            "valor_total": "R$ 337,351.11"
+          },
+          {
+            "objeto": "Contratação de empresa para execução da REFORMA E\n\nAMPLIAÇÃO DAS ESCOLAS JULIO LAURINDO; PRESIDENTE\n\nCASTELO BRANCO; SINHARINHA AZEVEDO E CRECHE\nESMERINDA TEOTÔNIO, localizadas no município de Santana dos\n\nGarrotes - PB, que obedecerá a Lei Federal nº 14.133 de 01 de abril de\n\n2021",
+            "empresa": "CL CONSTRUÇÕES E SERVIÇOS LTDA -",
+            "valor_total": "R$ 149,912.17"
+          },
+          {
+            "objeto": "Contratação de empresa para manutenção de diversas ruas\n\nna cidade para a festa de Nossa Senhora de Santana no município de\n\nSantana dos Garrotes - PB, que obedecerá a Lei Federal nº 14.133 de\n\n01 de abril de 2021",
+            "empresa": "MENDES E FERREIRA CONSTRUÇÕES\n\nLTDA",
+            "valor_total": "R$ 171,667.39"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 580175.15,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de ar condicionados para a rede escolar do\n\nmunicípio de Santana dos Garrotes - PB, que obedecerá a Lei Federal\n\nnº 14.133 de 01 de abril de 2021",
+            "empresa": "DANTAS ELETROMOVEIS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 91,999.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para realização do show do cantor\n\nAMADO BATISTA para apresentar-se no dia 22 de dezembro de\n\n2024 no tradicional evento denominado ―FESTA DE\nEMANCIPAÇÃO POLÍTICA‖ no município de Santana dos\n\nGarrotes/PB, com duração de 01:40 horas (uma hora e quarenta\n\nminutos), começando a partir das 23:50 horas (vinte e três horas e\n\ncinquenta minutos), de acordo com o Art",
+            "empresa": "A B PROMOÇÕES E PRODUÇÕES\n\nARTISTICAS E GRAVADORA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 1882334.6199999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais e equipamentos para as Unidades\n\nBásicas de Saúde do município de Santana dos Garrotes - PB, que\n\nobedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "ENDOMED COM E REP DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 152,784.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e equipamentos para as Unidades\n\nBásicas de Saúde do município de Santana dos Garrotes - PB, que\n\nobedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "MULTFORTE COMERCIO E\n\nSUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 35,135.98"
+          },
+          {
+            "objeto": "Aquisição de materiais e equipamentos para as Unidades\n\nBásicas de Saúde do município de Santana dos Garrotes - PB, que\n\nobedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "SUPRIMEDICE PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 23,499.96"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática para as\n\nUnidades Básicas de Saúde do município de Santana dos Garrotes -\n\nPB, que obedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "3S SECURITY TECNOLOGIA SEGURANCA\n\nE SERVICOS LTDA",
+            "valor_total": "R$ 400.00"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática para as\n\nUnidades Básicas de Saúde do município de Santana dos Garrotes -\n\nPB, que obedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "CB ELETRO E INFORMATICA LTDA",
+            "valor_total": "R$ 57,184.20"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática para as\n\nUnidades Básicas de Saúde do município de Santana dos Garrotes -\n\nPB, que obedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "54.655.558 GUILHERME ALVES RIBEIRO",
+            "valor_total": "R$ 19,804.50"
+          },
+          {
+            "objeto": "Aquisição de equipamentos de informática para as\n\nUnidades Básicas de Saúde do município de Santana dos Garrotes -\n\nPB, que obedecerá a Lei Federal nº 14.133 de 01 de abril de 2021",
+            "empresa": "MARCOS JULIANO DA SILVA LTDA",
+            "valor_total": "R$ 15,995.00"
+          },
+          {
+            "objeto": "Aquisição de materiais para o SAMU do município de\n\nSantana dos Garrotes - PB, que obedecerá a Lei Federal nº 14.133 de\n\n01 de abril de 2021",
+            "empresa": "ENDOMED COM E REP DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 6,114.99"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 840016.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 375553.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 8,
+        "total_gasto": 779619.35,
+        "empresas_mensais": [
+          {
+            "objeto": "Acrescentar a CLAUSULA 02 - DO",
+            "empresa": "JANUSA SOTERO CONTABILIDADE\n\nPUBLICA E CONTROLE LTDA",
+            "valor_total": "R$ 111,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

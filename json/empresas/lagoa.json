@@ -1,0 +1,180 @@
+{
+  "id": "lagoa",
+  "nome": "Lagoa",
+  "detalhe": {
+    "2024": {
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 109850.95,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE\nEMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS EM\nMANUTENÇÃO PREVENTIVA E CORRETIVA DOS\nGABINETES ODONTOLÓGICOS E EQUIPAMENTOS MEDICOS\nHOSPITALARES PERTENCENTES À SECRETARIA\nMUNICIPAL DE SAÚDE DO MUNICIPIO DE LAGOA-PB",
+            "empresa": ".\nPARTES CONTRATANTES: Prefeitura Municipal de Lagoa e: CT\nNº 00028/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 91,
+        "total_gasto": 6668047.659999998
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 317112.61,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇOS DE COLETA, TRANSPORTE,\n\nTRATAMENTO (INCINERAÇÃO) DOS RESÍDUOS SÓLIDOS,\n\nDESTINAÇÃO FINAL DO LIXO HOSPITALAR, VISANDO\nATENDER AS NECESSIDADES DO MUNICÍPIO DE LAGOA-PB",
+            "empresa": ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Lagoa e: CT\nNº 00028/2023 - ECO GESTÃO SERVIÇOS LTDA ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 1006744.26,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº 00044/2024 -\n\n27.05.2024- ATACAMED COMERCIO DE PRODUTOS\n\nFARMACEUTICOS E HOSPITALARES LTDA",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº\n\n00046/2024 - 27.05.2024- D.ARAUJO COMERCIAL EIRELI",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº\n\n00048/2024 - 27.05.2024- EXPRESS DISTRIBUIDORA DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº 00050/2024 - 27.05.2024- TERRA\n\nSUL COMERCIO DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº 00052/2024 -\n\n27.05.2024- ZAFRA DISTRIBUIDORA DE MEDICAMENTOS E\n\nPRODUTOS HOSPITALRES LTDA",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MEDICAMENTOS PARA COMPOR A\n\nFARMÁCIA BÁSICA, VISANDO ATENDER AS\n\nNECESSIDADES DA SECRETARIA DE SAÚDE DO MUNICÍPIO\n\nDE LAGOA–PB",
+            "empresa": "CT Nº 00054/2024 - 27.05.2024- DL MEDICAMENTOS LTDA",
+            "valor_total": "R$ 315,929.50"
+          },
+          {
+            "objeto": "Pavimentação em áreas rurais, conforme Contrato de\n\nRepasse OGU MAP 922934/2021 - Operação 1080667-74",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Lagoa e: CT Nº\n\n00001/2024 - Pontes Empreendimentos Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 19,
+        "total_gasto": 844153.32,
+        "empresas_mensais": [
+          {
+            "objeto": "Adesão as Ata de Registro de Preços 007/2024, Decorrente\n\ndo Pregão Eletrônico 011/2024 Realizados pela Prefeitura Municipal\n\nde Bom Sucesso–PB, (Órgão gerenciador)",
+            "empresa": "RUBENS CASTILHO NUNE DINIZ JUNIOR",
+            "valor_total": "R$ 86,028.47"
+          },
+          {
+            "objeto": "Adesão as Ata de Registro de Preços 007/2024, Decorrente\n\ndo Pregão Eletrônico 011/2024 Realizados pela Prefeitura Municipal\n\nde Bom Sucesso–PB, (Órgão gerenciador)",
+            "empresa": "32.789.970 JOABE DE SA LOURENCO",
+            "valor_total": "R$ 86,028.47"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS TÉCNICOS, NA ORGANIZAÇÃO DO ARQUIVO\n\nMORTO, COMPREENDENDO A SELEÇÃO, CATALOGAÇÃO,\n\nINDENTIFICAÇÃO, ARQUIVAMENTO, ETIQUETAGEM DAS\n\nPASTAS, E ORGANIZAÇÃO DOS DOCUMENTOS GERADOS\n\nPELA CÂMARA MUNICIPAL DE LAGOA–PB",
+            "empresa": "DOC\n\nORGANIZACOES LTDA",
+            "valor_total": "R$ 6,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 1031560.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1798406.79,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO DE REFEIÇÕES, VISANDO\n\nATENDER A DEMANDA ANUAL DE SERVIDORES E\n\nPRESTADORES DE SERVIÇOS DE OUTRAS ESFERAS\n\nADMINISTRATIVAS PARA PRESTAR SERVIÇOS NESTE\n\nMUNICIPIO DE LAGOA–PB",
+            "empresa": "FRANCINEIDE RITA DE\n\nSOUSA MELO",
+            "valor_total": "R$ 57,042.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE OLÉOS, LUBRIFICANTES, FILTROS\n\nE BATERIAS PARA MANUTENÇÃO DOS VEÍCULOS\n\nPERTENCENTES A FROTA DESTE MUNICÍPIO DE LAGOA–PB",
+            "empresa": "ERIBERTO\n\nRODRIGUES DE SA",
+            "valor_total": "R$ 124,345.38"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 285561.52999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL MEDICO HOSPITALAR\n\nDESTINADO A MANUTENÇÃO DA SECRETARIA MUNICIPAL\n\nDE SAÚDE DESTE MUNICIPIO DE LAGOA –PB",
+            "empresa": "JOSE SANTOS DA SILVA",
+            "valor_total": "R$ 46,847.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 430075.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 78500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 766083.2,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUSIÇÃO DE MOCHILA ESCOLAR PARA A REDE\n\nMUNICPAL DEENSINO DE LAGOA – PB",
+            "empresa": "RUBENS CASTILHO NUNE DINIZ\n\nJUNIOR",
+            "valor_total": "R$ 40,950.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\n\nDE FARDAMENTOS PARA AS ESCOLAS PÚBLICAS DO\n\nMUNICÍPIO DE LAGOA – PB",
+            "empresa": "RUBENS CASTILHO NUNE DINIZ\n\nJUNIOR",
+            "valor_total": "R$ 59,170.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE TENDAS DESTINADAS A\n\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DESTE MUNICÍPIO\n\nDE LAGOA – PB",
+            "empresa": "RUBENS CASTILHO NUNE\n\nDINIZ JUNIOR",
+            "valor_total": "R$ 40,799.04"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

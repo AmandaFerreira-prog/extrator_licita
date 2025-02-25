@@ -1,0 +1,1113 @@
+{
+  "id": "cajazeirinhas",
+  "nome": "Cajazeirinhas",
+  "detalhe": {
+    "2018": {
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 21712.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 30,
+        "num_contratos": 38,
+        "total_gasto": 1796863.4500000002
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 1158405.73,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de didáticos e de expediente, destinados a manutenção\ndas atividades de diversas secretarias do Município de\nCajazeirinhas/PB",
+            "empresa": "ELRY ANTONIO DE SANTANA ME",
+            "valor_total": "R$ 85,695.78"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de didáticos e de expediente, destinados a manutenção\ndas atividades de diversas secretarias do Município de\nCajazeirinhas/PB",
+            "empresa": "LUCIEUDO MARIA DA\nSILVA",
+            "valor_total": "R$ 85,695.78"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de didáticos e de expediente, destinados a manutenção\ndas atividades de diversas secretarias do Município de\nCajazeirinhas/PB",
+            "empresa": "CT Nº 00097/2018",
+            "valor_total": "R$ 85,695.78"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de didáticos e de expediente, destinados a manutenção\ndas atividades de diversas secretarias do Município de\nCajazeirinhas/PB",
+            "empresa": "CT Nº\n00098/2018",
+            "valor_total": "R$ 85,695.78"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de limpeza, destinados a manutenção das atividades de\ndiversas secretarias do município de Cajazeirinhas/PB",
+            "empresa": "ADEMILTON NOGUEIRA ME",
+            "valor_total": "R$ 51,542.52"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de limpeza, destinados a manutenção das atividades de\ndiversas secretarias do município de Cajazeirinhas/PB",
+            "empresa": "ALEFF SOUZA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 9\n\n\nANDRADE ME",
+            "valor_total": "R$ 51,542.52"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de limpeza, destinados a manutenção das atividades de\ndiversas secretarias do município de Cajazeirinhas/PB",
+            "empresa": "ANTÔNIO DA SILVA ALENCAR",
+            "valor_total": "R$ 51,542.52"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de limpeza, destinados a manutenção das atividades de\ndiversas secretarias do município de Cajazeirinhas/PB",
+            "empresa": "CT\nNº 00102/2018",
+            "valor_total": "R$ 51,542.52"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para a contratação de empresa\nespecializada na manutenção preventiva e corretiva, assim como a\nreposição de peças dos veículos de Grande Porte que compõem a frota\nda Prefeitura Municipal de Cajazeirinhas",
+            "empresa": "AUTO EQUIPADORA SOUSA\nLTDA",
+            "valor_total": "R$ 106,752.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para a contratação de empresa\nespecializada na manutenção preventiva e corretiva, assim como a\nreposição de peças dos veículos de Grande Porte que compõem a frota\nda Prefeitura Municipal de Cajazeirinhas",
+            "empresa": "CT Nº 00104/2018 - 19.06.18 -\nGIPAGEL AUTO PEÇAS LTDA",
+            "valor_total": "R$ 106,752.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 328119.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 288626.19,
+        "empresas_mensais": [
+          {
+            "objeto": "Fornecimento parcelado de materiais de didáticos e de\nexpediente, destinados a manutenção das atividades do Fundo\nMunicipal de Saúde de Cajazeirinhas/PB",
+            "empresa": "ELRY ANTONIO\nDE SANTANA ME",
+            "valor_total": "R$ 112,754.54"
+          },
+          {
+            "objeto": "Fornecimento parcelado de materiais de didáticos e de\nexpediente, destinados a manutenção das atividades do Fundo\nMunicipal de Saúde de Cajazeirinhas/PB",
+            "empresa": "LUCIEUDO MARIA DA SILVA",
+            "valor_total": "R$ 112,754.54"
+          },
+          {
+            "objeto": "Contratação de empresa para o fornecimento parcelado de\nmateriais de limpeza, destinados a manutenção das atividades do\nFundo Municipal de Saúde de Cajazeirinhas",
+            "empresa": "ADEMILTON NOGUEIRA ME",
+            "valor_total": "R$ 31,191.09"
+          },
+          {
+            "objeto": "Contratação de empresa para o fornecimento parcelado de\nmateriais de limpeza, destinados a manutenção das atividades do\nFundo Municipal de Saúde de Cajazeirinhas",
+            "empresa": "JOSÉ FREITAS",
+            "valor_total": "R$ 31,191.09"
+          },
+          {
+            "objeto": "Contratação de empresa para o fornecimento parcelado de\nmateriais de limpeza, destinados a manutenção das atividades do\nFundo Municipal de Saúde de Cajazeirinhas",
+            "empresa": "ANTÔNIO DA SILVA\nALENCAR",
+            "valor_total": "R$ 31,191.09"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais e produtos hospitalares, destinados a manutenção da\nSaúde Pública do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas/PB",
+            "empresa": "JOSÉ NERGINO SOBREIRA",
+            "valor_total": "R$ 38,268.61"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais e produtos hospitalares, destinados a manutenção da\nSaúde Pública do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas/PB",
+            "empresa": "NNMED\nDISTRIBUIDORA, IMPORT. E EXPORT. DE MEDICAMENTOS\nLTDA",
+            "valor_total": "R$ 38,268.61"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais e produtos hospitalares, destinados a manutenção da\nSaúde Pública do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas/PB",
+            "empresa": "ODONTOMED COMÉRCIO DE PRODUTOS MÉDICO\nHOSPITALARES LTDA ME",
+            "valor_total": "R$ 38,268.61"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 26,
+        "total_gasto": 1344294.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de prestação de serviços de Consultoria e\nAssessoria Jurídica na área de Direito Administrativo junto ao\nMunicípio de Cajazeirinhas",
+            "empresa": "GUSTAVO\nESTRELA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 32,400.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde materiais de limpeza, destinados a manutenção das atividades de\ndiversas secretarias do município de Cajazeirinhas/PB",
+            "empresa": "JOSE FREITAS",
+            "valor_total": "R$ 31,080.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 75,
+        "num_contratos": 101,
+        "total_gasto": 5976297.910000001
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 771250.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 557300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 1508412.0499999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 454620.45999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 299560.83999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\nserviço de construção de Academia da Saúde no Distrito de São Braz\nno município de Cajazeirinhas",
+            "empresa": "M. J. B. PAIXAO EIRELI",
+            "valor_total": "R$ 124,471.84"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 94260.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 523161.39,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestar os\nserviços de confecção de próteses dentárias, para atender aos usuários\ndo SUS, a cargo do Fundo Municipal de Saúde de Cajazeirinhas",
+            "empresa": "TIAGO\nFERREIRA LICARIÃO ME",
+            "valor_total": "R$ 150,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde medicamentos, destinados a manutenção do programa Farmácia\nBásica do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas",
+            "empresa": "CT Nº\n00064/2019 - 22.08.19 - DROGAFONTE LTDA",
+            "valor_total": "R$ 28,780.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 89600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 32944.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 29550.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 271344.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 918668.5,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para a aquisição de carnes,\n\npeixes, frangos, derivados e frios, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas secretarias do município de\n\nCajazeirinhas",
+            "empresa": "DLA\n\nCOMERCIAL DE ALIMENTOS EIRELI",
+            "valor_total": "R$ 197,818.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para a aquisição de carnes,\n\npeixes, frangos, derivados e frios, de forma parcelada, destinados a\n\nmanutenção das atividades de diversas secretarias do município de\n\nCajazeirinhas",
+            "empresa": "RUBENS SOUSA LOPES",
+            "valor_total": "R$ 197,818.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de combustíveis,\n\nde forma parcelada, destinados ao abastecimento de veículos que\n\ncirculam a localidade de João Pessoa ou BR 230 até aproximadamente\n\nKm 100",
+            "empresa": "COMERCIAL DE COMBUSTIVEIS CAJA\n\nLTDA",
+            "valor_total": "R$ 82,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 71,
+        "num_contratos": 117,
+        "total_gasto": 7295061.32
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 524310.4099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 931408.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 32,
+        "total_gasto": 1591325.29,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\nodontológicos, de forma parcelada, destinados a manutenção da saúde\npública do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas",
+            "empresa": "FARMAGUEDES COMERCIO DE\nPRODUTOS FARMACEUTICOS, MEDICOS E HO",
+            "valor_total": "R$ 116,992.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\nodontológicos, de forma parcelada, destinados a manutenção da saúde\npública do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas",
+            "empresa": "ODONTOMED COMÉRCIO DE\nPRODUTOS MÉDICO HOSPITALARES LTDA ME",
+            "valor_total": "R$ 116,992.39"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, para o atendimento ao Programa\nNacional de Alimentação Escolar/PNAE, no município de\nCajazeirinhas/PB",
+            "empresa": "MARCELO\nJARDEL DE ALMEIDA",
+            "valor_total": "R$ 70,433.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 181276.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 467371.61000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 1463501.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução de\nserviço de construção da Secretaria Municipal de Educação do\nmunicípio de Cajazeirinhas/PB",
+            "empresa": "PRIIMEE.CONSTRUCOES E EMPREENDIMENTOS EIRELI",
+            "valor_total": "R$ 187,913.83"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 26,
+        "total_gasto": 1020245.95,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO para execução de serviços de\n\nserigrafia de confecção e impressão de adesivos, crachás, banners,\n\netc., de forma parcelada, destinados a manutenção das atividades de\n\ndiversas secretariais do Município de Cajazeirinhas",
+            "empresa": "ALEXANDRO\n\nSILVA DE OLIVEIRA",
+            "valor_total": "R$ 63,253.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para execução de serviços de\n\nserigrafia de confecção e impressão de adesivos, crachás, banners,\n\netc., de forma parcelada, destinados a manutenção das atividades de\n\ndiversas secretariais do Município de Cajazeirinhas",
+            "empresa": "CT Nº\n\n00116/2020",
+            "valor_total": "R$ 63,253.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para execução de serviços de\n\nserigrafia de confecção e impressão de adesivos, crachás, banners,\n\netc., de forma parcelada, destinados a manutenção das atividades de\n\ndiversas secretariais do Município de Cajazeirinhas",
+            "empresa": "MARIA IRIANA COURA\n\nURTIGA PORDEUS",
+            "valor_total": "R$ 63,253.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇO para execução de serviços de\n\nserigrafia de confecção e impressão de adesivos, crachás, banners,\n\netc., de forma parcelada, destinados a manutenção das atividades de\n\ndiversas secretariais do Município de Cajazeirinhas",
+            "empresa": "SIDCLEY COSTA DE FARIAS",
+            "valor_total": "R$ 63,253.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 15750.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 109202.9,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para a aquisição de gêneros\nalimentícios, de forma parcelada, destinados a manutenção das\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\natividades de diversas secretarias do município de Cajazeirinhas",
+            "empresa": "CT Nº 00132/2020 -\n06.11.20",
+            "valor_total": "R$ 109,202.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\n\nconsultoria e assessoria jurídica na elaboração de petições,\n\nacompanhamento de processos e interesses da Edilidade perante a\n\nCorte Estadual de contas; elaboração de pareceres em processos\n\nadministrativos, projetos de lei e processo administrativo;\n\nmanifestação jurídica em processos administrativos de pessoal e\n\nacompanhamento de processo administrativo disciplinar (PAD) em\n\ndefesa do Município de Cajazeirinhas",
+            "empresa": "JOSEDEO SARAIVA SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 895200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 69,
+        "num_contratos": 91,
+        "total_gasto": 6496865.530000002
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 552362.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 34,
+        "total_gasto": 1045118.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1536806.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 684770.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 981821.0599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 186700.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\nconsultoria e assessoria jurídica em direito administrativo e na área de\nlicitações e contratos junto ao Município de Cajazeirinhas",
+            "empresa": "JACKSON\nFABIANO OLIVEIRA FLOR",
+            "valor_total": "R$ 11,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para prestação de serviços de\nrecarga de toners e cartuchos de impressoras pertencentes ao\nmunicípio de Cajazeirinhas",
+            "empresa": "EMANOEL GOMES\nFERREIRA",
+            "valor_total": "R$ 20,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\nhospitalares, de forma parcelada, destinados a manutenção das\natividades da Secretaria de Saúde Município de Cajazeirinhas",
+            "empresa": "NNMED - DISTRIBUICAO, IMPORTACAO E EXPORTACAO DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 155,700.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais\nhospitalares, de forma parcelada, destinados a manutenção das\natividades da Secretaria de Saúde Município de Cajazeirinhas",
+            "empresa": "CT Nº 00165/2021 -\n18.08.21",
+            "valor_total": "R$ 155,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 124090.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 489995.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 579300.25,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais para\n\nmanutenção de bens e imóveis, de forma parcelada, destinados ao\n\natendimento das atividades de diversas Secretarias do Município de\n\nCajazeirinhas",
+            "empresa": "GERALDO DE\n\nSOUSA NOBREGA",
+            "valor_total": "R$ 201,758.85"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de materiais para\n\nmanutenção de bens e imóveis, de forma parcelada, destinados ao\n\natendimento das atividades de diversas Secretarias do Município de\n\nCajazeirinhas",
+            "empresa": "OSEAS MARTINS FERREIRA",
+            "valor_total": "R$ 201,758.85"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 56,
+        "num_contratos": 105,
+        "total_gasto": 5836484.42
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 1466744.8800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 218991.24,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para execução\nde serviço de reforma do campo de futebol do Município de\nCajazeirinhas/PB",
+            "empresa": "M. J. B. PAIXÃO EIRELI",
+            "valor_total": "R$ 26,791.24"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para execução\nde serviço de manutenção preventiva e corretiva de equipamentos\nmédicos hospitalares e odontológicos junto ao Fundo Municipal de\nSaúde de Cajazeirinhas/PB",
+            "empresa": "JACINTA GOMES DE FARIAS",
+            "valor_total": "R$ 14,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 464611.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 179000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 13,
+        "total_gasto": 698958.58,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "ABINAEL ALVES\n\nDE ALMEIDA",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "TIAGO CAVALCANTE URTIGA",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "MARIA DE SOUSA FERREIRA",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "JOSÉ ARNALDO LEITE\n\nDE ALMEIDA",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "JOÃO ALMEIDA GARRIDO",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "CT Nº\n\n00096/2022",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "CT Nº 00097/2022",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "CT Nº\n\n00098/2022",
+            "valor_total": "R$ 227,556.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para realização de\n\nexames de imaginologia compreendendo radiologia tipo raio–x,\n\nultrassonografia e tomografia, destinados a manutenção da Saúde\n\nPública do Município a cargo do Fundo Municipal de Saúde de\n\nCajazeirinhas",
+            "empresa": "UDI PATOS\n\nSERVICOS E PRODUTOS MEDICOS LTDA",
+            "valor_total": "R$ 240,961.58"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para realização de\n\nexames de imaginologia compreendendo radiologia tipo raio–x,\n\nultrassonografia e tomografia, destinados a manutenção da Saúde\n\nPública do Município a cargo do Fundo Municipal de Saúde de\n\nCajazeirinhas",
+            "empresa": "CEMOAN CENTRO MEDICO DR. OZIAS\n\nARRUDA NETO LTDA",
+            "valor_total": "R$ 240,961.58"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para contratação de empresa\n\nespecializada para execução de serviços de manutenção preventiva e\n\ncorretiva de sistema de abastecimento, disponibilizando funcionário\n\npara ligar e desligar, concertar e corrigir problemas mecânicos,\n\nelétricos e hidráulicos dos motores bomba das estações de\n\nabastecimento d‘água bruta, acompanhando o fluxo de abastecimento,\n\nnas comunidades rurais de São Braz dos Chicos, São Braz I e Pau\n\nFerrado, no município de Cajazeirinhas/PB",
+            "empresa": "EUCLIDES MANOEL DE SOUTO FILHO",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde pneus e acessórios novos de primeira linha de fabricação, de forma\n\nparcelada, destinados a manutenção dos veículos pertencentes a\n\nPrefeitura Municipal de Cajazeirinhas",
+            "empresa": "J A L SILVA\n\nCOMERCIO VAREJISTA DE PNEUMATICOS EIRELI",
+            "valor_total": "R$ 176,441.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde pneus e acessórios novos de primeira linha de fabricação, de forma\n\nparcelada, destinados a manutenção dos veículos pertencentes a\n\nPrefeitura Municipal de Cajazeirinhas",
+            "empresa": "JOSÉ RODRIGUES\n\nLACERDA NETO ME",
+            "valor_total": "R$ 176,441.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 15,
+        "total_gasto": 289618.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para a prestação de serviços de\n\nempreitada para manutenção e conservação de bens públicos,\n\nmediante ajuste de mão de obra por tarefa para execução de pequenos\n\ntrabalhos, sem fornecimento de materiais, nos termos da alínea “d” do\n\ninc",
+            "empresa": "GENIVAL ARAÚJO DE MEDEIROS",
+            "valor_total": "R$ 37,500.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde refeições, de forma parcelada, destinadas aos profissionais de\n\ndiversas Secretarias do Município de Cajazeirinhas",
+            "empresa": "JOSÉLIA MARIA ALVES GOMES DE\n\nALMEIDA",
+            "valor_total": "R$ 34,500.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "ABDIAS FELINTO\n\nPEREIRA NETO",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "ADAUTO ALVES DE LIMA NETO",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "ALEXSANDRO ANDRADE DA SILVA -\n\nR$ 23.436,00; CT Nº 00113/2022",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "CT Nº 00114/2022",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "GERALDO ANSELMO\n\nDA COSTA",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "ÍTALO\n\nJEFFERSON DANTAS PIRES",
+            "valor_total": "R$ 178,038.00"
+          },
+          {
+            "objeto": "Contratação de serviços de locação mensal de veículos,\n\ndestinados ao transporte de estudantes do município de\n\nCajazeirinhas/PB",
+            "empresa": "UBIRATAN PEREIRA\n\nDA SILVA",
+            "valor_total": "R$ 178,038.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 462907.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 436009.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 267060.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 20,
+        "total_gasto": 767606.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 5677.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde materiais hospitalares, destinados a manutenção da Farmácia\nBásica do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas",
+            "empresa": "MEDIAL SAUDE\nDISTRIBUIDORA DE PRODUTOS MEDICOS HOSPITALAR\nLTDA",
+            "valor_total": "R$ 5,677.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\nde materiais hospitalares, destinados a manutenção da Farmácia\nBásica do Município a cargo do Fundo Municipal de Saúde de\nCajazeirinhas",
+            "empresa": "POTIGUAR\nMEDPRIME SOLUCOES EM SAUDE LTDA",
+            "valor_total": "R$ 5,677.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 18,
+        "total_gasto": 460044.30000000005,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e equipamentos, destinados a manutenção das atividades\n\nda Secretaria de Saúde do Município de Cajazeirinhas",
+            "empresa": "NUZIA LEILA DUTRA DA SILVA\n\nDANTAS",
+            "valor_total": "R$ 21,990.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e equipamentos, destinados a manutenção das atividades\n\nda Secretaria de Saúde do Município de Cajazeirinhas",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 21,990.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e equipamentos, destinados a manutenção das atividades\n\nda Secretaria de Saúde do Município de Cajazeirinhas",
+            "empresa": "ZIB COMERCIO E\n\nSERVI??OS LTDA",
+            "valor_total": "R$ 21,990.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e equipamentos, destinados a manutenção das atividades\n\nda Secretaria de Saúde do Município de Cajazeirinhas",
+            "empresa": "GO ATACADISTA LTDA",
+            "valor_total": "R$ 21,990.39"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais e equipamentos, destinados a manutenção das atividades\n\nda Secretaria de Saúde do Município de Cajazeirinhas",
+            "empresa": "CT Nº 00033/2023 - 18.01.23 - J.RIBEIRO\n\nCOM??RCIO ATACADISTA LTDA-EPP",
+            "valor_total": "R$ 21,990.39"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 76,
+        "num_contratos": 153,
+        "total_gasto": 10841019.52
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 20,
+        "total_gasto": 4259101.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde combustível, destinados a manutenção das atividades\n\nadministrativas da Câmara Municipal de Cajazeirinhas",
+            "empresa": "POSTO SANTO\n\nEXPEDITO LTDA",
+            "valor_total": "R$ 34,930.00"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para execução\n\nde serviços de coleta, transporte e tratamento térmico por incineração\n\ne destinação final das cinzas dos Resíduos dos Serviços de Saúde\n\n(RSS) no Município de Cajazeirinhas",
+            "empresa": "TRASH\n\nCOLETA E INCINERACAO DE LIXO HOSPITALAR LTDA",
+            "valor_total": "R$ 15,600.00"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para execução\n\nde serviço de manutenção preventiva e corretiva de equipamentos\n\nmédicos hospitalares e odontológicos juntos ao Fundo Municipal de\n\nSaúde de Cajazeirinhas/PB",
+            "empresa": "JACINTA GOMES DE FARIAS",
+            "valor_total": "R$ 15,950.00"
+          },
+          {
+            "objeto": "Contratação de serviços de consultoria e assessoria técnica\n\nem planejamento e gestão pública relativa às áreas contábeis,\n\nfinanceira e orçamentária junto à Prefeitura Municipal e ao Fundo\n\nMunicipal de Saúde de Cajazeirinhas",
+            "empresa": "ECOPLAN CONTABILIDADE PUBLICA\n\nE SOFTWARES LTDA",
+            "valor_total": "R$ 135,858.00"
+          },
+          {
+            "objeto": "Conrtatação de pessoa jurídica especializada no\n\nfornecimento parcelado de combustíveis, a fim de atender as\n\ndemandas da frota do município de Camalaú–PB",
+            "empresa": "EGILBERTO FERREIRA DA SILVA",
+            "valor_total": "R$ 2,407,200.00"
+          },
+          {
+            "objeto": "Contratação da apresentação artística musical,\n\n“GÍLSON MANIA”, para se apresentar no dia 21 de fevereiro de\n\n2023, por duas horas, nas tradicionais festividades do Carnaval da\n\ncidade de Camalaú-PB",
+            "empresa": "F MIX\n\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 15,
+        "total_gasto": 595439.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\n\nconsultoria e assessoria jurídica em direito administrativo e na área de\n\nlicitações e contratos junto ao Município de Cajazeirinhas",
+            "empresa": "JACKSON\n\nFABIANO OLIVEIRA FLOR SOCIEDADE INDIVIDUAL DE\n\nADVOCACIA",
+            "valor_total": "R$ 31,200.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde equipamentos e materiais permanentes, destinados a manutenção\n\ndas atividades da Secretaria de Educação do Município de\n\nCajazeirinhas",
+            "empresa": "CT Nº 00066/2023 - 09.03.23 - GQS ELETROS E\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 223,724.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde equipamentos e materiais permanentes, destinados a manutenção\n\ndas atividades da Secretaria de Educação do Município de\n\nCajazeirinhas",
+            "empresa": "CT Nº\n\n00068/2023 - 09.03.23 - K.C.R.S. COMERCIO DE\n\nEQUIPAMENTOS LTDA",
+            "valor_total": "R$ 223,724.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 64000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 32,
+        "total_gasto": 1853644.8300000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para aquisição de\n\nmedicamentos, destinados a manutenção da Farmácia Básica do\n\nMunicípio a cargo do Fundo Municipal de Saúde de Cajazeirinhas",
+            "empresa": "DROGAFONTE\n\nLTDA",
+            "valor_total": "R$ 60,580.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 1251269.97,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços de\n\nexames/consultas/procedimentos médicos, devendo a execução dos\n\nserviços ocorrer no município, destinados a manutenção da saúde\n\npública do Município à cargo do Fundo Municipal de Saúde de\n\nCajazeirinhas/PB",
+            "empresa": "R C DANTAS LTDA",
+            "valor_total": "R$ 168,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 13,
+        "total_gasto": 280795.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 124948.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 964558.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 880048.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo, tipo van, novo, destinado a\n\nmanutenção das atividades Secretaria de Saúde do Município de\n\nCajazeirinhas, nos termos de Emenda Parlamentar nº 12830003",
+            "empresa": "MABELE VEÍCULOS ESPECIAIS LTDA",
+            "valor_total": "R$ 299,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 84858.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 22311.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 49,
+        "num_contratos": 36,
+        "total_gasto": 5280944.8
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 576500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde combustíveis, de forma parcelada, destinados ao abastecimento da\n\nfrota de veículos e máquinas do município de Cajazeirinhas",
+            "empresa": "COMERCIAL DE\n\nCOMBUSTIVEIS E LUBRIFICANTES JERONIMO III LTDA",
+            "valor_total": "R$ 576,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 9,
+        "total_gasto": 1314052.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\nde medicamentos diversos, não padronizados, mediante solicitação\n\nperiódica para atender as necessidades da Secretaria de Saúde do\n\nmunicípio de Cajazeirinhas, podendo não haver solicitações em\n\ndeterminado mês, de acordo com o cronograma dos trabalhos\ndesenvolvidos pela respectiva Secretaria",
+            "empresa": "FARMADANTAS COMERCIO DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 210,000.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para aquisição de gêneros\nalimentícios, de forma parcelada, destinados à manutenção de diversas\n\nsecretarias do município de Cajazeirinhas",
+            "empresa": "DANTAS E NOBRE COMERCIAL DE\n\nALIMENTOS LTDA",
+            "valor_total": "R$ 63,178.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 240000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 874419.79,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de serviços técnicos especializados de\n\nassessoria jurídica para propor as medidas cabíveis para obtenção à\n\nrecuperação dos",
+            "empresa": "ERICK MACEDO\n\nADVOCACIA S/C",
+            "valor_total": "R$ 826,419.79"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 481889.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica especializada para aquisição\n\nde combustível, tipo gasolina, de forma parcelada, destinado a\n\nmanutenção das atividades administrativas da Câmara Municipal de\n\nCajazeirinhas/PB",
+            "empresa": "POSTO SANTO\n\nEXPEDITO LTDA",
+            "valor_total": "R$ 42,420.00"
+          },
+          {
+            "objeto": "Contratação de pessoa jurídica para execução de obra de\n\nConstrução de Quatro Quadras de Alimentação com 10 Lanchonetes\n\nno Município de Cajazeirinhas",
+            "empresa": "QUALIFICA CONSTRUÇÕES E\n\nEMPREENDIMENTOS LTDA ME",
+            "valor_total": "R$ 439,469.55"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 724486.8,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de construção, hidráulicos, entre outros, destinados a\n\nmanutenção de bens e imóveis pertencentes ao Município de\n\nCajazeirinhas",
+            "empresa": "GERALDO DE SOUSA NOBREGA",
+            "valor_total": "R$ 724,486.80"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de construção, hidráulicos, entre outros, destinados a\n\nmanutenção de bens e imóveis pertencentes ao Município de\n\nCajazeirinhas",
+            "empresa": "FRANCISCO BEZERRA FILHO",
+            "valor_total": "R$ 724,486.80"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para futura e eventual aquisição\n\nde materiais de construção, hidráulicos, entre outros, destinados a\n\nmanutenção de bens e imóveis pertencentes ao Município de\n\nCajazeirinhas",
+            "empresa": "CENTRAL DO\n\nCONSTRUTOR COMERCIO VAREJISTA DE MATERIAIS DE\n\nCONSTRUÇÃO LTDA",
+            "valor_total": "R$ 724,486.80"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 455031.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 358890.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 203584.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 52090.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

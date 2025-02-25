@@ -86,7 +86,7 @@
         "num_contratos": 17,
         "total_gasto": 586071.06,
         "top_3_empresas": [
-          "EDVAM MOREIRA\n\nDE SENA 02548361438",
+          "EDVAM MOREIRA\n\nDE SENA",
           "DERIVADOS DE PETROLEO CHABOCAO LTDA"
         ],
         "top_3_objetos": [
@@ -118,9 +118,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 105,
-        "num_contratos": 166,
-        "total_gasto": 30727330.130000003
+        "num_diarios": 104,
+        "num_contratos": 164,
+        "total_gasto": 30412330.130000003
       },
       "2": {
         "num_diarios": 10,
@@ -150,9 +150,9 @@
         ]
       },
       "4": {
-        "num_diarios": 10,
-        "num_contratos": 20,
-        "total_gasto": 2755135.54,
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 2440135.54,
         "top_3_empresas": [
           "FRUTA DOCE ALEXSANDRO GONCALVES DE\n\nABRANTES, vencendo nos seguintes itens: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,\n\n11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,\n\n30, 31, 32; Foi identificado uma erro de lançamento de valor no item\n\n11 cenoura 2.000 KG– valor unitário R$ 8,25",
           "PARAHYBA SERVICOS E LOCACOES F.COSTA\n\nCONSTRUCOES, SERVICOS E LOCACOES EIRELI"
@@ -263,9 +263,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 106,
-        "num_contratos": 231,
-        "total_gasto": 28908097.69
+        "num_diarios": 104,
+        "num_contratos": 227,
+        "total_gasto": 27827413.69
       },
       "2": {
         "num_diarios": 8,
@@ -282,7 +282,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 3,
         "total_gasto": 168445.68,
         "top_3_empresas": [],
@@ -303,9 +303,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 9,
-        "num_contratos": 9,
-        "total_gasto": 1398684.0,
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 318000.0,
         "top_3_empresas": [
           "ANTONIO SUCUPIRA FILHO"
         ],
@@ -386,8 +386,8 @@
       },
       "resumo": {
         "num_diarios": 116,
-        "num_contratos": 202,
-        "total_gasto": 37516407.769999996
+        "num_contratos": 214,
+        "total_gasto": 39584635.86999999
       },
       "2": {
         "num_diarios": 10,
@@ -410,8 +410,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 12,
-        "total_gasto": 5092510.8,
+        "num_contratos": 24,
+        "total_gasto": 7160738.9,
         "top_3_empresas": [
           "DERIVADOS DE\n\nPETROLEO CHABOCAO LTDA",
           "FIORI VEICOLO S.A"
@@ -489,7 +489,7 @@
         "total_gasto": 991536.51,
         "top_3_empresas": [
           ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Salgado de São Felix e: CT Nº 00137/2023 -\n\nJose Wilson Santos",
-          "DIEGO DE\n\nSOUZA SANTOS 71428505407"
+          "DIEGO DE\n\nSOUZA SANTOS"
         ],
         "top_3_objetos": [
           "Contratação de empresa para fornecimento de gêneros\n\nalimentícios, pães, hortifrúti, carnes e esculentos com entrega diária e\n\nimediata destinado a todas as secretarias da Prefeitura municipal de\n\nVieirópolis-PB",
@@ -507,9 +507,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 402,
-    "num_contratos": 710,
-    "total_gasto": 107259950.63,
+    "num_diarios": 399,
+    "num_contratos": 716,
+    "total_gasto": "107.932.494,73",
     "top_5_empresas": {
       "FARMÀCIA CORAÇÂO DE JESUS-FRANCISCA\n\nMARIA DE MOURA SOUSA": 1,
       "FLÁVIO AVELNO DE OLIVEIRA": 1,

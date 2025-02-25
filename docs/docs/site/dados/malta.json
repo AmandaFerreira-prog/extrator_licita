@@ -11,12 +11,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 25,
+        "num_diarios": 24,
         "num_contratos": 1,
         "total_gasto": 359500.0
       },
       "7": {
-        "num_diarios": 4,
+        "num_diarios": 3,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -67,9 +67,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 51,
-        "num_contratos": 0,
-        "total_gasto": 0
+        "num_diarios": 50,
+        "num_contratos": 11,
+        "total_gasto": 134264.0
       },
       "2": {
         "num_diarios": 2,
@@ -122,8 +122,8 @@
       },
       "9": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 134264.0,
         "top_3_empresas": [
           "C DE A FERREIRA E CIA LTDA/EIRELI",
           "CAVALCANTI PRIMO VEICULOS LTDA",
@@ -141,7 +141,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -265,18 +265,18 @@
     "2022": {
       "1": {
         "num_diarios": 7,
-        "num_contratos": 8,
-        "total_gasto": 959971.47,
+        "num_contratos": 11,
+        "total_gasto": 1251432.97,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 73,
-        "num_contratos": 79,
-        "total_gasto": 5604382.16
+        "num_diarios": 72,
+        "num_contratos": 120,
+        "total_gasto": 8103057.12
       },
       "2": {
-        "num_diarios": 3,
+        "num_diarios": 2,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -284,15 +284,15 @@
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 38,
-        "total_gasto": 1691803.09,
+        "num_contratos": 46,
+        "total_gasto": 1904482.25,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 6,
-        "num_contratos": 10,
-        "total_gasto": 324716.2,
+        "num_contratos": 16,
+        "total_gasto": 527515.3,
         "top_3_empresas": [
           "BEETHOVEN DOS SANTOS DA SILVA",
           "CRISTINA LUIZA DA SILVA NETA",
@@ -305,8 +305,8 @@
       },
       "5": {
         "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 341491.4,
+        "num_contratos": 7,
+        "total_gasto": 547190.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -326,10 +326,10 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 11,
-        "total_gasto": 1744685.0,
+        "num_contratos": 23,
+        "total_gasto": 2757855.0,
         "top_3_empresas": [
-          "PLENUS SISTEMAS L2F Sistemas Web LTDA-\n\nME (PLENUS GESTÃO PUBLICA), Pessoa Jurídica de Direito\n\nPrivado inscrita no",
+          "PLENUS SISTEMAS L2F Sistemas Web LTDA-\n\nME (PLENUS GESTÃO PUBLICA)",
           "LIVMED MATERIAIS E EQUIPAMENTOS\n\nHOSPITALARES LTDA",
           "EXPRESS DISTRIBUIDORA DE\n\nMEDICAMENTOS LTDA"
         ],
@@ -340,10 +340,10 @@
       },
       "9": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 7990.0,
         "top_3_empresas": [
-          "NP TECNOLOGIA E GESTAO DE DADOS\n\nLTDA (NP TECNOLOGIA), Pessoa Jurídica de Direito Privado\n\ninscrita no"
+          "NP TECNOLOGIA E GESTAO DE DADOS\n\nLTDA (NP TECNOLOGIA)"
         ],
         "top_3_objetos": [
           "O presente contrato tem por objeto a contratação de\n\nempresa especializada na prestação de serviços de assinatura de\n\nferramenta de pesquisa e comparação de preços praticados pela\n\nAdministração Pública referente aos resultados de licitação\n\nadjudicados e homologados no sistema online do “BANCO DE\n\nPREÇOS” versão PLUS 50 para atender as necessidades da prefeitura\n\nmunicipal de Malta-PB, conforme condições, quantidades e\n\nexigências estabelecidas no Aviso de Contratação Direta e seus\n\nanexos"
@@ -351,8 +351,8 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 2,
-        "total_gasto": 151000.0,
+        "num_contratos": 3,
+        "total_gasto": 226500.0,
         "top_3_empresas": [
           "NOVOS TEMPOS COMERCIO DE\nVEICULOS LTDA (NOVOS TEMPOS FILIAL 3)."
         ],
@@ -362,15 +362,15 @@
       },
       "11": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 125500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 12,
-        "num_contratos": 6,
-        "total_gasto": 390715.0,
+        "num_contratos": 11,
+        "total_gasto": 754591.0,
         "top_3_empresas": [
           "EDER BATISTA DE SOUSA, SKYSOFT\n\nSOLUCOES"
         ],
@@ -382,8 +382,8 @@
     "2023": {
       "1": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 14,
+        "total_gasto": 349280.0,
         "top_3_empresas": [
           "s são compatíveis com a Lei Orçamentária Anual",
           "SOUSA CONTABILIDADE PUBLICA EIRELI -\n\nME",
@@ -395,21 +395,21 @@
         ]
       },
       "resumo": {
-        "num_diarios": 115,
-        "num_contratos": 149,
-        "total_gasto": 11284863.879999999
+        "num_diarios": 113,
+        "num_contratos": 313,
+        "total_gasto": 21483238.33
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 55,
-        "total_gasto": 4807300.0,
+        "num_contratos": 72,
+        "total_gasto": 6901759.699999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 19,
-        "total_gasto": 2509167.86,
+        "num_contratos": 47,
+        "total_gasto": 5288116.52,
         "top_3_empresas": [
           "BEETHOVEN DOS SANTOS DA SILVA\n\n(SUPERMERCADO FOGUETE)",
           "JOSE RODRIGUES LACERDA NETO\n\n(COMERCIAL LACERDA)"
@@ -422,15 +422,15 @@
       },
       "4": {
         "num_diarios": 7,
-        "num_contratos": 4,
-        "total_gasto": 638028.0,
+        "num_contratos": 16,
+        "total_gasto": 1486804.3199999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 14,
-        "num_contratos": 17,
-        "total_gasto": 1515915.0,
+        "num_diarios": 13,
+        "num_contratos": 21,
+        "total_gasto": 2035645.0,
         "top_3_empresas": [
           "",
           "- Pedreira Capoeiras LTDA"
@@ -442,22 +442,22 @@
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 20650.0,
+        "num_contratos": 10,
+        "total_gasto": 204700.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 8,
-        "num_contratos": 27,
-        "total_gasto": 592399.26,
+        "num_contratos": 52,
+        "total_gasto": 1048589.55,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 12,
-        "total_gasto": 259200.0,
+        "num_contratos": 22,
+        "total_gasto": 549806.0,
         "top_3_empresas": [
           "OTICAS OURO LTDA (OTICAS OURO)",
           "CAMBOIM TEXTIL LTDA",
@@ -469,8 +469,8 @@
       },
       "9": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 914398.04,
         "top_3_empresas": [
           "L F C CONSTRUÇÕES LTDA (L F C\n\nCONSTRUÇÕES)"
         ],
@@ -480,26 +480,26 @@
       },
       "10": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 156940.0,
         "top_3_empresas": [
-          "JANICELHIO COSTA DE SOUSA 03862597474,"
+          "JANICELHIO COSTA DE SOUSA"
         ],
         "top_3_objetos": [
           "Aquisição de forma parcelada de Gêneros Alimentícios\n\nperecíveis tipo polpa de frutas destinados a atender as demandas de\n\ntodas as secretarias do município de Malta–PB"
         ]
       },
       "11": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 13,
+        "num_contratos": 14,
+        "total_gasto": 689460.0599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 12,
-        "num_contratos": 14,
-        "total_gasto": 942203.76,
+        "num_contratos": 30,
+        "total_gasto": 1857739.1400000001,
         "top_3_empresas": [
           "TERRA DO SOL COMERCIO DE VEICULOS\nLTDA",
           "e\nFRANCISCO IRISMAR COURA URTIGA"
@@ -512,8 +512,8 @@
     "2024": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 850628.4,
+        "num_contratos": 23,
+        "total_gasto": 1731293.8,
         "top_3_empresas": [],
         "top_3_objetos": [
           "AQUISIÇÃO DE MATERIAL ESCOLAR (CADERNOS),\n\nPARA DISTRIBUIÇÃO GRATUITA EM FORMA DE KIT\n\nESCOLAR AOS ALUNOS DO ENSINO FUNDAMENTAL,\n\nMATRICULADOS NA REDE MUNICIPAL DE ENSINO DO\n\nMUNICÍPIO DE MALTA"
@@ -521,13 +521,13 @@
       },
       "resumo": {
         "num_diarios": 125,
-        "num_contratos": 164,
-        "total_gasto": 12638544.930000002
+        "num_contratos": 286,
+        "total_gasto": 23769496.27
       },
       "2": {
         "num_diarios": 12,
-        "num_contratos": 47,
-        "total_gasto": 4530766.0,
+        "num_contratos": 80,
+        "total_gasto": 8184568.4,
         "top_3_empresas": [
           "RESULT COMUNICACAO\n\nINTEGRADA LTDA"
         ],
@@ -548,8 +548,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 6,
-        "total_gasto": 232177.2,
+        "num_contratos": 14,
+        "total_gasto": 1503615.74,
         "top_3_empresas": [
           "PLENUS GESTAO PUBLICA LTDA"
         ],
@@ -559,15 +559,15 @@
       },
       "5": {
         "num_diarios": 12,
-        "num_contratos": 14,
-        "total_gasto": 1982576.76,
+        "num_contratos": 31,
+        "total_gasto": 3971753.78,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 21,
-        "total_gasto": 1911260.0,
+        "num_contratos": 22,
+        "total_gasto": 2144882.0,
         "top_3_empresas": [
           "JOSE RODRIGUES LACERDA NETO\n\n(COMERCIAL LACERDA)"
         ],
@@ -577,8 +577,8 @@
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 224323.8,
+        "num_contratos": 21,
+        "total_gasto": 674858.87,
         "top_3_empresas": [
           "GRAFICA EDITORA E CARTONAGEM VISAO LTDA"
         ],
@@ -588,15 +588,15 @@
       },
       "8": {
         "num_diarios": 11,
-        "num_contratos": 11,
-        "total_gasto": 652318.3,
+        "num_contratos": 18,
+        "total_gasto": 1107828.73,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 6,
-        "total_gasto": 147000.0,
+        "num_contratos": 7,
+        "total_gasto": 237000.0,
         "top_3_empresas": [
           "50.813.101 MARIA VICENTINA DE SOUSA NETA",
           "49.358.842 INACIO FERREIRA\n\nGADELHA",
@@ -608,15 +608,15 @@
       },
       "10": {
         "num_diarios": 9,
-        "num_contratos": 10,
-        "total_gasto": 156092.2,
+        "num_contratos": 22,
+        "total_gasto": 1068436.8599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 399700.0,
+        "num_contratos": 19,
+        "total_gasto": 844755.8,
         "top_3_empresas": [
           "TARCIO DE SOUSA DINIZ"
         ],
@@ -626,8 +626,8 @@
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 11,
-        "total_gasto": 400321.45,
+        "num_contratos": 17,
+        "total_gasto": 1149121.47,
         "top_3_empresas": [
           "ESCOREL ADVOGADOS ASSOCIADOS",
           "FARMACIA SANTA MARIA LTDA\n\n(FARMACIA SANTA MARIA)",
@@ -641,9 +641,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 458,
-    "num_contratos": 423,
-    "total_gasto": 34451352.31,
+    "num_diarios": 453,
+    "num_contratos": 761,
+    "total_gasto": "58.413.617,06",
     "top_5_empresas": {
       "JOSE RODRIGUES LACERDA NETO\n\n(COMERCIAL LACERDA)": 2,
       "C DE A FERREIRA E CIA LTDA/EIRELI": 1,

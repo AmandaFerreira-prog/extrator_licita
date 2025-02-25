@@ -1,0 +1,838 @@
+{
+  "id": "caapora",
+  "nome": "Caaporã",
+  "detalhe": {
+    "2018": {
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 13,
+        "total_gasto": 421209.8,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO DE TOALHAS E LENÇOL\nDESTINADO AS SECRETARIAS DE SAÚDE E EDUCAÇÃO",
+            "empresa": "NATALIA\nPRISCILA DOS SANTOS SILVA ME",
+            "valor_total": "R$ 31,923.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 80,
+        "num_contratos": 33,
+        "total_gasto": 2822036.74
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 359023.6,
+        "empresas_mensais": [
+          {
+            "objeto": "FUTURA E EVENTUAL PRESTAÇÃO DE SERVIÇOS\nPARA REALIZAÇÃO DE EXAMES LABORATORIAIS,\nVOLTADOS A ATENDER PACIENTES DO SISTEMA ÚNICO DE\nSAÚDE - SUS DO MUNICÍPIO DE CAAPORÃ",
+            "empresa": "LABORATORIO PARAIBANO DE\nANALISES CLINICAS LTDA",
+            "valor_total": "R$ 51,675.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 357160.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 592015.0,
+        "empresas_mensais": [
+          {
+            "objeto": "FORNECIMENTO DE SUPLEMENTOS ALIMENTAR\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nSAÚDE DESTE MUNICÍPIO E PARA DOAÇÃO AS PESSOAS\n\nCARENTES",
+            "empresa": "CENTRO ESPECIALIZADO EM NUTRICAO ENTERAL E\n\nPARENTERAL - CENE",
+            "valor_total": "R$ 425,760.00"
+          },
+          {
+            "objeto": "FORNECIMENTO DE LEITE PARA LACTNTES\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nSAÚDE DESTE MUNICÍPIO E PARA DOAÇÃO AS PESSOAS\n\nCARENTES",
+            "empresa": "TECNOCENTER MATERIAIS MEDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 93,530.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA LOCAÇÃO DE SOFTWARE DE GESTÃO PÚBLICA\n\nDESTINADO A ATENDER A SECRETARIA DE\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 2\n\n\n\nADMINISTRAÇÃO DO MUNÍCIPIO DE CAAPORÃ",
+            "empresa": "RICARDO GUERRA INFORMATICA",
+            "valor_total": "R$ 25,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 1092628.34,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA FORNECIMENTO DE RELÓGIO DE PONTO, CONFORME\nESPECIFICAÇÕES CONTIDAS NO TERMO DE REFERÊNCIA\nDO EDITAL, PARA ATENDER A SECRETARIA DE SAÚDE DO\nMUNICÍPIO DE CAAPORÃ",
+            "empresa": "VLADMIR DE MATOS LEITAO",
+            "valor_total": "R$ 22,320.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 185,
+        "num_contratos": 118,
+        "total_gasto": 13036579.87
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 371880.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 752258.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 4,
+        "total_gasto": 1216340.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nCONTÁBEIS PARA O INSTITUO DE PREVIDÊNCIA DO\n\nMUNICÍPIO",
+            "empresa": "ARTHUR JOSE ALBUQUERQUE GADELHA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 828055.2799999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 1397157.6300000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 12,
+        "total_gasto": 1297310.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 23,
+        "total_gasto": 1842264.6500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 12,
+        "total_gasto": 2425151.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 636650.0800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 992612.5700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 12,
+        "total_gasto": 1276899.5699999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 237972.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 140,
+        "num_contratos": 35,
+        "total_gasto": 6377985.74
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 1108071.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 12,
+        "total_gasto": 2471611.02,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAIS GRÁFICOS\nDESTINADOS AS DIVERSAS SECRETARIAS DO MUNICÍPIO",
+            "empresa": "PRINTEX SERVICOS GRAFICOS E\nCOMERCIO VAREJISTA DE MULTI UTIL",
+            "valor_total": "R$ 251,983.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 332600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 706903.38,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE INSUMOS ODONTOLOGICOS PARA\nSECRETARIA DE SAÚDE DESTE MUNICÍPIO",
+            "empresa": "ORTOSHOP COMERCIO LTDA",
+            "valor_total": "R$ 496,353.38"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 36897.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 120000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 23010.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 291166.16000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 25334.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 1012420.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 226928.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 206,
+        "num_contratos": 132,
+        "total_gasto": 10613611.669999998
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 236350.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 8,
+        "total_gasto": 801561.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 19,
+        "total_gasto": 2611501.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 18,
+        "total_gasto": 1463412.29,
+        "empresas_mensais": [
+          {
+            "objeto": "EVENTUAL AQUISIÇÃO DE GÊNEROS\nALIMENTÍCIOS, DESTINADOS A MANUTENÇÃO DA\nSECRETARIA DE EDUCAÇÃO AQUISIÇÃO DE GÊNEROS\nALIMENTÍCIOS DESTINADOS A MERENDA ESCOLAR DOS\nALUNOS DAS ESCOLAS DA REDE MUNICIPAL DE\nEDUCAÇÃO DO MUNICÍPIO DE CAAPORÃ-PB",
+            "empresa": "JOSE DE ARIMATEA DA\nSILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 16,
+        "total_gasto": 1724940.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 5,
+        "total_gasto": 1248982.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 18,
+        "total_gasto": 851551.56,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DO IMÓVEL SITUADO NA RUA DO RIO,\nN° 126 – BAIRRO: CENTRO/CUPISSURA, PARA SEDIAR UM\nPONTO DE APOIO DA SECRETARIA DE INFRAESTRUTURA E\nSERVIÇOS URBANOS",
+            "empresa": "JOSÉ PATRICIO BEZERRA",
+            "valor_total": "R$ 6,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 13,
+        "total_gasto": 327825.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 479941.82,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 8,
+        "total_gasto": 454229.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 186386.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA,\n\nOBJETIVANDO A EXECUÇÃO DOS SERVIÇOS\n\nESTRATÉGICOS DE TECNOLOGIA DA INFORMAÇÃO, VIA\n\nSISTEMA, PARA OPERACIONALIZAÇÃO DA COMPENSAÇÃO\n\nPREVIDENCIÁRIA ENTRE OS REGIMES DE PREVIDÊNCIA,\n\nVIA SISTEMA COMPREV",
+            "empresa": "EMPRESA DE TECNOLOGIA E\n\nINFORMAÇÕES DA PREVIDÊNCIA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 4578695.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 208,
+        "num_contratos": 160,
+        "total_gasto": 18172645.749999996
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 1338410.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 8,
+        "total_gasto": 177676.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 1678359.7,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nSISTEMA DE SOM PARA EVENTOS DA PREFEITURA\n\nMUNICIPAL DE CAAPORÃ",
+            "empresa": "GILVANBERGSON PAULINO DOS SANTOS",
+            "valor_total": "R$ 17,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇAO DE\n\nVEICULOS TIPO ONIBUS PARA FICAR À DISPOSIÇÃO DA\n\nSECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO, FAZENDO O\n\nTRANSPORTE DOS USUÁRIOS DO SERVIÇO DE\n\nCONVIVÊNCIA E FORTALECIMENTO DE VÍNCULOS (SCFV)\n\nE FUNAD (JOÃO PESSOA)",
+            "empresa": "MARIA DAS GRACAS RODRIGUES\n\nMENDES LEITE",
+            "valor_total": "R$ 192,396.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 21,
+        "num_contratos": 23,
+        "total_gasto": 4028495.08,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA COM REGISTRO NA\n\nANP PARA FORNECER COMBUSTÍVEIS PARA OS VEÍCULOS\n\nDA FROTA OFICIAL DAS DIVERSAS SECRETARIAS DE\n\nFORMA PARCELADA E COM COTA EXCLUSIVA À\n\nPARTICIPAÇÃO DE MICROEMPRESA E EMPRESA DE\n\nPEQUENO PORTE, CONFORME PREVISTO NO ART",
+            "empresa": "HS\n\nCOMERCIO DE COMBUSTIVEL LTDA",
+            "valor_total": "R$ 1,213,950.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA COM REGISTRO NA\n\nANP PARA FORNECER COMBUSTÍVEIS PARA OS VEÍCULOS\n\nDA FROTA OFICIAL DAS DIVERSAS SECRETARIAS DE\n\nFORMA PARCELADA E COM COTA EXCLUSIVA À\n\nPARTICIPAÇÃO DE MICROEMPRESA E EMPRESA DE\n\nPEQUENO PORTE, CONFORME PREVISTO NO ART",
+            "empresa": "MANANCIAL COMERCIO DE\n\nCOMBUSTIVEIS E LUBRIFICANTES LTDA",
+            "valor_total": "R$ 1,213,950.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 26,
+        "total_gasto": 1024110.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Constitui objeto deste Edital, a seleção para aquisição de\n\ncota de patrocínio, com direito de exibição de\n\npublicidade/merchandising em espaços e equipamentos públicos do\n\nMunicípio nas localidades dos eventos, excetuando–se instituições\n\nbancárias públicas e órgãos da Administração Pública Federal e do\n\nEstado da Paraíba, no Evento denominado “São João e São Pedro de\n\nCaaporã” mediante as condições estabelecidas neste Edital e em seus\n\nAnexos",
+            "empresa": "ENGARRAFAMENTO FUNDO DO VALE FABRICACAO DE\n\nAGUARDENTE EIRELI",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇOS NAS ÁREAS DE SOCIAL\n\nMEDIA, ARTE–FINALISTA E SERVIÇOS DE CRIAÇÃO DE\n\nWEBSITE, QUE OFEREÇA A MANUTENÇÃO, HOSPEDAGEM E\n\nATUALIZAÇÃO DE WEBSITE DESTA PREFEITURA",
+            "empresa": "ROCKET GROUP\n\nCOMUNICACAO E SERVICOS LTDA",
+            "valor_total": "R$ 16,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 13,
+        "total_gasto": 1114809.7,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PORTÕES DE CHAPA\n\nGALVANIZADA PARA A ESCOLA EUNICE NAZÁRIO, PARA A\n\nDEMANDA DA SECRETARIA DE EDUCAÇÃO",
+            "empresa": "ESTELITA RODRIGUES DE\n\nOLIVEIRA",
+            "valor_total": "R$ 6,508.15"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 15,
+        "total_gasto": 753053.49,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM LICENÇA DE USO DE \"PLATAFORMA DE INTELIGÊNCIA\n\nE ACOMPANHAMENTO PERMANENTE DA GESTÃO SUAS\n\nEM PLATAFORMA WEB E MOBILE CONTEMPLANDO\n\nFORMAÇÃO CONTINUADA, INFORMATIZAÇÃO E CONEXÃO\n\nENTRE PROFISSIONAIS DO SUAS\", SOLICITAÇÃO FEITA\n\nPELA SECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO",
+            "empresa": "JUNGLE CONSULTORIA E SOLUCOES SOCIAIS LTDA",
+            "valor_total": "R$ 35,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 20,
+        "num_contratos": 12,
+        "total_gasto": 744083.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 9,
+        "total_gasto": 880977.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 657563.35,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA JURIDICA\n\nESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE\n\nILUMINAÇÃO NATALINA EM ATENDIMENTO A\nSECRETARIA DE INFRA ESTRUTURA DESTE MUNICIPIO",
+            "empresa": "FRANCINALDO CLARINDO DOS SANTOS",
+            "valor_total": "R$ 28,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 1196410.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 16,
+        "total_gasto": 2488103.75,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA FORNECIMENTO PARCELADO DE CARGA DE\nOXIGÊNIO E AR COMPRIMIDO MEDICINAL, COM\nFORNECIMENTO DE CILINDRO EM REGIME DE COMODATO\nPARA ATENDER AO SAMU E HOSPITAL ANA VIRGINIA",
+            "empresa": "ALEXSANDRO SANTOS DA SILVA",
+            "valor_total": "R$ 7,508.40"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nEM PRESTAÇÃO DE SERVIÇOS DE LICENCIAMENTO,\nCONSULTORIA, INSTALAÇÃO, IMPLANTAÇÃO,\nTREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO E\nEVOLUÇÃO DE SISTEMAS NO ÂMBITO DA PREFEITURA\nMUNICIPAL DE CAAPORÃ/PB",
+            "empresa": ". PARTES\nCONTRATANTES: Prefeitura Municipal de Caaporã e: CT Nº\n00002/2020 - Alfa Consultoria Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS\nESPECIALIZADOS E CONSULTORIA EM GESTÃO E\nCONTABILIDADE PÚBLICA, CONSOANTE ÀS\nAPLICABILIDADES CONSTITUCIONAIS E FISCAL, COM\nVASTOS CONHECIMENTOS ESPECÍFICOS E GENÉRICOS EM\nCONTABILIDADE APLICADA AO SETOR PÚBLICO - CASP,\nEM OBEDIÊNCIA AO PLANO DE CONTAS APLICADO AO\nSETOR PÚBLICO - PCASP, RELATIVAS AO EXERCÍCIO\nFINANCEIRO DE 2020",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\nMunicipal de Caaporã e: CT Nº 00003/2020",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nEM CONSULTORIA E ASSESSORIA FISCAL E TRIBUTARIA,\nABRAGENDO PLANEJAMENTO ESTRATEGICO,\nREALIZAÇÃO DE ESTUDOS, REVISÃO DA LEGISLAÇAO E\nACOMPANHAMENTO DA ADMINISTRAÇAO TRIBUTARIA E\nSUA EVOLUÇÃO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\nMunicipal de Caaporã e: CT Nº 00075/2021 - Rwr Consultoria &\nAssessoria Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 206,
+        "num_contratos": 119,
+        "total_gasto": 19356458.639999997
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 2452116.5999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE LIVROS DIDÁTICOS,\n\nMATERIAIS E EQUIPAMENTOS PEDAGOGICOS A SEREM\n\nUTILIZADOS NO PROCESSO DE FORMAÇÃO DOS ALUNOS\n\nDA REDE MUNICIPAL DE ENSINO DO MUNICÍPIO DE\nCAAPORÃ",
+            "empresa": "FOCO PROJETOS EDUCACIONAIS E COMERCIO VAREJISTA\n\nDE MOVEIS EIRELI",
+            "valor_total": "R$ 93,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 23,
+        "num_contratos": 5,
+        "total_gasto": 544940.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE\n\nSISTEMAS DESTINADO A MANUTENÇÃO DAS ATIVIDADES\n\nDO INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES\n\nDE CAPORÃ/PB",
+            "empresa": "RICARDO GUERRA INFORMATICA",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS COM O FIM DE ASSESSORAR A\n\nSECRETARIA DE FINANÇAS E PLANEJAMENTO E SETOR DE\n\nTRIBUTOS DO MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Caaporã e: CT Nº 00012/2021 - L & H Assessoria\n\nFiscal Tributaria Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 18,
+        "total_gasto": 2142496.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 5,
+        "total_gasto": 121861.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 10,
+        "total_gasto": 2575740.3200000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 3096276.95,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE AGENTE DE\nINTEGRAÇÃO PARA RECRUTAR, SELECIONAR ATRAVÉS DE\n\nPROCESSOS SELETIVOS PERIÓDICOS E ADMINISTRAR A\n\nCONTRATAÇÃO DE 35 VAGAS DE ESTÁGIOS DA\nPREFEITURA MUNICIPAL DE CAAPORA",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Caaporã e: CT Nº\n00082/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 1267672.6500000001,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DO IMÓVEL SITUADO NA RUA DO RIO,\n\nN° 126 - BAIRRO: CENTRO/CUPISSURA, PARA SEDIAR UM\n\nPONTO DE APOIO DA SECRETARIA DE INFRAESTRUTURA E\n\nSERVIÇOS URBANOS",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Caaporã e: CT Nº 00096/2021",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM LICENÇA DE USO DE \"PLATAFORMA DE INTELIGÊNCIA\n\nE ACOMPANHAMENTO PERMANENTE DA GESTÃO SUAS\n\nEM PLATAFORMA WEB E MOBILE CONTEMPLANDO\n\nFORMAÇÃO CONTINUADA, INFORMATIZAÇÃO E CONEXÃO\n\nENTRE PROFISSIONAIS DO SUAS\", SOLICITAÇÃO FEITA\n\nPELA SECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO.FUNDAMENTO\n\nLEGAL: : Inexigibilidade nº IN00015/2022 ADITAMENTO: Dar\n\ncontinuidade a execução do objeto contratado CONTRATANTES:\n\nPrefeitura Municipal de Caaporã e: CT Nº 00146/2022 - Jungle\n\nConsultoria e Soluções Sociais Ltda- 1º Aditivo - prorroga o prazo por\n\nmais 12 meses",
+            "empresa": "CONTRATANTES:\n\nPrefeitura Municipal de Caaporã e: CT Nº 00146/2022 - Jungle\n\nConsultoria e Soluções Sociais Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 5,
+        "total_gasto": 661024.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 17,
+        "total_gasto": 745700.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 2,
+        "total_gasto": 65230.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 3195294.0,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇO PARA CONTRATAÇÃO DE\nEMPRESA ESPECIALIZADA, OBJETIVANDO O\nFORNECIMENTO DE PLATAFORMA COORPORATIVA, PARA\nADMINISTRAR A AVALIAÇÃO DA SATISFAÇÃO DOS\nUSUÁRIOS SOBRE OS SERVIÇOS PÚBLICOS NO MUNICÍPIO\nDE CAAPORÃ/PB",
+            "empresa": "SOGO TECNOLOGIA E SERVICOS S/A -",
+            "valor_total": "R$ 469,300.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 2891342.3800000004,
+        "empresas_mensais": [
+          {
+            "objeto": "FUTURA E EVENTUAL CONTRATAÇÃO PARA\n\nAQUISIÇÃO PARCELADA DE FRUTAS E VERDURAS",
+            "empresa": "OLIVEIRA COMERCIO DE ALIMENTOS LTDA",
+            "valor_total": "R$ 66,107.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 221,
+        "num_contratos": 174,
+        "total_gasto": 23492265.25
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 3219142.26,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE PROJETOS PEDAGÓGICOS",
+            "empresa": "MAXX SOLUCOES EMPRESARIAIS\n\nEIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADAS DE MEDICAMENTOS\n\nDE A A Z DA LINHA FARMA",
+            "empresa": "MARIA JOSE DE ARAUJO SILVA CUNHA -",
+            "valor_total": "R$ 352,440.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 2,
+        "total_gasto": 53360.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 21,
+        "num_contratos": 5,
+        "total_gasto": 1610512.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 19,
+        "total_gasto": 1254044.73,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 17,
+        "total_gasto": 5127784.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 1130541.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 29,
+        "total_gasto": 1497864.96,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nEM LICENÇA DE USO DE \"PLATAFORMA DE INTELIGÊNCIA\n\nE ACOMPANHAMENTO PERMANENTE DA GESTÃO SUAS\n\nEM PLATAFORMA WEB E MOBILE CONTEMPLANDO\n\nFORMAÇÃO CONTINUADA, INFORMATIZAÇÃO E CONEXÃO\nENTRE PROFISSIONAIS DO SUAS\", SOLICITAÇÃO FEITA\n\nPELA SECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO",
+            "empresa": "- Dar continuidade a execução do",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nEM LICENÇA DE USO DE \"PLATAFORMA DE INTELIGÊNCIA\n\nE ACOMPANHAMENTO PERMANENTE DA GESTÃO SUAS\n\nEM PLATAFORMA WEB E MOBILE CONTEMPLANDO\n\nFORMAÇÃO CONTINUADA, INFORMATIZAÇÃO E CONEXÃO\nENTRE PROFISSIONAIS DO SUAS\", SOLICITAÇÃO FEITA\n\nPELA SECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Caaporã e: CT Nº 00146/2022 - Jungle Consultoria e\n\nSolucoes Sociais Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nEM LICENÇA DE USO DE \"PLATAFORMA DE INTELIGÊNCIA\n\nE ACOMPANHAMENTO PERMANENTE DA GESTÃO SUAS\n\nEM PLATAFORMA WEB E MOBILE CONTEMPLANDO\n\nFORMAÇÃO CONTINUADA, INFORMATIZAÇÃO E CONEXÃO\nENTRE PROFISSIONAIS DO SUAS\", SOLICITAÇÃO FEITA\n\nPELA SECRETARIA DE DESENVOLVIMENTO HUMANO E\n\nINCLUSÃO SOCIAL DESTE MUNICÍPIO",
+            "empresa": "e prorroga o prazo por\n\nmais 12 meses. ASSINATURA: 23.08.24.\n\n\n\nCaaporã",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DO IMÓVEL SITUADO NA RUA DO RIO,\nN° 126 - BAIRRO: CENTRO/CUPISSURA, PARA SEDIAR UM\n\nPONTO DE APOIO DA SECRETARIA DE INFRAESTRUTURA E\n\nSERVIÇOS URBANOS",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Caaporã e: CT Nº 00096/2021",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE ENXOVAL HOSPITALAR PARA\n\nATENDER AS NECESSIDADES DE DIVERSOS SETORES DA\n\nSECREATARIA DE SAÚDE DO MUNICÍPIO DE CAAPORÃ–PB",
+            "empresa": "54.090.885 ERIKLES HENRIQUE DE OLIVEIRA LIMA -",
+            "valor_total": "R$ 35,376.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 33,
+        "total_gasto": 3885872.7499999995,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE IMÓVEL PARA FUNCIONAMENTO\n\nDO PROGRAMA CRIANÇA FELIZ, LOCALIZADO À RUA\n\nELIAS BATISTA DO REGO, Nº 95, BAIRRO SANTO ANTÔNIO,\n\nCAAPORÃ–PB",
+            "empresa": "",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 25,
+        "total_gasto": 2495999.52,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REFORMA DA PRAÇA SÃO JOSÉ NO BAIRRO DO\n\nPIQUETE, NO MUNICÍPIO DE CAAPORÃ/PB",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Caaporã e: CT Nº\n\n00127/2023 - Wjx Construcoes e Servicos de Engenharia Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 272750.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 22,
+        "num_contratos": 2,
+        "total_gasto": 53050.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

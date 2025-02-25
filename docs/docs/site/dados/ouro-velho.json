@@ -229,7 +229,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 66,
+        "num_diarios": 65,
         "num_contratos": 41,
         "total_gasto": 3422424.92
       },
@@ -261,7 +261,7 @@
         ]
       },
       "5": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 6,
         "total_gasto": 393027.66000000003,
         "top_3_empresas": [],
@@ -335,9 +335,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 94,
-        "num_contratos": 37,
-        "total_gasto": 4179716.1000000006
+        "num_diarios": 93,
+        "num_contratos": 41,
+        "total_gasto": 5201450.6
       },
       "2": {
         "num_diarios": 9,
@@ -355,8 +355,8 @@
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 763792.01,
+        "num_contratos": 10,
+        "total_gasto": 1785526.51,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -368,13 +368,13 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 1,
         "total_gasto": 36000.0,
         "top_3_empresas": [
           "s, as partes assinaram o\n\npresente instrumento em 02 vias, de igual teor e para o mesmo efeito\n\nde direito, juntamente com 02 Testemunhas presenciais.\n\n\n\nOuro Velho",
-          "LIUDMILA CARNEIRO NUNES DE LIRA _______________________\n\nAssessor Jurídico Secretária de Saúde\n\n\n\nTESTEMUNHAS: __________________,",
-          "LIUDIMILA CARNEIRO NUNES DE LIRA ______________\n\nAssessor Jurídico Secretária de Saúde\n\n\n\nTESTEMUNHAS:\n\n\n\n__________________,"
+          "LIUDMILA CARNEIRO NUNES DE LIRA _______________________\n\nAssessor Jurídico Secretária de Saúde\n\n\n\nTESTEMUNHAS: __________________",
+          "LIUDIMILA CARNEIRO NUNES DE LIRA ______________\n\nAssessor Jurídico Secretária de Saúde\n\n\n\nTESTEMUNHAS:\n\n\n\n__________________"
         ],
         "top_3_objetos": []
       },
@@ -437,14 +437,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 120,
-        "num_contratos": 52,
-        "total_gasto": 7832772.3
+        "num_diarios": 119,
+        "num_contratos": 53,
+        "total_gasto": 7768818.75
       },
       "2": {
         "num_diarios": 12,
-        "num_contratos": 15,
-        "total_gasto": 980400.0,
+        "num_contratos": 17,
+        "total_gasto": 1016446.4500000001,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação de Empresa Especializada para Prestação de\n\nServiços de Construção de Ginásio de Esportes, por período de 04\n\n(quatro) meses, para atender a Prefeitura Municipal de Ouro\n\nVelho/PB"
@@ -479,8 +479,8 @@
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 267329.23,
+        "num_contratos": 2,
+        "total_gasto": 167329.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -496,7 +496,7 @@
         ]
       },
       "8": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 3,
         "total_gasto": 132217.76,
         "top_3_empresas": [],
@@ -543,9 +543,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 106,
-        "num_contratos": 65,
-        "total_gasto": 12911704.06
+        "num_diarios": 105,
+        "num_contratos": 69,
+        "total_gasto": 13441081.610000001
       },
       "2": {
         "num_diarios": 10,
@@ -563,8 +563,8 @@
       },
       "4": {
         "num_diarios": 9,
-        "num_contratos": 6,
-        "total_gasto": 651000.0,
+        "num_contratos": 10,
+        "total_gasto": 1180377.55,
         "top_3_empresas": [
           "C DA\n\nSILVA GRANGEIRO - INDUSTRIA E COMERCIO DE MOVEIS -\n\nR$ 31.680,00; CT Nº 00009/2022 - 20.04.22 - HKA TECNOLOGIA\n\nDO BRASIL LTDA"
         ],
@@ -580,7 +580,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 1,
         "total_gasto": 580948.49,
         "top_3_empresas": [
@@ -654,8 +654,8 @@
     "2023": {
       "1": {
         "num_diarios": 8,
-        "num_contratos": 2,
-        "total_gasto": 109000.0,
+        "num_contratos": 3,
+        "total_gasto": 162550.0,
         "top_3_empresas": [
           "EMERSON\nVASCONCELOS SILVA FERREIRA SOCIEDADE INDIVIDUAL\nDE ADVOCACIA"
         ],
@@ -664,9 +664,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 129,
-        "num_contratos": 52,
-        "total_gasto": 9713154.21
+        "num_diarios": 127,
+        "num_contratos": 48,
+        "total_gasto": 9793327.240000002
       },
       "2": {
         "num_diarios": 7,
@@ -709,9 +709,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 9,
-        "num_contratos": 10,
-        "total_gasto": 941819.05,
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 675522.0800000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -723,9 +723,9 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 16,
-        "num_contratos": 4,
-        "total_gasto": 373745.54000000004,
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 307505.54000000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -749,8 +749,8 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 5,
-        "total_gasto": 1313653.5599999998,
+        "num_contratos": 6,
+        "total_gasto": 1672813.5599999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -886,9 +886,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 738,
-    "num_contratos": 369,
-    "total_gasto": 56878457.46,
+    "num_diarios": 732,
+    "num_contratos": 374,
+    "total_gasto": "58.445.788,99",
     "top_5_empresas": {
       "Derepente Distri. Alimen. Ltda": 3,
       "Derepente Distr. de Alim. Ltda": 3,

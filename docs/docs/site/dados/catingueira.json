@@ -11,14 +11,14 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 45,
-        "num_contratos": 1,
-        "total_gasto": 69843.05
+        "num_diarios": 44,
+        "num_contratos": 76,
+        "total_gasto": 5287147.609999999
       },
       "2": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 22,
+        "total_gasto": 2332142.2,
         "top_3_empresas": [
           "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA",
           ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA",
@@ -32,15 +32,15 @@
       },
       "3": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 889280.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 25,
+        "total_gasto": 740512.85,
         "top_3_empresas": [
           "A EMPRESA: ANA ALICE\nNAZARIO DE OLIVEIRA ME"
         ],
@@ -57,8 +57,8 @@
       },
       "6": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 437386.0,
         "top_3_empresas": [
           "A EMPRESA: JOSIVAN\nMELQUIADES NÓBREGA",
           "A EMPRESA: M.K. DE\nAZEVEDO ARAÚJO DUTRA DANTAS",
@@ -71,9 +71,9 @@
         ]
       },
       "7": {
-        "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 296340.0,
         "top_3_empresas": [
           "A EMPRESA:\nMASSARANDUBA LOCAÇÕES DE PALCOS EIRELI - LTDA",
           "A EMPRESA AREA\nBADALADA EVENTOS LTDA"
@@ -85,25 +85,25 @@
       },
       "8": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 209990.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 193180.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 118472.58,
         "top_3_empresas": [
           "A EMPRESA: SERVICON",
-          "Outros Serviços de Terceiro Pessoa Jurídica.\nVALOR MENSAL: R$ 4.500,00 (Quatro Mil e Quinhentos Reais)\nVALOR GLOBAL: R$ 54.000,00 (Cinquenta e Quatro Mil Reais).\nVIGÊNCIA: 11/10/2017 à 11/10/2018\nDATA E ASSINATURA: Catingueira"
+          "Outros Serviços de Terceiro"
         ],
         "top_3_objetos": [
           "Contratação de empresa para elaboração de projetos\nbásicos e executivos de engenharia e prestação de serviços de\nassessoria técnica na fiscalização e supervisão de obras e serviços,\nconforme Planilha Orçamentária e Especificações técnicas anexa ao\nEdital"
@@ -122,8 +122,8 @@
     "2018": {
       "1": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 1722768.5,
         "top_3_empresas": [
           "A EMPRESA: COMERCIAL\n\nSANT’ANA VEICULOS E PEÇAS LTDA"
         ],
@@ -132,49 +132,49 @@
         ]
       },
       "resumo": {
-        "num_diarios": 74,
-        "num_contratos": 5,
-        "total_gasto": 162804.5
+        "num_diarios": 73,
+        "num_contratos": 111,
+        "total_gasto": 8717888.440000001
       },
       "2": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 19,
+        "total_gasto": 968396.3099999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 2714620.95,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 8,
-        "num_contratos": 1,
-        "total_gasto": 49404.5,
+        "num_contratos": 12,
+        "total_gasto": 632070.6000000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 875785.4299999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 1062103.65,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 200023.0,
         "top_3_empresas": [
           "A EMPRESA: AREA\nBADALADA EVENTOS LTDA"
         ],
@@ -184,8 +184,8 @@
       },
       "8": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 240320.0,
         "top_3_empresas": [
           "A EMPRESA: IGOR NÓBREGA\nFERREIRA EIRELI"
         ],
@@ -202,8 +202,8 @@
       },
       "10": {
         "num_diarios": 5,
-        "num_contratos": 1,
-        "total_gasto": 8100.0,
+        "num_contratos": 3,
+        "total_gasto": 89100.0,
         "top_3_empresas": [
           "A EMPRESA: COMERCIAL\nSANT’ANA VEICULOS E PEÇAS LTDA"
         ],
@@ -212,9 +212,9 @@
         ]
       },
       "11": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 89400.0,
         "top_3_empresas": [
           "A EMPRESA: CENTER DENT\n\nSERVIÇO DE PRÓTESE DENTÁRIA LTDA",
           "Outros Serviços de Terceiros"
@@ -225,8 +225,8 @@
       },
       "12": {
         "num_diarios": 5,
-        "num_contratos": 3,
-        "total_gasto": 105300.0,
+        "num_contratos": 5,
+        "total_gasto": 123300.0,
         "top_3_empresas": [
           "UDI",
           "necessita ser executado de forma\ncontínua, o que justifica a prorrogação do prazo de vigência do\ncontrato.\n\nParágrafo Primeiro"
@@ -237,23 +237,23 @@
     "2019": {
       "1": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 24,
+        "total_gasto": 1588819.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 82,
-        "num_contratos": 2,
-        "total_gasto": 17500.0
+        "num_diarios": 81,
+        "num_contratos": 99,
+        "total_gasto": 9052327.989999998
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 9000.0,
+        "num_contratos": 32,
+        "total_gasto": 4028548.2600000007,
         "top_3_empresas": [
           "A EMPRESA: CANAPU\n\nCOMÉRCIO DE DISTRIBUIÇÃO LTDA",
-          "A EMPRESA: C.PINHEIRO e\n\nCIA LTDA, inscrita no",
+          "A EMPRESA: C.PINHEIRO e\n\nCIA LTDA",
           "CONCRETISA\n\nCONSTRUTORA LIMITADA"
         ],
         "top_3_objetos": [
@@ -263,9 +263,9 @@
         ]
       },
       "3": {
-        "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 1407394.92,
         "top_3_empresas": [
           "CRUZEIRO DO\nSUL SERVIÇOS DE CONSTRUÇÕES LTDA ME"
         ],
@@ -275,15 +275,15 @@
       },
       "4": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 160963.8,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 6,
+        "total_gasto": 585504.0,
         "top_3_empresas": [
           "CONCRETISA\nCONSTRUTORA LIMITADA"
         ],
@@ -293,8 +293,8 @@
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 718486.01,
         "top_3_empresas": [
           "A EMPRESA DAM",
           "A EMPRESA M.A.G\nPROMOÇÕES E EVENTOS EIRELI",
@@ -308,8 +308,8 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 7,
+        "total_gasto": 268178.0,
         "top_3_empresas": [
           "A EMPRESA:\nMASSARANDUBA LOCAÇÕES DE PALCOS EIRELI - LTDA"
         ],
@@ -320,8 +320,8 @@
       },
       "8": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 58473.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -341,8 +341,8 @@
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 1,
-        "total_gasto": 8500.0,
+        "num_contratos": 4,
+        "total_gasto": 235961.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -357,20 +357,20 @@
     "2020": {
       "1": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 1531993.06,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 71,
-        "num_contratos": 5,
-        "total_gasto": 102538.55
+        "num_contratos": 97,
+        "total_gasto": 8673604.149999999
       },
       "2": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 2440643.5500000003,
         "top_3_empresas": [
           "F.J\nCONSTRUÇÕES E SERVIÇOS LTDA"
         ],
@@ -380,8 +380,8 @@
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 5,
-        "total_gasto": 102538.55,
+        "num_contratos": 32,
+        "total_gasto": 3372172.24,
         "top_3_empresas": [
           "A EMPRESA: SUENIO\nCAMPOS LEITE/FRIGORIFICO FREI DAMIÃO",
           "A EMPRESA: J. J\nDISTRIBUIDORA DE ALIMENTOS LTDA",
@@ -394,10 +394,10 @@
       },
       "4": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 5,
+        "total_gasto": 338228.84,
         "top_3_empresas": [
-          "CONSTRUTORA H S EIRELI,\n\ninscrita no"
+          "CONSTRUTORA H S EIRELI"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS PARA TROCA DE\n\nSOLO NA RUA BASÍLIO LOPES"
@@ -412,15 +412,15 @@
       },
       "6": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 385158.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 308055.47000000003,
         "top_3_empresas": [
           "A EMPRESA: KOHLER\nIMPLEMENTOS AGRICOLAS EIRELI"
         ],
@@ -430,17 +430,17 @@
       },
       "8": {
         "num_diarios": 2,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 13500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 283852.39,
         "top_3_empresas": [
-          "CONSTRUTORA H S EIRELI, inscrita no"
+          "CONSTRUTORA H S EIRELI"
         ],
         "top_3_objetos": [
           "Contratação de Empresa para execução dos serviços de\nConstrução de Rede de Esgoto na Rua Francisco Felix de Sousa"
@@ -464,27 +464,27 @@
     "2021": {
       "1": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 131399.4,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 151,
-        "num_contratos": 39,
-        "total_gasto": 3736198.36
+        "num_diarios": 150,
+        "num_contratos": 145,
+        "total_gasto": 11509014.549999999
       },
       "2": {
         "num_diarios": 7,
-        "num_contratos": 1,
-        "total_gasto": 15600.0,
+        "num_contratos": 2,
+        "total_gasto": 33000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 209330.0,
         "top_3_empresas": [
           "AUTO POSTO CATINGUEIRA LTDA"
         ],
@@ -494,8 +494,8 @@
       },
       "4": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 15,
+        "total_gasto": 1165409.05,
         "top_3_empresas": [
           "AUTO POSTO CATINGUEIRA LTDA"
         ],
@@ -505,15 +505,15 @@
       },
       "5": {
         "num_diarios": 11,
-        "num_contratos": 2,
-        "total_gasto": 50400.0,
+        "num_contratos": 17,
+        "total_gasto": 969314.3,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 11,
-        "num_contratos": 1,
-        "total_gasto": 7300.0,
+        "num_contratos": 6,
+        "total_gasto": 784730.3200000001,
         "top_3_empresas": [
           "ALMED ALDENIO DISTRIBUIDORA DE\nMEDICAMENTOS E MATERIAL MÉDICOS HOSPITALAR\nLTDA;",
           "CIRÚRGICA MONTEBELLO LTDA;",
@@ -525,23 +525,23 @@
         ]
       },
       "7": {
-        "num_diarios": 18,
-        "num_contratos": 1,
-        "total_gasto": 80949.74,
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1861818.93,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 12,
-        "num_contratos": 5,
-        "total_gasto": 452379.32,
+        "num_contratos": 6,
+        "total_gasto": 512379.32,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 18,
-        "num_contratos": 10,
-        "total_gasto": 168361.4,
+        "num_contratos": 27,
+        "total_gasto": 1620350.79,
         "top_3_empresas": [
           "ANDRÉ RICARDO FIGUEIREDO DE\n\nANDRADE",
           "J A L Silva"
@@ -553,11 +553,11 @@
       },
       "10": {
         "num_diarios": 13,
-        "num_contratos": 13,
-        "total_gasto": 2546701.98,
+        "num_contratos": 16,
+        "total_gasto": 2694831.98,
         "top_3_empresas": [
           "Walber Marinho Medeiros,CPF:646.767.654-\n\n87,Rua Saulo de Queiroz Melo,101-JD Guanabara,Cep:58701-\n\n470,Patos-PB",
-          "Helena Anastácio de Araújo Quirino,"
+          "Helena Anastácio de Araújo Quirino"
         ],
         "top_3_objetos": [
           "Contratação de serviços do programa de abastecimento\n\nD’Água através de carros pipa para atendimento emergencial da\n\npopulação da Zona Urbana atingida pela estiagem, com objetivo de\n\natender ao convenio nº 105/2021 firmado entre governo do Estado e a\n\nPrefeitura Municipal de Catingueira-PB"
@@ -565,12 +565,12 @@
       },
       "11": {
         "num_diarios": 15,
-        "num_contratos": 2,
-        "total_gasto": 164245.0,
+        "num_contratos": 16,
+        "total_gasto": 663225.3,
         "top_3_empresas": [
           "NN MED",
           "ALMED ALDENIO DISTRIBUIDORA DE\n\nMEDICAMENTOS E MATERIAL MÉDICOS HOSPITALAR\n\nLTDA",
-          "FAVORITA COMÉRCIO E SERVIÇOS LTDA,"
+          "FAVORITA COMÉRCIO E SERVIÇOS LTDA"
         ],
         "top_3_objetos": [
           "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nDIVERSOS, DESTINADOS A MANUTENÇÃO DA FARMÁCIA\n\nBÁSICA DO MUNICÍPIO, A CARGO DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE CATINGUEIRA-PB",
@@ -580,29 +580,29 @@
       },
       "12": {
         "num_diarios": 19,
-        "num_contratos": 4,
-        "total_gasto": 250260.92,
+        "num_contratos": 16,
+        "total_gasto": 863225.16,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2022": {
       "1": {
-        "num_diarios": 16,
-        "num_contratos": 3,
-        "total_gasto": 141819.09,
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 567099.09,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 180,
-        "num_contratos": 47,
-        "total_gasto": 10144906.929999998
+        "num_diarios": 179,
+        "num_contratos": 216,
+        "total_gasto": 25012195.52000001
       },
       "2": {
         "num_diarios": 16,
-        "num_contratos": 3,
-        "total_gasto": 1724043.58,
+        "num_contratos": 12,
+        "total_gasto": 4324654.08,
         "top_3_empresas": [
           "BEETHOVEN DOS SANTOS DA SILVA",
           "EZEQUIAS VIEIRA DA SILVA",
@@ -614,10 +614,10 @@
       },
       "3": {
         "num_diarios": 16,
-        "num_contratos": 1,
-        "total_gasto": 307700.0,
+        "num_contratos": 21,
+        "total_gasto": 2199763.12,
         "top_3_empresas": [
-          "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE 05307428456",
+          "VANESSA CAETANO FRANÇA DE AQUINO\n\nLEITE",
           "ZIB COMERCIO E SERVIÇOS LTDA - Tipo:",
           "ZIB COMERCIO E SERVIÇOS LTDA"
         ],
@@ -628,18 +628,18 @@
       },
       "4": {
         "num_diarios": 14,
-        "num_contratos": 2,
-        "total_gasto": 307124.29,
+        "num_contratos": 14,
+        "total_gasto": 976934.37,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 15,
-        "num_contratos": 1,
-        "total_gasto": 379510.77,
+        "num_contratos": 6,
+        "total_gasto": 1385108.68,
         "top_3_empresas": [
           "VINÍCIUS JOSÉ DA SILVA CAVALCANTI\n\nME",
-          "IRACI PALMEIRA DA COSTA SILVA ME,",
+          "IRACI PALMEIRA DA COSTA SILVA ME",
           "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETÍFICA E SERVIÇOS LTDA"
         ],
         "top_3_objetos": [
@@ -649,29 +649,29 @@
       },
       "6": {
         "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 11,
+        "total_gasto": 780019.99,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 18,
-        "num_contratos": 28,
-        "total_gasto": 5646010.509999999,
+        "num_contratos": 44,
+        "total_gasto": 6735905.059999998,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 17,
-        "num_contratos": 2,
-        "total_gasto": 919665.92,
+        "num_contratos": 15,
+        "total_gasto": 1842510.7900000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 18,
-        "num_contratos": 1,
-        "total_gasto": 26453.79,
+        "num_contratos": 45,
+        "total_gasto": 2591528.44,
         "top_3_empresas": [
           "UNIDAS VEICULOS E SERVIÇOS LTDA"
         ],
@@ -681,10 +681,10 @@
       },
       "10": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 17,
+        "total_gasto": 1883974.62,
         "top_3_empresas": [
-          "ANDRÉ RICARDO FIGUEIRÊDO DE\nANDRADE-ME\npessoa jurídica de Direito Privado, inscrita no"
+          "ANDRÉ RICARDO FIGUEIRÊDO DE\nANDRADE-ME"
         ],
         "top_3_objetos": [
           "Constitui objeto do presente ADITAMENTO ao Contrato\nnº"
@@ -692,8 +692,8 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 2,
-        "total_gasto": 367578.98,
+        "num_contratos": 9,
+        "total_gasto": 876373.78,
         "top_3_empresas": [
           "AMETISTA CONSTRUÇÕES E SERVIÇOS\n\nEIRELI-CNPJ nº 29.828.673/0001-16"
         ],
@@ -703,8 +703,8 @@
       },
       "12": {
         "num_diarios": 15,
-        "num_contratos": 4,
-        "total_gasto": 325000.0,
+        "num_contratos": 13,
+        "total_gasto": 848323.5,
         "top_3_empresas": [
           "IVANILDO DE OLIVEIRA FARIAS,\ncadastrada no",
           "CLAUCILANIA GOMES DE MOURA LTDA",
@@ -717,9 +717,9 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 14,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 13,
+        "num_contratos": 31,
+        "total_gasto": 2324621.8499999996,
         "top_3_empresas": [
           "VINICIUS JOSÉ NOGUEIRA\nCAVALCANTI-ME",
           "FARMACIA DROGARIA POPULAR LTDA,\ncadastrada no",
@@ -732,18 +732,18 @@
         ]
       },
       "resumo": {
-        "num_diarios": 188,
-        "num_contratos": 22,
-        "total_gasto": 1274186.59
+        "num_diarios": 186,
+        "num_contratos": 200,
+        "total_gasto": 15013176.27
       },
       "2": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 5883.75,
+        "num_contratos": 22,
+        "total_gasto": 3281941.9299999997,
         "top_3_empresas": [
           "ADRIANO LEONEL DE OLIVEIRA",
-          "MANOEL ALVES FILHO, portador do",
-          "ANA LUCIA MENDES DE LIRA GOMES,\n\nportadora do"
+          "MANOEL ALVES FILHO",
+          "ANA LUCIA MENDES DE LIRA GOMES"
         ],
         "top_3_objetos": [
           "é o Chamamento de interessados para apresentar projeto de\n\nvenda de gêneros alimentícios da agricultura familiar e do\nempreendedor familiar rural para de forma complementar atender ao\n\nprograma nacional de Alimentação Escolar/PNAE no município de\n\nCATINGUEIRA/PB",
@@ -753,8 +753,8 @@
       },
       "3": {
         "num_diarios": 14,
-        "num_contratos": 4,
-        "total_gasto": 812996.38,
+        "num_contratos": 31,
+        "total_gasto": 2265582.88,
         "top_3_empresas": [
           "VIVA DISTRIBUIDORA DE PRODUTOS\n\nLTDA",
           "DENTAL HIGIX PRODUTOS\n\nODONTOLÓGICOS MÉDICOS HOSPITALARES LTDA",
@@ -768,15 +768,15 @@
       },
       "4": {
         "num_diarios": 14,
-        "num_contratos": 3,
-        "total_gasto": 103290.0,
+        "num_contratos": 10,
+        "total_gasto": 860613.63,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 20,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 32,
+        "total_gasto": 2808294.0399999996,
         "top_3_empresas": [
           "ODONTOMED COMERCIO DE PRODUTOS\nMEDICO HOSPITALARES LTDA",
           "APOGEU CENTER COMERCIAL DE\nPRODUTOS\nHOSPITALARES E MEDICAMENTOS LTDA",
@@ -788,8 +788,8 @@
       },
       "6": {
         "num_diarios": 15,
-        "num_contratos": 1,
-        "total_gasto": 217476.7,
+        "num_contratos": 18,
+        "total_gasto": 966642.98,
         "top_3_empresas": [
           "RENOVAR CONSTRUÇÕES E SERVIÇOS\n\nLTDA",
           "PRESTCONTAS ASSESSORIA E\n\nCONSULTORIA EM GESTAO EMPRESARIAL E PUBLICA\n\nLTDA"
@@ -801,17 +801,17 @@
       },
       "7": {
         "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 31850.0,
+        "num_contratos": 11,
+        "total_gasto": 380565.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 18,
-        "num_contratos": 4,
-        "total_gasto": 35506.0,
+        "num_contratos": 10,
+        "total_gasto": 400538.57999999996,
         "top_3_empresas": [
-          "ALEXANDER DE AGUIAR GOMES\n\n05353664426"
+          "ALEXANDER DE AGUIAR GOMES"
         ],
         "top_3_objetos": [
           "aquisição de instrumentos musicais destinados a oficina\n\ncomplementar, fortalecimento, autonomia e ações dos adolescentes\n\nbeneficiários do programa do Bolsa família do município de\n\nCatingueira PB"
@@ -819,15 +819,15 @@
       },
       "9": {
         "num_diarios": 15,
-        "num_contratos": 2,
-        "total_gasto": 13579.0,
+        "num_contratos": 10,
+        "total_gasto": 790726.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 16,
-        "num_contratos": 1,
-        "total_gasto": 1240.0,
+        "num_contratos": 4,
+        "total_gasto": 72595.4,
         "top_3_empresas": [
           "ULTRA SOLUÇÕES E SERVIÇOS - LTDA"
         ],
@@ -836,16 +836,16 @@
         ]
       },
       "11": {
-        "num_diarios": 14,
-        "num_contratos": 5,
-        "total_gasto": 52364.76,
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 206919.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 654133.88,
         "top_3_empresas": [
           "EWERTON HUESLLEY PEREIRA",
           "50.190.760 ALINE MEDEIROS DOS\nSANTOS BORGES",
@@ -861,24 +861,24 @@
     "2024": {
       "1": {
         "num_diarios": 19,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 18,
+        "total_gasto": 7432123.1,
         "top_3_empresas": [
-          "BAR RESTAURANTE OLIVEIRA inscrita no\n\nCadastro Nacional de Pessoa Jurídica"
+          "BAR RESTAURANTE OLIVEIRA"
         ],
         "top_3_objetos": [
           "Contratação de serviços de fornecimento parcelado de\n\nrefeições prontas e lanches destinados às atividades do Município de\n\nCatingueira-PB"
         ]
       },
       "resumo": {
-        "num_diarios": 146,
-        "num_contratos": 9,
-        "total_gasto": 629207.65
+        "num_diarios": 145,
+        "num_contratos": 142,
+        "total_gasto": 24082068.669999998
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 23,
+        "total_gasto": 3847260.34,
         "top_3_empresas": [
           "B2 CONSTRUCOES EIRELI"
         ],
@@ -888,8 +888,8 @@
       },
       "3": {
         "num_diarios": 19,
-        "num_contratos": 1,
-        "total_gasto": 6880.0,
+        "num_contratos": 22,
+        "total_gasto": 3630313.4099999997,
         "top_3_empresas": [
           "AZEVEDO COMERCIO VAREJISTA DE\n\nMATERIAIS DE CONSTRUCAO LTDA",
           "LÚMEN DISTRIBUIDORA DE MATERIAIS\n\nELÉTRICOS LTDA"
@@ -900,12 +900,12 @@
       },
       "4": {
         "num_diarios": 18,
-        "num_contratos": 1,
-        "total_gasto": 32846.0,
+        "num_contratos": 47,
+        "total_gasto": 6262409.78,
         "top_3_empresas": [
           "EMILIA GOMES DA SILVA SOUZA-ME",
           "C.PINHEIRO & CIA LTDA",
-          "FERNANDA DE OLIVEIRA MONTEIRO,\n\npessoa jurídica"
+          "FERNANDA DE OLIVEIRA MONTEIRO"
         ],
         "top_3_objetos": [
           "aquisição de materiais de construção para manutenção de\n\nvias públicas e imóveis do município de Catingueira-PB",
@@ -914,29 +914,29 @@
       },
       "5": {
         "num_diarios": 13,
-        "num_contratos": 1,
-        "total_gasto": 2752.0,
+        "num_contratos": 5,
+        "total_gasto": 177105.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 13,
+        "total_gasto": 666298.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "7": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 641423.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 812507.75,
         "top_3_empresas": [
           "FRANCISCO CLEIDSON XAVIER DE\n\nLACERDA JUNIOR"
         ],
@@ -964,8 +964,8 @@
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 262825.0,
+        "num_contratos": 4,
+        "total_gasto": 288723.0,
         "top_3_empresas": [
           "ARNOR DANTAS FILHO"
         ],
@@ -983,15 +983,15 @@
     }
   },
   "resumo": {
-    "num_diarios": 937,
-    "num_contratos": 130,
-    "total_gasto": 16137185.63,
+    "num_diarios": 929,
+    "num_contratos": 1086,
+    "total_gasto": "107.347.423,20",
     "top_5_empresas": {
       "A EMPRESA:\nMASSARANDUBA LOCAÇÕES DE PALCOS EIRELI - LTDA": 2,
+      "CONSTRUTORA H S EIRELI": 2,
       "AUTO POSTO CATINGUEIRA LTDA": 2,
-      "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA": 1,
-      ".\nEXTRATO DO CONTRATO N.º 20/2017\nPREGÃO PRESENCIAL Nº 10/2017\nPARTES: PREFEITURA MUNICIPAL DE CATINGUEIRA": 1,
-      "MOISES\nURBANO DA SILVA": 1
+      "FERNANDA DE OLIVEIRA MONTEIRO": 2,
+      "A EMPRESA: JL COMÉRCIO\nDE PNEUS LTDA": 1
     },
     "top_5_objetos": {
       "Constitui objeto do presente ADITAMENTO ao Contrato\n\nnº": 2,

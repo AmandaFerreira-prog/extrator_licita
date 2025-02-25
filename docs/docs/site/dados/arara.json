@@ -26,7 +26,9 @@
         "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [],
+        "top_3_empresas": [
+          "JOÃO PEREIRA BATISTA NETO"
+        ],
         "top_3_objetos": []
       },
       "9": {
@@ -67,12 +69,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 35,
+        "num_diarios": 34,
         "num_contratos": 0,
         "total_gasto": 0
       },
       "2": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -305,7 +307,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 39,
+        "num_diarios": 38,
         "num_contratos": 0,
         "total_gasto": 0
       },
@@ -317,7 +319,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 5,
+        "num_diarios": 4,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -355,8 +357,12 @@
         "num_diarios": 1,
         "num_contratos": 0,
         "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "top_3_empresas": [
+          "MAC\n\nCONSTRUTORA EIRELI"
+        ],
+        "top_3_objetos": [
+          "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município"
+        ]
       },
       "11": {
         "num_diarios": 5,
@@ -375,21 +381,21 @@
     },
     "2023": {
       "1": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 116,
-        "num_contratos": 56,
-        "total_gasto": 3978309.8200000008
+        "num_diarios": 114,
+        "num_contratos": 59,
+        "total_gasto": 4827742.97
       },
       "2": {
         "num_diarios": 3,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 915615.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -440,9 +446,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
-        "num_contratos": 14,
-        "total_gasto": 896073.3999999999,
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 735441.5499999999,
         "top_3_empresas": [
           "ALEXSANDRO SANTOS DA SILVA\nLTDA"
         ],
@@ -452,10 +458,14 @@
       },
       "10": {
         "num_diarios": 13,
-        "num_contratos": 3,
-        "total_gasto": 628514.5,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 4,
+        "total_gasto": 722964.5,
+        "top_3_empresas": [
+          "G & E REPRESENTACAO E\n\nCOMERCIO DE MATERIAL DE CONSTRUCAO EIRELI"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa para o fornecimento\n\nPARCELADO de tubos de concreto, PVC e acessórios, destinados\n\naos serviços complementares à obra de esgotamento da Rua Natanael\n\nBarbosa neste Município"
+        ]
       },
       "11": {
         "num_diarios": 13,
@@ -483,14 +493,14 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 31,
         "total_gasto": 3417319.4000000004,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 152,
+        "num_diarios": 149,
         "num_contratos": 151,
         "total_gasto": 17556620.62
       },
@@ -509,7 +519,7 @@
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 20,
         "total_gasto": 1004935.34,
         "top_3_empresas": [],
@@ -586,7 +596,7 @@
         ]
       },
       "12": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 2,
         "total_gasto": 230000.0,
         "top_3_empresas": [
@@ -603,22 +613,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 422,
-    "num_contratos": 207,
-    "total_gasto": 21534930.44,
+    "num_diarios": 415,
+    "num_contratos": 210,
+    "total_gasto": "22.384.363,59",
     "top_5_empresas": {
+      "JOÃO PEREIRA BATISTA NETO": 1,
+      "MAC\n\nCONSTRUTORA EIRELI": 1,
       "JCASIF COMERCIO VAREJISTA\n\nDE CEREAIS LTDA": 1,
       "ALEXSANDRO SANTOS DA SILVA\nLTDA": 1,
-      ".\n\nPARTES CONTRATANTES: Prefeitura Municipal de Arara e: CT Nº\n\n00026/2022 - N & S Construções e Projetos LTDA": 1,
-      "KALCULUS COMERCIO DE MOVEIS E MAQ. PARA\n\nESCRITORIO LTDA": 1,
-      "GUEDES COMERCIO DE\n\nMATERIAL DE CONSTRUCAO LTDA": 1
+      "G & E REPRESENTACAO E\n\nCOMERCIO DE MATERIAL DE CONSTRUCAO EIRELI": 1
     },
     "top_5_objetos": {
       "CONTRATAÇÃO DE PESSOA JURÍDICA DO RAMO\n\nPERTINENTE PARA EXECUÇÃO DOS SERVIÇOS DE\n\nCONSTRUÇÃO DE UNIDADE BÁSICA DE SAÚDE DA\n\nFAMÍLIA (UBSF) - PORTE I, NO MUNICÍPIO DE ARARA/PB": 2,
       "Aquisição parcelada de materiais de construção para\n\natender as demandas das Secretarias deste Município de Arara PB": 2,
+      "Contratação de\n\nempresa especializada do ramo de engenharia para o capeamento\n\nasfáltico em diversas vias urbanas deste Município": 1,
       "Aquisição parcelada de gêneros alimentícios, destinados a\n\nmerenda escolar da rede municipal de ensino, creches, municipal e\n\ndemais programas federais": 1,
-      "Contratação de empresa especializada no fornecimento de\ngás oxigênio medicinal, para atender as necessidades da secretaria\nmunicipal de saúde deste Município de Arara PB": 1,
-      "Aquisição de postes em concreto armado destinados a\n\nsecretaria de obras deste Município": 1
+      "Contratação de empresa especializada no fornecimento de\ngás oxigênio medicinal, para atender as necessidades da secretaria\nmunicipal de saúde deste Município de Arara PB": 1
     }
   }
 }

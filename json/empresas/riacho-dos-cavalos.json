@@ -1,0 +1,212 @@
+{
+  "id": "riacho-dos-cavalos",
+  "nome": "Riacho Dos Cavalos",
+  "detalhe": {
+    "2023": {
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 371032.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para aquisição de\n\nmaterial/equipamentos de fisioterapia para academia de saúde,\n\nvisando atender as necessidades da Secretaria Municipal de Saúde",
+            "empresa": "LIVMED MATERIAIS E\n\nEQUIPAMENTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 17,232.00"
+          },
+          {
+            "objeto": "Contratação de empresa para locação de caminhão\n\nbasculante para atender demandas da Secretaria Municipal de\n\nInfraestrutura da Camara Municipal de Bom Sucesso/PB",
+            "empresa": "CONSTRUTORA E LIMPEZA URBANA DANTAS LTDA",
+            "valor_total": "R$ 43,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 3314140.31
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 12,
+        "total_gasto": 2943108.31,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DA EMPRESA F",
+            "empresa": "F. IVO DE MACEDO PRODUCAO\nDE EVENTOS DE FESTAS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DA EMPRESA M&S\nENTRETENIMENTO LTDA INSCRITA NO CNPJ SOB Nº\n31.776.314/0001–04, REPRESENTANTE EXCLUSIVA DA\nARTISTA MICHELE ANDRADE PARA APRESENTAÇÃO DE\nSHOW ARTISTICO EM PRAÇA PÚBLICA, NAS FESTIVIDADES\nALUSIVAS A FESTA DE EMANCIPAÇÃO POLITICA DO\nMUNICIPIO DE RIACHO DOS CAVALOS/PB, À SER\nREALIZADO NO DIA 28 DE DEZEMBRO DE 2023, CONFORME\nPROPOSTA",
+            "empresa": "M&S ENTRETENIMENTO LTDA",
+            "valor_total": "R$ 135,000.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO–SRP PARA\nFUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA\nESPECIALIZADA PARA LOCAÇÃO DE ESTRUTURA DE SOM,\nPALCO, ILUMINAÇÃO, SONORIZAÇÃO, TENDAS E\nESTRUTURAS COMPLEMENTARES, A SEREM UTILIZADOS\nNOS EVENTOS DO MUNICÍPIO DE RIACHO DOS\nCAVALOS/PB",
+            "empresa": "ANTONIO AECIO DA SILVA",
+            "valor_total": "R$ 1,434,940.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para confecção,\nentrega e istalação de móveis projetados para as diversas secretarias\ndo municipio de Riacho dos Cavalos/PB, conforme Termo de\nReferencia",
+            "empresa": "F\nALISSON V DE ANDRADE",
+            "valor_total": "R$ 390,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA IMPLANTAÇÃO DE PAVIMENTAÇÃO NA ZONA\nURBANA DO MUNICÍPIO DE RIACHO DOS CAVALOS/PB,\nCONFORME PROJETO BÁSICO/TERMO DE REFERÊNCIA –\nCONTRATO DE REPASSE CR 924661/2021 MINISTÉRIO DO\nDESENVOLVIMENTO REGIONAL",
+            "empresa": "CONSTRUSOL EMPREENDIMENTOS E SERVICOS EIRELI",
+            "valor_total": "R$ 231,588.24"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA EXECUTAR OS SERVIÇOS DE MODERNIZAÇÃO DE\nCAMPO DE FUTEBOL CONFORME PROJETO BÁSICO E\nTERMO DE REFERÊNCIA NO MUNICÍPIO DE RIACHO DOS\nCAVALOS/PB – CONTRATO DE REPASSE 1077395–42/2021",
+            "empresa": "CONTRATO DE REPASSE 1077395–42/2021.\nFUNDAMENTO LEGAL: Tomada de Preços nº 00009/2023.\nDOTAÇÃO: 20.700 SECRETARIA MUNICIPAL DE\nINFRAESTRUTURA, OBRAS E SERVIÇOS URBANOS E MEIO\nAMBIENTE 27 812 0018 1014 CONSTRUÇÃO, AMPLIAÇÃO\nE/OU REFORMA DE CAMPO DE FUTEBOL CONSTRUIR,\nAMPLIAR E/OU REFORMAR CAMPO DE FUTEBOL,\nCONSTRUÇÃO DE MURADA E ARQUIBANCADA DENTRE\nOUTROS. 15001000 Recursos Livres (Ordinário) 4490.00 Aplicações\nDiretas 000403 4490.51 99 Obras e Instalações 17000000 Outras\nTransferências de Convênios ou Instrumentos Congêneres da União\n4490.00 Aplicações Diretas 000404 4490.51 99 Obras e Instalações.\nVIGÊNCIA: até 26/12/2024.PARTES CONTRATANTES: Prefeitura\nMunicipal de Riacho dos Cavalos e: CT Nº 00113/2023 - 26.12.23 -\nCONSTRUTORA E LIMPEZA URBANA DANTAS LTDA",
+            "valor_total": "R$ 273,745.07"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 8528245.34,
+        "empresas_mensais": [
+          {
+            "objeto": "Registro de Preço para contratação de empresa\n\nespecializada em Execução de projeto de eficiência energética através\n\nde fonte incentivada para os prédios públicos do município de Riacho\n\ndos Cavalos/PB, conforme Termo de Referencia",
+            "empresa": "SILVEIRA & CAVALCANTI -\n\nENERGIA SOLAR COMERCIO E SERVICOS LTDA",
+            "valor_total": "R$ 2,380,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 121,
+        "num_contratos": 109,
+        "total_gasto": 29144080.750000004
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 3069539.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 1972420.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 30,
+        "total_gasto": 3972389.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de atração artística através de empresário\n\nexclusivo da artista Mara Pavanelly para realização de show nas\n\ncomemorações do Tradicional São João de Riacho dos Cavalos/PB, a\n\nser realizado no dia 25/06/2024",
+            "empresa": "PAVANELLY\n\nPRODUCOES E ENTRETENIMENTOS LTDA",
+            "valor_total": "R$ 200,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 1745652.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material permanente, para atender as\n\ndemandas das secretarias municipais de Riacho dos Cavalos/PB,\n\nconforme termo de referencia",
+            "empresa": "NILDO FREITAS DANTAS",
+            "valor_total": "R$ 25,326.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 2858143.09,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do serviço artistico através de empresário\n\nexclusivo do artista Felipe Santos para show alusivo as comemorações\n\ndo tradicional São João de Riacho dos Cavalos/PB, a ocorrer no dia\n\n25/06/2024 com duração de duas horas de show",
+            "empresa": "SDC PRODUÇOES E EVENTOS LTDA",
+            "valor_total": "R$ 50,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução de Obra de\n\nAdequação de Estradas vicinais (Pavimentação e Passagem Molhada),\n\nconforme planilha orçamentária e projeto básico, do C.V:\n\n939378/2022 – MAPA",
+            "empresa": "KEVENY FERNANDES DE\n\nARAUJO",
+            "valor_total": "R$ 724,086.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada no ramo da\n\nconstrução civil para os serviços de conclusão do matadouro público\n\ndo municipio de Riacho dos Cavalos/PB, conforme contrato de\n\nrepasse nº 104400970/2017",
+            "empresa": "KEVENY FERNANDES DE ARAUJO",
+            "valor_total": "R$ 205,247.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 2329754.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento de pessoas físicas para prestação de\nserviços de locação de máquinas e veículos com disponibilização de\n\nmotorista para atender as necessidades das diversas secretarias do\n\nmunicípio de Riacho dos Cavalos/PB, conforme critérios, termos e\n\ncondições estabelecidos neste edital e seus anexos",
+            "empresa": "VALDERI VIEIRA DANTAS",
+            "valor_total": "R$ 39,200.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 882470.84,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de material\n\nesportivo para suprir necessidades das secretarias municipais de\n\nEducação, Assistencia Social e Juventude, Esporte e Cultura,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 35\n\n\n\nconforme descrito no Termo de Referencia",
+            "empresa": "RUBENS CASTILHO NUNES DINIZ JUNIOR",
+            "valor_total": "R$ 49,260.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 822447.21,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 1681959.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO GRADUAL DE COMBUSTÍVEIS PARA\n\nATENDER AS NECESSIDADES DA FROTA DE VEÍCULOS DO\n\nMUNICÍPIO DE RIACHO DOS CAVALOS/PB QUE SE\nDESLOCAM PARA A CAPITAL - A ROTA DE ATENDIMENTO\n\nPODERÁ TAMBÉM SER ENTRE AS CIDADES DE SANTA\n\nLUZIA/PB E A CAPITAL JOÃO PESSOA, DESDE QUE NO\n\nTRECHO - ÀS MARGENS DA BR 230, PARA ATENDER A\nDEMANDA DO ANO EM EXERCICIO 2024",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Riacho dos Cavalos e: CT Nº 00020/2024 -\nPosto Diesel Sao Jose Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1281058.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

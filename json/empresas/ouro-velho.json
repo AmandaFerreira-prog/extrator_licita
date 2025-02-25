@@ -1,0 +1,904 @@
+{
+  "id": "ouro-velho",
+  "nome": "Ouro Velho",
+  "detalhe": {
+    "2017": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 49686.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 59,
+        "num_contratos": 35,
+        "total_gasto": 4854965.190000001
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 124000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição imediata de Veículo, para atender ao Fundo\nMunicipal de Saúde de Ouro Velho/PB",
+            "empresa": "COMERCIAL SANT'ANA VEICULOS\nE PECAS LTDA",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para Prestação de\nServiços de Locação de Veículo para o Gabinete do Prefeito, por\nperíodo de 12 (doze) meses, para atender a Prefeitura Municipal de\nOuro Velho/PB",
+            "empresa": "Costa Lira Serviços e Transportes Ltda",
+            "valor_total": "R$ 84,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 274189.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1162497.6400000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 499961.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 857041.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 715442.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza, por período\nde 12 (doze) meses, para atender o Fundo Municipal de Saúde de\nOuro Velho/PB",
+            "empresa": "Derepente Distri. Alimen. Ltda",
+            "valor_total": "R$ 176,627.10"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza, por período\nde 12 (doze) meses, para atender a Prefeitura de Ouro Velho/PB",
+            "empresa": "Derepente Distr. de Alim. Ltda",
+            "valor_total": "R$ 241,608.10"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza, por período\nde 12 (doze) meses, para atender a Prefeitura de Ouro Velho/PB",
+            "empresa": "XAND'S COMERCIAL DE\nALIMENTOS EIRELI",
+            "valor_total": "R$ 525.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 445037.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios, por período\nde 12 (doze) meses, para atender o Fundo Municipal de Saúde de\nOuro Velho/PB",
+            "empresa": "Derepente Distri. Alimen. Ltda",
+            "valor_total": "R$ 149,324.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios, por período\nde 12 (doze) meses, para atender a Prefeitura de Ouro Velho/PB",
+            "empresa": "Derepente Distr. de Alim. Ltda",
+            "valor_total": "R$ 295,713.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 112987.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 114335.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 481785.27,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Medicamentos, por período de 12\n(doze) meses, para atender o Fundo Municipal de Saúde de Ouro\nVelho/PB",
+            "empresa": "Cirurgica Montebello Ltda",
+            "valor_total": "R$ 481,785.27"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 18000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 98900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 63,
+        "num_contratos": 27,
+        "total_gasto": 1947661.4900000002
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 84712.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 164940.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 87199.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 231259.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 378126.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 160113.31,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Prestação de\n\nServiços de Construção de Pavimentações Graníticos nas Ruas\n\nMunicipais de Ouro Velho/PB, por período de 03 (três) meses, para\n\natender a Prefeitura de Ouro Velho/PB",
+            "empresa": "Construtora Mendonça Ltda",
+            "valor_total": "R$ 55,752.31"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 82500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 398700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 261210.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 299600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 65,
+        "num_contratos": 41,
+        "total_gasto": 3422424.92
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 662611.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 10,
+        "total_gasto": 562623.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada e Exclusiva para\nPrestação de Serviços de Apresentação de Banda e Artista Musical\n(Mano Walter) na Comemoração das Festividades de São João,\ndurante o dia 13 (treze) de Junho de 2019, no Município de Ouro\nVelho/PB",
+            "empresa": "NOVA\nPRODUCOES E EVENTOS LTDA",
+            "valor_total": "R$ 130,000.00"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada e Exclusiva para\nPrestação de Serviços de Apresentação de Banda e Artista Musical\n(Katia Cilene) na Comemoração das Festividades de São João,\ndurante o dia 14 (quatorze) de Junho de 2019, no Município de Ouro\nVelho/PB",
+            "empresa": "KATIA CILENE GRAVACOES, EDICOES\nMUSICAIS E EVENTOS LTDA",
+            "valor_total": "R$ 35,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 393027.66000000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 45900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 73200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 65302.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 951160.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 369000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 206678.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 93,
+        "num_contratos": 41,
+        "total_gasto": 5201450.6
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 621483.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 873806.7200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 1785526.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 140223.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 696893.8099999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Prestação de\nServiços de Construção de Pavimento em Paralelepípedos Granitícos,\npor período de 02 (dois) meses, visando atender o Município de Ouro\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 10\n\n\nVelho/PB",
+            "empresa": "TITANIUM CONSTRUÇOES E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 17,859.98"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 15600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 177025.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 648211.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 27600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 119,
+        "num_contratos": 53,
+        "total_gasto": 7768818.75
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 17,
+        "total_gasto": 1016446.4500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 1957818.3800000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios, Material de\nLimpeza, Hortifrutigranjeiros e Material de Expediente, por período\nde 12 (doze) meses, visando atender ao Fundo Municipal de Saúde de\nOuro Velho/PB",
+            "empresa": "Derepente Distri. Alimen. Ltda",
+            "valor_total": "R$ 305,215.78"
+          },
+          {
+            "objeto": "Aquisição parcelada de Gêneros Alimentícios, Material de\nLimpeza, Hortifrutigranjeiros e Material de Expediente, por período\nde 12 (doze) meses, para atender a Prefeitura Municipal de Ouro\nVelho/PB",
+            "empresa": "Derepente Distr. de Alim. Ltda",
+            "valor_total": "R$ 482,931.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 163035.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 442865.08999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 167329.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 273575.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\n\nserviços de Construção da Central de Velório Municipal, por período\n\nde 04 (quatro) meses, para atender a Prefeitura Municipal de Ouro\n\nVelho/PB",
+            "empresa": "JOTAV CONSTRUCOES, SERVICOS E\n\nSOLUCOES LTDA",
+            "valor_total": "R$ 198,410.32"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 132217.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1417786.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1526463.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 3,
+        "total_gasto": 643679.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 2426988.7800000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 105,
+        "num_contratos": 69,
+        "total_gasto": 13441081.610000001
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 723809.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 81438.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 1180377.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição imediata de Equipamentos, Mobiliários e\n\nInovação Tecnológica para Escola Municipal de Ouro Velho/PB",
+            "empresa": "C DA\n\nSILVA GRANGEIRO - INDUSTRIA E COMERCIO DE MOVEIS -\n\nR$ 31.680,00; CT Nº 00009/2022 - 20.04.22 - HKA TECNOLOGIA\n\nDO BRASIL LTDA",
+            "valor_total": "R$ 28,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 253456.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 580948.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 475656.43,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\n\nserviços de Construção de Rede de Abastecimento d‟água dos Sítios\n\nOlho D„água e Pau D‟arco, por período de 02 (dois) meses, para\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 31\n\n\n\natender a Prefeitura Municipal de Ouro Velho/PB",
+            "empresa": "ULTRA SOLUCOES\n\nE SERVICOS LTDA",
+            "valor_total": "R$ 129,796.88"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 1856351.72,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 2711746.3200000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Profissional e/ou Empresa Especializada\n\npara Prestação de Serviços Jurídicos e Apoio Administrativo, por\n\nperíodo de 12 (doze) meses, visando atender a Prefeitura Municipal de\n\nOuro Velho/PB",
+            "empresa": "EMERSON VASCONCELOS SILVA\n\nFERREIRA SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 58,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 389157.06,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\nserviços de Locação de Estrutura Festiva (Som, Grid, Gerador,\nIluminação, Painel de LED, Disciplinador, Camarim, Palco, Banheiro\nQuímico, Tenda e outros itens), para Evento Festivo (Festa de\nNovembro), no dia 03 de novembro de 2022, visando atender o\nMunicípio de Ouro Velho/PB",
+            "empresa": "K E SERVICOS & ORGANIZACAO DE\nEVENTOS EIRELI",
+            "valor_total": "R$ 92,785.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 648450.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Combustível, por período de 12\n\n(doze) meses, para atender ao Fundo Municipal de Saúde de Ouro\n\nVelho/PB",
+            "empresa": "Posto de Combustiveis Ouro Velho Ltda",
+            "valor_total": "R$ 518,450.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Combustível, por período de 12\n\n(doze) meses, para atender ao Fundo Municipal de Saúde de Ouro\n\nVelho/PB",
+            "empresa": "CT Nº 00023/2022",
+            "valor_total": "R$ 518,450.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 2112700.8200000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 162550.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação dos serviços técnicos especializados em\nassessoria jurídica e advocacia, no âmbito das competências\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 35\n\n\nrelacionadas ao processo legislativo e a gestão administrativa da\nCâmara de Vereadores do Município de Ouro Velho – PB",
+            "empresa": "EMERSON\nVASCONCELOS SILVA FERREIRA SOCIEDADE INDIVIDUAL\nDE ADVOCACIA",
+            "valor_total": "R$ 44,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 127,
+        "num_contratos": 48,
+        "total_gasto": 9793327.240000002
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 2128949.44,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Medicamentos, Material e\n\nInjetáveis, por período de 12 (doze) meses, para atender ao Fundo\n\nMunicipal de Saúde de Ouro Velho/PB",
+            "empresa": "EXPRESS\n\nDISTRIBUIDORA DE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 372,210.14"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 968692.5700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 1088022.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 675522.0800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1032036.3200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 307505.54000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 535129.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 1179719.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para Construção de\n\nCentro de Referência em Assistência Social, por período de 180\n\n(cento e oitenta) dias, para atender a Prefeitura Municipal de Ouro\n\nVelho/PB",
+            "empresa": "46.523.739 LTDA (GOLDEN ENGENHARIA)",
+            "valor_total": "R$ 419,914.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1672813.5599999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 42385.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição imediata de Equipamentos diversos para atender\nas Unidades Básicas de Saúde (UBS) do Fundo Municipal de Saúde\nde Ouro Velho/PB",
+            "empresa": "ODONTOMED COMERCIO DE PRODUTOS MEDICO\nHOSPITALARES LTDA",
+            "valor_total": "R$ 37,807.00"
+          },
+          {
+            "objeto": "Aquisição imediata de Equipamentos diversos para atender\nas Unidades Básicas de Saúde (UBS) do Fundo Municipal de Saúde\nde Ouro Velho/PB",
+            "empresa": "CT Nº 00018/2023 - 29.12.23 - A J P DE SOUZA & CIA\nCOMERCIO ATACADISTA LTDA",
+            "valor_total": "R$ 37,807.00"
+          },
+          {
+            "objeto": "Aquisição imediata de Equipamentos diversos para atender\nas Unidades Básicas de Saúde (UBS) do Fundo Municipal de Saúde\nde Ouro Velho/PB",
+            "empresa": "45.468.921 GUILHERME HENRIQUE\nQUEIROZ MACIEL DE PAIVA",
+            "valor_total": "R$ 37,807.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 1427009.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 101,
+        "num_contratos": 60,
+        "total_gasto": 12016059.190000001
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 41800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 150000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 83279.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 2729300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\n\nserviços de Reforma e Ampliação da Sede do Poder Executivo\n\nMunicipal, conforme Emenda Parlamentar Estadual nº 116/2023, pelo\n\nperíodo de 08 (oito) meses, visando atender ao Município de Ouro\n\nVelho/PB",
+            "empresa": "ULTRA\n\nSOLUCOES E SERVICOS LTDA",
+            "valor_total": "R$ 950,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 2943856.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 13,
+        "total_gasto": 212425.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 1320525.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 450987.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 106231.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 2550643.0300000003,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\n\nserviços de realização de Concurso Público no Município de Ouro\n\nVelho – PB, incluindo consultoria junto ao departamento de recursos\n\nhumanos para o mapeamento, revisão e organização dos cargos que\n\nserão objeto do certame, através de levantamento e análise de\n\ndocumentos e leis para o correto dimensionamento do quadro de\n\npessoal do poder executivo e demais órgãos, conforme especificações\n\ndo Termo de Referência, para atender Prefeitura Municipal",
+            "empresa": "CONSEP\n\n- CONSULTORIA E ESTUDOS PEDAG??GICOS LTDA",
+            "valor_total": "R$ 147.60"
+          },
+          {
+            "objeto": "Contratação de Empresa Especializada para prestação de\n\nserviços de Construção de Mercado Público, por período de 07 (sete)\n\nmeses, visando atender ao Município de Ouro Velho/PB",
+            "empresa": "MROG CONSTRUCOES E SERVICOS\n\nLTDA",
+            "valor_total": "R$ 1,087,780.15"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

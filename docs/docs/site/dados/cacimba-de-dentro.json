@@ -17,9 +17,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 52,
-        "num_contratos": 65,
-        "total_gasto": 8125967.56
+        "num_diarios": 51,
+        "num_contratos": 55,
+        "total_gasto": 7951823.56
       },
       "8": {
         "num_diarios": 12,
@@ -29,9 +29,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 11,
-        "num_contratos": 26,
-        "total_gasto": 2558088.6399999997,
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 2383944.6399999997,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Contratação dos serviços de locação de horas máquina de\n\ntratores agrícola sobre pneus com grade aradora de no mínimo de 14\n\ndiscos com operador e combustível por conta do licitante destinados\n\nao corte de terras de micro e pequenos agricultores do município de\n\nCacimba de Dentro/PB, exercício de 2022",
@@ -76,9 +76,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 88,
+        "num_diarios": 87,
         "num_contratos": 94,
-        "total_gasto": 15907832.729999997
+        "total_gasto": 16467398.569999997
       },
       "2": {
         "num_diarios": 6,
@@ -155,14 +155,15 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 7,
-        "total_gasto": 1219412.11,
+        "total_gasto": 1778977.9500000002,
         "top_3_empresas": [
-          "ROOSVELT DE AGUIAR ALBUQUERQUE 67458785420"
+          "CONSTRUTORA BARBOSA E\n\nFERREIRA LTDA"
         ],
         "top_3_objetos": [
-          "Aquisição de Grama Esmeralda em placas destinada ao\n\nCampo de Futebol localizado no Distrito de Logradouro e a\n\nmanutenção de praças e jardins no Município de Cacimba de\n\nDentro/PB"
+          "SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE destinados a rede municipal de ensino do município\n\nde Cacimba de Dentro/PB",
+          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE AMPLIAÇÃO DA UBS MARIA\n\nBERNARDINO DOS SANTOS, LOCALIZADA NO SÍTIO SERRA\n\nFEIA, MUNICÍPIO DE CACIMBAS – PB"
         ]
       },
       "11": {
@@ -314,9 +315,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 199,
-    "num_contratos": 236,
-    "total_gasto": 35259552.46,
+    "num_diarios": 197,
+    "num_contratos": 226,
+    "total_gasto": "35.644.974,30",
     "top_5_empresas": {
       "FILHOS DA LUZ\nCOMUNICAÇÕES LTDA": 2,
       "EDSON GOMES DE\n\nLIMA": 1,

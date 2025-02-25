@@ -1,0 +1,1124 @@
+{
+  "id": "bayeux",
+  "nome": "Bayeux",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 47,
+        "num_contratos": 3,
+        "total_gasto": 80844.0
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 7344.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 71500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Serviços de Suporte em manutenção de\ncomputadores, da rede ótica e otimização dos sistemas",
+            "empresa": "Import Authority Comercio de Equipamentos de\nInformática Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 2000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 35,
+        "num_contratos": 3,
+        "total_gasto": 97200.0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 97200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 25,
+        "num_contratos": 1,
+        "total_gasto": 87600.0
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 87600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 49,
+        "num_contratos": 7,
+        "total_gasto": 250002.0
+      },
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 78000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 84502.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 27500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 60000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 27,
+        "num_contratos": 7,
+        "total_gasto": 341442.5
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 7,
+        "total_gasto": 341442.5,
+        "empresas_mensais": [
+          {
+            "objeto": "REGISTRO DE PREÇOS para o fornecimento parcelado\nde armações oculares e confecção de lentes corretivas, destinadas aos\nestudantes matriculados na rede municipal de ensino e as pessoas\ncarentes do município de Bernardino Batista/PB",
+            "empresa": "PAULO CEZAR SILVA\nSAMPAIO-ME",
+            "valor_total": "R$ 21,547.50"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para contratação de serviços\ncontínuos de manutenção preventiva e corretiva, bem como a\nreposição de peças para veículos de pequeno e grande porte que\ncompõem a frota da Prefeitura Municipal de Bernardino Batista/PB",
+            "empresa": "AUTO EQUIPADORA SOUSA LTDA",
+            "valor_total": "R$ 271,895.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para contratação de serviços\ncontínuos de manutenção preventiva e corretiva, bem como a\nreposição de peças para veículos de pequeno e grande porte que\ncompõem a frota da Prefeitura Municipal de Bernardino Batista/PB",
+            "empresa": "CT Nº 00073/2018",
+            "valor_total": "R$ 271,895.00"
+          },
+          {
+            "objeto": "REGISTRO DE PREÇOS para contratação de serviços\ncontínuos de manutenção preventiva e corretiva, bem como a\nreposição de peças para veículos de pequeno e grande porte que\ncompõem a frota da Prefeitura Municipal de Bernardino Batista/PB",
+            "empresa": "CT Nº 00074/2018",
+            "valor_total": "R$ 271,895.00"
+          },
+          {
+            "objeto": "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+            "empresa": "JONAS ANTONIO PAULO",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "Contratação de serviço de locação mensal de veículos, com\nmotorista, destinados ao transporte de estudantes regulares e aos que\ncompõe a Educação de Jovens e Adultos-EJA da rede municipal e\nestadual de ensino na zona rural do município de Bernardino\nBatista/PB",
+            "empresa": "CT Nº 00076/2018",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 37,
+        "num_contratos": 9,
+        "total_gasto": 94030.0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 6,
+        "total_gasto": 63500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada na área de consultoria\n\nem investimento e licenciamento no sistema de gestão de carteiras e\n\nmonitoramento dos investimentos",
+            "empresa": "MATIAS E LEITÃO CONSULTORES ASSOCIADOS\n\nLTDA.",
+            "valor_total": "R$ 16,000.00"
+          },
+          {
+            "objeto": "Contratação de Serviços de Suporte em manutenção de\n\ncomputadores, da rede ótica e otimização dos sistemas",
+            "empresa": "Import Authority Comercio de Equipamentos de\n\nInformática Ltda",
+            "valor_total": "R$ 7,920.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 30530.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 28,
+        "num_contratos": 7,
+        "total_gasto": 105780.0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 5,
+        "total_gasto": 57780.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de prestação de serviços e locação de software\nde gestão de previdência",
+            "empresa": "PERCEPT SERVIÇOS DE TREINAMENTO EM\nDESENVOLVIMENTO PROFISSIONAL LTDA.",
+            "valor_total": "R$ 16,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada na área de consultoria\nem investimento e licenciamento no sistema de gestão de carteiras e\nmonitoramento dos investimentos",
+            "empresa": "MATIAS E LEITÃO CONSULTORES ASSOCIADOS\nLTDA.",
+            "valor_total": "R$ 16,800.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para locação de\nsistema de folha de pagamento",
+            "empresa": "E-SOFT TECNOLOGIA EM INFORMÁTICA LTDA.",
+            "valor_total": "R$ 9,060.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para licenciamento de\nsistema contabilidade",
+            "empresa": "E-TICONS EMPRESA DE TECNOLOGIA DE\nINFORMAÇÃO & CONSULTORIA LTDA ME.",
+            "valor_total": "R$ 7,800.00"
+          },
+          {
+            "objeto": "Contratação de Serviços de Suporte em manutenção de\ncomputadores, da rede ótica e otimização dos sistemas",
+            "empresa": "Import Authority Comercio de Equipamentos de\nInformática Ltda",
+            "valor_total": "R$ 7,920.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 48000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa jurídica para prestação de serviços\ntécnicos especializados em assessoria e consultoria jurídica, com\natuação nas áreas de previdência social, tributação e assessoria\nadministrativa Vigência: 04 (quatro) meses",
+            "empresa": "NASCIMENTO & BARBOSA",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 31,
+        "num_contratos": 6,
+        "total_gasto": 197800.0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 174400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 8400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação empresa especializada para locação de sistema\nde folha de pagamento",
+            "empresa": "E-SOFT TECNOLOGIA EM INFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação empresa especializada na área de consultoria em\ninvestimento, licenciamento no sistema de gestão de carteiras e\nmonitoramento dos investimentos",
+            "empresa": "MATIAS & LEITÃO CONSULTORES ASSOCIADOS\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Serviços em aluguel de software de gestão de\nprevidência",
+            "empresa": "Percept Serviços de Treinamento em Desenvolvimento\nProfissional LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação empresa especializada na prestação de serviços\nde informática, que tange aos serviços de cessão de uso e: locação,\ninstalação, reparo, recarga e manutenção de impressora HP",
+            "empresa": "TTRÊS COMUNICAÇÃO VISUAL SERVIÇOS DE\nINFORMÁTICA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviços de suporte em manutenção de\ncomputadores, da rede ótica e otimização dos sistemas",
+            "empresa": "IMPORT AUTHORITY COMÉRCIO DE\nEQUIPAMENTOS DE INFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em serviços técnicos,\nde instalação e liberação, do sistema de contabilidade pública",
+            "empresa": "Public Software Informática Ltda.",
+            "valor_total": "R$ 8,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 15000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 96000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 32,
+        "num_contratos": 3,
+        "total_gasto": 196000.0
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 88000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 12000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação empresa especializada na área de consultoria em\n\ninvestimento, licenciamento no sistema de gestão de carteiras e\n\nmonitoramento dos investimentos",
+            "empresa": "MATIAS & LEITÃO CONSULTORES ASSOCIADOS\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de Serviços em aluguel de software de gestão de\n\nprevidência",
+            "empresa": "Percept Serviços de Treinamento em Desenvolvimento\n\nProfissional LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação empresa especializada para locação de sistema de\n\nfolha de pagamento",
+            "empresa": "E-SOFT TECNOLOGIA EM INFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação empresa especializada na prestação de serviços\n\nde informática, que tange aos serviços de cessão de uso e: locação,\n\ninstalação, reparo, recarga e manutenção de impressora HP",
+            "empresa": "TTRÊS COMUNICAÇÃO VISUAL SERVIÇOS DE\n\nINFORMÁTICA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada em serviços técnicos,\n\nde instalação e liberação, do sistema de contabilidade pública",
+            "empresa": "Public Software Informática Ltda.",
+            "valor_total": "R$ 12,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços de suporte em manutenção de\n\ncomputadores, da rede ótica e otimização dos sistemas",
+            "empresa": "IMPORT AUTHORITY COMÉRCIO DE\n\nEQUIPAMENTOS DE INFORMÁTICA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação empresa especializada na prestação de\n\nserviços de locação de Veículos para contratar (01)um veículo\n\npara Suprir as necessidades deste Instituto",
+            "empresa": "UNIDAS LOCADORA DE VEÍCULOS LTDA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 22",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE LOCAÇÃO E MANUTEÇÃO DE\n\nSOFTWARE PARA GESTÃO DO RPPS, DESENVOLVIMENTO\n\nDE SITE, APLICATIVO PARA OS SERVIDORES PÚBLICOS\n\nPARA ACESSO DE INFORMAÇÕES DE CONTRA CHEQUES,\n\nPREVISÃO DE APOSENTADORIA, FALE COM O GESTOR,\n\nANDAMENTO DE PROCESSO, ENTRE OUTROS",
+            "empresa": "3IT CONSULTORIA LTDA- ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nCONSULTORIA DO E-SOCIAL através da Escrituração Digital das\n\nObrigações Fiscal, Previdenciárias e Trabalhistas (SPED), em\n\nconformidade com Decreto Federal n° 8.373/14 junto ao Instituto de\n\nPrevidência e Assistência dos Servidores Públicos do Município de\n\nBayeux/ PB",
+            "empresa": "PUBLIC SOLUÇÕES E SERVIÇOS LTDA\n\n(PUBLICSERVICE)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 28,
+        "num_contratos": 4,
+        "total_gasto": 192300.0
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 11000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 180000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 1300.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 56,
+        "num_contratos": 15,
+        "total_gasto": 982834.28
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 630885.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 217500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 12962.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 121486.79999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

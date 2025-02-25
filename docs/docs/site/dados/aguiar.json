@@ -18,13 +18,13 @@
       },
       "resumo": {
         "num_diarios": 72,
-        "num_contratos": 2,
-        "total_gasto": 15000.0
+        "num_contratos": 25,
+        "total_gasto": 1807460.21
       },
       "7": {
         "num_diarios": 7,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 50100.0,
         "top_3_empresas": [
           "JC PRODUÇÕES ESTRUTURA E LOCAÇÃO\n\nLTDA"
         ],
@@ -34,15 +34,15 @@
       },
       "8": {
         "num_diarios": 13,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 144000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
         "num_diarios": 7,
-        "num_contratos": 2,
-        "total_gasto": 15000.0,
+        "num_contratos": 4,
+        "total_gasto": 176000.0,
         "top_3_empresas": [
           "GRAN PEÇAS COMÉRCIO E DISTRIBUIÇÃO\n\nDE PEÇAS, RETIFICA E SERVIÇOS LTDA, cadastrada no",
           "ERIVAM IDELFONSO ME, cadastrada no",
@@ -54,8 +54,8 @@
       },
       "10": {
         "num_diarios": 12,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 2,
+        "total_gasto": 103775.0,
         "top_3_empresas": [
           "BOM SUCESSO MIDIA DIGITAL SERVIÇOS\nDE COMUNICAÇÃO MULTIMIDIA LTDA ME"
         ],
@@ -65,15 +65,15 @@
       },
       "11": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 3,
+        "total_gasto": 269106.16000000003,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
         "num_diarios": 17,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 12,
+        "total_gasto": 1064479.05,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -81,27 +81,27 @@
     "2024": {
       "1": {
         "num_diarios": 16,
-        "num_contratos": 3,
-        "total_gasto": 2385102.56,
+        "num_contratos": 12,
+        "total_gasto": 3184298.31,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 146,
-        "num_contratos": 16,
-        "total_gasto": 3161471.56
+        "num_contratos": 127,
+        "total_gasto": 18828039.919999998
       },
       "2": {
         "num_diarios": 11,
-        "num_contratos": 3,
-        "total_gasto": 194000.0,
+        "num_contratos": 11,
+        "total_gasto": 1457136.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
         "num_diarios": 13,
-        "num_contratos": 2,
-        "total_gasto": 115920.0,
+        "num_contratos": 17,
+        "total_gasto": 2427993.0,
         "top_3_empresas": [
           "CENTERDATA ANALISE DE SISTEMAS E\n\nSERVIÇOS DE INFORMÁTIVA EIRELI, cadastrada no",
           "DENISE WANESKA DE OLIVEIRA COSTA.",
@@ -115,8 +115,8 @@
       },
       "4": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 8,
+        "total_gasto": 1267952.3,
         "top_3_empresas": [
           "PUBLIC SOFTWARE INFORMÁTICA LTDA,\n\ncadastrada no",
           "MARIA DA CONCEIÇÃO BATISTA"
@@ -128,8 +128,8 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 1,
-        "total_gasto": 79000.0,
+        "num_contratos": 13,
+        "total_gasto": 1866670.63,
         "top_3_empresas": [
           "PAULO ITALO DE OLIVEIRA VILAR\n\nSOCIEDADE INDIVIDUAL DE ADVOCACIA"
         ],
@@ -146,8 +146,8 @@
       },
       "7": {
         "num_diarios": 16,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 30,
+        "total_gasto": 4122504.12,
         "top_3_empresas": [
           "JOAQUIM BRASILINO DE SOUSA"
         ],
@@ -157,8 +157,8 @@
       },
       "8": {
         "num_diarios": 16,
-        "num_contratos": 5,
-        "total_gasto": 327449.0,
+        "num_contratos": 16,
+        "total_gasto": 2868553.0,
         "top_3_empresas": [
           "ARAÚJO ASSESSORIA, CONSULTORIA E\n\nSERVIÇOS JURIDICOS LTDA"
         ],
@@ -168,22 +168,22 @@
       },
       "9": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 10,
+        "total_gasto": 649090.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "10": {
         "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 207889.56,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "11": {
         "num_diarios": 11,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 4,
+        "total_gasto": 435953.0,
         "top_3_empresas": [
           "J C PRODUÇÕES ESTRUTURAS E LOCAÇÃO\n\nLTDA"
         ],
@@ -193,8 +193,8 @@
       },
       "12": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 20000.0,
+        "num_contratos": 4,
+        "total_gasto": 300000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -202,8 +202,8 @@
   },
   "resumo": {
     "num_diarios": 218,
-    "num_contratos": 18,
-    "total_gasto": 3176471.56,
+    "num_contratos": 152,
+    "total_gasto": "20.635.500,13",
     "top_5_empresas": {
       "IVANILDO DE OLIVEIRA FARIAS": 1,
       "BRASAS DO FORRÓ COMÉRCIO E LOCAÇÃO\n\nDE MATERIAL LTDA": 1,

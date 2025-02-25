@@ -4,7 +4,7 @@
   "detalhe": {
     "2022": {
       "3": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 4,
         "total_gasto": 257511.38999999998,
         "top_3_empresas": [],
@@ -13,9 +13,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 71,
-        "num_contratos": 56,
-        "total_gasto": 12500512.61
+        "num_diarios": 70,
+        "num_contratos": 58,
+        "total_gasto": 13568597.28
       },
       "4": {
         "num_diarios": 7,
@@ -46,7 +46,7 @@
         "num_contratos": 5,
         "total_gasto": 1280959.24,
         "top_3_empresas": [
-          "CONSTRUTORA GURGEL SOARES LTDA,"
+          "CONSTRUTORA GURGEL SOARES LTDA"
         ],
         "top_3_objetos": [
           "Contratação de uma empresa de construção civil, para\n\nexecução das obras de Recapeamento Asfáltico sobre Calçamentos em\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 13\n\n\n\nParalelepípedos das Ruas: Pres"
@@ -99,8 +99,8 @@
       },
       "12": {
         "num_diarios": 8,
-        "num_contratos": 4,
-        "total_gasto": 2815280.0,
+        "num_contratos": 6,
+        "total_gasto": 3883364.67,
         "top_3_empresas": [],
         "top_3_objetos": []
       }
@@ -119,8 +119,8 @@
       },
       "resumo": {
         "num_diarios": 102,
-        "num_contratos": 85,
-        "total_gasto": 29844504.530000005
+        "num_contratos": 87,
+        "total_gasto": 31359909.470000006
       },
       "2": {
         "num_diarios": 8,
@@ -136,8 +136,8 @@
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 15,
-        "total_gasto": 813873.48,
+        "num_contratos": 17,
+        "total_gasto": 2329278.42,
         "top_3_empresas": [
           "CAPRIBOM COOPERATIVA DOS\n\nPRODUTORES RURAIS DE MONTEIRO LTDA",
           "GERALDO JOSÉ JANUÁRIO",
@@ -257,9 +257,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 126,
-        "num_contratos": 142,
-        "total_gasto": 55669132.22
+        "num_diarios": 124,
+        "num_contratos": 139,
+        "total_gasto": 54785415.86
       },
       "2": {
         "num_diarios": 9,
@@ -282,7 +282,7 @@
         "num_contratos": 22,
         "total_gasto": 10655075.84,
         "top_3_empresas": [
-          "MARIA CRISTIANE LEMOS DE ARAÚJO-ME,",
+          "MARIA CRISTIANE LEMOS DE ARAÚJO-ME",
           "DIONAL DISTRIBUIDORA DE PRODUTOS\n\nLTDA"
         ],
         "top_3_objetos": [
@@ -303,7 +303,7 @@
         "total_gasto": 1809118.6099999999,
         "top_3_empresas": [
           "CONSTRUTORA COSTA E SILVA LTDA",
-          "MARIA CRISTIANE LEMOS DE ARAÚJO ME,",
+          "MARIA CRISTIANE LEMOS DE ARAÚJO ME",
           "A M TAVARES LTDA"
         ],
         "top_3_objetos": [
@@ -313,9 +313,9 @@
         ]
       },
       "7": {
-        "num_diarios": 10,
-        "num_contratos": 10,
-        "total_gasto": 3259744.01,
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 2839744.01,
         "top_3_empresas": [
           "VOLKSWAGEN TRUCK & BUS INDÚSTRIA E\nCOMÉRCIO DE VEÍCULOS LTDA"
         ],
@@ -341,9 +341,9 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 10,
-        "num_contratos": 19,
-        "total_gasto": 6185734.4,
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 5722018.04,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -368,9 +368,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 299,
-    "num_contratos": 283,
-    "total_gasto": 98014149.36,
+    "num_diarios": 296,
+    "num_contratos": 284,
+    "total_gasto": "99.713.922,61",
     "top_5_empresas": {
       "SOBRAL CONSTRUTORA LTDA": 2,
       "ALBUQUERQUE CABRAL AUTO POSTO DE\n\nCOMBUSTÍVEIS EIRELI": 2,

@@ -1,0 +1,1257 @@
+{
+  "id": "olivedos",
+  "nome": "Olivedos",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 597115.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 63,
+        "num_contratos": 36,
+        "total_gasto": 2638095.34
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 51193.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 158890.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 535585.34,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em realizar concurso\npúblico",
+            "empresa": "ASSOCIAÇÃO TÉCNICO\nCIENTÍFICO ERNESTO LUIS DE O. JUNIOR",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 221824.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 851629.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisições de gêneros alimentícios, mediante solicitação\nperiódica e entrega parcelada, em atendimento as demandas\noperacionais",
+            "empresa": "ARMANDO MOURA DE\nALMEIDA",
+            "valor_total": "R$ 342,126.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 71260.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 21000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 107097.23000000001,
+        "empresas_mensais": [
+          {
+            "objeto": "COMPRA DE MATERIAL ELÉTRICO PARA A\nSECRETARIA DE OBRAS E SERVIÇOS URBANOS PARA\nSUPRIR DEMANDA DA ADMINISTRAÇÃO PÚBLICA DO\nMUNICÍPIO",
+            "empresa": "SHOPPING DA ELETRICIDADE\nCOMERCIAL LTDA",
+            "valor_total": "R$ 47,013.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 22500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 232250.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS CONTÁBEIS PARA\nACOMPANHAMENTO FINANCEIRO, ELABORAÇÃO DOS\nRELATÓRIOS CONTÁBEIS MENSAIS EXIGIDOS",
+            "empresa": "ALISON PAULINELI DA SILVA\nPINTO",
+            "valor_total": "R$ 32,500.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS CONTÁBEIS PARA\nACOMPANHAMENTO FINANCEIRO, ELABORAÇÃO DOS\nRELATÓRIOS CONTÁBEIS MENSAIS EXIGIDOS",
+            "empresa": "ALISON PAULINELI DA SILVA\nPINTO",
+            "valor_total": "R$ 73,750.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE ASSESSORIA JURÍDICA PARA\nATENDER TODAS AS DEMANDAS JURÍDICAS DA\nPREFEITURA MUNICIPAL DE OLIVEDOS/PB.",
+            "empresa": "NEWTON NOBEL SOBREIRA\nVITA ADVOGADOS ASSOCIADOS",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 63,
+        "num_contratos": 33,
+        "total_gasto": 3617229.92
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 206245.5,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM\nEXAMES EM VÍDEOS, PARA ATENDIMENTO AOS\nPACIENTES DO MUNICÍPIO NA UNIDADE DE SAÚD",
+            "empresa": "JOSÉ ALVES NETO",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para Confecção de material gráfico\npara as todas as secretarias da administração pública da Prefeitura",
+            "empresa": "GRÁFICA KRAUSE LTDA",
+            "valor_total": "R$ 76,245.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 1075972.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 750795.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 1008942.08,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 50103.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\nCONFECÇÃO DE FARDAMENTO ESCOLAR E DEMAIS\nFARDAMENTOS PARA AS DIVERSAS SECRETARIA",
+            "empresa": "DJALMA DOS SANTOS EIRELI -\nME",
+            "valor_total": "R$ 50,103.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 56400.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE TÉCNICO EM PROTESE\nDENTÁRIA PARA ATENDER A DEMANDA DO PROGRAMA\nBRASIL SORRIDENTE DO GOVERNO FEDERAL NO\nMUNICÍPIO",
+            "empresa": "ANA CLAUDIA RAMOS DE MELO\nALCANTARA",
+            "valor_total": "R$ 56,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 144161.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 92360.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 76000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 64,
+        "num_contratos": 16,
+        "total_gasto": 2462682.8899999997
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 1003977.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS CONTÁBEIS PARA\nACOMPANHAMENTO FINANCEIRO, ELABORAÇÃO DOS\nRELATÓRIOS CONTÁBEIS MENSAIS EXIGIDOS",
+            "empresa": "ALISON PAULINELI DA SILVA\nPINTO",
+            "valor_total": "R$ 68,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 570446.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 649392.61,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 41867.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 29000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "COMPRA DE MÓVEIS E UTENSÍLIOS\nADMINISTRATIVOS PROJETADOS PARA A CÂMARA DE\nVEREADORES NO EXERCÍCIO DE 2016",
+            "empresa": "MARIZILDA DE SOUSA\nCARVALHO",
+            "valor_total": "R$ 17,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 92000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 235800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nNOS SERVIÇOS CONTABIL, FINANCEIRO, ELABORAÇÃO DE\nRELATÓRIOS CONTABEIS, CONSULTORIA, COLETA DE\nDADOS, IMPRESSÃO E GERAÇÃO DOS SAGRES CONTÁBIL,\nELABORAÇÃO DA FOLHA DE PAGAMENTO E INFORMAÇÃO\nPARA O PORTAL DA TRANSPERÊNCIA PARA O EXERCÍCIO\nDE 2017.",
+            "empresa": "ALISON PAULINELI DA SILVA\nPINTO",
+            "valor_total": "R$ 54,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 114,
+        "num_contratos": 80,
+        "total_gasto": 4036034.01
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 937396.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 350324.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 769801.22,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FISICA OU JURIDICA\nPARA EXECUÇÃO DE SERVIÇOS DE LOCAÇÃO DE VEÍCULO\nCOM CONDUTOR PARA ATENDER AS NECESSIDADE DA\nSECRETARIA DE OBRAS E SERVIÇOS URBANO",
+            "empresa": "DOUGLAS PEREIRA DE LIMA",
+            "valor_total": "R$ 32,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 16,
+        "total_gasto": 703665.55,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\nODONTOLOGICOS, MEDIANTE REQUISIÇÃO.",
+            "empresa": "ORTOSHOP COMERCIO LTDA -\nME",
+            "valor_total": "R$ 82,578.40"
+          },
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE EXAMES DE\nULTRASSONOGRAFIAS DESTINADO AO ATENDIMENTOS AS\nPESSOA CARRENTE DO MUNICIPIO, MEDIANTE\nREQUISIÇÃO.",
+            "empresa": "JOSE ALVES NETO",
+            "valor_total": "R$ 45,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FISICA OU JURIDICA\nPARA EXECUÇÃO DE SERVIÇOS DE LOCAÇÃO DE\nMAQUINAS PARA FOTOCÓPIAS E SERVIÇOS DE\nMANUTENÇÃO EM MICRO COMPUTADORES PARA SUPRIR\nDEMANDAS DAS SEGUINTES SECRETARIAS: SECRETARIA\nDE EDUCAÇÃO, SECRETARIA DE OBRAS E SERVIÇOS\nURBANO, SECRETARIA DE SAÚDE E AÇÃO SOCIAL E\nSECRETARIA DE ADMINISTRAÇÃO.",
+            "empresa": "JOSE JOMARCIO COSTA SANTOS",
+            "valor_total": "R$ 7,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FISICA E/OU JURIDICA\nPARA EXECUÇÃO DE SERVIÇOS DE RECARGA DE TONER E\nFORNECIMENTO DE SUPRIMENTOS PARA\nMICROCOMPUTADORES PARA SUPRIR DEMANDAS DAS\n\n\n\n\n\n\n                                                                             www.diariomunicipal.com.br/famup                                                                                             26\n\nSEGUINTES SECRETARIAS: SECRETARIA DE EDUCAÇÃO,\nSECRETARIA DE OBRAS E SERVIÇOS URBANO,\nSECRETARIA DE SAÚDE E AÇÃO SOCIAL E SECRETARIA DE\nADMINISTRAÇÃO.",
+            "empresa": "JOSE JOMARCIO COSTA SANTOS",
+            "valor_total": "R$ 21,975.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 49850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 207599.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESOA FISICA OU JURIDICA\nDESTINADA A PRESTAÇÃO DE SERVIÇOS DE CONFECÇÃO\nDE PROTESE DENTARIA, MEDIANTE REQUISIÇÃO.",
+            "empresa": "HELDER DE LIMA VIANA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 122838.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 8,
+        "total_gasto": 339489.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 66303.12,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 184493.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 68475.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MOBILIARIO ESCOLAR PARA\n\nESCOLAR EMEF MONSENHOR STANISLAUA, CONFORME\n\nPLANO DE TRABALHO EM ANEXO",
+            "empresa": "E\n\nC MARTINS",
+            "valor_total": "R$ 49,475.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE UM ANALISADOR AUTOMÁTICO\n\nDE CÉLULAS SANGUÍNEAS 18 PARÂMETROS, CONTAGEM\n\nDE CÉLULA POR MÉTODO, IMPEDÂNCIA ELÉTRICA,\n\nCAPACIDADE DE 60 AMOSTRAS/HORAS, CONSUMO DE 03\n\nREAGENTES.",
+            "empresa": "DIAGFARMA COM. E\n\nSERV. DE PRODUTOS HOSP. E LABORATORIO LTDA",
+            "valor_total": "R$ 19,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 818075.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 95,
+        "num_contratos": 76,
+        "total_gasto": 5812178.2299999995
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 594676.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PROGRAMA DE SOFTWEARE\nPARA ATENDER DEMANDA DA CONTABILIDADE DA\nCÂMARA DE VEREADORES NA ELABORAÇÃO DE\nBALANCETES, RGF E REEO, FOLHA DE PAGAMENTO,\nPORTAL DA TRANSPARÊNCIA PARA INFORMAR AO\nTRIBUNAL DE CONTAS DO ESTADO DA PARAÍBA (TCE/PB)\nNO EXERCÍCIO DE 2018",
+            "empresa": "ELMAR PROCESSAMENTO DE DADOS\nLTDA",
+            "valor_total": "R$ 14,850.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 1014141.0,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE\nMAQUINA PARA FOTOCÓPIAS DO TIPO MULTIFUNCIONAL\nMONOCROMÁTICA, E SERVIÇOS DE MANUNTENÇÃO DE\nMICROCOMPUTADORES E DE SERVIÇOS DE COLETA,\nRECUPERAÇÃO E INSTALAÇÃO DE TONERS DAS\nIMPRESSORAS TIPO MONOCROMÁTICAS.",
+            "empresa": "JOSE JOMARCIO COSTA SANTOS",
+            "valor_total": "R$ 44,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 497593.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 846004.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 284242.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELETRICO DE FORMA\nPARCELADA.",
+            "empresa": "SHOPPING DA ELETRICIDADE COMERCIAL LTDA",
+            "valor_total": "R$ 105,135.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 461028.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 238858.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 168779.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 888779.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 388086.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 100,
+        "num_contratos": 49,
+        "total_gasto": 4387519.5200000005
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 933961.9099999999,
+        "empresas_mensais": [
+          {
+            "objeto": "EXECUÇÃO DE OBRA DE RESTAURAÇÃO DA\nACADEMIA DA SAÚDE E REFORMA PARA IMPLANTAÇÃO\nDOS EQUIPAMENTOS, CONFORME PLANILHA ANEXA.",
+            "empresa": "LEONALDO CANDIDO DE SOUTO EIRELI",
+            "valor_total": "R$ 32,962.56"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 439611.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 425783.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 163817.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 563446.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 10,
+        "total_gasto": 690962.14,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE BANCA DE CONTADORES COM\nCOMPROVADA ORGANIZAÇÃO, APARELHAMENTO, EQUIPE\nTÉCNICA E NOTÓRIA ESPECIALIZAÇÃO EM\nCONTABILIDADE PÚBLICA, PARA PRESTAÇÃO DE\nNATUREZA CONTINUADA DE SERVIÇOS DE ASSESSORIA E\nCONSULTORIA NO ACOMPANHAMENTO DA GESTÃO\nORÇAMENTÁRIA, FINANCEIRA E PATRIMONIAL DO\nMUNICIPIO E DE SERVIÇOS DE ASSESSORIA E\nCONSULTORIA NA ESCRITURAÇÃO CONTÁBIL COM\nRESPONSABILIDADE TÉCNICA INTERNA, CONFORME\nPLANILHA DE SERVIÇOS EM ANEXO",
+            "empresa": "TORRES & NOBREGA ASSESSORIA E CONSULTORIA\nCONTABIL S/C LTDA",
+            "valor_total": "R$ 126,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nATRAVES DO SISTEMA DE REGISTRO DE PREÇOS PARA\nEVENTUAL AQUISIÇÃO DE MATERIAL DE EXPEDIENTE, DE\nFORMA PARCELADA, PARA ATENDER AS NECESSIDADES\nDA DIVERSAS SECRETARIA MUNICIPAL MUNICIPAI, PELO\nPERÍODO DE 12(DOZE) MESES, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA",
+            "empresa": "E. ZALMA SOUZA",
+            "valor_total": "R$ 93,961.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 291374.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Veúculo tipo Caminhão com Equipamento\n\nColetor Compactador de Resíduos - Coleta Traseira - com capacidade\n\nmínima de 6m³ conforme condições, quantidades e exigências\n\nestabelecidas neste instrumento",
+            "empresa": "GAMA DIESEL LTDA",
+            "valor_total": "R$ 264,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 149392.58000000002,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE SOFTWARE PARA O\nPROCESSAMENTO DE FOLHA DE PAGAMENTOS,\nCONFORME ANEXO I DO EDITAL",
+            "empresa": "A.L.T. AIRES DE OLIVEIRA",
+            "valor_total": "R$ 35,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELETRICO, DE FORMA\nPARCELADA, PARA SUPRIR AS NECESSIDADES DO\nMUNICIPIO DE OLIVEDOS, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA",
+            "empresa": "SHOPPING DA ELETRICIDADE\nCOMERCIAL LTDA",
+            "valor_total": "R$ 37,051.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 264790.08999999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 76292.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 322950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 58,
+        "total_gasto": 7914499.74
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 2185580.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 44400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 845274.4700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 928092.05,
+        "empresas_mensais": [
+          {
+            "objeto": "EXECUÇÃO DE OBRAS DE IMPLANTAÇÃO DE\n\nMELHORIA HABITACIONAL PARA O CONTROLE DA\n\nDOENÇA DE CHAGAS, SEGUINTES LOCALIDADES: SITIO\n\nGROSSOS, SITIO CAMPOS DE LAGOA, SITIO MALHADA DE\n\nAREIA, SITIO RIACHO DO MEIO E SITIO BOI MORTO,\n\nCONFORME PLANILHA ORÇAMENTÁRIA E PROJETO\n\nBÁSICO EM ANEXO",
+            "empresa": "MOMIZZA\n\nCONSTRUÇÃO LTDA",
+            "valor_total": "R$ 398,008.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 13,
+        "total_gasto": 629688.3500000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA\n\nESCRITORIO E IMPLEMENTOS AGRICOLAS DESTINADA A\n\nSECRETÁRIA DE AGRICULTURA, CONFORME PLANO DE\n\nTRABALHO EM ANEXO",
+            "empresa": "AGROHIDRO COMERCIO DE\n\nMATERIAL AGRICULA LTDA",
+            "valor_total": "R$ 27,444.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS PARA\n\nESCRITORIO E IMPLEMENTOS AGRICOLAS DESTINADA A\n\nSECRETÁRIA DE AGRICULTURA, CONFORME PLANO DE\n\nTRABALHO EM ANEXO",
+            "empresa": "EMILY INDUSTRIA E COMERCIO DE MOVEIS\n\nLTDA",
+            "valor_total": "R$ 27,444.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 527756.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 327924.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 1886709.22,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 67543.82,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMACIA\nBÁSICA, DE FORMA PARCELADA, PARA MANUTENÇÃO\nDAS ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE DO\nMUNICIPIO DE OLIVEDOS/PB",
+            "empresa": "A COSTA\nCOMÉRCIO ATACADISTA DE PRODUTOS FARMACEUTICOS\nLTDA",
+            "valor_total": "R$ 67,543.82"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMACIA\nBÁSICA, DE FORMA PARCELADA, PARA MANUTENÇÃO\nDAS ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE DO\nMUNICIPIO DE OLIVEDOS/PB",
+            "empresa": "CIRURGICA\nMONTEBELLO LTDA",
+            "valor_total": "R$ 67,543.82"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMACIA\nBÁSICA, DE FORMA PARCELADA, PARA MANUTENÇÃO\nDAS ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE DO\nMUNICIPIO DE OLIVEDOS/PB",
+            "empresa": "NNMED",
+            "valor_total": "R$ 67,543.82"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMACIA\nBÁSICA, DE FORMA PARCELADA, PARA MANUTENÇÃO\nDAS ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE DO\nMUNICIPIO DE OLIVEDOS/PB",
+            "empresa": "CT Nº 00053/2020",
+            "valor_total": "R$ 67,543.82"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE MEDICAMENTOS DA FARMACIA\nBÁSICA, DE FORMA PARCELADA, PARA MANUTENÇÃO\nDAS ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE DO\nMUNICIPIO DE OLIVEDOS/PB",
+            "empresa": "EXPRESS DISTRIBUIDORA DE\nMEDICAMENTOS LTS",
+            "valor_total": "R$ 67,543.82"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 148581.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 905375.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 90,
+        "total_gasto": 9711050.399999999
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 1449390.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 20,
+        "total_gasto": 1146167.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 139500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 12,
+        "total_gasto": 615492.0599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 574281.1799999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 968039.1699999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 290853.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 311897.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 3019662.02,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa de engenharia, especializada para\nconstrução de uma CRECHE TIPO A – 05 SALAS padrão FNDE,\ncujas especificações estão descritas nos projetos executivos de\narquitetura e de engenharia, memorial descritivo, planilha\norçamentária e cronograma físico–financeiro que são peças técnicas\nintegrantes e indissociáveis do presente Termo, as especificações\ntécnicas de engenharia esta disponível no TERMO DE REFERENCIA\nque faz parte integral deste edital",
+            "empresa": "BWS CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 2,600,095.22"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 290390.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 49850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 37,
+        "total_gasto": 7376372.45
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 1468983.57,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 257758.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 788258.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (UM) Veículo de Passeio para Transporte\n\nde Equipe de Saúde, (7 pessoas, 0 Km), Motorização com 100 cv,\n\nTipo de Combistível Flex, Tipo de Direção Elétrica/hidráulica, Portas\n\n4 portas, Ar Condicionado, Trio Elétrico (trava, vidro e mala),\n\nCapacidade 07 lugares, Freios Abs e Airbag Duplo, Cambio\n\nAutomático, Acessórios Roda de Alumínio, Sensor e Câmera de Re\n\ndestinada ao Fundo Municipal de Saúde do Municipio de Olivedos–\n\nPB",
+            "empresa": "PEDRAGON AUTOS LTDA",
+            "valor_total": "R$ 132,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 397097.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 540744.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 1073298.17,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 03 (TRÊS) VEÍCULOS\n\nAUTOMOTORES, ZERO QUILÔMETRO, TIPO PASSEIO 1.0,\n\nPARA ATENDER AS NECESSIDADES DA SECRETARIA DE\n\nEDUCAÃO E SEC",
+            "empresa": "COMERCIAL SANTAMA VEÍCULOS E\n\nPEÇAS LTDA",
+            "valor_total": "R$ 206,100.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 103820.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1093280.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 560512.91,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1042768.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 2039862.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 37,
+        "total_gasto": 7992308.079999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 1406950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 1489700.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 340003.9,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAÇÃO DE SERVIÇOS DE BANCA DE\n\nCONTADORES COM COMPROVADA ORGANIZAÇÃO,\n\nAPARELHAMENTO, EQUIPE TÉCNICA COM NOTÓRIA\n\nESPECIALIZAÇÃO EM CONTABILIDADE PÚBLICA,\n\nDESTINADO AO ATENDIMENTO CONTÍNUO E\n\nININTERRUPTO DE ASSESSORIA E CONSULTORIA NO\n\nACOMPANHAMENTO DA GESTÃO ORÇAMENTÁRIA,\n\nFINANCEIRA E PATRIMONIAL DO MUNICIPIO E DE\n\nASSESSORIA E CONSULTORIA COM RESPONSABILIDADE\n\nTÉCNICA INTERINA DA ESCRITURAÇÃO CONTÁBIL",
+            "empresa": "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA",
+            "valor_total": "R$ 96,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 867981.7000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 290056.97,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 864731.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 421900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 83301.3,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ELETRICO\n\nDESTINADAS AS DIVERSAS SECRETARIAS DO MUNICIPIO\n\nDE OLIVEIDOS",
+            "empresa": "SHOPPING DA ELETRICIDADE COMERCIAL LTDA",
+            "valor_total": "R$ 53,565.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 187820.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 589879.89,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 109,
+        "num_contratos": 63,
+        "total_gasto": 10752208.81
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 1565312.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 2337619.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 1061749.63,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA DESTINADA A\n\nPRESTAÇÃO DE SERVIÇOS DE BANCA DE CONTADORES\n\nCOM COMPROVADA ORGANIZAÇÃO, APARELHAMENTO,\n\nEQUIPE TÉCNICA COM NOTÓRIA ESPECIALIZAÇÃO EM\n\nCONTABILIDADE PÚBLICA, DESTINADO AO ATENDIMENTO\n\nCONTÍNUO E ININTERRUPTO DE ASSESSORIA E\n\nCONSULTORIA NO ACOMPANHAMENTO DA GESTÃO\n\nORÇAMENTÁRIA, FINANCEIRA E PATRIMONIAL DO\n\nMUNICIPIO E DE ASSESSORIA E CONSULTORIA COM\n\nRESPONSABILIDADE TÉCNICA INTERINA DA\n\nESCRITURAÇÃO CONTÁBIL",
+            "empresa": "TORRES & NOBREGA ASSESSORIA E\n\nCONSULTORIA CONTABIL S/C LTDA",
+            "valor_total": "R$ 102,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 536309.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 730513.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 448014.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 961564.44,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 55600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 873665.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 159480.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 1432500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

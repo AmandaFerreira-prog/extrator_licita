@@ -1,0 +1,442 @@
+{
+  "id": "quixaba",
+  "nome": "Quixaba",
+  "detalhe": {
+    "2021": {
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 20,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 87,
+        "num_contratos": 10,
+        "total_gasto": 1198571.32
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de pessoa física ou jurídica para locação de\n\num veículo automotor tipo automóvel, com ar-condicionado, com no\n\nmáximo 04 (quatro) anos de fabricação, com especificações\n\ncompatíveis com carro popular com motor de 1.0 até 1.4, com\n\ncombustível por conta da Câmara Municipal de\n\nQuixaba/PB/contratante, e condutor, manutenção e seguro por conta\n\nda contratada, em perfeitas condições de uso e segurança, destinados\n\nàs atividades da Presidência da Câmara Municipal de Quixaba-PB,\n\nque obedecerá às disposições do art",
+            "empresa": "PAULO CESAR TAVARES CONSERVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 812546.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 97248.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada em implantação e\n\nsuporte de sistemas informatizados para utilização nos departamentos\n\nadministrativos municipais LOCAÇÃO DE SISTEMA DE\n\nCONTROLE DE CONTABILIDADE PUBLICA, PORTAL DE\n\nTRANSPARÊNCIA PÚBLICA, SISTEMA DE ARRECADAÇÃO\n\nDE TRIBUTOS, NOTA FISCAL ELETRÔNICA - NFS-E (PORTAL\n\nDO CONTRIBUINTE), FOLHA DE PAGAMENTO, SISTEMA\n\nPORTAL DO SERVIDOR, todos os sistemas deverão permitir a\n\nintegração, possibilitando assim, a importação e o intercâmbio de\n\ndados, obedecendo às disposições da Lei Federal nº 10.520, de\n\n17/01/2002, Decreto Federal nº 3.555, de 08/08/2000, Lei\n\nComplementar 123, de 14 de dezembro de 2006, aplicando-se,\n\nsubsidiariamente, no que couber a Lei 8.666, de 21/06/93 com suas\n\nalterações posteriores",
+            "empresa": "PUBLIC SOTWARE INFORMATICA LTDA",
+            "valor_total": "R$ 52,902.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 21656.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 90434.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 176686.96999999997,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para realizar reforma e ampliação\n\nda Escola Municipal Nobelino Leite no município de Quixaba/PB,\n\nassegurado pelo Convênio do Estado nº 0350/2022, em conformidade\n\ncom o Decreto Estadual nº 33.884/2013, dentro dos prazos e normas\n\nestabelecidas no edital e da Lei nº 8.666/93 de 21/06/1993 e suas\n\nalterações posteriores",
+            "empresa": "JMSV CONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 131,613.74"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 251400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 112,
+        "num_contratos": 21,
+        "total_gasto": 3567794.2
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 82800.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de polpa de frutas de sabores diversos\n\npara suprir as necessidades diversas secretarias da Prefeitura\n\nMunicipal de Quixaba-PB durante o período de 11 meses, que\n\nobedecerá às disposições do art",
+            "empresa": "JOSILENE DE ARAÚJO SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 1902547.74,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestar serviços de\n\nacompanhamento na organização, planejamento, tombamento e\n\ninventário de bens patrimoniais da Prefeitura Municipal de\n\nQuixaba/PB, em conformidade com o Artigo 24, inciso II, da Lei\n\n8.666, de 21 de junho de 1993 e suas alterações posteriores",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO PUBLICA\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 714820.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 77066.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 3635.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nenfermagem para atender as necessidades da Secretaria de Saúde da\n\nPrefeitura Municipal de Quixaba/PB durante o período de 05 meses,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 39\n\n\n\nque obedecerá às disposições do art",
+            "empresa": "SANDRA MARIA S. DE SOUSA CANDEIA",
+            "valor_total": "R$ 3,635.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nenfermagem para atender as necessidades da Secretaria de Saúde da\n\nPrefeitura Municipal de Quixaba/PB durante o período de 05 meses,\n\nque obedecerá às disposições do art",
+            "empresa": "SANDRA MARIA S. DE SOUSA CANDEIA",
+            "valor_total": "R$ 3,635.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nenfermagem para atender as necessidades da Secretaria de Saúde da\n\nPrefeitura Municipal de Quixaba/PB durante o período de 05 meses,\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 39\n\n\n\nque obedecerá às disposições do art",
+            "empresa": "GERMANA MEDEIROS SULPINO FREIRE",
+            "valor_total": "R$ 3,635.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestação de serviços de\n\nenfermagem para atender as necessidades da Secretaria de Saúde da\n\nPrefeitura Municipal de Quixaba/PB durante o período de 05 meses,\n\nque obedecerá às disposições do art",
+            "empresa": "GERMANA MEDEIROS SULPINO FREIRE",
+            "valor_total": "R$ 3,635.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 151744.86,
+        "empresas_mensais": [
+          {
+            "objeto": "Prorrogação do prazo de execução de abastecimento\n\ncom caixas d’águas elevadas na Escola Cícero Sulpino dos Santos,\n\nEstádio Municipal e na Comunidade Motorista, localizados no\n\nmunicípio de Quixaba - PB, tendo em vista no que dispõe na\n\nPortaria Federal nº 260, de 02 de fevereiro de 2022 do Ministério\n\nDesenvolvimento Regional, Decreto Estadual nº 43.105, de 24 de\n\nnovembro de 2022, e Decreto Municipal nº 047/2022 de 31 de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 20\n\n\noutubro de 2022, em conformidade com o Artigo 24, inciso IV, da\n\nLei 8.666, de 21 de junho de 1993 e suas alterações posteriores",
+            "empresa": "MFA CAVALCANTI ENGENHARIA",
+            "valor_total": "R$ 151,744.86"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa visando fornecimento parcelado\n\nde mercadorias (não perecíveis/perecíveis), destinado as diversas\n\nsecretarias do município de Quixaba/PB, obedecendo às disposições\n\nda Lei Federal nº 10.520, de 17/01/2002, Decreto Federal nº 3.555, de\n\n08/08/2000, Lei Complementar 123, de 14 de dezembro de 2006,\n\naplicando-se, subsidiariamente, no que couber a Lei 8.666, de\n\n21/06/93 com suas alterações posteriores",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 383780.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 7,
+        "total_gasto": 944461.91,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada no ramo da\n\nconstrução civil para serviço de reforma da Unidade Básica de Saúde\n\n– Josivan Pimenta da Silva em Riacho dos Cavalos/PB, conforme\n\nTermo de Referencia",
+            "empresa": "ID CONSTRUCOES LTDA",
+            "valor_total": "R$ 238,343.59"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 106,
+        "num_contratos": 31,
+        "total_gasto": 3798663.9299999997
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 4,
+        "total_gasto": 1415049.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 493172.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 530898.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 294451.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Aditivar o contrato de aquisição parcelada de\n\nmercadorias (não perecíveis/perecíveis), destinado as diversas\n\nsecretarias do município de Quixaba/PB, obedecendo às\n\ndisposições da Lei Federal nº 10.520, de 17/01/2002, Decreto\n\nFederal nº 3.555, de 08/08/2000, Lei Complementar 123, de 14 de\n\ndezembro de 2006, aplicando-se, subsidiariamente, no que couber\n\na Lei 8.666, de 21/06/93 com suas alterações posteriores",
+            "empresa": "CRISTINA LUIZA DA SILVA NETA ME",
+            "valor_total": "R$ 195,056.55"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 53059.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 18369.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de lentes e\n\narmações com a realização dos exames naso-pupilar na secretaria de\n\nsaúde no mínimo duas vezes por semana com todas as despesas por\n\nconta da contratada para atender as necessidades da Secretaria de\n\nSaúde da Prefeitura Municipal de Quixaba/PB, nos termos da Lei nº\n\n14.133, de 01 de abril de 2021 e suas alterações, nos termos da Lei nº\n\n14.133, de 01 de abril de 2021 e suas alterações; FUNDAMENTO\n\nLEGAL: PREGÃO ELETRÔNICO 014/2024",
+            "empresa": "para atender as necessidades da Secretaria de\n\nSaúde da Prefeitura Municipal de Quixaba/PB, nos termos da Lei nº\n\n14.133, de 01 de abril de 2021 e suas alterações, nos termos da Lei nº\n\n14.133, de 01 de abril de 2021 e suas alterações; FUNDAMENTO\n\nLEGAL: PREGÃO ELETRÔNICO 014/2024. PARTES\n\nCONTRATANTES: PREFEITIRA MUNICIPAL E FRANCISCA DE\n\nVASCONCELOS VENTURA",
+            "valor_total": "R$ 18,369.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 49200.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de mobiliário\n\nconcreto, plantas ornamentais e mudas de árvores para arborização\n\ndos órgãos, praças e vias públicas do Município de Quixaba/PB, que\n\nobedecerá às disposições do art",
+            "empresa": "LAERTE CARLOS DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aditivar o contrato de fornecimento parcelado de\n\ncombustíveis destinados aos veículos da frota pública e locada da\n\nPrefeitura Municipal de Quixaba-PB nos termos da Lei nº 14.133, de\n\n01 de abril de 2021, que regulamenta o pregão eletrônico, na Lei\n\nComplementar n° 123, de 14 de dezembro de 2006 e suas alterações",
+            "empresa": "POSTO DE COMBUSTÍVEL NOSSA\n\nSENHORA DE FÁTIMA LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

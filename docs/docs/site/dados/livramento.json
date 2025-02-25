@@ -4,16 +4,16 @@
   "detalhe": {
     "2021": {
       "3": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 1,
         "total_gasto": 440950.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 75,
-        "num_contratos": 51,
-        "total_gasto": 4646988.92
+        "num_diarios": 72,
+        "num_contratos": 69,
+        "total_gasto": 6435080.5
       },
       "4": {
         "num_diarios": 6,
@@ -30,9 +30,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 8,
-        "num_contratos": 12,
-        "total_gasto": 1342614.25,
+        "num_diarios": 7,
+        "num_contratos": 19,
+        "total_gasto": 1690429.1799999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -44,7 +44,7 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 23,
         "total_gasto": 1296949.55,
         "top_3_empresas": [],
@@ -52,10 +52,18 @@
       },
       "9": {
         "num_diarios": 8,
-        "num_contratos": 3,
-        "total_gasto": 309573.75,
-        "top_3_empresas": [],
-        "top_3_objetos": []
+        "num_contratos": 14,
+        "total_gasto": 1749850.4,
+        "top_3_empresas": [
+          "JOSIVAN MELQUIADES NOBREGA",
+          "AGNUS COMERCIO DE MAQUINAS E\n\nEQUIPAMENTOS EIRELI.",
+          "JB CARDOSO SERVIÇO E TRANSPORTE\n\nLTDA."
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB",
+          "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB",
+          "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB"
+        ]
       },
       "10": {
         "num_diarios": 5,
@@ -75,9 +83,7 @@
         "num_diarios": 5,
         "num_contratos": 3,
         "total_gasto": 695856.02,
-        "top_3_empresas": [
-          "). Notificação: No prazo de 8 (Oito) dias úteis, contado a\n\npartir do 1º dia útil desta publicação, para a"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Prestar serviços de\n\nengenharia na Pavimentação em paralelepípedo de 04 (Quatro) vias\n\nurbanas (Rua Helena Barbosa da Silva, Rua Erotildes Maria de Brito,\n\nRua Severina Josefa da Conceição, Rua Otacílio Nunes da Nóbrega)\n\ntodas localizadas na Zona Urbana de Livramento-PB",
           "Prestar\n\nserviços de engenharia na Construção de 01 (Uma) Passagem\n\nMolhada para adequação de estrada vicinal (Lado esquerdo de\n\n30,08m, Centro de 22,25m, Lado direito de 25,52m), localizada no\n\nSítio Arius de Livramento-PB",
@@ -94,9 +100,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 88,
-        "num_contratos": 13,
-        "total_gasto": 2254608.0700000003
+        "num_diarios": 87,
+        "num_contratos": 11,
+        "total_gasto": 1851774.22
       },
       "2": {
         "num_diarios": 8,
@@ -110,8 +116,7 @@
         "num_contratos": 3,
         "total_gasto": 551345.0,
         "top_3_empresas": [
-          "MULTFORTE COMERCIO E SUPRIMENTOS DE\nINFORMATICA LTDA",
-          ").\n\n\n\nLivramento"
+          "MULTFORTE COMERCIO E SUPRIMENTOS DE\nINFORMATICA LTDA"
         ],
         "top_3_objetos": [
           "Aquisição de equipamento e material permanente para\n\nunidade básica de saúde ESF III Dr"
@@ -121,9 +126,7 @@
         "num_diarios": 12,
         "num_contratos": 1,
         "total_gasto": 275093.98,
-        "top_3_empresas": [
-          "). Notificação: No prazo de 8 (Oito) dias úteis, contado a\n\npartir do 1º dia útil desta publicação, para a"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": [
           "Prestar serviços de engenharia na Pavimentação da Rua João Pereira\n\nFilho (Estaca 0,00 a Estaca 7,00 + 7,20 m); 2º) Objeto: Prestar\n\nserviços de engenharia na Pavimentação da Rua João Pereira Filho\n\n(Estaca 7,00 + 7,20m a Estaca 11 + 11,67m); 3º) Objeto: Prestar\n\nserviços de engenharia na Pavimentação da Rua Pref",
           "Contratação de empresa para prestação de serviços na\n\nrealização de exames de imagem para atender as necessidades da\n\nsecretaria de Saúde, conforme termo de referência"
@@ -144,9 +147,9 @@
         "top_3_objetos": []
       },
       "7": {
-        "num_diarios": 9,
-        "num_contratos": 4,
-        "total_gasto": 767721.8200000001,
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 364887.97,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -162,7 +165,7 @@
         "num_contratos": 2,
         "total_gasto": 403065.77,
         "top_3_empresas": [
-          "Jairo Aldafran da Silva Moraes-ME,",
+          "Jairo Aldafran da Silva Moraes-ME",
           "R$ 47.237,75\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 3\n\n\n\n(quarenta e sete mil, duzentos e trinta e sete reais, setenta e cinco\n\ncentavos)."
         ],
         "top_3_objetos": [
@@ -174,7 +177,7 @@
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "Jairo Aldafran da Silva Moraes-ME,",
+          "Jairo Aldafran da Silva Moraes-ME",
           "R$ 47.237,75\n\n(quarenta e sete mil, duzentos e trinta e sete reais, setenta e cinco\n\ncentavos)."
         ],
         "top_3_objetos": [
@@ -207,15 +210,14 @@
         "num_contratos": 1,
         "total_gasto": 54000.0,
         "top_3_empresas": [
-          "RENATO EDUARDO MARQUES ASSESSORIA E\n\nCONSULTORIA",
-          ").\n\nLivramento"
+          "RENATO EDUARDO MARQUES ASSESSORIA E\n\nCONSULTORIA"
         ],
         "top_3_objetos": [
           "Contratação de serviços técnicos especializados em\n\nConsultoria em licitação, à Comissão Permanente de Licitação e\n\nórgãos da administração em todas suas fases seguindo tanto a Lei\n\n8.666/16, quanto a 14.133/21 e ainda no uso de sistemas e softwares\n\npara elaboração, condução e gerenciamento e transparência de\n\nprocedimentos licitatórios, presencialeeletrônico"
         ]
       },
       "resumo": {
-        "num_diarios": 87,
+        "num_diarios": 86,
         "num_contratos": 45,
         "total_gasto": 5078265.22
       },
@@ -224,8 +226,7 @@
         "num_contratos": 4,
         "total_gasto": 819443.7,
         "top_3_empresas": [
-          "BOMSUCESSO CONSTRUCOES E SERVICOS\n\nLTDA",
-          ").\n\n\n\nLivramento"
+          "BOMSUCESSO CONSTRUCOES E SERVICOS\n\nLTDA"
         ],
         "top_3_objetos": [
           "Contratação de uma pessoa jurídica para prestar serviço de\n\nhoras/maquina, com tratores agrícolas com grades aradoras a serem\n\nutilizados nos cortes de terra dos agricultores do nosso município"
@@ -251,8 +252,7 @@
         "total_gasto": 955498.4199999999,
         "top_3_empresas": [
           "BOMSUCESSO CONSTRUÇÕES E SERVIÇOS\n\nLTDA",
-          "J.T.A. COMERCIO DE ARTIGOS DESCARTAVEIS\n\nLTDA",
-          ").\n\nLivramento"
+          "J.T.A. COMERCIO DE ARTIGOS DESCARTAVEIS\n\nLTDA"
         ],
         "top_3_objetos": [
           "Aquisição de Gêneros Alimentícios destinados ao Preparo\n\nda Merenda Escolar da Rede Municipal de Ensino do Município de\n\nLivramento – PB"
@@ -263,9 +263,9 @@
         "num_contratos": 7,
         "total_gasto": 584900.0,
         "top_3_empresas": [
-          ").\n\n\n\nLivramento",
           "F. MIX EMPREENDIMENTOS LTDA",
-          "XT ENTRETENIMENTO LTDA"
+          "XT ENTRETENIMENTO LTDA",
+          "AMANDA FAUSTINO DE LIMA PARENTE\n\nLIMITADA"
         ],
         "top_3_objetos": [
           "Contratação de empresa detentora da exclusividade da Banda\n\nOs 03 do Nordeste, para realização de Show Artísitico no dia 25 de\n\njunho de 2023, dentro das Festividades da Tradicional Festa de São\n\nJoão do Município de Livramento",
@@ -274,12 +274,11 @@
         ]
       },
       "7": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [
-          "MARCO TÚLIO MONTENEGRO CAVALCANTI\n\nDIAS",
-          ").\n\nLivramento"
+          "MARCO TÚLIO MONTENEGRO CAVALCANTI\n\nDIAS"
         ],
         "top_3_objetos": [
           "Contratação de leiloeiro oficial para realização de leilão\n\ndestinado à alienação de veículos inservíveis de propriedade da\nPrefeitura Municipal de Livramento"
@@ -336,18 +335,18 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 6,
-        "num_contratos": 1,
-        "total_gasto": 2146560.0,
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
         "top_3_empresas": [
           "ACM MERCANTIL LTDA"
         ],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 93,
-        "num_contratos": 75,
-        "total_gasto": 14179139.350000003
+        "num_diarios": 90,
+        "num_contratos": 81,
+        "total_gasto": 12542219.050000003
       },
       "2": {
         "num_diarios": 6,
@@ -357,7 +356,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 10,
         "total_gasto": 556522.0,
         "top_3_empresas": [],
@@ -368,12 +367,12 @@
         "num_contratos": 11,
         "total_gasto": 2517599.66,
         "top_3_empresas": [
-          "ANDERSON DE ASSIS RODRIGUES LTDA,"
+          "ANDERSON DE ASSIS RODRIGUES LTDA"
         ],
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 10,
         "total_gasto": 2115418.0,
         "top_3_empresas": [],
@@ -384,8 +383,7 @@
         "num_contratos": 6,
         "total_gasto": 2144360.2800000003,
         "top_3_empresas": [
-          "SUPERNOVA PRODUCOES E EVENTOS LTDA,",
-          ").\n\nLivramento"
+          "SUPERNOVA PRODUCOES E EVENTOS LTDA"
         ],
         "top_3_objetos": [
           "Contratação da Banda Limão com Mel para as Festividades\nda tradicional Festa de São João do Município de Livramento – PB"
@@ -400,14 +398,17 @@
       },
       "8": {
         "num_diarios": 4,
-        "num_contratos": 2,
-        "total_gasto": 122393.3,
+        "num_contratos": 4,
+        "total_gasto": 255073.3,
         "top_3_empresas": [
           "TRQ LIMA VITURINO & CIA LTDA",
-          ").\n\nLivramento"
+          "COSTEIRA LOCADORA DE VEICULOS\n\nEIRELI.",
+          "CONOBRE ENGENHARIA CONSTRUCAO\n\nE COMERCIO LTDA"
         ],
         "top_3_objetos": [
-          "Contratação de empresa especializada para fornecimento de\n\nMedicamentos da ABCFarma para atender nas necessidades da\n\nSecretaria de Saúde do Município de livramento, conforme termo de\n\nreferência"
+          "Contratação de empresa especializada para fornecimento de\n\nMedicamentos da ABCFarma para atender nas necessidades da\n\nSecretaria de Saúde do Município de livramento, conforme termo de\n\nreferência",
+          "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO\n\nDE VEÍCULO UTILITÁRIO DO TIPO SUV (VIATURA DE\n\nPOLICIAMENTO DE USO OPERACIONAL) PARA ATENDER\n\nAS NECESSIDADES DA GUARDA MUNICIPAL DE\n\nPREFEITURA MUNICIPAL DE PATOS/PB",
+          "CONTRATAÇÃO DE EMPRESA PARA\n\nCONSULTORIA TÉCNICA DE ENGENHARIA CIVIL PARA\n\nOS SERVIÇOS DE FISCALIZAÇÃO DE OBRAS PÚBLICAS\n\nCONVENIADAS COM O ESTADO E COM A UNIÃO, A\n\nCARGO DA SECRETARIA MUNICIPAL DE\n\nINFRAESTRUTURA DE PATOS/PB"
         ]
       },
       "9": {
@@ -426,8 +427,8 @@
       },
       "11": {
         "num_diarios": 9,
-        "num_contratos": 2,
-        "total_gasto": 301000.0,
+        "num_contratos": 7,
+        "total_gasto": 677959.7,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -445,22 +446,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 343,
-    "num_contratos": 184,
-    "total_gasto": 26159001.56,
+    "num_diarios": 335,
+    "num_contratos": 206,
+    "total_gasto": "25.907.338,99",
     "top_5_empresas": {
-      ").\n\nLivramento": 5,
-      ").\n\n\n\nLivramento": 3,
-      "). Notificação: No prazo de 8 (Oito) dias úteis, contado a\n\npartir do 1º dia útil desta publicação, para a": 2,
-      "Jairo Aldafran da Silva Moraes-ME,": 2,
-      "ACM MERCANTIL LTDA": 2
+      "Jairo Aldafran da Silva Moraes-ME": 2,
+      "ACM MERCANTIL LTDA": 2,
+      "JOSIVAN MELQUIADES NOBREGA": 1,
+      "AGNUS COMERCIO DE MAQUINAS E\n\nEQUIPAMENTOS EIRELI.": 1,
+      "JB CARDOSO SERVIÇO E TRANSPORTE\n\nLTDA.": 1
     },
     "top_5_objetos": {
       "Prestar o fornecimento parcelado de materiais\n\ndescartáveis para atender a demanda das diversas secretárias deste\n\nmunicípio, conforme termo de referência": 2,
-      "Prestar serviços de\n\nengenharia na Pavimentação em paralelepípedo de 04 (Quatro) vias\n\nurbanas (Rua Helena Barbosa da Silva, Rua Erotildes Maria de Brito,\n\nRua Severina Josefa da Conceição, Rua Otacílio Nunes da Nóbrega)\n\ntodas localizadas na Zona Urbana de Livramento-PB": 1,
-      "Prestar\n\nserviços de engenharia na Construção de 01 (Uma) Passagem\n\nMolhada para adequação de estrada vicinal (Lado esquerdo de\n\n30,08m, Centro de 22,25m, Lado direito de 25,52m), localizada no\n\nSítio Arius de Livramento-PB": 1,
-      "Prestar\n\nserviços de engenharia na Pavimentação em paralelepípedo de 03\n\n(Três) vias urbanas (Rua José Estevão Maranhão - Estaca 0 a 8+10m,\n\nRua José Estevão Maranhão - Estaca 8+10m a 16+2,76m, Rua José\n\nEstevão Maranhão - Estaca 16+2,76m a 18+11,69m) todas localizadas\n\nna Zona Urbana de Livramento-PB": 1,
-      "Aquisição de equipamento e material permanente para\n\nunidade básica de saúde ESF III Dr": 1
+      "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE UTENSÍLIOS DE COZINHA VISANDO\n\nATENDER AS NECESSIDADES DA SECRETARIA\n\nMUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PATOS/PB": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA\n\nFORNECIMENTO DE EQUIPAMENTOS DE MULTIMÍDIA\n\nPARA ATENDER AS NECESSIDADES DA PREFEITURA\n\nMUNICIPAL DE PATOS/PB": 1,
+      "Contratação de empresa para fornecimento de peças e\n\nferramentas de informática dos itens remanescentes do PP\n\n038/2021 para atender às necessidades da Prefeitura Municipal de\n\nPatos-PB": 1,
+      "Prestar serviços de\n\nengenharia na Pavimentação em paralelepípedo de 04 (Quatro) vias\n\nurbanas (Rua Helena Barbosa da Silva, Rua Erotildes Maria de Brito,\n\nRua Severina Josefa da Conceição, Rua Otacílio Nunes da Nóbrega)\n\ntodas localizadas na Zona Urbana de Livramento-PB": 1
     }
   }
 }

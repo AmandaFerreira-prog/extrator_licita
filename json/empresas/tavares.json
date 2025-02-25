@@ -1,0 +1,1602 @@
+{
+  "id": "tavares",
+  "nome": "Tavares",
+  "detalhe": {
+    "2014": {
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 37,
+        "num_contratos": 1,
+        "total_gasto": 197000.0
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 197000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 557200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 43,
+        "num_contratos": 7,
+        "total_gasto": 1477994.76
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de obra de\nengenharia: Lote I – Conclusão de Uma Escola Infantil Proinfância na\nCidade de Tavares – PB",
+            "empresa": "CONSTRUTORA J.\nGALDINO EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para execução de obra de\nengenharia: Lote II - Conclusão da Construção de Quadra\nPoliesportiva com Vestiário no Povoado Silvestre, através do Fundo\nNacional de Desenvolvimento da Educação – FNDE/PAR – Programa\nPró Infância",
+            "empresa": "CONSTRUTORA J.\nGALDINO EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 307677.71,
+        "empresas_mensais": [
+          {
+            "objeto": "Pavimentação em Paralelepípedo em Diversas Ruas do\nMunicípio de Tavares – PB, nos termos do Contrato de Repasse n.º\n1022141-01, celebrando entre a Prefeitura Municipal de Tavares e a\nUnião Federal, através do Ministério das Cidades",
+            "empresa": "do orçamento do Município de Tavares",
+            "valor_total": "R$ 307,677.71"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 577117.05,
+        "empresas_mensais": [
+          {
+            "objeto": "Conclusão da Obra de Implantação de Rede Coletora de\nEsgoto e Estação Elevatória no Município de Tavares – PB, nos\ntermos do Convênio n.º 1149/2007/PMT/FUNASA",
+            "empresa": "FS\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 342,479.50"
+          },
+          {
+            "objeto": "Conclusão da Obra de Implantação de Rede Coletora de\nEsgoto e Estação Elevatória no Município de Tavares – PB, nos\ntermos do Convênio n.º 1149/2007/PMT/FUNASA",
+            "empresa": "Obras e Instalações.\nVALOR GLOBAL: R$ 342.479,50 (Trezentos e Quarenta e Dois\nMil Quatrocentos e Setenta e Nove Reais e Cinquenta Centavos).\nVIGÊNCIA : 16/12/2016 à 16/12/2017\nDATA E ASSINATURA: Tavares",
+            "valor_total": "R$ 342,479.50"
+          },
+          {
+            "objeto": "Conclusão da Obra de Implantação de Rede Coletora de\nEsgoto e Estação Elevatória no Município de Tavares – PB, nos\ntermos do Convênio n.º 2055/2005/PMT/FUNASA",
+            "empresa": "FS\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 161,637.55"
+          },
+          {
+            "objeto": "Conclusão da Obra de Implantação de Rede Coletora de\nEsgoto e Estação Elevatória no Município de Tavares – PB, nos\ntermos do Convênio n.º 2055/2005/PMT/FUNASA",
+            "empresa": "Obras e Instalações.\nVALOR GLOBAL: R$ 161.637,55 (Cento e Sessenta e Um Mil\nSeiscentos e Trinta e Sete Reais e Cinquenta e Cinco Centavos).\nVIGÊNCIA : 16/12/2016 à 16/12/2017\nDATA E ASSINATURA: Tavares",
+            "valor_total": "R$ 161,637.55"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 1681767.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, Contratados, locados, à disposição ou\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CGM VITAL\nDERIVADOS DE COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 1,489,500.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\npropriedade da Prefeitura, Contratados, locados, à disposição ou\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados, à disposição ou\nvinculados a atividade pública do Município de Tavares",
+            "valor_total": "R$ 1,489,500.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para Confecção de\nMateriais Gráficos e Impressos para todas as Secretarias Municipais\nda Prefeitura de Tavares – PB, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ROSIVALDO\nGOMES DA SILVA GRÁFICA E EDITORA",
+            "valor_total": "R$ 65,752.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para Confecção de\nMateriais Gráficos e Impressos para todas as Secretarias Municipais\nda Prefeitura de Tavares – PB, conforme proposta de preço, tipo\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\nPregão Presencial Nº",
+            "empresa": "ESDRAS BATISTA\nDA FONSECA FILHO",
+            "valor_total": "R$ 126,515.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 38,
+        "num_contratos": 52,
+        "total_gasto": 8302539.49
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 8,
+        "total_gasto": 3086723.53,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 8,
+        "total_gasto": 1112337.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 12,
+        "total_gasto": 1534676.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 9,
+        "total_gasto": 347211.23,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços Técnicos Especializados de Apoio\nAdministrativo à Secretaria de Saúde do Município, na elaboração de\nprojetos técnicos e alimentação dos sistemas e Saúde, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "JOSÉ MAX\nRODRIGUES SOARES",
+            "valor_total": "R$ 20,400.00"
+          },
+          {
+            "objeto": "Locação de veículos para o Transporte de Alunos da Rede\nMunicipal de Ensino, residentes na Zona Rural, e para atender as\nnecessidades da Secretaria de Educação do Município de Tavares –\nPB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "JOSÉ GOMES",
+            "valor_total": "R$ 35,280.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 76863.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 293760.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços para manutenção e conservação da\nfrota de veículos próprios e locados e maquinas pesadas da Prefeitura\nde Tavares – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "CÉLIO ROBERTO\nDE LIMA OFICINA",
+            "valor_total": "R$ 96,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 97200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 72000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 27,
+        "total_gasto": 3686213.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 79,
+        "num_contratos": 113,
+        "total_gasto": 14219250.3
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 1513315.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de peças destinados à frota de veículos e\nmáquinas pesadas do Município e veículos locados ao Município de\nTavares – PB, conforme proposta de preço, tipo menor preço por lote,\njulgada vencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "G.R.E AUTO PEÇAS\nLTDA",
+            "valor_total": "R$ 344,439.26"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 13,
+        "total_gasto": 3146455.4999999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 2234008.9000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nSandryno Ferraz, no dia 31 de maio de 2018, em praça pública,\ndurante as festividades juninas do Tradicional, Cultural, Folclórico e\nTurístico Forrojão do Município de Tavares – PB",
+            "empresa": "A EMPRESA IDEA PRODUÇÕES E\n\nLOCAÇÕES DE ESTRUTURAS E ILUMINAÇÃO LTDA",
+            "valor_total": "R$ 14,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 451467.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa Especializada em prestação de\nserviços de Locação de Estrutura de Apoio para as festividades do\nForrojão do Município de Tavares - PB, que será realizado em praça\npública nos dias 30 e 31 de Maio e 02 de Junho 2018, conforme\nproposta de preço, tipo menor preço global, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "DENILTON MANDU DE\nOLIVEIRA",
+            "valor_total": "R$ 50,910.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 138269.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 831683.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 568999.34,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 12,
+        "total_gasto": 275146.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 11,
+        "total_gasto": 466983.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712191610360, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "JOSÉ NERGINO SOBREIRA/PJS\nDISTRIBUIDORA",
+            "valor_total": "R$ 10,832.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712191610360, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 19,450.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712191610360, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "EDILANE CARVALHO ARAÚJO",
+            "valor_total": "R$ 22,000.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712191610360, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE\nPRODUTOS MÉDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 4,296.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712261102861, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "JOSÉ NERGINO SOBREIRA/PJS\nDISTRIBUIDORA",
+            "valor_total": "R$ 13,740.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712261102861, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "RITA DE ANDRADE\nVIEIRA/DENTAL ANDRADE COMERCIO\nREPRESENTAÇÕES E SERVIÇOS",
+            "valor_total": "R$ 4,690.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712261102861, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "EDILANE CARVALHO ARAÚJO",
+            "valor_total": "R$ 2,725.00"
+          },
+          {
+            "objeto": "Aquisição de Equipamentos Odontológicos para equipe de\nsaúde bucal do Município de Tavares – PB, em conformidade com o\nTermo de Compromisso n.º 2516601712261102861, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº",
+            "empresa": "ODONTOMED COMÉRCIO DE\nPRODUTOS MÉDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 7,050.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 888708.5700000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Construção de Uma Murada de Contorno e Sistema de\n\nTratamento e Destinação Final de Esgotos de Uma Escola de 12 Salas\n\nde Aula no Bairro Jardim Planalto, nos termos do Convênio n.º\n\n0231/2018/PMT/SEEP",
+            "empresa": "CONSTRUTORA\n\nJMSA LTDA",
+            "valor_total": "R$ 255,764.15"
+          },
+          {
+            "objeto": "Construção de Uma Murada de Contorno e Reforma da\n\nQuadra da Escola Municipal Padre Tavares, nos termos do Convênio\n\nn.º 0184/2018/PMT/SEEP",
+            "empresa": "CONSTRUTORA\n\nJMSA LTDA",
+            "valor_total": "R$ 191,998.77"
+          },
+          {
+            "objeto": "Construção de Uma Murada de Contorno e Sistema de\n\nTratamento e Destinação Final de Esgotos de Uma Escola de 06 Salas\n\nde Aula e Para Uma Quadra Coberta, com vestiários, na Comunidade\n\nPovoado Silvestre, nos termos do Convênio n.º\n\n0230/2018/PMT/SEEP",
+            "empresa": "CONSTRUTORA\n\nJMSA LTDA",
+            "valor_total": "R$ 278,945.65"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 18000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 1328600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\n\npropriedade da Prefeitura, Contratados, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "CGM VITAL\n\nDERIVADOS DE COMBUSTÍVEIS LTDA",
+            "valor_total": "R$ 756,600.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\n\npropriedade da Prefeitura, Contratados, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares",
+            "valor_total": "R$ 756,600.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\n\npropriedade da Prefeitura, Contratados, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "COMÉRCIO\n\nVAREJISTA DE COMBUSTÍVEL E POUSADA NOSSA\n\nSENHORA DE LOURDES EIRELI",
+            "valor_total": "R$ 572,000.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos de\n\npropriedade da Prefeitura, Contratados, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados, à disposição ou\n\nvinculados a atividade pública do Município de Tavares",
+            "valor_total": "R$ 572,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 132,
+        "total_gasto": 12743349.379999999
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 30,
+        "total_gasto": 3889552.2600000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 20,
+        "total_gasto": 1831512.69,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para execução de serviço de\n\nGrades Metálicas nas janelas da UBS Centro e Garrafão com\n\nconstrução da base do muro da UBS do Garrafão no Município de\n\nUiraúna",
+            "empresa": "CONSTRUTORA DOIS IRMÃOS",
+            "valor_total": "R$ 54,232.78"
+          },
+          {
+            "objeto": "Fornecimento parcelado e diário de Material de Expediente,\n\ndestinados às atividades das secretarias deste município/PB",
+            "empresa": "JAQUELINE\n\nFERREIRA AQUINO",
+            "valor_total": "R$ 275,092.40"
+          },
+          {
+            "objeto": "Aquisição de Material Escolar, destinado a Secretaria de\n\nEducação do Município de Uiraúna - PB",
+            "empresa": "JAQUELINE FERREIRA AQUINO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 28,
+        "total_gasto": 427384.30000000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 978745.8300000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 945159.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 523120.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de kits didáticos para melhoria de proficiência\nem Língua Portuguesa e Matemática, com vistas à melhoria do\ndesempenho de estudantes do ensino fundamental (anos iniciais e\nanos finais) na Prova Brasil, em conformidade com o TERMO DE\nCOMPROMISSO PAR Nº 201803713-8, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "MVC EDITORA LTDA",
+            "valor_total": "R$ 146,430.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 354746.11,
+        "empresas_mensais": [
+          {
+            "objeto": "Apresentação de Um Show Artístico da Banda Musical\nFeitiço de Menina, no dia 28 de setembro de 2019, em praça pública,\ndurante a Tradicional, Cultural, histórica e Turística festividade da\npadroeira de São Miguel do Município de Tavares - PB",
+            "empresa": "A EMPRESA RONALDO CEZAR\nSANTOS SILVA",
+            "valor_total": "R$ 20,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1320397.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 5,
+        "total_gasto": 109000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 212553.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 822578.4400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Execução de Serviços de\nEngenharia para Pavimentação em Paralelepípedo em Diversas Ruas\ndo Município de Tavares – PB, nos termos do Convênio n.º\n864021/2017",
+            "empresa": "ARRIMO\nENGENHEIRA LTDA",
+            "valor_total": "R$ 741,908.79"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 2567978.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 157,
+        "total_gasto": 19158679.750000004
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 50,
+        "total_gasto": 5040861.500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 2446740.01,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 veículo de transporte escolar diário de\nestudantes, denominado de Ônibus Rural Escolar (ORE 1), para\natender as necessidades da Prefeitura Municipal de Tavares- PB",
+            "empresa": "MAN LATIN\nAMERICA INDUSTRIA E COMERCIO DE VEÍCULOS LTDA",
+            "valor_total": "R$ 193,632.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 184120.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 717834.1599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 1037097.3200000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação Direta de profissional para Elaboração de\n\nProjetos Básicos e Executivos de Engenharia e Prestação de Serviços\n\nde Assessoria Técnica na Fiscalização e Supervisão de obras e\n\nserviços",
+            "empresa": "JANAINA LEITE BATISTA",
+            "valor_total": "R$ 33,000.00"
+          },
+          {
+            "objeto": "Contratação Direta de profissional para Elaboração de\n\nProjetos Básicos e Executivos de Engenharia e Prestação de Serviços\n\nde Assessoria Técnica na Fiscalização e Supervisão de obras e\n\nserviços",
+            "empresa": "Outros\n\nServiços de Terceiro",
+            "valor_total": "R$ 33,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 2003639.8900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 543173.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 306600.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 30,
+        "total_gasto": 1667067.83,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa(s) para execução de obra de\nengenharia: Lote I – Construção de Um Posto de Saúde no Sítio\nMucambo",
+            "empresa": "OLIVEIRA\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 288,247.76"
+          },
+          {
+            "objeto": "Contratação de empresa(s) para execução de obra de\nengenharia: Lote II – Construção de Um Sistema Simplificado de\nAbastecimento no Povoado Silvestre",
+            "empresa": "OLIVEIRA\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 147,969.05"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 2643567.64,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 10 tv Smart 43 e de 10 TV Smart Led 32\npara o Hospital Público Municipal José Leite da Silva em Tavares -\nPB",
+            "empresa": "CARAJAS MATERIAL DE\nCONSTRUCAO LTDA",
+            "valor_total": "R$ 33,998.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 272060.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição Emergencial de Combustíveis, destinados aos\nveículos de propriedade da Prefeitura, Contratados, locados, à\ndisposição ou vinculados a atividade pública do Município de\nTAVARES – PB",
+            "empresa": "R1 COMÉRCIO DE DERIVADOS\nDE PETROLEO LTDA",
+            "valor_total": "R$ 130,060.00"
+          },
+          {
+            "objeto": "Aquisição Emergencial de Combustíveis, destinados aos\nveículos de propriedade da Prefeitura, Contratados, locados, à\ndisposição ou vinculados a atividade pública do Município de\nTAVARES – PB",
+            "empresa": "s, locados, à\ndisposição ou vinculados a atividade pública do Município de\nTAVARES",
+            "valor_total": "R$ 130,060.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 116,
+        "num_contratos": 222,
+        "total_gasto": 20679127.639999997
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 64,
+        "total_gasto": 3836955.0199999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Material de Consumo e de Expediente para\n\ntodas as Secretarias Municipais da Prefeitura de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "MARIA DA GLORIA CABRAL\n\nCOSTA VIEIRA",
+            "valor_total": "R$ 94,335.00"
+          },
+          {
+            "objeto": "Aquisição de Material de Consumo e de Expediente para\n\ntodas as Secretarias Municipais da Prefeitura de Tavares – PB,\n\nconforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "THALES DE LAESSES HENRIQUES\n\nCHAVES",
+            "valor_total": "R$ 10,585.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 65,
+        "total_gasto": 10628439.310000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos em\nTrânsito de propriedade da Prefeitura, Contratados, locados, à\ndisposição ou vinculados a atividade pública do Município de Tavares\n– PB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "J P COMÉRCIO DE\nCOMBUSTÍVEL LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis, destinados aos veículos em\nTrânsito de propriedade da Prefeitura, Contratados, locados, à\ndisposição ou vinculados a atividade pública do Município de Tavares\n– PB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "s, locados, à\ndisposição ou vinculados a atividade pública do Município de Tavares\n– PB, conforme proposta de preço, tipo menor preço por item, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº. 02/2021.\n\nFundamento LEGAL: Leis n.ºs 10.520/2002 e 8.666/93 e do\nDecreto Federal n° 3.555/2000.\n\nFONTE DE RECURSO E DOTAÇÃO ORÇAMENTÁRIA: As\ndespesas decorrentes da execução dos serviços, correrão à conta dos\nrecursos orçamentários do Município de Tavares",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Locação de Veículos para atender as necessidades das\nSecretarias Municipais da Prefeitura de Tavares – PB, conforme\nespecificações constantes do Termo de Referência, conforme proposta\nde preço, tipo menor preço global, julgada vencedora pelo Pregoeiro,\nno processo Pregão Presencial Nº",
+            "empresa": "OLIVEIRA\nLOCAÇÃO, SERVIÇOS E CONSTRUÇÕES LTDA",
+            "valor_total": "R$ 341,400.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para Merenda dos\nAlunos da Rede Municipal de Ensino e dos Programas das Secretarias\nMunicipais da Prefeitura de Tavares – PB, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "LUZIA PEREIRA DA SILVA",
+            "valor_total": "R$ 242,789.00"
+          },
+          {
+            "objeto": "Aquisição de Gêneros Alimentícios para Merenda dos\nAlunos da Rede Municipal de Ensino e dos Programas das Secretarias\nMunicipais da Prefeitura de Tavares – PB, conforme proposta de\npreço, tipo menor preço por item, julgada vencedora pelo Pregoeiro,\nno processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "RAIMUNDO ADELMAR FONSECA\nPIRES",
+            "valor_total": "R$ 352,870.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 17,
+        "total_gasto": 463265.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para fornecimento de oxigênio,\n\npara atendar a demanda da Secretaria Municipal de Saúde de Tavares\n\n– PB, conforme proposta de preço, tipo menor preço por item, julgada\n\nvencedora pelo Pregoeiro, no processo PREGÃO ELETRÔNICO Nº",
+            "empresa": "IVALDO FLORENCIO DE\n\nAZEVEDO",
+            "valor_total": "R$ 75,750.00"
+          },
+          {
+            "objeto": "Aquisição de Tijolos, telhas e Madeiras destinados à\n\nManutenção, Conservação, Recuperação e Reforma dos prédios,\n\nórgãos, diretorias, coordenadorias de todas as Secretarias Municipais\n\nda Prefeitura de Tavares – PB, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPregão Presencial Nº",
+            "empresa": "JOSIMARIO\n\nCORDEIRO FLORENTINO",
+            "valor_total": "R$ 161,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 378610.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 551642.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 143400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 538306.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para Prestação dos Serviços de\nAssessoria para Acerto de Vínculos dos servidores municipais junto à\nSecretaria da Previdência Social; Acompanhamento dos\nparcelamentos: Fazendário e Previdenciário junto à RFB/PGFN;\nAcompanhamento de Processos Fiscais do Município e seus Entes\nVinculados junto à RFB e PGFN; Parcelamentos da RFB e PGFN\njunto aos órgãos competentes; Inclusão de DDA junto à RFB;\nIndividualização de FGTS de competências anterior a mudança de\nregime; Obrigações Acessórias junto à RFB, CEF, SPS e ST,\nconforme proposta de preço, tipo menor preço global, julgada\nvencedora pelo Pregoeiro, no processo Pregão Presencial Nº",
+            "empresa": "STHEPSON MAIERY\nALVES DE LIRA",
+            "valor_total": "R$ 36,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 735088.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 187500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 14,
+        "total_gasto": 1213980.8800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1729880.65,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para execução dos serviços de\n\npavimentação em paralelepípedo no Município de Tavares – PB, nos\n\ntermos do Contrato de Repasse 1073973-19/2020 - Convênio\n\n907757/2020",
+            "empresa": "A EMPRESA: SIDNEY NICÁCIO\n\nDE OLIVEIRA",
+            "valor_total": "R$ 390,146.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 21,
+        "total_gasto": 3681634.8000000007,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE FARDAMENTO ESCOLAR PARA\n\nDISTRIBUIÇÃO AOS ALUNOS DA REDE MUNICIPAL DE\n\nENSINO DE TAVARES – PB",
+            "empresa": "JOÃO MARTINHO DA\n\nSILVA/MASTER",
+            "valor_total": "R$ 44,720.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL ESCOLAR PARA\n\nDISTRIBUIÇÃO AOS ALUNOS DA REDE MUNICIPAL DE\n\nENSINO DE TAVARES – PB",
+            "empresa": "MARIA DA GLORIA CABRAL\n\nCOSTA VIEIRA",
+            "valor_total": "R$ 48,266.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA REALIZAÇÃO DE JORNADA PEDAGÓGICA NOS DIA\n\n27, 28 E 31 DE JANEIRO E 01 E 02 DE FEVEREIRO DE 2022\n\nPARA OS PROFESSORES, GESTORES, COORDENADORES\n\nE PESSOAL DE APOIO DA REDE MUNICIPAL DE ENSINO\n\nDE TAVARES - PB",
+            "empresa": "YURI FERNANDO SANTOS\n\nHOLANDA/ YS SERVICOS & CONSULTORIA\n\nESPECIALIZADOS",
+            "valor_total": "R$ 52,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 101,
+        "num_contratos": 243,
+        "total_gasto": 26160319.0
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 66,
+        "total_gasto": 8904253.14,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "JAP COMERCIO VAREJISTA DE\n\nGENEROS ALIMENTICIOS LTDA",
+            "valor_total": "R$ 109,834.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "J.T.A. COMERCIO DE ARTIGOS\n\nDESCARTAVEIS LTDA",
+            "valor_total": "R$ 6,370.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "FATIMA MARIA BARBOSA",
+            "valor_total": "R$ 353,208.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "DISTRIBUIDORA DE PRODUTOS\n\nAGRESTE MERIDIONAL LTDA",
+            "valor_total": "R$ 2,280.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "POSEIDON COMERCIAL E\n\nINDUSTRIAL LTDA",
+            "valor_total": "R$ 21,360.00"
+          },
+          {
+            "objeto": "Aquisição de Pneus, Câmaras e Coletes e realização dos\n\nserviços automotivos congêneres destinados à frota de veículos e\n\npatrulha mecanizada/máquinas pesadas da Prefeitura Municipal de\n\nTavares – PB, conforme proposta de preço, tipo menor preço por item,\n\njulgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "REVENDEDORA OURO PNEUS\n\nLTDA",
+            "valor_total": "R$ 642,079.00"
+          },
+          {
+            "objeto": "Aquisição parcelada de Material de Limpeza e Higiene\n\npara desenvolver as ações e programas de todas as Secretarias do\n\nMunicípio de Tavares - PB, conforme proposta de preço, tipo menor\n\npreço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "KARLA KAROLINE FONTES\n\nMENESES",
+            "valor_total": "R$ 4,737.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 42,
+        "total_gasto": 3454092.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "APOGEU CENTER COMERCIAL\n\nDE PRODUTOS HOSPITALARES E MEDICAMEN",
+            "valor_total": "R$ 17,937.25"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "BHDENTAL COMERCIAL EIRELI -\n\nTipo:",
+            "valor_total": "R$ 13,811.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "C R VIEIRA PRODUTOS\n\nHOSPITALARES",
+            "valor_total": "R$ 4,522.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "Dx Ind.,Com.,Importação e Exportação\n\nLtda-Epp",
+            "valor_total": "R$ 4,080.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "Emige Materiais Odontológicos Ltda -\n\nTipo: Ltda/Eireli",
+            "valor_total": "R$ 35,413.94"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "FATO IMPORTADORA E\n\nEXPORTADORA DE INSTRUMENTOS CIRURGICOS",
+            "valor_total": "R$ 1,962.50"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "JOSE NERGINO SOBREIRA - Tipo:\n\nLtda/Eireli",
+            "valor_total": "R$ 5,507.50"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "MCN COMERCIO E IMPORTAÇÃO\n\nDE PRODUTOS CIRÚRGICOS LTDA",
+            "valor_total": "R$ 3,710.40"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 74\n\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "Nordeste Hospitalar Ltda",
+            "valor_total": "R$ 23,103.16"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "ODONTOMED COMERCIO DE\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 50,395.48"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "ODONTOMED T/A LTDA",
+            "valor_total": "R$ 4,298.90"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "PAULO RICARDO CORDEIRO DE\n\nGOIS",
+            "valor_total": "R$ 48,280.00"
+          },
+          {
+            "objeto": "Aquisição de materiais e insumos odontológicos,\n\ndestinados a atender as necessidades da Secretaria Municipal de\n\nSaúde de Tavares - PB, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\nELETRÔNICO Nº",
+            "empresa": "RITA DE ANDRADE VIEIRA",
+            "valor_total": "R$ 16,208.21"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 26,
+        "total_gasto": 867711.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação do Veiculo Car/Caminhão Tanque, Marca\n\nVW/15.160, Ano de Fabricação 2009, Cor Branca, Placa KZF-\n\n2200/PB, para realizar o abastecimento de Água na Zona Rural do\n\nMunicípio de Tavares – PB",
+            "empresa": "SIDNEY NICÁCIO DE\n\nOLIVEIRA/SN LOCADORA E SERVIÇOS",
+            "valor_total": "R$ 72,000.00"
+          },
+          {
+            "objeto": "Locação do Veiculo Car/Caminhão Tanque, Marca\n\nVW/15.160, Ano de Fabricação 2009, Cor Branca, Placa KZF-\n\n2200/PB, para realizar o abastecimento de Água na Zona Rural do\n\nMunicípio de Tavares – PB",
+            "empresa": "Outros Serviços de Terceiro",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 2222607.3099999996,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE PINTURA DE MEIO – FIO E PODA DE\n\nARVORES NA CIDADE DE TAVARES - PB",
+            "empresa": "LIMA CONSTRUÇÕES E\n\nSERVIÇOS EIRELI",
+            "valor_total": "R$ 89,245.28"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE PINTURA DE MEIO – FIO E PODA DE\n\nARVORES NA CIDADE DE TAVARES - PB",
+            "empresa": "LIMA CONSTRUÇÕES E\n\nSERVIÇOS EIRELI",
+            "valor_total": "R$ 89,245.28"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 35,
+        "total_gasto": 3420422.6599999997,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE UMA GLEBA DE TERRAS,\n\nLOCALIZADA NO POVOADO SILVESTRE, MUNICÍPIO DE\n\nTAVARES, NO ESTADO DA PARAÍBA, SITUADO NA\n\nESTRADA DA MATA VERDE, COM ÁREA TOTAL DE 1.500 M²\n\n(UM MIL E QUINHENTOS METROS QUADRADOS), VIA\n\nPROCESSO DE DESAPROPRIAÇÃO, DESTINADO A\n\nCONSTRUÇÃO DE CRECHE MUNICIPAL COM CAPACIDADE\n\nPARA 100 (CEM) CRIANÇAS",
+            "empresa": "DAMIÃO VITURINO DA SILVA",
+            "valor_total": "R$ 65,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE UMA GLEBA DE TERRAS,\n\nLOCALIZADA NO POVOADO JUREMA, MUNICÍPIO DE\n\nTAVARES, NO ESTADO DA PARAÍBA, COM ÁREA TOTAL DE\n\n2.250 M² (DUAS MIL DUZENTOS E CINQUENTA METROS\n\nQUADRADOS), VIA PROCESSO DE DESAPROPRIAÇÃO,\n\nDESTINADO A CONSTRUÇÃO DE ESCOLA DE 06 (SEIS)\n\nSALAS DE AULA",
+            "empresa": "ABIMAEL PEREIRA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 50,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 179086.0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE CESTAS BÁSICAS EMBALADAS\n\nPARA DISTRIBUIÇÃO ÀS FAMÍLIAS EM SITUAÇÃO DE\n\nVULNERABILIDADE SOCIAL, conforme proposta de preço, tipo\n\nmenor preço por item, julgada vencedora pelo Pregoeiro, no processo\n\nPREGÃO ELETRÔNICO Nº",
+            "empresa": "AUDECY BELARMINO DE\n\nOLIVEIRA ME.",
+            "valor_total": "R$ 140,686.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1535021.79,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de Máquinas para atender as necessidades da\n\nPrefeitura de Tavares, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "BERNARDINO DE CARVALHO\n\nCAMARA NETO",
+            "valor_total": "R$ 170,000.00"
+          },
+          {
+            "objeto": "Locação de Máquinas para atender as necessidades da\n\nPrefeitura de Tavares, conforme proposta de preço, tipo menor preço\n\npor item, julgada vencedora pelo Pregoeiro, no processo PREGÃO\n\nELETRÔNICO Nº",
+            "empresa": "OLIVEIRA LOCACAO,\n\nSERVICOS E CONSTRUCOES LTDA",
+            "valor_total": "R$ 329,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 1271941.41,
+        "empresas_mensais": [
+          {
+            "objeto": "Credenciamento para Contratação de Pessoas Físicas e/ou\n\njurídica para prestação de serviço de coleta, de transporte e\n\ndistribuição de água potável, para consumo humano, através de carros\n\ntanques pipas, para atender ao município de Tavares – PB",
+            "empresa": "MARIA DAS DORES FERREIRA\n\nDA SILVA",
+            "valor_total": "R$ 72,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 285460.95,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE PESSOA FÍSICA PARA\n\nPRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E\n\nCONSULTORIA JURÍDICA A CÂMARA MUNICIPAL DE\n\nTAVARES",
+            "empresa": "JOÃO LOPES DE SOUSA NETO",
+            "valor_total": "R$ 13,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 147009.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços de Assessoria e Consultoria Jurídica\n\njunto aos Tribunais Estaduais, Regionais e Federais",
+            "empresa": "PAULO ÍTALO DE OLIVEIRA\n\nVILAR SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+            "valor_total": "R$ 48,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 191077.71,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 90,
+        "total_gasto": 12352327.359999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 93,
+        "num_contratos": 174,
+        "total_gasto": 30826042.940000005
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 3393747.04,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE MANUTENÇÃO PREVENTIVA E\nCORRETIVA DE COMPUTADORES, IMPRESSORAS E DEMAIS\n\nEQUIPAMENTOS DE INFORMÁTICA E TELECOMUNICAÇÃO,\n\nPARA ATENDER AS NECESSIDADES DE TODAS\n\nSECRETARIAS DA ´PREFEITURA DE TAVARES - PB",
+            "empresa": "A EMPRESA DAMIÃO PORFIRIO\n\nCARNEIRO",
+            "valor_total": "R$ 51,700.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 20,
+        "total_gasto": 1333970.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades da Casa de Apoio na\n\nPrefeitura de Tavares na Cidade de João Pessoa - PB para o\nexercício financeiro de 2023",
+            "empresa": "PATRICIA FONTES DE OLIVEIRA\n\n– ME/BISTRO FLOR DO ROSÁRIO",
+            "valor_total": "R$ 45,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 1973598.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 293900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 432358.98,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE UTENSÍLIOS DE\n\nCOZINHA, MATERIAIS DE COSTURA, MIUDEZAS,\n\nARTESANAIS E SIMILARES, PARA ATENDER AS\n\nNECESSIDADES DAS DIVERSAS SECRETARIAS DA\n\nPREFEITURA DE TAVARES - PB",
+            "empresa": "A EMPRESA JOSÉ NILDO DE PAIVA",
+            "valor_total": "R$ 42,633.98"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 592649.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 216000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 5667641.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 775342.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 3605608.5999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 188900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 56,
+        "total_gasto": 10817086.25,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Empresa para o Fornecimento de\n\nRefeições para atender as necessidades das Secretarias da\n\nPrefeitura Municipal de Tavares – PB para o exercício financeiro\n\nde 2024",
+            "empresa": "JOSÉ MARQUES DE SOUSA",
+            "valor_total": "R$ 43,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 127,
+        "num_contratos": 290,
+        "total_gasto": 37884806.93
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 39,
+        "total_gasto": 5995905.77,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA COMERCIAL\n\nSANMAR LTDA",
+            "valor_total": "R$ 191,740.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA THALLITA EWLIN\n\nMEDEIROS DE ARAUJO",
+            "valor_total": "R$ 138,401.35"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA A.A. DISTRIBUICAO\n\nE IMPORTACAO DE ARTIGOS DE DECORACAO LTDA |",
+            "valor_total": "R$ 29,494.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA JOSE MURILO DE\n\nMEDEIROS SILVA",
+            "valor_total": "R$ 168,200.05"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA TOP ESPORTE\n\nCOMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+            "valor_total": "R$ 82,752.70"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA E GRADUAL DE\n\nMATERIAL DE CONSUMO E DE EXPEDIENTE PARA\n\nTODAS AS SECRETARIAS MUNICIPAIS DA PREFEITURA\n\nDE TAVARES – PB",
+            "empresa": "A EMPRESA UNICA SANEANTES\n\nLTDA",
+            "valor_total": "R$ 2,911.10"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE COMBUSTÍVEIS, DESTINADOS\n\nAOS VEÍCULOS EM TRÂNSITO DE PROPRIEDADE DA\n\nPREFEITURA DO MUNICÍPIO DE TAVARES – PB",
+            "empresa": "A EMPRESA VIA OESTE\n\nCOMERCIO DE COMBUSTIVEIS LTDA",
+            "valor_total": "R$ 484,400.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nMERENDA DOS ALUNOS DA REDE MUNICIPAL DE\n\nENSINO DA PREFEITURA DE TAVARES – PB",
+            "empresa": "A EMPRESA GILBERTO ALVES\n\nDILO COMERCIO E SERVICOS",
+            "valor_total": "R$ 35,200.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nMERENDA DOS ALUNOS DA REDE MUNICIPAL DE\n\nENSINO DA PREFEITURA DE TAVARES – PB",
+            "empresa": "A EMPRESA LUZIA PEREIRA DA\n\nSILVA",
+            "valor_total": "R$ 202,117.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nMERENDA DOS ALUNOS DA REDE MUNICIPAL DE\n\nENSINO DA PREFEITURA DE TAVARES – PB",
+            "empresa": "A EMPRESA RAIMUNDO\n\nADELMAR FONSECA PIRES",
+            "valor_total": "R$ 545,174.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 53,
+        "total_gasto": 2473502.400000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE 3000 KG DE PEIXE/PROTEÍNA\n\nPARA DISTRIBUIÇÃO ÀS FAMÍLIAS EM SITUAÇÃO DE\n\nVUNERABILIDADE SOCIAL DO PAIF",
+            "empresa": "RIVALDO ROBERTO DOS SANTOS",
+            "valor_total": "R$ 40,500.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE 01 VEÍCULO TIPO FIAT UNO PARA\n\nATENDER AS NECESSIDADES DA SECRETARIA DE OBRAS E\n\nSERVIÇOS URBANOS",
+            "empresa": "A EMPRESA BATISTA CONSTRUÇÕES\n\nE SERVIÇOS LTDA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA CONFECÇÃO DE MATERIAIS GRÁFICOS E IMPRESSOS\n\nPARA TODAS AS SECRETARIAS MUNICIPAIS DA\n\nPREFEITURA DE TAVARES – PB",
+            "empresa": "LUIS FERNANDO FERNANDES DA SILVA\n\n–",
+            "valor_total": "R$ 35,077.70"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA CONFECÇÃO DE MATERIAIS GRÁFICOS E IMPRESSOS\n\nPARA TODAS AS SECRETARIAS MUNICIPAIS DA\n\nPREFEITURA DE TAVARES – PB",
+            "empresa": "PRIME COMÉRCIO DE ARTIGOS\n\nESPORTIVOS LTDA",
+            "valor_total": "R$ 8,399.20"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA CONFECÇÃO DE MATERIAIS GRÁFICOS E IMPRESSOS\n\nPARA TODAS AS SECRETARIAS MUNICIPAIS DA\n\nPREFEITURA DE TAVARES – PB",
+            "empresa": "RICARDO GOMES DA SILVA",
+            "valor_total": "R$ 142,156.70"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA CONFECÇÃO DE MATERIAIS GRÁFICOS E IMPRESSOS\n\nPARA TODAS AS SECRETARIAS MUNICIPAIS DA\n\nPREFEITURA DE TAVARES – PB",
+            "empresa": "HARLEY CANDIDO LIMA",
+            "valor_total": "R$ 168,000.65"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 1457826.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 30,
+        "total_gasto": 3922578.45,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE APRESENTAÇÃO DE UM\n\nSHOW ARTÍSTICO DO CANTOR RUAN FORROZEIRO, PARA\n\nAPRESENTAÇÃO DE UM SHOW NO DIA 23 DE JUNHO NO\n\nPOVOADO SILVESTRE NO MUNICÍPIO DE TAVARES-PB",
+            "empresa": "WK PRODUÇÓES E EVENTOS",
+            "valor_total": "R$ 40,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA CONFECÇÃO\n\nDE PRÓTESES DENTÁRIAS DENTRO DO PROGRAMA BRASIL\n\nSORRIDENTE NO MUNICÍPIO DE TAVARES - PB",
+            "empresa": "A EMPRESA JAIRO GUSTAVO CAETANO\n\nNUNES-ME",
+            "valor_total": "R$ 58,500.00"
+          },
+          {
+            "objeto": "Aquisição de insumos médicos e hospitalares, para atender\n\nas necessidades da Secretaria de Saúde da Prefeitura de Tavares – PB\n\ndurante o exercício financeiro de 2024",
+            "empresa": "ALLFAMED COMERCIO ATACADISTA\n\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 298,051.60"
+          },
+          {
+            "objeto": "Aquisição de insumos médicos e hospitalares, para atender\n\nas necessidades da Secretaria de Saúde da Prefeitura de Tavares – PB\n\ndurante o exercício financeiro de 2024",
+            "empresa": "HORUS FARMA DISTRIBUIDORA\n\nDE MEDICAMENTOS LTDA",
+            "valor_total": "R$ 6,837.00"
+          },
+          {
+            "objeto": "Aquisição de insumos médicos e hospitalares, para atender\n\nas necessidades da Secretaria de Saúde da Prefeitura de Tavares – PB\n\ndurante o exercício financeiro de 2024",
+            "empresa": "Medical Mercantil de Aparelhagem Médica\n\nLtda",
+            "valor_total": "R$ 6,871.80"
+          },
+          {
+            "objeto": "Aquisição de insumos médicos e hospitalares, para atender\n\nas necessidades da Secretaria de Saúde da Prefeitura de Tavares – PB\n\ndurante o exercício financeiro de 2024",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 5,695.00"
+          },
+          {
+            "objeto": "Aquisição de insumos médicos e hospitalares, para atender\n\nas necessidades da Secretaria de Saúde da Prefeitura de Tavares – PB\n\ndurante o exercício financeiro de 2024",
+            "empresa": "PAULO RICARDO CORDEIRO DE GOIS-\n\nME",
+            "valor_total": "R$ 497,332.45"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 484900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 3786907.4899999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 2410901.21,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE IMPLANTAÇÃO DE PAVIMENTO EM\n\nPARALELEPÍPEDO EM VIAS PÚBLICAS URBANAS NO\n\nMUNICÍPIO DE TAVARES – PB",
+            "empresa": "TORRE CONSTRUÇÃO E\n\nCONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE IMPLANTAÇÃO DE PAVIMENTO EM\n\nPARALELEPÍPEDO EM VIAS PÚBLICAS URBANAS NO\n\nMUNICÍPIO DE TAVARES – PB",
+            "empresa": ".\n\nSIGNATÁRIOS: Pelo contratante: Genildo José Da Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE IMPLANTAÇÃO DE PAVIMENTO EM\n\nPARALELEPÍPEDO EM VIAS PÚBLICAS URBANAS NO\n\nMUNICÍPIO DE TAVARES – PB",
+            "empresa": "Damião Epaminondas Tavares Bezerra",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 2295873.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 14,
+        "total_gasto": 2638816.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE REFEIÇÕES PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE\nTAVARES - PB, PARA COMPLEMENTAÇÃO DO EXERCÍCIO\nDE 2024\nPARTES: PREFEITURA MUNICIPAL DE TAVARES – PB, CNPJ:\n08.944.092/0001-70 E A EMPRESA: JOSÉ MARQUES DE\nSOUSA - ME, inscrita no CNPJ: 38.578.543/0001-63, com sede na\nRua Vereador João Bernardino, s/nº, Bairro Centro, CEP: 58.753-000,\nTavares - PB, representado pelo Sr",
+            "empresa": "A EMPRESA: JOSÉ MARQUES DE\nSOUSA",
+            "valor_total": "R$ 54,000.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE REFEIÇÕES PARA ATENDER AS\nNECESSIDADES DAS SECRETARIAS DO MUNICÍPIO DE\nTAVARES - PB, PARA COMPLEMENTAÇÃO DO EXERCÍCIO\nDE 2024\nPARTES: PREFEITURA MUNICIPAL DE TAVARES – PB, CNPJ:\n08.944.092/0001-70 E A EMPRESA: JOSÉ MARQUES DE\nSOUSA - ME, inscrita no CNPJ: 38.578.543/0001-63, com sede na\nRua Vereador João Bernardino, s/nº, Bairro Centro, CEP: 58.753-000,\nTavares - PB, representado pelo Sr",
+            "empresa": "José Marques De Sousa",
+            "valor_total": "R$ 54,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 249265.0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE ESCRITÓRIO DE ADVOCACIA\n\nESPECIALIZADO PARA PROPOR AS MEDIDAS CABÍVEIS\n\nPARA OBTENÇÃO À RECUPERAÇÃO DOS",
+            "empresa": "pela prestação dos serviços, Os honorários competitivos e\n\nalinhados com as práticas de mercado, sendo R$ 150,00 para cada R$\n\n1.000,00 de proveito econômico obtido.\n\n\n\nTavares",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 1351244.52,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

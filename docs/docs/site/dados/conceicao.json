@@ -3,64 +3,6 @@
   "nome": "Conceição",
   "detalhe": {
     "2014": {
-      "1": {
-        "num_diarios": 8,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "resumo": {
-        "num_diarios": 121,
-        "num_contratos": 79,
-        "total_gasto": 7049853.990000001
-      },
-      "2": {
-        "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "3": {
-        "num_diarios": 14,
-        "num_contratos": 5,
-        "total_gasto": 992426.1900000001,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "4": {
-        "num_diarios": 10,
-        "num_contratos": 33,
-        "total_gasto": 1813670.01,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "5": {
-        "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 7284.0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "6": {
-        "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
-        "top_3_empresas": [],
-        "top_3_objetos": []
-      },
-      "7": {
-        "num_diarios": 13,
-        "num_contratos": 7,
-        "total_gasto": 251300.0,
-        "top_3_empresas": [
-          "CONSTRUTORA CRISTO REI LTDA"
-        ],
-        "top_3_objetos": [
-          "EXECUÇÃO DAS OBRAS E SERVIÇOS DE\nCONSTRUÇÃO DE PAVIMENTAÇÃO EM PARALELEPÍPEDOS\nNO DISTRITO DO VIDEL, NO MUNICÍPIO DE CONCEIÇÃO/PB"
-        ]
-      },
       "8": {
         "num_diarios": 11,
         "num_contratos": 5,
@@ -74,8 +16,66 @@
           "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\nFOTOGRAFIA ÁEREA DO MUNICÍPIO DE CONCEIÇÃO - PB,\nCOM FORNECIMENTO DE UMA AMPLIAÇÃO"
         ]
       },
+      "resumo": {
+        "num_diarios": 112,
+        "num_contratos": 47,
+        "total_gasto": 5964209.91
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 251300.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 7284.0,
+        "top_3_empresas": [
+          "DATASONIC INDUSTRIA E\nDISTRIBUIÇÃO DE ELETRONICOS LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE 03 (TRÊS) COPIADORAS\nMULTIFUNCIONAL LASER DE ALTA VELOCIDADE PARA\nFICAR A DISPOSIÇÃO DAS SECRETARIAS DE..."
+        ]
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 12,
+        "total_gasto": 1649744.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 992426.1900000001,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
       "9": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 12,
         "total_gasto": 544931.0,
         "top_3_empresas": [
@@ -86,7 +86,7 @@
         ]
       },
       "10": {
-        "num_diarios": 7,
+        "num_diarios": 6,
         "num_contratos": 1,
         "total_gasto": 7200.0,
         "top_3_empresas": [],
@@ -100,9 +100,9 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 11,
-        "num_contratos": 14,
-        "total_gasto": 1152578.98,
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 230860.91,
         "top_3_empresas": [
           "PRESENTES E UTILIDADES LTDA"
         ],
@@ -113,7 +113,7 @@
     },
     "2015": {
       "1": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 3,
         "total_gasto": 4404333.5,
         "top_3_empresas": [
@@ -124,12 +124,12 @@
         ]
       },
       "resumo": {
-        "num_diarios": 106,
+        "num_diarios": 104,
         "num_contratos": 13,
         "total_gasto": 9420953.68
       },
       "2": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -154,7 +154,7 @@
         "num_contratos": 5,
         "total_gasto": 2505422.9699999997,
         "top_3_empresas": [
-          "ROMA CONSTRUÇÕES E MANUTENÇÃO\nLTDA,"
+          "ROMA CONSTRUÇÕES E MANUTENÇÃO\nLTDA"
         ],
         "top_3_objetos": [
           "Execução dos serviços de implantação de pavimentação em\nvias publicas urbanas no município de Conceição/PB (RUA ELIAS\nMIGUEL DE SOUSA, RUA JOÃO JUVENAL, RUA RAIMUNDA\nLEITE SOBRINHO, RUA PREF"
@@ -225,12 +225,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 104,
-        "num_contratos": 20,
-        "total_gasto": 4056347.6699999995
+        "num_diarios": 99,
+        "num_contratos": 37,
+        "total_gasto": 4349547.67
       },
       "2": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 6,
         "total_gasto": 491352.36,
         "top_3_empresas": [
@@ -241,30 +241,30 @@
         ]
       },
       "3": {
-        "num_diarios": 10,
+        "num_diarios": 9,
         "num_contratos": 2,
         "total_gasto": 594174.1599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 12,
-        "num_contratos": 5,
-        "total_gasto": 38180.14,
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 69680.14,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "5": {
         "num_diarios": 4,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 31500.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 10,
-        "num_contratos": 1,
-        "total_gasto": 1917932.38,
+        "num_contratos": 3,
+        "total_gasto": 2014932.38,
         "top_3_empresas": [
           "PANIFICADORA\nMENINO DEUS LIMEIRA LTDA"
         ],
@@ -275,20 +275,20 @@
       },
       "7": {
         "num_diarios": 6,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 9,
+        "total_gasto": 37200.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
         "num_diarios": 5,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 63000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 6,
+        "num_diarios": 5,
         "num_contratos": 0,
         "total_gasto": 0,
         "top_3_empresas": [],
@@ -302,9 +302,9 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 9,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 33000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -319,15 +319,15 @@
     "2017": {
       "1": {
         "num_diarios": 21,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 624659.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
         "num_diarios": 155,
-        "num_contratos": 112,
-        "total_gasto": 11038008.979999997
+        "num_contratos": 117,
+        "total_gasto": 11694218.479999997
       },
       "2": {
         "num_diarios": 14,
@@ -360,8 +360,8 @@
       },
       "5": {
         "num_diarios": 14,
-        "num_contratos": 24,
-        "total_gasto": 2390941.9000000004,
+        "num_contratos": 28,
+        "total_gasto": 2422491.9000000004,
         "top_3_empresas": [
           "LK CONSTRUÇÕES E\nINCORPORAÇÕES LTDA-EPP"
         ],
@@ -437,9 +437,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 151,
-        "num_contratos": 184,
-        "total_gasto": 17988933.219999995
+        "num_diarios": 149,
+        "num_contratos": 185,
+        "total_gasto": 18016433.219999995
       },
       "2": {
         "num_diarios": 13,
@@ -468,9 +468,9 @@
         ]
       },
       "4": {
-        "num_diarios": 11,
-        "num_contratos": 9,
-        "total_gasto": 651200.0,
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 678700.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -497,7 +497,7 @@
         ]
       },
       "7": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 3,
         "total_gasto": 1008489.69,
         "top_3_empresas": [],
@@ -516,7 +516,7 @@
         "total_gasto": 1599898.13,
         "top_3_empresas": [
           "LAIRTON VITORINO DE SOUSA -\nR$ 19.825,00; CT Nº 50302/2018",
-          "EMPRESA DE\nTELEVISAO JOAO PESSOA LTDA",
+          "EMPRESA DE\nTELEVISAO JOAO",
           "JOSE PEREIRA DE SOUZA"
         ],
         "top_3_objetos": [
@@ -564,9 +564,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 164,
-        "num_contratos": 184,
-        "total_gasto": 14715208.83
+        "num_diarios": 163,
+        "num_contratos": 201,
+        "total_gasto": 15659121.83
       },
       "2": {
         "num_diarios": 12,
@@ -592,8 +592,8 @@
       },
       "4": {
         "num_diarios": 12,
-        "num_contratos": 22,
-        "total_gasto": 1061217.75,
+        "num_contratos": 42,
+        "total_gasto": 2294462.75,
         "top_3_empresas": [
           "JOSEFA ROBERTO ALVES"
         ],
@@ -603,8 +603,8 @@
       },
       "5": {
         "num_diarios": 16,
-        "num_contratos": 15,
-        "total_gasto": 660790.0,
+        "num_contratos": 14,
+        "total_gasto": 600790.0,
         "top_3_empresas": [
           "R F COMUNICACAO E\nPROMOCAO LTDA",
           "CLIMEDE DIAGNOSTICOS LTDA\n– ME",
@@ -635,13 +635,13 @@
       },
       "8": {
         "num_diarios": 16,
-        "num_contratos": 10,
-        "total_gasto": 1034878.0,
+        "num_contratos": 8,
+        "total_gasto": 805546.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 8,
         "total_gasto": 153560.73,
         "top_3_empresas": [
@@ -702,67 +702,60 @@
         ]
       },
       "resumo": {
-        "num_diarios": 196,
-        "num_contratos": 247,
-        "total_gasto": 15863402.33
+        "num_diarios": 191,
+        "num_contratos": 218,
+        "total_gasto": 13901980.489999998
       },
       "2": {
         "num_diarios": 14,
-        "num_contratos": 47,
-        "total_gasto": 3649383.5,
-        "top_3_empresas": [
-          "JOSÉ REGINALDO SE SOUSA\nMORAIS",
-          "JOAQUIM BRASILINO DE SOUSA",
-          "Allan de Sousa Leite"
-        ],
-        "top_3_objetos": [
-          "Contratação de serviço de oficina destinado a Frota de\nveículo do Município de Conceição/PB",
-          "Contratação de empresa especializada em serviços de\nconfecção de prótese dentária para atender o programa do Governo\nFederal \"Brasil Sorridente\" para o município de Conceição - PB",
-          "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB"
-        ]
+        "num_contratos": 6,
+        "total_gasto": 496613.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 19,
-        "num_contratos": 23,
-        "total_gasto": 1937077.36,
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 1339440.3599999999,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
         "num_diarios": 16,
-        "num_contratos": 18,
-        "total_gasto": 2253066.9,
+        "num_contratos": 29,
+        "total_gasto": 3945938.79,
         "top_3_empresas": [],
         "top_3_objetos": [
           "Aquisição de gêneros perecíveis (carne, frango, ovos,\n\nlinguiça, bebida láctea, presunto e queijo), verdura e fruta para todas\n\nas secretarias, órgãos e programas da Prefeitura Municipal de\n\nConceição/PB"
         ]
       },
       "5": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 6,
         "total_gasto": 635658.23,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 19,
-        "num_contratos": 19,
-        "total_gasto": 764278.12,
-        "top_3_empresas": [],
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 599815.7,
+        "top_3_empresas": [
+          "MATERIAL DE CONSUMO.\n\nVIGÊNCIA: até 26/09/2020.\n\nPARTES CONTRATANTES: Prefeitura Municipal de Conceição e:\n\nCT Nº 33601/2020"
+        ],
         "top_3_objetos": [
-          "Contratação de empresa para recarga de gás de cozinha\n\n(GLP) e aquisição de botijões vazios para todas as secretarias, órgãos\n\ne programas da Prefeitura Municipal de Conceição - PB",
-          "Contratação de Horas Máquina com Patrol destinadas as\n\nmanutenções das estradas vicinais do município de Conceição/PB"
+          "Aquisição de material de insumo (teste rápido COVID-19\n\nIGG/IGM) para atender a necessidade da secretaria de saúde e órgãos\n\nvisando o enfrentamento da pandemia do COVID-19 no Município de\n\nConceição/PB"
         ]
       },
       "7": {
         "num_diarios": 21,
-        "num_contratos": 40,
-        "total_gasto": 243680.68,
+        "num_contratos": 42,
+        "total_gasto": 504256.87000000005,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 30,
         "total_gasto": 1629800.1,
         "top_3_empresas": [],
@@ -803,9 +796,9 @@
     },
     "2021": {
       "1": {
-        "num_diarios": 15,
-        "num_contratos": 4,
-        "total_gasto": 71188.5,
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 1279237.1400000001,
         "top_3_empresas": [
           "(S): EDIVAN BORGES DE SOUSA",
           "s, vinculados e/ou a disposição)\n\nda Prefeitura Municipal de Conceição-PB.\n\nPARTES:\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE CONCEIÇÃO\n\n- PB",
@@ -818,28 +811,28 @@
         ]
       },
       "resumo": {
-        "num_diarios": 212,
-        "num_contratos": 101,
-        "total_gasto": 12651159.79
+        "num_diarios": 208,
+        "num_contratos": 151,
+        "total_gasto": 15554030.09
       },
       "2": {
         "num_diarios": 12,
-        "num_contratos": 1,
-        "total_gasto": 12000.0,
+        "num_contratos": 3,
+        "total_gasto": 243200.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 21,
-        "num_contratos": 10,
-        "total_gasto": 2024203.5,
+        "num_diarios": 19,
+        "num_contratos": 16,
+        "total_gasto": 2402903.5,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 18,
-        "num_contratos": 7,
-        "total_gasto": 1628655.2,
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 1708478.2,
         "top_3_empresas": [
           "OUTROS SERVIÇOS\n\nDE TERCEIROS",
           "DAMIÃO IZIDRO XIBARRA",
@@ -853,15 +846,15 @@
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 4,
-        "total_gasto": 103880.0,
+        "num_contratos": 7,
+        "total_gasto": 242159.3,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 18,
-        "num_contratos": 8,
-        "total_gasto": 1046705.0,
+        "num_contratos": 21,
+        "total_gasto": 1506833.17,
         "top_3_empresas": [
           "(S): NADJA MUNIZ DA COSTA ANGELO",
           "(S): - UNIDAS VEICULOS E SERVICO LTDA,\nRua Av Dep. Raimundo Asfora, 1380, Campina Grande,"
@@ -880,8 +873,8 @@
       },
       "8": {
         "num_diarios": 20,
-        "num_contratos": 10,
-        "total_gasto": 1808649.0499999998,
+        "num_contratos": 17,
+        "total_gasto": 2133945.7399999998,
         "top_3_empresas": [
           "DANTAS CONSULTORIA E TECNOLOGIA DA\nINFORMACAO LTDA",
           "ASSCON - ASSESSORIA CONTABIL LTDA",
@@ -902,8 +895,8 @@
       },
       "10": {
         "num_diarios": 17,
-        "num_contratos": 4,
-        "total_gasto": 460850.0,
+        "num_contratos": 5,
+        "total_gasto": 470850.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -924,8 +917,8 @@
       },
       "12": {
         "num_diarios": 19,
-        "num_contratos": 10,
-        "total_gasto": 1874815.5399999998,
+        "num_contratos": 15,
+        "total_gasto": 1946210.0399999998,
         "top_3_empresas": [
           "ou a extinção contratual sem ônus para qualquer das partes;\nVI",
           "s\nhabituais da Administração nem tenham com eles vínculo de\nparentesco, colateral ou por afinidade, até o terceiro grau, ou de\nnatureza técnica, comercial, econômica, financeira, trabalhista e civil.\n§ 1º No prazo estabelecido no art. 176 da Lei 14.133/2021 e enquanto\no município tiver menos que 20.000 habitantes, o Pregoeiro e a equipe\nde apoio, poderão ser escolhidos entre os servidores ocupantes de\ncargos em comissão.\n§ 2º A autoridade referida no caput deste artigo deverá observar o\nprincípio da segregação de funções, vedada a designação do mesmo\nagente público para atuação simultânea em funções mais suscetíveis a\nriscos, de modo a reduzir a possibilidade de ocultação de erros e de\nocorrência de fraudes na respectiva contratação.\n§ 3ºA critério da autoridade competente, o pregoeiro e os membros da\nequipe de apoio poderão ser designados para uma licitação específica,\npara um período determinado, admitidas reconduções, ou por período\nindeterminado, permitida a revogação da designação a qualquer\ntempo.\n\nDo pregoeiro\n\nArt. 18º. Caberá ao pregoeiro, em especial:\nI",
@@ -940,19 +933,19 @@
       "1": {
         "num_diarios": 17,
         "num_contratos": 5,
-        "total_gasto": 1020707.14,
+        "total_gasto": 984707.14,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 219,
-        "num_contratos": 185,
-        "total_gasto": 24925851.480000008
+        "num_diarios": 213,
+        "num_contratos": 183,
+        "total_gasto": 24010554.58000001
       },
       "2": {
-        "num_diarios": 19,
-        "num_contratos": 15,
-        "total_gasto": 4837416.03,
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 4428225.3100000005,
         "top_3_empresas": [
           "MENDES & FERREIRA CONSTRUCOES\n\nLTDA",
           "GIPAGEL AUTOPECAS LTDA",
@@ -965,9 +958,9 @@
         ]
       },
       "3": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 58,
-        "total_gasto": 2889265.9000000004,
+        "total_gasto": 2935159.72,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -989,7 +982,7 @@
         "num_contratos": 4,
         "total_gasto": 320688.1,
         "top_3_empresas": [
-          "JOSEFA EDILMA DOS SANTOS SILVA\n\n01233272454",
+          "JOSEFA EDILMA DOS SANTOS SILVA",
           "TRASH COLETA E INCINERAÇAO DE LIXO\n\nHOSPITALAR LTDA",
           "CLINICA MEDICA SANTA TEREZINHA LTDA"
         ],
@@ -1025,8 +1018,8 @@
       },
       "8": {
         "num_diarios": 22,
-        "num_contratos": 10,
-        "total_gasto": 1742713.2199999997,
+        "num_contratos": 11,
+        "total_gasto": 1762713.2199999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1035,7 +1028,7 @@
         "num_contratos": 13,
         "total_gasto": 3834555.71,
         "top_3_empresas": [
-          "PUBLIC SOLUCOES E SERVICOS LTDA,\n\ninscrita no Cadastro Nacional de Pessoa Jurídica"
+          "PUBLIC SOLUCOES E SERVICOS LTDA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nNA PRESTAÇÃO DE SERVIÇO DE RECADASTRAMENTO\n\nIMOBILIÁRIO E ELABORAÇÃO DA PLANTA GENÉRICA DE"
@@ -1053,37 +1046,41 @@
         ]
       },
       "11": {
-        "num_diarios": 18,
+        "num_diarios": 17,
         "num_contratos": 5,
         "total_gasto": 366422.54,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 18,
-        "num_contratos": 32,
-        "total_gasto": 3133083.4699999997,
-        "top_3_empresas": [],
+        "num_diarios": 16,
+        "num_contratos": 31,
+        "total_gasto": 2597083.47,
+        "top_3_empresas": [
+          "EDNALDO LOPES LEITE",
+          "TERRA DO SOL COMERCIO DE VEICULOS\n\nLTDA -",
+          "TERRA DO SOL COMERCIO DE VEICULOS LTDA"
+        ],
         "top_3_objetos": []
       }
     },
     "2023": {
       "1": {
         "num_diarios": 17,
-        "num_contratos": 8,
-        "total_gasto": 298459.19,
+        "num_contratos": 7,
+        "total_gasto": 288968.69,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 201,
-        "num_contratos": 111,
-        "total_gasto": 12967905.159999998
+        "num_diarios": 198,
+        "num_contratos": 128,
+        "total_gasto": 14075211.259999998
       },
       "2": {
         "num_diarios": 15,
-        "num_contratos": 17,
-        "total_gasto": 803884.3200000001,
+        "num_contratos": 18,
+        "total_gasto": 867484.3200000001,
         "top_3_empresas": [
           "FRANCINEUDO XAVIER JUCA",
           "IVANILDO CARDOSO LAURENO",
@@ -1097,17 +1094,17 @@
       },
       "3": {
         "num_diarios": 21,
-        "num_contratos": 9,
-        "total_gasto": 451475.0,
+        "num_contratos": 10,
+        "total_gasto": 499475.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "4": {
-        "num_diarios": 17,
-        "num_contratos": 14,
-        "total_gasto": 2497288.8,
+        "num_diarios": 15,
+        "num_contratos": 28,
+        "total_gasto": 3471623.4,
         "top_3_empresas": [
-          "JOAO MANUEL DIAS DE SOUASA NETO\n\n08581253407",
+          "JOAO MANUEL DIAS DE SOUASA NETO",
           "EDNALDO LOPES LEITE"
         ],
         "top_3_objetos": [
@@ -1117,15 +1114,15 @@
       },
       "5": {
         "num_diarios": 19,
-        "num_contratos": 18,
-        "total_gasto": 3020159.9699999997,
+        "num_contratos": 19,
+        "total_gasto": 3068159.9699999997,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "6": {
         "num_diarios": 16,
-        "num_contratos": 18,
-        "total_gasto": 682616.0,
+        "num_contratos": 19,
+        "total_gasto": 855916.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1137,9 +1134,9 @@
         "top_3_objetos": []
       },
       "8": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 6,
-        "total_gasto": 503428.0,
+        "total_gasto": 312990.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1174,16 +1171,16 @@
     },
     "2024": {
       "1": {
-        "num_diarios": 19,
+        "num_diarios": 18,
         "num_contratos": 47,
         "total_gasto": 5642695.6,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 203,
-        "num_contratos": 126,
-        "total_gasto": 32696376.28
+        "num_diarios": 202,
+        "num_contratos": 128,
+        "total_gasto": 32992041.28
       },
       "2": {
         "num_diarios": 15,
@@ -1210,7 +1207,7 @@
         "total_gasto": 1464175.33,
         "top_3_empresas": [
           "R PAZ DOS SANTOS CONSULTORIA E\n\nASSESSORIA EM GESTAO PUBLICA",
-          "PUBLIC SOFTWARE INFORMÁTICA LTDA,"
+          "PUBLIC SOFTWARE INFORMÁTICA LTDA"
         ],
         "top_3_objetos": [
           "Contratação de empresa especializada em implantação\n\ne suporte de sistemas informatizados para utilização dos\n\ndepartamentos internos suprindo as necessidades das Secretarias\n\ndo Município de Conceição-PB",
@@ -1250,7 +1247,7 @@
         "num_contratos": 8,
         "total_gasto": 2649272.0700000003,
         "top_3_empresas": [
-          "S: MARKA NEGOCIOS E EVENTOS LTDA,"
+          "S: MARKA NEGOCIOS E EVENTOS LTDA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE EMPREA PARA PRESTAÇÃO\n\nDOS SERVIÇOS DE PLANEJAMENTO, ORGANIZAÇÃO E\n\nEXECUÇÃO DO SETEMBRO DAS CORES (AMARELO) PARA\n\nATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE\n\nSAÚDE DE CONCEIÇÃO – PB"
@@ -1265,8 +1262,8 @@
       },
       "11": {
         "num_diarios": 16,
-        "num_contratos": 3,
-        "total_gasto": 1708864.43,
+        "num_contratos": 5,
+        "total_gasto": 2004529.43,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -1284,22 +1281,22 @@
     }
   },
   "resumo": {
-    "num_diarios": 1832,
-    "num_contratos": 1362,
-    "total_gasto": 163374001.41,
+    "num_diarios": 1794,
+    "num_contratos": 1408,
+    "total_gasto": "165.638.302,49",
     "top_5_empresas": {
       "ULTRAMEGA DISTRIBUIDORA\nHOSPITALAR LTDA": 2,
       "CONSTRUTORA TRIUNFO EIRELI": 2,
-      "CONSTRUTORA CRISTO REI LTDA": 1,
+      "EDNALDO LOPES LEITE": 2,
       "MARIA ANDREIA LIRA LEITE -\nME": 1,
       "ADS FOTOGRAFIAS E\nCOMUNICAÇÃO LTDA": 1
     },
     "top_5_objetos": {
       "Locação de imóvel situado à Dr": 2,
       "Aquisição de Gêneros Alimentícios da Agricultura Familiar\ne do Empreendedor Rural, para o atendimento ao Programa Nacional\nde Alimentação Escolar - PNAE que serão destinados ao\nfornecimento da Merenda escolar do Município de Conceição/PB": 2,
-      "Contratação de veículos com motoristas destinados ao\ntransporte escolar do município de Conceição/PB": 2,
-      "EXECUÇÃO DAS OBRAS E SERVIÇOS DE\nCONSTRUÇÃO DE PAVIMENTAÇÃO EM PARALELEPÍPEDOS\nNO DISTRITO DO VIDEL, NO MUNICÍPIO DE CONCEIÇÃO/PB": 1,
-      "AQUISIÇÃO PARCELADA DE TUBOS, TIPO\nMANILHAS, EM CONCRETO PARA A PREFEITURA\nMUNICIPAL DE CONCEIÇÃO - PB": 1
+      "AQUISIÇÃO PARCELADA DE TUBOS, TIPO\nMANILHAS, EM CONCRETO PARA A PREFEITURA\nMUNICIPAL DE CONCEIÇÃO - PB": 1,
+      "CONTRATAÇÃO DE EMPRESA PARA SERVIÇO DE\nFOTOGRAFIA ÁEREA DO MUNICÍPIO DE CONCEIÇÃO - PB,\nCOM FORNECIMENTO DE UMA AMPLIAÇÃO": 1,
+      "AQUISIÇÃO DE 03 (TRÊS) COPIADORAS\nMULTIFUNCIONAL LASER DE ALTA VELOCIDADE PARA\nFICAR A DISPOSIÇÃO DAS SECRETARIAS DE...": 1
     }
   }
 }

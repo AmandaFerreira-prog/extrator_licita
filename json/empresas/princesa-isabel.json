@@ -1,0 +1,2033 @@
+{
+  "id": "princesa-isabel",
+  "nome": "Princesa Isabel",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 35,
+        "num_contratos": 2,
+        "total_gasto": 101250.0
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 101250.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 62,
+        "num_contratos": 9,
+        "total_gasto": 390887.65
+      },
+      "2": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada, para prestação de\nserviços de execução do evento denominado “CARNAVAL DE\nPRINCESA ISABEL 2015”, a ser realizada nos dias 14/02/2015 a\n17/02/2015, com fornecimento de toda a estrutura, equipamentos, mão\nde obra e todo material necessário à execução do evento com 04 dias\nde atrações",
+            "empresa": ": S J PRODUÇÃO MUSICAL E EVENTOS\nLTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 141000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 9600.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Adição na Cláusula Segunda do contrato, mais 90 (noventa)\ndias, ficando com término previsto para 04/08/2015",
+            "empresa": "CLASSIC CONSTRUÇÕES E EMPREENDIMENTOS",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 232571.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 7716.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços na Área Médica-Oftalmológica,\npara realização de 12 (doze) procedimentos cirúrgicos de faco e\nmulsificação com implante de lente intraocular e 60 (sessenta)\nconsultas, conforme tabela do sistema único de saúde (SUS)",
+            "empresa": ": STROPP OFTALMOLÓGICA LTDA",
+            "valor_total": "R$ 7,716.00"
+          },
+          {
+            "objeto": "Aquisição de uniformes e acessórios para o SAMU-192",
+            "empresa": ": DI DINAH INDUSTRIA E COMERCIO DE\nROUPAS LTDA ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\nATENDER DIVERSAS SECRETARIAS DO MUNICÍPIO, PARA\nUM PERÍODO DE 12 (DOZE) MESES",
+            "empresa": ": J.P.G. RODRIGUES SIQUEIRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Execução de serviços especializados de Assessoria\nJurídico Consultiva à Prefeitura",
+            "empresa": ": ARYSTÓFANES FRANKLIN GUIMARÃES\nRAFAEL",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada, para prestação de\nserviços de execução do evento denominado “Festa da Padroeira do\nMunicípio 2015”, que se realizará no dia 31/12/2015, com\nfornecimento de toda a estrutura, equipamentos, mão de obra e todo\nmaterial necessário à execução do evento com 01 dia de atrações",
+            "empresa": ": JOSÉ DUARTE RIBEIRO",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Adição na Cláusula Sétima do contrato, mais 12 (doze)\nmeses, ficando com término previsto para 29/01/2017",
+            "empresa": "POSTO DE COMBUSTÍVEL MUNIZ LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Adição na Cláusula Sétima do contrato, mais 12 (doze) meses,\nficando com término previsto para 29/01/2017",
+            "empresa": "PEREIRA & BRITO LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 63,
+        "num_contratos": 2,
+        "total_gasto": 435505.38
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de pneus para atender diversos setores da\nPrefeitura",
+            "empresa": ": ARNALDO ALVES VIEIRA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 33000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de medicamentos de referência, genéricos e\nsimilares para atender a usuários do SUS com base na listagem de A a\nZ da ABC Farma/Guia da Farmácia",
+            "empresa": ": ESTELITA SOUSA COSTA MUNIZ",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada, para prestação de\nserviços de execução do evento denominado “SÃO JOÃO DE\nPRINCESA ISABEL 2016”, a ser realizada nos dias 22/06/2016 a\n23/06/2016, com fornecimento de toda a estrutura, equipamentos, mão\nde obra e todo material necessário à execução do evento com 02 dias\nde atrações",
+            "empresa": ": JOSÉ DUARTE RIBEIRO",
+            "valor_total": "R$ 33,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE POLPA DE FRUTAS PARA\nATENDER DIVERSOS SETORES DA PREFEITURA",
+            "empresa": ": T. M. LACAVA DE CARVALHO SEQUEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSUMO PARA\nATENDER DIVERSOS SETORES DA PREFEITURA",
+            "empresa": ": AUDECY BELARMINO DE OLIVEIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSUMO PARA\nATENDER DIVERSOS SETORES DA PREFEITURA",
+            "empresa": ": IDEAL SUPERMERCADO MUNIZ LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de serviços profissionais artísticos da banda\nPISADA FEDERAL e GENAILSON, para apresentação na Festa da\nMandioca 2016 que se realizará nos dias 16, 17 e 18/09/2016",
+            "empresa": ": JORGE EDUARDO LUCENA CAVALCANTE",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada, para prestação de\nserviços de execução do evento denominado “FESTA DA\nMANDIOCA 2016”, a ser realizada nos dias 16, 17 e 18/09/2016,\ncom fornecimento de toda a estrutura, equipamentos, mão de obra e\ntodo material necessário à execução do evento com 03 dias de\natrações",
+            "empresa": ": JOSÉ DUARTE RIBEIRO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO\nPARA ATENDER DIVERSOS SETORES DA PREFEITURA",
+            "empresa": ": DIVANEIDE LIMA FERNANDES",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 402505.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 42000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 134,
+        "total_gasto": 17639000.970000003
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 1500.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Licença de Software de\nContabilidade integrado com Licitação; VIGÊNCIA: 02 de fevereiro a\n03 de março de 2017;",
+            "empresa": "A.O.S. SOFTWARE LTDA",
+            "valor_total": "R$ 1,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 15000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 1106163.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 1997086.95,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 21,
+        "total_gasto": 6290796.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 303207.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta da pessoa jurídica: Jovelino\nDelgado - Advogados Associados, CNPJ: 23.977,249/0001- 57\nestabelecido a Rua Desembargador José Peregrino, nº 217, Bairro:\nCentro, Cep: 58013-500, Cidade: João pessoa/PB, para prestar\nserviços de Assessoria jurídica, compreendendo: Assessoria\nadministrativa e orientação jurídica, bem como, acompanhamento e\npreparação de defesas, Recursos e/ou qualquer outros procedimentos\njunto ao Tribunal de Contas do Estado da Paraíba",
+            "empresa": "Jovelino Delgado",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 892582.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar fornecimento de material odontológico para os postos\nde saúde, UBS, CEO do município, referente aos itens: 5 - 8 - 9 - 10 -\n11 - 18 - 19 - 34 - 35 - 36 - 37 - 43 - 44 - 45 - 48 - 60 - 61 - 62 - 63 -\n64 - 67 - 71 - 74 - 75 - 85 - 87 - 89 - 91 - 102 - 108 - 121 - 122 - 123 -\n127 - 129 - 134 - 137 - 138 - 139 - 140 - 141 - 142 - 143 - 144 - 145 -\n149 - 150 - 151 - 159 - 160 - 161 - 164 - 166 - 170 - 171 - 176 - 179 -\n180 - 181 - 182 - 189 - 190 - 205 - 206 - 207 - 208 - 214 - 215 - 216 -\n219 - 231 - 232 - 233 - 234 - 235 - 236 - 237 - 238 - 242 - 245 - 246 -\n256 - 258 - 260 - 262 - 271 - 273 - 279 - 281 - 292 - 293 - 294 - 298 -\n300 - 305 - 308 - 309 - 310 - 311 - 312 - 313 - 314 - 315 - 316 - 320 -\n321 - 322 - 330 - 331 - 332 - 335 - 337 - 341 e 342",
+            "empresa": "Apogeu Center Comercial de Produtos Hospitalares e\nMedicamen, CNJP Nº 02.911.193/0001-68.",
+            "valor_total": "R$ 51,996.64"
+          },
+          {
+            "objeto": "Prestar fornecimento de material odontológico para os postos\nde saúde, UBS, CEO do município, referente aos itens: 125 e 296",
+            "empresa": "Pharmaplus Ltda",
+            "valor_total": "R$ 2,780.00"
+          },
+          {
+            "objeto": "Prestar fornecimento de material odontológico para os postos\nde saúde, UBS, CEO do município, referente aos itens: 1 - 2 - 3 - 4 - 6\n- 7 - 12 - 13 - 14 - 15 - 16 - 17 - 20 - 21 - 22 - 23 - 24 - 25 - 26 - 27 -\n28 - 29 - 30 - 31 - 32 - 33 - 38 - 39 - 40 - 41 - 42 - 46 - 47 - 65 - 69 -\n70 - 72 - 73 - 76 - 77 - 78 - 79 - 80 - 81 - 82 - 83 - 84 - 86 - 92 - 93 -\n94 - 95 - 96 - 97 - 100 - 101 - 107 - 110 - 111 - 112 - 113 - 114 - 115 -\n116 - 117 - 118 - 124 - 128 - 130 - 131 - 136 - 172 - 173 - 174 - 175 -\n177 - 178 - 183 - 184 - 185 - 186 - 187 - 188 - 191 - 192 - 193 - 194 -\n195 - 196 - 197 - 198 - 199 - 200 - 201 - 202 - 203 - 204 - 209 - 210 -\n211 - 212 - 213 - 2017 - 218 - 240 - 241 - 243 - 244 - 247 - 248 - 249 -\n250 - 251 - 252 - 253 - 254 - 255 - 257 - 263 - 264 - 265 - 266 - 267 -\n268 - 278 - 282 - 283 - 284 - 285 - 286 - 287 - 288 - 289 - 295 - 299 -\n301 - 302 e 307",
+            "empresa": "UP Med Distribuidora e Importadora de Materiais\nHospitalares",
+            "valor_total": "R$ 213,448.66"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais de laboratório para serem\nutilizados na realização de exames laboratoriais, visando atender a\ndemanda do Hospital São Vicente de Paula, referente aos itens: 1 - 2 -\n3 - 4 - 5 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20 - 21 - 22\n- 23 - 26 - 27 - 29 - 32 - 35 - 37 - 38 - 39 - 46 - 47 - 53 – 56",
+            "empresa": "Medical Mercantil de Aparelhagem Medica Ltda",
+            "valor_total": "R$ 51,318.90"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais de laboratório para serem\nutilizados na realização de exames laboratoriais, visando atender a\ndemanda do Hospital São Vicente de Paula, referente ao itens: 6 - 7 -\n15 - 24 - 25 - 28 - 30 - 31 - 33 - 34 - 36 - 40 - 41 - 42 - 43 - 44 - 45 -\n48 - 49 - 50 - 51 - 52 - 54 - 55",
+            "empresa": "Medicalab Comercio Atacadista de Produtos Medicos\nLtda-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 36,
+        "total_gasto": 3333051.4000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma pessoa jurídica para prestar o\nfornecimento de frutas e verduras, visando atender a demanda dos\nprogramas sociais e outros serviços de interesses da municipalidade,\natravés das Secretarias da Prefeitura de Princesa Isabel/PB",
+            "empresa": "Maria\nAparecida Cordeiro Florentino de Lima",
+            "valor_total": "R$ 146,717.00"
+          },
+          {
+            "objeto": "Aquisição de 04 (quatro) veículos 0-KM (Fabricação\nnacional), tipo: porte pequeno, 05 (cinco) passageiros, cor\nbranca/vermelha/preto, capacidade mínima de 70 (setenta) cilindrada,\nMotor 1.0 Flex ou a Gasolina, 04 (quatro) portas, ar-condicionado,\ndireção hidráulica e demais itens de série, sendo um para Secretaria de\nEducação, um para o Fundo Municipal de Saúde, um para Secretaria\nde Infraestrutura, e outro para Secretaria de Ação Social de Princesa\nIsabel/PB",
+            "empresa": "DICAL-DISTRIBUIDORA DE VEICULOS\nCAJAZEIRAS LTDA",
+            "valor_total": "R$ 150,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 20,
+        "total_gasto": 944433.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 25,
+        "total_gasto": 2713178.39,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 291946.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 107,
+        "num_contratos": 207,
+        "total_gasto": 25365142.41999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 22,
+        "total_gasto": 641267.11,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma pessoa jurídica prestar o fornecimento\nparcelada de materiais de limpeza e utensílios, destinados as escolas,\ncreche, Programas Sociais, e demais Secretarias deste município",
+            "empresa": "Ciro Cavalcante da Silva Neto",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de uma pessoa jurídica prestar o fornecimento\nparcelada de materiais de limpeza e utensílios, destinados as escolas,\ncreche, Programas Sociais, e demais Secretarias deste município",
+            "empresa": "Manoel dos Santos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de uma pessoa jurídica prestar o fornecimento\nparcelada de materiais de limpeza e utensílios, destinados as escolas,\ncreche, Programas Sociais, e demais Secretarias deste município",
+            "empresa": "Manoel dos Santos",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "execução os serviços de facilitador de\natividades físicas, recreações e modalidades esportivas destinadas aos\nusuários do CRAS; VIGÊNCIA: 01 de março de 2018 a 31 de\ndezembro de 2018; DOTAÇÃO ORÇAMENTÁRIA: 02 14 08 244\n0020 2143 - MANUT",
+            "empresa": "TÁCIO REGES DANTAS",
+            "valor_total": "R$ 11,000.00"
+          },
+          {
+            "objeto": "execução os serviços de facilitador de\natividades físicas, recreações e modalidades esportivas destinadas aos\nusuários do CRAS; VIGÊNCIA: 01 de março de 2018 a 31 de\ndezembro de 2018; DOTAÇÃO ORÇAMENTÁRIA: 02 14 08 244\n0020 2143 - MANUT",
+            "empresa": "e Tácio Reges Dantas",
+            "valor_total": "R$ 11,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 200040.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 60,
+        "total_gasto": 15588579.16,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 13,
+        "total_gasto": 724102.9500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 2062234.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículos de transporte escolar diário de\nestudantes, denominado de Ônibus Rural Escolar (ORE), sendo 01\n(Um) Ônibus Rural Escolar - ORE 1 com DPM (Item: 2), e 01 (Um)\nÔnibus Rural Escolar - ORE 3 com DPM",
+            "empresa": "Man Latin America Indústria e Comércio de\nVeículos Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 29,
+        "total_gasto": 1362226.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 1299971.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 201036.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 23,
+        "total_gasto": 1720059.8800000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 850161.38,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços parcelado em forma de aluguel\n\nfornecendo mensal 01 (Um) Software de Controle de combustíveis\n\n100% WEB, com integração no posto de combustível licitado\n\n(Contratado), bem como acesso na nossa secretaria de controle\n\ninterno, comunicando simultaneamente, com vista a disponibilizar a\n\nentidade pública mecanismo de controle para prevenção de erros,\n\nfraudes e desperdícios, trazendo benefícios e o correto atendimentos à\n\nPopulação)",
+            "empresa": "Yan Phillipe Angelim Vieira-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 423516.54,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 175094.53999999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para execução dos\n\nserviços da obra de construção de uma academia da saúde, no\n\nMunicípio de São Sebastião do Umbuzeiro - PB, conforme Projeto\n\nBásico de Engenharia",
+            "empresa": "ALVES\n\nCONSTRUÇÕES LTDA",
+            "valor_total": "R$ 101,720.54"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 129,
+        "num_contratos": 123,
+        "total_gasto": 19848637.959999997
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 2,
+        "total_gasto": 36000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 1036547.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 21,
+        "total_gasto": 5983727.34,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma pessoa jurídica para prestar\nfornecimento de ventiladores de parede para atender as necessidades\ndas diversas Secretarias do Município de Princesa Isabel/PB,\nconforme especificações descritas no termo de referência",
+            "empresa": ": M. K. DE AZEVEDO ARAUJO DUTRA\nDANTAS",
+            "valor_total": "R$ 25,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 15,
+        "total_gasto": 2597740.51,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 1362753.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 1743341.4100000001,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta da Pessoa jurídica AVIOES DO FORRO\nGRAVACOES E EDICOES MUSICAIS LTDA, CNPJ:\n07.940.525/0001-56, detentora da exclusividade do Artista Xand\nAvião para realização de 01 Show Artístico no dia 19 de Dezembro de\n2019, com duração mínima de 01h30min (uma hora e trinta minutos),\nem via pública, dentro das festividades de Emancipação Politica do\nMunicípio de Princesa Isabel",
+            "empresa": "AVIOES DO FORRO GRAVACOES E EDICOES\nMUSICAIS LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar fornecimento de 02 (dois) veículos tipo motocicleta\npara uso exclusivo do DEMUTRAN do Município de Princesa\nIsabel/PB",
+            "empresa": "Mundo Livre Motors LTDA",
+            "valor_total": "R$ 17,600.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 100578.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 80520.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o\nfornecimento parcelada de material de limpeza e higiene hospitalar\n(Institucionais e Utensílios), destinados ao Hospital Regional\n(Deputado José Pereira Lima), visando atender a demanda do\nHospital, conveniado com a Secretaria de Saúde do Município de\nPrincesa Isabel/PB e a Secretaria de Estado da Saúde da Paraíba,\natravés do Convênio Nº 0039/2018, registrado na CGE através do Nº\n18-81530-8, podendo ainda os produtos serem adquiridos para outras\nunidades de Saúde, caso seja necessários",
+            "empresa": "Maior Clean C. V. I. Cirúrgicos\nEireli-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 19,
+        "total_gasto": 4543468.32,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de engenharia na construção do sistema de\n\nabastecimento de água do Distrito de Lagoa da Cruz na cidade de\n\nPrincesa Isabel/PB",
+            "empresa": "GKM Construções Serviços Eirelei-ME",
+            "valor_total": "R$ 236,216.97"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na construção de pavimentos em\n\nparalelepípedos e ainda construção de passagem molhada, todas no\n\nSítio Cachoeira de Minas, Zona Rural do M",
+            "empresa": "GR Construtora Eireli",
+            "valor_total": "R$ 53,644.38"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 2188866.31,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇOS DE REFORMA DA ESCOLA MUNICIPAL\nMARIA MARQUES II NO MUNICÍPIO DE SÃO JOSÉ DA\nLAGOA TAPADA",
+            "empresa": "CONSTRUTORA TRIUNFO EIRELI",
+            "valor_total": "R$ 31,268.21"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1172843.1700000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 122,
+        "num_contratos": 124,
+        "total_gasto": 32413937.08999999
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 18,
+        "total_gasto": 602269.83,
+        "empresas_mensais": [
+          {
+            "objeto": "Realização de 01\nshow artístico no dia 24 de Fevereiro de 2020, do Cantor Harry\nEstigado, com duração mínima de 2h (duas horas), dentro das\nfestividades do Tradicional Carnaval de Princesa Isabel",
+            "empresa": "D.\nHENRIQUES MORAIS PACHECO",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, da Banda Forró do Dono, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "D.\nHENRIQUES MORAIS PACHECO",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, do Cantor Luan Douglas, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "D.\nHENRIQUES MORAIS PACHECO",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01\nshow artístico no dia 24 de Fevereiro de 2020, do Cantor Harry\nEstigado, com duração mínima de 2h (duas horas), dentro das\nfestividades do Tradicional Carnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, da Banda Forró do Dono, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, do Cantor Luan Douglas, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01\nshow artístico no dia 24 de Fevereiro de 2020, do Cantor Harry\nEstigado, com duração mínima de 2h (duas horas), dentro das\nfestividades do Tradicional Carnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, da Banda Forró do Dono, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Realização de 01 show artístico no dia\n25 de Fevereiro de 2020, do Cantor Luan Douglas, com duração\nmínima de 2h (duas horas), dentro das festividades do Tradicional\nCarnaval de Princesa Isabel",
+            "empresa": "RICARDO\nROCHA ALVES",
+            "valor_total": "R$ 81,000.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "AMADEU SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Bruno de Oliveira\nSilva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "MARCOS ANTONIO DANTAS-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição gradativa de\nmaterial de limpeza, higiene pessoal e descartáveis;",
+            "empresa": "e Antônio Marcos\nDantas",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "aquisição gradativa de\nmaterial elétrico, iluminação pública e equipamentos correlatos;",
+            "empresa": "JORGE CARLOS DE OLIVEIRA -\nME",
+            "valor_total": "R$ 140,008.67"
+          },
+          {
+            "objeto": "aquisição gradativa de\nmaterial elétrico, iluminação pública e equipamentos correlatos;",
+            "empresa": "e Augusto Jorge Saraiva\nde Oliveira",
+            "valor_total": "R$ 140,008.67"
+          },
+          {
+            "objeto": "aquisição gradativa de material elétrico, iluminação\npública e equipamentos correlatos;",
+            "empresa": "LUMEN DISTRIBUIDORA DE\nMATERIAS ELÉTRICOS LTDA",
+            "valor_total": "R$ 129,337.25"
+          },
+          {
+            "objeto": "aquisição gradativa de material elétrico, iluminação\npública e equipamentos correlatos;",
+            "empresa": "e Samid Saullo Alves de\nAzevedo Mota",
+            "valor_total": "R$ 129,337.25"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 895667.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 10266252.290000001,
+        "empresas_mensais": [
+          {
+            "objeto": "prestar serviço de engenharia de caráter emergencial na\nampliação de instalações hospitalares para acomodação de leitos,\nconsultórios e demais setores necessários, para atendimento regional\nda população necessitada para o combate e prevenção do COVID-19\nno Hospital Regional de Princesa Isabel/PB",
+            "empresa": "TORRE CONSTRUÇÃO E CONSULTORIA EM\nENGENHARIA EIRELI",
+            "valor_total": "R$ 335,799.55"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 11,
+        "num_contratos": 21,
+        "total_gasto": 7683989.0600000005,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta da pessoa jurídica Leni Gomes\n\nOberlaender, CNPJ: 11.695.174/0001-32, para prestar fornecimento\n\nde Internet para atender as necessidades da Secretária de Saúde\n\natendendo vários postos da Zona Urbana do Município de Princesa\n\nIsabel, conforme termo de referência",
+            "empresa": "LENI\n\nGOMES OBERLAENDER",
+            "valor_total": "R$ 13,892.40"
+          },
+          {
+            "objeto": "Contratação direta da pessoa jurídica Leni Gomes\n\nOberlaender, CNPJ: 11.695.174/0001-32, para prestar fornecimento\n\nde Internet para atender as necessidades da Secretária de Saúde\n\natendendo vários postos da Zona Urbana do Município de Princesa\n\nIsabel, conforme termo de referência",
+            "empresa": "B2\n\nCONSTRUÇÕES EIRELI",
+            "valor_total": "R$ 13,892.40"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 19,
+        "total_gasto": 4879284.159999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação direta da pessoa jurídica Audecy Belarmino de\n\nOliveira, CNPJ: 09.082.111/0001-69, para prestar fornecimento de\n\ncestas básicas para distribuição gratuita no mês de julho à pessoas\n\nnecessitadas, devido aos problemas causados pelo Covid-19",
+            "empresa": "AUDECY BELARMINO DE OLIVEIRA ME",
+            "valor_total": "R$ 358,470.00"
+          },
+          {
+            "objeto": "Contratação de pessoa(s) jurídica(s) para prestar serviço de\n\nengenharia em várias UBS‟s, Centros de Atendimento Psicossociais,\n\nSAMU e Academias de Saúde, em diversas localidades no Município\n\nde Princesa Isabel/PB, conforme planilhas de custo",
+            "empresa": "TORRE CONSTRUÇÃO E CONSULTORIA EM\n\nENGENHARIA EIRELI",
+            "valor_total": "R$ 442,392.47"
+          },
+          {
+            "objeto": "Aquisição Gradativa de Cestas Básicas;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\n\nOLIVEIRA",
+            "valor_total": "R$ 41,350.00"
+          },
+          {
+            "objeto": "Aquisição Gradativa de Cestas Básicas;",
+            "empresa": "e Augusto Jorge Saraiva de Oliveira",
+            "valor_total": "R$ 41,350.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 999065.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 13,
+        "total_gasto": 1957356.1,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (um) Tomógrafo de 16 cortes e 16 canais\npara atender as necessidades do Centro de Imagem Dr",
+            "empresa": "CANON MEDICAL SYSTEMS DO BRASIL LTDA",
+            "valor_total": "R$ 795,000.00"
+          },
+          {
+            "objeto": "Contratação direta da pessoa jurídica Rejane Medeiros\nGomes Santos, CNPJ: 29.578.882/0001-59, para prestar serviço de\nengenharia na pavimentação com paralelepípedo sobre colchão de\nareia na Rua Severino Almeida e trecho da Rua Pres",
+            "empresa": "Rejane Medeiros Gomes Santos",
+            "valor_total": "R$ 20,187.77"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 290952.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 8,
+        "total_gasto": 2427763.4500000007,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 460119.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa prestadora de serviço de engenharia\npara construção de pavimento com paralelepípedo na Rua Ana\nTeodósio Rodrigues no Distrito de Lagoa da Cruz, Município de\nPrincesa Isabel, conforme projeto básico",
+            "empresa": "SOMOS CONSTRUCOES EIRELI",
+            "valor_total": "R$ 52,824.61"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 778373.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 155292.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 170,
+        "num_contratos": 217,
+        "total_gasto": 26342889.76
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 20,
+        "total_gasto": 1114506.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "João\nClementino da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Maria da\nConceição",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Gisélio\nRodrigues Chaves",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Jeová\nBernardino",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Feliciano\nIsidio da Silva",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para\nfuncionamento de UBS s, PSF s e garagem municipal da Prefeitura\nMunicipal de Princesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de UBS s,\nPSF s e garagem municipal da Prefeitura Municipal de Princesa\nIsabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento\nde UBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Locação de imóveis para funcionamento de\nUBS s, PSF s e garagem municipal da Prefeitura Municipal de\nPrincesa Isabel, conforme termo de referência",
+            "empresa": "Paula\nFirmino Araújo",
+            "valor_total": "R$ 56,400.00"
+          },
+          {
+            "objeto": "Aquisição Gradativa de\nGêneros Alimentícios;",
+            "empresa": "MARCOS ANTONIO DANTAS",
+            "valor_total": "R$ 223,090.98"
+          },
+          {
+            "objeto": "Aquisição Gradativa de\nGêneros Alimentícios;",
+            "empresa": "e Marcos Antônio\nDantas",
+            "valor_total": "R$ 223,090.98"
+          },
+          {
+            "objeto": "Aquisição\nGradativa de Gêneros Alimentícios;",
+            "empresa": "AUGUSTO JORGE SARAIVA DE\nOLIVEIRA",
+            "valor_total": "R$ 200,679.20"
+          },
+          {
+            "objeto": "Aquisição\nGradativa de Gêneros Alimentícios;",
+            "empresa": "e Augusto Jorge Saraiva\nde Oliveira",
+            "valor_total": "R$ 200,679.20"
+          },
+          {
+            "objeto": "Aquisição\nGradativa de Gêneros Alimentícios;",
+            "empresa": "ILAUDENY FERNANDES DE\nANDRADE",
+            "valor_total": "R$ 89,846.30"
+          },
+          {
+            "objeto": "Aquisição\nGradativa de Gêneros Alimentícios;",
+            "empresa": "e Pedro Fabricio Dantas\nda Silva",
+            "valor_total": "R$ 89,846.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 389500.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 21,
+        "total_gasto": 1484764.15,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de gêneros\n\nalimentícios destinados a Merenda Escolar",
+            "empresa": "Casa das Carnes Frigorifico Ltda-ME",
+            "valor_total": "R$ 188,580.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento\n\nparcelado de gêneros alimentícios destinados a Merenda Escolar",
+            "empresa": "Luzia Pereira da Silva-ME",
+            "valor_total": "R$ 492,880.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de gêneros\n\nalimentícios destinados a Merenda Escolar",
+            "empresa": "Maria Clebia Rodrigues Pereira-ME",
+            "valor_total": "R$ 80,170.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento parcelado de gêneros alimentícios destinados a Merenda\n\nEscolar",
+            "empresa": "Polp Frut Ltda-ME",
+            "valor_total": "R$ 34,400.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 510241.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de\nengenharia para construção de pavimento em paralelepípedo e piso\nintertravado com bloco sextavado e rede hidro sanitária em torno da\nPrefeitura de Princesa Isabel na Rua Pedro Sobreira, conforme\nplanilhas de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de engenharia para\npintura da EMEF Carlos Alberto Medeiros Duarte Sobreira,\nlocalizada no Bairro Maia, zona urbana do Município de Princesa\nIsabel - PB, conforme planilhas de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de\nempresa prestadora de serviços de engenharia para construção do\nmuro de contorno da escola localizada na Rua Miron Maia, Bairro\nCasusa, Município de Princesa Isabel, conforme projeto básico",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviço de engenharia para\nadequação da entrada da UBS Macapá II, localizada na Rua da\nSaudade, no Bairro Macapá II, zona urbana do Município de Princesa\nIsabel, conforme planilha de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de\nengenharia para construção de pavimento em paralelepípedo e piso\nintertravado com bloco sextavado e rede hidro sanitária em torno da\nPrefeitura de Princesa Isabel na Rua Pedro Sobreira, conforme\nplanilhas de custo",
+            "empresa": "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de engenharia para\npintura da EMEF Carlos Alberto Medeiros Duarte Sobreira,\nlocalizada no Bairro Maia, zona urbana do Município de Princesa\nIsabel - PB, conforme planilhas de custo",
+            "empresa": "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de\nempresa prestadora de serviços de engenharia para construção do\nmuro de contorno da escola localizada na Rua Miron Maia, Bairro\nCasusa, Município de Princesa Isabel, conforme projeto básico",
+            "empresa": "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviço de engenharia para\nadequação da entrada da UBS Macapá II, localizada na Rua da\nSaudade, no Bairro Macapá II, zona urbana do Município de Princesa\nIsabel, conforme planilha de custo",
+            "empresa": "E L F\nTEIXEIRA CONSTRUCOES E SERVICOS EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de\nengenharia para construção de pavimento em paralelepípedo e piso\nintertravado com bloco sextavado e rede hidro sanitária em torno da\nPrefeitura de Princesa Isabel na Rua Pedro Sobreira, conforme\nplanilhas de custo",
+            "empresa": "CONSTRUTORA J. GALDINO EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de engenharia para\npintura da EMEF Carlos Alberto Medeiros Duarte Sobreira,\nlocalizada no Bairro Maia, zona urbana do Município de Princesa\nIsabel - PB, conforme planilhas de custo",
+            "empresa": "CONSTRUTORA J. GALDINO EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de\nempresa prestadora de serviços de engenharia para construção do\nmuro de contorno da escola localizada na Rua Miron Maia, Bairro\nCasusa, Município de Princesa Isabel, conforme projeto básico",
+            "empresa": "CONSTRUTORA J. GALDINO EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviço de engenharia para\nadequação da entrada da UBS Macapá II, localizada na Rua da\nSaudade, no Bairro Macapá II, zona urbana do Município de Princesa\nIsabel, conforme planilha de custo",
+            "empresa": "CONSTRUTORA J. GALDINO EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de\nengenharia para construção de pavimento em paralelepípedo e piso\nintertravado com bloco sextavado e rede hidro sanitária em torno da\nPrefeitura de Princesa Isabel na Rua Pedro Sobreira, conforme\nplanilhas de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviços de engenharia para\npintura da EMEF Carlos Alberto Medeiros Duarte Sobreira,\nlocalizada no Bairro Maia, zona urbana do Município de Princesa\nIsabel - PB, conforme planilhas de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de\nempresa prestadora de serviços de engenharia para construção do\nmuro de contorno da escola localizada na Rua Miron Maia, Bairro\nCasusa, Município de Princesa Isabel, conforme projeto básico",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação de empresa prestadora de serviço de engenharia para\nadequação da entrada da UBS Macapá II, localizada na Rua da\nSaudade, no Bairro Macapá II, zona urbana do Município de Princesa\nIsabel, conforme planilha de custo",
+            "empresa": "TORRE\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI",
+            "valor_total": "R$ 363,733.17"
+          },
+          {
+            "objeto": "Contratação direta da pessoa física Rocksana Ranelly dos\nSantos Henriques, CPF: 060.899.314–03 para prestar serviço na\nlocação de um veículo tipo camioneta para ficar à disposição da\nSecretaria de Saúde no transporte de cargas e demais serviços que\nforem necessários",
+            "empresa": "ROCKSANA RANELLY DOS SANTOS\nHENRIQUES",
+            "valor_total": "R$ 16,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 522359.98,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 2138548.03,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 20,
+        "num_contratos": 31,
+        "total_gasto": 3674834.0500000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 57,
+        "total_gasto": 1745179.31,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de\n\nmateriais de informática para atender as necessidades das diversas\n\nSecretarias do Município de Princesa Isabel, conforme termo de\n\nreferência",
+            "empresa": "José Murilo de Medeiros",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de\n\nmateriais de informática para atender as necessidades das diversas\n\nSecretarias do Município de Princesa Isabel, conforme termo de\n\nreferência",
+            "empresa": "R$363.748,85.\n\nReferente aos item(s): 1",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de\n\nmateriais de informática para atender as necessidades das diversas\n\nSecretarias do Município de Princesa Isabel",
+            "empresa": "CRM Comercial Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de\n\nmateriais de informática para atender as necessidades das diversas\n\nSecretarias do Município de Princesa Isabel",
+            "empresa": "R$ 24.270,30.\n\nReferente ao item: 49.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 22,
+        "total_gasto": 5046461.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 5487891.739999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 22,
+        "total_gasto": 4073311.0399999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para prestar serviço na locação de Caminhão\n\nGincho Tipo Munk para substituição de luminárias de diversas ruas do\n\nMunicípio de Princesa Isabel – PB, e ainda outros serviços, conforme\n\n\n\nParaíba , 31 de Dezembro de 2021   •   Diário Oficial dos Municípios do Estado da Paraíba   •    ANO XIII | Nº 3016\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 19\n\n\n\ntermo de referência",
+            "empresa": "VL\n\nTECNOLOGICA LTDA",
+            "valor_total": "R$ 16,975.00"
+          },
+          {
+            "objeto": "Contratação direta de pessoa\n\nfísica Antônio Rialtoam de Araujo, CPF: 801.691.718–68 para prestar\n\nserviço na coleta de pesquisa de mercado, avaliação de tabela de",
+            "empresa": "Antônio Rialtoam de Araújo",
+            "valor_total": "R$ 17,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 22,
+        "total_gasto": 1832889.2200000002,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa\n\nespecializada para prestar serviço de engenharia na reforma do prédio\n\nno qual será instalado o setor de tributos do Município, conforme\n\nplanilhas",
+            "empresa": "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI.\n\nValor: R$ 26.802,56 (vinte e seis mil oitocentos e dois reais e\n\ncinquenta e seis centavos).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Contratação de empresa especializadas para\n\ncomercialização de porta e portões em material de alumínio em geral\n\npara a Secretaria Municipal de Saúde de Princesa Isabel –  PB",
+            "empresa": "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI.\n\nValor: R$ 26.802,56 (vinte e seis mil oitocentos e dois reais e\n\ncinquenta e seis centavos).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Contratação de empresa para prestar\n\nserviço com caminhão guincho tipo Munk e serviços diversos para\n\ntender as necessidades do DEMUTRAN, termo de referência",
+            "empresa": "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI.\n\nValor: R$ 26.802,56 (vinte e seis mil oitocentos e dois reais e\n\ncinquenta e seis centavos).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Aquisição de Material de Expediente para as diversas\n\nsecretarias do Município de Princesa Isabel – PB",
+            "empresa": "TORRE\n\nCONSTRUÇÃO E CONSULTORIA EM ENGENHARIA EIRELI.\n\nValor: R$ 26.802,56 (vinte e seis mil oitocentos e dois reais e\n\ncinquenta e seis centavos).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Contratação de empresa\n\nespecializada para prestar serviço de engenharia na reforma do prédio\n\nno qual será instalado o setor de tributos do Município, conforme\n\nplanilhas",
+            "empresa": "VL.\n\nTECNO ENGENHARIA LTDA. Valor: R$ 16.900,00 (dezesseis mil\n\ne novecentos reais).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Contratação de empresa especializadas para\n\ncomercialização de porta e portões em material de alumínio em geral\n\npara a Secretaria Municipal de Saúde de Princesa Isabel –  PB",
+            "empresa": "VL.\n\nTECNO ENGENHARIA LTDA. Valor: R$ 16.900,00 (dezesseis mil\n\ne novecentos reais).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Contratação de empresa para prestar\n\nserviço com caminhão guincho tipo Munk e serviços diversos para\n\ntender as necessidades do DEMUTRAN, termo de referência",
+            "empresa": "VL.\n\nTECNO ENGENHARIA LTDA. Valor: R$ 16.900,00 (dezesseis mil\n\ne novecentos reais).",
+            "valor_total": "R$ 111,742.56"
+          },
+          {
+            "objeto": "Aquisição de Material de Expediente para as diversas\n\nsecretarias do Município de Princesa Isabel – PB",
+            "empresa": "VL.\n\nTECNO ENGENHARIA LTDA. Valor: R$ 16.900,00 (dezesseis mil\n\ne novecentos reais).",
+            "valor_total": "R$ 111,742.56"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 184,
+        "num_contratos": 255,
+        "total_gasto": 30702494.059999995
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 18,
+        "total_gasto": 3363840.8,
+        "empresas_mensais": [
+          {
+            "objeto": "recuperação de pavimento em paralelepípedo da Avenida Getúlio\nVargas e Rua Locutor Valderedo Romão no município de\nCoremas/PB",
+            "empresa": "DB\nConstrutora Ltda-ME",
+            "valor_total": "R$ 31,922.25"
+          },
+          {
+            "objeto": "Prestar os serviços de funerária as pessoas carentes do município de\nCoremas-PB",
+            "empresa": "Ednaldo\nLuiz do Carmo Pasa-ME",
+            "valor_total": "R$ 16,760.00"
+          },
+          {
+            "objeto": "Prestar os serviços de funerária as pessoas carentes do município de\nCoremas-PB",
+            "empresa": "Ednaldo\nLuiz do Carmo Pasa-ME",
+            "valor_total": "R$ 16,760.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 387849.19999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada,\n\nem caráter de urgência, para prestar serviços de engenharia na\n\nReforma de Grupo Escolar localizado na Av",
+            "empresa": "JOSE\n\nROBERTO RODRIGUES DA SILVA",
+            "valor_total": "R$ 78,397.10"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 807563.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 36,
+        "total_gasto": 1290332.89,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de medicamentos para Farmácia\n\nMunicipal para atender os pacientes que utilizam os serviços de saúde:\n\nPosto de Saúde, UPA, Hospital Regional, Unidades de Acolhimentos\n\ne CAPS",
+            "empresa": "Pharmaplus Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de medicamentos para Farmácia\n\nMunicipal para atender os pacientes que utilizam os serviços de saúde:\n\nPosto de Saúde, UPA, Hospital Regional, Unidades de Acolhimentos\n\ne CAPS",
+            "empresa": "R$ 33.000,00 (trinta e três mil reais),\n\nreferente aos itens: 17, 22, 28, 29, 35, 39, 45, 54, 63 e 65.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Aquisição de medicamentos éticos, genéricos e Similares\n\nde \"A\" a \"Z\" para Secretaria Municipal de Saúde, por meio de maior\n\ndesconto percentual sobre a tabela oficial da câmara de regulação do\n\nmercado de medicamentos da agência nacional de vigilância sanitária\n\n(CMED/ANVISA)",
+            "empresa": "RISONALDO SILVA DA\n\nROCHA & CIA LTDA",
+            "valor_total": "R$ 334,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de medicamentos\n\nconstante no lote I, para Farmácia Municipal para atender os pacientes\n\nque utilizam os serviços de saúde: Posto de Saúde, Hospital Regional,\n\nUnidades de Acolhimentos e CAPS",
+            "empresa": "Drogafonte Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de medicamentos\n\nconstante no lote I, para Farmácia Municipal para atender os pacientes\n\nque utilizam os serviços de saúde: Posto de Saúde, Hospital Regional,\n\nUnidades de Acolhimentos e CAPS",
+            "empresa": "R$ 236.199,20 (duzentos e trinta e seis\n\nmil, cento e noventa e nove reais e vinte centavos), referente aos itens\n\ndo lote I.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento parcelada de medicamentos constante no lote I, para\n\nFarmácia Municipal para atender os pacientes que utilizam os serviços\n\nde saúde: Posto de Saúde, Hospital Regional, Unidades de\n\nAcolhimentos e CAPS",
+            "empresa": "A Costa Comercio Atacadista de Produtos\n\nFarmacêuticos Ltda-EPP",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento parcelada de medicamentos constante no lote I, para\n\nFarmácia Municipal para atender os pacientes que utilizam os serviços\n\nde saúde: Posto de Saúde, Hospital Regional, Unidades de\n\nAcolhimentos e CAPS",
+            "empresa": "R$ 999.900,00 (novecentos e noventa e nove mil e\n\nnovecentos reais), referente aos itens do lote II.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 258938.69999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 80,
+        "total_gasto": 8788856.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 6453301.749999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros alimentícios\n\ndestinados a Merenda Escolar, referente ao item: 1",
+            "empresa": "Audecy Belarmino de Oliveira-Me (Decisão\n\nSupermercado)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros alimentícios\n\ndestinados a Merenda Escolar, referente ao item: 1",
+            "empresa": "R$ 90.600,00 (noventa mil e seiscentos reais), referente ao item: 1.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros\n\nalimentícios destinados a Merenda Escolar, referente ao item: 2 e 3",
+            "empresa": "Bruna Cabral de Oliveira-EPP",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros\n\nalimentícios destinados a Merenda Escolar, referente ao item: 2 e 3",
+            "empresa": "R$ 229.860,00\n\n(duzentos vinte e nove mil, oitocentos e sessenta reais), referente ao\n\nitem: 2 e 3.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 32,
+        "total_gasto": 4301950.68,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 450095.31000000006,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 10,
+        "total_gasto": 2766875.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 5490387.58,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 191,
+        "num_contratos": 205,
+        "total_gasto": 25526223.12999999
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 13,
+        "total_gasto": 3513973.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 42,
+        "total_gasto": 2304180.6399999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 193950.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 18,
+        "num_contratos": 15,
+        "total_gasto": 1238287.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 8,
+        "total_gasto": 547265.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento diário (parcelado) de refeições na\n\nsede do município, dos seguintes tipos de refeições: Lanches (misto\n\nquente ou cachorro-quente, bolo suco natural ou refrigerante);\n\nAlmoço executivo (farofa de feijão verde, arroz branco, macarronada,\n\nsalada, tropical, salada crua, strogonoff de carne ou frango, linguiça e\n\nrefrigerante); Jantar executivo (arroz branco, arroz à grega, torta\n\nsalgada, salpicão, farofa de biscoito, carne ao molho de madeira ou\n\nstrogonoff de frango, linguiça e refrigerante), para os prestadores de\n\nserviços, técnicos e outros que por força contranatural tenha direito\n\naos mesmos, visando atender a demanda das Secretarias da Prefeitura\n\nde Princesa Isabel",
+            "empresa": "Athyla Wesley Cavalcante Alves-MEI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento diário (parcelado) de refeições na\n\nsede do município, dos seguintes tipos de refeições: Lanches (misto\n\nquente ou cachorro-quente, bolo suco natural ou refrigerante);\n\nAlmoço executivo (farofa de feijão verde, arroz branco, macarronada,\n\nsalada, tropical, salada crua, strogonoff de carne ou frango, linguiça e\n\nrefrigerante); Jantar executivo (arroz branco, arroz à grega, torta\n\nsalgada, salpicão, farofa de biscoito, carne ao molho de madeira ou\n\nstrogonoff de frango, linguiça e refrigerante), para os prestadores de\n\nserviços, técnicos e outros que por força contranatural tenha direito\n\naos mesmos, visando atender a demanda das Secretarias da Prefeitura\n\nde Princesa Isabel",
+            "empresa": "R$ 84.200,00\n\n(oitenta e quatro mil e duzentos reais), ref. Aos itens: 1, 3, e 4.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento diário (parcelado) de refeições na sede do município, do\n\ntipo quentinha - feijão, farofa, arroz, macarrão, salada, verdura, batata\n\nfrita, carne, frango e linguiça, para os prestadores de serviços, técnicos\n\ne outros que por força contranatural tenha direito aos mesmos,\n\nvisando atender a demanda das Secretarias da Prefeitura de Princesa\n\nIsabel",
+            "empresa": "Eduardo Marques da Silva-EPP.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento diário (parcelado) de refeições na sede do município, do\n\ntipo quentinha - feijão, farofa, arroz, macarrão, salada, verdura, batata\n\nfrita, carne, frango e linguiça, para os prestadores de serviços, técnicos\n\ne outros que por força contranatural tenha direito aos mesmos,\n\nvisando atender a demanda das Secretarias da Prefeitura de Princesa\n\nIsabel",
+            "empresa": "R$ 77.350,00 (vinte e\n\nsete mil, trezentos e cinquenta reais), ref. ao item: 2.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "Damiao Soares Raposo-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "R$ 24.600,00, ref. aos\n\nitens 4 e 10.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "Raimundo Ferraz da Silva-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "R$ 29.932,00, ref. aos\n\nitens 1, 3 e 6.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "Gevasio Vicente da Silva-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "R$ 119.250,00, ref. aos\n\nitens 8 e 9.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "João de Deus Alves Souza-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "R$ 17.070,00, ref. aos\n\nitens 2 e 5.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "Gilberto Rodrigues Ferreira-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços (diário) na realização de\n\ntransporte de passageiros por viagens, em veículo de sua propriedade,\n\npara diversas localidades, visando atender a demanda das diversas\n\nSecretarias",
+            "empresa": "R$ 63.450,00, ref. aos\n\nitens 7 e 11.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 1627938.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 21,
+        "num_contratos": 31,
+        "total_gasto": 2969439.66,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para locação de um caminhão e\n\numa retroescavadeira para atender as necessidades da Secretaria de\n\nInfraestrutura do Município de Princesa Isabel, conforme\n\nespecificações contidas no termo de referência",
+            "empresa": "CAUASSU LOCAÇÕES E SERVIÇOS LTDA",
+            "valor_total": "R$ 504,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 2143316.24,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 19,
+        "num_contratos": 9,
+        "total_gasto": 190960.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais médicos\n\nhospitalar, visando atender a demanda das Unidades de Saúde e do\n\nHospital Regional Deputado José Pereira Lima, de Princesa Isabel-\n\nPB, conforme termo de referência",
+            "empresa": "J. J. Distribuidora de Produtos Hospitalares Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de materiais médicos\n\nhospitalar, visando atender a demanda das Unidades de Saúde e do\n\nHospital Regional Deputado José Pereira Lima, de Princesa Isabel-\n\nPB, conforme termo de referência",
+            "empresa": "Paulo Ricardo Cordeiro de Gois-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 30,
+        "total_gasto": 717266.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 14,
+        "total_gasto": 4589259.37,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 13,
+        "total_gasto": 2938368.67,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de acesso a internet para\n\ntodas as secretarias e repartições da Prefeitura de Princesa Isabel e da\n\nSecretaria de Saúde/Fundo Municipal de Saúde de Princesa Isabel,\n\natravés de tecnologia em fibra óptica e sem fio (wireless) padrão IEEE\n\n802.11b/g/n com velocidade mínima garantida de acordo com as\n\nregras da Anatel",
+            "empresa": "Mio Telecom Ltda-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 150,
+        "num_contratos": 206,
+        "total_gasto": 54867105.59
+      },
+      "2": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 478149.16,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de hortifrúti, destinados as\n\ndiversas Secretarias deste município, conforme termo de referência",
+            "empresa": "Maria Clebia Rodrigues Pereira-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de hortifrúti, destinados as\n\ndiversas Secretarias deste município, conforme termo de referência",
+            "empresa": "R$ 400.224,00 (quatrocentos mil, duzentos e\n\nvinte e quatro reais).",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de materiais descartáveis e\n\noutros destinados as diversas Secretarias deste município",
+            "empresa": "Luzia Pereira da Silva-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 201564.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa\nespecializada no fornecimento de assinatura de ferramenta de pesquisa\ne comparação de preços praticados pela administração pública",
+            "empresa": "NP\nTECNOLOGIA E GESTAO DE DADOS LTDA",
+            "valor_total": "R$ 11,960.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 23,
+        "total_gasto": 4763124.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 982887.48,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 57,
+        "total_gasto": 15775982.559999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 30,
+        "total_gasto": 1302574.2600000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 3265000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 16,
+        "total_gasto": 5119891.199999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 4030361.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 7074421.78,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 25,
+        "total_gasto": 8934780.72,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de Combustíveis e lubrificantes para as diversas\n\nSecretarias e Fundo Municipal de Saúde do Município de Princesa\n\nIsabel",
+            "empresa": "POSTO\n\nDIESEL SAO JOSE LTDA",
+            "valor_total": "R$ 6,966,328.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis e lubrificantes para as diversas\n\nSecretarias e Fundo Municipal de Saúde do Município de Princesa\n\nIsabel",
+            "empresa": "RI COMERCIO DE DERIVADOS DE\n\nPETROLEO LTDA",
+            "valor_total": "R$ 6,966,328.00"
+          },
+          {
+            "objeto": "Aquisição de Combustíveis e lubrificantes para as diversas\n\nSecretarias e Fundo Municipal de Saúde do Município de Princesa\n\nIsabel",
+            "empresa": "DANIEL PEREIRA SANTOS LTDA",
+            "valor_total": "R$ 6,966,328.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

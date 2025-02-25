@@ -11,12 +11,12 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 23,
+        "num_diarios": 22,
         "num_contratos": 11,
         "total_gasto": 3648137.49
       },
       "11": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 3,
         "total_gasto": 3427046.79,
         "top_3_empresas": [
@@ -47,9 +47,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 130,
-        "num_contratos": 89,
-        "total_gasto": 8414998.899999999
+        "num_diarios": 128,
+        "num_contratos": 92,
+        "total_gasto": 8506463.899999997
       },
       "2": {
         "num_diarios": 12,
@@ -60,8 +60,8 @@
       },
       "3": {
         "num_diarios": 12,
-        "num_contratos": 32,
-        "total_gasto": 2028508.56,
+        "num_contratos": 34,
+        "total_gasto": 2116508.56,
         "top_3_empresas": [
           "MARIA APARECIDA BARRETO E\nSILVA"
         ],
@@ -85,9 +85,9 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 11,
-        "num_contratos": 12,
-        "total_gasto": 1258760.6400000001,
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 1226225.6400000001,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -110,7 +110,7 @@
         ]
       },
       "9": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 4,
         "total_gasto": 61000.0,
         "top_3_empresas": [],
@@ -125,8 +125,8 @@
       },
       "11": {
         "num_diarios": 8,
-        "num_contratos": 4,
-        "total_gasto": 64557.28,
+        "num_contratos": 6,
+        "total_gasto": 100557.28,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -141,19 +141,19 @@
     "2019": {
       "1": {
         "num_diarios": 14,
-        "num_contratos": 2,
-        "total_gasto": 50760.0,
+        "num_contratos": 5,
+        "total_gasto": 115861.6,
         "top_3_empresas": [
-          "ANDRE AUGUSTO BRITO\n\nSANTOS 03659460443"
+          "ANDRE AUGUSTO BRITO\n\nSANTOS"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE SERVIÇOS DE MANUTENÇÃO\n\nDE EQUIPAMENTOS ODONTOLÓGICOS COM REPOSIÇÃO DE\n\nPEÇAS PARA ATENDER A SECRETARIA DE SAÚDE DESTE\n\nMUNICÍPIO"
         ]
       },
       "resumo": {
-        "num_diarios": 152,
-        "num_contratos": 102,
-        "total_gasto": 12457365.86
+        "num_diarios": 151,
+        "num_contratos": 106,
+        "total_gasto": 12550467.46
       },
       "2": {
         "num_diarios": 11,
@@ -177,7 +177,7 @@
         "top_3_objetos": []
       },
       "5": {
-        "num_diarios": 16,
+        "num_diarios": 15,
         "num_contratos": 23,
         "total_gasto": 2139096.12,
         "top_3_empresas": [
@@ -233,8 +233,8 @@
       },
       "11": {
         "num_diarios": 10,
-        "num_contratos": 0,
-        "total_gasto": 0,
+        "num_contratos": 1,
+        "total_gasto": 28000.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -252,7 +252,7 @@
         "num_contratos": 3,
         "total_gasto": 34800.0,
         "top_3_empresas": [
-          "ISRAEL CARLOS DANTAS MOURA 08430574409",
+          "ISRAEL CARLOS DANTAS MOURA",
           "JOSÉ ANDERSON\n\nNUNES JÚNIOR",
           "BRUNO ALENCAR\n\nMARTINS"
         ],
@@ -263,7 +263,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 132,
+        "num_diarios": 129,
         "num_contratos": 104,
         "total_gasto": 8051711.320000002
       },
@@ -275,7 +275,7 @@
         "top_3_objetos": []
       },
       "3": {
-        "num_diarios": 15,
+        "num_diarios": 13,
         "num_contratos": 25,
         "total_gasto": 2101416.41,
         "top_3_empresas": [
@@ -286,7 +286,7 @@
         ]
       },
       "4": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 3,
         "total_gasto": 254487.84,
         "top_3_empresas": [],
@@ -381,9 +381,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 147,
-        "num_contratos": 134,
-        "total_gasto": 12403429.289999997
+        "num_diarios": 145,
+        "num_contratos": 131,
+        "total_gasto": 12330129.289999997
       },
       "2": {
         "num_diarios": 14,
@@ -420,9 +420,9 @@
         ]
       },
       "6": {
-        "num_diarios": 11,
-        "num_contratos": 21,
-        "total_gasto": 799319.74,
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 713019.74,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -459,8 +459,8 @@
       },
       "10": {
         "num_diarios": 14,
-        "num_contratos": 3,
-        "total_gasto": 1338598.79,
+        "num_contratos": 4,
+        "total_gasto": 1351598.79,
         "top_3_empresas": [],
         "top_3_objetos": [
           "CONTRATAÇÃO EMERGENCIAL DE SERVIÇOS DE\n\nCONFECÇÃO DE BOLSAS TIPO NECESSAIRE E AFINS PARA\n\nACONDICIONAMENTO DE MÁSCARAS E MATERIAL DE\n\nPROTEÇÃO PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE EDUCAÇÃO DESTE\n\nMUNICÍPIO"
@@ -482,25 +482,23 @@
         ]
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 3,
         "total_gasto": 677080.0,
-        "top_3_empresas": [
-          "S NOS ITENS 1 E 7.\n\nFUNDAMENTO LEGAL: ARTIGO 65, INCISO II, PARÁGRAFO\n\n1º, DA LEI 8.666/93; TERMO ADITIVO AO CONTRATO Nº\n\n10140/2021-CPL"
-        ],
+        "top_3_empresas": [],
         "top_3_objetos": []
       }
     },
     "2022": {
       "1": {
-        "num_diarios": 17,
+        "num_diarios": 16,
         "num_contratos": 13,
         "total_gasto": 1870792.0,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 147,
+        "num_diarios": 145,
         "num_contratos": 189,
         "total_gasto": 20672115.08
       },
@@ -535,7 +533,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 13,
+        "num_diarios": 12,
         "num_contratos": 36,
         "total_gasto": 3005319.41,
         "top_3_empresas": [
@@ -616,7 +614,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 165,
+        "num_diarios": 164,
         "num_contratos": 186,
         "total_gasto": 24669951.729999997
       },
@@ -679,7 +677,7 @@
         "num_contratos": 16,
         "total_gasto": 1498594.8,
         "top_3_empresas": [
-          "JOSE MARCOS\n\nPEREIRA BATISTA 10326535403"
+          "JOSE MARCOS\n\nPEREIRA BATISTA"
         ],
         "top_3_objetos": [
           "CONTRATAÇÃO DE SERVIÇOS DE LOCAÇÃO DE\n\nVEÍCULO COM CONDUTOR PARA TRANSPORTAR\n\nESTUDANTES DURANTE O PERÍODO LETIVO DE 2023",
@@ -687,7 +685,7 @@
         ]
       },
       "9": {
-        "num_diarios": 14,
+        "num_diarios": 13,
         "num_contratos": 10,
         "total_gasto": 776024.8,
         "top_3_empresas": [
@@ -740,9 +738,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 160,
-        "num_contratos": 188,
-        "total_gasto": 26942778.009999998
+        "num_diarios": 158,
+        "num_contratos": 183,
+        "total_gasto": 26474008.009999998
       },
       "2": {
         "num_diarios": 9,
@@ -802,9 +800,9 @@
         "top_3_objetos": []
       },
       "9": {
-        "num_diarios": 14,
-        "num_contratos": 11,
-        "total_gasto": 1793273.95,
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1335053.95,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -824,15 +822,11 @@
         ]
       },
       "11": {
-        "num_diarios": 11,
-        "num_contratos": 8,
-        "total_gasto": 2755982.54,
-        "top_3_empresas": [
-          "KALCULUS COMERCIO DE MOVEIS PARA ESCRITORIO\n\nLTDA"
-        ],
-        "top_3_objetos": [
-          "Aquisição de cadeiras longarinas destinadas ao plenário da\n\nnova sede da Câmara Municipal de Barra de Santa Rosa/PB"
-        ]
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 2745432.54,
+        "top_3_empresas": [],
+        "top_3_objetos": []
       },
       "12": {
         "num_diarios": 18,
@@ -844,9 +838,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 1056,
-    "num_contratos": 1003,
-    "total_gasto": 117260487.68,
+    "num_diarios": 1042,
+    "num_contratos": 1002,
+    "total_gasto": "116.902.984,28",
     "top_5_empresas": {
       "GESPREV": 2,
       "MELF CONSTRUTORA\nEIRELI": 1,

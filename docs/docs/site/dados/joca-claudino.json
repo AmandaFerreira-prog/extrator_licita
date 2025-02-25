@@ -11,7 +11,7 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 114,
+        "num_diarios": 113,
         "num_contratos": 153,
         "total_gasto": 17190515.58
       },
@@ -108,7 +108,7 @@
         "top_3_objetos": []
       },
       "12": {
-        "num_diarios": 9,
+        "num_diarios": 8,
         "num_contratos": 7,
         "total_gasto": 717562.4500000001,
         "top_3_empresas": [
@@ -135,9 +135,9 @@
         ]
       },
       "resumo": {
-        "num_diarios": 114,
-        "num_contratos": 215,
-        "total_gasto": 35790745.88
+        "num_diarios": 113,
+        "num_contratos": 219,
+        "total_gasto": 36688849.370000005
       },
       "2": {
         "num_diarios": 14,
@@ -176,10 +176,11 @@
       },
       "6": {
         "num_diarios": 9,
-        "num_contratos": 13,
-        "total_gasto": 1022888.0,
+        "num_contratos": 19,
+        "total_gasto": 1999711.49,
         "top_3_empresas": [
-          "EVERTON GOMES\n\nPEREIRA"
+          "EVERTON GOMES\n\nPEREIRA",
+          "CLEONALDO MALVINO DA SILVEIRA FILHO"
         ],
         "top_3_objetos": [
           "Contratação de pessoa física e jurídica para apresentação de shows\n\nmusicais no “São João Cultural Joca Claudino”, realizado no dia 23 de\n\njunho na Praça de Eventos “O Gonzaguinha” na cidade de Joca\n\nClaudino/PB",
@@ -199,8 +200,8 @@
       },
       "8": {
         "num_diarios": 9,
-        "num_contratos": 15,
-        "total_gasto": 1389510.82,
+        "num_contratos": 13,
+        "total_gasto": 1310790.82,
         "top_3_empresas": [
           "ABIK\n\nENGENHARIA E CONSULTORIA LTDA"
         ],
@@ -209,7 +210,7 @@
         ]
       },
       "9": {
-        "num_diarios": 11,
+        "num_diarios": 10,
         "num_contratos": 7,
         "total_gasto": 173400.0,
         "top_3_empresas": [],
@@ -262,7 +263,7 @@
         ]
       },
       "resumo": {
-        "num_diarios": 142,
+        "num_diarios": 141,
         "num_contratos": 219,
         "total_gasto": 41598516.18999999
       },
@@ -339,7 +340,7 @@
         "top_3_objetos": []
       },
       "11": {
-        "num_diarios": 8,
+        "num_diarios": 7,
         "num_contratos": 2,
         "total_gasto": 707779.06,
         "top_3_empresas": [],
@@ -366,9 +367,9 @@
         "top_3_objetos": []
       },
       "resumo": {
-        "num_diarios": 138,
-        "num_contratos": 146,
-        "total_gasto": 33650178.93
+        "num_diarios": 136,
+        "num_contratos": 154,
+        "total_gasto": 34310178.93
       },
       "2": {
         "num_diarios": 6,
@@ -399,7 +400,7 @@
         "top_3_objetos": []
       },
       "6": {
-        "num_diarios": 15,
+        "num_diarios": 14,
         "num_contratos": 25,
         "total_gasto": 2167353.27,
         "top_3_empresas": [
@@ -411,8 +412,8 @@
       },
       "7": {
         "num_diarios": 13,
-        "num_contratos": 11,
-        "total_gasto": 2196209.02,
+        "num_contratos": 19,
+        "total_gasto": 2856209.02,
         "top_3_empresas": [],
         "top_3_objetos": []
       },
@@ -435,7 +436,7 @@
         "top_3_objetos": []
       },
       "10": {
-        "num_diarios": 12,
+        "num_diarios": 11,
         "num_contratos": 10,
         "total_gasto": 1675243.95,
         "top_3_empresas": [],
@@ -458,9 +459,9 @@
     }
   },
   "resumo": {
-    "num_diarios": 508,
-    "num_contratos": 733,
-    "total_gasto": 128229956.58,
+    "num_diarios": 503,
+    "num_contratos": 745,
+    "total_gasto": "129.788.060,07",
     "top_5_empresas": {
       "JOSE NERGINO\nSOBREIRA": 1,
       "JOSE NERGINO SOBREIRA": 1,

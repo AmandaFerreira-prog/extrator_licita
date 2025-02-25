@@ -1,0 +1,316 @@
+{
+  "id": "sao-bentinho",
+  "nome": "São Bentinho",
+  "detalhe": {
+    "2023": {
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na prorrogação do prazo\n\nde vigência do contrato n° 0191/2022, de 22 de novembro de 2023\n\npara 22 de novembro de 2024",
+            "empresa": "CONSTRUTORA FORTE BRASIL EIRELI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 135167.66999999998
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 135167.66999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 1750873.18,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de Serviços Técnicos especializados no\n\nacompanhamento dos serviços e programas do SUAS e na gestão do\n\nPBF, bem como na capacidade das equipes técnicas da execução junto\n\nà Secretaria Municipal de Assistência Social do Município São\n\nBentinho – PB",
+            "empresa": "M. S. S. CAMPOS",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados na área de\n\nengenharia construtiva para fiscalização, supervisão e gerenciamento\n\nde obras, podendo elaborar ARTs (projetos e/ou orçamentos)\n\nincluindo alimentação dos sistemas GEOOBRAS do TCE/PB, SIMEC\n\n(Sistema Integrado de Planejamento, Orçamento e Finanças do\n\nMinistério da Educação) da Prefeitura Municipal de São Bentinho–\n\nPB",
+            "empresa": "M. S. S. CAMPOS",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Prefeitura Município de São Bentinho/PB",
+            "empresa": "M. S. S. CAMPOS",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Fundo Municipal de Saúde de São\n\nBentinho/PB",
+            "empresa": "M. S. S. CAMPOS",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nassessoria, planos de trabalhos e acompanhamento de convênios e\n\ncontratos de repasses junto aos Ministérios, Secretarias de Estado,\n\nAutarquias e Órgãos Públicos, para o município de São Bentinho –\n\nPB",
+            "empresa": "M. S. S. CAMPOS",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Prestação de Serviços Técnicos especializados no\n\nacompanhamento dos serviços e programas do SUAS e na gestão do\n\nPBF, bem como na capacidade das equipes técnicas da execução junto\n\nà Secretaria Municipal de Assistência Social do Município São\n\nBentinho – PB",
+            "empresa": "GREGORY PRIMEIRO\n\nFERNANDES DE PAIVA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados na área de\n\nengenharia construtiva para fiscalização, supervisão e gerenciamento\n\nde obras, podendo elaborar ARTs (projetos e/ou orçamentos)\n\nincluindo alimentação dos sistemas GEOOBRAS do TCE/PB, SIMEC\n\n(Sistema Integrado de Planejamento, Orçamento e Finanças do\n\nMinistério da Educação) da Prefeitura Municipal de São Bentinho–\n\nPB",
+            "empresa": "GREGORY PRIMEIRO\n\nFERNANDES DE PAIVA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Prefeitura Município de São Bentinho/PB",
+            "empresa": "GREGORY PRIMEIRO\n\nFERNANDES DE PAIVA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Fundo Municipal de Saúde de São\n\nBentinho/PB",
+            "empresa": "GREGORY PRIMEIRO\n\nFERNANDES DE PAIVA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nassessoria, planos de trabalhos e acompanhamento de convênios e\n\ncontratos de repasses junto aos Ministérios, Secretarias de Estado,\n\nAutarquias e Órgãos Públicos, para o município de São Bentinho –\n\nPB",
+            "empresa": "GREGORY PRIMEIRO\n\nFERNANDES DE PAIVA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Prestação de Serviços Técnicos especializados no\n\nacompanhamento dos serviços e programas do SUAS e na gestão do\n\nPBF, bem como na capacidade das equipes técnicas da execução junto\n\nà Secretaria Municipal de Assistência Social do Município São\n\nBentinho – PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados na área de\n\nengenharia construtiva para fiscalização, supervisão e gerenciamento\n\nde obras, podendo elaborar ARTs (projetos e/ou orçamentos)\n\nincluindo alimentação dos sistemas GEOOBRAS do TCE/PB, SIMEC\n\n(Sistema Integrado de Planejamento, Orçamento e Finanças do\n\nMinistério da Educação) da Prefeitura Municipal de São Bentinho–\n\nPB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Prefeitura Município de São Bentinho/PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Fundo Municipal de Saúde de São\n\nBentinho/PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nassessoria, planos de trabalhos e acompanhamento de convênios e\n\ncontratos de repasses junto aos Ministérios, Secretarias de Estado,\n\nAutarquias e Órgãos Públicos, para o município de São Bentinho –\n\nPB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Prestação de Serviços Técnicos especializados no\n\nacompanhamento dos serviços e programas do SUAS e na gestão do\n\nPBF, bem como na capacidade das equipes técnicas da execução junto\n\nà Secretaria Municipal de Assistência Social do Município São\n\nBentinho – PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados na área de\n\nengenharia construtiva para fiscalização, supervisão e gerenciamento\n\nde obras, podendo elaborar ARTs (projetos e/ou orçamentos)\n\nincluindo alimentação dos sistemas GEOOBRAS do TCE/PB, SIMEC\n\n(Sistema Integrado de Planejamento, Orçamento e Finanças do\n\nMinistério da Educação) da Prefeitura Municipal de São Bentinho–\n\nPB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Prefeitura Município de São Bentinho/PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Fundo Municipal de Saúde de São\n\nBentinho/PB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nassessoria, planos de trabalhos e acompanhamento de convênios e\n\ncontratos de repasses junto aos Ministérios, Secretarias de Estado,\n\nAutarquias e Órgãos Públicos, para o município de São Bentinho –\n\nPB",
+            "empresa": "ECOPLAN\n\nCONTABILIDADE PUBLICA E SOFTWARES LTDA",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Prestação de Serviços Técnicos especializados no\n\nacompanhamento dos serviços e programas do SUAS e na gestão do\n\nPBF, bem como na capacidade das equipes técnicas da execução junto\n\nà Secretaria Municipal de Assistência Social do Município São\n\nBentinho – PB",
+            "empresa": "SME SERVICOS\n\nESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados na área de\n\nengenharia construtiva para fiscalização, supervisão e gerenciamento\n\nde obras, podendo elaborar ARTs (projetos e/ou orçamentos)\n\nincluindo alimentação dos sistemas GEOOBRAS do TCE/PB, SIMEC\n\n(Sistema Integrado de Planejamento, Orçamento e Finanças do\n\nMinistério da Educação) da Prefeitura Municipal de São Bentinho–\n\nPB",
+            "empresa": "SME SERVICOS\n\nESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Prefeitura Município de São Bentinho/PB",
+            "empresa": "SME SERVICOS\n\nESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nAssessoria e Consultoria continuada na execução dos serviços\n\nTécnicos contábeis, compreendendo empenhos, balancete de receitas\n\ne despesas pertencentes a Fundo Municipal de Saúde de São\n\nBentinho/PB",
+            "empresa": "SME SERVICOS\n\nESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "Contratação de serviços Técnicos especializados de\n\nassessoria, planos de trabalhos e acompanhamento de convênios e\n\ncontratos de repasses junto aos Ministérios, Secretarias de Estado,\n\nAutarquias e Órgãos Públicos, para o município de São Bentinho –\n\nPB",
+            "empresa": "SME SERVICOS\n\nESPECIALIZADOS LTDA'",
+            "valor_total": "R$ 534,000.00"
+          },
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "SOMOS CONSTRUÇÕES EIRELI.",
+            "valor_total": "R$ 41,073.18"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 309,
+        "total_gasto": 25971573.470000003
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 15,
+        "total_gasto": 888170.63,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestação de serviços de assessoria e consultoria\n\nadministrativa junto a comissão permanente de licitação, na\n\nelaboração de procedimentos licitatórios de todas as modalidades,\n\ncontratos administrativos, incluindo a informação e automação dos\n\nserviços através do sistema de controle de licitações pertencentes a\n\nPrefeitura municipal de São Bentinho – PB",
+            "empresa": "GEORGE MATIAS DEFREITAS LTDA -\n\nR$ 36.000,00.\n\n\n\nADJUDICAÇÃO E HOMOLOGAÇÃO - PREGÃO\n\nELETRÔNICO Nº 00005/2024\n\nNos termos do relatório final apresentado pelo Pregoeiro Oficial e\n\nobservado parecer da Assessoria Jurídica, referente ao Pregão\n\nEletrônico nº 00005/2024, que objetiva: Aquisição Parcelada de\n\nmedicamentos de A à Z da linha FARMA, através de oferta de maior\n\nporcentagem, em solicitação diária e entrega imediata, nos\n\nquantitativos solicitados pela secretaria se Saúde do município de São\n\nBentinho/PB; ADJUDICO o",
+            "valor_total": "R$ 196,000.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de medicamentos de A à Z da linha\n\nFARMA, através de oferta de maior porcentagem, em solicitação\n\ndiária e entrega imediata, nos quantitativos solicitados pela secretaria\n\nse Saúde do município de São Bentinho/PB",
+            "empresa": "GEORGE MATIAS DEFREITAS LTDA -\n\nR$ 36.000,00.\n\n\n\nADJUDICAÇÃO E HOMOLOGAÇÃO - PREGÃO\n\nELETRÔNICO Nº 00005/2024\n\nNos termos do relatório final apresentado pelo Pregoeiro Oficial e\n\nobservado parecer da Assessoria Jurídica, referente ao Pregão\n\nEletrônico nº 00005/2024, que objetiva: Aquisição Parcelada de\n\nmedicamentos de A à Z da linha FARMA, através de oferta de maior\n\nporcentagem, em solicitação diária e entrega imediata, nos\n\nquantitativos solicitados pela secretaria se Saúde do município de São\n\nBentinho/PB; ADJUDICO o",
+            "valor_total": "R$ 196,000.00"
+          },
+          {
+            "objeto": "Prestação de serviços de assessoria e consultoria\n\nadministrativa junto a comissão permanente de licitação, na\n\nelaboração de procedimentos licitatórios de todas as modalidades,\n\ncontratos administrativos, incluindo a informação e automação dos\n\nserviços através do sistema de controle de licitações pertencentes a\n\nPrefeitura municipal de São Bentinho – PB",
+            "empresa": "FARMACIA FREITAS LTDA",
+            "valor_total": "R$ 196,000.00"
+          },
+          {
+            "objeto": "Aquisição Parcelada de medicamentos de A à Z da linha\n\nFARMA, através de oferta de maior porcentagem, em solicitação\n\ndiária e entrega imediata, nos quantitativos solicitados pela secretaria\n\nse Saúde do município de São Bentinho/PB",
+            "empresa": "FARMACIA FREITAS LTDA",
+            "valor_total": "R$ 196,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 55,
+        "total_gasto": 4767784.100000001,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA EXECUTAR OS SERVIÇOS DE PAVIMENTAÇÃO EM\n\nDIVERSAS RUAS NO MUNICÍPIO DE SÃO BENTINHO/PB,\n\nCONFORME PROJETO E PLANILHA ORCAMENTARIA",
+            "empresa": "ICCP\n\nCONSTRUCOES LTDA",
+            "valor_total": "R$ 352,386.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 26,
+        "total_gasto": 1521214.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação da empresa \"MZX ENTRETENIMENTO E\n\nPRODUÇÕES DE EVENTOS LTDA\" para apresentação do Show da\n\nbanda \"TOCA DO VALE\" durante as festividades da Emancipação\n\nPolítica no município de São Bentinho/PB",
+            "empresa": "MZX\n\nENTRETENIMENTO E PRODUCOES DE EVENTOS LTDA",
+            "valor_total": "R$ 264,000.00"
+          },
+          {
+            "objeto": "Contratação da empresa \"MEFF – PRODUÇÕES\n\nDIVERSIONAIS LTDA\" para apresentação do Show da banda\n\n\"CAVALO DE PAU\" durante as festividades da Emancipação\n\nPolítica no município de São Bentinho/PB",
+            "empresa": "MEFF -\n\nPROMOCOES DIVERSIONAIS LTDA",
+            "valor_total": "R$ 100,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 97,
+        "total_gasto": 7181124.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 17,
+        "total_gasto": 1808838.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 46,
+        "total_gasto": 3686631.9699999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 18,
+        "total_gasto": 2401343.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 801420.36,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDOS SERVIÇOS DE RECUPERAÇÃO DA PASSAGEM\n\nMOLHADA NA COMUNIDADE CAPOEIRAS ZONA RURAL DO\n\nMUNICÍPIO DE SÃO BENTINHO/PB",
+            "empresa": "JP CONSTRUCOES\n\nE SERVISOS LTDA",
+            "valor_total": "R$ 133,776.62"
+          },
+          {
+            "objeto": "O presente Termo Aditivo consiste na prorrogação do prazo\n\nde execução e vigência do contrato n° 00149/2023",
+            "empresa": "IMPETUS SERVICO DE CONSULTORIA LTDA.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 954827.53,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "JP CONSTRUCOES E SERVISOS LTDA.",
+            "valor_total": "R$ 16,631.31"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 4,
+        "total_gasto": 110960.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 4,
+        "total_gasto": 98385.07,
+        "empresas_mensais": [
+          {
+            "objeto": "O presente Termo Aditivo consiste na alteração do",
+            "empresa": "BOMSUCESSO CONSTRUCOES E SERVICOS\n\nLTDA.",
+            "valor_total": "R$ 10,142.55"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

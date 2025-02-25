@@ -1,0 +1,1663 @@
+{
+  "id": "coremas",
+  "nome": "Coremas",
+  "detalhe": {
+    "2017": {
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 7,
+        "total_gasto": 348642.29000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 50,
+        "num_contratos": 91,
+        "total_gasto": 6268527.850000001
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 45,
+        "total_gasto": 2077135.0399999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar de serviços parcelado de assessoria técnica no\ncadastro de propostas no SINCONV e acompanhamento de processos\njunto à Caixa Econômica Federal (Lote I)",
+            "empresa": "EPC Empresa Paraibana Prest. de Serv. Comb. a\nConvenio Ltda-EPP",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Prestar de serviços parcelado de assessoria técnica\npermanente - modalidade produto para Gestão SUS, nas áreas de\nplanejamento, gestão de projetos técnicos em Saúde, para atender as\nnecessidades da Secretaria de Saúde (lote II)",
+            "empresa": "Susplaneja Treinamento E Consultoria Ltda",
+            "valor_total": "R$ 112,000.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de gasolina comum, óleo\ndiesel S/500, óleo diesel S/10, para abastecimento dos veículos em\ntrânsito na cidade de João Pessoa/PB, destinado a frota municipal e os\npor força contratual tenha direito ao mesmo",
+            "empresa": "Posto Santa Maria Comb. e Conv.. Ltda",
+            "valor_total": "R$ 477,993.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de peças em geral, para os\nveículos da frota municipal e os que por força contratual tenha direito,\nconforme termo de referência",
+            "empresa": "Cavalcanti Auto Pecas Ltda",
+            "valor_total": "R$ 202,181.92"
+          },
+          {
+            "objeto": "Prestar serviços parcelado de mão-de-obra especializada de\nmecânico em geral, (Cidades de Coremas/PB), para os veículos da\nfrota municipal e os que por força contratual tenha direito, conforme\ntermo de referência",
+            "empresa": "Geraldo Lopes Do Vale",
+            "valor_total": "R$ 61,500.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelado de peças em geral, para os\nveículos da frota municipal e os que por força contratual tenha direito,\nconforme termo de referência",
+            "empresa": "Gipagel Auto Pecas Ltda",
+            "valor_total": "R$ 348,781.93"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 283011.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 324001.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 2020294.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 220000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículo tipo Van Minibus Iveco Tipo\nDaily Elevittá 50C17 4x2 ano/modelo 2017/2018 18+1 Passageiros\ncom Ar-condicionado Duplo e Acessibilidade de Fábrica",
+            "empresa": "Mais Truck Comercio de Caminhões Ltda",
+            "valor_total": "R$ 220,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 301704.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 693738.8200000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 1,
+        "total_gasto": 34000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de manutenção preventiva e corretiva, com\nreposição de lâmpadas e peças na iluminação pública da cidade de\nCoremas/PB (Até o Sítio Riacho Grende), conforme projeto básico",
+            "empresa": "Marcos Antônio Lacerda Nobrega-ME (Marcos\nEletrosat)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de manutenção preventiva e corretiva, com\nreposição de lâmpadas e peças na iluminação pública da cidade de\nCoremas/PB (Até o Sítio Riacho Grende), conforme projeto básico",
+            "empresa": "Foi o valor total previsto de R$ 68.830,00\n(sessenta e oito mil, oitocentos e trinta reais), pelos 03 (três) meses\nVigência: 90 (noventa) dias.\nFonte de recursos: Próprios (Ordinários).\nDotação Orçamentária: 02.06",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 94,
+        "num_contratos": 37,
+        "total_gasto": 4509453.600000001
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 11.01,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 490715.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços técnico especializados em consultoria e\nauditoria tributaria para assessoramento ao departamento de tributos,\nvisando levantar créditos tributários junto às instituições financeiras\nlocalizadas no município de Coremas/PB, conforme projeto básico",
+            "empresa": "BRUNO LIMEIRA ALVES-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 3885.91,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 9,
+        "total_gasto": 3104735.7199999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 38947.229999999996,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar Serviço na pavimentação em paralelepípedo da\nRua Projetada (Vila dos Pereiras), Zona Urbana do Município de\nCoremas/PB",
+            "empresa": "SBC Construção Serviços e Locações Eireli",
+            "valor_total": "R$ 21,947.23"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 3,
+        "total_gasto": 129850.8,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de engenharia na Pavimentação em\n\nparalelepípedo na Rua Travessa Ivonete Alves da Silva, Zona Urbana\n\ndo Município de Coremas/PB",
+            "empresa": "A.R.J. Monteiro Construções, e Serviços Eireli",
+            "valor_total": "R$ 17,175.95"
+          },
+          {
+            "objeto": "Prestar serviços médicos realizando pequenas cirurgias\n\nambulatoriais, exames, consultas, procedimentos médicos na área de\n\nclínica geral, consulta médica na área de pediatria e outros, conforme\n\ntermo de referência",
+            "empresa": "M.G. Doctors Serviços Médicos Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços médicos realizando pequenas cirurgias\n\nambulatoriais, exames, consultas, procedimentos médicos na área de\n\nclínica geral, consulta médica na área de pediatria e outros, conforme\n\ntermo de referência",
+            "empresa": "R$ 331.200,00.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 10,
+        "total_gasto": 524666.46,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 182641.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 601951.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 100,
+        "num_contratos": 147,
+        "total_gasto": 10162365.149999999
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 314000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 15,
+        "total_gasto": 272079.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço de engenharia na Construção do Mirante\nTurístico, localizado na parede do Açude, Zona Urbana do Município\nde Coremas/PB, conforme planilhas de custo",
+            "empresa": "Duarte Construções e Serviços Eireli",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na Construção do Mirante\nTurístico, localizado na parede do Açude, Zona Urbana do Município\nde Coremas/PB, conforme planilhas de custo",
+            "empresa": "R$ 31.697,72 (Trinta e um mil\nseiscentos e noventa e sete reais e setenta e dois centavos).",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 37,
+        "total_gasto": 1005456.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 21,
+        "total_gasto": 1019143.86,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar Serviço Técnico Especializado como engenheiro civil\nfiscalizando as obras executadas pela administração direta e indireta\ncontratadas através da Secretaria de Educação e ainda a emissão de\nparecer Técnico de engenharia quando for solicitado (de interesse da\nmunicipalidade)",
+            "empresa": "Jefferson Batista de Andrade",
+            "valor_total": "R$ 30,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1616311.2999999998,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros alimentícios\ndestinados as diversas secretarias deste município, , referente aos lotes\nI e II",
+            "empresa": "Rita Maria de Lacerda Souza",
+            "valor_total": "R$ 703,000.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros alimentícios\ndestinados as diversas secretarias deste município, referente aos lotes\nIII, IV, V, VI, VII e VII",
+            "empresa": "Minimercado Santa Rita Ltda",
+            "valor_total": "R$ 840,009.34"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 19,
+        "total_gasto": 2601116.87,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 17,
+        "total_gasto": 544770.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço de mão de obra roçando matos que estão\n\ninvadindo as laterais das estradas de Terra batida, entre os sítios\n\nRiacho Seco, Boa Esperança, Catolé I, Capim Grosso e Jiboia,\n\nconforme termo de referência",
+            "empresa": "Obraplan Empresa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na reforma da UBS Porte I\n\n(Valdemar Mamede da Nóbrega), Zona Urbana do Município de\n\nCoremas",
+            "empresa": "Obraplan Empresa de Limpeza e Conservação Urbana",
+            "valor_total": "R$ 31,883.01"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na reforma da Escola\n\nComunidade Riacho Grande, Zona Rural do Município de Coremas",
+            "empresa": "Jonatas de Sousa Oliveira Eireli",
+            "valor_total": "R$ 31,280.47"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na reforma da UBS Porte I\n\n(Antônio Ramalho Leite), localizada no Bairro do DNOCS, Zona\n\nUrbana do Município de Coremas",
+            "empresa": "Obraplan Empresa de Limpeza e Conservação Urbana",
+            "valor_total": "R$ 32,943.37"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na reforma da UBS Porte I\n\n(José Nilton Alexandrino), localizada no Bairro Cabo Branco, Zona\n\nUrbana do Município de Coremas",
+            "empresa": "Obraplan Empresa de Limpeza e Conservação Urbana",
+            "valor_total": "R$ 15,756.90"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na pavimentação em\n\nparalelepípedo da Rua Antônio Firmino Leite, Zona Urbana do\n\nMunicípio de Coremas",
+            "empresa": "Duarte Construções e Serviços Eireli",
+            "valor_total": "R$ 18,756.98"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 6,
+        "total_gasto": 115640.21,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço na locação de um veículo transportando\nequipamentos (carteiras, birôs, bebedouros, ar-condicionados,\nventiladores, geladeiras, freezers, computadores e outros) para\nmanutenção preventiva e corretiva pertencente as escolas municipais\nlocalizadas na urbana e rural, e outras atividades de interesse da\nMunicipalidade, caso seja necessário",
+            "empresa": "Adonias Pereira de Oliveira",
+            "valor_total": "R$ 16,200.00"
+          },
+          {
+            "objeto": "Prestar serviço referente a horas/máquina com uma\nretroescavadeira na melhoria de estradas vicinais e outros serviços de\ninteresse da municipalidade, conforme termo de referência",
+            "empresa": "Cícero Viana da Silva Sobrinho",
+            "valor_total": "R$ 17,150.00"
+          },
+          {
+            "objeto": "Prestar serviço referente a horas/máquina com uma\nretroescavadeira na melhoria de estradas vicinais e outros serviços de\ninteresse da municipalidade, conforme termo de referência",
+            "empresa": "Suênio Gregório",
+            "valor_total": "R$ 17,400.00"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na Reforma da Escola\nlocalizada na Comunidade Estreito na Zona Rural do Município de\nCoremas, conforme planilhas de custo",
+            "empresa": "Lucrenato Ramalho Leite Junior-EPP",
+            "valor_total": "R$ 30,911.91"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia na Reforma da Escola\nlocalizada na Comunidade Boa Vista na Zona Rural do Município de\nCoremas, conforme planilhas de custo\nFonte: Recursos Próprios (Ordinários)",
+            "empresa": "Lucrenato Ramalho Leite Junior",
+            "valor_total": "R$ 30,978.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 189567.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 140667.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 1741660.3399999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 181591.4,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço\n\nde engenharia na pavimentação em paralelepípedo na Rua Projetada\n\n(Nicolau III), Zona Urbana do Município de Coremas/PB, conforme\n\nplanilhas de custo",
+            "empresa": "Larissa Maria Abrantes de Almeida Eireli",
+            "valor_total": "R$ 31,086.76"
+          },
+          {
+            "objeto": "Prestar\n\nserviço de engenharia na pavimentação em paralelepípedo na Rua\n\nJoão Virgulino da Silva, (Nicolau I), no Município de Coremas,\n\nconforme planilhas de custo",
+            "empresa": "Lucrenato Ramalho Leite Junior-EPP",
+            "valor_total": "R$ 32,620.78"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 105,
+        "num_contratos": 25,
+        "total_gasto": 3779822.9699999997
+      },
+      "2": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 425914.78,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços especializados em jornada\npedagógica para ministrar um curso com carga horaria de 40\n(Quarenta) horas/aulas para todos os profissionais aptos que atuam na\nárea da educação em de 2020, no município de Coremas/PB, de\nacordo com os requisitos expressos na Súmula 252 do Tribunal de\nContras da União (Dias e horários para realização do curso serão\ndefinidos pela equipe técnica da Secretaria de Educação)",
+            "empresa": "Futura Consultoria e\nServiços Eireli",
+            "valor_total": "R$ 88,000.00"
+          },
+          {
+            "objeto": "Prestar serviço como Médica da Estratégia da\nSaúde da Família, com carga horária de 40h semanais",
+            "empresa": "Priscylla\nSilveira Ramos Costa",
+            "valor_total": "R$ 66,000.00"
+          },
+          {
+            "objeto": "Prestar serviço como Médica “Clínica Geral” na\nPoliclínica, em regime de Plantões",
+            "empresa": "Priscylla\nSilveira Ramos Costa",
+            "valor_total": "R$ 60,000.00"
+          },
+          {
+            "objeto": "Prestar serviço como Médico Clínico Urgentista\ndo SAMU, em regime de Plantões",
+            "empresa": "Leudson Arina\nda Silva Nascimento",
+            "valor_total": "R$ 134,400.00"
+          },
+          {
+            "objeto": "Prestar serviço no Transporte de estudantes saindo da\nCidade de Coremas no turno da tarde às 16:00 (dezesseis horas) para a\nCidade de Patos, retornando somente a noite às 22:30 (vinte duas\nhoras e trinta minutos)",
+            "empresa": "José Soares de Souza",
+            "valor_total": "R$ 17,000.00"
+          },
+          {
+            "objeto": "Prestar serviço de\nengenharia na pavimentação em paralelepípedo da Rua do Hospital,\nZona urbana do Município de Coremas/PB, conforme planilhas de\ncusto",
+            "empresa": "Larissa Maria Abrantes de Almeida Eireli",
+            "valor_total": "R$ 29,059.20"
+          },
+          {
+            "objeto": "Prestar serviço de\nengenharia na pavimentação em paralelepípedo da Rua Manoel A",
+            "empresa": "J. S. da Silva",
+            "valor_total": "R$ 31,455.58"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 674268.38,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 1493723.2,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço na locação de um veículo de\n\npequeno porte, para ficar a serviço da Secretaria de Finanças do\n\nMunicípio de Coremas/PB, em dias úteis",
+            "empresa": "Pedro Guedes de Oliveira",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Prestar serviços especializados (Enquanto\n\nperdura a vigência do Decreto Municipal Nº 001/2020, que instituiu\n\nas medidas temporárias e emergenciais - COVID/19, datado de\n\n17/03/2020, e o Decreto Municipal que alterou o Decreto Municipal\n\nNº 001/2020, datado de 20/03/2020) na área de saúde com\n\natendimento a nível ambulatorial em regime de plantões, na\n\nPoliclínica, SAD - Serviço de Atenção Domiciliar \"Melhor em Casa\",\n\nPlantonistas/Urgentistas para o SAMU, Central de Regulação,\n\nAuditoria Médica e Unidades de Saúde da Família (PSF), atendendo\n\nas necessidades do Município de Coremas-PB",
+            "empresa": "Susgestão - Serviços Técnicos e\n\nAdministrativos Ltda",
+            "valor_total": "R$ 441,594.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 673333.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de engenharia na\n\npavimentação Asfáltica em CBUQ, nas Ruas Virgulino da Silva,\n\nCapitão Antônio Leite e João Fernandes de Lima, Zona Urbana do\n\nMunicípio de Coremas",
+            "empresa": "Siga Construtora\n\nEireli",
+            "valor_total": "R$ 673,333.42"
+          },
+          {
+            "objeto": "Prestar serviço de engenharia\n\nreforma da Praça Félix Rodrigues localizada no Centro do Município\n\nde Coremas/PB, conforme e planilhas de custo",
+            "empresa": "Nunes\n\nConstrutora E Seviços Eireli-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 118962.86,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de veículos de transporte escolar diário de estudantes,\n\ndenominado de Ônibus Rural Escolar (ORE 2), em atendimento às\n\nentidades educacionais das redes públicas de ensino nos Estados,\n\nDistrito Federal e Municípios, conforme especificações e quantitativos\n\nestabelecidos no edital do Pregão identificado no preâmbulo e na\n\nproposta vencedora",
+            "empresa": "CNH\n\nIndustrial Do Brasil Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 49728.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o\nfornecimento de 1.500 (Mil e quinhentos) Kit de teste rápido Sarvs-\ncov 2 IGG/IGM (Convid-19), conforme termo de referência",
+            "empresa": "A Costa Com. Atacadista de Prod.\nFarmacêutico Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\nfornecimento de 1.500 (Mil e quinhentos) Kit de teste rápido Sarvs-\ncov 2 IGG/IGM (Convid-19), conforme termo de referência",
+            "empresa": "R$ 133.500,00 (Cento trinta e três mil e quinhentos\nreais).Fonte: Recurso Próprios (Ordinários e outros). Dotação:\nPrevistos no QDD/2020. Vigência: Até 31/12/2020. Partes:\nFrancisca das C. A. de Oliveira (Pela contratante) e o Sr. Luiz de\nSousa Costa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviço na execução de roço das estradas vicinais do\nMunicípio de Coremas (Fundamentado na Medida Provisória Nº\n961/2020 de 06/05/2020 da Presidência da República), conforme\ntermo de planilhas de custo",
+            "empresa": "FTF Locação de equipamentos e\ntransporte de cargas Ltda",
+            "valor_total": "R$ 49,728.00"
+          },
+          {
+            "objeto": "Contratação do sistema\ndenominado WCompras, para realização de licitação em meio digital,\npor intermédio da rede mundial de computadores, especificamente na\nmodalidade Pregão, em todas as suas formas",
+            "empresa": "Ecustomize Consultoria Em Software S.A",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o\nfornecimento dos Insumos Hospitalar para serem utilizados pelas\n\nunidades de Saúde durante os atendimentos (Atenção básica),\nfundamentado na Medida Provisória Nº 961/2020 de 06/05/2020 da\nPresidência da República, conforme termo de referência",
+            "empresa": "Endomed Com. e Rep. de\nMed. Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\nfornecimento dos Insumos Hospitalar para serem utilizados pelas\n\nunidades de Saúde durante os atendimentos (Atenção básica),\nfundamentado na Medida Provisória Nº 961/2020 de 06/05/2020 da\nPresidência da República, conforme termo de referência",
+            "empresa": "R$ 41.538,86 (Quarenta e um mil quinhentos e trinta e\noito reais e oitenta e seis centavos).Fonte: Recurso Próprios\n(Ordinários). Dotação: Previstos no QDD/2020. Vigência: Até\n31/12/2020. Partes: Francisca das C. A. de Oliveira (Pela contratante)\ne o Sr. Washimgton José de Queiroz",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 23248.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 46531.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 92521.73,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviço na reforma do anexo da Secretaria de Educação (Ao\nlado da Prefeitura localizado na Rua Capitão Antônio Leite, Nº 65,\nCentro, Coremas-PB), visando aprimorar a qualidade do atendimento\nna área da educação, tendo em vista que o anexo necessita de uma\nreforma para melhor atender aos estudantes, professores e servidores,\n\nconforme planilha de custo",
+            "empresa": "Oliveira L. Serviços e Construções",
+            "valor_total": "R$ 92,521.73"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 112,
+        "num_contratos": 18,
+        "total_gasto": 1833448.84
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 345942.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 12.69,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 1218601.1500000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços na Reforma da Escola Municipal E.I.E.F\nlocalizada na Comunidade Mãe D´água, Zona Rural de Coremas-PB,\nconforme planilha orçamentária de custo",
+            "empresa": "Torres e Andrade Construções, Pré-Moldados e Serviços Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na Reforma da Escola Municipal E.I.E.F\nlocalizada na Comunidade Mãe D´água, Zona Rural de Coremas-PB,\nconforme planilha orçamentária de custo",
+            "empresa": "R$\n32.632,68 (trinta e dois mil, seiscentos e trinta e dois reais, sessenta e\noito centavos). Recursos: Próprios (Diversos) da Prefeitura de\nCoremas-PB. Unidade orçamentária: QDD/2021, ficando\nautomaticamente incorporado a lei orçamentaria anual aprovada para\no exercício seguinte. Início dos serviços: Em até 07 (sete) dias, após\nassinatura da ordem de serviços. Entrega dos serviços: Em até 03\n(Três) meses. Vigência do contrato: Até 31/06/2021. Partes\nassinantes: Irani Alexandrino da Silva (Pela contratante) e o Sr. João\nIsidoro de Andrade Neto (Pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar fornecimento\nde Profissionais de Saúde (Terceirização) para, para atender as\nnecessidades das “Unidades de Saúde da Família, SAMU - Serviço de\nAtendimento Móvel de Urgências, Policlínica Municipal, Núcleo de\nApoio a Saúde da Família “NASF”, Coordenação, Controle,\nAvaliação e Auditoria “COCAV”, Centro de Apoio Psicossocial\n“CAPS”, Laboratório de Análises Clínicas, Vigilância Sanitária\n“VISA”, Vigilância Epidemiológica, Serviço de Atendimento\nDomiciliar - SAD “Melhor em Casa”, Farmácia Básica, Centro de\nEspecialidades Odontológica “CEO”, e Secretaria de Saúde/Fundo\nMunicipal de Saúde de Coremas-PB, conforme termo de referência",
+            "empresa": "Susgestão - Serviços Técnicos e Administrativos Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar fornecimento\nde Profissionais de Saúde (Terceirização) para, para atender as\nnecessidades das “Unidades de Saúde da Família, SAMU - Serviço de\nAtendimento Móvel de Urgências, Policlínica Municipal, Núcleo de\nApoio a Saúde da Família “NASF”, Coordenação, Controle,\nAvaliação e Auditoria “COCAV”, Centro de Apoio Psicossocial\n“CAPS”, Laboratório de Análises Clínicas, Vigilância Sanitária\n“VISA”, Vigilância Epidemiológica, Serviço de Atendimento\nDomiciliar - SAD “Melhor em Casa”, Farmácia Básica, Centro de\nEspecialidades Odontológica “CEO”, e Secretaria de Saúde/Fundo\nMunicipal de Saúde de Coremas-PB, conforme termo de referência",
+            "empresa": "R$ 299.499,90\n(Duzentos e noventa e nove mil, quatrocentos e noventa e nove reais e\nnoventa centavos), perfazendo o valor total de R$ 598.999,80\n(Quinhentos e noventa e oito mil, novecentos e noventa e nove reais e\noito centavos) pelos os 02 (Dois) meses.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços na Reforma da Escola\n\nMunicipal localizada na Comunidade Curral Velho, Zona Rural de\n\nCoremas-PB, conforme planilha orçamentária de custo",
+            "empresa": "Jhonatan Andrade da Silva Eireli",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na Reforma da Escola\n\nMunicipal localizada na Comunidade Curral Velho, Zona Rural de\n\nCoremas-PB, conforme planilha orçamentária de custo",
+            "empresa": "R$ 31.092,69 (trinta e um mil, noventa e dois reais e\n\nsessenta e nove centavos). Recursos: Próprios (Diversos) da\n\nPrefeitura de Coremas-PB. Unidade orçamentária: QDD/2021,\n\nficando automaticamente incorporado a lei orçamentaria anual\n\naprovada para o exercício seguinte. Início dos serviços: Em até 07\n\n(sete) dias, após assinatura da ordem de serviços. Entrega dos\n\nserviços: Em até 01 (Um) meses. Vigência do contrato: Até\n\n31/12/2021. Partes assinantes: Irani A. da Silva (Pela contratante) e\n\no Sr. Jhonatan A. da Silva (Pela",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços\n\nna Reforma da Escola Municipal localizada na Comunidade Jurema,\n\nZona Rural de Coremas-PB, conforme planilha orçamentária de custo",
+            "empresa": "Obraplan Empresa de Limpeza e Serviços Urbana Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços\n\nna Reforma da Escola Municipal localizada na Comunidade Jurema,\n\nZona Rural de Coremas-PB, conforme planilha orçamentária de custo",
+            "empresa": "R$ 32.986,59 (trinta e dois mil, novecentos e\n\noitenta e seis reais e cinquenta e nove centavos). Recursos: Próprios\n\n(Diversos) da Prefeitura de Coremas-PB. Unidade orçamentária:\n\nQDD/2021, ficando automaticamente incorporado a lei orçamentaria\n\nanual aprovada para o exercício seguinte. Início dos serviços: Em até\n\n07 (sete) dias, após assinatura da ordem de serviços. Entrega dos\n\nserviços: Em até 01 (Um) mês. Vigência do contrato: Até\n\n31/12/2021. Partes assinantes: Irani A. da Silva (Pela contratante) e\n\no Sr. Geraldo Virgolino da Silva (Pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de interesse da municipalidade no\nmonitoramento e avaliação das ações e serviços de Saúde ofertando\nnas unidades de saúde da atenção Primaria Pa saúde (APS)\nprincipalmente no âmbito do novo financiamento da APS, que foi\nestabelecido pelo Programa Previne Brasil (e-SUS Feedback / e-SUS\nOnline), conforme termo de referência",
+            "empresa": "Johny Vencios Carvalho da Silva-MEI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da municipalidade no\nmonitoramento e avaliação das ações e serviços de Saúde ofertando\nnas unidades de saúde da atenção Primaria Pa saúde (APS)\nprincipalmente no âmbito do novo financiamento da APS, que foi\nestabelecido pelo Programa Previne Brasil (e-SUS Feedback / e-SUS\nOnline), conforme termo de referência",
+            "empresa": "R$\n2.435,00 (dois mil, quatrocentos e trinta e cinco reais) por cada mês,\nperfazendo o valor total de R$ 17.045,00 (dezessete mil, quarenta e\ncinco reais). Recursos: Próprios (Diversos e Ordinários) da Prefeitura\nde Coremas-PB. Unidade orçamentária: Constante no QDD/2021.\nVigência do contrato para execução dos serviços: 07 (sete) meses.\nVigência do contrato para efeito de pagamentos: Até 31/12/2021.\nPartes assinantes: Irani A. da Silva (Pela contratante) e o Sr. Johny\nVencios Carvalho da Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade em forma de locação parcelada de um veículo do tipo\nCamioneta Cabine Dupla 4X4, Ano/Mod: 2019/2019, de Placa Nº\nBXF0686, para ficar a disposição do Gabinete do Prefeito, conforme\ntermo de referência",
+            "empresa": "M\nZ Construtora Civil e Empreendimento Imobiliário Ltda",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade em forma de locação parcelada de um veículo do tipo\nCamioneta Cabine Dupla 4X4, Ano/Mod: 2019/2019, de Placa Nº\nBXF0686, para ficar a disposição do Gabinete do Prefeito, conforme\ntermo de referência",
+            "empresa": "R$ 6.500,00 (seis mil e\nquinhentos reais) por cada mês, perfazendo o valor total de R$\n13.000,00 (treze mil reais). Recursos: Próprios (Diversos e\nOrdinários) da Prefeitura de Coremas-PB. Unidade orçamentária:\nConstante no QDD/2021. Vigência do contrato para execução dos\nserviços: 02 (dois) meses. Vigência do contrato para efeito de\npagamentos: Até 31/12/2021. Partes assinantes: Irani A. da Silva\n(Pela contratante) e o Sr. Manoel Eufrasio da Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços técnicos especializado parcelado na confecção de 100\n(cem) unidades de prótese total maxilar (superior), com palato incolor,\nprótese total mandibular (inferior), prótese maxilar e prótese parcial\nmandibular, para serem doadas as pessoas cadastradas junto aos\nprogramas sociais, através da Secretaria de Desenvolvimento Social e\nHumano de Coremas, conforme termo de referência",
+            "empresa": "Tiago Ferreira Licarião-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços técnicos especializado parcelado na confecção de 100\n(cem) unidades de prótese total maxilar (superior), com palato incolor,\nprótese total mandibular (inferior), prótese maxilar e prótese parcial\nmandibular, para serem doadas as pessoas cadastradas junto aos\nprogramas sociais, através da Secretaria de Desenvolvimento Social e\nHumano de Coremas, conforme termo de referência",
+            "empresa": "R$ 150,00 (cento e cinquenta reais) por cada, perfazendo\no valor total de R$ 15.000,00 (quinze mil reais). Recursos: Próprios\n(Diversos e Ordinários) da Prefeitura de Coremas-PB. Unidade\norçamentária: Constante no QDD/2021. Vigência do contrato para\nexecução dos serviços: Até 31/12/2021. Vigência do contrato para\nefeito de pagamentos: Até 31/12/2021. Partes assinantes: Irani A.\nda Silva (Pela contratante) e o Sr. Tiago Ferreira Licarião",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da municipalidade em forma de locação\nparcelada de um veículo do tipo VW/Fox 1.6 GII, Placa Nº\nAUT5347/PR, para ficar a disposição da Secretaria de Urbanismo,\nconforme termo de referência",
+            "empresa": "Everaldo Honório da Silva-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da municipalidade em forma de locação\nparcelada de um veículo do tipo VW/Fox 1.6 GII, Placa Nº\nAUT5347/PR, para ficar a disposição da Secretaria de Urbanismo,\nconforme termo de referência",
+            "empresa": "R$ 3.700,00 (três\nmil e setecentos reais) por cada mês, perfazendo o valor total de R$\n14.800,00 (quatorze mil e oitocentos reais). Recursos: Próprios\n(Diversos e Ordinários) da Prefeitura de Coremas-PB. Unidade\norçamentária: Constante no QDD/2021. Vigência do contrato para\nexecução dos serviços: 04 (quatro) meses. Vigência do contrato\npara efeito de pagamentos: Até 31/12/2021. Partes assinantes:\nIrani A. da Silva (Pela contratante) e o Sr. Everaldo Honório da Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar\no fornecimento de diversos pneus e câmara, destinados para as\ndiversas Secretarias, conforme termo de referência",
+            "empresa": "A\nSoares de Medeiros-EPP",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar\no fornecimento de diversos pneus e câmara, destinados para as\ndiversas Secretarias, conforme termo de referência",
+            "empresa": "R$ 17.397,00 (dezessete mil, trezentos e noventa e sete\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 21\n\n\nreais) pelos os pneus relacionados. Recursos: Próprios (Diversos e\nOrdinários) da Prefeitura de Coremas-PB. Unidade orçamentária:\nConstante no QDD/2021. Vigência do contrato para execução dos\nserviços: Até 31/12/2021. Vigência do contrato para efeito de\npagamentos: Até 31/12/2021. Partes assinantes: Irani A. da Silva\n(Pela contratante) e o Sr. Alberto Soares de Medeiros",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços em forma de locação parcelada de um veículo do tipo\nVam, com capacidade mínima para 14 (quatorze) passageiros, para\nficar a disposição da Secretaria de Educação, e ainda prestando outros\nserviços de interesse da municipalidade, caso seja necessário,\nconforme termo de referência",
+            "empresa": "Joselio da Silva Buriti-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços em forma de locação parcelada de um veículo do tipo\nVam, com capacidade mínima para 14 (quatorze) passageiros, para\nficar a disposição da Secretaria de Educação, e ainda prestando outros\nserviços de interesse da municipalidade, caso seja necessário,\nconforme termo de referência",
+            "empresa": "R$ 4.500,00\n(quatro mil e quinhentos reais) por cada mês, perfazendo o valor total\nde R$ 13.500,00 (treze mil e quinhentos reais). Recursos: Próprios\n(Diversos e Ordinários) da Prefeitura de Coremas-PB. Unidade\norçamentária: Constante no QDD/2021. Vigência do contrato para\nexecução dos serviços: 03 (três) meses. Vigência do contrato para\nefeito de pagamentos: Até 31/12/2021. Partes assinantes: Irani A.\nda Silva (Pela contratante) e o Sr. Joselio da Silva Buriti",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade por viajem parcelada no veículo de sua propriedade\ncom capacidade mínima para 05 (cinco) passageiros, com carroceria\naberta, para ficar a disposição das Secretarias de Educação e Saúde,\nconforme termo de referência",
+            "empresa": "Andrade e Guedes (Dyego David Andrade da Silva-ME)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade por viajem parcelada no veículo de sua propriedade\ncom capacidade mínima para 05 (cinco) passageiros, com carroceria\naberta, para ficar a disposição das Secretarias de Educação e Saúde,\nconforme termo de referência",
+            "empresa": "R$ 17.750,00\n(dezessete mil, setecentos e cinquenta reais) pelas viagens\npreviamente relacionadas. Recursos: Próprios (Diversos e Ordinários)\nda Prefeitura de Coremas-PB. Unidade orçamentária: Constante no\nQDD/2021. Vigência do contrato para execução dos serviços: Até\n31/12/2021. Vigência do contrato para efeito de pagamentos: Até\n31/12/2021. Partes assinantes: Irani A. da Silva (Pela contratante) e\no Sr. Dyego David Andrade da Silva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade na realização de diversos exames previamente\nrelacionados, para as pessoas cadastradas junto aos programas sociais,\natravés da Secretaria de Desenvolvimento Social e Humano de\nCoremas, conforme termo de referência",
+            "empresa": "Bioexames (Rubens Amâncio de Sousa Eireli-ME)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade na realização de diversos exames previamente\nrelacionados, para as pessoas cadastradas junto aos programas sociais,\natravés da Secretaria de Desenvolvimento Social e Humano de\nCoremas, conforme termo de referência",
+            "empresa": "R$\n17.500,00 (dezessete mil e quinhentos reais) pelos os exames\npreviamente relacionados. Recursos: Próprios (Diversos e\nOrdinários) da Prefeitura de Coremas-PB. Unidade orçamentária:\nConstante no QDD/2021. Vigência do contrato para execução dos\nserviços: Até 31/12/2021. Vigência do contrato para efeito de\npagamentos: Até 31/12/2021. Partes assinantes: Irani A. da Silva\n(Pela contratante) e o Sr. Rubens Amâncio de Sousa",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade em forma de locação parcelada de seis impressoras,\npara ficar a disposição da Secretaria de Educação, conforme termo de\nreferência",
+            "empresa": "X-\nTana Comercio & Soluções em Informática Eireli-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de interesse da\nmunicipalidade em forma de locação parcelada de seis impressoras,\npara ficar a disposição da Secretaria de Educação, conforme termo de\nreferência",
+            "empresa": "R$ 1.900,00 (um mil e novecentos\nreais) mensal, perfazendo o valor total de R$ 17.100,00 (dezessete mil\ne cem reais). Recursos: Próprios (Diversos e Ordinários) da Prefeitura\nde Coremas-PB. Unidade orçamentária: Constante no QDD/2021.\nVigência do contrato para execução dos serviços: Até 16/05/2022.\nVigência do contrato para efeito de pagamentos: Até 16/05/2022.\nPartes assinantes: Irani A. da Silva (Pela contratante) e o Sr. Antônio\nJoaquin da Silva Neto",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Presta serviços de mão-de-obra\n\nespecializada de mecânico em geral (Ônibus, Micro ônibus, maquinas\n\npesadas e outros equipamentos semelhantes) pertencentes a\n\nmunicipalidade, conforme termo de referência",
+            "empresa": "Rita de Cassia Henrique de Araújo-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "prestar serviços de mão-de-obra\n\nespecializada (Enquanto perdura a vigência dos Decretos Municipais,\n\nque instituiu as medidas temporárias e emergenciais - Covid/19 de\n\n2020/2021), na manutenção preventiva e corretiva dos controle dos\n\nregistros de distribuição da redes de água fluvial e redes\n\nabastecimento de água potável para o consumo humano e animal,\n\npertencente a este Município nos seguintes bairros: DNOCS, Linha de\n\nFerro e Centro da Cidade de Coremas, com o fornecimento de todos\n\nmateriais necessários que por ventura forem usados serão por conta da\n\nPrefeitura de Coremas/PB, conforme planilha de custo",
+            "empresa": "Francisco\n\nUbiratan Andrade Sousa-ME (Ubiratan Manutenção)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "prestar serviços de mão-de-obra\n\nespecializada (Enquanto perdura a vigência dos Decretos Municipais,\n\nque instituiu as medidas temporárias e emergenciais - Covid/19 de\n\n2020/2021), na manutenção preventiva e corretiva dos controle dos\n\nregistros de distribuição da redes de água fluvial e redes\n\nabastecimento de água potável para o consumo humano e animal,\n\npertencente a este Município nos seguintes bairros: DNOCS, Linha de\n\nFerro e Centro da Cidade de Coremas, com o fornecimento de todos\n\nmateriais necessários que por ventura forem usados serão por conta da\n\nPrefeitura de Coremas/PB, conforme planilha de custo",
+            "empresa": "R$ 69.720,00 (Sessenta e nove mil, setecentos e vinte\n\nreais) pelos 04 (quatro) meses. Vigência para execução: 31/12/2021.\n\nVigência para pagamento: Até 31/12/2021. Fonte de recursos:\n\nPróprios do município. Dotação Orçamentária: QDD/2021. Partes\n\nAss.: Irani Alexandrino da Silva (Pela contratante) e o Sr. Francisco\n\nUbiratan Andrade Sousa (Pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar de serviços\ncom um equipamento (Retroescavadeira por hora trabalhada) na\nmanutenção preventiva e corretiva das estradas vicinais de terra que\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 17\n\n\ncortam o município, e outros serviços de interesse da municipalidade,\ncaso seja necessário, conforme termo de referência",
+            "empresa": "Francisco das Chagas Olímpio de\nOliveira-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar de serviços\ncom um equipamento (Retroescavadeira por hora trabalhada) na\nmanutenção preventiva e corretiva das estradas vicinais de terra que\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 17\n\n\ncortam o município, e outros serviços de interesse da municipalidade,\ncaso seja necessário, conforme termo de referência",
+            "empresa": "R$ 17.550,00 (Dezessete mil, quinhentos e cinquenta\nreais). Recursos: Próprios (Diversos) da Prefeitura de Coremas-PB.\nUnidade orçamentária: QDD/2021, ficando automaticamente\nincorporado a lei orçamentaria anual aprovada para o exercício\nseguinte. Início dos serviços: Imediatamente, após assinatura da\nordem de serviços. Vigência do contrato: Até 31/12/2021. Partes\nassinantes: Irani A. da Silva (Pela contratante) e o Sr. Francisco das\nC. O. de Oliveira (Pela",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar de serviços\ncomo um equipamento (Caçamba por diária) com capacidade para 5\ntoneladas na manutenção preventiva e corretiva das estradas vicinais\nde terra que cortam o município de Coremas-PB, e outros serviços de\ninteresse da municipalidade, caso seja necessário, conforme termo de\nreferência",
+            "empresa": "Francisco das Chagas Olímpio de\nOliveira-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar de serviços\ncomo um equipamento (Caçamba por diária) com capacidade para 5\ntoneladas na manutenção preventiva e corretiva das estradas vicinais\nde terra que cortam o município de Coremas-PB, e outros serviços de\ninteresse da municipalidade, caso seja necessário, conforme termo de\nreferência",
+            "empresa": "R$ 16.900,00 (Dezessete mil e\nnovecentos reais). Recursos: Próprios (Diversos) da Prefeitura de\nCoremas-PB. Unidade orçamentária: QDD/2021, ficando\nautomaticamente incorporado a lei orçamentaria anual aprovada para\no exercício seguinte. Início dos serviços: Imediatamente, após\nassinatura da ordem de serviços. Vigência do contrato: Até\n31/12/2021. Partes assinantes: Irani A. da Silva (Pela contratante) e\no Sr. Francisco das C. O. de Oliveira (Pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 173893.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 95000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de 01 (um) aparelho de Raio\n“X” usando (devendo está em perfeito funcionamento), Aquisição de\n01 (uma) processadora automática para filmes de Raio X usado\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 83\n\n\n(devendo está em perfeito funcionamento, e aquisição dos seguintes\nacessórios “novos”: Avental, protetor de tireóide e diversos chassis,\npara ser utilizado pelos coremense que precisarem desse tipo de\nequipamento, com a devida prescrição medica, através da Secretaria\nde Saúde deste Município",
+            "empresa": "Nerivaldo da Costa",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Aquisição de 01 (um) aparelho de Raio\n“X” usando (devendo está em perfeito funcionamento), Aquisição de\n01 (uma) processadora automática para filmes de Raio X usado\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 83\n\n\n(devendo está em perfeito funcionamento, e aquisição dos seguintes\nacessórios “novos”: Avental, protetor de tireóide e diversos chassis,\npara ser utilizado pelos coremense que precisarem desse tipo de\nequipamento, com a devida prescrição medica, através da Secretaria\nde Saúde deste Município",
+            "empresa": "R$ 125.000,00\n(cento e vinte e cinco mil reais). Serão por conta da",
+            "valor_total": "R$ 95,000.00"
+          },
+          {
+            "objeto": "Aquisição de 01 (um) aparelho de Raio\n“X” usando (devendo está em perfeito funcionamento), Aquisição de\n01 (uma) processadora automática para filmes de Raio X usado\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 83\n\n\n(devendo está em perfeito funcionamento, e aquisição dos seguintes\nacessórios “novos”: Avental, protetor de tireóide e diversos chassis,\npara ser utilizado pelos coremense que precisarem desse tipo de\nequipamento, com a devida prescrição medica, através da Secretaria\nde Saúde deste Município",
+            "empresa": ". Partes\nassinantes: Irani A. da Silva (Pela contratante) e o Sr. Nerivaldo da\nCosta",
+            "valor_total": "R$ 95,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 9,
+        "total_gasto": 204935.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 156,
+        "num_contratos": 32,
+        "total_gasto": 2859055.56
+      },
+      "2": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 340494.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 1624895.5999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 10450.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelado de Hortifrútis para atender as\n\nnecessidades das diversas Secretarias do Município de Coremas-PB",
+            "empresa": "Joelson Rodrigues da Silva-EPP\n\n(Mercadinho JC)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 2,
+        "total_gasto": 473962.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento de medicamentos\n\n(psicotrópicos e outros), para atender a demanda nas Unidades de\n\nSaúde de Coremas, referente aos itens: 11, 25, 27, 35, 37, 38, 41 e 53",
+            "empresa": "Drogafonte Ltda-EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de\n\nmedicamentos (psicotrópicos e outros), para atender a demanda nas\n\nUnidades de Saúde de Coremas, referente ao item: 57",
+            "empresa": "Natcofarma do Brasil LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de medicamentos (psicotrópicos e outros), para\n\natender a demanda nas Unidades de Saúde de Coremas, referente ao\n\nitem: 30",
+            "empresa": "Nnmed - Distribuição, Importação e Exportação de\n\nMedicamentos LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de medicamentos (psicotrópicos e\n\noutros), para atender a demanda nas Unidades de Saúde de Coremas,\n\nreferente ao item: 24",
+            "empresa": "Panorama Comercio de Produtos Médicos e\n\nFarmacêuticos LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de medicamentos (psicotrópicos e outros), para\n\natender a demanda nas Unidades de Saúde de Coremas, referente aos\n\nitens: 04, 16 e 50",
+            "empresa": "Pharmaplus LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar\n\no fornecimento de medicamentos (psicotrópicos e outros), para\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 8\n\n\n\natender a demanda nas Unidades de Saúde de Coremas, referente aos\n\nitens: 01, 02, 05 a 10, 13 a 15, 17 a 21, 23, 28, 31 a 34, 36, 43, 45 a\n\n49, 51, 52, 54 a 56, 58 a 60",
+            "empresa": "S.P Distribuidora de Medicamentos Ltda-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de\n\nmedicamentos (psicotrópicos e outros), para atender a demanda nas\n\nUnidades de Saúde de Coremas, referente ao item: 22",
+            "empresa": "Ultra Med Distribuidora de Medicamentos Ltda-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais e\n\ninsumos hospitalares, para atender a demanda nas Unidades de Saúde\n\nde Coremas, referente ao item: 125",
+            "empresa": "Mogi Medical Equipamentos Ltda-EPP",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais e insumos hospitalares,\n\npara atender a demanda nas Unidades de Saúde de Coremas, referente\n\naos itens: 13, 33 a 35, 163, 170, 173 e 174",
+            "empresa": "Nnmed - Distribuição, Importação e Exportação de\n\nMedicamentos LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais e insumos hospitalares, para\n\natender a demanda nas Unidades de Saúde de Coremas, referente aos\n\nitens: 58, 120, 121, 123, 127, 143, 147, 149, 160, 162, 164 a 166, 171,\n\n172, 175 a 177, 181 a 186",
+            "empresa": "Dontomed Comercio de Produtos Médico\n\nHospitalares LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o\n\nfornecimento de materiais e insumos hospitalares, para atender a\n\ndemanda nas Unidades de Saúde de Coremas, referente aos itens: 23,\n\n25 e 191",
+            "empresa": "Panorama Comercio de Produtos Médicos e\n\nFarmacêuticos LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais e insumos\n\nhospitalares, para atender a demanda nas Unidades de Saúde de\n\nCoremas, referente aos itens: 66, 91 a 93",
+            "empresa": "Pharmaplus LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de\n\nmateriais e insumos hospitalares, para atender a demanda nas\n\nUnidades de Saúde de Coremas, referente aos itens: 26, 29, 78 e 79",
+            "empresa": "Potiguar Medprime Solucoes em Saude Ltda-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento de materiais e insumos\n\nhospitalares, para atender a demanda nas Unidades de Saúde de\n\nCoremas, referente aos itens: 02 a 04, 14, 18, 19, 21, 28,39, 41 a 47,\n\n49, 50 a 57, 59 a 61, 64, 65, 67 a 72, 74 a 77, 80 a 83, 85, 95 a 98, 102\n\na 104, 106 a 110, 122, 124, 126, 128 a 130, 132 a 135, 137 a 142, 144,\n\n145, 148, 150 a 159, 161, 167 a 169, 179, 180, 188 a 190 e 192",
+            "empresa": "S.P DISTRIBUIDORA DE MEDICAMENTOS\n\nLTDA-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 1,
+        "total_gasto": 204318.17,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços\n\nespecializada em assessoria na área de Educação ao Município de\n\nCoremas - PB, conforme termo de referência",
+            "empresa": "FUTURA CONSUTORIA E SERVIÇOS EIRELI",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços\n\nespecializada em assessoria na área de Educação ao Município de\n\nCoremas - PB, conforme termo de referência",
+            "empresa": "Valor mensal será R$ 3.600,00 (três mil e seiscentos reais), valor total\n\ncontratado será de R$ 10.800,00 (Dez mil e oitocentos reais).\n\nRecursos: Próprios (Diversos e Ordinários) da Prefeitura de Coremas-\n\nPB. Unidade orçamentária: Constante no QDD/2022. Vigência do\n\ncontrato para execução dos serviços: Imediato. Vigência do\n\ncontrato para efeito de pagamentos: Até 31/12/2022. Partes\n\nassinantes: Irani A. da Silva (Pela contratante) e o Sr. Huan Carlos\n\nTrindade de Souto Macedo (Pela",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços mecânico e\n\nelétrico dos veículos pertencentes a frota Municipal de Coremas - PB,\n\nconforme termo de referência",
+            "empresa": "RITA DE CÁSSIA HENRIQUE DE ARAÚJO",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços mecânico e\n\nelétrico dos veículos pertencentes a frota Municipal de Coremas - PB,\n\nconforme termo de referência",
+            "empresa": "Valor total será R$\n\n15.300,00 (quinze mil e trezentos reais). Recursos: Próprios\n\n(Diversos e Ordinários) da Prefeitura de Coremas-PB. Unidade\n\norçamentária: Constante no QDD/2022. Vigência do contrato para\n\nexecução dos serviços: Imediato. Vigência do contrato para efeito\n\nde pagamentos: Até 31/12/2022. Partes assinantes: Irani A. da Silva\n\n(Pela contratante) e o Sra. Rita de Cássia Henrique de Araújo (Pela",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar o fornecimento parcelada\n\nde gêneros alimentícios para as diversas Secretarias deste município,\n\nreferente aos Lotes: I e II",
+            "empresa": "Mercearia Lacerda & Souza Ltda-ME.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar o fornecimento parcelada de gêneros\n\nalimentícios para as diversas Secretarias deste município, referente\n\naos Lotes: III e IV",
+            "empresa": "Mercearia Lacerda & Souza Ltda-ME.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 6291330.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços parcelado no\ncorte de terra nas propriedades dos pequenos agricultores do\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 27\n\n\nmunicípio de Coremas-PB, devidamente cadastrados na\nSecretaria de Agricultura, visando o plantio para safra de 2023,\ncom 04 (quatro) tratores de pneus (Com grade aradora de 12 a 14\ndiscos), sendo uma para cada região (Norte, Sul, Leste e Oeste),\nconforme termo de referência",
+            "empresa": "OBRAPLAN\nEMPRESA DE LIMPEZA E CONSERVAÇÃO URBANA-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços parcelado no\ncorte de terra nas propriedades dos pequenos agricultores do\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 27\n\n\nmunicípio de Coremas-PB, devidamente cadastrados na\nSecretaria de Agricultura, visando o plantio para safra de 2023,\ncom 04 (quatro) tratores de pneus (Com grade aradora de 12 a 14\ndiscos), sendo uma para cada região (Norte, Sul, Leste e Oeste),\nconforme termo de referência",
+            "empresa": "R$352,000,00 (Trezentos e cinquenta e dois mil\nreais).Vigência para conclusão do Serviço:Em até 120 (cento e\nvinte) dias, contado a partir da emissão da ordem de\nserviços.Vigência do contrato:Até 18/04/2023.Fonte de\nRecursos:Próprios da Secretaria de Agricultura do Município de\nCoremas.Dotação:Secretaria Municipal de Agricultura.Partes\nass.:Irani A. da Silva (Pela contratante) e Sr. Geraldo Virgulino\nda Silva (Pela",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa\nespecializada para prestar serviços de consultas médicas\nespecializadas para o município de EMAS-PB FUNDAMENTO\nLEGAL: Pregão Presencial: nº 00001/2023",
+            "empresa": "Emas",
+            "valor_total": "R$ 1,216,830.00"
+          },
+          {
+            "objeto": "Contratação de empresa\nespecializada para prestar serviços de consultas médicas\nespecializadas para o município de EMAS-PB FUNDAMENTO\nLEGAL: Pregão Presencial: nº 00001/2023",
+            "empresa": "Emas",
+            "valor_total": "R$ 1,216,830.00"
+          },
+          {
+            "objeto": "Contratação de empresa\nespecializada para prestar serviços de consultas médicas\nespecializadas para o município de EMAS-PB FUNDAMENTO\nLEGAL: Pregão Presencial: nº 00001/2023",
+            "empresa": "CLINICA DE\nDIAGNÓSTICO POR IMAGEM EIRELI",
+            "valor_total": "R$ 1,216,830.00"
+          },
+          {
+            "objeto": "Contratação de empresa\nespecializada para prestar serviços de consultas médicas\nespecializadas para o município de EMAS-PB FUNDAMENTO\nLEGAL: Pregão Presencial: nº 00001/2023",
+            "empresa": "Emas",
+            "valor_total": "R$ 1,216,830.00"
+          },
+          {
+            "objeto": "Aquisição de\nCombustíveis destinados ao abastecimento da frota de veículos\npróprios e locados da administração pública municipal de EMAS-PB;",
+            "empresa": "ADAILTON\nFERNANDES MACHADO",
+            "valor_total": "R$ 5,074,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 182,
+        "num_contratos": 24,
+        "total_gasto": 7088097.319999999
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de mão-de-obra especializada, na\n\nrealização de um curso, destinado a formação de 150 (cento e\n\ncinquenta) professores do ensino infantil, ensino fundamental I (1º a\n5º ano), ensino fundamental II (6º a 9º ano), e do EJA, com duração\n\nmínima de 20 (vinte) horas, tendo como público alvo os educadores\n\nque compõem a rede municipal de ensino do município de Coremas-\n\nPB, conforme termo de referência",
+            "empresa": "Sodic-Sociedade Para o Desenvolvimento\n\nIntegrado nas Cidades Ltda-ME",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar\n\nserviços na realização de um Show do cantor e Banda/artista\n\n“Alanzim Coreano” (data: 04/04/2023, para serem realizados em via\n\npública dentro da festividade da emancipação Política da cidade de\n\nCoremas-PB",
+            "empresa": "ALANZIM COREANO PRODUÇÕES\n\nLTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar\n\nserviços na realização de um Show do cantor e Banda/artista\n\n“Alanzim Coreano” (data: 04/04/2023, para serem realizados em via\n\npública dentro da festividade da emancipação Política da cidade de\n\nCoremas-PB",
+            "empresa": "R$\n\n40.000,00 (Quarenta mil reais) pelo 01 (um) show.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do\n\ncantor e Banda/artista “RAFAEL DONO” (data: 04/04/2023, para\n\nserem realizados em via pública dentro da festividade da emancipação\n\nPolítica da cidade de Coremas-PB",
+            "empresa": "RANIERI NOBREGA FERREIRA\n\n(RANIERI PRODUÇÕES",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do\n\ncantor e Banda/artista “RAFAEL DONO” (data: 04/04/2023, para\n\nserem realizados em via pública dentro da festividade da emancipação\n\nPolítica da cidade de Coremas-PB",
+            "empresa": "R$ 17.000,00 (Dezessete mil reais) pelo 01\n\n(um) show.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do cantor e\n\nBanda/artista “Padre Damião Silva” (data: 03/04/2023), para serem\n\nrealizados em via pública dentro da festividade da emancipação\n\nPolítica da cidade de Coremas-PB",
+            "empresa": "EDUARDO HENRIQUE DE A SILVA\n\n(MUSICATO PRODUÇÕES)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do cantor e\n\nBanda/artista “Padre Damião Silva” (data: 03/04/2023), para serem\n\nrealizados em via pública dentro da festividade da emancipação\n\nPolítica da cidade de Coremas-PB",
+            "empresa": "R$ 23.000,00 (Vinte e três mil reais), pelo 01 (um)\n\nshow.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do cantor e\n\nBanda/artista “JONAS BEZERRA E ARTISTAS DE POETAS\n\nREPENTISTAS” (data: 02/04/2023), para serem realizados em via\n\npública dentro da festividade da emancipação Política da cidade de\n\nCoremas-PB",
+            "empresa": "JONAS ALVES RODRIGUES (JB\n\nPRODUÇÕES ARTISTICAS)",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços na realização de um Show do cantor e\n\nBanda/artista “JONAS BEZERRA E ARTISTAS DE POETAS\n\nREPENTISTAS” (data: 02/04/2023), para serem realizados em via\n\npública dentro da festividade da emancipação Política da cidade de\n\nCoremas-PB",
+            "empresa": "R$ 18.000,00 (Dezoito mil reais), pelo 01 (um)\n\nshow.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar serviços de assessoria e\n\nconsultoria técnica especializada na área de contabilidade pública,\n\nplanejando, elaborando e acompanhando, até a decisão final, dos atos\n\ne fatos junto ao Tribunal de Contas do Estado da Paraíba, ficando a\n\nescrituração contábil por conta de técnicos da própria Edilidade,\n\ndurante o presente exercício, junto a Prefeitura Municipal e ao Fundo\n\nMunicipal de Saúde, extensivo a prestação de contas anuais,\n\nbalancete, relatório de gestão fiscal, relatório resumido de execução\n\norçamentária, plano plurianual, lei de diretrizes orçamentárias e lei\n\norçamentária anual, conforme entendimento do Conselho Federal de\n\nContabilidade, para o município de Coremas-PB, conforme termo de\n\nreferência",
+            "empresa": "SOUSA CONTABILIDADE PUBLICA\n\nEIRELI-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prestar serviços de assessoria e\n\nconsultoria técnica especializada na área de contabilidade pública,\n\nplanejando, elaborando e acompanhando, até a decisão final, dos atos\n\ne fatos junto ao Tribunal de Contas do Estado da Paraíba, ficando a\n\nescrituração contábil por conta de técnicos da própria Edilidade,\n\ndurante o presente exercício, junto a Prefeitura Municipal e ao Fundo\n\nMunicipal de Saúde, extensivo a prestação de contas anuais,\n\nbalancete, relatório de gestão fiscal, relatório resumido de execução\n\norçamentária, plano plurianual, lei de diretrizes orçamentárias e lei\n\norçamentária anual, conforme entendimento do Conselho Federal de\n\nContabilidade, para o município de Coremas-PB, conforme termo de\n\nreferência",
+            "empresa": "R$ 61.600,00 (Sessenta e um mil, e seiscentos reais),\n\npelos os 08 (oito) meses.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 461277.19999999995,
+        "empresas_mensais": [
+          {
+            "objeto": "contratação de uma pessoa jurídica para prestar serviços\nparcelado em forma de locação do veículo Cruze 2012, CHASSI\n\n9BGPN6M0CB342030, Renavan 00499203402, Placas QFH7434,\n\npara atender a demanda da Secretaria Municipal da Secretaria de\nMobilidade Urbana, referente ao item 01 –",
+            "empresa": "Maria Aparecida Moreira de Andrade -ME",
+            "valor_total": "R$ 17,493.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 2,
+        "total_gasto": 40409.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 94909.84,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 157680.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 2,
+        "total_gasto": 42491.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 5,
+        "total_gasto": 149153.45,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar\n\nserviços de engenharia na Execução de construção de consultório\n\nmédico na Comunidade do Sangradouro no Município de Coremas-\n\nPB, conforme planilha orçamentária de custo.Fonte de Recursos:\n\nEmenda Impositiva nº 09/2022; Emenda Impositiva nº 07/2022 e\n\nPróprio (Diversos) do Município",
+            "empresa": "R$\n\n53.044,86 (Cinquenta e três mil, quarenta e quatro reais e oitenta e\n\nseis centavos).Vigência para conclusão dos Serviços:Em até 03\n\n(três) meses, contado a partir da emissão da ordem de\n\nserviços.Vigência do contrato:Até 30/04/2024.Fonte de\n\nrecurso:Próprios do Município de Coremas (Diversos\n\nOrdinários).Dotação:SECRETARIA MUNICIPAL DE SAÚDE.\n\nPartes ass.: Irani Alexandrino da Silva (Pela contratante) e Sr.\n\nGustavo José Elias Batista Oliveira (Pela",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "O objeto do presente instrumento é a Contratação de solução\n\nde tecnologia da informação e comunicação de empresa especializada\n\nna prestação de implantação, manutenção e suporte de licença de uso\n\nde ferramenta web responsiva contemplando portal oficial do\n\nmunicípio que disponibilize informações de licitações de licitações,\n\nreceita, despesa, folha de pagamento, portarias, perguntas frequentes,\n\nconselhos municipais, convênios, decretos, leis, frota de veículos,\n\nguias da cidade, notícias, LFR (Lei de Responsabilidade Fiscal), e-sic\n\n(sistema de informação do cidadão); ouvidoria (integrado do site);\n\nlicitação transparente; obras transparente; protocolo on-line, diário\n\noficial e hospedagem do portal institucional da prefeitura municipal\n\nde Coremas",
+            "empresa": "C RENATO M SILVA (MS SOLUÇÕES), C.N.P.J/MF\n\nsob o nº 21.537.778/0001-29;\n\nValor: R$19.200,00 (dezenove mil e duzentos reais).",
+            "valor_total": "R$ 19,200.00"
+          },
+          {
+            "objeto": "Contratação de empresa para realização de treinamento e\n\ncapacitação para Secretários e servidores da administração em\n\nComunicação Política Institucional com o intuito de organizar os\n\nprocessos institucionais internos e externos na busca de otimizar as\n\ndemandas da referida instituição com a finalidade destravar os\n\nprocessos administrativos, bem como, haja desenvolvimento das\n\nhabilidades de liderança, comunicação interpessoal, e de linguagem\n\nescrita e falada",
+            "empresa": "JOSÉ FAGNY FERNANDES DE OLIVEIRA",
+            "valor_total": "R$ 30,000.00"
+          },
+          {
+            "objeto": "Contratação de empresa para fornecimento de condimentos,\n\nervas, especiarias para as diversas secretarias do Município de\n\nCoremas – PB",
+            "empresa": "GYRUS 369 COMÉCIO E SERVIÇO LTDA",
+            "valor_total": "R$ 58,493.45"
+          },
+          {
+            "objeto": "Contratação de empresa para prestar serviços de engenharia\n\nno reparo de vias e logradouros públicos e outros serviços no\n\nMunicípio de Coremas - PB",
+            "empresa": "OBRAPLAN EMPRESA DE LIMPEZA E\n\nCONSERVACAO URBANA LTDA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa para prestar serviço de assessoria e\n\ncapacitação ao departamento de transportes do município, além de\n\nimplantação de sistema de controle de gastos com combustível,\n\ndurante o exercício de 2024",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO PÚBLICA LTDA",
+            "valor_total": "R$ 29,500.00"
+          },
+          {
+            "objeto": "contratação de empresa para aquisição parcelada\n\nde materiais médicos hospitalares para atender os serviços da\n\nsecretaria de saúde do município de Coremas-PB",
+            "empresa": "S.P DISTRIBUIDORA D\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 179,
+        "num_contratos": 266,
+        "total_gasto": 25354285.100000016
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 21,
+        "total_gasto": 2627542.18,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nCOMPOR OS ITENS DE PREPARO DA MERENDA ESCOLAR\n\nDO MUNICÍPIO DE COREMAS-PB, NO ANO DE 2024",
+            "empresa": "RITA\n\nMARIA DE LACERDA SOUZA",
+            "valor_total": "R$ 1,852,150.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nCOMPOR OS ITENS DE PREPARO DA MERENDA ESCOLAR\n\nDO MUNICÍPIO DE COREMAS-PB, NO ANO DE 2024",
+            "empresa": "ANTONIO FRANCISCO MATIAS",
+            "valor_total": "R$ 1,852,150.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nCOMPOR OS ITENS DE PREPARO DA MERENDA ESCOLAR\n\nDO MUNICÍPIO DE COREMAS-PB, NO ANO DE 2024",
+            "empresa": "JOELSON TAVARES DE ALMEIDA -\n\nR$ 72.350,00; CT Nº 00093/2024 - 23.02.24 - REBEKA RANDALA\n\nPINHEIRO DE FREITAS",
+            "valor_total": "R$ 1,852,150.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA\n\nCOMPOR OS ITENS DE PREPARO DA MERENDA ESCOLAR\n\nDO MUNICÍPIO DE COREMAS-PB, NO ANO DE 2024",
+            "empresa": "CT Nº\n\n00095/2024 - 23.02.24 - JOSE PETRONIO FAUSTINO DE SOUZA\n\n- R$ 78.000,00; CT Nº 00096/2024 - 23.02.24 - WS COMERCIO E\n\nSERVICOS LTDA",
+            "valor_total": "R$ 1,852,150.00"
+          },
+          {
+            "objeto": "O objeto da presente dispensa é a escolha da proposta mais\n\nvantajosa para Contratação de empresa para prestar serviço de\n\nassessoria e capacitação ao departamento de transportes do município,\n\nalém de implantação de sistema de controle de gastos com\n\ncombustível, durante o exercício de 2024",
+            "empresa": "HC2 SOLUÇÕES EM GESTÃO PÚBLICA LTDA",
+            "valor_total": "R$ 29,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 52,
+        "total_gasto": 5409640.9399999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 17,
+        "num_contratos": 19,
+        "total_gasto": 7710649.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 12,
+        "total_gasto": 1152020.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 65,
+        "total_gasto": 3342156.5500000003,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\nPB",
+            "empresa": "INFORDIGI SOLUCOES EM\n\nINFORMATICA LTDA | Tipo: ME",
+            "valor_total": "R$ 19,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\nPB",
+            "empresa": "3S SECURITY TECNOLOGIA\n\nSEGURANCA E SERVICOS LTDA | Tipo: ME",
+            "valor_total": "R$ 1,598.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "CATFELLI DESIGN COMERCIO\n\nLTDA | Tipo: ME",
+            "valor_total": "R$ 16,215.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "DANTAS ELETROMOVEIS E\nEQUIPAMENTOS LTDA | Tipo:",
+            "valor_total": "R$ 29,542.74"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "- LUMIAR HEALTH BUILDERS\n\nEQUIPAMENTOS HOSPITALARES LTDA",
+            "valor_total": "R$ 3,800.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "M CARREGA COMÉRCIO DE\n\nPRODUTOS HOSPITALARES | Tipo: ME",
+            "valor_total": "R$ 1,756.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\nPB",
+            "empresa": "M.K.R. COMERCIO DE\n\nEQUIPAMENTOS EIRELI | Tipo:",
+            "valor_total": "R$ 990.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\nPB",
+            "empresa": "NADJA MARINA PIRES | Tipo:",
+            "valor_total": "R$ 3,768.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "NORDESTE MEDICAL,\n\nREPRESENTACAO, IMPORTACAO E EXPORTACAO DE\n\nPRODUTOS HOSPITALARES LTDA | Tipo: Ltda/Eireli",
+            "valor_total": "R$ 5,785.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\nPB",
+            "empresa": "ODONTOMED COMERCIO DE\n\nPRODUTOS MEDICO HOSPITALARES LTDA",
+            "valor_total": "R$ 4,517.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA DE SAÚDE DO MUNICÍPIO DE COREMAS –\n\nPB",
+            "empresa": "PADRAO DISTRIBUIDORA DE\n\nPRODUTOS E EQUIPAMENTOS HOSPITALARES PADRE\n\nCALLOU LTDA | TIPO: LTDA/EIRELI",
+            "valor_total": "R$ 2,779.20"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "EUTICA ATACADISTA DE\n\nMEDICAMENTOS E MATERIAL HOSPITALAR",
+            "valor_total": "R$ 28,158.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "EXPRESS DISTRIBUIDORA DE\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 913.66"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "JOELSON TAVARES DE ALMEIDA\n– ME",
+            "valor_total": "R$ 77,899.19"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "KANIA COMERCIO DE PRODUTOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 4,058.60"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "TECNOCENTER MATERIAIS\n\nMEDICOS HOSPITALARES LTDA",
+            "valor_total": "R$ 1,326.48"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE FORMULA INFANTIL, LEITES E\n\nSUPLEMENTOS ESPECIAIS, FRALDAS E MATERIAL DE\n\nHIGIENE PESSOAL, PARA ATENDER AS NECESSIDADES\n\nDE DIVERSAS SECRETARIAS DE COREMAS - PB",
+            "empresa": "VIEIRA & CIA DISTRIBUIDORA\n\nLTDA",
+            "valor_total": "R$ 13,076.80"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "DANTAS ELETROMOVEIS E\n\nEQUIPAMENTOS LTDA | Tipo:",
+            "valor_total": "R$ 28,917.06"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "C A INFORMATICA LTDA | Tipo:",
+            "valor_total": "R$ 2,190.64"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "DIAS & VICTOR LICITACOES\nLTDA | Tipo: ME",
+            "valor_total": "R$ 9,180.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "FORMIGARI COMERCIO DE\n\nMOVEIS LTDA | Tipo: ME",
+            "valor_total": "R$ 12,250.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "M B TAVARES BARRETO LTDA |\n\nTipo: ME",
+            "valor_total": "R$ 6,000.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL\n\nPERMANENTE PARA ATENDER AS NECESSIDADES DA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 27\n\n\nSECRETÁRIA MUNICIPAL DE EDUCAÇÃO E DE\n\nDESENVOLVIMENTO SOCIAL E HUMANO DO MUNICÍPIO\n\n- PB",
+            "empresa": "MEIRE RODRIGUES DA SILVA |\nTipo: ME",
+            "valor_total": "R$ 596.35"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 19,
+        "num_contratos": 23,
+        "total_gasto": 482492.19,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\nDE SERVIÇOS TÉCNICOS DE APOIO ADMINISTRATIVO AO\n\nSETOR DE CONTRATAÇÕES E DE CONTROLE\n\nGOVERNAMENTAL, PARA ATENDER AS NECESSIDADES DA\nPREFEITURA DE COREMAS",
+            "empresa": "54.330.502 WILLAME DE FRANÇA\n\nDE ALMEIDA",
+            "valor_total": "R$ 33,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 25,
+        "total_gasto": 1043818.95,
+        "empresas_mensais": [
+          {
+            "objeto": "Objeto do presente procedimento é a escolha da proposta mais\n\nvantajosa para a contratação de uma empresa para AQUISIÇÃO DE\n\nAPARELHOS DE AR CONDICIONADO TIPO 9.000 BTUS 220\n\nVOLTS, 12.000 BTUS 220 VOLTS E BEBEDOUROS DE ÁGUA\n\nDE PAREDE DESTINADO ÀS SECRETARIAS DA PREFEITURA\n\nDE COREMAS/PB, para conforme condições, quantidades e\nexigências estabelecidas neste Aviso de Contratação Direta e seus\n\nanexos",
+            "empresa": "Infordigi Soluções em Informática",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Objeto do presente procedimento é a escolha da proposta mais\n\nvantajosa para a contratação de uma empresa para AQUISIÇÃO DE\n\nAPARELHOS DE AR CONDICIONADO TIPO 9.000 BTUS 220\n\nVOLTS, 12.000 BTUS 220 VOLTS E BEBEDOUROS DE ÁGUA\n\nDE PAREDE DESTINADO ÀS SECRETARIAS DA PREFEITURA\n\nDE COREMAS/PB, para conforme condições, quantidades e\nexigências estabelecidas neste Aviso de Contratação Direta e seus\n\nanexos",
+            "empresa": "Emanoel Gomes Ferreira.",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Prorrogação do prazo de vigência do contrato n°144/2023 por\n\nmais 12(doze) meses, comtemplando-se, nesta ocasião, o período de\n\n19/07/2024 a 19/07/2025, através do qual o mesmo atingirá seu\nperíodo de 20(vinte) meses, com acréscimo de",
+            "empresa": "Valério Júnior Ferreira Alves",
+            "valor_total": "R$ 17,493.00"
+          },
+          {
+            "objeto": "Objeto do presente procedimento é a escolha da proposta mais\n\nvantajosa para a contratação de uma empresa para aquisição de\nutensílios domésticos, para atender as necessidades das secretárias do\n\nmunicípio de Coremas/PB, para conforme condições, quantidades e\n\nexigências estabelecidas neste Aviso de Contratação Direta e seus\n\nanexos",
+            "empresa": "Pedro Ferreira Paiva",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "APS SOLUCOES EM\n\nCOMUNICACAO VISUAL LTDA",
+            "valor_total": "R$ 93,445.25"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "DECK GRAFICA E EDITORA LTDA",
+            "valor_total": "R$ 3,562.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "GLOBAL INDUSTRIAS LTDA",
+            "valor_total": "R$ 20,500.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS - PB",
+            "empresa": "41.968.551 THALLITA EWLIN\n\nMEDEIROS DE ARAUJO",
+            "valor_total": "R$ 26,414.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "JOSE IVAN DOS SANTOS JUNIOR\n\nEIRELI",
+            "valor_total": "R$ 67,194.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS - PB",
+            "empresa": "CAVALCANTE SOUTO ARTIGOS\n\nDE PAPELARIA LTDA",
+            "valor_total": "R$ 70,554.75"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "RIPERS COMERCIO DE\n\nMATERIAIS HIDRAULICOS LTDA",
+            "valor_total": "R$ 4,700.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "S F DE SOUZA IMPRESSOS",
+            "valor_total": "R$ 101,063.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL GRÁFICO PARA\n\nATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS – PB",
+            "empresa": "TGM GRAFICA E EDITORA EIRELI",
+            "valor_total": "R$ 25,977.50"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS - PB",
+            "empresa": "FACILITA SERVICOS GERAIS\n\nLTDA",
+            "valor_total": "R$ 1,520.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS - PB",
+            "empresa": "PAPELARIA CAJAZEIRAS LTDA",
+            "valor_total": "R$ 87,797.95"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE\n\nPARA ATENDER AS NECESSIDADES DE TODAS AS\n\nSECRETARIAS DA PREFEITURA DE COREMAS - PB",
+            "empresa": "TOP ESPORTE COMERCIO DE\n\nARTIGOS ESPORTIVOS LTDA",
+            "valor_total": "R$ 42,525.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 1290875.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 8,
+        "total_gasto": 676187.5,
+        "empresas_mensais": [
+          {
+            "objeto": "prorrogação do prazo de vigência do Contrato 115/2021, na\n\nforma do art",
+            "empresa": "ECOTRES SERVIÇOS DE ENGENHARIA TRATAMENTO E\n\nCOLETA DE RESÍDUOS EIRELI",
+            "valor_total": "R$ 408,024.00"
+          },
+          {
+            "objeto": "Aquisição de veículos automotivo\n\nutilitário, tipo hatch, com recursos oriundos da Emenda Parlamentar\n\n276/2024, para reforçar a frota de veículos da Secretaria de Saúde do\n\nMunicípio de Coremas/PB, visando auxiliar no translado dos\n\nmunícipes, tanto no transporte intramunicipal, quanto intermunicipal,\n\nreferente ao item 01 –",
+            "empresa": "CARNEIRO VEICULOS AUTOMOTORES LTDA",
+            "valor_total": "R$ 166,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 71438.0,
+        "empresas_mensais": [
+          {
+            "objeto": "aquisição de equipamentos para\ninstalação de um telecentro entre os bairros Cabo Branco e Alto da\nBoa Vista da cidade de Coremas/PB, referente aos itens 01 a 09",
+            "empresa": "INFORDIGI SOLUCOES EM INFORMATICA LTDA",
+            "valor_total": "R$ 38,688.00"
+          },
+          {
+            "objeto": "A locação de 01 (um) veículo com condutor devidamente\nhabilitado, do tipo van, com capacidade de no mínim´14passageiro,\nmovido à diesel, emplacado, revisado, bom estado de conservação\ncom no máximo 15 anos de uso, para transporte de segunda a sexta,\ndos alunos da barra de Oitís até a escola estadual Ecit Adilina De\nSousa Diniz",
+            "empresa": "GT TURISMO LTDA (VALE VENS)",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 1398309.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

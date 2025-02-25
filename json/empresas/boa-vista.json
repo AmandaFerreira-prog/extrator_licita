@@ -1,0 +1,1409 @@
+{
+  "id": "boa-vista",
+  "nome": "Boa Vista",
+  "detalhe": {
+    "2014": {
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 47685.979999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 139,
+        "num_contratos": 108,
+        "total_gasto": 5402460.259999998
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 84521.1,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 182068.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 246646.36,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 25,
+        "total_gasto": 1118776.7000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 346587.18,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 28,
+        "total_gasto": 2916154.05,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 7,
+        "total_gasto": 7645.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 115211.57,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 10,
+        "total_gasto": 337162.81,
+        "empresas_mensais": [
+          {
+            "objeto": "Realizar01 (UM) SHOW ARTÍSTICO EM PRAÇA\nPÚBLICA (NO CORETO DA PRAÇA BOM JESUS), COM A\nBANDAFORRÓ DO VALLE DURANTE AS\nCOMEMORAÇÕES ALUSIVAS À FESTA DE REVEILLON\n2014/2015",
+            "empresa": "IVANDRO OLIVEIRA DE ARAÚJO",
+            "valor_total": "R$ 8,500.00"
+          },
+          {
+            "objeto": "Realizar01 (UM) SHOW ARTÍSTICO EM PRAÇA\nPÚBLICA (NO CORETO DA PRAÇA BOM JESUS), COM A\nBANDAMAGIA DURANTE AS COMEMORAÇÕES ALUSIVAS\nÀ FESTA DE REVEILLON 2014/2015",
+            "empresa": "JN PRODUÇÕES E EVENTOS",
+            "valor_total": "R$ 8,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 101850.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 143,
+        "num_contratos": 147,
+        "total_gasto": 7038966.190000003
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 24,
+        "total_gasto": 2264910.6199999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 43,
+        "total_gasto": 2287296.67,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES DA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - ÔNIBUS -, CONDUTOR,\nCOMBUSTÍVEL E MANUTENÇÃO), COM DESTINO ÀS\nUNIDADES ESCOLARES DURANTE O ANO LETIVO DE\n2015, ATENDENDO AS SEGUINTES COMUNIDADES\nRURAIS: SANTA ROSA, BOM-NOME E MALHADINHA\nPARA A SEDE DO MUNICÍPIO NO TURNO VESPERTINO",
+            "empresa": "MACIEL GUIMARÃES FERREIRA",
+            "valor_total": "R$ 57,038.40"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES DA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - ÔNIBUS -, CONDUTOR,\nCOMBUSTÍVEL E MANUTENÇÃO), COM DESTINO ÀS\nUNIDADES ESCOLARES DURANTE O ANO LETIVO DE\n2015, ATENDENDO AS SEGUINTES COMUNIDADES\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             2\n\nRURAIS: CALUETE, VICENTES, FURNINHAS, LOPES,\nGUEDES e RIACHO FUNDO PARA A SEDE DO MUNICÍPIO\nNO TURNO NOTURNO",
+            "empresa": "MARIZALDO ALMEIDA SAMPAIO",
+            "valor_total": "R$ 54,306.00"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES DA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - ÔNIBUS -, CONDUTOR,\nCOMBUSTÍVEL E MANUTENÇÃO), COM DESTINO ÀS\nUNIDADES ESCOLARES DURANTE O ANO LETIVO DE\n2015, ATENDENDO AS SEGUINTES COMUNIDADES\nRURAIS: FURNINHAS, CALUETE e GUEDES PARA A SEDE\nDO MUNICÍPIO NO TURNO VESPERTINO",
+            "empresa": "DULCINÉIA BARBOSA SAMPAIO",
+            "valor_total": "R$ 48,953.20"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES DA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - ÔNIBUS -, CONDUTOR,\nCOMBUSTÍVEL E MANUTENÇÃO), COM DESTINO ÀS\nUNIDADES ESCOLARES DURANTE O ANO LETIVO DE\n2015, ATENDENDO AS SEGUINTES COMUNIDADES\nRURAIS: CACIMBA NOVA, SÃO PEDRO e JUÁ PARA A\nSEDE DO MUNICÍPIO NO TURNO VESPERTINO",
+            "empresa": "XISTO CORREIA GUEDES DA SILVA",
+            "valor_total": "R$ 35,728.00"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES DA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - ÔNIBUS -, CONDUTOR,\n\nCOMBUSTÍVEL E MANUTENÇÃO), COM DESTINO ÀS\nUNIDADES ESCOLARES DURANTE O ANO LETIVO DE\n2015, ATENDENDO AS SEGUINTES COMUNIDADES\nRURAIS: MALHADA E CACIMBA NOVA PARA A ESCOLA\nMUNICIPAL SEVERINO TAVARES DA SILVA NOS TURNOS\nMATINAL E VESPERTINO",
+            "empresa": "CLOVIS DE ARAÚJO BARBOSA JUNIOR",
+            "valor_total": "R$ 44,308.80"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nJUÁ, LAGOA e CACIMBA NOVA PARA AS ESCOLAS\nMUNICIPAIS SEVERINO TAVARES DA SILVA, NO SÍTIO\nCACIMBA NOVA E SEBASTIÃO PEREIRA DE ALMEIDA,\nNO SÍTIO SÃO PEDRO, NOS HORÁRIO(S): MATINAL E\nVESPERTINO",
+            "empresa": "ANTÔNIO DE ARAÚJO BARBOSA",
+            "valor_total": "R$ 33,690.88"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nOVELHAS E SIBIUS PARA A ESCOLA MUNICIPAL\nFRANCISCO SULPINO DE ARAÚJO, NOS HORÁRIO(S):\nMATINAL E VESPERTINO",
+            "empresa": "ARIELA ALMEIDA DE OLIVEIRA",
+            "valor_total": "R$ 26,440.12"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nSETOR DE SEVERINO LUÍS, CALUETE DOS LOPES,\nFURNINHAS e VICENTES PARA A ESCOLA MUNICIPAL\nFRANCISCO SULPINO DE ARAÚJO, NO SÍTIO CALUETE,\nNO HORÁRIO:  VESPERTINO",
+            "empresa": "AILTON SAMPAIO DE ARAÚJO",
+            "valor_total": "R$ 22,788.21"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nSETOR DE SEVERINO LUÍS, CALUETE DOS LOPES e\nVICENTES PARA A ESCOLA MUNICIPAL FRANCISCO\nSULPINO DE ARAÚJO, NO SÍTIO CALUETE, NO HORÁRIO:\nMATINAL",
+            "empresa": "JOSÉ JOAB DE SOUSA SAMPAIO",
+            "valor_total": "R$ 24,911.96"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nOLHO D'ÁGUA, FARINHA e CARRETÃO PARA A ESCOLA\nMUNICIPAL JOÃO LEITE GOMES, NO SÍTIO OLHO\nD'ÁGUA E PARA A ESCOLA FRANCISCA LEITE\n\nVITORINO, NA SEDE DO MUNICÍPIO, NOS HORÁRIO(S):\nMATINAL E VESPERTINO",
+            "empresa": "JOSEMAR BORBUREMA",
+            "valor_total": "R$ 40,719.88"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nRIACHO FUNDO e URUBU PARA A ESCOLA FRANCISCA\nLEITE VITORINO, NA SEDE DO MUNICÍPIO, NO\nHORÁRIO: MATINAL",
+            "empresa": "CÉLIO FREITAS FRANÇA",
+            "valor_total": "R$ 23,427.36"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nJUÁ E MALHADA COM DESTINO AO ABRIGO DA\nESTRADA VICINAL DO ASSENTAMENTO DA MALHADA,\nONDE TOMARÃO OUTRO TRANSPORTE, COM DESTINO À\nESCOLA MUNICIPAL FRANCISCA LEITE VITORINO, NA\nSEDE DO MUNICÍPIO, NOS HORÁRIO(S): VESPERTINO E\nNOTURNO",
+            "empresa": "JOÃO PAULO GOMES DE OLIVEIRA",
+            "valor_total": "R$ 34,182.72"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - KOMBIS, VANS OU\nSIMILARES -, CONDUTOR, COMBUSTÍVEL E\nMANUTENÇÃO), COM DESTINO ÀS UNIDADES\nESCOLARES, DURANTE O ANO LETIVO DE 2015,\nATENDENDO AS SEGUINTES COMUNIDADES RURAIS:\nJUÁ E MALHADA COM DESTINO À ESCOLA MUNICIPAL\nSEVERINO TAVARES DA SILVA, NO SÍTIO CACIMBA\nNOVA, NOS HORÁRIO(S): MATINAL E VESPERTINO",
+            "empresa": "JÉSSICA KAROLINE ASSIS GOMES",
+            "valor_total": "R$ 28,087.48"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: RIACHO FUNDO E CACIMBA\nNOVA PARA A ESCOLA MUNICIPAL SEVERINO TAVARES\nDA SILVA, NOS HORÁRIOS: MATINAL E VESPERTINO",
+            "empresa": "ANTÔNIO CAITANO DA SILVA",
+            "valor_total": "R$ 21,550.81"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: SÃO BENTO E RIACHÃO DOS\nBATISTAS PARA A ESCOLA MUNICIPAL ANTÔNIO ZUZA\nSAMPAIO E RIACHO DO AÇUDE PARA A SEDE DO\nMUNICÍPIO, NOS HORÁRIOS: MATINAL E VESPERTINO",
+            "empresa": "JOÃO PAULO ALCÂNTARA ARAÚJO",
+            "valor_total": "R$ 42,745.06"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: RIACHO FUNDO PARA A BR-412,\nPARA TOMAREM OUTRO TRANSPORTE COM DESTINO À\nSEDE DO MUNICÍPIO, ONDE ESTUDAM, NOS HORÁRIOS:\nVESPERTINO E NOTURNO",
+            "empresa": "PAULO GONZAGA SAMPAIO",
+            "valor_total": "R$ 11,840.09"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: INOCÊNCIOS e ASSENTAMENTO\nSÃO VICENTE PARA A ESCOLA MUNICIPAL FRANCISCO\nSULPINO DE ARAÚJO, NOS HORÁRIOS: VESPERTINO",
+            "empresa": "BIMARÁSIO FÁBIO DA COSTA",
+            "valor_total": "R$ 18,190.98"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: SÃO JOÃOZINHO E SÃO BENTO\nPARA A ESCOLA MUNICIPAL JOÃO PEREIRA DA COSTA,\nNO HORÁRIO: MATINAL",
+            "empresa": "MARLUCE PEREIRA DA SILVA ARAÚJO",
+            "valor_total": "R$ 17,127.18"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: JUÁ, RABICHA, LAGES,\nROÇADO DO MATO E SANTO ANTÔNIO PARA A SEDE DO\nMUNICÍPIO, ONDE ESTUDAM, NOS HORÁRIOS: MATINAL,\nVESPERTINO E NOTURNO",
+            "empresa": "EDILSON DE ARAÚJO NASCIMENTO",
+            "valor_total": "R$ 32,954.16"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: POÇO VERDE, ALTO DOS\nJOVENS, AÇUDE e SEIXOS BRANCOS COM DESTINO À\nESCOLA MUNICIPAL FRANCISCA LEITE VITORINO, NOS\nHORÁRIOS: VESPERTINO E NOTURNO",
+            "empresa": "JAELSON RODRIGUES DE CARVALHO",
+            "valor_total": "R$ 22,458.00"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\n\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: SÃO BENTO e SÃO JOÃOZINHO\nPARA A ESCOLA MUNICIPAL JOÃO PEREIRA DA COSTA\nE PARA A BR-412, PARA TORMAREM OUTRO\nTRANSPORTE COM DESTINO À SEDE DO MUNICÍPIO,\nNOS HORÁRIOS: VESPERTINO E NOTURNO",
+            "empresa": "NILTON PEREIRA DA COSTA",
+            "valor_total": "R$ 18,586.95"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: MINEIRO, CAIÇARA, LAGOA DO\nCANTO E BATATAS PARA A ESCOLA MUNICIPAL JOSÉ\nPEREIRA DE OLIVEIRA, NOS HORÁRIOS: MATINAL E\nVESPERTINO",
+            "empresa": "JOÃO ARAÚJO DE LIMA",
+            "valor_total": "R$ 22,339.80"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: BRAVO e PUXINANÃ COM\nDESTINO À ESCOLA MUNICIPAL SANTINO LUÍS DE\nOLIVEIRA E À SEDE DO MUNICÍPIO, NOS HORÁRIOS:\nMATINAL E VESPERTINO",
+            "empresa": "DORGIVAL JOSÉ ARAÚJO SILVA",
+            "valor_total": "R$ 22,339.80"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: BARRA, MALHADINHA PARA A\nESCOLA MUNICIPAL CÍCERO ANDRÉ DE OLIVEIRA, E DA\nMALHADINHA PARA A BR-412 PARA TOMAREM OUTRO\nTRANSPORTE COM DESTINO À SEDE DO MUNICÍPIO, NO\nHORÁRIO: MATINAL",
+            "empresa": "INÁCIO PEREIRA DE OLIVEIRA",
+            "valor_total": "R$ 29,569.70"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: SÃO JOÃOZINHO E POÇO DE\nPDERA PARA A ESCLA MUNICIPAL JOSÉ PEREIRA DE\nOLIVEIRA, E PARA A BR-412 PARA TOMAREM OUTRO\nTRANSPORTE COM DESTINO À SEDE DO MUNICÍPIO,\nNOS HORÁRIOS: MATINAL E VESPERTINO",
+            "empresa": "WESLEY PEREIRA MEIRA",
+            "valor_total": "R$ 20,298.88"
+          },
+          {
+            "objeto": "PRESTAR OS SERVIÇOS DE TRANSPORTE DE\nESTUDANTES NA ZONA RURAL DO MUNICÍPIO DE BOA\nVISTA, (INCLUINDO VEÍCULO - PASSEIO OU SIMILARES -,\nCONDUTOR, COMBUSTÍVEL E MANUTENÇÃO), COM\nDESTINO ÀS UNIDADES ESCOLARES, DURANTE O ANO\nLETIVO DE 2015, ATENDENDO AS SEGUINTES\nCOMUNIDADES RURAIS: POÇO DO JUÁ, RIACHÃO e SÃO\nBENTO PARA A SEDE DO MUNICÍPIO, NO HORÁRIO:\nVESPERTINO",
+            "empresa": "JOSÉ LIBÓRIO GOMES FILHO",
+            "valor_total": "R$ 36,234.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 21,
+        "total_gasto": 675656.99,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 16,
+        "total_gasto": 471987.98000000004,
+        "empresas_mensais": [
+          {
+            "objeto": "FornecerREFEIÇÕES (ALMOÇO), AO LONGO DO\nEXERCÍCIO DE 2015, DESTINADAS AOS MOTORISTAS\nLOTADOS NAS SECRETARIAS DE EDUCAÇÃO, OBRAS,\nSAÚDE E DE AÇÃO SOCIAL, QUE DIARIAMENTE SE\nDESLOCAM PARA A CIDADE DE CAMPINA GRANDE, NOS\nHORÁRIOS MATINAL, VESPERTINO E NOTURNO, BEM\nCOMO SERVIDORES DA SECRETARIA DE\nADMINISTRAÇÃO DESIGNADOS A CONDUZIR\nDOCUMENTOS DESTA PREFEITURA COM DESTINO AOS\nÓRGÃOS DA JUSTIÇA, INSTITUIÇÕES FINANCEIRAS E\nOUTROS QUE SE FAÇAM NECESSÁRIOS, SEM FAZER JUS\nÀ DIÁRIAS",
+            "empresa": "LUCICRERES ARAÚJO MEDEIROS",
+            "valor_total": "R$ 6,000.00"
+          },
+          {
+            "objeto": "FORNECER PEÇAS PARA RECUPERAÇÃO DE\nPOÇOS CONTRATAÇÃO DE EMPRESA PARA FORNECER\nPEÇAS PARA RECUPERAÇÃO E/OU INSTALÇÃO DE\nPOÇOS ARTESIANOS COMUNITÁRIOS NA ZONA RURAL\nDO MUNICÍPIO",
+            "empresa": "INDÚSTRIA YVEL LTDA",
+            "valor_total": "R$ 118,658.80"
+          },
+          {
+            "objeto": "Fornecer PNEUS NOVOS, NÃO ACUDIDOS NA\nLICITAÇÃO ANTERIOR destinados à aplicação na frota própria de\nveículos deste Município",
+            "empresa": "PNEUMAX LTDA",
+            "valor_total": "R$ 115,000.00"
+          },
+          {
+            "objeto": "Executar os serviços de deslocamento de Auxiliar de\nEpidemiologia, para a zona rural do Município, em trabalhos de\ncombate e controle de doenças epidemiológicas, de acordo com os\nparâmetros definidos pela FUNASA, das segundas às sextas-feiras",
+            "empresa": "DANIELLY SILVA RAMOS ALMEIDA",
+            "valor_total": "R$ 4,571.62"
+          },
+          {
+            "objeto": "Executar os serviços de deslocamento de Auxiliar de\nEpidemiologia, para a zona rural do Município, em trabalhos de\ncombate e controle de doenças epidemiológicas, de acordo com os\nparâmetros definidos pela FUNASA, das segundas às sextas-feiras",
+            "empresa": "ANA LEITE SOARES",
+            "valor_total": "R$ 4,568.96"
+          },
+          {
+            "objeto": "Executar os serviços de deslocamento de Auxiliar de\nEpidemiologia, para a zona rural do Município, em trabalhos de\ncombate e controle de doenças epidemiológicas, de acordo com os\nparâmetros definidos pela FUNASA, das segundas às sextas-feiras",
+            "empresa": "ROZILENE BORBUREMA",
+            "valor_total": "R$ 4,567.20"
+          },
+          {
+            "objeto": "Executar os serviços de transporte de Auxiliares e Técnicos\ndaSECRETARIA DE SAÚDE, bem como de correspondências,\ndurante o horário de expediente da Prefeitura, nas zonas urbana e rural\ndo Município, das segundas às sextas-feiras",
+            "empresa": "ANTÔNIO ROBERTO PEREIRA",
+            "valor_total": "R$ 6,811.20"
+          },
+          {
+            "objeto": "Executar os serviços de transporte de Auxiliares e Técnicos\ndaSECRETARIA DE ADMINISTRAÇÃO E FINANÇAS , bem\ncomo de correspondências, durante o horário de expediente da\nPrefeitura, nas zonas urbana e rural do Município, das segundas às\nsextas-feiras",
+            "empresa": "ORIVALDO GONZAGA DA SILVA",
+            "valor_total": "R$ 6,600.00"
+          },
+          {
+            "objeto": "Executar os serviços de transporte de Auxiliares e Técnicos\ndaSECRETARIA DE AÇÃO SOCIAL , bem como de\ncorrespondências, durante o horário de expediente da Prefeitura, nas\nzonas urbana e rural do Município, das segundas às sextas-feiras",
+            "empresa": "AGOSTINHO PEREIRA PINTO NETO",
+            "valor_total": "R$ 6,864.00"
+          },
+          {
+            "objeto": "Executar os serviços de transporte de Auxiliares e Técnicos\ndaSECRETARIA DE OBRAS E SERVIÇOS URBANOS, bem\ncomo de correspondências, durante o horário de expediente da\nPrefeitura, nas zonas urbana e rural do Município, das segundas às\nsextas-feiras",
+            "empresa": "FRANCISCO GUIMARÃES DE LIMA\nPREGÃO PRESENCIAL Nº 022/2015",
+            "valor_total": "R$ 6,591.20"
+          },
+          {
+            "objeto": "Fornecer GÊNEROS ALIMENTÍCIOS\nREMANESCENTES, PARA SEREM UTILIZADOS NA\nMERENDA DAS UNIDADES ESCOLARES DO MUNICÍPIO,\nDURANTE O EXERCÍCIO DE 2015",
+            "empresa": "MEGA MASTER COMERCIAL DE\nALIMENTOS LTDA",
+            "valor_total": "R$ 85,025.00"
+          },
+          {
+            "objeto": "FornecerREFEIÇÕES (CAFÉ E JANTAR), AO LONGO\nDO EXERCÍCIO DE 2015, DESTINADAS AOS MOTORISTAS\nLOTADOS NAS SECRETARIAS DE EDUCAÇÃO, OBRAS,\nSAÚDE E DE AÇÃO SOCIAL, QUE DIARIAMENTE SE\nDESLOCAM PARA A CIDADE DE CAMPINA GRANDE, NOS\nHORÁRIO MATINAL, VESPERTINO E NOTURNO, BEM\nCOMO SERVIDORES DA SECRETARIA DE\nADMINISTRAÇÃO DESIGNADOS A CONDUZIR\nDOCUMENTOS DESTA PREFEITURA COM DESTINO AOS\nÓRGÃOS DA JUSTIÇA, INSTITUIÇÕES FINANCEIRAS E\nOUTROS QUE SE FAÇAM NECESSÁRIOS, SEM FAZER JUS\nÀ DIÁRIAS",
+            "empresa": "POUSADA E RESTAURANTE\nNASCIMENTO LTDA",
+            "valor_total": "R$ 15,300.00"
+          },
+          {
+            "objeto": "Promover a apresentação musical com aBANDA FORRÓ\nDO GAROTINHO, de sua responsabilidade,no dia 01 de Maio de\n2015, para apresentação em Praça Pública, no Largo da Praça Bom\nJesus, pela passagem do 21.º ANIVERSÁRIO DE EMANCIPAÇÃO\nPOLÍTICA DO MUNICÍPIO",
+            "empresa": "JEANDRO RODRIGUES FIRMINO",
+            "valor_total": "R$ 2,500.00"
+          },
+          {
+            "objeto": "Promover apresentação de show musical em Praça Pública,\nno Largo da Praça Bom Jesus, comFORRÓ BAKANA ,no dia 01 de\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             7\n\nMAIO de 2015, dentro da programação dos festejos alusivos ao21.º\nANIVERSÁRIO DE EMANCIPAÇÃO POLÍTICA do Município",
+            "empresa": "FORRÓ BAKANA PRODUÇÕES E\nEVENTOS LTDA",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Promover apresentação de show musical em Praça Pública,\nno Largo da Praça Bom Jesus, com BANDA FERAS DE\nPARELHAS,no dia 01 de MAIO de 2015, dentro da programação\ndos festejos alusivos ao 21.º ANIVERSÁRIO DE EMANCIPAÇÃO\nPOLÍTICA  do Município",
+            "empresa": "ADONIS ARAÚJO DE ASSIS",
+            "valor_total": "R$ 13,000.00"
+          },
+          {
+            "objeto": "Fornecimento deINFRA-ESTRUTURA NECESSÁRIA À\nREALIZAÇÃO DOS EVENTOS PROMOVIDOS POR ESTE\nMUNICÍPIO",
+            "empresa": "DENISE MOURA DO NASCIMENTO ME",
+            "valor_total": "R$ 60,930.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 7,
+        "total_gasto": 304326.57,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 8,
+        "total_gasto": 163888.40000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 100516.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 127107.9,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 219716.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 80559.2,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 241149.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 12,
+        "total_gasto": 179427.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 144,
+        "num_contratos": 179,
+        "total_gasto": 7606794.500000006
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 1633242.16,
+        "empresas_mensais": [
+          {
+            "objeto": "PRESTARÁ OS SERVIÇOS DE CONTABILIDADE\nPARA ACOMPANHEMENTO, ORIENTAÇÃO DA\nELABORAÇÃO DE BALANCETE MESAIS E ELABORAÇÃO DA\nPRESTAÇÃO DE CONTAS ANUAL DO EXERCÍCIO 2016 DO\nFUNDO MUNICIPAL DE PREVIDÊNCIA SOCIAL DO\nMUNICÍPIO DE BOA VISTA – FUSEM E DEMONSTRATIVO\nCONTÁBEIS PARA O MINISTÉRIO DA PREVIDÊNCIA SOCIAL,\nAO LONGO DO PRESENTE EXERCÍCIO",
+            "empresa": "A EMPRESA ELCON",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 64,
+        "total_gasto": 2862470.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 597822.6499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 20,
+        "total_gasto": 1216354.29,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 16,
+        "total_gasto": 217916.55000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 13,
+        "total_gasto": 252219.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 28800.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 180075.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 160844.28999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 9,
+        "total_gasto": 218352.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 59270.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 22,
+        "num_contratos": 2,
+        "total_gasto": 259191.41999999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 178,
+        "num_contratos": 215,
+        "total_gasto": 11437153.459999999
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 1183595.6,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 87,
+        "total_gasto": 3733245.8999999994,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 26,
+        "total_gasto": 1546640.4799999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 22,
+        "total_gasto": 2490950.4299999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 7,
+        "total_gasto": 1110014.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 9,
+        "total_gasto": 234344.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 185926.66,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 17,
+        "total_gasto": 319755.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 9,
+        "total_gasto": 204314.68000000002,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 87824.3,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 81349.82,
+        "empresas_mensais": [
+          {
+            "objeto": "ACRÉSCIMO DE 25%\n\n(VINTE E CINCO) AO",
+            "empresa": "NORDESTE COMÉRCIO DE PEÇAS E\n\nSERVIÇOS LTDA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 21,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE SERVIÇOS DE\n\nABASTECIMENTO D’ÁGUA ATRAVÉS DE CARRO PIPA",
+            "empresa": "HERMÍNIO GOMES BARBOSA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 165,
+        "num_contratos": 185,
+        "total_gasto": 10396207.47
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 17,
+        "total_gasto": 1687750.8599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 43,
+        "total_gasto": 3793427.3700000006,
+        "empresas_mensais": [
+          {
+            "objeto": "LOCAÇÃO DE CILINDRO DE OXIGÊNIO COM\nKIT DE CONCENTRADOR PARA PACIENTES\nCADASTRADOS JUNTO À SECRETARIA MUNICIPAL DA\nSAÚDE E CARGA DE OXIGÊNIO GASOSO MEDICINAL\nDESTINADO AO PRONTO ATENDIMENTO, UNIDADE DE\n\nSAÚDE DA FAMÍLIA E AMBULÂNCIAS DA SECRETARIA\nMUNICIPAL DA SAÚDE",
+            "empresa": "JR COMÉRCIO E SERVIÇOS DE GASES\nLOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+            "valor_total": "R$ 7,851.04"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 14,
+        "total_gasto": 819709.3099999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 51,
+        "total_gasto": 1171085.45,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1109469.5099999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 8,
+        "total_gasto": 943060.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 2275.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 16,
+        "total_gasto": 214417.76,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 92111.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 359250.0,
+        "empresas_mensais": [
+          {
+            "objeto": "SERVIÇOS DE TRANSPORTE ESCOLAR, DE\n\nPROPRIEDADE DA EMPRESA DAVIDSON KUERTEN DA\n\nSILVA BARBOSA, DAS LOCALIDADES RABICHA, JUÁ, SÃO\n\nPEDRO, LAGOA, CATOLÉ DE BOA VISTA, SETOR DE\n\nANTONIO DE DADA, SETOR DE ZEZINHO GONZAGA,\n\nASSENTAMENTO MALHADA (PAREDÃO) E GERALDO\n\nCARDOSO PARA O GRUPO SEVERINO TAVARES DA\n\nSILVA, NO HORÁRIO MANHÃ, PELO PERÍODO DE 28 DIAS,\n\nPARA CONCLUSÃO DO ANO LETIVO",
+            "empresa": "DAVIDSON KUERTEN DA SILVA\n\nBARBOSA",
+            "valor_total": "R$ 6,734.00"
+          },
+          {
+            "objeto": "Realização de SHOW ARTÍSTICO COM A BANDA\n\nGEGÊ BISMARCK, DE CONSAGRAÇÃO REGIONAL, PARA\n\nAPRESENTAÇÃO NO DIA 25 DE NOVEMBRO DE 2018 - EM\n\nPRAÇA PÚBLICA (NO CORETO DA PRAÇA BOM JESUS),\n\nDURANTE AS COMEMORAÇÕES ALUSIVAS À FESTA DO\n\nBOM JESUS DOS MARTÍRIOS – PADROEIRO DO MUNICÍPIO,\n\nINSTITUÍDA PATRIMÔNIO CULTURAL DE NATUREZA\n\nIMATERIAL, DE ACORDO COM A LEI 403/2011, DE 29 DE\n\nDEZEMBRO DE 2011",
+            "empresa": "RUI BARBOSA MACIEL",
+            "valor_total": "R$ 7,500.00"
+          },
+          {
+            "objeto": "SISTEMA DE REGISTRO DE PREÇO PARA\n\nEVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA CONFECÇÃO VISUAL (ADESIVO, PLACAS, PAINÉIS,\n\nIMPRESSÃO DIGITAL EM LONA E IMPRESSÃO DE\n\nOUTDOORS), de forma parcelada, para atender as necessidades da\n\nPrefeitura Municipal de Boa Vista",
+            "empresa": "JOSÉ RENATO DE PAIVA VOGAS",
+            "valor_total": "R$ 142,250.00"
+          },
+          {
+            "objeto": "Realizar SHOW ARTÍSTICO COM SAMYA MAIA, DE\n\nCONSAGRAÇÃO REGIONAL, PARA APRESENTAÇÃO NO DIA\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                   7\n\n\n\n23 DE NOVEMBRO DE 2018 - EM PRAÇA PÚBLICA (NO\n\nCORETO DA PRAÇA BOM JESUS), DURANTE AS\n\nCOMEMORAÇÕES ALUSIVAS À FESTA DO BOM JESUS DOS\n\nMARTÍRIOS – PADROEIRO DO MUNICÍPIO, INSTITUÍDA\n\nPATRIMÔNIO CULTURAL DE NATUREZA IMATERIAL, DE\n\nACORDO COM A LEI 403/2011, DE 29 DE DEZEMBRO DE 2011",
+            "empresa": "FORRÓ DA RESENHA SHOWS E\n\nEVENTOS",
+            "valor_total": "R$ 15,000.00"
+          },
+          {
+            "objeto": "Realizar SHOW ARTÍSTICO COM BRASAS DO\n\nFORRÓ, DE CONSAGRAÇÃO REGIONAL, PARA\n\nAPRESENTAÇÃO NO DIA 24 DE NOVEMBRO DE 2018 - EM\n\nPRAÇA PÚBLICA (NO CORETO DA PRAÇA BOM JESUS),\n\nDURANTE AS COMEMORAÇÕES ALUSIVAS À FESTA DO\n\nBOM JESUS DOS MARTÍRIOS – PADROEIRO DO MUNICÍPIO,\n\nINSTITUÍDA PATRIMÔNIO CULTURAL DE NATUREZA\n\nIMATERIAL, DE ACORDO COM A LEI 403/2011, DE 29 DE\n\nDEZEMBRO DE 2011",
+            "empresa": "BRASAS DO FORRÓ COMÉRCIO E\n\nLOCAÇÃO DE MATERIAL LTDA",
+            "valor_total": "R$ 25,000.00"
+          },
+          {
+            "objeto": "Realizar SHOWS ARTÍSTICOS, DE CONSAGRAÇÃO\n\nREGIONAL, PARA APRESENTAÇÕES NOS DIAS 23 E 24 DE\n\nNOVEMBRO DE 2018 - EM PRAÇA PÚBLICA (NO CORETO\n\nDA PRAÇA BOM JESUS), DURANTE AS COMEMORAÇÕES\n\nALUSIVAS À FESTA DO BOM JESUS DOS MARTÍRIOS –\n\nPADROEIRO DO MUNICÍPIO, INSTITUÍDA PATRIMÔNIO\n\nCULTURAL DE NATUREZA IMATERIAL, DE ACORDO\n\nCOM A LEI 403/2011, DE 29 DE DEZEMBRO DE 2011",
+            "empresa": "F3 ENTRETERIMENTOS, LOCACOES E\n\nSERVIÇOS LTDA",
+            "valor_total": "R$ 12,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 203650.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 157,
+        "num_contratos": 173,
+        "total_gasto": 10354843.630000003
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 22,
+        "total_gasto": 2363203.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 27,
+        "total_gasto": 1878189.7800000003,
+        "empresas_mensais": [
+          {
+            "objeto": "PRORROGAÇÃO da\nvigência do Contrato firmado entre as partes em 28/07/2017",
+            "empresa": "SIM ENGENHARIA AMBIENTAL\nEIRELLI",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 43,
+        "total_gasto": 2372445.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 1174023.4699999997,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 389994.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 9,
+        "total_gasto": 321420.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 4,
+        "total_gasto": 81732.20999999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 408164.67,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 375299.92000000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 3,
+        "total_gasto": 71675.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino",
+            "empresa": "DJACI FERREIRA DA SILVA-ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "CLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimento se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo 31/12/2019, terá sua vigência\nprorrogada através de um terceiro termo de aditivo pelo prazo de mais\n6 (SEIS) meses, passando, em decorrência, a se vencer em 30 de\njunho de 2020\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": "FERNANDES BIDO DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino\ndo município de Itaporanga-PB\n\nCLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimento se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo 31/12/2019, terá sua vigência\nprorrogada através do presente aditivo pelo prazo de mais 6 (SEIS)\nmeses, passando, em decorrência, a se vencer em 30 de junho de\n2020\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": "FERNANDO GOMES DA SILVA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino\ndo município de Itaporanga-PB\n\nCLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimento se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo 31/12/2019 terá sua vigência\nprorrogada através do presente aditivo pelo prazo de mais 6 (SEIS)\nmeses, passando, em decorrência, a se vencer em 30 de junho de 2020\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": "JAMAILTON MARTINS DO CARMO\nEIRELLI ME",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino\ndo município de Itaporanga-PB\n\nCLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimento se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo 31/12/2019 terá sua vigência\nprorrogada através de um terceiro termo aditivo pelo prazo de mais 6\n(SEIS) meses, passando, em decorrência, a se vencer em 30 de junho\nde 2020\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": "JOSÉ GERALDO FERREIRA",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino\ndo município de Itaporanga-PB\n\nCLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimentos se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo terá sua vigência prorrogada através\ndo presente aditivo pelo prazo de mais 6 (SEIS) meses, passando, em\ndecorrência, a se vencer em 30 de junho de 2020\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": ":JOSÉ MARCIO FERNANDES",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa especializada para prestar\nserviços de transporte de estudantes da rede municipal de ensino\ndo município de Itaporanga-PB\n\nCLÁUSULA PRIMEIRA – DA PRORROGAÇÃO DA\nVIGÊNCIA E DO VENCIMENTO:\nO contrato particular de prestação de serviços, de que trata preâmbulo,\ncujo vencimentos se dará em 31 de dezembro 2018, e em decorrência\nde um segundo termo de aditivo terá sua vigência prorrogada através\ndo presente aditivo pelo prazo de mais 6 (SEIS) meses, passando, em\ndecorrência, a se vencer em 30 de junho de 2020\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 7\n\n\nCLÁUSULA SEGUNDA – DA RATIFICAÇÃO:\nFicam ratificados os demais termos, cláusulas e condições ajustadas\nno contrato originário, não expressamente alteradas por força do\npresente aditivo, ao que se integra, para todos os efeitos de direito",
+            "empresa": "LAIS BEZERRA GOMES DA SILVA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 12,
+        "num_contratos": 16,
+        "total_gasto": 918695.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Promover a realização de SHOW ARTÍSTICO COM\nNATHAN VINÍCIUS E BANDA, DE CONSAGRAÇÃO\nREGIONAL, PARA APRESENTAÇÃO NO DIA 31 DE\nDEZEMBRO DE 2019 - EM PRAÇA PÚBLICA (NO CORETO\nDA PRAÇA BOM JESUS), DURANTE AS COMEMORAÇÕES\nALUSIVAS À FESTA DE REVÉILLON NO MUNICÍPIO DE\nBOA VISTA",
+            "empresa": "F3 ENTRETERIMENTOS, LOCACOES E\nSERVIÇOS LTDA",
+            "valor_total": "R$ 8,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 179,
+        "num_contratos": 177,
+        "total_gasto": 14619430.669999998
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 24,
+        "total_gasto": 3090085.9400000004,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 53,
+        "total_gasto": 5852802.16,
+        "empresas_mensais": [
+          {
+            "objeto": "fornecer PATRULHA MECANIZADA (TRATOR DE\nPNEUS COM POTÊNCIA A PARTIR DE 85CV, TRAÇÃO 4X4)\nPARA O MUNICÍPIO DE BOA VISTA-PB",
+            "empresa": "TLM COMERCIAL EIRELI",
+            "valor_total": "R$ 113,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 24,
+        "total_gasto": 2164871.96,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 163175.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 15,
+        "total_gasto": 305782.56,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 20,
+        "num_contratos": 7,
+        "total_gasto": 1035277.8899999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 18,
+        "total_gasto": 364081.93,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 302525.92,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 1217926.8099999998,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 11,
+        "num_contratos": 1,
+        "total_gasto": 120160.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 2740.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 11,
+        "total_gasto": 1850208.02,
+        "empresas_mensais": [
+          {
+            "objeto": "Prestar os SERVIÇOS DE CONTABILIDADE PARA\n\nACOMPANHAMENTO, ORIENTAÇÃO DA ELABORAÇÃO DE\n\nBALANCETES MENSAIS e ELABORAÇÃO DA PRESTAÇÃO\n\nDE CONTAS ANUAL DO EXERCÍCIO 2021 DO FUNDO\n\nMUNICIPAL DE PREVIDÊNCIA SOCIAL DO MUNICÍPIO DE\n\nBOA VISTA – FUSEM E DEMONSTRATIVO CONTÁBEIS PARA\n\nO MINISTÉRIO DA PREVIDÊNCIA SOCIAL, AO LONGO DO\n\nPRESENTE EXERCÍCIO",
+            "empresa": "ALISON PAULINELI DA SILVA PINTO",
+            "valor_total": "R$ 36,000.00"
+          },
+          {
+            "objeto": "fornecer COMBUSTÍVEIS PARA SEREM UTILIZADOS\n\nNO ABASTECIMENTO DA FROTA DE VEÍCULOS E\n\nEQUIPAMENTOS DESTE MUNICÍPIO",
+            "empresa": "E. LEITE & CIA",
+            "valor_total": "R$ 1,317,200.00"
+          },
+          {
+            "objeto": "LOCAÇÃO DE MÁQUINA ESCAVADEIRA PC\n\nHIDRÁULICA, PESO OPERACIONAL mínimo de 21000 kg, NÃO\n\nINFERIOR A PC 200",
+            "empresa": "MODERNA LOCACAO E\n\nEMPREENDIMENTOS LTDA",
+            "valor_total": "R$ 193,200.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\n\nDE SERVIÇO DE URBANIZAÇÃO DA RUA MARIA DE\n\nLOURDES PAZ NO MUNICÍPIO DE BOA VISTA (PB)",
+            "empresa": "B. S. CONSTRUÇÕES E SERVIÇOS\n\nEIRELI.",
+            "valor_total": "R$ 56,318.02"
+          },
+          {
+            "objeto": "fornecer MATERIAIS DE INFORMÁTICA PARA\n\nATENDIMENTO NAS DIVERSAS SECRETARIAS MUNICIPAIS",
+            "empresa": "GERALDO VIDAL DA NOBREGA",
+            "valor_total": "R$ 38,800.00"
+          },
+          {
+            "objeto": "fornecer MATERIAIS DE INFORMÁTICA PARA\n\nATENDIMENTO NAS DIVERSAS SECRETARIAS MUNICIPAIS",
+            "empresa": "MULTFORTE COMERCIO E\n\nSUPRIMENTOS DE INFORMATICA LTDA",
+            "valor_total": "R$ 25,200.00"
+          },
+          {
+            "objeto": "fornecer REFEIÇÕES, DESTINADAS AO\n\nATENDIMENTO DAS VÁRIAS SECRETARIAS MUNICIPAIS,\n\nINCLUSIVE AOS QUE SE DESLOCAM PARA A CIDADE DE\n\nCAMPINA GRANDE – PB",
+            "empresa": "LAÉRCIO SOARES DOS SANTOS",
+            "valor_total": "R$ 60,690.00"
+          },
+          {
+            "objeto": "CONTRATAÇÃO DOS SERVIÇOS DE\n\nCONTABILIDADE PARA ACOMPANHAMENTO E\n\nORIENTAÇÃO DA ELABORAÇÃO DE BALANCETES MENSAIS\n\nDA PREFEITURA MUNICIPAL DE BOA VISTA, AO LONGO DO\n\nPRESENTE EXERCÍCIO; BIMESTRALMENTE ELABORAÇÃO\n\nDOS RELATÓRIOS DE EXECUÇÃO ORÇAMENTÁRIA –\n\nREEO’S; SEMESTRALMENTE, ELABORAÇÃO DO RELATÓRIO\n\nDE GESTÃO FISCAL – RGF; ELABORAÇÃO DA LEI DE\n\nDIRETRIZES ORÇAMENTÁRIAS – LDO PARA O EXERCÍCIO\n\n2022; ELABORAÇÃO DA LEI ORÇAMENTÁRIA ANUAL – LOA\n\nE ORÇAMENTO PROGRAMA MUNICIPAL PARA O\n\nEXERCÍCIO 2022; ELABORAÇÃO DO PLANO PLURIANUAL,\n\nPARA O PERÍODO 2022/2026; E ACOMPANHAMENTO\n\nTÉCNICO ESPECIALIZADO NO PLANEJAMENTO\n\nORÇAMENTÁRIO E FINANCEIRO DESTA PREFEITURA\n\nATRAVÉS DA EMISSÃO DE RELATÓRIOS GERENCIAIS",
+            "empresa": "ALISON PAULINELI DA SILVA PINTO",
+            "valor_total": "R$ 90,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 193,
+        "num_contratos": 169,
+        "total_gasto": 14318361.890000004
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 5,
+        "total_gasto": 641126.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 19,
+        "total_gasto": 2208777.0999999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 13,
+        "num_contratos": 44,
+        "total_gasto": 3403457.5599999996,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 26,
+        "total_gasto": 1589020.75,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 18,
+        "total_gasto": 1186105.81,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 10,
+        "total_gasto": 1141085.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 5,
+        "total_gasto": 280846.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 679717.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 759200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 578817.6599999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 133218.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 177,
+        "num_contratos": 203,
+        "total_gasto": 24088999.840000004
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 2877739.3400000003,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 31,
+        "total_gasto": 6726722.15,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 32,
+        "total_gasto": 2577116.62,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 17,
+        "num_contratos": 29,
+        "total_gasto": 2912374.11,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 11,
+        "total_gasto": 860438.06,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 7,
+        "total_gasto": 1631750.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 544338.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 15,
+        "total_gasto": 1156817.74,
+        "empresas_mensais": [
+          {
+            "objeto": "CONSTRUÇÃO DE REDE DE ESGOTO DAS RUAS\n\nPEDRO BARBOSA, PARTES DA RUA CÍCERO PEREIRA DE\n\nFARIAS, ORALDO LEITE E EDNALDO BATISTA",
+            "empresa": "B S CONSTRUÇÕES E SERVIÇOS\n\nEIRELI",
+            "valor_total": "R$ 24,129.50"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 23,
+        "total_gasto": 2926359.07,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 333153.76,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA\n\nPRESTAÇÃO DOS SERVIÇOS DE LOÇÃO DE ESTRUTURA,\n\nDURANTE OS FESTEJOS DE PADROEIRO DO MUNICIPIO DE\n\nBOA VISTA",
+            "empresa": "FAZ TUDO SERVIÇOS E\n\nAGENCIAMENTO DE MÃO DE OBRA LTDA",
+            "valor_total": "R$ 14,800.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 19,
+        "total_gasto": 1408972.9900000002,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO E INSTALAÇÃO DE PERSIANAS\nROMANA BLACKOUT, SEM BANDÔ, para atender os\nGABINETES DOS VEREADORES, PLENÁRIO E AUDITÓRIO",
+            "empresa": "SILVANA LIRA DE CARVALHO BORBA",
+            "valor_total": "R$ 19,800.12"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 556098.0700000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 177,
+        "num_contratos": 187,
+        "total_gasto": 18701023.379999995
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 22,
+        "total_gasto": 3575746.7099999995,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 21,
+        "num_contratos": 45,
+        "total_gasto": 5381284.17,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 4,
+        "total_gasto": 826833.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 16,
+        "num_contratos": 38,
+        "total_gasto": 5022625.47,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 217324.37,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO\n\nDE SERVIÇOS DE ORGANIZAÇÃO, SELEÇÃO E\n\nCATALOGAÇÃO DE TODO O ARQUIVO RETROATIVO DESTA\n\nCASA LEGISLATIVA, EXECUTANDO UMA ORGANIZAÇÃO\n\nPADRONIZADA, ETIQUETANDO, DIGITALIZANDO PARA\n\nALIMENTAR O SISTEMA DE CRIAÇÃO DO ACERVO DIGITAL\n\nDESTA CASA LEGISLATIVA",
+            "empresa": "FRANCUALDO DE FIGUEIROA VIEIRA\n\nSILVA",
+            "valor_total": "R$ 15,762.50"
+          },
+          {
+            "objeto": "A CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA\n\nJURÍDICA PARA ASSESSORAR A COMISSÃO ESPECIAL NA\n\nREVISÃO E ATUALIZAÇÃO DA LEI ORGÂNICA DO\n\nMUNICÍPIO E DO REGIMENTO INTERNO DA CÂMARA DE\n\nVEREADORES E NA ELABORAÇÃO DO CÓDIGO DE ÉTICA E\n\nDECORO PARLAMENTAR DESTA CASA LEGISLATIVA.",
+            "empresa": "DELMAGNO OLIMPIO COSTA",
+            "valor_total": "R$ 12,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 522434.85,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 862292.2300000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 14,
+        "total_gasto": 185006.88,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 41200.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 14,
+        "num_contratos": 9,
+        "total_gasto": 521297.63,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 14,
+        "total_gasto": 988880.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 701621.14,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 167,
+        "num_contratos": 276,
+        "total_gasto": 28335196.540000003
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 26,
+        "total_gasto": 1146135.3900000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 15,
+        "num_contratos": 43,
+        "total_gasto": 5653828.25,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 35,
+        "total_gasto": 4103412.59,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 59,
+        "total_gasto": 4978639.5200000005,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 2393181.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 15,
+        "num_contratos": 30,
+        "total_gasto": 1799379.74,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 14,
+        "num_contratos": 13,
+        "total_gasto": 3060965.65,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 12,
+        "num_contratos": 9,
+        "total_gasto": 768907.7,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 2075107.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 20,
+        "total_gasto": 705608.04,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 22,
+        "total_gasto": 948410.2000000001,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}

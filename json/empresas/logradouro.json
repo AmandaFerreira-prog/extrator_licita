@@ -1,0 +1,897 @@
+{
+  "id": "logradouro",
+  "nome": "Logradouro",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 7,
+        "total_gasto": 1449288.49,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 99,
+        "num_contratos": 71,
+        "total_gasto": 6912521.88
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 9,
+        "total_gasto": 1618584.83,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 11,
+        "total_gasto": 998067.28,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 453082.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 22,
+        "total_gasto": 1102935.7,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para confecção de formulários e\noutros para atender as necessidades da Administração Municipal",
+            "empresa": "Gráfica Futura LTDA -\nME",
+            "valor_total": "R$ 52,475.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "FERNANDO GOMES DA SILVA",
+            "valor_total": "R$ 71,680.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "JOSÉ CLAUDIO PEREIRA DA COSTA -\nR$ 8.330,00; CT Nº 00056/2018",
+            "valor_total": "R$ 71,680.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "CT Nº 00057/2018",
+            "valor_total": "R$ 71,680.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "CT Nº 00058/2018",
+            "valor_total": "R$ 71,680.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "CT\nNº 00059/2018",
+            "valor_total": "R$ 71,680.00"
+          },
+          {
+            "objeto": "Aquisição de gêneros alimentícios da Agricultura Familiar\ne do Empreendedor Familiar Rural, destinados ao atendimento do\nPrograma de Alimentação Escolar/PNAE, até Dezembro de 2018",
+            "empresa": "CT Nº 00060/2018",
+            "valor_total": "R$ 71,680.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 9,
+        "num_contratos": 5,
+        "total_gasto": 126330.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 55037.19,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 6,
+        "total_gasto": 720418.39,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE EMPRESA PARA SERVIÇOS\n\nREMANESCENTES DE CONSTRUÇÃO DE QUADRA COBERTA\n\nCOM VESTIÁRIOS NO MUNICÍPIO DE MASSARANDUBA/PB",
+            "empresa": "TECNOMETAIS CONSTRUÇÕES\n\nMETALICAS",
+            "valor_total": "R$ 424,843.39"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 282888.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 40000.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de Carro Pipa, com capacidade mínima de 07\n\n(sete) M³, com a obrigação de executar o percurso de 50 (cinqüenta)\n\nKm/dia, realizar 03 (três) viagens por dia ou a quantidade de viagens\n\nque forem necessárias, de segunda a sábado, transportando e\n\ndistribuindo água potável nos locais indicados para atendimento\n\nemergencial da população urbana e rural atingida pela estiagem deste\n\nMunicípio de Logradouro PB, conforme ainda Decreto Municipal nº\n\n00016 de 27/07/2018",
+            "empresa": "LUIZ ANTONIO DA SILVA",
+            "valor_total": "R$ 40,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 65890.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parceladas de combustíveis e\nderivados para o abastecimento dos veículos, motocicletas e máquinas\npertencentes a frota da prefeitura municipal de logradouro e ao fundo\nmunicipal de saúde de logradouro",
+            "empresa": "POSTO DE\nCOMBUSTÍVEIS CAIÇARA LTDA. Fica reajustado (acréscimo) o\nvalor do contrato, nos limites permitidos por lei, em",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de pneus,\ncâmaras de ar e protetores de aro, tipo primeira linha, para atender a\nfrota de veículos leves e pesados do município de Logradouro PB",
+            "empresa": "ANTONIO MARCELO PEIXOTO DE MENDONÇA",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 3,
+        "total_gasto": 975815.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de combustíveis para o abastecimento\ndos veículos, motocicletas e máquinas, pertencentes a frota da\nPrefeitura Municipal de Logradouro e ao Fundo Municipal de Saúde\ndeste Município, por 12 (doze) meses",
+            "empresa": "POSTO DE COMBUSTÍVEIS\nCAIÇARA LTDA",
+            "valor_total": "R$ 924,683.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 109,
+        "num_contratos": 54,
+        "total_gasto": 3675103.5399999996
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 406691.9,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de gêneros alimentícios para\n\natendimento a Merenda Escolar da rede municipal de ensino deste\n\nMunicípio, bem como todos os setores da Administração Municipal",
+            "empresa": "ROGÉRIO HERCULANO DE\n\nCARVALHO",
+            "valor_total": "R$ 213,170.90"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS DA\n\nFÁRMACIA BÁSICA PARA ATENDER A POPULAÇÃO\n\nCARENTE DO MUNICIPIO",
+            "empresa": "SUFRAMED -\n\nCOMÉRCIO DE MATERIAIS MÉDICO HOSPITALAR LTDA",
+            "valor_total": "R$ 169,521.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS DA\n\nFÁRMACIA BÁSICA PARA ATENDER A POPULAÇÃO\n\nCARENTE DO MUNICIPIO",
+            "empresa": "CIRUFARMA\n\nCOMERCIAL LTDA",
+            "valor_total": "R$ 169,521.00"
+          },
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MEDICAMENTOS DA\n\nFÁRMACIA BÁSICA PARA ATENDER A POPULAÇÃO\n\nCARENTE DO MUNICIPIO",
+            "empresa": "NNMED DISTRIBUIÇÃO IMP EXPORTAÇÃO DE\n\nMEDICAMENTOS LTDA",
+            "valor_total": "R$ 169,521.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 9,
+        "num_contratos": 11,
+        "total_gasto": 560375.35,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 770048.3,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição parcelada de frutas, verduras e hortaliças para\n\nalimentação escolar dos alunos da rede municipal de ensino deste\n\nMunicípio neste ano de 2019",
+            "empresa": "SEVERINA APARECIDA DOS SANTOS\n\nTEIXEIRA",
+            "valor_total": "R$ 23,516.10"
+          },
+          {
+            "objeto": "Aquisição parcelada de pneus, câmaras de ar e protetores\n\nde aro, tipo primeira linha, para atender a frota de veículos leves e\n\npesados do município de Logradouro PB",
+            "empresa": "ANTONIO\n\nMARCELO PEIXOTO DE MENDONÇA",
+            "valor_total": "R$ 392,294.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 2,
+        "total_gasto": 456532.64,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 89700.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 102250.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 241433.55,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 8,
+        "num_contratos": 2,
+        "total_gasto": 32760.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 29300.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços de confecção de Plano de Recuperação de Área\nDegradada (PRAD) para ser implantado neste Município de\nLogradouro",
+            "empresa": "EIXO SOLUÇÕES EM\nGESTÃO PÚBLICA",
+            "valor_total": "R$ 6,500.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 10196.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 9,
+        "num_contratos": 29,
+        "total_gasto": 2103510.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 64,
+        "num_contratos": 74,
+        "total_gasto": 6259956.370000001
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 14,
+        "total_gasto": 1742226.06,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa na área de construção civil\npara execução da obra de construção de um campo de futebol no\nMunicípio de Logradouro",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\nMunicipal de Logradouro e: CT Nº 00053/2019 - J.r.p. Construções e\nComércio Ltda",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 746586.55,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de frutas, verduras e hortaliças",
+            "empresa": "SEVERINA APARECIDA DOS SANTOS TEIXEIRA",
+            "valor_total": "R$ 20,296.30"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 123345.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 87472.4,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 18400.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 63899.6,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa elaboração de projetos",
+            "empresa": "LCL SERVICOS DE ENGENHARIA\nEIRELI",
+            "valor_total": "R$ 16,250.00"
+          },
+          {
+            "objeto": "Contratação de aterro sanitário licenciado para recebimento\ne disposição final de resíduos sólidos urbanos produzidos pelo\nMunicípio de Logradouro",
+            "empresa": "ECOSOLO\nGUARABIRA GESTAO AMBIENTAL DE RESIDUOS LTDA",
+            "valor_total": "R$ 47,649.60"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 517900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 6,
+        "total_gasto": 48216.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de um veículo tipo passeio, 05 passageiros, em\nbom estado de conservação para transportar pacientes portadores de\ndoenças crônicas(câncer) da cidade de Logradouro até o hospital\nNapoleão Laureano na Capital do Estado para fazer tratamento",
+            "empresa": "OTACIANO PEDRO DA SILVA",
+            "valor_total": "R$ 6,900.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 270055.13,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa na área de engenharia civil\npara execução da obra de de construção de um Portal Turístico na\n\nsaída da Cidade de Logradouro para Cidade de Nova Cruz/RN",
+            "empresa": "B&F EDIFICARE ENGENHARIA LTDA",
+            "valor_total": "R$ 111,405.15"
+          },
+          {
+            "objeto": "Contratação de uma empresa na área de construção civil\npara executar a obra de Pavimentação no destrito de Nova Descoberta\nno Município de Logradouro",
+            "empresa": "B&F EDIFICARE\nENGENHARIA LTDA",
+            "valor_total": "R$ 138,249.98"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 279555.13,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 258790.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2021": {
+      "3": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 45,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 67,
+        "num_contratos": 25,
+        "total_gasto": 1448350.87
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 11,
+        "total_gasto": 967535.5499999999,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 14,
+        "total_gasto": 480815.32,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 23,
+        "total_gasto": 3973764.23,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 137,
+        "num_contratos": 110,
+        "total_gasto": 16041974.18
+      },
+      "2": {
+        "num_diarios": 13,
+        "num_contratos": 16,
+        "total_gasto": 2061405.8499999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais de expediente e escolar",
+            "empresa": "MAURILIO DE ALMEIDA MENDES",
+            "valor_total": "R$ 322,433.70"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 2145162.5,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de materiais esportivos",
+            "empresa": "RV COMERCIO E\n\nSERVICOS ADMINISTRATIVOS LTDA",
+            "valor_total": "R$ 208,575.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 773389.42,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação do Show Artístico em praça pública da Banda\n\nDanieze Santiago",
+            "empresa": "CARLOS A S\n\nFONSECA NETO",
+            "valor_total": "R$ 60,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 10,
+        "total_gasto": 907616.95,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de material de construção e similares",
+            "empresa": "A P B DE LIMA\nCRUZ",
+            "valor_total": "R$ 400,800.95"
+          },
+          {
+            "objeto": "Aquisição de material de construção e similares",
+            "empresa": "CARROCERIAS CAVALCANTE COMERCIO DE MADEIRA\nLTDA",
+            "valor_total": "R$ 400,800.95"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 364550.0,
+        "empresas_mensais": [
+          {
+            "objeto": "Aquisição de fogos de artifício para atender aos eventos\n\ncomemorativos do Município de Logradouro",
+            "empresa": "FRANCISCO EDNALDO DE SOUZA\n\nLEITE",
+            "valor_total": "R$ 52,450.00"
+          },
+          {
+            "objeto": "Serviços de Locação de veículos, conforme termo de\n\nreferência",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\n\nLogradouro e: CT Nº 00110/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 6,
+        "total_gasto": 242229.02,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 1475507.43,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 1246107.64,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de um tanque limpa fossa, capacidade mínima\n\nde 8 mil litros, para o recolhimentosdos dejetos de fossas sépticas dos\n\nprédios públicose casas de famílias carentes do município de\n\nLogradouro quando se fizer necessário",
+            "empresa": "ELOISA KARLA\n\nRODRIGUES DE OLIVEIRA",
+            "valor_total": "R$ 55,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 15,
+        "num_contratos": 6,
+        "total_gasto": 1026847.8,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 102569.26,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1722824.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Serviços de Locação de veículos, conforme termo de\nreferência",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura Municipal de\nLogradouro e: CT Nº 00111/2022",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      }
+    },
+    "2024": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 18,
+        "total_gasto": 5793025.97,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO PARCELADA DE MATERIAIS DE\n\nLIMPEZA E HIGIENE",
+            "empresa": "JOELISSON\n\nCAVALCANTE DO NASCIMENTO",
+            "valor_total": "R$ 446,588.05"
+          },
+          {
+            "objeto": "Contratação de empresa para AQUISIÇÃO DE\n\nMATERIAL MÉDICO HOSPITALAR",
+            "empresa": "BIOMED MATERIAIS MEDICOS\n\nHOSPITALARES LTDA",
+            "valor_total": "R$ 708,730.42"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "resumo": {
+        "num_diarios": 68,
+        "num_contratos": 81,
+        "total_gasto": 12003301.299999999
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 1017243.08,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa por inexigibilidade de acordo com\n\no art",
+            "empresa": "- Dar continuidade a\n\nexecução do",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de empresa por inexigibilidade de acordo com\n\no art",
+            "empresa": ". PARTES CONTRATANTES:\n\nPrefeitura Municipal de Logradouro e: CT Nº 00026/2022 - Astec\n\nGroup Contadores Associados S/s Ltda.",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 755910.9700000001,
+        "empresas_mensais": [
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO E\n\nSIMILARES",
+            "empresa": "GUSTAVO XAVIER GARCEZ",
+            "valor_total": "R$ 535,335.55"
+          },
+          {
+            "objeto": "AQUISIÇÃO DE MATERIAL DE CONSTRUÇÃO E\n\nSIMILARES",
+            "empresa": "CT Nº\n\n00013/2024",
+            "valor_total": "R$ 535,335.55"
+          },
+          {
+            "objeto": "Aquisição de peixe in natura e congelado",
+            "empresa": "JOELISSON CAVALCANTE DO NASCIMENTO",
+            "valor_total": "R$ 48,750.00"
+          },
+          {
+            "objeto": "Contratação de empresa no ramo pertinente para serviços\n\nde lavagem de veículos e máquinas pesadas pertencente a esta\n\nEdilidade",
+            "empresa": "DENILSON BENTO FERREIRA",
+            "valor_total": "R$ 55,910.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 22,
+        "total_gasto": 567313.79,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 11,
+        "total_gasto": 1372376.56,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de uma empresa especializada para execução\n\ndos serviços de engenharia, na elaboração de diversos projetos\n\nreferente a pavimentação, ampliação de escola, construção de praças,\n\ndrenagens e outros projetos que se faça necessários e do interesse do\n\nMunicípio de Logradouro",
+            "empresa": "JS\n\nENGENHARIA E SERVICOS LTDA",
+            "valor_total": "R$ 45,000.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "6": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 289752.5,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 21000.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 747260.91,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE UMA EMPRESA DO RAMO\n\nPARA EXECUÇÃO DA OBRA DE PAVIMENTAÇÃO DA\n\nESTRADA VICINAL DA COMUNIDADE OLHO D'ÁGUA, NO\n\nMUNICÍPIO DE LOGRADOURO/PB",
+            "empresa": "LM2 ENGENHARIA LTDA",
+            "valor_total": "R$ 120,259.90"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "9": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 231869.77,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 166230.51,
+        "empresas_mensais": [
+          {
+            "objeto": "CONTRATAÇÃO DE UMA EMPRESA DO RAMO\n\nPERTEINETE PARA EXECUÇÃO DA OBRA REFORMA E\n\nADEQUAÇÃO DE EDIFICAÇÃO PÚBLICA, VISANDO USO\n\nCOMO UNIDADE DE SAÚDE, NO SÍTIO BEIRA–RIO,\n\nMUNICÍPIO DE LOGRADOURO",
+            "empresa": "CONSTRUTORA CRAL SERVICOS LTDA",
+            "valor_total": "R$ 105,928.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 2,
+        "total_gasto": 113417.23999999999,
+        "empresas_mensais": [
+          {
+            "objeto": "Contratação de empresa para fornecimento de materiais\n\ngráficos para melhor atender as necessidades da Administração\n\nMunicipal do Município de Logradouro como também os fundos\n\nmunicipais do Município",
+            "empresa": ". PARTES CONTRATANTES: Prefeitura\n\nMunicipal de Logradouro e: CT Nº 00134/2023",
+            "valor_total": "R$ 0.00"
+          },
+          {
+            "objeto": "Contratação de uma empresa do ramo pertinente para\n\nexecução da obra de Ampliação da EMEF Maria Elói leite",
+            "empresa": ". PARTES\n\nCONTRATANTES: Prefeitura Municipal de Logradouro e: CT Nº\n\n00054/2024 - Moura e Andrade Construtora e Incorporadora Ltda -",
+            "valor_total": "R$ 0.00"
+          }
+        ],
+        "objetos_mensais": []
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 927900.0,
+        "empresas_mensais": [],
+        "objetos_mensais": []
+      }
+    }
+  }
+}
