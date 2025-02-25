@@ -6,7 +6,6 @@ from collections import Counter
 
 os.makedirs("./docs/site/dados", exist_ok=True)
 
-# Dicionário que guarda dados para renderização da página inicial.
 inicial = {}
 geral = {
     "detalhe": {},
@@ -26,7 +25,7 @@ for path in glob.glob("../data/diarios/*-atos.json"):
         for diario in diarios:
             diario = json.loads(diario)
             id_municipio = diario["id"]
-            nome_municipio = diario["municipio"]
+            nome_municipio = diario["municipio"].title()
             data_quebrada = diario["data_publicacao"].split("-")
             ano = int(data_quebrada[0])
             mes = int(data_quebrada[1])
@@ -86,7 +85,6 @@ for id_municipio, dado in inicial.items():
     with open(f"./docs_test/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
         json.dump(dado, json_file, indent=2, default=str, ensure_ascii=False)
 
-# Salvando dados para renderização da página inicial.
 for id_municipio, dado in inicial.items():
-    with open(f"./ocs_dtest/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
+    with open(f"./docs/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
         json.dump(dado, json_file, indent=2, default=str, ensure_ascii=False)
